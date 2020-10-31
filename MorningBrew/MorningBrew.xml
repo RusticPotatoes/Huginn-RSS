@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/10/30/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/10/30/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/10/31/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/10/31/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/10/30</link>
- <lastBuildDate>Fri, 30 Oct 2020 14:40:34 -0700</lastBuildDate>
- <pubDate>Fri, 30 Oct 2020 14:40:34 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/10/31</link>
+ <lastBuildDate>Sat, 31 Oct 2020 03:02:21 -0700</lastBuildDate>
+ <pubDate>Sat, 31 Oct 2020 03:02:21 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>What's Trending This Halloween</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2987/halloween_google_trends.png'&gt;&lt;br/&gt;  What other Halloween trends are we watching this year?   You can see what costumes are the most popular by exploring Google's Frightgeist site. Elizabeth Holmes. Another popular fit?</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/10/30/whats-trending-halloween?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>trends</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/30/whats-trending-halloween?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 31 Oct 2020 03:00:20 -0700</pubDate>
+ </item>
+ <item>
+  <title>heme Parks To Miss out on Halloween Revenue Boost This Year</title>
+  <description>&lt;img src='https://media.giphy.com/media/EhwFIP584mIBa/giphy.gif'&gt;&lt;br/&gt;  Since then, Halloween has turned into a turkey-leg-at-Disney-World-sized revenue driver for the theme park industry.   And parks from Disney World to Busch Gardens report significant Q4 revenue bumps every year thanks to Halloween celebrations.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/10/30/heme-parks-miss-halloween-revenue-boost-year?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/30/heme-parks-miss-halloween-revenue-boost-year?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 31 Oct 2020 03:00:20 -0700</pubDate>
+ </item>
+ <item>
+  <title>Halloween Candy Sales up 8.6%</title>
+  <description>&lt;img src='https://media.giphy.com/media/3HDf5pBcKqiCxT6O3z/giphy.gif'&gt;&lt;br/&gt;  As of Oct. 4, Halloween chocolate and candy sales were up 8.6% annually, according to the National Confectioners Association.   Zoom out: You're not alone in buying Costco packs of chocolate for yourself. It also toned down its Halloween branding to avoid discounting inventory come Nov. 1.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/10/30/halloween-candy-sales-86?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/30/halloween-candy-sales-86?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 31 Oct 2020 03:00:20 -0700</pubDate>
+ </item>
+ <item>
+  <title>Halloween Pop-Up Shops Have Mixed Success In 2020</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2990/spirit_halloween_store.jpg'&gt;&lt;br/&gt;Last year, sales per store declined nearly 21% annually—a major problem for parent Party City considering Halloween sales account for a fifth of its total U.S. retail revenue. Every year, pop-up Halloween stores rise from the underworld to possess empty storefronts vacated by mortal retailers.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/10/30/halloween-popup-shops-mixed-success-2020?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/30/halloween-popup-shops-mixed-success-2020?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 31 Oct 2020 03:00:20 -0700</pubDate>
+ </item>
+ <item>
+  <title>How to Sell a Haunted House</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2991/halloween_haunted_house.jpg'&gt;&lt;br/&gt;  So how do you sell a haunted house?   That seems to be the exception to rule, because haunted houses are typically not an easy sell. Both Lynnewood Hall (dubbed the world's largest haunted house) in Elkins Park, PA, and the house from The Silence of the Lambs are on the market. Depends on the state  In New York, if the seller has "claimed to the public at large" that the house is haunted, he or she must disclose the spooky status to buyers.   Believe it or not, hauntedness is a legal designation in the real estate industry.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/10/30/sell-haunted-house?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>real-estate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/30/sell-haunted-house?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 31 Oct 2020 03:00:19 -0700</pubDate>
+ </item>
  <item>
   <title>What's Trending This Halloween</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2987/halloween_google_trends.png'&gt;&lt;br/&gt;  What other Halloween trends are we watching this year?   You can see what costumes are the most popular by exploring Google's Frightgeist site. Elizabeth Holmes. Another popular fit?</description>
@@ -325,51 +370,6 @@
   <categories>investing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/25/esg-funds-see-record-inflows-questions-around-regulation-remain</guid>
   <pubDate>Wed, 28 Oct 2020 23:06:38 -0700</pubDate>
- </item>
- <item>
-  <title>The Brew Crossword: October 26, 2020</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/303/crossword.jpg'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/25/brew-crossword-october-26-2020</link>
-  <author>Toby Howell</author>
-  <categories>crossword</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/25/brew-crossword-october-26-2020</guid>
-  <pubDate>Wed, 28 Oct 2020 23:06:38 -0700</pubDate>
- </item>
- <item>
-  <title>The Essentials, Issue #76: Live adventurously </title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/498/the_essentials.png'&gt;&lt;br/&gt;.   Stay Sharp  Live on the wild side: Not all of us have the time or willpower to cycle 25,000 miles around the world, but we can all embark on microadventures.   Same interview.   Happy Place    Putt Sakdhnagool/Getty Images This week’s Happy Place is brought to you by Essentials reader Eric.   P.S. Go vote!   Dept. Here’s how to keep up with the 18-year-old pop star who is changing live music:  Read more about her mesmerizing livestream in the High Tea newsletter. Leading Off   Giphy Nobody else can pull off green hair and oversized clothing like Billie Eilish.   Good stuff: I’m about to make your Monday 20x better, especially for all the dog lovers out there.   Behind the screen: While counting down the days until season 2 of The Mandalorian, I’m nerding out about the technology replacing the green screen.   -------- See you on Thursday for a special Halloween issue.   Exercise your rights: In uplifting voting news, an astronaut voted from space, and here’s the liveliest voting line I’ve seen.   On the market: Live out your librarian fantasy by checking out the New York Public Library’s secret apartments.   Insomniac: If you never get in your eight hours, torment yourself with 52 stages of insomnia.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/26/essentials-issue-76-live-adventurously</link>
-  <author>Rachel Cantor</author>
-  <categories>recommendations</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/26/essentials-issue-76-live-adventurously</guid>
-  <pubDate>Wed, 28 Oct 2020 23:06:38 -0700</pubDate>
- </item>
- <item>
-  <title>Ant Group Will Become Largest IPO Ever</title>
-  <description>&lt;img src='https://media.giphy.com/media/2sj0zar9vTpBVQx0VQ/giphy.gif'&gt;&lt;br/&gt;  Our question: If Ant is now going to be the biggest IPO... Valued at around $313 billion, Ant will go public in Hong Kong and Shanghai in the coming weeks...</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/26/ant-group-will-become-largest-ipo-ever</link>
-  <author>Neal Freyman</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/26/ant-group-will-become-largest-ipo-ever</guid>
-  <pubDate>Wed, 28 Oct 2020 23:06:37 -0700</pubDate>
- </item>
- <item>
-  <title>Uber and Lyft are Spending Big on Prop 22</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2068/uber_car_in_a_garage.jpg'&gt;&lt;br/&gt;  What's Prop 22? , that luggage is way too heavy. In other words, Californians are about to vote on the most expensive ballot measure of all time.   And by weight, we mean cash.   Read them here. Will it pass? This article is part of our weeklong series exploring state-level issues in the upcoming election.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/26/uber-lyft-spending-big-prop-22</link>
-  <author>Jamie Wilde</author>
-  <categories>election</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/26/uber-lyft-spending-big-prop-22</guid>
-  <pubDate>Wed, 28 Oct 2020 23:06:37 -0700</pubDate>
- </item>
- <item>
-  <title>Tough Q3, Covid Outlook Wipe $35B From SAP Market Value</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2915/sap.jpg'&gt;&lt;br/&gt;SAP was already dealing with some clouds In the last decade, SAP has moved to join its legacy tech peers IBM and Microsoft aboard the cloud computing bandwagon.   The cloud is cannibalizing the software licensing model SAP used to make its big bucks from. SAP who?   Against the backdrop of rising Covid-19 infections, SAP cutting profit targets and hunkering down for a couple more quarters could be a worrying sign for other tech companies. At least you didn't lose $35 billion (we hope). Think you had an unproductive Monday?</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/26/tough-q3-covid-outlook-wipe-35b-sap-market-value</link>
-  <author>Alex Hickey</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/26/tough-q3-covid-outlook-wipe-35b-sap-market-value</guid>
-  <pubDate>Wed, 28 Oct 2020 23:06:37 -0700</pubDate>
  </item>
 
 </channel>
