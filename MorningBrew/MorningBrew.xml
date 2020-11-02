@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/02</link>
- <lastBuildDate>Mon, 02 Nov 2020 11:23:04 -0800</lastBuildDate>
- <pubDate>Mon, 02 Nov 2020 11:23:04 -0800</pubDate>
+ <lastBuildDate>Mon, 02 Nov 2020 14:47:43 -0800</lastBuildDate>
+ <pubDate>Mon, 02 Nov 2020 14:47:43 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Netflix's 'The Queen's Gambit' is Causing a Surge in Online Chess Play</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/880/how_do_you_do_fellow_kids_meme.jpeg'&gt;&lt;br/&gt;I've always wanted to bring it to the masses," says Hikaru Nakamura, a hugely popular chess streamer on Twitch and the top-ranked blitz chess player in the world.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/02/netflixs-queens-gambit-causing-surge-online-chess-play</link>
+  <author>Toby Howell</author>
+  <categories>trends</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/02/netflixs-queens-gambit-causing-surge-online-chess-play</guid>
+  <pubDate>Mon, 02 Nov 2020 14:45:41 -0800</pubDate>
+ </item>
  <item>
   <title>The Essentials, Issue #78: Care package</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/498/the_essentials.png'&gt;&lt;br/&gt;Leading Off    Giphy This election is giving all of us anxious energy—waking up half an hour before your alarm, over-caffeinating, and binge-eating your leftover Halloween candy.   ------  If you haven’t already, don’t forget to vote!   Happy Place    Mollie K.     Dept.   Cook your way through election week with this meal plan. of Cool Ideas All around the world: Here’s a map that shows you the true size of every country.   25 feel-good movies that are worth the rewatch.   Stay informed: When you’re sick of waking up to “I’m Michael Barbaro, a reporter at the New York Times,” try listening to What A Day—a podcast breaking down the biggest news of the day.   Stay healthy: Every time I take a trip to the grocery store, I’m overwhelmed by all the plant-based milk choices.   Stay rested: If you can’t focus at work and you find yourself plowing through a Netflix series per night, you’re most likely mentally exhausted.   Most of us will need a few tips on how to make the post-election hangover less miserable. I’ll see you on Thursday. Mollie has been living (and trapped) in the Central American country for more than 9 months now. Pop quiz: A fascinating experiment to see how we view history.</description>
@@ -360,15 +369,6 @@
   <author>Eliza Carter</author>
   <categories>big-deal</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/23/heres-deal-joe-biden-amtrak</guid>
-  <pubDate>Wed, 28 Oct 2020 23:06:39 -0700</pubDate>
- </item>
- <item>
-  <title>Tesla Rolls Out “Full-Self Driving” Beta That’s not Full Self-Driving</title>
-  <description>&lt;img src='https://media.giphy.com/media/UQnKf9uzu9oNJ8UEOJ/giphy.gif'&gt;&lt;br/&gt;  + While we’re here: Tesla is recalling nearly 50,000 Model S and X vehicles in China over potentially faulty front and rear suspensions.     What’s “full” self-driving?</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/23/tesla-rolls-fullself-driving-beta-thats-not-full-selfdriving</link>
-  <author>Neal Freyman</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/23/tesla-rolls-fullself-driving-beta-thats-not-full-selfdriving</guid>
   <pubDate>Wed, 28 Oct 2020 23:06:39 -0700</pubDate>
  </item>
 
