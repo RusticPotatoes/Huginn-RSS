@@ -1,16 +1,79 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/10/31/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/10/31/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/02/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/10/31</link>
- <lastBuildDate>Sat, 31 Oct 2020 03:02:21 -0700</lastBuildDate>
- <pubDate>Sat, 31 Oct 2020 03:02:21 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/02</link>
+ <lastBuildDate>Mon, 02 Nov 2020 03:02:16 -0800</lastBuildDate>
+ <pubDate>Mon, 02 Nov 2020 03:02:16 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Historical Performance of the Stock Market Based on Presidential Party</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/931/stock_exchange.jpg'&gt;&lt;br/&gt;  What does that mean for stocks?   Regardless of party, the S&amp;P performs better in a president’s first term than in the second.   Stocks have typically gained more when either party holds a simple majority in the Senate—not more than 60 of the 100 seats.   Bank of America Global Research analyzed historic S&amp;P performance under presidents from both parties.   Investors wish they could take a long weekend in Aruba, but in 2020 there’s no such thing: Tomorrow is Election Day, which will determine what party holds power in D.C. for the next few years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/01/historical-performance-stock-market-based-presidential-party?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>stocks</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/01/historical-performance-stock-market-based-presidential-party?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 02 Nov 2020 03:00:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>The Brew Crossword: High-volume turnout</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2968/crossword.jpg'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/02/brew-crossword-highvolume-turnout</link>
+  <author>Neal Freyman</author>
+  <categories>crossword</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/02/brew-crossword-highvolume-turnout</guid>
+  <pubDate>Sun, 01 Nov 2020 17:45:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>How TV Networks Are Preparing for Election Night 2020</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2996/tv_news.jpg'&gt;&lt;br/&gt;   Bottom line: Don’t tell these networks traditional TV is dead.   A mudslide of early votes. Some tally them as they arrive, but others don’t even start until after polls close.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/02/tv-networks-preparing-election-night-2020</link>
+  <author>Eliza Carter</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/02/tv-networks-preparing-election-night-2020</guid>
+  <pubDate>Sun, 01 Nov 2020 16:50:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Meet the Restaurant Group Buying Dunkin’</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o7TKvUP6spPJ79LPy/giphy.gif'&gt;&lt;br/&gt;  What’s Inspire Brands? The Dunkquisition will nearly triple Inspire’s store footprint, bringing both Dunkin’ Donuts and Baskin Robbins into the fold.     What Dunkin’ brings to the counter: The breakfast market, which was one of the only growing sectors in the restaurant biz before Covid-19 arrived and commutes went kaput.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/02/meet-restaurant-group-buying-dunkin</link>
+  <author>Eliza Carter</author>
+  <categories>manda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/02/meet-restaurant-group-buying-dunkin</guid>
+  <pubDate>Sun, 01 Nov 2020 16:40:17 -0800</pubDate>
+ </item>
+ <item>
+  <title>The Historical Performance of the Stock Market Based on Presidential Party</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/931/stock_exchange.jpg'&gt;&lt;br/&gt;  Regardless of party, the S&amp;P performs better in a president’s first term than in the second.   What does that mean for stocks?   Stocks have typically gained more when either party holds a simple majority in the Senate—not more than 60 of the 100 seats.   BofA Global Research analyzed historic S&amp;P performance under presidents from both parties.   Investors wish they could take a long weekend in Aruba, but in 2020 there’s no such thing: Tomorrow is Election Day, which will determine what party holds power in D.C. for the next few years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/01/historical-performance-stock-market-based-presidential-party</link>
+  <author>Neal Freyman</author>
+  <categories>stocks</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/01/historical-performance-stock-market-based-presidential-party</guid>
+  <pubDate>Sun, 01 Nov 2020 15:30:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>The Week Ahead: November 2</title>
+  <description>&lt;img src='https://media.giphy.com/media/cuD251aw8zLsk/giphy.gif'&gt;&lt;br/&gt; </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/01/week-ahead-november-2</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/01/week-ahead-november-2</guid>
+  <pubDate>Sun, 01 Nov 2020 15:30:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>Some Retailers Board Up Shops Ahead of Election Day</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2191/time_to_vote_election_store_closure.jpg'&gt;&lt;br/&gt; </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/01/retailers-board-shops-ahead-election-day</link>
+  <author>Neal Freyman</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/01/retailers-board-shops-ahead-election-day</guid>
+  <pubDate>Sun, 01 Nov 2020 06:20:38 -0800</pubDate>
+ </item>
  <item>
   <title>What's Trending This Halloween</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2987/halloween_google_trends.png'&gt;&lt;br/&gt;  What other Halloween trends are we watching this year?   You can see what costumes are the most popular by exploring Google's Frightgeist site. Elizabeth Holmes. Another popular fit?</description>
@@ -307,69 +370,6 @@
   <categories>international</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/23/international-news-roundup</guid>
   <pubDate>Wed, 28 Oct 2020 23:06:39 -0700</pubDate>
- </item>
- <item>
-  <title>TikTok Faces Its First Moderation Test With the Election Looming</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2892/tiktok_election_voting_sign.jpg'&gt;&lt;br/&gt;TikTok has never allowed political ads, and no major U.S. politician has a TikTok account (even if a dance battle might speed up stimulus talks).   TikTok’s attempts to depoliticize itself while its users flood the platform with political content is an issue that its competitors have been dealing with for years.   But like that one uncle at Thanksgiving TikTok’s users just won’t stay out of politics.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/23/tiktok-faces-first-moderation-test-election-looming</link>
-  <author>Toby Howell</author>
-  <categories>social-media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/23/tiktok-faces-first-moderation-test-election-looming</guid>
-  <pubDate>Wed, 28 Oct 2020 23:06:39 -0700</pubDate>
- </item>
- <item>
-  <title>Snapchat Crushed Earnings and Keeps Cruising Upwards</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2893/snap_s_all-time_stock_chart.png'&gt;&lt;br/&gt;  Analysts expected the slump to continue into Q3, but Snap streaked in the opposite direction by adding 11 million daily active users—which matched its first-quarter haul.   Bottom line: Snap’s stock is now up a very Zoom-esque ~158% on the year.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/23/snapchat-crushed-earnings-keeps-cruising-upwards</link>
-  <author>Toby Howell</author>
-  <categories>stocks</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/23/snapchat-crushed-earnings-keeps-cruising-upwards</guid>
-  <pubDate>Wed, 28 Oct 2020 23:06:39 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: October 26</title>
-  <description>&lt;img src='https://media.giphy.com/media/xMX9FqEyAAGis/giphy.gif'&gt;&lt;br/&gt;testimony from Zuck, Jack Dorsey, and Sundar Pichai; earnings (Boeing, UPS, Gilead, Pinterest) Thursday: Q3 GDP data; earnings (Apple, Alphabet, Facebook, Twitter, Starbucks, Activision Blizzard); Halloween Eve Eve Friday: ExxonMobil earnings; The Mandalorian returns for Season 2; new Ariana Grande album; Halloween Eve  Saturday: Halloween </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/25/week-ahead-october-26</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/25/week-ahead-october-26</guid>
-  <pubDate>Wed, 28 Oct 2020 23:06:39 -0700</pubDate>
- </item>
- <item>
-  <title>Third Wave of Covid-19 Threatens U.S. Businesses</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2895/the_covid_tracking_project.jpeg'&gt;&lt;br/&gt;  But with a record 83,000+ new cases reported both Friday and Saturday, a third wave of Covid-19 is already battering the country and threatening an uneven recovery for U.S. businesses.   In Europe, where cases have more than doubled in the last 10 days, Italy is requiring bars and restaurants to close early beginning today—its most intense restrictions since lifting lockdowns this spring.     Like the U.S., some countries are dealing with protests against new restrictions.   Plus, people are worried how well Covid will hit it off with the flu. Spain enacted a nightly curfew yesterday and will allow local authorities to restrict regional travel.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/25/third-wave-covid19-threatens-us-businesses</link>
-  <author>Alex Hickey</author>
-  <categories>public-health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/25/third-wave-covid19-threatens-us-businesses</guid>
-  <pubDate>Wed, 28 Oct 2020 23:06:39 -0700</pubDate>
- </item>
- <item>
-  <title>Pot Legalization: 5 More States Toke Up the Issue</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2503/big_weed_nugget.jpg'&gt;&lt;br/&gt;  The state of play Eleven states plus D.C. have legalized recreational pot.   Next week, residents of five states—Arizona, Montana, New Jersey, South Dakota, and Mississippi—will vote on various legalization measures.     Voters may be eyeing the economic windfall that legalization can provide. Any suggestion otherwise stems chiefly from slander.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/25/pot-legalization-5-states-toke-issue</link>
-  <author>Eliza Carter</author>
-  <categories>cannabis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/25/pot-legalization-5-states-toke-issue</guid>
-  <pubDate>Wed, 28 Oct 2020 23:06:38 -0700</pubDate>
- </item>
- <item>
-  <title>Jack Ma Talks Up Ant Group IPO</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2894/salon_viva_technology_201.jpg'&gt;&lt;br/&gt;Ma sees lots of potential. The Chinese billionaire behind Alibaba and Ant Group may have officially retired from his corporate roles, but he's still got plenty of opinions... As for digital currencies?</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/25/jack-ma-talks-ant-group-ipo</link>
-  <author>Neal Freyman</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/25/jack-ma-talks-ant-group-ipo</guid>
-  <pubDate>Wed, 28 Oct 2020 23:06:38 -0700</pubDate>
- </item>
- <item>
-  <title>ESG Funds See Record Inflows, but Questions Around Regulation Remain</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1560/gas_station_green.png'&gt;&lt;br/&gt;ESG funds. These inconsistencies have led to awkward groupings, like fossil fuel company ExxonMobil's inclusion in one of BlackRock's ESG funds. Identifying companies rated highly on ESG metrics is an increasingly popular way for investors to deploy their money "responsibly."   What's ESG?</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/25/esg-funds-see-record-inflows-questions-around-regulation-remain</link>
-  <author>Neal Freyman</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/25/esg-funds-see-record-inflows-questions-around-regulation-remain</guid>
-  <pubDate>Wed, 28 Oct 2020 23:06:38 -0700</pubDate>
  </item>
 
 </channel>
