@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/02</link>
- <lastBuildDate>Mon, 02 Nov 2020 14:47:43 -0800</lastBuildDate>
- <pubDate>Mon, 02 Nov 2020 14:47:43 -0800</pubDate>
+ <lastBuildDate>Mon, 02 Nov 2020 14:52:39 -0800</lastBuildDate>
+ <pubDate>Mon, 02 Nov 2020 14:52:39 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Companies Commit to Making it Easier for Workers to Vote in the Election</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/69/voting_booths.jpg'&gt;&lt;br/&gt;  Zoom out: This Election Day, many workers won't have to make a decision.     And if "encouragement" isn't enough, employers are legally required to give workers time off to vote in 30 states.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/02/companies-commit-making-easier-workers-vote-election</link>
+  <author>Toby Howell</author>
+  <categories>voting</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/02/companies-commit-making-easier-workers-vote-election</guid>
+  <pubDate>Mon, 02 Nov 2020 14:50:39 -0800</pubDate>
+ </item>
  <item>
   <title>Netflix's 'The Queen's Gambit' is Causing a Surge in Online Chess Play</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/880/how_do_you_do_fellow_kids_meme.jpeg'&gt;&lt;br/&gt;I've always wanted to bring it to the masses," says Hikaru Nakamura, a hugely popular chess streamer on Twitch and the top-ranked blitz chess player in the world.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>politics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/23/biden-trump-face-off-final-debate</guid>
-  <pubDate>Wed, 28 Oct 2020 23:06:39 -0700</pubDate>
- </item>
- <item>
-  <title>Here’s the Deal on Joe Biden and Amtrak</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2887/joe_biden_amtrak.jpg'&gt;&lt;br/&gt;  But Amtrak always had a fierce defender in Joe Biden Biden protected Amtrak’s subsidies like Walt and Jesse protected each other against slighted kingpins. Throughout his lengthy career as a politician, Biden has associated himself Rachel-and-Monica-closely with train travel, both as a substantive legislative cause and an element of his folksy brand—to the point where some call him Amtrak Joe.  The first time he ran for president, in 1988, Biden launched his campaign from the back of a train.   He claims to have ridden over 2 million miles on 16,000-ish Amtrak trains.     Here’s the deal, folks: Amtrak is an unusual company  In that it’s actually a company/government agency hybrid, like the Postal Service.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/23/heres-deal-joe-biden-amtrak</link>
-  <author>Eliza Carter</author>
-  <categories>big-deal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/23/heres-deal-joe-biden-amtrak</guid>
   <pubDate>Wed, 28 Oct 2020 23:06:39 -0700</pubDate>
  </item>
 
