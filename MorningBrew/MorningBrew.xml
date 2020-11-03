@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/02/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/03/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/02</link>
- <lastBuildDate>Mon, 02 Nov 2020 14:52:39 -0800</lastBuildDate>
- <pubDate>Mon, 02 Nov 2020 14:52:39 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/03</link>
+ <lastBuildDate>Tue, 03 Nov 2020 03:02:41 -0800</lastBuildDate>
+ <pubDate>Tue, 03 Nov 2020 03:02:41 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Major Mall Landlords File For Bankruptcy Amid Broader Retail Wipeout</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3013/mall_meme.png'&gt;&lt;br/&gt;  During the strictest lockdown periods in the spring, Tennessee-based CBL barely collected any rent—just 27% of what it was owed in April and a third in May. Zoom out: Malls in general are in bad shape, but CBL and PREIT in particular?</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/02/major-mall-landlords-file-bankruptcy-amid-broader-retail-wipeout?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/02/major-mall-landlords-file-bankruptcy-amid-broader-retail-wipeout?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 03 Nov 2020 03:00:39 -0800</pubDate>
+ </item>
  <item>
   <title>Companies Commit to Making it Easier for Workers to Vote in the Election</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/69/voting_booths.jpg'&gt;&lt;br/&gt;  Zoom out: This Election Day, many workers won't have to make a decision.     And if "encouragement" isn't enough, employers are legally required to give workers time off to vote in 30 states.</description>
@@ -361,15 +370,6 @@
   <categories>investing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/29/perfect-investment-not-exist</guid>
   <pubDate>Thu, 29 Oct 2020 07:00:32 -0700</pubDate>
- </item>
- <item>
-  <title>Biden, Trump Face Off in FInal Debate</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2881/final_presidential_debate_2020.jpg'&gt;&lt;br/&gt;  Zoom out: For the 45+ million Americans who already voted, this debate didn’t change much. Trump said Biden would "destroy the oil industry."   Climate: Biden said his plan would transition to cleaner industries, create millions of jobs, and get the U.S. to zero emissions. T-minus 11 days for everyone else. No pressure.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/23/biden-trump-face-off-final-debate</link>
-  <author>Alex Hickey</author>
-  <categories>politics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/23/biden-trump-face-off-final-debate</guid>
-  <pubDate>Wed, 28 Oct 2020 23:06:39 -0700</pubDate>
  </item>
 
 </channel>
