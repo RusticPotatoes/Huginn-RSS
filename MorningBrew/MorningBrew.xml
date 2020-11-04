@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/04</link>
- <lastBuildDate>Wed, 04 Nov 2020 14:38:55 -0800</lastBuildDate>
- <pubDate>Wed, 04 Nov 2020 14:38:55 -0800</pubDate>
+ <lastBuildDate>Wed, 04 Nov 2020 14:48:55 -0800</lastBuildDate>
+ <pubDate>Wed, 04 Nov 2020 14:48:55 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Saudi Arabia Lifts Restrictions on Millions of Migrant Laborers</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2022/oilfield_in_saudi_arabia.jpg'&gt;&lt;br/&gt;Yesterday, Saudi Arabia removed longstanding labor restrictions that could affect 10 million migrant workers. Qatar, which is hosting the 2022 World Cup, announced similar labor reforms in August.   It’s also not the first Gulf state to ditch the kafala system.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/04/saudi-arabia-lifts-restrictions-millions-migrant-laborers</link>
+  <author>Neal Freyman</author>
+  <categories>international</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/04/saudi-arabia-lifts-restrictions-millions-migrant-laborers</guid>
+  <pubDate>Wed, 04 Nov 2020 14:46:55 -0800</pubDate>
+ </item>
+ <item>
+  <title>Pokémon Go Made A Record $1 Billion This Year</title>
+  <description>&lt;img src='https://media.giphy.com/media/QsSNR3g6Y9EluloH8A/giphy.gif'&gt;&lt;br/&gt;Widen the lens even further, and all-things-gaming are posting gains amid the pandemic. Newzoo estimates the industry will rake in $77.2 billion in player revenue in 2020, a 13% increase over 2019.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/04/pokmon-go-made-record-1-billion-year</link>
+  <author>Jamie Wilde</author>
+  <categories>videogames</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/04/pokmon-go-made-record-1-billion-year</guid>
+  <pubDate>Wed, 04 Nov 2020 14:46:55 -0800</pubDate>
+ </item>
  <item>
   <title>U.S. Officially Leaves the Paris Agreement</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2487/climate_clock.jpg'&gt;&lt;br/&gt;Joe Biden has pledged to rejoin the Paris Agreement if he’s elected.   How we got here: Leaving the agreement was a key plank in President Trump’s 2016 campaign.   Big picture: In the biz world, the Paris Agreement has been an influential North Star for pollution reduction targets.</description>
@@ -352,24 +370,6 @@
   <categories>food</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/30/halloween-candy-sales-86</guid>
   <pubDate>Tue, 03 Nov 2020 09:29:25 -0800</pubDate>
- </item>
- <item>
-  <title>heme Parks To Miss out on Halloween Revenue Boost This Year</title>
-  <description>&lt;img src='https://media.giphy.com/media/EhwFIP584mIBa/giphy.gif'&gt;&lt;br/&gt;  Since then, Halloween has turned into a turkey-leg-at-Disney-World-sized revenue driver for the theme park industry.   And parks from Disney World to Busch Gardens report significant Q4 revenue bumps every year thanks to Halloween celebrations.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/30/heme-parks-miss-halloween-revenue-boost-year</link>
-  <author>Toby Howell</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/30/heme-parks-miss-halloween-revenue-boost-year</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:24 -0800</pubDate>
- </item>
- <item>
-  <title>Halloween Pop-Up Shops Have Mixed Success In 2020</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2990/spirit_halloween_store.jpg'&gt;&lt;br/&gt;Last year, sales per store declined nearly 21% annually—a major problem for parent Party City considering Halloween sales account for a fifth of its total U.S. retail revenue. Every year, pop-up Halloween stores rise from the underworld to possess empty storefronts vacated by mortal retailers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/30/halloween-popup-shops-mixed-success-2020</link>
-  <author>Jamie Wilde</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/30/halloween-popup-shops-mixed-success-2020</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:24 -0800</pubDate>
  </item>
 
 </channel>
