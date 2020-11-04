@@ -8,9 +8,36 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/04</link>
- <lastBuildDate>Wed, 04 Nov 2020 06:04:01 -0800</lastBuildDate>
- <pubDate>Wed, 04 Nov 2020 06:04:01 -0800</pubDate>
+ <lastBuildDate>Wed, 04 Nov 2020 14:38:55 -0800</lastBuildDate>
+ <pubDate>Wed, 04 Nov 2020 14:38:55 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>U.S. Officially Leaves the Paris Agreement</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2487/climate_clock.jpg'&gt;&lt;br/&gt;Joe Biden has pledged to rejoin the Paris Agreement if he’s elected.   How we got here: Leaving the agreement was a key plank in President Trump’s 2016 campaign.   Big picture: In the biz world, the Paris Agreement has been an influential North Star for pollution reduction targets.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/04/us-officially-leaves-paris-agreement</link>
+  <author>Eliza Carter</author>
+  <categories>climate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/04/us-officially-leaves-paris-agreement</guid>
+  <pubDate>Wed, 04 Nov 2020 14:36:54 -0800</pubDate>
+ </item>
+ <item>
+  <title>Markets, Powered by Big Tech, Shake off Uncertain Election Results</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3031/gridlock_in_d_c.jpg'&gt;&lt;br/&gt;  Stocks went wild Many investors had speculated a “blue wave” of Democratic candidates would sweep across America on election night. While Joe Biden has a much easier path than President Trump to 270 electoral votes, Republicans are expected to retain control of the Senate, setting up potential legislative gridlock between the executive branch and Congress that makes LA rush hour seem tame.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/04/markets-powered-big-tech-shake-off-uncertain-election-results</link>
+  <author>Toby Howell</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/04/markets-powered-big-tech-shake-off-uncertain-election-results</guid>
+  <pubDate>Wed, 04 Nov 2020 14:36:53 -0800</pubDate>
+ </item>
+ <item>
+  <title>Gap Roundly Mocked for Cringey Election Day Unity Tweet</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3032/gap_hoodie.png'&gt;&lt;br/&gt;  The online firestorm will probably discourage other brands from weighing in on the election, the NYT writes.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/04/gap-roundly-mocked-cringey-election-day-unity-tweet</link>
+  <author>Eliza Carter</author>
+  <categories>yikes</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/04/gap-roundly-mocked-cringey-election-day-unity-tweet</guid>
+  <pubDate>Wed, 04 Nov 2020 14:36:53 -0800</pubDate>
+ </item>
  <item>
   <title>Ant Group IPO Scrapped</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3015/ipo_repellant.jpg'&gt;&lt;br/&gt;Ant may still IPO, but it’ll have to pull off some major reorganizing to get right with regulators.   Ant Group and the government are frenemies; the Chinese Communist Party wants to cultivate the country’s capital markets...   But Ant has ruffled some dangerous feathers: the Chinese government’s.</description>
@@ -342,33 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/30/halloween-popup-shops-mixed-success-2020</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:24 -0800</pubDate>
- </item>
- <item>
-  <title>How to Sell a Haunted House</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2991/halloween_haunted_house.jpg'&gt;&lt;br/&gt;  So how do you sell a haunted house?   That seems to be the exception to rule, because haunted houses are typically not an easy sell. Both Lynnewood Hall (dubbed the world's largest haunted house) in Elkins Park, PA, and the house from The Silence of the Lambs are on the market. Depends on the state  In New York, if the seller has "claimed to the public at large" that the house is haunted, he or she must disclose the spooky status to buyers.   Believe it or not, hauntedness is a legal designation in the real estate industry.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/30/sell-haunted-house</link>
-  <author>Eliza Carter</author>
-  <categories>real-estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/30/sell-haunted-house</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:24 -0800</pubDate>
- </item>
- <item>
-  <title>Some Retailers Board Up Shops Ahead of Election Day</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2191/time_to_vote_election_store_closure.jpg'&gt;&lt;br/&gt; </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/01/retailers-board-shops-ahead-election-day</link>
-  <author>Neal Freyman</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/01/retailers-board-shops-ahead-election-day</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:24 -0800</pubDate>
- </item>
- <item>
-  <title>The Historical Performance of the Stock Market Based on Presidential Party</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/931/stock_exchange.jpg'&gt;&lt;br/&gt;  What does that mean for stocks?   Regardless of party, the S&amp;P performs better in a president’s first term than in the second.   Stocks have typically gained more when either party holds a simple majority in the Senate—not more than 60 of the 100 seats.   Bank of America Global Research analyzed historic S&amp;P performance under presidents from both parties.   Investors wish they could take a long weekend in Aruba, but in 2020 there’s no such thing: Tomorrow is Election Day, which will determine what party holds power in D.C. for the next few years.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/01/historical-performance-stock-market-based-presidential-party</link>
-  <author>Neal Freyman</author>
-  <categories>stocks</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/01/historical-performance-stock-market-based-presidential-party</guid>
   <pubDate>Tue, 03 Nov 2020 09:29:24 -0800</pubDate>
  </item>
 
