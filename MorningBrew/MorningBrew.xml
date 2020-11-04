@@ -8,9 +8,54 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/04</link>
- <lastBuildDate>Wed, 04 Nov 2020 05:18:58 -0800</lastBuildDate>
- <pubDate>Wed, 04 Nov 2020 05:18:58 -0800</pubDate>
+ <lastBuildDate>Wed, 04 Nov 2020 06:04:01 -0800</lastBuildDate>
+ <pubDate>Wed, 04 Nov 2020 06:04:01 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Ant Group IPO Scrapped</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3015/ipo_repellant.jpg'&gt;&lt;br/&gt;Ant may still IPO, but it’ll have to pull off some major reorganizing to get right with regulators.   Ant Group and the government are frenemies; the Chinese Communist Party wants to cultivate the country’s capital markets...   But Ant has ruffled some dangerous feathers: the Chinese government’s.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/03/ant-group-ipo-scrapped?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>ipos</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/03/ant-group-ipo-scrapped?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 04 Nov 2020 06:02:00 -0800</pubDate>
+ </item>
+ <item>
+  <title>Election Results From Business-Related State Ballot Measures</title>
+  <description>&lt;img src='https://media.giphy.com/media/4a1BW6oEvxPhK/giphy.gif'&gt;&lt;br/&gt;  Gig economy: Uber, Lyft, and DoorDash’s hugely expensive Prop 22 passed in California.   The ballot measure directly challenged a recent state law that required these companies to classify their drivers as employees, not independent contractors. Or, as state election ballots called them yesterday, propositions.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/03/election-results-businessrelated-state-ballot-measures?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>election</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/03/election-results-businessrelated-state-ballot-measures?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 04 Nov 2020 06:02:00 -0800</pubDate>
+ </item>
+ <item>
+  <title>Photos of Americans Voting on Election Day</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2076/mailbox_with_i_voted_sticker.jpg'&gt;&lt;br/&gt;The Orpheum Theater in Madison, Wisconsin   Andy Manis/Getty Images The Staples Center in Los Angeles   David McNew/Getty Images  Bluegrass in Phoenix, AZ   OLIVIER TOURON/AFP via Getty Images  Watch party in New Orleans    EMILY KASK/AFP via Getty Images</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/03/photos-americans-voting-election-day?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>election</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/03/photos-americans-voting-election-day?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 04 Nov 2020 06:02:00 -0800</pubDate>
+ </item>
+ <item>
+  <title>Majority Control U.S. Senate Still Undecided</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3022/congress.jpg'&gt;&lt;br/&gt;  The backstory: Republicans went into Election Day with a 53-seat Senate majority.   NASA astronaut Mark Kelly pulled off a high-profile W for Dems in Arizona, flipping the state. Democrats retained their majority and may add a few seats.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/03/majority-control-us-senate-still-undecided?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>election</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/03/majority-control-us-senate-still-undecided?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 04 Nov 2020 06:02:00 -0800</pubDate>
+ </item>
+ <item>
+  <title>2020 Presidential Race: A Big Fat TBD</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3021/map_of_electoral_college.png'&gt;&lt;br/&gt;   Biden swept northeastern states while Trump notched wins in typically Republican parts of the South and Midwest.     At one point last night, betting markets that had long favored Biden swung to favor Trump.   Looking ahead...   Where things stand  As of this newsletter’s send time, President Trump had 213 electoral college votes and Joe Biden had 238, per the Associated Press.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/03/2020-presidential-race-big-fat-tbd?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>election</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/03/2020-presidential-race-big-fat-tbd?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 04 Nov 2020 06:02:00 -0800</pubDate>
+ </item>
  <item>
   <title>Ant Group IPO Scrapped</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3015/ipo_repellant.jpg'&gt;&lt;br/&gt;Ant may still IPO, but it’ll have to pull off some major reorganizing to get right with regulators.   Ant Group and the government are frenemies; the Chinese Communist Party wants to cultivate the country’s capital markets...   But Ant has ruffled some dangerous feathers: the Chinese government’s.</description>
@@ -324,51 +369,6 @@
   <author>Neal Freyman</author>
   <categories>stocks</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/01/historical-performance-stock-market-based-presidential-party</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:24 -0800</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: November 2</title>
-  <description>&lt;img src='https://media.giphy.com/media/cuD251aw8zLsk/giphy.gif'&gt;&lt;br/&gt;  Monday: Germany enters its four-week partial lockdown; earnings (Clorox, PayPal)  Tuesday: Election Day Wednesday: Oh boy  Thursday: Fed announcement on interest rates; Ant Group is expected to begin trading publicly; earnings (Square, Uber, Roku, Electronic Arts, Zillow, Alibaba, General Motors, Papa John’s) Friday: October jobs report </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/01/week-ahead-november-2</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/01/week-ahead-november-2</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:24 -0800</pubDate>
- </item>
- <item>
-  <title>Meet the Restaurant Group Buying Dunkin’</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2998/dunkin.jpg'&gt;&lt;br/&gt;  What’s Inspire Brands? The Dunkquisition will nearly triple Inspire’s store footprint, bringing both Dunkin’ Donuts and Baskin Robbins into the fold.     What Dunkin’ brings to the counter: The breakfast market, which was one of the only growing sectors in the restaurant biz before Covid-19 arrived and commutes went kaput.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/02/meet-restaurant-group-buying-dunkin</link>
-  <author>Eliza Carter</author>
-  <categories>manda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/02/meet-restaurant-group-buying-dunkin</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:24 -0800</pubDate>
- </item>
- <item>
-  <title>How TV Networks Are Preparing for Election Night 2020</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2996/tv_news.jpg'&gt;&lt;br/&gt;   Bottom line: Don’t tell these networks traditional TV is dead.   A mudslide of early votes. Some tally them as they arrive, but others don’t even start until after polls close.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/02/tv-networks-preparing-election-night-2020</link>
-  <author>Eliza Carter</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/02/tv-networks-preparing-election-night-2020</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:24 -0800</pubDate>
- </item>
- <item>
-  <title>The Brew Crossword: High-volume turnout</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/303/crossword.jpg'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/02/brew-crossword-highvolume-turnout</link>
-  <author>Neal Freyman</author>
-  <categories>crossword</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/02/brew-crossword-highvolume-turnout</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:24 -0800</pubDate>
- </item>
- <item>
-  <title>Social Media Platforms Have Prepared for a Confusing Election Day</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3012/crazy_day_on_social_media.jpg'&gt;&lt;br/&gt;  The run-up   Russian interference in the 2016 election and subsequent bouts with fake news have forced social media execs to enact new policies targeting misinformation, election interference, and conspiracy theories.   Advertising: Last fall, Twitter and TikTok banned all political ads. In 2020, social media platforms have become a go-to source for election information—and misinformation. Platforms have expanded their arsenals this election cycle to help voters through a confusing time. Slowing virality: Twitter added extra friction to retweets, and Facebook and Instagram are lightly pressing the brake on viral content this week. Think twice about sharing and use the Brew's guide to fact checking social media.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/02/social-media-platforms-prepared-confusing-election-day</link>
-  <author>Alex Hickey</author>
-  <categories>social-media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/02/social-media-platforms-prepared-confusing-election-day</guid>
   <pubDate>Tue, 03 Nov 2020 09:29:24 -0800</pubDate>
  </item>
 
