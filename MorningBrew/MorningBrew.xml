@@ -1,16 +1,97 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/05/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/07/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/05</link>
- <lastBuildDate>Thu, 05 Nov 2020 07:05:04 -0800</lastBuildDate>
- <pubDate>Thu, 05 Nov 2020 07:05:04 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/07</link>
+ <lastBuildDate>Sat, 07 Nov 2020 08:34:14 -0800</lastBuildDate>
+ <pubDate>Sat, 07 Nov 2020 08:34:14 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Essentials, Issue #79: Checkmate</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/498/the_essentials.png'&gt;&lt;br/&gt;    Dept.   R&amp;R   Giphy If you’re in need of comfort: Replace your daily dose of doomscrolling with a glass of red wine and a puzzle in front of a homey crackling fire scene.   Say cheese: In middle school, your profile pic was the be all, end all.   ------ Can we start the weekend early this week?   Calculate: Find out your personal carbon history.    Happy Place    Artie Photography (Artie Ng) / Getty Images Wouldn’t it be nice to just escape to Santorini, Greece, and watch the sunset while munching on a huge chunk of fresh feta?   Mind over matter: When the headlines won’t stop or you find yourself flustered in Costco, try one of these three different breathing methods.   Stay Sharp  Tidy up: I’ve normalized the brown stains on all my coffee mugs, but there’s actually a way to get rid of them.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/05/essentials-issue-79-checkmate</link>
+  <author>Rachel Cantor</author>
+  <categories>recommendations</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/05/essentials-issue-79-checkmate</guid>
+  <pubDate>Sat, 07 Nov 2020 08:32:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Winners of 2020: Yeti, Papa John's</title>
+  <description>&lt;img src='https://media.giphy.com/media/VbAqz4vyXJjkkvZXtH/giphy.gif'&gt;&lt;br/&gt;  Yeti The premium outdoor brand reported revenue up 29% to $295 million and profit up a staggering 126% on increased interest in outdoor activities. It began in 2006 by targeting hunters and anglers, but has since broadened to anyone who likes their coffee warm and their iced tea chilled.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/05/winners-2020-yeti-papa-johns</link>
+  <author>Eliza Carter</author>
+  <categories>earnings</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/05/winners-2020-yeti-papa-johns</guid>
+  <pubDate>Sat, 07 Nov 2020 08:32:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>Fed Leaves Monetary Policy Unchanged Amid Election</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3041/jerome_powell.jpg'&gt;&lt;br/&gt;.   Reminder: The Fed handles monetary policy, manipulating the money supply to shape macroeconomic conditions like inflation and employment.   Big picture: For investors, the Fed chair can be just as (if not more) important than who sits in the Oval Office.    This election has personal implications for Powell While the Fed's Board of Governors has two open seats that require Senate confirmation to fill, they've been empty for years, and the bigger question is who takes over as chair when Powell's term ends February 2022. Even after this election ends in 2135, Powell may not be going anywhere. Mr. Jerome Powell.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/05/fed-leaves-monetary-policy-unchanged-amid-election</link>
+  <author>Alex Hickey</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/05/fed-leaves-monetary-policy-unchanged-amid-election</guid>
+  <pubDate>Sat, 07 Nov 2020 08:32:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>The Brew’s Weekly News Quiz: November 6</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1033/quiz.jpg'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/05/brews-weekly-news-quiz-november-6</link>
+  <author>Jamie Wilde</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/05/brews-weekly-news-quiz-november-6</guid>
+  <pubDate>Sat, 07 Nov 2020 08:32:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>Weed Stocks Rally on Positive Election Results, Exciting Acquisition</title>
+  <description>&lt;img src='https://media.giphy.com/media/Jnx5ztK49mHJe/giphy.gif'&gt;&lt;br/&gt;Aurora was sitting at a four-year low as recently as September after misjudging demand for premium products during the pandemic.   Zoom out: Despite the past week’s good vibes, it’s still been a rough year for marijuana companies.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/06/weed-stocks-rally-positive-election-results-exciting-acquisition</link>
+  <author>Toby Howell</author>
+  <categories>cannabis</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/06/weed-stocks-rally-positive-election-results-exciting-acquisition</guid>
+  <pubDate>Sat, 07 Nov 2020 08:32:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>ESPN Lays Off 300 After Taking a Pandemic Licking</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3038/bristol_ct_-_november_15.jpg'&gt;&lt;br/&gt;    ESPN is paying more than $7 billion for the rights to air live sports in 2020, the NYT writes.   These layoffs reflect the ongoing shuffling of resources.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/05/espn-lays-off-300-taking-pandemic-licking</link>
+  <author>Neal Freyman</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/05/espn-lays-off-300-taking-pandemic-licking</guid>
+  <pubDate>Sat, 07 Nov 2020 08:32:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>The Brew Crossword: Let Me Tell You</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2397/crossword.jpg'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/06/brew-crossword-let-tell</link>
+  <author>Toby Howell</author>
+  <categories>crossword</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/06/brew-crossword-let-tell</guid>
+  <pubDate>Sat, 07 Nov 2020 08:32:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>Denmark Goes to Extreme Lengths to Stamp Out New Virus Mutation</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3050/denmark-health-virus-anim.jpg'&gt;&lt;br/&gt;  The WHO appeared to take a less aggressive tack, reiterating that mutations happen all the time in viruses and that there’s no evidence yet that this variant (which infected 12 people so far) is more dangerous to humans.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/06/denmark-goes-extreme-lengths-stamp-new-virus-mutation</link>
+  <author>Neal Freyman</author>
+  <categories>public-health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/06/denmark-goes-extreme-lengths-stamp-new-virus-mutation</guid>
+  <pubDate>Sat, 07 Nov 2020 08:32:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>Strong Earnings and a new CEO Point to a Bright Future for CVS</title>
+  <description>&lt;img src='https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif'&gt;&lt;br/&gt;The biz is also healthy CVS beat Q3 revenue expectations by about $400 million thanks to a surprisingly robust 6% rise in retail sales compared to last year.   Zoom out: Lynch might be sleeping less than John King when she takes over in February.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/06/strong-earnings-new-ceo-point-bright-future-cvs</link>
+  <author>Toby Howell</author>
+  <categories>c-suite</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/06/strong-earnings-new-ceo-point-bright-future-cvs</guid>
+  <pubDate>Sat, 07 Nov 2020 08:32:12 -0800</pubDate>
+ </item>
  <item>
   <title>Pokémon Go Made A Record $1 Billion This Year</title>
   <description>&lt;img src='https://media.giphy.com/media/QsSNR3g6Y9EluloH8A/giphy.gif'&gt;&lt;br/&gt;Widen the lens even further, and all-things-gaming are posting gains amid the pandemic. Newzoo estimates the industry will rake in $77.2 billion in player revenue in 2020, a 13% increase over 2019.</description>
@@ -289,87 +370,6 @@
   <categories>social-media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/02/social-media-platforms-prepared-confusing-election-day?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 03 Nov 2020 09:29:26 -0800</pubDate>
- </item>
- <item>
-  <title>Why Europe Locked Down—Again</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2951/europe_lockdown.jpg'&gt;&lt;br/&gt;    The moves made the Continent’s stock markets swoon  The Stoxx 600, a pan-European index, suffered its worst one-day drop since September ahead of Macron’s announcement.   France’s neighbor Germany also enacted a partial, month-long lockdown.   Bottom line: The U.S. and Europe have resoundingly failed to hold onto the progress made over the summer against the virus.   The WHO said the European region accounted for almost half of the new Covid-19 cases reported last week. German restaurants, bars, gyms, concert halls, and theaters will close starting Nov. 2.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/28/europe-locked-downagain</link>
-  <author>Eliza Carter</author>
-  <categories>public-health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/28/europe-locked-downagain</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:26 -0800</pubDate>
- </item>
- <item>
-  <title>Heathrow no Longer Europe’s Busiest Airport</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2952/a_british_airways_passenger_jet.jpg'&gt;&lt;br/&gt;Heathrow said it had been overtaken by Charles de Gaulle in Paris as the busiest airport in Europe, with Amsterdam Schiphol and Frankfurt “close behind.”   Passenger testing is important because it allows travelers to avoid long quarantines following a trip.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/28/heathrow-no-longer-europes-busiest-airport</link>
-  <author>Neal Freyman</author>
-  <categories>aviation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/28/heathrow-no-longer-europes-busiest-airport</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:26 -0800</pubDate>
- </item>
- <item>
-  <title>Trump’s Promises to Wisconsin Manufacturing Workers Disappoint</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2953/foxconn.jpg'&gt;&lt;br/&gt;  In 2018, President Trump visited Wisconsin to break ground on what he called “the eighth wonder of the world,” a high-tech manufacturing facility for TV screens that would bring 13,000 jobs and $10 billion in investment to the swing state.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/28/trumps-promises-wisconsin-manufacturing-workers-disappoint</link>
-  <author>Alex Hickey</author>
-  <categories>election</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/28/trumps-promises-wisconsin-manufacturing-workers-disappoint</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:26 -0800</pubDate>
- </item>
- <item>
-  <title>Founder of Utah-Based Tech Company Qualtrics Buys the Utah Jazz</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2954/ryan_smith.jpg'&gt;&lt;br/&gt;In 2018, just before Smith was set to take Qualtrics public at a $5 billion valuation, European software giant SAP offered $8 billion to buy the company, which Smith accepted.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/28/founder-utahbased-tech-company-qualtrics-buys-utah-jazz</link>
-  <author>Toby Howell</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/28/founder-utahbased-tech-company-qualtrics-buys-utah-jazz</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:26 -0800</pubDate>
- </item>
- <item>
-  <title>Google, Facebook, and Twitter CEOs Spar With U.S. Lawmakers over Section 230</title>
-  <description>&lt;img src='https://media.giphy.com/media/32mC2kXYWCsg0/giphy.gif'&gt;&lt;br/&gt;  “Congress should update the law to make sure it’s working as intended.”   Here are the best soundbites from the feisty affair: "Section 230 is the Internet’s most important law for free speech and safety.” Big Tech’s version of the Avengers assembled yesterday, when Twitter CEO Jack Dorsey, Facebook CEO Mark Zuckerberg, and Alphabet CEO Sundar Pichai faced off against a Senate panel over the widespread protections Section 230 offers their tech empires.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/28/google-facebook-twitter-ceos-spar-us-lawmakers-section-230</link>
-  <author>Toby Howell</author>
-  <categories>social-media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/28/google-facebook-twitter-ceos-spar-us-lawmakers-section-230</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:26 -0800</pubDate>
- </item>
- <item>
-  <title>The Perfect Investment Does Not Exist</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2958/primary.jpg'&gt;&lt;br/&gt;Investing in the stock market can feel that way, too.   The market will always ebb and flow, but if you take a long term approach to investing with money you can afford to let sit and grow, the best time to start is still ASAP. Then use your time to stay informed on certain sectors, read up on quarterly earnings reports of big companies, and earmark that cash to invest the next time there’s a market downturn. The idea of perfect timing doesn’t apply to smart investing—leave that to boarding escalators and planning the perfect proposal. It’s human nature to plan for the perfect moment—be it proposing to your partner on a beach with an airplane banner, or landing the perfect step on an escalator at the mall.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/29/perfect-investment-not-exist</link>
-  <author>Morning Brew</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/29/perfect-investment-not-exist</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:26 -0800</pubDate>
- </item>
- <item>
-  <title>The Essentials, Issue #77: Wicked</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/498/the_essentials.png'&gt;&lt;br/&gt;Leading Off    Giphy For those of you who love to get spooked, you might’ve heard of the infamous Corpse Husband (aka Corpse).   Happy Place    Ben Hider / Getty Images Between the handwritten book recs and the tucked-away reading nooks, independent bookstores are definitely one of my Happy Places.      R&amp;R   Portland Press Herald / Getty Images Pre-candy-binge appetizer: RIP to my dinner plans.   -------- See you on Monday when I’ll still be snacking on Halloween candy.   In character: Abby Roberts is TikTok’s Halloween makeup guru.   Stay Sharp  Candy craze: Use these ingenious hacks to (safely) distribute candy to all the Mandalorians and Cobra Kais who come knocking on your door.   Mid-candy-binge horror movie: If you’ve already watched The Shining and Carrie, here’s your next hit list of horror movie recs.   Pre-candy-binge workout: Forget your pasta sauce jar weights—what you need is a pumpkin.   Cooking tip: October is also known as spooky shroom season.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/29/essentials-issue-77wicked</link>
-  <author>Rachel Cantor</author>
-  <categories>recommendations</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/29/essentials-issue-77wicked</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:26 -0800</pubDate>
- </item>
- <item>
-  <title>U.S. GDP Rose 7.4% on Quarterly Basis in Q3</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2971/q3_gdp.jpg'&gt;&lt;br/&gt;Overall, GDP is down 3.5% this year.   On a quarter-to-quarter basis, Q3 GDP rose 7.4%, following a 9% drop in Q2. **Annualized rate: measured as if the economy will continue growing at that pace for a full year. But the third wave of Covid infections and the lack of federal stimulus could be a drag on those numbers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/29/us-gdp-rose-74-quarterly-basis-q3</link>
-  <author>Alex Hickey</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/29/us-gdp-rose-74-quarterly-basis-q3</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:25 -0800</pubDate>
- </item>
- <item>
-  <title>Netflix Raises Price for Standard, Premium Subscriptions</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2973/netflix.jpg'&gt;&lt;br/&gt;  WarnerMedia's HBO Max, which parent company AT&amp;T said has 57 million global subscribers. Netflix is expected to pass 200 million subscribers this year, and those dollars add up.   NBCUniversal's Peacock, which collected nearly 22 million users after three months.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/29/netflix-raises-price-standard-premium-subscriptions</link>
-  <author>Alex Hickey</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/29/netflix-raises-price-standard-premium-subscriptions</guid>
-  <pubDate>Tue, 03 Nov 2020 09:29:25 -0800</pubDate>
  </item>
 
 </channel>
