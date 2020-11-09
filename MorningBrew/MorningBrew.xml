@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/08/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/09/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/08</link>
- <lastBuildDate>Sun, 08 Nov 2020 17:44:09 -0800</lastBuildDate>
- <pubDate>Sun, 08 Nov 2020 17:44:09 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/09</link>
+ <lastBuildDate>Mon, 09 Nov 2020 03:04:14 -0800</lastBuildDate>
+ <pubDate>Mon, 09 Nov 2020 03:04:14 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Week Ahead: November 9</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3058/an_overflowing_cornucopia_and_decorative_gourds.jpg'&gt;&lt;br/&gt;Monday: Earnings (McDonald’s, SoftBank, Beyond Meat) Tuesday: Microsoft launches the new Xbox; Apple’s “One More Thing” event  Wednesday: Veterans Day; the country’s National Parks have free admission  Thursday: Consumer price index inflation data; The Masters begins; Sony launches PlayStation 5; earnings (Palantir, Disney)   Friday: the 13th</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/08/week-ahead-november-9?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/08/week-ahead-november-9?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 09 Nov 2020 03:02:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>Why Ant’s IPO Got Squashed</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3015/ipo_repellant.jpg'&gt;&lt;br/&gt;Overshadowed by, you know, everything last week was the stunning collapse of Ant Group’s IPO.   But Jack Ma decided to speak up. Why it matters: Ma’s comments reflected the tense relationship between China’s growing fintech sector and the traditional financial system.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/08/ants-ipo-got-squashed?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/08/ants-ipo-got-squashed?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 09 Nov 2020 03:02:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>As FLOTUS, Dr. Jill Biden Will Champion Educators</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3056/democratic_presidential_n.jpg'&gt;&lt;br/&gt;  That means education is going to be at the top of her agenda.   We should also mention Doug  Doug Emhoff, to be specific—VP-elect Kamala Harris’s husband. He’ll be the first male spouse of any vice president or president.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/08/flotus-dr-jill-biden-will-champion-educators?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/08/flotus-dr-jill-biden-will-champion-educators?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 09 Nov 2020 03:02:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>Election Aftermath: What Else You Need to Know</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2164/joe_biden.jpg'&gt;&lt;br/&gt;  Day 1: Here are a few stories explaining what Biden’s promised to do on his first day in office.   The cabinet: The level of speculation over who Biden will tap for his cabinet posts rivals NBA free agency, and the Treasury could be the first and nastiest fight.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/09/election-aftermath-else-need-know?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>election</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/election-aftermath-else-need-know?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 09 Nov 2020 03:02:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>Businesses Look Towards a Future Under Biden</title>
+  <description>&lt;img src='https://media.giphy.com/media/xUNd9ZaY6wdUH2ZiGQ/giphy.gif'&gt;&lt;br/&gt;Biden’s said he can’t end the pandemic by “flipping a switch,” but biz leaders hope a more hands-on approach compared to President Trump’s can lead to a quicker economic recovery.   Here are the six things biz leaders want from Biden. No tax hike: Biden has pledged to raise the corporate tax rate, which businesses no-likey. Boringness: Whereas President Trump’s policies fostered a mostly favorable corporate environment, it came with a lot of baggage." Improve trade relations: During his tenure as president, President Trump launched a trade war with China and got into bitter scuffles with longstanding economic partners like the EU.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/09/businesses-look-towards-future-biden?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>policy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/businesses-look-towards-future-biden?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 09 Nov 2020 03:02:12 -0800</pubDate>
+ </item>
  <item>
   <title>Election Aftermath: What Else You Need to Know</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2164/joe_biden.jpg'&gt;&lt;br/&gt;  Day 1: Here are a few stories explaining what Biden’s promised to do on his first day in office.   The cabinet: The level of speculation over who Biden will tap for his cabinet posts rivals NBA free agency, and the Treasury could be the first and nastiest fight.</description>
@@ -325,51 +370,6 @@
   <categories>election</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/03/2020-presidential-race-big-fat-tbd?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 04 Nov 2020 06:02:00 -0800</pubDate>
- </item>
- <item>
-  <title>Ant Group IPO Scrapped</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3015/ipo_repellant.jpg'&gt;&lt;br/&gt;Ant may still IPO, but it’ll have to pull off some major reorganizing to get right with regulators.   Ant Group and the government are frenemies; the Chinese Communist Party wants to cultivate the country’s capital markets...   But Ant has ruffled some dangerous feathers: the Chinese government’s.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/03/ant-group-ipo-scrapped</link>
-  <author>Eliza Carter</author>
-  <categories>ipos</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/03/ant-group-ipo-scrapped</guid>
-  <pubDate>Wed, 04 Nov 2020 05:16:57 -0800</pubDate>
- </item>
- <item>
-  <title>Photos of Americans Voting on Election Day</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2076/mailbox_with_i_voted_sticker.jpg'&gt;&lt;br/&gt;The Orpheum Theater in Madison, Wisconsin   Andy Manis/Getty Images The Staples Center in Los Angeles   David McNew/Getty Images  Bluegrass in Phoenix, AZ   OLIVIER TOURON/AFP via Getty Images  Watch party in New Orleans    EMILY KASK/AFP via Getty Images</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/03/photos-americans-voting-election-day</link>
-  <author>Neal Freyman</author>
-  <categories>election</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/03/photos-americans-voting-election-day</guid>
-  <pubDate>Wed, 04 Nov 2020 05:16:57 -0800</pubDate>
- </item>
- <item>
-  <title>Majority Control U.S. Senate Still Undecided</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3022/congress.jpg'&gt;&lt;br/&gt;  The backstory: Republicans went into Election Day with a 53-seat Senate majority.   NASA astronaut Mark Kelly pulled off a high-profile W for Dems in Arizona, flipping the state. Democrats retained their majority and may add a few seats.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/03/majority-control-us-senate-still-undecided</link>
-  <author>Alex Hickey</author>
-  <categories>election</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/03/majority-control-us-senate-still-undecided</guid>
-  <pubDate>Wed, 04 Nov 2020 05:16:57 -0800</pubDate>
- </item>
- <item>
-  <title>2020 Presidential Race: A Big Fat TBD</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3021/map_of_electoral_college.png'&gt;&lt;br/&gt;   Biden swept northeastern states while Trump notched wins in typically Republican parts of the South and Midwest.     At one point last night, betting markets that had long favored Biden swung to favor Trump.   Looking ahead...   Where things stand  As of this newsletter’s send time, President Trump had 213 electoral college votes and Joe Biden had 238, per the Associated Press.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/03/2020-presidential-race-big-fat-tbd</link>
-  <author>Eliza Carter</author>
-  <categories>election</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/03/2020-presidential-race-big-fat-tbd</guid>
-  <pubDate>Wed, 04 Nov 2020 05:16:57 -0800</pubDate>
- </item>
- <item>
-  <title>Election Results From Business-Related State Ballot Measures</title>
-  <description>&lt;img src='https://media.giphy.com/media/4a1BW6oEvxPhK/giphy.gif'&gt;&lt;br/&gt;  Gig economy: Uber, Lyft, and DoorDash’s hugely expensive Prop 22 passed in California.   The ballot measure directly challenged a recent state law that required these companies to classify their drivers as employees, not independent contractors. Or, as state election ballots called them yesterday, propositions.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/03/election-results-businessrelated-state-ballot-measures</link>
-  <author>Jamie Wilde</author>
-  <categories>election</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/03/election-results-businessrelated-state-ballot-measures</guid>
-  <pubDate>Wed, 04 Nov 2020 05:16:57 -0800</pubDate>
  </item>
 
 </channel>
