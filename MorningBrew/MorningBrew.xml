@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/07/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/08/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/07</link>
- <lastBuildDate>Sat, 07 Nov 2020 22:09:15 -0800</lastBuildDate>
- <pubDate>Sat, 07 Nov 2020 22:09:15 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/08</link>
+ <lastBuildDate>Sun, 08 Nov 2020 16:35:11 -0800</lastBuildDate>
+ <pubDate>Sun, 08 Nov 2020 16:35:11 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>As FLOTUS, Dr. Jill Biden Will Champion Educators</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3056/democratic_presidential_n.jpg'&gt;&lt;br/&gt;  That means education is going to be at the top of her agenda.   We should also mention Doug  Doug Emhoff, to be specific—VP-elect Kamala Harris’s husband. He’ll be the first male spouse of any vice president or president.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/08/flotus-dr-jill-biden-will-champion-educators</link>
+  <author>Neal Freyman</author>
+  <categories>education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/08/flotus-dr-jill-biden-will-champion-educators</guid>
+  <pubDate>Sun, 08 Nov 2020 16:32:09 -0800</pubDate>
+ </item>
  <item>
   <title>Covid-19's Disruption to Contraceptives is Affecting Women Everywhere</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3053/birth_control.jpg'&gt;&lt;br/&gt;  In developing economies...   While birth rates did swing back, fewer births in a given year or two still have big consequences for economic growth and public finances."    WHO Marking the 60th anniversary of the pill's FDA approval, 2020 could have been a year to celebrate economic gains women made thanks to family planning.   I'm talking about birth control. And the economic consequences of that disruption are not felt evenly. But the pandemic has underscored just how fragile access to birth control remains for millions.   Birth busts have followed health and economic scares before, including the Great Recession, the 2003 SARS outbreak in Hong Kong, and the 1918 Spanish flu.   Family planning doesn't just save lives, it saves money. But less access to family planning generally means more harmful health outcomes for mothers and kids. And they're already playing out: Contraceptive access fell by almost half in parts of West Africa compared to 2019, according to the International Planned Parenthood Federation." While you could hack workarounds for those, another item in short supply just doesn't work like that.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>public-health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/27/governments-test-shorter-quarantines-improve-compliance</guid>
-  <pubDate>Tue, 03 Nov 2020 09:46:12 -0800</pubDate>
- </item>
- <item>
-  <title>5 and a 1/2 Steps for Fact Checking Your Social Media Feed</title>
-  <description>&lt;img src='https://media.giphy.com/media/3orieNLnAxzZI9CQzm/giphy.gif'&gt;&lt;br/&gt;    Disneyland2go on Twitter To make sure an account is legit, you can do a cursory scroll for red flags to see if any official websites link to it. It’s best to find the original post and fact check that instead.   You can also fact check an image using techniques from Step 2 and 3: Use Google to research the photo’s background (who’s in it, what’s happening) or look it up on fact-checking sites like Snopes.   The following websites are useful resources to quickly make sure a fact checks out: AP Fact Check and FactCheck are dedicated to verifying/debunking claims, while Snopes specifically tackles viral social media news.   Step 2: Check your source Ask: Who posted this content?   So when you feel extremely emotional about a post, rein in your urge to click, and continue your fact check.   If a visualization seems suspicious for any of the above reasons, or if it’s just too crazy to be true, you can reverse image search the same way you would any other image. Is the data all from one source, or multiple? 🚩: Stats, graphs, and charts that tug violently at your emotions    Data is Ugly on Reddit Do: Make sure any charts you’re looking at are set up in a way that isn’t misleading, like the one above.   Many doctored images fit a pattern.   The Media Manipulation Casebook is like its own degree in fact-checking. 🚩 Famous people doing things that feel out of character; any text on the image (especially on a white background); no photographer/website credited   archive.   Case study: You don’t need to be a pro YouTuber to create viral fake news. Even if the people behind the account are who they say they are, it’s important to check that they are who you think they are.   Detecting deepfakes is so complicated that our recommendation really is just to be skeptical and check everything else you can in the post.   Netflix’s The Social Dilemma is a good doc for learning more about algorithms. If Uber posts about Prop 22 (a ballot measure that directly impacts their business), it’s best to check another, independent source like a local newspaper. Step 4a: Verify the image Ask: When was this image taken? One of the best ways to debunk a fake photo like this one is to reverse image search it on Google.   As we barrel roll toward the election, the news you read on social media won’t just affect your vote, but liking or sharing it could send posts spiraling into the East Australian Current that is going viral.   Facebook has been taken to court for the misinformation spread like peanut butter across its platforms, while Twitter’s war on fake news has led to many dustups with POTUS—most recently over a blocked New York Post article about Joe Biden.   If the source is shady or the post takes you on that emotional roller coaster I mentioned earlier, take it with a grain of salt or go into full fact-checking mode.   Go Deeper Read between the lines by learning how to spot logical fallacies.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/28/5-12-steps-fact-checking-social-media-feed</link>
-  <author>Jamie Wilde</author>
-  <categories>guide</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/28/5-12-steps-fact-checking-social-media-feed</guid>
   <pubDate>Tue, 03 Nov 2020 09:46:12 -0800</pubDate>
  </item>
 
