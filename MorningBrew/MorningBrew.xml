@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/08</link>
- <lastBuildDate>Sun, 08 Nov 2020 17:39:13 -0800</lastBuildDate>
- <pubDate>Sun, 08 Nov 2020 17:39:13 -0800</pubDate>
+ <lastBuildDate>Sun, 08 Nov 2020 17:44:09 -0800</lastBuildDate>
+ <pubDate>Sun, 08 Nov 2020 17:44:09 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Election Aftermath: What Else You Need to Know</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2164/joe_biden.jpg'&gt;&lt;br/&gt;  Day 1: Here are a few stories explaining what Biden’s promised to do on his first day in office.   The cabinet: The level of speculation over who Biden will tap for his cabinet posts rivals NBA free agency, and the Treasury could be the first and nastiest fight.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/09/election-aftermath-else-need-know</link>
+  <author>Neal Freyman</author>
+  <categories>election</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/election-aftermath-else-need-know</guid>
+  <pubDate>Sun, 08 Nov 2020 17:41:09 -0800</pubDate>
+ </item>
  <item>
   <title>Why Ant’s IPO Got Squashed</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3015/ipo_repellant.jpg'&gt;&lt;br/&gt;Overshadowed by, you know, everything last week was the stunning collapse of Ant Group’s IPO.   But Jack Ma decided to speak up. Why it matters: Ma’s comments reflected the tense relationship between China’s growing fintech sector and the traditional financial system.</description>
@@ -361,15 +370,6 @@
   <categories>election</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/03/election-results-businessrelated-state-ballot-measures</guid>
   <pubDate>Wed, 04 Nov 2020 05:16:57 -0800</pubDate>
- </item>
- <item>
-  <title>How to Get Morning Brew Swag for Free</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2962/referral_cycle.jpg'&gt;&lt;br/&gt;  Before we start, you can find your unique referral link at the bottom of the Brew each day.   Here are 6 strategies for racking up referrals and getting free Brew swag just in time for the holidays. That’s because when you hit certain referral milestones, we’ll send you Morning Brew swag, like a mug or even a sweatshirt.   To a copywriter named Rob Allen, the undisputed king of Brew referrals with well over 3,000 to his name, Quora is a nonstop referral generator.   2. Do what this guy did   Giphy  To most people, Quora is just a popular site people visit to ask questions and find answers to every subject under the sun. But using your group chats to sign people up for the Brew can actually be a referral magnet.   You can read Rob’s blog post about his referral conquest here, but the short version goes like this: he identified a commonly asked question about the stock market, answered it intelligently, added his referral link at the bottom of his answer, then watched the referrals pour in as his post earned over 180,000 page views.   6.   5.   4.   1. Let the Brew sell itself. Do what Alex and Austin did   Sara Hillstrom The cofounders of the Brew know a thing or three about getting email signups.   Once people have taken the bait and interacted with the screenshot (or even if they haven’t), hit them with a follow-up text saying “Btw, if you want to sign up for the Brew, here’s the link.”   And if you get in trouble...</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/10/27/get-morning-brew-swag-free</link>
-  <author>Toby Howell</author>
-  <categories>referrals</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/27/get-morning-brew-swag-free</guid>
-  <pubDate>Tue, 03 Nov 2020 09:46:13 -0800</pubDate>
  </item>
 
 </channel>
