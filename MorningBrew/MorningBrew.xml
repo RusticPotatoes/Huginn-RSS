@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/09/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/10/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/09</link>
- <lastBuildDate>Mon, 09 Nov 2020 14:59:14 -0800</lastBuildDate>
- <pubDate>Mon, 09 Nov 2020 14:59:14 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/10</link>
+ <lastBuildDate>Tue, 10 Nov 2020 03:05:07 -0800</lastBuildDate>
+ <pubDate>Tue, 10 Nov 2020 03:05:07 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>McDonald's Announces Plant-Based Meat Line, McPlant</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2281/mcdonald_s.jpg'&gt;&lt;br/&gt;  McDonald's will join rivals like Burger King (Impossible Whopper) and Dunkin' (Beyond Sausage) in changing its menu to match increased consumer demand for veggie alternatives.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/09/mcdonalds-announces-plantbased-meat-line-mcplant?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/mcdonalds-announces-plantbased-meat-line-mcplant?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 10 Nov 2020 03:02:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>Supreme Court Hears Arguments to Decide Fate of the ACA</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/858/supreme_court.jpg'&gt;&lt;br/&gt;  A federal district judge agreed, it got appealed, and now the defendants (20 blue states led by California) want the Supreme Court to step in.   Will they?</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/09/supreme-court-hears-arguments-decide-fate-aca?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>legal</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/supreme-court-hears-arguments-decide-fate-aca?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 10 Nov 2020 03:02:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>Pfizer's Vaccine News Has Investors Eyeing a Future With the Coronavirus Under Control</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3077/kombucha_girl.jpg'&gt;&lt;br/&gt;    Zoom out: While Pfizer's vaccine appears to speed up timelines, there's still a ways to go before we control the pandemic and any of these violent intraday swings solidify into long-term trends.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/09/pfizers-vaccine-news-investors-eyeing-future-coronavirus-control?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>stocks</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/pfizers-vaccine-news-investors-eyeing-future-coronavirus-control?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 10 Nov 2020 03:02:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>Pfizer's Covid-19 Vaccine Posts Promising Results</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3074/vaccine.jpg'&gt;&lt;br/&gt;  The trial: Over a three-week period, researchers administered two vaccine doses to 43,538 volunteers; around half received the vaccine, the other half placebos. Yesterday morning, Pfizer said its Covid-19 vaccine was over 90% effective in late-stage clinical trials.   Next steps The FDA needs follow-up data to make sure Pfizer's vaccine isn't making participants grow tails.   If it gets it, Pfizer says it can produce 50 million doses by the end of 2020 and 1.3 billion in 2021.   We don't know if the vaccine prevents asymptomatic transmission or severe Covid cases that cause hospitalization. And an effective vaccine can't come fast enough. Pfizer's product is harder to move around than an octopus ice sculpture.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/09/pfizers-covid19-vaccine-posts-promising-results?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>healthcare</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/pfizers-covid19-vaccine-posts-promising-results?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 10 Nov 2020 03:02:14 -0800</pubDate>
+ </item>
  <item>
   <title>McDonald's Announces Plant-Based Meat Line, McPlant</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2281/mcdonald_s.jpg'&gt;&lt;br/&gt;  Last winter, it ran a test in Canada with plant-based company Beyond Meat, and Beyond said it co-created the McPlant patty with McDonald's.</description>
@@ -334,42 +370,6 @@
   <categories>cryptocurrency</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/10/12/cryptocurious-conversation</guid>
   <pubDate>Thu, 05 Nov 2020 06:42:08 -0800</pubDate>
- </item>
- <item>
-  <title>Saudi Arabia Lifts Restrictions on Millions of Migrant Laborers</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2022/oilfield_in_saudi_arabia.jpg'&gt;&lt;br/&gt;Yesterday, Saudi Arabia removed longstanding labor restrictions that could affect 10 million migrant workers. Qatar, which is hosting the 2022 World Cup, announced similar labor reforms in August.   It’s also not the first Gulf state to ditch the kafala system.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/04/saudi-arabia-lifts-restrictions-millions-migrant-laborers</link>
-  <author>Neal Freyman</author>
-  <categories>international</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/04/saudi-arabia-lifts-restrictions-millions-migrant-laborers</guid>
-  <pubDate>Wed, 04 Nov 2020 14:46:55 -0800</pubDate>
- </item>
- <item>
-  <title>Pokémon Go Made A Record $1 Billion This Year</title>
-  <description>&lt;img src='https://media.giphy.com/media/QsSNR3g6Y9EluloH8A/giphy.gif'&gt;&lt;br/&gt;Widen the lens even further, and all-things-gaming are posting gains amid the pandemic. Newzoo estimates the industry will rake in $77.2 billion in player revenue in 2020, a 13% increase over 2019.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/04/pokmon-go-made-record-1-billion-year</link>
-  <author>Jamie Wilde</author>
-  <categories>videogames</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/04/pokmon-go-made-record-1-billion-year</guid>
-  <pubDate>Wed, 04 Nov 2020 14:46:55 -0800</pubDate>
- </item>
- <item>
-  <title>U.S. Officially Leaves the Paris Agreement</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2487/climate_clock.jpg'&gt;&lt;br/&gt;Joe Biden has pledged to rejoin the Paris Agreement if he’s elected.   How we got here: Leaving the agreement was a key plank in President Trump’s 2016 campaign.   Big picture: In the biz world, the Paris Agreement has been an influential North Star for pollution reduction targets.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/04/us-officially-leaves-paris-agreement</link>
-  <author>Eliza Carter</author>
-  <categories>climate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/04/us-officially-leaves-paris-agreement</guid>
-  <pubDate>Wed, 04 Nov 2020 14:36:54 -0800</pubDate>
- </item>
- <item>
-  <title>Markets, Powered by Big Tech, Shake off Uncertain Election Results</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3031/gridlock_in_d_c.jpg'&gt;&lt;br/&gt;  Stocks went wild Many investors had speculated a “blue wave” of Democratic candidates would sweep across America on election night. While Joe Biden has a much easier path than President Trump to 270 electoral votes, Republicans are expected to retain control of the Senate, setting up potential legislative gridlock between the executive branch and Congress that makes LA rush hour seem tame.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/04/markets-powered-big-tech-shake-off-uncertain-election-results</link>
-  <author>Toby Howell</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/04/markets-powered-big-tech-shake-off-uncertain-election-results</guid>
-  <pubDate>Wed, 04 Nov 2020 14:36:53 -0800</pubDate>
  </item>
 
 </channel>
