@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/11</link>
- <lastBuildDate>Wed, 11 Nov 2020 14:23:52 -0800</lastBuildDate>
- <pubDate>Wed, 11 Nov 2020 14:23:52 -0800</pubDate>
+ <lastBuildDate>Wed, 11 Nov 2020 14:28:49 -0800</lastBuildDate>
+ <pubDate>Wed, 11 Nov 2020 14:28:49 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>TikTok Complains U.S. Government Went Silent on Divestiture Deadline</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2242/tiktok_phone_in_a_walmart_shopping_cart.jpg'&gt;&lt;br/&gt;  Now, TikTok owner ByteDance says the U.S. government left it on read. Chinese-owned video sharing giant TikTok, whose potential sale dominated the news over the summer, returned to the headlines with a court petition filed on Tuesday. to warmer months. On Thursdays, we throw back...  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/11/tiktok-complains-us-government-went-silent-divestiture-deadline</link>
+  <author>Eliza Carter</author>
+  <categories>social-media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/11/tiktok-complains-us-government-went-silent-divestiture-deadline</guid>
+  <pubDate>Wed, 11 Nov 2020 14:26:48 -0800</pubDate>
+ </item>
  <item>
   <title>Disney+ Turns 1: How’d It Do?</title>
   <description>&lt;img src='https://media.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif'&gt;&lt;br/&gt;Y/N   + Flash poll: Is Baby Yoda cute? while the pandemic delayed production timelines, Disney+ expects to release more original content next year, including—what else—more Marvel and Star Wars series.   Looking ahead...</description>
@@ -361,15 +370,6 @@
   <categories>recommendations</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/05/essentials-issue-79-checkmate</guid>
   <pubDate>Sat, 07 Nov 2020 08:32:13 -0800</pubDate>
- </item>
- <item>
-  <title>Winners of 2020: Yeti, Papa John's</title>
-  <description>&lt;img src='https://media.giphy.com/media/VbAqz4vyXJjkkvZXtH/giphy.gif'&gt;&lt;br/&gt;  Yeti The premium outdoor brand reported revenue up 29% to $295 million and profit up a staggering 126% on increased interest in outdoor activities. It began in 2006 by targeting hunters and anglers, but has since broadened to anyone who likes their coffee warm and their iced tea chilled.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/05/winners-2020-yeti-papa-johns</link>
-  <author>Eliza Carter</author>
-  <categories>earnings</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/05/winners-2020-yeti-papa-johns</guid>
-  <pubDate>Sat, 07 Nov 2020 08:32:12 -0800</pubDate>
  </item>
 
 </channel>
