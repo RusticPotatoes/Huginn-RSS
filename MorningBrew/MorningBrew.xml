@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/11</link>
- <lastBuildDate>Wed, 11 Nov 2020 03:03:51 -0800</lastBuildDate>
- <pubDate>Wed, 11 Nov 2020 03:03:51 -0800</pubDate>
+ <lastBuildDate>Wed, 11 Nov 2020 09:58:45 -0800</lastBuildDate>
+ <pubDate>Wed, 11 Nov 2020 09:58:45 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Masters Returns...in November</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3104/masters.jpg'&gt;&lt;br/&gt;The Masters golf tournament tees off today at Augusta National Golf Club in Georgia.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/11/masters-returnsin-november</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/11/masters-returnsin-november</guid>
+  <pubDate>Wed, 11 Nov 2020 09:56:43 -0800</pubDate>
+ </item>
  <item>
   <title>Virtual Events Startup Hopin Vaults Past $2 Billion Valuation</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3078/hopin.png'&gt;&lt;br/&gt;  Then Covid-19 arrived and so did blazing-fast growth.   Hopin also says it's profitable, with annual recurring revenue of $20 million. But Hopin's betting it can find a foothold in a post-Covid economy with "hybrid" events. Users?</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>quiz</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/05/brews-weekly-news-quiz-november-6</guid>
-  <pubDate>Sat, 07 Nov 2020 08:32:12 -0800</pubDate>
- </item>
- <item>
-  <title>Weed Stocks Rally on Positive Election Results, Exciting Acquisition</title>
-  <description>&lt;img src='https://media.giphy.com/media/Jnx5ztK49mHJe/giphy.gif'&gt;&lt;br/&gt;Aurora was sitting at a four-year low as recently as September after misjudging demand for premium products during the pandemic.   Zoom out: Despite the past week’s good vibes, it’s still been a rough year for marijuana companies.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/06/weed-stocks-rally-positive-election-results-exciting-acquisition</link>
-  <author>Toby Howell</author>
-  <categories>cannabis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/06/weed-stocks-rally-positive-election-results-exciting-acquisition</guid>
   <pubDate>Sat, 07 Nov 2020 08:32:12 -0800</pubDate>
  </item>
 
