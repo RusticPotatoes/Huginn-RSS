@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/11</link>
- <lastBuildDate>Wed, 11 Nov 2020 09:58:45 -0800</lastBuildDate>
- <pubDate>Wed, 11 Nov 2020 09:58:45 -0800</pubDate>
+ <lastBuildDate>Wed, 11 Nov 2020 14:23:52 -0800</lastBuildDate>
+ <pubDate>Wed, 11 Nov 2020 14:23:52 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Disney+ Turns 1: How’d It Do?</title>
+  <description>&lt;img src='https://media.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif'&gt;&lt;br/&gt;Y/N   + Flash poll: Is Baby Yoda cute? while the pandemic delayed production timelines, Disney+ expects to release more original content next year, including—what else—more Marvel and Star Wars series.   Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/11/disney-turns-1-howd</link>
+  <author>Alex Hickey</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/11/disney-turns-1-howd</guid>
+  <pubDate>Wed, 11 Nov 2020 14:21:51 -0800</pubDate>
+ </item>
+ <item>
+  <title>Facebook and Google Extend Their Broad Sweeping Bans on Political Ads</title>
+  <description>&lt;img src='https://media.giphy.com/media/eAKlNC04fh8Le6pifS/giphy.gif'&gt;&lt;br/&gt;  Bottom line: Critics argue the ad ban doesn’t address the real issue afflicting social media—the spread of misinformation in unpaid, organic posts. Much like we had planned to always wear pants while working, Facebook and Google had planned to lift their bans on political advertising one week after the election concluded.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/11/facebook-google-extend-broad-sweeping-bans-political-ads</link>
+  <author>Toby Howell</author>
+  <categories>social-media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/11/facebook-google-extend-broad-sweeping-bans-political-ads</guid>
+  <pubDate>Wed, 11 Nov 2020 14:21:50 -0800</pubDate>
+ </item>
  <item>
   <title>The Masters Returns...in November</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3104/masters.jpg'&gt;&lt;br/&gt;The Masters golf tournament tees off today at Augusta National Golf Club in Georgia.</description>
@@ -351,24 +369,6 @@
   <author>Eliza Carter</author>
   <categories>earnings</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/05/winners-2020-yeti-papa-johns</guid>
-  <pubDate>Sat, 07 Nov 2020 08:32:12 -0800</pubDate>
- </item>
- <item>
-  <title>Fed Leaves Monetary Policy Unchanged Amid Election</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3041/jerome_powell.jpg'&gt;&lt;br/&gt;.   Reminder: The Fed handles monetary policy, manipulating the money supply to shape macroeconomic conditions like inflation and employment.   Big picture: For investors, the Fed chair can be just as (if not more) important than who sits in the Oval Office.    This election has personal implications for Powell While the Fed's Board of Governors has two open seats that require Senate confirmation to fill, they've been empty for years, and the bigger question is who takes over as chair when Powell's term ends February 2022. Even after this election ends in 2135, Powell may not be going anywhere. Mr. Jerome Powell.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/05/fed-leaves-monetary-policy-unchanged-amid-election</link>
-  <author>Alex Hickey</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/05/fed-leaves-monetary-policy-unchanged-amid-election</guid>
-  <pubDate>Sat, 07 Nov 2020 08:32:12 -0800</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: November 6</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1033/quiz.jpg'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/05/brews-weekly-news-quiz-november-6</link>
-  <author>Jamie Wilde</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/05/brews-weekly-news-quiz-november-6</guid>
   <pubDate>Sat, 07 Nov 2020 08:32:12 -0800</pubDate>
  </item>
 
