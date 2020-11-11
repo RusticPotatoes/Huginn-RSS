@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/10</link>
- <lastBuildDate>Tue, 10 Nov 2020 17:50:48 -0800</lastBuildDate>
- <pubDate>Tue, 10 Nov 2020 17:50:48 -0800</pubDate>
+ <lastBuildDate>Tue, 10 Nov 2020 21:09:18 -0800</lastBuildDate>
+ <pubDate>Tue, 10 Nov 2020 21:09:18 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Singles Day to Test China's Consumer Demand</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3086/singles_day.jpg'&gt;&lt;br/&gt;  Big picture: The pandemic pushed more Chinese consumers to e-commerce, and Singles Day will provide more intel on the health of the Chinese economy.   Alibaba kicked sales off a little early this year, and as of 12:30am local time, consumers spent $56.3 billion on its Taobao and Tmall e-commerce platforms.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/11/singles-day-test-chinas-consumer-demand</link>
+  <author>Alex Hickey</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/11/singles-day-test-chinas-consumer-demand</guid>
+  <pubDate>Tue, 10 Nov 2020 21:06:47 -0800</pubDate>
+ </item>
  <item>
   <title>Apple Breaks Up With Intel With New Hardware Featuring Internally Created Chips</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3090/m1_chip.jpeg'&gt;&lt;br/&gt;  Now for the fun, shiny things: The new hardware includes a super-thin MacBook Air, a new MacBook Pro with juiced-up battery life, and a Mac Mini desktop.     The new Big Sur OS also drops today.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>videogames</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/04/pokmon-go-made-record-1-billion-year?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 05 Nov 2020 07:02:13 -0800</pubDate>
- </item>
- <item>
-  <title>Saudi Arabia Lifts Restrictions on Millions of Migrant Laborers</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2022/oilfield_in_saudi_arabia.jpg'&gt;&lt;br/&gt;Big picture: Saudi Arabia isn’t lifting kafala measures because it feels particularly regretful. Qatar, which is hosting the 2022 World Cup, announced similar labor reforms in August.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/04/saudi-arabia-lifts-restrictions-millions-migrant-laborers?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>international</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/04/saudi-arabia-lifts-restrictions-millions-migrant-laborers?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 05 Nov 2020 07:02:13 -0800</pubDate>
  </item>
 
