@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/11</link>
- <lastBuildDate>Wed, 11 Nov 2020 14:28:49 -0800</lastBuildDate>
- <pubDate>Wed, 11 Nov 2020 14:28:49 -0800</pubDate>
+ <lastBuildDate>Wed, 11 Nov 2020 14:43:50 -0800</lastBuildDate>
+ <pubDate>Wed, 11 Nov 2020 14:43:50 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Sony and Microsoft Take Different Approaches in Their Latest Console War</title>
+  <description>&lt;img src='https://media.giphy.com/media/V6Y9IpDepemUB9IWbd/giphy.gif'&gt;&lt;br/&gt;With the launch of the Sony PlayStation 5 today and Microsoft’s Xbox Series X and S on Tuesday, this week marks harmonic convergence of the console giants all over again—an endless cycle of hyped hardware releases that occurs every eight-ish years. Sony continues to be the hardware leader for die-hard gamers. P.S. Neither Sony nor Microsoft is expected to sell the most consoles this holiday season. A new offering called “All Access” lets gamers pay for the new Xbox in monthly installments, and—here’s the kicker—also signs them up for Xbox’s Netflix-like Game Pass Ultimate gaming subscription service.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/11/sony-microsoft-take-different-approaches-latest-console-war</link>
+  <author>Jamie Wilde</author>
+  <categories>videogames</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/11/sony-microsoft-take-different-approaches-latest-console-war</guid>
+  <pubDate>Wed, 11 Nov 2020 14:41:49 -0800</pubDate>
+ </item>
  <item>
   <title>TikTok Complains U.S. Government Went Silent on Divestiture Deadline</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2242/tiktok_phone_in_a_walmart_shopping_cart.jpg'&gt;&lt;br/&gt;  Now, TikTok owner ByteDance says the U.S. government left it on read. Chinese-owned video sharing giant TikTok, whose potential sale dominated the news over the summer, returned to the headlines with a court petition filed on Tuesday. to warmer months. On Thursdays, we throw back...  </description>
@@ -361,15 +370,6 @@
   <categories>election</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/06/biden-track-elected-president-means-biz-world?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 07 Nov 2020 09:01:08 -0800</pubDate>
- </item>
- <item>
-  <title>The Essentials, Issue #79: Checkmate</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/498/the_essentials.png'&gt;&lt;br/&gt;    Dept.   R&amp;R   Giphy If you’re in need of comfort: Replace your daily dose of doomscrolling with a glass of red wine and a puzzle in front of a homey crackling fire scene.   Say cheese: In middle school, your profile pic was the be all, end all.   ------ Can we start the weekend early this week?   Calculate: Find out your personal carbon history.    Happy Place    Artie Photography (Artie Ng) / Getty Images Wouldn’t it be nice to just escape to Santorini, Greece, and watch the sunset while munching on a huge chunk of fresh feta?   Mind over matter: When the headlines won’t stop or you find yourself flustered in Costco, try one of these three different breathing methods.   Stay Sharp  Tidy up: I’ve normalized the brown stains on all my coffee mugs, but there’s actually a way to get rid of them.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/05/essentials-issue-79-checkmate</link>
-  <author>Rachel Cantor</author>
-  <categories>recommendations</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/05/essentials-issue-79-checkmate</guid>
-  <pubDate>Sat, 07 Nov 2020 08:32:13 -0800</pubDate>
  </item>
 
 </channel>
