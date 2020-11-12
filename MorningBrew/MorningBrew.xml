@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/12</link>
- <lastBuildDate>Thu, 12 Nov 2020 14:03:48 -0800</lastBuildDate>
- <pubDate>Thu, 12 Nov 2020 14:03:48 -0800</pubDate>
+ <lastBuildDate>Thu, 12 Nov 2020 14:23:49 -0800</lastBuildDate>
+ <pubDate>Thu, 12 Nov 2020 14:23:49 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Chipotle Debuts First Ghost Kitchen</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3112/chipotle_burrito_and_store.jpg'&gt;&lt;br/&gt;  Another benefit of ghost kitchens?   In Q3, Chipotle's digital sales soared over 200% yearly to $776 million.   Big picture: Covid-19 has been devastating the restaurant biz. Chipotle's version offers pickup as well.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/12/chipotle-debuts-first-ghost-kitchen</link>
+  <author>Eliza Carter</author>
+  <categories>restaurant</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/chipotle-debuts-first-ghost-kitchen</guid>
+  <pubDate>Thu, 12 Nov 2020 14:21:47 -0800</pubDate>
+ </item>
  <item>
   <title>We Could Get Used to This: Americans Embrace Remote Work, per Exclusive Morning Brew Polling</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/933/home_office.jpg'&gt;&lt;br/&gt;  A Morning Brew/Harris poll conducted last weekend found that… Two-thirds (67%) of remote workers say their lifestyle has gotten healthier since working from home. About the same amount (38%) say they've been taking time to cook their meals. This year's social distancing mandates have made employees much more familiar with each other's living rooms.</description>
@@ -361,15 +370,6 @@
   <categories>policy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/businesses-look-towards-future-biden?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 09 Nov 2020 03:02:12 -0800</pubDate>
- </item>
- <item>
-  <title>Election Aftermath: What Else You Need to Know</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2164/joe_biden.jpg'&gt;&lt;br/&gt;  Day 1: Here are a few stories explaining what Biden’s promised to do on his first day in office.   The cabinet: The level of speculation over who Biden will tap for his cabinet posts rivals NBA free agency, and the Treasury could be the first and nastiest fight.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/09/election-aftermath-else-need-know</link>
-  <author>Neal Freyman</author>
-  <categories>election</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/election-aftermath-else-need-know</guid>
-  <pubDate>Sun, 08 Nov 2020 17:41:09 -0800</pubDate>
  </item>
 
 </channel>
