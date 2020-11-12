@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/12</link>
- <lastBuildDate>Thu, 12 Nov 2020 14:23:49 -0800</lastBuildDate>
- <pubDate>Thu, 12 Nov 2020 14:23:49 -0800</pubDate>
+ <lastBuildDate>Thu, 12 Nov 2020 14:38:48 -0800</lastBuildDate>
+ <pubDate>Thu, 12 Nov 2020 14:38:48 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Powell: Rising U.S. Covid Cases Threaten Economic Recovery</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3114/covid-19_dodger_stadium.jpg'&gt;&lt;br/&gt;  Can a vaccine fix things?   Flattening the curve is made even harder by widespread pandemic fatigue.    "Certainly it's not going to be a pandemic for a lot longer, because I believe the vaccines are going to turn that around," Dr. Anthony Fauci said this week. Yesterday, Chicago Mayor Lori Lightfoot asked residents to go virtual this Thanksgiving and only venture out for essential needs. Parts of the economy are steadily recovering, but as a growing number of state and local governments reimpose restrictions on business activity and social life, "people may lose confidence that it is safe to go out," Powell said.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/12/powell-rising-us-covid-cases-threaten-economic-recovery</link>
+  <author>Alex Hickey</author>
+  <categories>public-health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/powell-rising-us-covid-cases-threaten-economic-recovery</guid>
+  <pubDate>Thu, 12 Nov 2020 14:36:47 -0800</pubDate>
+ </item>
  <item>
   <title>Chipotle Debuts First Ghost Kitchen</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3112/chipotle_burrito_and_store.jpg'&gt;&lt;br/&gt;  Another benefit of ghost kitchens?   In Q3, Chipotle's digital sales soared over 200% yearly to $776 million.   Big picture: Covid-19 has been devastating the restaurant biz. Chipotle's version offers pickup as well.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>election</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/election-aftermath-else-need-know?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 09 Nov 2020 03:02:12 -0800</pubDate>
- </item>
- <item>
-  <title>Businesses Look Towards a Future Under Biden</title>
-  <description>&lt;img src='https://media.giphy.com/media/xUNd9ZaY6wdUH2ZiGQ/giphy.gif'&gt;&lt;br/&gt;Biden’s said he can’t end the pandemic by “flipping a switch,” but biz leaders hope a more hands-on approach compared to President Trump’s can lead to a quicker economic recovery.   Here are the six things biz leaders want from Biden. No tax hike: Biden has pledged to raise the corporate tax rate, which businesses no-likey. Boringness: Whereas President Trump’s policies fostered a mostly favorable corporate environment, it came with a lot of baggage." Improve trade relations: During his tenure as president, President Trump launched a trade war with China and got into bitter scuffles with longstanding economic partners like the EU.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/09/businesses-look-towards-future-biden?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>policy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/businesses-look-towards-future-biden?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 09 Nov 2020 03:02:12 -0800</pubDate>
  </item>
 
