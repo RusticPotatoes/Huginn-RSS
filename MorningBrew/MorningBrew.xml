@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/13</link>
- <lastBuildDate>Fri, 13 Nov 2020 12:58:45 -0800</lastBuildDate>
- <pubDate>Fri, 13 Nov 2020 12:58:45 -0800</pubDate>
+ <lastBuildDate>Fri, 13 Nov 2020 14:28:52 -0800</lastBuildDate>
+ <pubDate>Fri, 13 Nov 2020 14:28:52 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>DoorDash, Pandemic Winner, Reveals IPO Prospectus</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1306/takeout.jpg'&gt;&lt;br/&gt;Quick backstory: DoorDash was founded in 2013 by Stanford students, and it’s raised $2.5 billion since, from the likes of SoftBank and other heavy-hitter VCs.  DoorDash divides people more than cilantro  While most business writers agree the economics of running a food delivery company are challenging, some are more confident than others in DoorDash’s sustainability.     The food delivery startup released its IPO prospectus, giving the public a comprehensive view of its business before heading to the public markets in the next few weeks.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/13/doordash-pandemic-winner-reveals-ipo-prospectus</link>
+  <author>Neal Freyman</author>
+  <categories>food-delivery</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/doordash-pandemic-winner-reveals-ipo-prospectus</guid>
+  <pubDate>Fri, 13 Nov 2020 14:26:49 -0800</pubDate>
+ </item>
  <item>
   <title>The Brew Crossword: Walking or Riding?</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2397/crossword.jpg'&gt;&lt;br/&gt;</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>healthcare</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/pfizers-covid19-vaccine-posts-promising-results</guid>
-  <pubDate>Mon, 09 Nov 2020 14:47:10 -0800</pubDate>
- </item>
- <item>
-  <title>Supreme Court Hears Arguments to Decide Fate of the ACA</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/858/supreme_court.jpg'&gt;&lt;br/&gt;  Will they?   A federal district judge agreed, it got appealed, and now the defendants (20 blue states led by California) want the Court to step in.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/09/supreme-court-hears-arguments-decide-fate-aca</link>
-  <author>Alex Hickey</author>
-  <categories>legal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/supreme-court-hears-arguments-decide-fate-aca</guid>
   <pubDate>Mon, 09 Nov 2020 14:47:10 -0800</pubDate>
  </item>
 
