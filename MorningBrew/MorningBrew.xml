@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/13</link>
- <lastBuildDate>Fri, 13 Nov 2020 12:38:53 -0800</lastBuildDate>
- <pubDate>Fri, 13 Nov 2020 12:38:53 -0800</pubDate>
+ <lastBuildDate>Fri, 13 Nov 2020 12:58:45 -0800</lastBuildDate>
+ <pubDate>Fri, 13 Nov 2020 12:58:45 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Brew Crossword: Walking or Riding?</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2397/crossword.jpg'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/13/brew-crossword-walking-riding</link>
+  <author>Neal Freyman</author>
+  <categories>crossword</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/brew-crossword-walking-riding</guid>
+  <pubDate>Fri, 13 Nov 2020 12:56:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>Checking in on the "Third Wave" </title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3126/covid_metrics.jpeg'&gt;&lt;br/&gt;  In NYC, Mayor Bill de Blasio suggested the city may have to shut down in-person learning at public schools as early as Monday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/13/checking-third-wave</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/checking-third-wave</guid>
+  <pubDate>Fri, 13 Nov 2020 12:56:43 -0800</pubDate>
+ </item>
  <item>
   <title>The Pandemic Has Led to a Golf Boom</title>
   <description>&lt;img src='https://media.giphy.com/media/l0MYsxZiDtc1wPHmU/giphy.gif'&gt;&lt;br/&gt;  One golf accessory in particular drew Peloton-esque demand: the humble pushcart. Golf equipment sales were up 42% year-over-year in Q3, and in May, golf bag accessories were the No. 1 trending retail category on Google.   Golf’s sudden appeal has benefited the business side of the game, too.   Will the good times last?   We’re in the middle of a golf boom In September, 25.5% more golf rounds were played than last year, which capped off a wildly popular summer for the sport. And golf rose to the occasion: We Are Golf, a coalition of golf organizations, collaborated closely with the federal government and the CDC to draw up guidelines to make the game safer.   Bottom line: As a young golf nerd, my advice to people who want to grow the game is to make it more accessible. And for people who’ve never understood the appeal of golf, watch the final round of The Masters today.</description>
@@ -352,24 +370,6 @@
   <categories>legal</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/supreme-court-hears-arguments-decide-fate-aca</guid>
   <pubDate>Mon, 09 Nov 2020 14:47:10 -0800</pubDate>
- </item>
- <item>
-  <title>Pfizer's Vaccine News Has Investors Eyeing a Future With the Coronavirus Under Control</title>
-  <description>&lt;img src='https://media.giphy.com/media/geEvRnbQqLYsb5WOr8/giphy.gif'&gt;&lt;br/&gt;    And the vaccine news paired with the upcoming Thanksgiving travel season like a fine wine to send the airline exchange-traded fund, JETS, soaring 16%. Peloton (-20%), Zoom (-17%), Etsy (-17%), and Clorox (-11%), all companies that benefited from the sweeping social changes brought on by the pandemic, came crashing down. Some didn't take it as well...</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/09/pfizers-vaccine-news-investors-eyeing-future-coronavirus-control</link>
-  <author>Toby Howell</author>
-  <categories>stocks</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/pfizers-vaccine-news-investors-eyeing-future-coronavirus-control</guid>
-  <pubDate>Mon, 09 Nov 2020 14:47:10 -0800</pubDate>
- </item>
- <item>
-  <title>Fashion Brand Supreme Rides Digital Excellence, Cult Following to $2.1 Billion Acquisition</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3075/supreme_font_comparison.png'&gt;&lt;br/&gt;  Supreme, which does 60% of its sales online, will play a key role in what VF CEO Steve Rendle calls a "hyper-digital business model transformation."   What that $2.1 billion is getting: Supreme is not your typical multi-billion dollar brand with a scant brick-and-mortar footprint and limited distribution.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/09/fashion-brand-supreme-rides-digital-excellence-cult-following-21-billion-acquisition</link>
-  <author>Toby Howell</author>
-  <categories>fashion</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/fashion-brand-supreme-rides-digital-excellence-cult-following-21-billion-acquisition</guid>
-  <pubDate>Mon, 09 Nov 2020 14:42:09 -0800</pubDate>
  </item>
 
 </channel>
