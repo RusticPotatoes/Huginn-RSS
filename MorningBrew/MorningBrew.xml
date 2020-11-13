@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/13</link>
- <lastBuildDate>Fri, 13 Nov 2020 14:28:52 -0800</lastBuildDate>
- <pubDate>Fri, 13 Nov 2020 14:28:52 -0800</pubDate>
+ <lastBuildDate>Fri, 13 Nov 2020 14:48:47 -0800</lastBuildDate>
+ <pubDate>Fri, 13 Nov 2020 14:48:47 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Kim Ng Makes History After Landing the General Manager Job for the Miami Marlins</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3129/kim_ng.jpg'&gt;&lt;br/&gt;  Looking ahead: Ng won’t have a lot of cash to build a roster with.    She’s got a lengthy résumé: Ng got into baseball as an intern for the Chicago White Sox in 1990.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/13/kim-ng-makes-history-landing-general-manager-job-miami-marlins</link>
+  <author>Toby Howell</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/kim-ng-makes-history-landing-general-manager-job-miami-marlins</guid>
+  <pubDate>Fri, 13 Nov 2020 14:46:45 -0800</pubDate>
+ </item>
  <item>
   <title>DoorDash, Pandemic Winner, Reveals IPO Prospectus</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1306/takeout.jpg'&gt;&lt;br/&gt;Quick backstory: DoorDash was founded in 2013 by Stanford students, and it’s raised $2.5 billion since, from the likes of SoftBank and other heavy-hitter VCs.  DoorDash divides people more than cilantro  While most business writers agree the economics of running a food delivery company are challenging, some are more confident than others in DoorDash’s sustainability.     The food delivery startup released its IPO prospectus, giving the public a comprehensive view of its business before heading to the public markets in the next few weeks.</description>
@@ -361,15 +370,6 @@
   <categories>food</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/mcdonalds-announces-plantbased-meat-line-mcplant</guid>
   <pubDate>Mon, 09 Nov 2020 14:57:12 -0800</pubDate>
- </item>
- <item>
-  <title>Pfizer's Covid-19 Vaccine Posts Promising Results</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3074/vaccine.jpg'&gt;&lt;br/&gt;  The trial: Over a three-week period, researchers administered two vaccine doses to 43,538 volunteers; around half received the vaccine, the other half placebos. Yesterday morning, Pfizer said its Covid-19 vaccine was over 90% effective in late-stage clinical trials.   If it gets it, Pfizer says it can produce 50 million doses by the end of 2020 and 1.3 billion in 2021.   Next steps The FDA needs follow-up data to make sure Pfizer's vaccine isn't making participants grow tails.   We don't know if the vaccine prevents asymptomatic transmission or severe Covid cases that cause hospitalization. And an effective vaccine can't come fast enough. Pfizer's product is harder to move around than an octopus ice sculpture.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/09/pfizers-covid19-vaccine-posts-promising-results</link>
-  <author>Alex Hickey</author>
-  <categories>healthcare</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/pfizers-covid19-vaccine-posts-promising-results</guid>
-  <pubDate>Mon, 09 Nov 2020 14:47:10 -0800</pubDate>
  </item>
 
 </channel>
