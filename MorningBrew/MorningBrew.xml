@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/12/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/13/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/12</link>
- <lastBuildDate>Thu, 12 Nov 2020 14:38:48 -0800</lastBuildDate>
- <pubDate>Thu, 12 Nov 2020 14:38:48 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/13</link>
+ <lastBuildDate>Fri, 13 Nov 2020 03:03:49 -0800</lastBuildDate>
+ <pubDate>Fri, 13 Nov 2020 03:03:49 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Next Wave of IPOs Includes DoorDash and Airbnb</title>
+  <description>&lt;img src='https://media.giphy.com/media/3ohzdUi5U8LBb4GD4s/giphy.gif'&gt;&lt;br/&gt;  Big picture: As bad as this year has been for procuring dumbbells, it's been quite hospitable to companies going public. It would be one of the biggest U.S. IPOs of the year.   Wish is an e-commerce app that sells ridiculously cheap items.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/12/next-wave-ipos-includes-doordash-airbnb?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>ipo</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/next-wave-ipos-includes-doordash-airbnb?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 13 Nov 2020 03:01:47 -0800</pubDate>
+ </item>
+ <item>
+  <title>Chipotle Debuts First Ghost Kitchen</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3112/chipotle_burrito_and_store.jpg'&gt;&lt;br/&gt;  Another benefit of ghost kitchens?   In Q3, Chipotle's digital sales soared over 200% yearly to $776 million.   Big picture: Covid-19 has been devastating the restaurant biz. Chipotle's version offers pickup as well.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/12/chipotle-debuts-first-ghost-kitchen?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>restaurant</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/chipotle-debuts-first-ghost-kitchen?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 13 Nov 2020 03:01:47 -0800</pubDate>
+ </item>
+ <item>
+  <title>We Could Get Used to This: Americans Embrace Remote Work, per Exclusive Morning Brew Polling</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/933/home_office.jpg'&gt;&lt;br/&gt;  A Morning Brew/Harris poll conducted last weekend found that… Two-thirds (67%) of remote workers say their lifestyle has gotten healthier since working from home. About the same amount (38%) say they've been taking time to cook their meals. This year's social distancing mandates have made employees much more familiar with each other's living rooms.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/12/get-used-americans-embrace-remote-work-per-exclusive-morning-brew-polling?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>polling</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/get-used-americans-embrace-remote-work-per-exclusive-morning-brew-polling?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 13 Nov 2020 03:01:47 -0800</pubDate>
+ </item>
+ <item>
+  <title>Powell: Rising U.S. Covid Cases Threaten Economic Recovery</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3114/covid-19_dodger_stadium.jpg'&gt;&lt;br/&gt;  Can a vaccine fix things?   Flattening the curve is made even harder by widespread pandemic fatigue.    "Certainly it's not going to be a pandemic for a lot longer, because I believe the vaccines are going to turn that around," Dr. Anthony Fauci said this week. Yesterday, Chicago Mayor Lori Lightfoot asked residents to go virtual this Thanksgiving and only venture out for essential needs. Parts of the economy are steadily recovering, but as a growing number of state and local governments reimpose restrictions on business activity and social life, "people may lose confidence that it is safe to go out," Powell said.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/12/powell-rising-us-covid-cases-threaten-economic-recovery?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>public-health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/powell-rising-us-covid-cases-threaten-economic-recovery?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 13 Nov 2020 03:01:47 -0800</pubDate>
+ </item>
  <item>
   <title>Powell: Rising U.S. Covid Cases Threaten Economic Recovery</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3114/covid-19_dodger_stadium.jpg'&gt;&lt;br/&gt;  Can a vaccine fix things?   Flattening the curve is made even harder by widespread pandemic fatigue.    "Certainly it's not going to be a pandemic for a lot longer, because I believe the vaccines are going to turn that around," Dr. Anthony Fauci said this week. Yesterday, Chicago Mayor Lori Lightfoot asked residents to go virtual this Thanksgiving and only venture out for essential needs. Parts of the economy are steadily recovering, but as a growing number of state and local governments reimpose restrictions on business activity and social life, "people may lose confidence that it is safe to go out," Powell said.</description>
@@ -334,42 +370,6 @@
   <categories>recommendations</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/essentials-issue-80-joy-triggers</guid>
   <pubDate>Mon, 09 Nov 2020 11:07:11 -0800</pubDate>
- </item>
- <item>
-  <title>Week Ahead: November 9</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3058/an_overflowing_cornucopia_and_decorative_gourds.jpg'&gt;&lt;br/&gt;Monday: Earnings (McDonald’s, SoftBank, Beyond Meat) Tuesday: Microsoft launches the new Xbox; Apple’s “One More Thing” event  Wednesday: Veterans Day; the country’s National Parks have free admission  Thursday: Consumer price index inflation data; The Masters begins; Sony launches PlayStation 5; earnings (Palantir, Disney)   Friday: the 13th</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/08/week-ahead-november-9?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/08/week-ahead-november-9?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 09 Nov 2020 03:02:12 -0800</pubDate>
- </item>
- <item>
-  <title>Why Ant’s IPO Got Squashed</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3015/ipo_repellant.jpg'&gt;&lt;br/&gt;Overshadowed by, you know, everything last week was the stunning collapse of Ant Group’s IPO.   But Jack Ma decided to speak up. Why it matters: Ma’s comments reflected the tense relationship between China’s growing fintech sector and the traditional financial system.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/08/ants-ipo-got-squashed?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/08/ants-ipo-got-squashed?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 09 Nov 2020 03:02:12 -0800</pubDate>
- </item>
- <item>
-  <title>As FLOTUS, Dr. Jill Biden Will Champion Educators</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3056/democratic_presidential_n.jpg'&gt;&lt;br/&gt;  That means education is going to be at the top of her agenda.   We should also mention Doug  Doug Emhoff, to be specific—VP-elect Kamala Harris’s husband. He’ll be the first male spouse of any vice president or president.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/08/flotus-dr-jill-biden-will-champion-educators?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/08/flotus-dr-jill-biden-will-champion-educators?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 09 Nov 2020 03:02:12 -0800</pubDate>
- </item>
- <item>
-  <title>Election Aftermath: What Else You Need to Know</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2164/joe_biden.jpg'&gt;&lt;br/&gt;  Day 1: Here are a few stories explaining what Biden’s promised to do on his first day in office.   The cabinet: The level of speculation over who Biden will tap for his cabinet posts rivals NBA free agency, and the Treasury could be the first and nastiest fight.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/09/election-aftermath-else-need-know?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>election</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/election-aftermath-else-need-know?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 09 Nov 2020 03:02:12 -0800</pubDate>
  </item>
 
 </channel>
