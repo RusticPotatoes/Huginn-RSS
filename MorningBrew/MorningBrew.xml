@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/13/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/14/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/13</link>
- <lastBuildDate>Fri, 13 Nov 2020 15:03:46 -0800</lastBuildDate>
- <pubDate>Fri, 13 Nov 2020 15:03:46 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/14</link>
+ <lastBuildDate>Sat, 14 Nov 2020 03:03:26 -0800</lastBuildDate>
+ <pubDate>Sat, 14 Nov 2020 03:03:26 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>SpaceX’s First Officially Sanctioned Manned Mission Blasts Off</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3128/us-trump-space-nasa-space.jpg'&gt;&lt;br/&gt;A SpaceX Dragon spacecraft, nicknamed “Resilience” by its crew, is scheduled to fire off into the friendly skies tomorrow night. Sunday’s lift-off is the U.S.’ first Federal Aviation Administration-approved, manned space mission since the Space Shuttle was sent to the island of misfit rockets in 2011.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/13/spacexs-first-officially-sanctioned-manned-mission-blasts-off?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/spacexs-first-officially-sanctioned-manned-mission-blasts-off?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 14 Nov 2020 03:01:25 -0800</pubDate>
+ </item>
+ <item>
+  <title>Kim Ng Makes History After Landing the General Manager Job for the Miami Marlins</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3131/kim_ng_and_tommy_lasorda.jpg'&gt;&lt;br/&gt;  Looking ahead: Ng won’t have a lot of cash to build a roster with.    She’s got a lengthy résumé: Ng got into baseball as an intern for the Chicago White Sox in 1990. She is the newest general manager of MLB’s Miami Marlins, and the first female GM in any of the major North American men’s sports leagues.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/13/kim-ng-makes-history-landing-general-manager-job-miami-marlins?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/kim-ng-makes-history-landing-general-manager-job-miami-marlins?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 14 Nov 2020 03:01:25 -0800</pubDate>
+ </item>
+ <item>
+  <title>Top Business Leaders Prepare for Trump-Biden Transition</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3130/electoral_map.jpg'&gt;&lt;br/&gt;  Concerned execs at more than two dozen major U.S. companies held a videoconference last week to hash out a plan should President Trump refuse to leave office, the AP reported yesterday. All 50 states were called as of yesterday, with Biden securing 306 electoral votes to Trump’s 232.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/13/top-business-leaders-prepare-trumpbiden-transition?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>election</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/top-business-leaders-prepare-trumpbiden-transition?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 14 Nov 2020 03:01:25 -0800</pubDate>
+ </item>
+ <item>
+  <title>Checking in on the "Third Wave" </title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3126/covid_metrics.jpeg'&gt;&lt;br/&gt;  In NYC, Mayor Bill de Blasio suggested the city may have to shut down in-person learning at public schools as early as Monday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/13/checking-third-wave?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/checking-third-wave?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 14 Nov 2020 03:01:25 -0800</pubDate>
+ </item>
+ <item>
+  <title>DoorDash, Pandemic Winner, Reveals IPO Prospectus</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1306/takeout.jpg'&gt;&lt;br/&gt;Quick backstory: DoorDash was founded in 2013 by Stanford students, and it’s raised $2.5 billion since, from the likes of SoftBank and other heavy-hitter VCs.  DoorDash divides people more than cilantro  While most business writers agree the economics of running a food delivery company are challenging, some are more confident than others in DoorDash’s sustainability.     The food delivery startup released its IPO prospectus, giving the public a comprehensive view of its business before heading to the public markets in the next few weeks.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/13/doordash-pandemic-winner-reveals-ipo-prospectus?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>food-delivery</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/doordash-pandemic-winner-reveals-ipo-prospectus?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 14 Nov 2020 03:01:25 -0800</pubDate>
+ </item>
  <item>
   <title>Top Business Leaders Prepare for Trump-Biden Transition</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3130/electoral_map.jpg'&gt;&lt;br/&gt;  Concerned execs at more than two dozen major U.S. companies held a videoconference last week to hash out a plan should President Trump refuse to leave office, the AP reported yesterday. All 50 states were called as of yesterday, with Biden securing 306 electoral votes to Trump’s 232.</description>
@@ -325,51 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/10/new-study-indicates-crowded-indoor-spaces-ripe-covid-transmission</guid>
   <pubDate>Tue, 10 Nov 2020 17:48:45 -0800</pubDate>
- </item>
- <item>
-  <title>Virtual Events Startup Hopin Vaults Past $2 Billion Valuation</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3078/hopin.png'&gt;&lt;br/&gt;  Then Covid-19 arrived and so did blazing-fast growth.   Hopin also says it's profitable, with annual recurring revenue of $20 million. But Hopin's betting it can find a foothold in a post-Covid economy with "hybrid" events. Users?</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/10/virtual-events-startup-hopin-vaults-past-2-billion-valuation</link>
-  <author>Eliza Carter</author>
-  <categories>startups</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/10/virtual-events-startup-hopin-vaults-past-2-billion-valuation</guid>
-  <pubDate>Tue, 10 Nov 2020 17:48:45 -0800</pubDate>
- </item>
- <item>
-  <title>Fed Governor Lael Brainard Rumored Frontrunner for Biden Treasury</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3084/lael_brainard.jpg'&gt;&lt;br/&gt;    If she isn't...   If picked... other folks reportedly under consideration include Ariel Investments co-CEO Mellody Hobson, Atlanta Fed President Raphael Bostic, and Powell's predecessor, Janet Yellen.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/10/fed-governor-lael-brainard-rumored-frontrunner-biden-treasury</link>
-  <author>Alex Hickey</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/10/fed-governor-lael-brainard-rumored-frontrunner-biden-treasury</guid>
-  <pubDate>Tue, 10 Nov 2020 17:48:45 -0800</pubDate>
- </item>
- <item>
-  <title>McDonald's Announces Plant-Based Meat Line, McPlant</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2281/mcdonald_s.jpg'&gt;&lt;br/&gt;  McDonald's will join rivals like Burger King (Impossible Whopper) and Dunkin' (Beyond Sausage) in changing its menu to match increased consumer demand for veggie alternatives.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/09/mcdonalds-announces-plantbased-meat-line-mcplant?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>food</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/mcdonalds-announces-plantbased-meat-line-mcplant?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 10 Nov 2020 03:02:14 -0800</pubDate>
- </item>
- <item>
-  <title>Supreme Court Hears Arguments to Decide Fate of the ACA</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/858/supreme_court.jpg'&gt;&lt;br/&gt;  A federal district judge agreed, it got appealed, and now the defendants (20 blue states led by California) want the Supreme Court to step in.   Will they?</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/09/supreme-court-hears-arguments-decide-fate-aca?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>legal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/supreme-court-hears-arguments-decide-fate-aca?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 10 Nov 2020 03:02:14 -0800</pubDate>
- </item>
- <item>
-  <title>Pfizer's Vaccine News Has Investors Eyeing a Future With the Coronavirus Under Control</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3077/kombucha_girl.jpg'&gt;&lt;br/&gt;    Zoom out: While Pfizer's vaccine appears to speed up timelines, there's still a ways to go before we control the pandemic and any of these violent intraday swings solidify into long-term trends.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/09/pfizers-vaccine-news-investors-eyeing-future-coronavirus-control?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>stocks</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/09/pfizers-vaccine-news-investors-eyeing-future-coronavirus-control?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 10 Nov 2020 03:02:14 -0800</pubDate>
  </item>
 
 </channel>
