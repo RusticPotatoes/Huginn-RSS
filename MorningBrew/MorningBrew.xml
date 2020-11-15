@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/14/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/15/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/14</link>
- <lastBuildDate>Sat, 14 Nov 2020 03:03:26 -0800</lastBuildDate>
- <pubDate>Sat, 14 Nov 2020 03:03:26 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/15</link>
+ <lastBuildDate>Sun, 15 Nov 2020 15:23:27 -0800</lastBuildDate>
+ <pubDate>Sun, 15 Nov 2020 15:23:27 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Anime Has Found Receptive International Audience in Recent Years</title>
+  <description>&lt;img src='https://media.giphy.com/media/JRlqKEzTDKci5JPcaL/giphy.gif'&gt;&lt;br/&gt;Anime is going from niche → mainstream faster than air fryers, according to the WSJ: More than 100 million households around the world watched at least one anime title on Netflix in the year to September 2020.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/15/anime-found-receptive-international-audience-recent-years</link>
+  <author>Neal Freyman</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/anime-found-receptive-international-audience-recent-years</guid>
+  <pubDate>Sun, 15 Nov 2020 15:21:24 -0800</pubDate>
+ </item>
  <item>
   <title>SpaceX’s First Officially Sanctioned Manned Mission Blasts Off</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3128/us-trump-space-nasa-space.jpg'&gt;&lt;br/&gt;A SpaceX Dragon spacecraft, nicknamed “Resilience” by its crew, is scheduled to fire off into the friendly skies tomorrow night. Sunday’s lift-off is the U.S.’ first Federal Aviation Administration-approved, manned space mission since the Space Shuttle was sent to the island of misfit rockets in 2011.</description>
@@ -360,15 +369,6 @@
   <author>Eliza Carter</author>
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/10/apple-breaks-intel-new-hardware-featuring-internally-created-chips</guid>
-  <pubDate>Tue, 10 Nov 2020 17:48:45 -0800</pubDate>
- </item>
- <item>
-  <title>New Study Indicates Crowded Indoor Spaces Are Ripe for Covid Transmission</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3082/restaurant_with_covid_sign.jpg'&gt;&lt;br/&gt;  These researchers argue that probably won't be necessary, because limiting capacity at indoor venues can meaningfully contain the spread of the virus—when paired with critical precautions like social distancing and wearing masks.   On the other hand, reopening indoor businesses at full capacity = recipe for superspreading. Not only were they less likely to work from home, but also the indoor venues they visited were more crowded.   Quick note on methodology: Using anonymized smartphone data, the researchers tracked the movements of 98 million people in 10 U.S. metros from March to May—the first wave of the virus.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/10/new-study-indicates-crowded-indoor-spaces-ripe-covid-transmission</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/10/new-study-indicates-crowded-indoor-spaces-ripe-covid-transmission</guid>
   <pubDate>Tue, 10 Nov 2020 17:48:45 -0800</pubDate>
  </item>
 
