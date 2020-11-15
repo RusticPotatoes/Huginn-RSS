@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/15</link>
- <lastBuildDate>Sun, 15 Nov 2020 15:48:28 -0800</lastBuildDate>
- <pubDate>Sun, 15 Nov 2020 15:48:28 -0800</pubDate>
+ <lastBuildDate>Sun, 15 Nov 2020 15:53:27 -0800</lastBuildDate>
+ <pubDate>Sun, 15 Nov 2020 15:53:27 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Week Ahead: November 16</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2698/questioncart.jpg'&gt;&lt;br/&gt;  Retail sales for October will be released on Tuesday, which will tell us more about the strength of the American consumer. Earnings: We're just about ready to put Q3 earnings season in the rearview, but not before retailers including Walmart, Target, and Home Depot report their financials for the previous quarter early this week.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/15/week-ahead-november-16</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/week-ahead-november-16</guid>
+  <pubDate>Sun, 15 Nov 2020 15:51:26 -0800</pubDate>
+ </item>
  <item>
   <title>Asian-Pacific Countries Sign Historic Free Trade Deal </title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3133/asia-pacific_trade.jpg'&gt;&lt;br/&gt;On Sunday, 15 Asian-Pacific countries docusigned one of the largest free trade deals in history, the Regional Comprehensive Economic Partnership (RCEP).   The U.S. didn't get the invite. Most importantly, it includes China—the largest economy in the region.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/11/singles-day-test-chinas-consumer-demand?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 11 Nov 2020 03:01:48 -0800</pubDate>
- </item>
- <item>
-  <title>Apple Breaks Up With Intel With New Hardware Featuring Internally Created Chips</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3090/m1_chip.jpeg'&gt;&lt;br/&gt;  Now for the fun, shiny things: The new hardware includes a super-thin MacBook Air, a new MacBook Pro with juiced-up battery life, and a Mac Mini desktop.     The new Big Sur OS also drops today.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/10/apple-breaks-intel-new-hardware-featuring-internally-created-chips?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/10/apple-breaks-intel-new-hardware-featuring-internally-created-chips?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 11 Nov 2020 03:01:48 -0800</pubDate>
  </item>
 
