@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/15</link>
- <lastBuildDate>Sun, 15 Nov 2020 15:23:27 -0800</lastBuildDate>
- <pubDate>Sun, 15 Nov 2020 15:23:27 -0800</pubDate>
+ <lastBuildDate>Sun, 15 Nov 2020 15:43:29 -0800</lastBuildDate>
+ <pubDate>Sun, 15 Nov 2020 15:43:29 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Conservative Social Platform Parler Is Spreading Election Misinformation</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3134/us-it-lifestyle-media-pol.jpg'&gt;&lt;br/&gt;   Big picture: Compared to Twitter's 187 million daily users and Facebook properties’ 1.8 billion, Parler is still a small fish.   And now, election misinformation. Parler was envisioned as a libertarian platform for conservatives who felt censored by social media platforms, and it gained high-profile users including Fox Business anchor Maria Bartiromo, talk show host Dan Bongino, and Senators Ted Cruz and Rand Paul. Election 2020 winners: pizza delivery, headache hats, and conservative social network Parler.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/15/conservative-social-platform-parler-spreading-election-misinformation</link>
+  <author>Alex Hickey</author>
+  <categories>social-media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/conservative-social-platform-parler-spreading-election-misinformation</guid>
+  <pubDate>Sun, 15 Nov 2020 15:41:29 -0800</pubDate>
+ </item>
  <item>
   <title>Anime Has Found Receptive International Audience in Recent Years</title>
   <description>&lt;img src='https://media.giphy.com/media/JRlqKEzTDKci5JPcaL/giphy.gif'&gt;&lt;br/&gt;Anime is going from niche → mainstream faster than air fryers, according to the WSJ: More than 100 million households around the world watched at least one anime title on Netflix in the year to September 2020.  </description>
@@ -361,15 +370,6 @@
   <categories>retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/11/singles-day-test-chinas-consumer-demand</guid>
   <pubDate>Tue, 10 Nov 2020 21:06:47 -0800</pubDate>
- </item>
- <item>
-  <title>Apple Breaks Up With Intel With New Hardware Featuring Internally Created Chips</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3090/m1_chip.jpeg'&gt;&lt;br/&gt;  Now for the fun, shiny things: The new hardware includes a super-thin MacBook Air, a new MacBook Pro with juiced-up battery life, and a Mac Mini desktop.     The new Big Sur OS also drops today.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/10/apple-breaks-intel-new-hardware-featuring-internally-created-chips</link>
-  <author>Eliza Carter</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/10/apple-breaks-intel-new-hardware-featuring-internally-created-chips</guid>
-  <pubDate>Tue, 10 Nov 2020 17:48:45 -0800</pubDate>
  </item>
 
 </channel>
