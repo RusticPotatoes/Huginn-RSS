@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/15</link>
- <lastBuildDate>Sun, 15 Nov 2020 15:43:29 -0800</lastBuildDate>
- <pubDate>Sun, 15 Nov 2020 15:43:29 -0800</pubDate>
+ <lastBuildDate>Sun, 15 Nov 2020 15:48:28 -0800</lastBuildDate>
+ <pubDate>Sun, 15 Nov 2020 15:48:28 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Asian-Pacific Countries Sign Historic Free Trade Deal </title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3133/asia-pacific_trade.jpg'&gt;&lt;br/&gt;On Sunday, 15 Asian-Pacific countries docusigned one of the largest free trade deals in history, the Regional Comprehensive Economic Partnership (RCEP).   The U.S. didn't get the invite. Most importantly, it includes China—the largest economy in the region.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/15/asianpacific-countries-sign-historic-free-trade-deal</link>
+  <author>Neal Freyman</author>
+  <categories>trade</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/asianpacific-countries-sign-historic-free-trade-deal</guid>
+  <pubDate>Sun, 15 Nov 2020 15:46:28 -0800</pubDate>
+ </item>
+ <item>
+  <title>Biden Transition Team Elevates Racial Inequality Experts</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3135/joe_biden.jpg'&gt;&lt;br/&gt;Within their economic transition teams, Biden and VP-elect Kamala Harris have tapped experts in racial inequality, including...</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/15/biden-transition-team-elevates-racial-inequality-experts</link>
+  <author>Alex Hickey</author>
+  <categories>politics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/biden-transition-team-elevates-racial-inequality-experts</guid>
+  <pubDate>Sun, 15 Nov 2020 15:46:28 -0800</pubDate>
+ </item>
  <item>
   <title>Conservative Social Platform Parler Is Spreading Election Misinformation</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3134/us-it-lifestyle-media-pol.jpg'&gt;&lt;br/&gt;   Big picture: Compared to Twitter's 187 million daily users and Facebook properties’ 1.8 billion, Parler is still a small fish.   And now, election misinformation. Parler was envisioned as a libertarian platform for conservatives who felt censored by social media platforms, and it gained high-profile users including Fox Business anchor Maria Bartiromo, talk show host Dan Bongino, and Senators Ted Cruz and Rand Paul. Election 2020 winners: pizza delivery, headache hats, and conservative social network Parler.</description>
@@ -352,24 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/10/apple-breaks-intel-new-hardware-featuring-internally-created-chips?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 11 Nov 2020 03:01:48 -0800</pubDate>
- </item>
- <item>
-  <title>New Study Indicates Crowded Indoor Spaces Are Ripe for Covid Transmission</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3082/restaurant_with_covid_sign.jpg'&gt;&lt;br/&gt;  These researchers argue that probably won't be necessary, because limiting capacity at indoor venues can meaningfully contain the spread of the virus—when paired with critical precautions like social distancing and wearing masks.   On the other hand, reopening indoor businesses at full capacity = recipe for superspreading. Not only were they less likely to work from home, but also the indoor venues they visited were more crowded.   Quick note on methodology: Using anonymized smartphone data, the researchers tracked the movements of 98 million people in 10 U.S. metros from March to May—the first wave of the virus.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/10/new-study-indicates-crowded-indoor-spaces-ripe-covid-transmission?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/10/new-study-indicates-crowded-indoor-spaces-ripe-covid-transmission?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 11 Nov 2020 03:01:48 -0800</pubDate>
- </item>
- <item>
-  <title>Singles Day to Test China's Consumer Demand</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3086/singles_day.jpg'&gt;&lt;br/&gt;  Big picture: The pandemic pushed more Chinese consumers to e-commerce, and Singles Day will provide more intel on the health of the Chinese economy.   Alibaba kicked sales off a little early this year, and as of 12:30am local time, consumers spent $56.3 billion on its Taobao and Tmall e-commerce platforms.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/11/singles-day-test-chinas-consumer-demand</link>
-  <author>Alex Hickey</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/11/singles-day-test-chinas-consumer-demand</guid>
-  <pubDate>Tue, 10 Nov 2020 21:06:47 -0800</pubDate>
  </item>
 
 </channel>
