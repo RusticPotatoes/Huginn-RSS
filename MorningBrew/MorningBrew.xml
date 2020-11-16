@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/16</link>
- <lastBuildDate>Mon, 16 Nov 2020 14:53:25 -0800</lastBuildDate>
- <pubDate>Mon, 16 Nov 2020 14:53:25 -0800</pubDate>
+ <lastBuildDate>Mon, 16 Nov 2020 14:58:26 -0800</lastBuildDate>
+ <pubDate>Mon, 16 Nov 2020 14:58:26 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Obama Memoir Released as Booksellers Grapple With Pandemic</title>
+  <description>&lt;img src='https://media.giphy.com/media/YFH1n6Cfwouo3Muuy0/giphy.gif'&gt;&lt;br/&gt;  The big question: Will Barack top his wife Michelle's 2018 memoir, Becoming, which has sold 14+ million copies globally?   The famous Strand bookstore in NYC said sales dropped 70% from last year. Barack Obama's latest memoir, A Promised Land, goes on sale today. We hear there's a steak dinner on the line.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/16/obama-memoir-released-booksellers-grapple-pandemic</link>
+  <author>Neal Freyman</author>
+  <categories>publishing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/16/obama-memoir-released-booksellers-grapple-pandemic</guid>
+  <pubDate>Mon, 16 Nov 2020 14:56:32 -0800</pubDate>
+ </item>
+ <item>
+  <title>Moderna Vaccine Was 95% Effective in Phase 3 Trials</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3150/covid-19_vaccine.jpg'&gt;&lt;br/&gt;  Plus, Moderna's vaccine can hold for a month at a normal refrigerator freezer's temp, making it much easier to transport than Pfizer's, which requires -94°F.   The details: Moderna's month-long trial involved 30,000 volunteers split between placebo and vaccine groups. That rally comes despite rising U.S. cases and new restrictions, which could disproportionately hurt small-cap's profits this quarter, the WSJ reports. Yesterday, Moderna announced its vaccine was 94.5% effective in Phase 3 clinical trials, just one week after Pfizer bragged its vaccine was over 90% effective.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/16/moderna-vaccine-95-effective-phase-3-trials</link>
+  <author>Alex Hickey</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/16/moderna-vaccine-95-effective-phase-3-trials</guid>
+  <pubDate>Mon, 16 Nov 2020 14:56:31 -0800</pubDate>
+ </item>
  <item>
   <title>Airbnb Discloses IPO Filing in a Startling Comeback</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/508/airbnb.jpg'&gt;&lt;br/&gt;Yesterday, home rental company Airbnb released its long-awaited IPO filing.   + If you've got some time on your hands... Expedia CEO Peter Kern, for one, gave a bullish take to Bloomberg recently: "Rome has been through a plague or two."</description>
@@ -352,24 +370,6 @@
   <categories>media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/11/disney-turns-1-howd?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 12 Nov 2020 03:01:44 -0800</pubDate>
- </item>
- <item>
-  <title>Sony and Microsoft Take Different Approaches in Their Latest Console War</title>
-  <description>&lt;img src='https://media.giphy.com/media/V6Y9IpDepemUB9IWbd/giphy.gif'&gt;&lt;br/&gt;With the launch of the Sony PlayStation 5 today and Microsoft’s Xbox Series X and S on Tuesday, this week marks harmonic convergence of the console giants all over again—an endless cycle of hyped hardware releases that occurs every eight-ish years. Sony continues to be the hardware leader for die-hard gamers. P.S. Neither Sony nor Microsoft is expected to sell the most consoles this holiday season. A new offering called “All Access” lets gamers pay for the new Xbox in monthly installments, and—here’s the kicker—also signs them up for Xbox’s Netflix-like Game Pass Ultimate gaming subscription service.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/11/sony-microsoft-take-different-approaches-latest-console-war?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>videogames</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/11/sony-microsoft-take-different-approaches-latest-console-war?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 12 Nov 2020 03:01:44 -0800</pubDate>
- </item>
- <item>
-  <title>Sony and Microsoft Take Different Approaches in Their Latest Console War</title>
-  <description>&lt;img src='https://media.giphy.com/media/V6Y9IpDepemUB9IWbd/giphy.gif'&gt;&lt;br/&gt;With the launch of the Sony PlayStation 5 today and Microsoft’s Xbox Series X and S on Tuesday, this week marks harmonic convergence of the console giants all over again—an endless cycle of hyped hardware releases that occurs every eight-ish years. Sony continues to be the hardware leader for die-hard gamers. P.S. Neither Sony nor Microsoft is expected to sell the most consoles this holiday season. A new offering called “All Access” lets gamers pay for the new Xbox in monthly installments, and—here’s the kicker—also signs them up for Xbox’s Netflix-like Game Pass Ultimate gaming subscription service.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/11/sony-microsoft-take-different-approaches-latest-console-war</link>
-  <author>Jamie Wilde</author>
-  <categories>videogames</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/11/sony-microsoft-take-different-approaches-latest-console-war</guid>
-  <pubDate>Wed, 11 Nov 2020 14:41:49 -0800</pubDate>
  </item>
 
 </channel>
