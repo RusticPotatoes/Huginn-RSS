@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/16</link>
- <lastBuildDate>Mon, 16 Nov 2020 03:03:27 -0800</lastBuildDate>
- <pubDate>Mon, 16 Nov 2020 03:03:27 -0800</pubDate>
+ <lastBuildDate>Mon, 16 Nov 2020 12:23:27 -0800</lastBuildDate>
+ <pubDate>Mon, 16 Nov 2020 12:23:27 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Essentials, Issue #82: Big news</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/498/the_essentials.png'&gt;&lt;br/&gt;  --------  I’m counting down the days till the first Sidekick edition.    Thanksgiving setup:    While everyone else is stressing over their turkeys and pumpkin pies, here are 12 things to do if you’re on your own this Thanksgiving.     Happy Place    owngarden / Getty Images This week’s Happy Place is brought to you by Essentials reader Phil K.   Dept.   R&amp;R    © eleonora galli / Getty Images Tidy up: All over Instagram, people are ROYGBIV-ing their medicine cabinets, fridges, and bookshelves.   Offline: Count the number of times you’ve deleted Instagram only to re-download it 20 minutes later.   A Hallmark movie bingo board and a drinking game.   Hallmark’s first gay holiday flick is arriving November 22.    Stay Sharp  Self-improvement: Learn how to spot unhealthy perfectionism and get over “never good enough.” Leading Off   Giphy If you’re watching a movie and a) there’s a big holiday festival in town b) two characters almost kiss but get interrupted, or c) the main character’s name is Holly or Nick, then you’re most likely watching a Hallmark film.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/16/essentials-issue-82big-news</link>
+  <author>Rachel Cantor</author>
+  <categories>recommendations</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/16/essentials-issue-82big-news</guid>
+  <pubDate>Mon, 16 Nov 2020 12:21:24 -0800</pubDate>
+ </item>
  <item>
   <title>Week Ahead: November 16</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2698/questioncart.jpg'&gt;&lt;br/&gt;  Economic data: Retail is the main focus here, too. Retail sales for October will be released on Tuesday, which will tell us more about the strength of the American consumer.</description>
@@ -361,15 +370,6 @@
   <categories>social-media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/11/tiktok-complains-us-government-went-silent-divestiture-deadline</guid>
   <pubDate>Wed, 11 Nov 2020 14:26:48 -0800</pubDate>
- </item>
- <item>
-  <title>Disney+ Turns 1: How’d It Do?</title>
-  <description>&lt;img src='https://media.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif'&gt;&lt;br/&gt;Y/N   + Flash poll: Is Baby Yoda cute? while the pandemic delayed production timelines, Disney+ expects to release more original content next year, including—what else—more Marvel and Star Wars series.   Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/11/disney-turns-1-howd</link>
-  <author>Alex Hickey</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/11/disney-turns-1-howd</guid>
-  <pubDate>Wed, 11 Nov 2020 14:21:51 -0800</pubDate>
  </item>
 
 </channel>
