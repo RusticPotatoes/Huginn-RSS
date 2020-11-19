@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/19</link>
- <lastBuildDate>Thu, 19 Nov 2020 11:13:41 -0800</lastBuildDate>
- <pubDate>Thu, 19 Nov 2020 11:13:41 -0800</pubDate>
+ <lastBuildDate>Thu, 19 Nov 2020 14:28:42 -0800</lastBuildDate>
+ <pubDate>Thu, 19 Nov 2020 14:28:42 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Housing Boom Continues to Expand, According to Existing Home Sales Data</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3179/housing_market.jpg'&gt;&lt;br/&gt;The median price of an existing home last month was $313,000, 15% higher than a year ago.   A combo of factors is driving the housing boom: Homes are the new offices, considering at least 21% of the labor force is working from home because of the pandemic.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/19/housing-boom-continues-expand-according-existing-home-sales-data</link>
+  <author>Neal Freyman</author>
+  <categories>housing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/housing-boom-continues-expand-according-existing-home-sales-data</guid>
+  <pubDate>Thu, 19 Nov 2020 14:26:40 -0800</pubDate>
+ </item>
  <item>
   <title>The Essentials, Issue #83: Goodbye, hello</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/498/the_essentials.png'&gt;&lt;br/&gt;  R&amp;R    alvarez / Getty Images Start with dessert: Candace Nelson, founder of Sprinkles Cupcakes, is hosting a virtual pie pop-up—a holiday pie-making course designed to turn you into a baking mastermind.   The origin story of the Ratatousical.   Your internet Sidekick, Rachel    -----  See you on Monday.   Happy Place    Cavan Images / Getty Images It was prime parka weather in Chicago on Tuesday morning—a crisp 28 degrees, which reminded me that I had planned to teleport to Tucson, Arizona, this winter.   Dept.   Show time: Just because you’re famous doesn’t mean you’re a good podcast host. Leading Off    Giphy My “For You” page on TikTok: Target hauls, healthy cooking tips, and Ratatouille The Musical.   Conversations with the masterminds behind this musical adaption of one of Pixar’s most underrated animated films.   Now the musical has a behind-the-scenes crew, including a stage manager and a tech team.   Bingeworthy: Now is the ideal time to mooch off your friend’s HBO Max account.   First draft: For a good laugh, here are the first lines of rejected “Modern Love” essays.</description>
@@ -361,15 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/anime-found-receptive-international-audience-recent-years</guid>
   <pubDate>Sun, 15 Nov 2020 15:21:24 -0800</pubDate>
- </item>
- <item>
-  <title>SpaceX’s First Officially Sanctioned Manned Mission Blasts Off</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3128/us-trump-space-nasa-space.jpg'&gt;&lt;br/&gt;A SpaceX Dragon spacecraft, nicknamed “Resilience” by its crew, is scheduled to fire off into the friendly skies tomorrow night. Sunday’s lift-off is the U.S.’ first Federal Aviation Administration-approved, manned space mission since the Space Shuttle was sent to the island of misfit rockets in 2011.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/13/spacexs-first-officially-sanctioned-manned-mission-blasts-off?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/spacexs-first-officially-sanctioned-manned-mission-blasts-off?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 14 Nov 2020 03:01:25 -0800</pubDate>
  </item>
 
 </channel>
