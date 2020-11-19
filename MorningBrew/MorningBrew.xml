@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/19</link>
- <lastBuildDate>Thu, 19 Nov 2020 14:48:44 -0800</lastBuildDate>
- <pubDate>Thu, 19 Nov 2020 14:48:44 -0800</pubDate>
+ <lastBuildDate>Thu, 19 Nov 2020 15:03:42 -0800</lastBuildDate>
+ <pubDate>Thu, 19 Nov 2020 15:03:42 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Brew’s Weekly News Quiz: November 20</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1033/quiz.jpg'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/19/brews-weekly-news-quiz-november-20</link>
+  <author>Jamie Wilde</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/brews-weekly-news-quiz-november-20</guid>
+  <pubDate>Thu, 19 Nov 2020 15:01:48 -0800</pubDate>
+ </item>
  <item>
   <title>BuzzFeed to Acquire HuffPost in Broader Partnership With Owner Verizon Media</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3178/jonah_peretti.jpg'&gt;&lt;br/&gt;In the 2000s, brands like BuzzFeed and The Huffington Post (HuffPost's initial name) attracted eyeballs aplenty—and with them, ad dollars.   HuffPost owner Verizon Media will reportedly make a cash investment in BuzzFeed, plus nab a minority stake that values BuzzFeed at a reported $1.7 billion.     Add this to the list of accelerating trends  The trend here being consolidation in digital media.   Last year alone, Vox Media acquired New York Magazine's parent company, Vice Media acquired Refinery29, and Group Nine bought PopSugar.</description>
@@ -361,15 +370,6 @@
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/week-ahead-november-16</guid>
   <pubDate>Sun, 15 Nov 2020 15:51:26 -0800</pubDate>
- </item>
- <item>
-  <title>Asian-Pacific Countries Sign Historic Free Trade Deal </title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3133/asia-pacific_trade.jpg'&gt;&lt;br/&gt;On Sunday, 15 Asian-Pacific countries docusigned one of the largest free trade deals in history, the Regional Comprehensive Economic Partnership (RCEP).   The U.S. didn't get the invite. Most importantly, it includes China—the largest economy in the region.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/15/asianpacific-countries-sign-historic-free-trade-deal</link>
-  <author>Neal Freyman</author>
-  <categories>trade</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/asianpacific-countries-sign-historic-free-trade-deal</guid>
-  <pubDate>Sun, 15 Nov 2020 15:46:28 -0800</pubDate>
  </item>
 
 </channel>
