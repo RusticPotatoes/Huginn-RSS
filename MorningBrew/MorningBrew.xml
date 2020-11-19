@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/19</link>
- <lastBuildDate>Thu, 19 Nov 2020 14:43:45 -0800</lastBuildDate>
- <pubDate>Thu, 19 Nov 2020 14:43:45 -0800</pubDate>
+ <lastBuildDate>Thu, 19 Nov 2020 14:48:44 -0800</lastBuildDate>
+ <pubDate>Thu, 19 Nov 2020 14:48:44 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>BuzzFeed to Acquire HuffPost in Broader Partnership With Owner Verizon Media</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3178/jonah_peretti.jpg'&gt;&lt;br/&gt;In the 2000s, brands like BuzzFeed and The Huffington Post (HuffPost's initial name) attracted eyeballs aplenty—and with them, ad dollars.   HuffPost owner Verizon Media will reportedly make a cash investment in BuzzFeed, plus nab a minority stake that values BuzzFeed at a reported $1.7 billion.     Add this to the list of accelerating trends  The trend here being consolidation in digital media.   Last year alone, Vox Media acquired New York Magazine's parent company, Vice Media acquired Refinery29, and Group Nine bought PopSugar.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/19/buzzfeed-acquire-huffpost-broader-partnership-owner-verizon-media</link>
+  <author>Eliza Carter</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/buzzfeed-acquire-huffpost-broader-partnership-owner-verizon-media</guid>
+  <pubDate>Thu, 19 Nov 2020 14:46:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>Electric Vehicle Roundup: GM Ups Investments, UK Accelerates Gas Vehicle Ban</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1241/mr_krabs.png'&gt;&lt;br/&gt;  Finally, shares rose for Chinese EV makers Nio, Xpeng Motors, and Li Auto after they posted Q3 earnings this week.   SPACs are back.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/19/electric-vehicle-roundup-gm-ups-investments-uk-accelerates-gas-vehicle-ban</link>
+  <author>Alex Hickey</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/electric-vehicle-roundup-gm-ups-investments-uk-accelerates-gas-vehicle-ban</guid>
+  <pubDate>Thu, 19 Nov 2020 14:46:43 -0800</pubDate>
+ </item>
  <item>
   <title>Unemployment Claims Rise for First Time in 5 Weeks</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3180/usa.jpg'&gt;&lt;br/&gt;  The other provides an additional 13 weeks of federal benefits after state ones run out. Congress missed the sentiment behind Boxing Day. On Dec. 26, two CARES Act programs that offer additional federal unemployment benefits will expire: One expands eligibility to contract workers and the self-employed for the first time.</description>
@@ -352,24 +370,6 @@
   <categories>trade</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/asianpacific-countries-sign-historic-free-trade-deal</guid>
   <pubDate>Sun, 15 Nov 2020 15:46:28 -0800</pubDate>
- </item>
- <item>
-  <title>Biden Transition Team Elevates Racial Inequality Experts</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3135/joe_biden.jpg'&gt;&lt;br/&gt;Within their economic transition teams, Biden and VP-elect Kamala Harris have tapped experts in racial inequality, including...</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/15/biden-transition-team-elevates-racial-inequality-experts</link>
-  <author>Alex Hickey</author>
-  <categories>politics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/biden-transition-team-elevates-racial-inequality-experts</guid>
-  <pubDate>Sun, 15 Nov 2020 15:46:28 -0800</pubDate>
- </item>
- <item>
-  <title>Conservative Social Platform Parler Is Spreading Election Misinformation</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3134/us-it-lifestyle-media-pol.jpg'&gt;&lt;br/&gt;   Big picture: Compared to Twitter's 187 million daily users and Facebook properties’ 1.8 billion, Parler is still a small fish.   And now, election misinformation. Parler was envisioned as a libertarian platform for conservatives who felt censored by social media platforms, and it gained high-profile users including Fox Business anchor Maria Bartiromo, talk show host Dan Bongino, and Senators Ted Cruz and Rand Paul. Election 2020 winners: pizza delivery, headache hats, and conservative social network Parler.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/15/conservative-social-platform-parler-spreading-election-misinformation</link>
-  <author>Alex Hickey</author>
-  <categories>social-media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/conservative-social-platform-parler-spreading-election-misinformation</guid>
-  <pubDate>Sun, 15 Nov 2020 15:41:29 -0800</pubDate>
  </item>
 
 </channel>
