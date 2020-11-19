@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/19</link>
- <lastBuildDate>Thu, 19 Nov 2020 14:28:42 -0800</lastBuildDate>
- <pubDate>Thu, 19 Nov 2020 14:28:42 -0800</pubDate>
+ <lastBuildDate>Thu, 19 Nov 2020 14:43:45 -0800</lastBuildDate>
+ <pubDate>Thu, 19 Nov 2020 14:43:45 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Unemployment Claims Rise for First Time in 5 Weeks</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3180/usa.jpg'&gt;&lt;br/&gt;  The other provides an additional 13 weeks of federal benefits after state ones run out. Congress missed the sentiment behind Boxing Day. On Dec. 26, two CARES Act programs that offer additional federal unemployment benefits will expire: One expands eligibility to contract workers and the self-employed for the first time.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/19/unemployment-claims-rise-first-time-5-weeks</link>
+  <author>Alex Hickey</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/unemployment-claims-rise-first-time-5-weeks</guid>
+  <pubDate>Thu, 19 Nov 2020 14:41:43 -0800</pubDate>
+ </item>
  <item>
   <title>Housing Boom Continues to Expand, According to Existing Home Sales Data</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3179/housing_market.jpg'&gt;&lt;br/&gt;The median price of an existing home last month was $313,000, 15% higher than a year ago.   A combo of factors is driving the housing boom: Homes are the new offices, considering at least 21% of the labor force is working from home because of the pandemic.</description>
@@ -361,15 +370,6 @@
   <categories>social-media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/conservative-social-platform-parler-spreading-election-misinformation</guid>
   <pubDate>Sun, 15 Nov 2020 15:41:29 -0800</pubDate>
- </item>
- <item>
-  <title>Anime Has Found Receptive International Audience in Recent Years</title>
-  <description>&lt;img src='https://media.giphy.com/media/JRlqKEzTDKci5JPcaL/giphy.gif'&gt;&lt;br/&gt;Anime is going from niche → mainstream faster than air fryers, according to the WSJ: More than 100 million households around the world watched at least one anime title on Netflix in the year to September 2020.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/15/anime-found-receptive-international-audience-recent-years</link>
-  <author>Neal Freyman</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/anime-found-receptive-international-audience-recent-years</guid>
-  <pubDate>Sun, 15 Nov 2020 15:21:24 -0800</pubDate>
  </item>
 
 </channel>
