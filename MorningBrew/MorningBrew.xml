@@ -1,16 +1,115 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/16/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/18/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/16</link>
- <lastBuildDate>Mon, 16 Nov 2020 15:03:38 -0800</lastBuildDate>
- <pubDate>Mon, 16 Nov 2020 15:03:38 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/18</link>
+ <lastBuildDate>Wed, 18 Nov 2020 21:33:36 -0800</lastBuildDate>
+ <pubDate>Wed, 18 Nov 2020 21:33:36 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Bitcoin Closes in on Its All Time High After Latest Rally</title>
+  <description>&lt;img src='https://media.giphy.com/media/Vi5qBEpExoCmzEcDvF/giphy.gif'&gt;&lt;br/&gt;Whereas in late 2017 you couldn't go two Morning Brew newsletters without seeing a bitcoin headline, the conversation this time around has been tamer.   Crypto bulls think that reflects a more sustainable path forward, rather than the wild speculation that drove prices higher three Thanksgivings ago.     Ray Dalio is not one of them.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/17/bitcoin-closes-time-high-latest-rally</link>
+  <author>Neal Freyman</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/bitcoin-closes-time-high-latest-rally</guid>
+  <pubDate>Wed, 18 Nov 2020 21:31:45 -0800</pubDate>
+ </item>
+ <item>
+  <title>Senate Committee Grills Zuckerberg, Dorsey</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3158/mark_zuckerberg_remote_testimony.jpg'&gt;&lt;br/&gt;Zuckerberg said Facebook's ultra-sophisticated algorithms can be deployed to tackle the issues lawmakers raised. To channel Michael Barbaro… Here's what  you need  toknowabout it:  Republican lawmakers were most concerned about the platforms' content moderation policies, imploring the CEOs to intervene less in user activity.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/17/senate-committee-grills-zuckerberg-dorsey</link>
+  <author>Eliza Carter</author>
+  <categories>social-media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/senate-committee-grills-zuckerberg-dorsey</guid>
+  <pubDate>Wed, 18 Nov 2020 21:31:45 -0800</pubDate>
+ </item>
+ <item>
+  <title>Walmart, Home Depot Beat on Earnings</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2116/online_delivery_pile.jpg'&gt;&lt;br/&gt;  First up, Walmart In Q3, e-commerce sales at the world's biggest retailer surged 79% and profits 56%—impressive numbers despite a subdued back-to-school season and the petering out of government stimulus.   Other retail categories, like apparel, haven't been so lucky.   Pulse check: Home Depot and Walmart are situated in retail categories that have remained bright spots for consumer spending amid the pandemic—household essentials and home improvement.   And overall, October retail sales eked out 0.3% growth, below expectations and September's 1.6% gain.   + For more stories like this...   What's next?</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/17/walmart-home-depot-beat-earnings</link>
+  <author>Alex Hickey</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/walmart-home-depot-beat-earnings</guid>
+  <pubDate>Wed, 18 Nov 2020 21:31:44 -0800</pubDate>
+ </item>
+ <item>
+  <title>Senate Blocks Trump's Controversial Fed Nominee, Judy Shelton</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3157/judy_shelton.jpg'&gt;&lt;br/&gt;Judy Shelton, President Trump's nominee for the Federal Reserve's Board of Governors, was rejected in a 50–47 vote on the Senate floor yesterday. Learn more about what they do and who's in charge in the Brew's Fed diversity map. Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/17/senate-blocks-trumps-controversial-fed-nominee-judy-shelton</link>
+  <author>Alex Hickey</author>
+  <categories>fed</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/senate-blocks-trumps-controversial-fed-nominee-judy-shelton</guid>
+  <pubDate>Wed, 18 Nov 2020 21:31:44 -0800</pubDate>
+ </item>
+ <item>
+  <title>Boeing’s 737 Max Cleared for Takeoff</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3168/jet_contrails.jpg'&gt;&lt;br/&gt;And it features many superlatives:  Longest grounding of a jet in U.S. history  By far the worst crisis in Boeing’s 100+ year history Considering the 737 Max was the bestselling plane from the U.S.’ preeminent industrial company, some consider it to be the country’s most important manufacturing product. In March 2019, aviation regulators around the world said the jet couldn’t fly again until Boeing and the FAA figured out what went wrong... In an unofficial poll on Morning Brew’s Twitter account, 54% of respondents said they wouldn’t fly on a 737 Max.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/18/boeings-737-max-cleared-takeoff</link>
+  <author>Neal Freyman</author>
+  <categories>aviation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/boeings-737-max-cleared-takeoff</guid>
+  <pubDate>Wed, 18 Nov 2020 21:31:44 -0800</pubDate>
+ </item>
+ <item>
+  <title>Covid-19: States and Cities Reimpose Restrictions to Curb Infection Rates</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3170/mural_of_a_doctor_with_ppe.jpg'&gt;&lt;br/&gt;As the coronavirus sweeps across the country, states and cities are re-implementing restrictions on businesses and social life to curb infection numbers. Here’s some advice from experts. with Thanksgiving approaching, the No. 1 topic of conversation in our group chats is, “Should I go home for the holiday?”</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/18/covid19-states-cities-reimpose-restrictions-curb-infection-rates</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/covid19-states-cities-reimpose-restrictions-curb-infection-rates</guid>
+  <pubDate>Wed, 18 Nov 2020 21:31:44 -0800</pubDate>
+ </item>
+ <item>
+  <title>Amazon Dives Into Healthcare With Drug Delivery Service</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/512/pills.jpg'&gt;&lt;br/&gt;  How it works: Customers can use the Amazon app or website to order prescription drugs.   OK, so Amazon actually waded into healthcare a while ago—it bought online pharmacy PillPack in 2018. But this is a much bigger initiative.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/17/amazon-dives-healthcare-drug-delivery-service</link>
+  <author>Eliza Carter</author>
+  <categories>healthcare</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/amazon-dives-healthcare-drug-delivery-service</guid>
+  <pubDate>Wed, 18 Nov 2020 21:31:44 -0800</pubDate>
+ </item>
+ <item>
+  <title>Small Company, Big Moves: A Guide to Disruptive Investing</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3162/disruptive.jpg'&gt;&lt;br/&gt;  It’s more important to focus on companies who are disrupting industries that will be around for the long haul.   The world is changing faster than ever, and with the right companies in your portfolio, you can be one of the people helping it change for the better.   And as more and more of these organizations look to IPO or woo investors, learning what to look for can be the difference between spotting a unicorn and riding something into the ground. If it’s a new industry, who’s name do you hear over and over?   This is also the time to really take a look at the leader of this company.   Disrupt Smartly There are no sure things, and that is especially true when investing in small, innovative companies.   So we asked our investing friends at The Motley Fool to help us know what to look for before we get disruptive with our investing. There are no shortage of companies claiming to be disrupting something.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/18/small-company-big-moves-guide-disruptive-investing</link>
+  <author>Morning Brew</author>
+  <categories>investing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/small-company-big-moves-guide-disruptive-investing</guid>
+  <pubDate>Wed, 18 Nov 2020 21:31:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>Google Rolls Out New, All-in-One Payments App</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o6Mbl9dpwlw8mkLsY/giphy.gif'&gt;&lt;br/&gt;Bottom line: Google’s app will shine if you opt into its advanced features like allowing it to scan your Gmail inbox or Google Photos account to look for receipts. The tech giant rolled out a revamped Google Pay app yesterday highlighted by a new peer-to-peer payments system. Google says no.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/18/google-rolls-new-allinone-payments-app</link>
+  <author>Toby Howell</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/google-rolls-new-allinone-payments-app</guid>
+  <pubDate>Wed, 18 Nov 2020 21:31:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>Apple to Shrink App Store Fees—For Certain Developers</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2155/gold_apple.jpg'&gt;&lt;br/&gt;  Who counts as small: Those that generate $1 million or less in annual revenue (after Apple takes its 15% chunk).   Bottom line: The App Store is essential to Apple’s long-term strategy, but it’s also been the center of antitrust allegations in both the U.S. and the EU.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/18/apple-shrink-app-store-feesfor-certain-developers</link>
+  <author>Eliza Carter</author>
+  <categories>big-tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/apple-shrink-app-store-feesfor-certain-developers</guid>
+  <pubDate>Wed, 18 Nov 2020 21:31:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>Social Media Startup Yubo Has a Unique Business Model</title>
+  <description>&lt;img src='https://media.giphy.com/media/zOSEurjXCPTag/giphy.gif'&gt;&lt;br/&gt;  It’s doing a lot more than just copying Snap stories.   How it makes money: Yubo is completely ad-free. In between chats, users can swipe left or right to add friends, similar to Tinder. The app consists of a variety of “rooms” users can enter to videochat with friends or strangers.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/18/social-media-startup-yubo-unique-business-model</link>
+  <author>Toby Howell</author>
+  <categories>social-media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/social-media-startup-yubo-unique-business-model</guid>
+  <pubDate>Wed, 18 Nov 2020 21:31:43 -0800</pubDate>
+ </item>
  <item>
   <title>Jay Clayton is Stepping Down as Chairman of the SEC, but Succession Plans are Murky</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3148/jay_clayton.jpg'&gt;&lt;br/&gt;top candidates for the role under Biden will probably lean more toward Miss Trunchbull than Ned Schneebly when it comes to keeping Wall Street's excesses in check.   Looking ahead...</description>
@@ -271,105 +370,6 @@
   <categories>big-deal</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/pandemic-led-golf-boom</guid>
   <pubDate>Fri, 13 Nov 2020 12:36:50 -0800</pubDate>
- </item>
- <item>
-  <title>Next Wave of IPOs Includes DoorDash and Airbnb</title>
-  <description>&lt;img src='https://media.giphy.com/media/3ohzdUi5U8LBb4GD4s/giphy.gif'&gt;&lt;br/&gt;  Big picture: As bad as this year has been for procuring dumbbells, it's been quite hospitable to companies going public. It would be one of the biggest U.S. IPOs of the year.   Wish is an e-commerce app that sells ridiculously cheap items.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/12/next-wave-ipos-includes-doordash-airbnb?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/next-wave-ipos-includes-doordash-airbnb?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 13 Nov 2020 03:01:47 -0800</pubDate>
- </item>
- <item>
-  <title>Chipotle Debuts First Ghost Kitchen</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3112/chipotle_burrito_and_store.jpg'&gt;&lt;br/&gt;  Another benefit of ghost kitchens?   In Q3, Chipotle's digital sales soared over 200% yearly to $776 million.   Big picture: Covid-19 has been devastating the restaurant biz. Chipotle's version offers pickup as well.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/12/chipotle-debuts-first-ghost-kitchen?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>restaurant</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/chipotle-debuts-first-ghost-kitchen?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 13 Nov 2020 03:01:47 -0800</pubDate>
- </item>
- <item>
-  <title>We Could Get Used to This: Americans Embrace Remote Work, per Exclusive Morning Brew Polling</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/933/home_office.jpg'&gt;&lt;br/&gt;  A Morning Brew/Harris poll conducted last weekend found that… Two-thirds (67%) of remote workers say their lifestyle has gotten healthier since working from home. About the same amount (38%) say they've been taking time to cook their meals. This year's social distancing mandates have made employees much more familiar with each other's living rooms.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/12/get-used-americans-embrace-remote-work-per-exclusive-morning-brew-polling?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>polling</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/get-used-americans-embrace-remote-work-per-exclusive-morning-brew-polling?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 13 Nov 2020 03:01:47 -0800</pubDate>
- </item>
- <item>
-  <title>Powell: Rising U.S. Covid Cases Threaten Economic Recovery</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3114/covid-19_dodger_stadium.jpg'&gt;&lt;br/&gt;  Can a vaccine fix things?   Flattening the curve is made even harder by widespread pandemic fatigue.    "Certainly it's not going to be a pandemic for a lot longer, because I believe the vaccines are going to turn that around," Dr. Anthony Fauci said this week. Yesterday, Chicago Mayor Lori Lightfoot asked residents to go virtual this Thanksgiving and only venture out for essential needs. Parts of the economy are steadily recovering, but as a growing number of state and local governments reimpose restrictions on business activity and social life, "people may lose confidence that it is safe to go out," Powell said.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/12/powell-rising-us-covid-cases-threaten-economic-recovery?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>public-health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/powell-rising-us-covid-cases-threaten-economic-recovery?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 13 Nov 2020 03:01:47 -0800</pubDate>
- </item>
- <item>
-  <title>Powell: Rising U.S. Covid Cases Threaten Economic Recovery</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3114/covid-19_dodger_stadium.jpg'&gt;&lt;br/&gt;  Can a vaccine fix things?   Flattening the curve is made even harder by widespread pandemic fatigue.    "Certainly it's not going to be a pandemic for a lot longer, because I believe the vaccines are going to turn that around," Dr. Anthony Fauci said this week. Yesterday, Chicago Mayor Lori Lightfoot asked residents to go virtual this Thanksgiving and only venture out for essential needs. Parts of the economy are steadily recovering, but as a growing number of state and local governments reimpose restrictions on business activity and social life, "people may lose confidence that it is safe to go out," Powell said.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/12/powell-rising-us-covid-cases-threaten-economic-recovery</link>
-  <author>Alex Hickey</author>
-  <categories>public-health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/powell-rising-us-covid-cases-threaten-economic-recovery</guid>
-  <pubDate>Thu, 12 Nov 2020 14:36:47 -0800</pubDate>
- </item>
- <item>
-  <title>Chipotle Debuts First Ghost Kitchen</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3112/chipotle_burrito_and_store.jpg'&gt;&lt;br/&gt;  Another benefit of ghost kitchens?   In Q3, Chipotle's digital sales soared over 200% yearly to $776 million.   Big picture: Covid-19 has been devastating the restaurant biz. Chipotle's version offers pickup as well.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/12/chipotle-debuts-first-ghost-kitchen</link>
-  <author>Eliza Carter</author>
-  <categories>restaurant</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/chipotle-debuts-first-ghost-kitchen</guid>
-  <pubDate>Thu, 12 Nov 2020 14:21:47 -0800</pubDate>
- </item>
- <item>
-  <title>We Could Get Used to This: Americans Embrace Remote Work, per Exclusive Morning Brew Polling</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/933/home_office.jpg'&gt;&lt;br/&gt;  A Morning Brew/Harris poll conducted last weekend found that… Two-thirds (67%) of remote workers say their lifestyle has gotten healthier since working from home. About the same amount (38%) say they've been taking time to cook their meals. This year's social distancing mandates have made employees much more familiar with each other's living rooms.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/12/get-used-americans-embrace-remote-work-per-exclusive-morning-brew-polling</link>
-  <author>Eliza Carter</author>
-  <categories>polling</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/get-used-americans-embrace-remote-work-per-exclusive-morning-brew-polling</guid>
-  <pubDate>Thu, 12 Nov 2020 14:01:47 -0800</pubDate>
- </item>
- <item>
-  <title>Next Wave of IPOs Includes DoorDash and Airbnb</title>
-  <description>&lt;img src='https://media.giphy.com/media/3ohzdUi5U8LBb4GD4s/giphy.gif'&gt;&lt;br/&gt;  Big picture: As bad as this year has been for procuring dumbbells, it's been quite hospitable to companies going public. It would be one of the biggest U.S. IPOs of the year.   Wish is an e-commerce app that sells ridiculously cheap items.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/12/next-wave-ipos-includes-doordash-airbnb</link>
-  <author>Neal Freyman</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/next-wave-ipos-includes-doordash-airbnb</guid>
-  <pubDate>Thu, 12 Nov 2020 14:01:47 -0800</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: November 13</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1033/quiz.jpg'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/12/brews-weekly-news-quiz-november-13</link>
-  <author>Jamie Wilde</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/brews-weekly-news-quiz-november-13</guid>
-  <pubDate>Thu, 12 Nov 2020 14:01:47 -0800</pubDate>
- </item>
- <item>
-  <title>The Essentials, Issue #81: Stuffing</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/498/the_essentials.png'&gt;&lt;br/&gt;  Don’t know what to do with yourself on the holiday?   Stay Sharp  Snooze the right way: For all the stomach-sleepers, it’s time to change your sleep habits.   Here’s how to bring your family together while you’re apart.     Happy Place    Busà Photography / Getty Images Ah, Central Park in the fall. Leading Off    Giphy The best parts of Thanksgiving: mashed sweet potatoes with toasted marshmallows on top (golden, not burnt); the acceptable midday nap; and the leftovers.   Dept.   If you’re sick of cooking already, these Thanksgiving foods ship nationwide.   Keep it simple and gobble up a Thanksgiving-themed sheet-pan meal.   R&amp;R   LauriPatterson / Getty Images Spoonful of sugar: Whether you’re a lazy baker, a procrasti-baker, or a Martha Stewart in the making, whisk your way through this list of easy baking recipes with five ingredients or fewer. Your Thanksgiving dinner may not have as many chairs or as big a dessert table this year, but we’ve got a few ideas to make your Thanksgiving takeout and outdoor celebration a little bit better. Now she’s inspiring scientific research.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/12/essentials-issue-81-stuffing</link>
-  <author>Rachel Cantor</author>
-  <categories>recommendations</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/12/essentials-issue-81-stuffing</guid>
-  <pubDate>Thu, 12 Nov 2020 11:21:43 -0800</pubDate>
- </item>
- <item>
-  <title>The Masters Returns...in November</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3104/masters.jpg'&gt;&lt;br/&gt;  The Masters golf tournament tees off today at Augusta National Golf Club in Georgia. Tony Finau. The Brew's pick? $3 for a chicken wrap! That means we'll have to accept fall foliage in place of flowering azaleas.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/11/masters-returnsin-november?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/11/masters-returnsin-november?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 12 Nov 2020 03:01:44 -0800</pubDate>
  </item>
 
 </channel>
