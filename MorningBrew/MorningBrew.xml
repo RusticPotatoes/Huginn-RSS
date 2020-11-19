@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/18/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/19/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/19/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/18</link>
- <lastBuildDate>Wed, 18 Nov 2020 22:03:45 -0800</lastBuildDate>
- <pubDate>Wed, 18 Nov 2020 22:03:45 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/19</link>
+ <lastBuildDate>Thu, 19 Nov 2020 03:03:41 -0800</lastBuildDate>
+ <pubDate>Thu, 19 Nov 2020 03:03:41 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Social Media Startup Yubo Has a Unique Business Model</title>
+  <description>&lt;img src='https://media.giphy.com/media/zOSEurjXCPTag/giphy.gif'&gt;&lt;br/&gt;  It’s doing a lot more than just copying Snap stories.   How it makes money: Yubo is completely ad-free. In between chats, users can swipe left or right to add friends, similar to Tinder. The app consists of a variety of “rooms” users can enter to videochat with friends or strangers.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/18/social-media-startup-yubo-unique-business-model?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>social-media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/social-media-startup-yubo-unique-business-model?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 19 Nov 2020 03:01:39 -0800</pubDate>
+ </item>
+ <item>
+  <title>Apple to Shrink App Store Fees—For Certain Developers</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2155/gold_apple.jpg'&gt;&lt;br/&gt;  Who counts as small: Those that generate $1 million or less in annual revenue (after Apple takes its 15% chunk).   Bottom line: The App Store is essential to Apple’s long-term strategy, but it’s also been the center of antitrust allegations in both the U.S. and the EU.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/18/apple-shrink-app-store-feesfor-certain-developers?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>big-tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/apple-shrink-app-store-feesfor-certain-developers?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 19 Nov 2020 03:01:39 -0800</pubDate>
+ </item>
+ <item>
+  <title>Google Rolls Out New, All-in-One Payments App</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o6Mbl9dpwlw8mkLsY/giphy.gif'&gt;&lt;br/&gt;Bottom line: Google’s app will shine if you opt into its advanced features like allowing it to scan your Gmail inbox or Google Photos account to look for receipts. The tech giant rolled out a revamped Google Pay app yesterday highlighted by a new peer-to-peer payments system. Google says no.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/18/google-rolls-new-allinone-payments-app?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/google-rolls-new-allinone-payments-app?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 19 Nov 2020 03:01:39 -0800</pubDate>
+ </item>
+ <item>
+  <title>Covid-19: States and Cities Reimpose Restrictions to Curb Infection Rates</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3170/mural_of_a_doctor_with_ppe.jpg'&gt;&lt;br/&gt;As the coronavirus sweeps across the country, states and cities are re-implementing restrictions on businesses and social life to curb infection numbers. Here’s some advice from experts. with Thanksgiving approaching, the No. 1 topic of conversation in our group chats is, “Should I go home for the holiday?”</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/18/covid19-states-cities-reimpose-restrictions-curb-infection-rates?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/covid19-states-cities-reimpose-restrictions-curb-infection-rates?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 19 Nov 2020 03:01:39 -0800</pubDate>
+ </item>
+ <item>
+  <title>Boeing’s 737 Max Cleared for Takeoff</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3168/jet_contrails.jpg'&gt;&lt;br/&gt;And it features many superlatives:  Longest grounding of a jet in U.S. history  By far the worst crisis in Boeing’s 100+ year history Considering the 737 Max was the bestselling plane from the U.S.’ preeminent industrial company, some consider it to be the country’s most important manufacturing product. In March 2019, aviation regulators around the world said the jet couldn’t fly again until Boeing and the FAA figured out what went wrong... In an unofficial poll on Morning Brew’s Twitter account, 54% of respondents said they wouldn’t fly on a 737 Max.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/18/boeings-737-max-cleared-takeoff?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>aviation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/boeings-737-max-cleared-takeoff?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 19 Nov 2020 03:01:39 -0800</pubDate>
+ </item>
  <item>
   <title>Bitcoin Closes in on Its All Time High After Latest Rally</title>
   <description>&lt;img src='https://media.giphy.com/media/Vi5qBEpExoCmzEcDvF/giphy.gif'&gt;&lt;br/&gt;Whereas in late 2017 you couldn't go two Morning Brew newsletters without seeing a bitcoin headline, the conversation this time around has been tamer.   Crypto bulls think that reflects a more sustainable path forward, rather than the wild speculation that drove prices higher three Thanksgivings ago.     Ray Dalio is not one of them.</description>
@@ -325,51 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/kim-ng-makes-history-landing-general-manager-job-miami-marlins?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 14 Nov 2020 03:01:25 -0800</pubDate>
- </item>
- <item>
-  <title>Top Business Leaders Prepare for Trump-Biden Transition</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3130/electoral_map.jpg'&gt;&lt;br/&gt;  Concerned execs at more than two dozen major U.S. companies held a videoconference last week to hash out a plan should President Trump refuse to leave office, the AP reported yesterday. All 50 states were called as of yesterday, with Biden securing 306 electoral votes to Trump’s 232.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/13/top-business-leaders-prepare-trumpbiden-transition?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>election</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/top-business-leaders-prepare-trumpbiden-transition?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 14 Nov 2020 03:01:25 -0800</pubDate>
- </item>
- <item>
-  <title>Checking in on the "Third Wave" </title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3126/covid_metrics.jpeg'&gt;&lt;br/&gt;  In NYC, Mayor Bill de Blasio suggested the city may have to shut down in-person learning at public schools as early as Monday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/13/checking-third-wave?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/checking-third-wave?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 14 Nov 2020 03:01:25 -0800</pubDate>
- </item>
- <item>
-  <title>DoorDash, Pandemic Winner, Reveals IPO Prospectus</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1306/takeout.jpg'&gt;&lt;br/&gt;Quick backstory: DoorDash was founded in 2013 by Stanford students, and it’s raised $2.5 billion since, from the likes of SoftBank and other heavy-hitter VCs.  DoorDash divides people more than cilantro  While most business writers agree the economics of running a food delivery company are challenging, some are more confident than others in DoorDash’s sustainability.     The food delivery startup released its IPO prospectus, giving the public a comprehensive view of its business before heading to the public markets in the next few weeks.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/13/doordash-pandemic-winner-reveals-ipo-prospectus?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>food-delivery</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/doordash-pandemic-winner-reveals-ipo-prospectus?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 14 Nov 2020 03:01:25 -0800</pubDate>
- </item>
- <item>
-  <title>Top Business Leaders Prepare for Trump-Biden Transition</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3130/electoral_map.jpg'&gt;&lt;br/&gt;  Concerned execs at more than two dozen major U.S. companies held a videoconference last week to hash out a plan should President Trump refuse to leave office, the AP reported yesterday. All 50 states were called as of yesterday, with Biden securing 306 electoral votes to Trump’s 232.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/13/top-business-leaders-prepare-trumpbiden-transition</link>
-  <author>Jamie Wilde</author>
-  <categories>election</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/top-business-leaders-prepare-trumpbiden-transition</guid>
-  <pubDate>Fri, 13 Nov 2020 15:01:45 -0800</pubDate>
- </item>
- <item>
-  <title>SpaceX’s First Officially Sanctioned Manned Mission Blasts Off</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3128/us-trump-space-nasa-space.jpg'&gt;&lt;br/&gt;A SpaceX Dragon spacecraft, nicknamed “Resilience” by its crew, is scheduled to fire off into the friendly skies tomorrow night. Sunday’s lift-off is the U.S.’ first Federal Aviation Administration-approved, manned space mission since the Space Shuttle was sent to the island of misfit rockets in 2011.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/13/spacexs-first-officially-sanctioned-manned-mission-blasts-off</link>
-  <author>Jamie Wilde</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/13/spacexs-first-officially-sanctioned-manned-mission-blasts-off</guid>
-  <pubDate>Fri, 13 Nov 2020 14:56:45 -0800</pubDate>
  </item>
 
 </channel>
