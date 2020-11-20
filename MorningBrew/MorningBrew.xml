@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/20</link>
- <lastBuildDate>Fri, 20 Nov 2020 15:08:30 -0800</lastBuildDate>
- <pubDate>Fri, 20 Nov 2020 15:08:30 -0800</pubDate>
+ <lastBuildDate>Fri, 20 Nov 2020 15:13:35 -0800</lastBuildDate>
+ <pubDate>Fri, 20 Nov 2020 15:13:35 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Pfizer Applies for Emergency Use Authorization</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3074/vaccine.jpg'&gt;&lt;br/&gt;  With vaccines, “emergency” is relative. If that’s approved, about 20 million Americans—likely healthcare workers and the elderly—could be immunized before the end of the year. Moderna, which reported a 94.5% effective vaccine, will be next to file an application.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/20/pfizer-applies-emergency-use-authorization</link>
+  <author>Neal Freyman</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/pfizer-applies-emergency-use-authorization</guid>
+  <pubDate>Fri, 20 Nov 2020 15:11:39 -0800</pubDate>
+ </item>
  <item>
   <title>The Theatrical Window Is Shrinking, Fast</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3191/home_theater.jpg'&gt;&lt;br/&gt;On Monday, Universal struck a landmark deal with theater chain Cinemark that allows it to debut a movie on premium streaming services just 31 days after it hits theaters. But amid the pandemic, Hollywood is repositioning its financial calculus toward home theaters and away from theater theaters.</description>
@@ -361,15 +370,6 @@
   <categories>auto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/16/tesla-join-sp-december</guid>
   <pubDate>Mon, 16 Nov 2020 15:01:33 -0800</pubDate>
- </item>
- <item>
-  <title>Obama Memoir Released as Booksellers Grapple With Pandemic</title>
-  <description>&lt;img src='https://media.giphy.com/media/YFH1n6Cfwouo3Muuy0/giphy.gif'&gt;&lt;br/&gt;  The big question: Will Barack top his wife Michelle's 2018 memoir, Becoming, which has sold 14+ million copies globally?   The famous Strand bookstore in NYC said sales dropped 70% from last year. Barack Obama's latest memoir, A Promised Land, goes on sale today. We hear there's a steak dinner on the line.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/16/obama-memoir-released-booksellers-grapple-pandemic</link>
-  <author>Neal Freyman</author>
-  <categories>publishing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/16/obama-memoir-released-booksellers-grapple-pandemic</guid>
-  <pubDate>Mon, 16 Nov 2020 14:56:32 -0800</pubDate>
  </item>
 
 </channel>
