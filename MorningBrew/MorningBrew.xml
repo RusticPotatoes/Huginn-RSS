@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/20</link>
- <lastBuildDate>Fri, 20 Nov 2020 08:33:41 -0800</lastBuildDate>
- <pubDate>Fri, 20 Nov 2020 08:33:41 -0800</pubDate>
+ <lastBuildDate>Fri, 20 Nov 2020 09:33:41 -0800</lastBuildDate>
+ <pubDate>Fri, 20 Nov 2020 09:33:41 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Crossword: VP Pun-dits</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2397/crossword.jpg'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/20/brew-crossword-vp-pundits</link>
+  <author>Toby Howell</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/brew-crossword-vp-pundits</guid>
+  <pubDate>Fri, 20 Nov 2020 09:31:44 -0800</pubDate>
+ </item>
  <item>
   <title>2020 U.S. Consumer Habits Mystify Finance Biz</title>
   <description>&lt;img src='https://media.giphy.com/media/2WdOfxEu9ZcnWajI30/giphy.gif'&gt;&lt;br/&gt;  Consumer loan bonds outpaced junk bonds, corporate loans, and mortgage-backed securities .   You’d be wrong  U.S. consumers are in fine form—by some measures. In the wake of the 2008 financial crisis, consumer lending firms suffered losses of 60%–70%, according to consumer lending firm OneMain’s chief risk officer. This year has not been an easy one to be a business writer—though I’m lucky to have remained employed and many people’s jobs are way more challenging than mine.     So...   How do we know that? Those are a class of “asset-backed securities,” or financial instruments that bet on an asset, like a consumer loan, yielding a return. Plus, in the quarantine era, there just isn’t as much to spend money on. what does it all mean? big time.</description>
@@ -361,15 +370,6 @@
   <categories>recommendations</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/16/essentials-issue-82big-news</guid>
   <pubDate>Mon, 16 Nov 2020 12:21:24 -0800</pubDate>
- </item>
- <item>
-  <title>Week Ahead: November 16</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2698/questioncart.jpg'&gt;&lt;br/&gt;  Economic data: Retail is the main focus here, too. Retail sales for October will be released on Tuesday, which will tell us more about the strength of the American consumer.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/15/week-ahead-november-16?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/week-ahead-november-16?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 16 Nov 2020 03:01:25 -0800</pubDate>
  </item>
 
 </channel>
