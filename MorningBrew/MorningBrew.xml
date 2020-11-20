@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/19/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/19/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/20/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/19</link>
- <lastBuildDate>Thu, 19 Nov 2020 15:03:42 -0800</lastBuildDate>
- <pubDate>Thu, 19 Nov 2020 15:03:42 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/20</link>
+ <lastBuildDate>Fri, 20 Nov 2020 03:03:35 -0800</lastBuildDate>
+ <pubDate>Fri, 20 Nov 2020 03:03:35 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Housing Boom Continues to Expand, According to Existing Home Sales Data</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3179/housing_market.jpg'&gt;&lt;br/&gt;The median price of an existing home last month was $313,000, 15% higher than a year ago.   A combo of factors is driving the housing boom: Homes are the new offices, considering at least 21% of the labor force is working from home because of the pandemic.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/19/housing-boom-continues-expand-according-existing-home-sales-data?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>housing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/housing-boom-continues-expand-according-existing-home-sales-data?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 20 Nov 2020 03:01:44 -0800</pubDate>
+ </item>
+ <item>
+  <title>Electric Vehicle Roundup: GM Ups Investments, UK Accelerates Gas Vehicle Ban</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1241/mr_krabs.png'&gt;&lt;br/&gt;  Finally, shares rose for Chinese EV makers Nio, Xpeng Motors, and Li Auto after they posted Q3 earnings this week.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/19/electric-vehicle-roundup-gm-ups-investments-uk-accelerates-gas-vehicle-ban?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/electric-vehicle-roundup-gm-ups-investments-uk-accelerates-gas-vehicle-ban?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 20 Nov 2020 03:01:44 -0800</pubDate>
+ </item>
+ <item>
+  <title>Unemployment Claims Rise for First Time in 5 Weeks</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3180/usa.jpg'&gt;&lt;br/&gt;  The other provides an additional 13 weeks of federal benefits after state ones run out. Congress missed the sentiment behind Boxing Day. On Dec. 26, two CARES Act programs that offer additional federal unemployment benefits will expire: One expands eligibility to contract workers and the self-employed for the first time.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/19/unemployment-claims-rise-first-time-5-weeks?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/unemployment-claims-rise-first-time-5-weeks?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 20 Nov 2020 03:01:44 -0800</pubDate>
+ </item>
+ <item>
+  <title>BuzzFeed to Acquire HuffPost in Broader Partnership With Owner Verizon Media</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3178/jonah_peretti.jpg'&gt;&lt;br/&gt;In the 2000s, brands like BuzzFeed and The Huffington Post (HuffPost's initial name) attracted eyeballs aplenty—and with them, ad dollars.   HuffPost owner Verizon Media will reportedly make a cash investment in BuzzFeed, plus nab a minority stake that values BuzzFeed at a reported $1.7 billion.     Add this to the list of accelerating trends  The trend here being consolidation in digital media.   Last year alone, Vox Media acquired New York Magazine's parent company, Vice Media acquired Refinery29, and Group Nine bought PopSugar.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/19/buzzfeed-acquire-huffpost-broader-partnership-owner-verizon-media?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/buzzfeed-acquire-huffpost-broader-partnership-owner-verizon-media?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 20 Nov 2020 03:01:44 -0800</pubDate>
+ </item>
  <item>
   <title>The Brew’s Weekly News Quiz: November 20</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1033/quiz.jpg'&gt;&lt;br/&gt;</description>
@@ -334,42 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/anime-found-receptive-international-audience-recent-years?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 16 Nov 2020 03:01:25 -0800</pubDate>
- </item>
- <item>
-  <title>Biden Transition Team Elevates Racial Inequality Experts</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3135/joe_biden.jpg'&gt;&lt;br/&gt;Within their economic transition teams, Biden and VP-elect Kamala Harris have tapped experts in racial inequality, including...</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/15/biden-transition-team-elevates-racial-inequality-experts?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>politics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/biden-transition-team-elevates-racial-inequality-experts?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 16 Nov 2020 03:01:25 -0800</pubDate>
- </item>
- <item>
-  <title>Asian-Pacific Countries Sign Historic Free Trade Deal </title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3133/asia-pacific_trade.jpg'&gt;&lt;br/&gt;On Sunday, 15 Asian-Pacific countries docusigned one of the largest free trade deals in history, the Regional Comprehensive Economic Partnership (RCEP).   The U.S. didn't get the invite. Most importantly, it includes China—the largest economy in the region.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/15/asianpacific-countries-sign-historic-free-trade-deal?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>trade</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/asianpacific-countries-sign-historic-free-trade-deal?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 16 Nov 2020 03:01:25 -0800</pubDate>
- </item>
- <item>
-  <title>Conservative Social Platform Parler Is Spreading Election Misinformation</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3134/us-it-lifestyle-media-pol.jpg'&gt;&lt;br/&gt;Parler was envisioned as a libertarian platform for conservatives who felt censored by social media platforms, and it gained high-profile users including Fox Business anchor Maria Bartiromo, talk show host Dan Bongino, and Senators Ted Cruz and Rand Paul.    Big picture: Compared to Twitter's 187 million daily users and Facebook’s 1.8 billion across its platforms, Parler is still a small fish.   And now, election misinformation. Election 2020 winners: pizza delivery, headache hats, and conservative social network Parler.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/15/conservative-social-platform-parler-spreading-election-misinformation?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>social-media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/conservative-social-platform-parler-spreading-election-misinformation?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 16 Nov 2020 03:01:25 -0800</pubDate>
- </item>
- <item>
-  <title>Week Ahead: November 16</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2698/questioncart.jpg'&gt;&lt;br/&gt;  Retail sales for October will be released on Tuesday, which will tell us more about the strength of the American consumer. Earnings: We're just about ready to put Q3 earnings season in the rearview, but not before retailers including Walmart, Target, and Home Depot report their financials for the previous quarter early this week.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/15/week-ahead-november-16</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/15/week-ahead-november-16</guid>
-  <pubDate>Sun, 15 Nov 2020 15:51:26 -0800</pubDate>
  </item>
 
 </channel>
