@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/20</link>
- <lastBuildDate>Fri, 20 Nov 2020 15:03:33 -0800</lastBuildDate>
- <pubDate>Fri, 20 Nov 2020 15:03:33 -0800</pubDate>
+ <lastBuildDate>Fri, 20 Nov 2020 15:08:30 -0800</lastBuildDate>
+ <pubDate>Fri, 20 Nov 2020 15:08:30 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Theatrical Window Is Shrinking, Fast</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3191/home_theater.jpg'&gt;&lt;br/&gt;On Monday, Universal struck a landmark deal with theater chain Cinemark that allows it to debut a movie on premium streaming services just 31 days after it hits theaters. But amid the pandemic, Hollywood is repositioning its financial calculus toward home theaters and away from theater theaters.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/20/theatrical-window-shrinking-fast</link>
+  <author>Jamie Wilde</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/theatrical-window-shrinking-fast</guid>
+  <pubDate>Fri, 20 Nov 2020 15:06:35 -0800</pubDate>
+ </item>
+ <item>
+  <title>Regional Lockdown in Australia Lifted After It Was Discovered That Pizza Worker Lied</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3193/south_australians_adjust.jpg'&gt;&lt;br/&gt;Yesterday, authorities in South Australia lifted an emergency six-day lockdown early, after it was revealed a guy who worked at a pizza shop deliberately misled contact tracers.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/20/regional-lockdown-australia-lifted-discovered-pizza-worker-lied</link>
+  <author>Toby Howell</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/regional-lockdown-australia-lifted-discovered-pizza-worker-lied</guid>
+  <pubDate>Fri, 20 Nov 2020 15:06:35 -0800</pubDate>
+ </item>
  <item>
   <title>Wish, Roblox, and Affirm Headline Latest Public Offering Filings</title>
   <description>&lt;img src='https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif'&gt;&lt;br/&gt;  Wish isn’t the only one promoting its growth story The ultra-popular video game platform Roblox and personal lender Affirm also revealed their IPO paperwork this week.   Crazy stat of the day: Affirm’s partnership with Peloton accounts for 30% of its total revenue.</description>
@@ -352,24 +370,6 @@
   <categories>publishing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/16/obama-memoir-released-booksellers-grapple-pandemic</guid>
   <pubDate>Mon, 16 Nov 2020 14:56:32 -0800</pubDate>
- </item>
- <item>
-  <title>Moderna Vaccine Was 95% Effective in Phase 3 Trials</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3150/covid-19_vaccine.jpg'&gt;&lt;br/&gt;  Plus, Moderna's vaccine can hold for a month at a normal refrigerator freezer's temp, making it much easier to transport than Pfizer's, which requires -94°F.   The details: Moderna's month-long trial involved 30,000 volunteers split between placebo and vaccine groups. That rally comes despite rising U.S. cases and new restrictions, which could disproportionately hurt small-cap's profits this quarter, the WSJ reports. Yesterday, Moderna announced its vaccine was 94.5% effective in Phase 3 clinical trials, just one week after Pfizer bragged its vaccine was over 90% effective.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/16/moderna-vaccine-95-effective-phase-3-trials</link>
-  <author>Alex Hickey</author>
-  <categories>pharma</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/16/moderna-vaccine-95-effective-phase-3-trials</guid>
-  <pubDate>Mon, 16 Nov 2020 14:56:31 -0800</pubDate>
- </item>
- <item>
-  <title>Airbnb Discloses IPO Filing in a Startling Comeback</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/508/airbnb.jpg'&gt;&lt;br/&gt;Yesterday, home rental company Airbnb released its long-awaited IPO filing.   + If you've got some time on your hands... Expedia CEO Peter Kern, for one, gave a bullish take to Bloomberg recently: "Rome has been through a plague or two."</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/16/airbnb-discloses-ipo-filing-startling-comeback</link>
-  <author>Neal Freyman</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/16/airbnb-discloses-ipo-filing-startling-comeback</guid>
-  <pubDate>Mon, 16 Nov 2020 14:51:28 -0800</pubDate>
  </item>
 
 </channel>
