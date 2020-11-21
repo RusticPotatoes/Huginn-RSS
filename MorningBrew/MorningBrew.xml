@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/20/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/21/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/20</link>
- <lastBuildDate>Fri, 20 Nov 2020 15:13:35 -0800</lastBuildDate>
- <pubDate>Fri, 20 Nov 2020 15:13:35 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/21</link>
+ <lastBuildDate>Sat, 21 Nov 2020 03:03:36 -0800</lastBuildDate>
+ <pubDate>Sat, 21 Nov 2020 03:03:36 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Regional Lockdown in Australia Lifted After It Was Discovered That Pizza Worker Lied</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3193/south_australians_adjust.jpg'&gt;&lt;br/&gt;  The backstory: The worker said he contracted Covid-19 shortly after picking up a takeout pizza at a restaurant (not the one he worked at).</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/20/regional-lockdown-australia-lifted-discovered-pizza-worker-lied?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/regional-lockdown-australia-lifted-discovered-pizza-worker-lied?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 21 Nov 2020 03:01:33 -0800</pubDate>
+ </item>
+ <item>
+  <title>The Theatrical Window Is Shrinking, Fast</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3191/home_theater.jpg'&gt;&lt;br/&gt;On Monday, Universal struck a landmark deal with theater chain Cinemark that allows it to debut a movie on premium streaming services just 31 days after it hits theaters. But amid the pandemic, Hollywood is repositioning its financial calculus toward home theaters and away from theater theaters.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/20/theatrical-window-shrinking-fast?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/theatrical-window-shrinking-fast?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 21 Nov 2020 03:01:32 -0800</pubDate>
+ </item>
+ <item>
+  <title>Wish, Roblox, and Affirm Headline Latest Public Offering Filings</title>
+  <description>&lt;img src='https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif'&gt;&lt;br/&gt;  Wish isn’t the only one promoting its growth story The personal lender Affirm and ultra-popular videogame platform Roblox also revealed their IPO paperwork this week.   Crazy stat of the day: Affirm’s partnership with Peloton accounts for 30% of its total revenue.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/20/wish-roblox-affirm-headline-latest-public-offering-filings?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>ipo</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/wish-roblox-affirm-headline-latest-public-offering-filings?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 21 Nov 2020 03:01:32 -0800</pubDate>
+ </item>
+ <item>
+  <title>Pfizer Applies for Emergency Use Authorization</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3074/vaccine.jpg'&gt;&lt;br/&gt;  With vaccines, “emergency” is relative. If that’s approved, about 20 million Americans—likely healthcare workers and the elderly—could be immunized before the end of the year. Moderna, which reported a 94.5% effective vaccine, will be next to file an application.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/20/pfizer-applies-emergency-use-authorization?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/pfizer-applies-emergency-use-authorization?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 21 Nov 2020 03:01:32 -0800</pubDate>
+ </item>
+ <item>
+  <title>Steve Mnuchin Defends Pulling of Fed Emergency Lending Funds</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3189/treasury_secretary_mnuchi.jpg'&gt;&lt;br/&gt;It’s the rivalry no one asked for but we got because everything else is canceled.   Mnuchin: Nobody panic Mnuchin tried to calm down investors by doing an interview with someone who’s known for calming down investors: Jim Cramer. He said he’s made his pick, one who will be accepted by “all elements of the Democratic Party.” and there’s plenty of money available, should it be needed. But Thursday’s surprise announcement was one of the few times that politics may have weaseled into their relationship.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/20/steve-mnuchin-defends-pulling-fed-emergency-lending-funds?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/steve-mnuchin-defends-pulling-fed-emergency-lending-funds?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 21 Nov 2020 03:01:32 -0800</pubDate>
+ </item>
  <item>
   <title>Pfizer Applies for Emergency Use Authorization</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3074/vaccine.jpg'&gt;&lt;br/&gt;  With vaccines, “emergency” is relative. If that’s approved, about 20 million Americans—likely healthcare workers and the elderly—could be immunized before the end of the year. Moderna, which reported a 94.5% effective vaccine, will be next to file an application.</description>
@@ -325,51 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/google-rolls-new-allinone-payments-app</guid>
   <pubDate>Wed, 18 Nov 2020 21:31:43 -0800</pubDate>
- </item>
- <item>
-  <title>Apple to Shrink App Store Fees—For Certain Developers</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2155/gold_apple.jpg'&gt;&lt;br/&gt;  Who counts as small: Those that generate $1 million or less in annual revenue (after Apple takes its 15% chunk).   Bottom line: The App Store is essential to Apple’s long-term strategy, but it’s also been the center of antitrust allegations in both the U.S. and the EU.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/18/apple-shrink-app-store-feesfor-certain-developers</link>
-  <author>Eliza Carter</author>
-  <categories>big-tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/apple-shrink-app-store-feesfor-certain-developers</guid>
-  <pubDate>Wed, 18 Nov 2020 21:31:43 -0800</pubDate>
- </item>
- <item>
-  <title>Social Media Startup Yubo Has a Unique Business Model</title>
-  <description>&lt;img src='https://media.giphy.com/media/zOSEurjXCPTag/giphy.gif'&gt;&lt;br/&gt;  It’s doing a lot more than just copying Snap stories.   How it makes money: Yubo is completely ad-free. In between chats, users can swipe left or right to add friends, similar to Tinder. The app consists of a variety of “rooms” users can enter to videochat with friends or strangers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/18/social-media-startup-yubo-unique-business-model</link>
-  <author>Toby Howell</author>
-  <categories>social-media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/social-media-startup-yubo-unique-business-model</guid>
-  <pubDate>Wed, 18 Nov 2020 21:31:43 -0800</pubDate>
- </item>
- <item>
-  <title>Jay Clayton is Stepping Down as Chairman of the SEC, but Succession Plans are Murky</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3148/jay_clayton.jpg'&gt;&lt;br/&gt;top candidates for the role under Biden will probably lean more toward Miss Trunchbull than Ned Schneebly when it comes to keeping Wall Street's excesses in check.   Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/16/jay-clayton-stepping-chairman-sec-succession-plans-murky</link>
-  <author>Toby Howell</author>
-  <categories>regulatory</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/16/jay-clayton-stepping-chairman-sec-succession-plans-murky</guid>
-  <pubDate>Mon, 16 Nov 2020 15:01:37 -0800</pubDate>
- </item>
- <item>
-  <title>Actors Ryan Reynolds and Will McElhenney Buy Small Welsh Soccer Club</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3151/wrexham_afc.png'&gt;&lt;br/&gt;Blake Lively's husband and notable Canadian, Ryan Reynolds, has teamed up with It's Always Sunny in Philadelphia co-creator Rob McElhenney to buy the Welsh soccer team Wrexham AFC.   Get to know Wrexham  Although currently languishing in the fifth tier of English professional soccer, Wrexham has a rich history.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/16/actors-ryan-reynolds-will-mcelhenney-buy-small-welsh-soccer-club</link>
-  <author>Toby Howell</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/16/actors-ryan-reynolds-will-mcelhenney-buy-small-welsh-soccer-club</guid>
-  <pubDate>Mon, 16 Nov 2020 15:01:35 -0800</pubDate>
- </item>
- <item>
-  <title>Tesla to Join S&amp;P in December</title>
-  <description>&lt;img src='https://media.giphy.com/media/jpF6W9JKAXfP32wbU2/giphy.gif'&gt;&lt;br/&gt;They’ll announce what company Tesla is booting off at a later date.   Who’s your money on?</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/16/tesla-join-sp-december</link>
-  <author>Alex Hickey</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/16/tesla-join-sp-december</guid>
-  <pubDate>Mon, 16 Nov 2020 15:01:33 -0800</pubDate>
  </item>
 
 </channel>
