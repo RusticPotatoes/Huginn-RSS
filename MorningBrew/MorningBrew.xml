@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/23</link>
- <lastBuildDate>Mon, 23 Nov 2020 14:33:53 -0800</lastBuildDate>
- <pubDate>Mon, 23 Nov 2020 14:33:53 -0800</pubDate>
+ <lastBuildDate>Mon, 23 Nov 2020 14:38:58 -0800</lastBuildDate>
+ <pubDate>Mon, 23 Nov 2020 14:38:58 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>AstraZeneca's Vaccine Has Major Implications for Developing Countries</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3219/vaccine.jpg'&gt;&lt;br/&gt;AstraZeneca doesn't plan on profiting from its vaccine and will distribute doses at cost (a few bucks a pop). The company has committed 300 million doses to a WHO initiative for equitable vaccine access and another 1 billion for developing countries.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/23/astrazenecas-vaccine-major-implications-developing-countries</link>
+  <author>Alex Hickey</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/astrazenecas-vaccine-major-implications-developing-countries</guid>
+  <pubDate>Mon, 23 Nov 2020 14:36:57 -0800</pubDate>
+ </item>
  <item>
   <title>Snapchat Rolls Out Its TikTok Competitor, Spotlight</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3222/tech_spidermans.png'&gt;&lt;br/&gt;  To make sure that Spotlight content gets created, Snap is adopting the "pay people a ridiculous amount of money" approach.</description>
@@ -361,15 +370,6 @@
   <categories>aviation</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/boeings-737-max-cleared-takeoff?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 19 Nov 2020 03:01:39 -0800</pubDate>
- </item>
- <item>
-  <title>Bitcoin Closes in on Its All Time High After Latest Rally</title>
-  <description>&lt;img src='https://media.giphy.com/media/Vi5qBEpExoCmzEcDvF/giphy.gif'&gt;&lt;br/&gt;Whereas in late 2017 you couldn't go two Morning Brew newsletters without seeing a bitcoin headline, the conversation this time around has been tamer.   Crypto bulls think that reflects a more sustainable path forward, rather than the wild speculation that drove prices higher three Thanksgivings ago.     Ray Dalio is not one of them.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/17/bitcoin-closes-time-high-latest-rally?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/bitcoin-closes-time-high-latest-rally?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 18 Nov 2020 22:01:43 -0800</pubDate>
  </item>
 
 </channel>
