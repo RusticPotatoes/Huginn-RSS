@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/23</link>
- <lastBuildDate>Mon, 23 Nov 2020 14:38:58 -0800</lastBuildDate>
- <pubDate>Mon, 23 Nov 2020 14:38:58 -0800</pubDate>
+ <lastBuildDate>Mon, 23 Nov 2020 14:53:59 -0800</lastBuildDate>
+ <pubDate>Mon, 23 Nov 2020 14:53:59 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>GM Pulls out of Trump Administration Lawsuit Against CA Emissions Rules</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3220/mary_barra.jpg'&gt;&lt;br/&gt;GM joined Fiat Chrysler, Toyota, and several smaller automakers in supporting the White House. Yesterday, GM CEO Mary Barra pulled her company's support for a Trump administration lawsuit against the state of California. Looking ahead…Barra is trying to buddy up to Biden, who's made supporting the electric vehicle industry a priority for his administration.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/23/gm-pulls-trump-administration-lawsuit-ca-emissions-rules</link>
+  <author>Alex Hickey</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/gm-pulls-trump-administration-lawsuit-ca-emissions-rules</guid>
+  <pubDate>Mon, 23 Nov 2020 14:51:58 -0800</pubDate>
+ </item>
  <item>
   <title>AstraZeneca's Vaccine Has Major Implications for Developing Countries</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3219/vaccine.jpg'&gt;&lt;br/&gt;AstraZeneca doesn't plan on profiting from its vaccine and will distribute doses at cost (a few bucks a pop). The company has committed 300 million doses to a WHO initiative for equitable vaccine access and another 1 billion for developing countries.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/covid19-states-cities-reimpose-restrictions-curb-infection-rates?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 19 Nov 2020 03:01:39 -0800</pubDate>
- </item>
- <item>
-  <title>Boeing’s 737 Max Cleared for Takeoff</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3168/jet_contrails.jpg'&gt;&lt;br/&gt;And it features many superlatives:  Longest grounding of a jet in U.S. history  By far the worst crisis in Boeing’s 100+ year history Considering the 737 Max was the bestselling plane from the U.S.’ preeminent industrial company, some consider it to be the country’s most important manufacturing product. In March 2019, aviation regulators around the world said the jet couldn’t fly again until Boeing and the FAA figured out what went wrong... In an unofficial poll on Morning Brew’s Twitter account, 54% of respondents said they wouldn’t fly on a 737 Max.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/18/boeings-737-max-cleared-takeoff?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>aviation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/boeings-737-max-cleared-takeoff?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 19 Nov 2020 03:01:39 -0800</pubDate>
  </item>
 
