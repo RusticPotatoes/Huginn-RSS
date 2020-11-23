@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/22/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/23/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/22</link>
- <lastBuildDate>Sun, 22 Nov 2020 19:24:52 -0800</lastBuildDate>
- <pubDate>Sun, 22 Nov 2020 19:24:52 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/23</link>
+ <lastBuildDate>Mon, 23 Nov 2020 03:05:42 -0800</lastBuildDate>
+ <pubDate>Mon, 23 Nov 2020 03:05:42 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: November 23</title>
+  <description>&lt;img src='https://media.giphy.com/media/Grqq2Ml8YrEC4/giphy.gif'&gt;&lt;br/&gt;    Economic data: Wednesday is where the action is.    Everything else:  On Tuesday, author Ernest Cline will follow up his sci-fi hit Ready Player One with—wait for it—Ready Player Two. Rock star Miley Cyrus’s new album, Plastic Hearts, drops on Friday. Go Terps.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/22/week-ahead-november-23?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/22/week-ahead-november-23?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 23 Nov 2020 03:02:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>Diners Wait More Than Half a Day for First Bite of In-N-Out in Colorado</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3195/aurora_pd_tweet.png'&gt;&lt;br/&gt;said traffic at the In-N-Out was "much improved."</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/22/diners-wait-half-day-first-bite-innout-colorado?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/22/diners-wait-half-day-first-bite-innout-colorado?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 23 Nov 2020 03:02:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>Cocoa Futures Skyrocket Thanks to Reported Hershey’s Trade</title>
+  <description>&lt;img src='https://media.giphy.com/media/Tt9jctxaVjRny/giphy.gif'&gt;&lt;br/&gt;Those two West African countries, which account for almost 70% of total global cocoa production, recently instituted a fee to boost cocoa farmers’ incomes.   Why is the cocoa so hot?    The futures markets are typically the domain of traders and speculators, the Financial Times explains.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/22/cocoa-futures-skyrocket-thanks-reported-hersheys-trade?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>commodities</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/22/cocoa-futures-skyrocket-thanks-reported-hersheys-trade?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 23 Nov 2020 03:02:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>Charli D’Amelio Hits 100 Million Followers on TikTok</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1699/tiktok_on_mobile_phone.jpg'&gt;&lt;br/&gt;  The nowstory: Charli, and her increasingly famous family, are thinking way beyond TikTok.  In the social media realm, Charli has 8.5 million subscribers on YouTube and 33.7 million followers on Instagram.     Even more impressively, she did it without drinking cranberry juice.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/23/charli-damelio-hits-100-million-followers-tiktok?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>social-media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/charli-damelio-hits-100-million-followers-tiktok?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 23 Nov 2020 03:02:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>Why This Thanksgiving Will Be Unlike Any We’ve Had Before</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3198/macy_s_thanksgiving_parade.jpg'&gt;&lt;br/&gt;  Finally, it’s runty turkeys’ time to shine  Because people are planning smaller gatherings, smaller turkeys are taking flight off of shelves they likely never could as birds."     In response to outcry from those small businesses, large retailers agreed to delay their Black Vendredi deals until Dec. 4, provided the government allowed those smaller shops to reopen then. Travel will be much lighter But far from eliminated.   Important note: The CDC isn’t worried about the disease spreading on airplanes as much as people traveling in order to gather in large groups.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/23/thanksgiving-will-unlike-weve?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>holiday</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/thanksgiving-will-unlike-weve?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 23 Nov 2020 03:02:08 -0800</pubDate>
+ </item>
  <item>
   <title>Diners Wait More Than Half a Day for First Bite of In-N-Out in Colorado</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3195/aurora_pd_tweet.png'&gt;&lt;br/&gt;said traffic at the In-N-Out was "much improved."</description>
@@ -325,51 +370,6 @@
   <categories>fed</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/senate-blocks-trumps-controversial-fed-nominee-judy-shelton?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 18 Nov 2020 22:01:42 -0800</pubDate>
- </item>
- <item>
-  <title>Walmart, Home Depot Beat on Earnings</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2116/online_delivery_pile.jpg'&gt;&lt;br/&gt;  First up, Walmart In Q3, e-commerce sales at the world's biggest retailer surged 79% and profits 56%—impressive numbers despite a subdued back-to-school season and the petering out of government stimulus.   Other retail categories, like apparel, haven't been so lucky.   Pulse check: Home Depot and Walmart are situated in retail categories that have remained bright spots for consumer spending amid the pandemic—household essentials and home improvement.   And overall, October retail sales eked out 0.3% growth, below expectations and September's 1.6% gain.   + For more stories like this...   What's next?</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/17/walmart-home-depot-beat-earnings?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/walmart-home-depot-beat-earnings?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 18 Nov 2020 22:01:42 -0800</pubDate>
- </item>
- <item>
-  <title>Bitcoin Closes in on Its All Time High After Latest Rally</title>
-  <description>&lt;img src='https://media.giphy.com/media/Vi5qBEpExoCmzEcDvF/giphy.gif'&gt;&lt;br/&gt;Whereas in late 2017 you couldn't go two Morning Brew newsletters without seeing a bitcoin headline, the conversation this time around has been tamer.   Crypto bulls think that reflects a more sustainable path forward, rather than the wild speculation that drove prices higher three Thanksgivings ago.     Ray Dalio is not one of them.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/17/bitcoin-closes-time-high-latest-rally</link>
-  <author>Neal Freyman</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/bitcoin-closes-time-high-latest-rally</guid>
-  <pubDate>Wed, 18 Nov 2020 21:31:45 -0800</pubDate>
- </item>
- <item>
-  <title>Senate Committee Grills Zuckerberg, Dorsey</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3158/mark_zuckerberg_remote_testimony.jpg'&gt;&lt;br/&gt;Zuckerberg said Facebook's ultra-sophisticated algorithms can be deployed to tackle the issues lawmakers raised. To channel Michael Barbaro… Here's what  you need  toknowabout it:  Republican lawmakers were most concerned about the platforms' content moderation policies, imploring the CEOs to intervene less in user activity.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/17/senate-committee-grills-zuckerberg-dorsey</link>
-  <author>Eliza Carter</author>
-  <categories>social-media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/senate-committee-grills-zuckerberg-dorsey</guid>
-  <pubDate>Wed, 18 Nov 2020 21:31:45 -0800</pubDate>
- </item>
- <item>
-  <title>Walmart, Home Depot Beat on Earnings</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2116/online_delivery_pile.jpg'&gt;&lt;br/&gt;  First up, Walmart In Q3, e-commerce sales at the world's biggest retailer surged 79% and profits 56%—impressive numbers despite a subdued back-to-school season and the petering out of government stimulus.   Other retail categories, like apparel, haven't been so lucky.   Pulse check: Home Depot and Walmart are situated in retail categories that have remained bright spots for consumer spending amid the pandemic—household essentials and home improvement.   And overall, October retail sales eked out 0.3% growth, below expectations and September's 1.6% gain.   + For more stories like this...   What's next?</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/17/walmart-home-depot-beat-earnings</link>
-  <author>Alex Hickey</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/walmart-home-depot-beat-earnings</guid>
-  <pubDate>Wed, 18 Nov 2020 21:31:44 -0800</pubDate>
- </item>
- <item>
-  <title>Senate Blocks Trump's Controversial Fed Nominee, Judy Shelton</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3157/judy_shelton.jpg'&gt;&lt;br/&gt;Judy Shelton, President Trump's nominee for the Federal Reserve's Board of Governors, was rejected in a 50–47 vote on the Senate floor yesterday. Learn more about what they do and who's in charge in the Brew's Fed diversity map. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/17/senate-blocks-trumps-controversial-fed-nominee-judy-shelton</link>
-  <author>Alex Hickey</author>
-  <categories>fed</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/senate-blocks-trumps-controversial-fed-nominee-judy-shelton</guid>
-  <pubDate>Wed, 18 Nov 2020 21:31:44 -0800</pubDate>
  </item>
 
 </channel>
