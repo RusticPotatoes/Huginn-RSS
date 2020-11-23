@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/23</link>
- <lastBuildDate>Mon, 23 Nov 2020 14:28:54 -0800</lastBuildDate>
- <pubDate>Mon, 23 Nov 2020 14:28:54 -0800</pubDate>
+ <lastBuildDate>Mon, 23 Nov 2020 14:33:53 -0800</lastBuildDate>
+ <pubDate>Mon, 23 Nov 2020 14:33:53 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Snapchat Rolls Out Its TikTok Competitor, Spotlight</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3222/tech_spidermans.png'&gt;&lt;br/&gt;  To make sure that Spotlight content gets created, Snap is adopting the "pay people a ridiculous amount of money" approach.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/23/snapchat-rolls-tiktok-competitor-spotlight</link>
+  <author>Toby Howell</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/snapchat-rolls-tiktok-competitor-spotlight</guid>
+  <pubDate>Mon, 23 Nov 2020 14:31:52 -0800</pubDate>
+ </item>
+ <item>
+  <title>Bitcoin, Ethereum, and Altcoins Remain on a Heater</title>
+  <description>&lt;img src='https://media.giphy.com/media/TjY1AFrW5VUQXLuzTX/giphy.gif'&gt;&lt;br/&gt;But, as DeFi gains more traction and institutional investors warm up to bitcoin, altcoins could benefit.   Zoom out: Altcoins, in general, have a negative stigma attached to them because of the lack of regulation and a laundry list of horror stories involving scammy coin offerings.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/23/bitcoin-ethereum-altcoins-remain-heater</link>
+  <author>Toby Howell</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/bitcoin-ethereum-altcoins-remain-heater</guid>
+  <pubDate>Mon, 23 Nov 2020 14:31:52 -0800</pubDate>
+ </item>
  <item>
   <title>Report: President-Elect Biden Will Nominate Janet Yellen as Treasury Secretary</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3218/federal_reserve_chair_jan.jpg'&gt;&lt;br/&gt;  What does a Treasury secretary even do? If confirmed, Yellen will become the first woman to lead the Treasury Department.   What else will be on her agenda? President-elect Joe Biden is expected to nominate the former Fed Chair as the next Treasury secretary, as first reported by the WSJ.   Of course, Yellen's first couple months will be preoccupied with one objective: putting this coronavirus-induced recession in the rearview. Biden said his Treasury secretary pick would please those across the political spectrum, and Yellen is it.</description>
@@ -352,24 +370,6 @@
   <categories>crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/bitcoin-closes-time-high-latest-rally?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 18 Nov 2020 22:01:43 -0800</pubDate>
- </item>
- <item>
-  <title>Senate Committee Grills Zuckerberg, Dorsey</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3158/mark_zuckerberg_remote_testimony.jpg'&gt;&lt;br/&gt;Zuckerberg said Facebook's ultra-sophisticated algorithms can be deployed to tackle the issues lawmakers raised. To channel Michael Barbaro… Here's what  you need  toknowabout it:  Republican lawmakers were most concerned about the platforms' content moderation policies, imploring the CEOs to intervene less in user activity.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/17/senate-committee-grills-zuckerberg-dorsey?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>social-media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/senate-committee-grills-zuckerberg-dorsey?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 18 Nov 2020 22:01:42 -0800</pubDate>
- </item>
- <item>
-  <title>Amazon Dives Into Healthcare With Drug Delivery Service</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/512/pills.jpg'&gt;&lt;br/&gt;  How it works: Customers can use the Amazon app or website to order prescription drugs.   OK, so Amazon actually waded into healthcare a while ago—it bought online pharmacy PillPack in 2018. But this is a much bigger initiative.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/17/amazon-dives-healthcare-drug-delivery-service?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>healthcare</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/amazon-dives-healthcare-drug-delivery-service?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 18 Nov 2020 22:01:42 -0800</pubDate>
  </item>
 
 </channel>
