@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/21/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/22/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/21</link>
- <lastBuildDate>Sat, 21 Nov 2020 03:03:36 -0800</lastBuildDate>
- <pubDate>Sat, 21 Nov 2020 03:03:36 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/22</link>
+ <lastBuildDate>Sun, 22 Nov 2020 19:24:52 -0800</lastBuildDate>
+ <pubDate>Sun, 22 Nov 2020 19:24:52 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Diners Wait More Than Half a Day for First Bite of In-N-Out in Colorado</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3195/aurora_pd_tweet.png'&gt;&lt;br/&gt;said traffic at the In-N-Out was "much improved."</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/22/diners-wait-half-day-first-bite-innout-colorado</link>
+  <author>Neal Freyman</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/22/diners-wait-half-day-first-bite-innout-colorado</guid>
+  <pubDate>Sun, 22 Nov 2020 19:23:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>The Week Ahead: November 23</title>
+  <description>&lt;img src='https://media.giphy.com/media/Grqq2Ml8YrEC4/giphy.gif'&gt;&lt;br/&gt;    Economic data: Wednesday is where the action is.    Everything else:  On Tuesday, author Ernest Cline will follow up his sci-fi hit Ready Player One with—wait for it—Ready Player Two. Rock star Miley Cyrus’s new album, Plastic Hearts, drops on Friday. Go Terps.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/22/week-ahead-november-23</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/22/week-ahead-november-23</guid>
+  <pubDate>Sun, 22 Nov 2020 19:23:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>Cocoa Futures Skyrocket Thanks to Reported Hershey’s Trade</title>
+  <description>&lt;img src='https://media.giphy.com/media/Tt9jctxaVjRny/giphy.gif'&gt;&lt;br/&gt;Those two West African countries, which account for almost 70% of total global cocoa production, recently instituted a fee to boost cocoa farmers’ incomes.   Why is the cocoa so hot?    The futures markets are typically the domain of traders and speculators, the Financial Times explains.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/22/cocoa-futures-skyrocket-thanks-reported-hersheys-trade</link>
+  <author>Neal Freyman</author>
+  <categories>commodities</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/22/cocoa-futures-skyrocket-thanks-reported-hersheys-trade</guid>
+  <pubDate>Sun, 22 Nov 2020 19:23:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>Why This Thanksgiving Will Be Unlike Any We’ve Had Before</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3198/macy_s_thanksgiving_parade.jpg'&gt;&lt;br/&gt;  Finally, it’s runty turkeys’ time to shine  Because people are planning smaller gatherings, smaller turkeys are taking flight off of shelves they likely never could as birds."     In response to outcry from those small businesses, large retailers agreed to delay their Black Vendredi deals until Dec. 4, provided the government allowed those smaller shops to reopen then. Travel will be much lighter But far from eliminated.   Important note: The CDC isn’t worried about the disease spreading on airplanes as much as people traveling in order to gather in large groups.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/23/thanksgiving-will-unlike-weve</link>
+  <author>Eliza Carter</author>
+  <categories>holiday</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/thanksgiving-will-unlike-weve</guid>
+  <pubDate>Sun, 22 Nov 2020 19:23:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>Charli D’Amelio Hits 100 Million Followers on TikTok</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1699/tiktok_on_mobile_phone.jpg'&gt;&lt;br/&gt;  The nowstory: Charli, and her increasingly famous family, are thinking way beyond TikTok.  In the social media realm, Charli has 8.5 million subscribers on YouTube and 33.7 million followers on Instagram.     Even more impressively, she did it without drinking cranberry juice.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/23/charli-damelio-hits-100-million-followers-tiktok</link>
+  <author>Neal Freyman</author>
+  <categories>social-media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/charli-damelio-hits-100-million-followers-tiktok</guid>
+  <pubDate>Sun, 22 Nov 2020 19:23:01 -0800</pubDate>
+ </item>
  <item>
   <title>Regional Lockdown in Australia Lifted After It Was Discovered That Pizza Worker Lied</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3193/south_australians_adjust.jpg'&gt;&lt;br/&gt;  The backstory: The worker said he contracted Covid-19 shortly after picking up a takeout pizza at a restaurant (not the one he worked at).</description>
@@ -325,51 +370,6 @@
   <categories>fed</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/senate-blocks-trumps-controversial-fed-nominee-judy-shelton</guid>
   <pubDate>Wed, 18 Nov 2020 21:31:44 -0800</pubDate>
- </item>
- <item>
-  <title>Boeing’s 737 Max Cleared for Takeoff</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3168/jet_contrails.jpg'&gt;&lt;br/&gt;And it features many superlatives:  Longest grounding of a jet in U.S. history  By far the worst crisis in Boeing’s 100+ year history Considering the 737 Max was the bestselling plane from the U.S.’ preeminent industrial company, some consider it to be the country’s most important manufacturing product. In March 2019, aviation regulators around the world said the jet couldn’t fly again until Boeing and the FAA figured out what went wrong... In an unofficial poll on Morning Brew’s Twitter account, 54% of respondents said they wouldn’t fly on a 737 Max.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/18/boeings-737-max-cleared-takeoff</link>
-  <author>Neal Freyman</author>
-  <categories>aviation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/boeings-737-max-cleared-takeoff</guid>
-  <pubDate>Wed, 18 Nov 2020 21:31:44 -0800</pubDate>
- </item>
- <item>
-  <title>Covid-19: States and Cities Reimpose Restrictions to Curb Infection Rates</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3170/mural_of_a_doctor_with_ppe.jpg'&gt;&lt;br/&gt;As the coronavirus sweeps across the country, states and cities are re-implementing restrictions on businesses and social life to curb infection numbers. Here’s some advice from experts. with Thanksgiving approaching, the No. 1 topic of conversation in our group chats is, “Should I go home for the holiday?”</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/18/covid19-states-cities-reimpose-restrictions-curb-infection-rates</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/covid19-states-cities-reimpose-restrictions-curb-infection-rates</guid>
-  <pubDate>Wed, 18 Nov 2020 21:31:44 -0800</pubDate>
- </item>
- <item>
-  <title>Amazon Dives Into Healthcare With Drug Delivery Service</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/512/pills.jpg'&gt;&lt;br/&gt;  How it works: Customers can use the Amazon app or website to order prescription drugs.   OK, so Amazon actually waded into healthcare a while ago—it bought online pharmacy PillPack in 2018. But this is a much bigger initiative.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/17/amazon-dives-healthcare-drug-delivery-service</link>
-  <author>Eliza Carter</author>
-  <categories>healthcare</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/17/amazon-dives-healthcare-drug-delivery-service</guid>
-  <pubDate>Wed, 18 Nov 2020 21:31:44 -0800</pubDate>
- </item>
- <item>
-  <title>Small Company, Big Moves: A Guide to Disruptive Investing</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3162/disruptive.jpg'&gt;&lt;br/&gt;  It’s more important to focus on companies who are disrupting industries that will be around for the long haul.   The world is changing faster than ever, and with the right companies in your portfolio, you can be one of the people helping it change for the better.   And as more and more of these organizations look to IPO or woo investors, learning what to look for can be the difference between spotting a unicorn and riding something into the ground. If it’s a new industry, who’s name do you hear over and over?   This is also the time to really take a look at the leader of this company.   Disrupt Smartly There are no sure things, and that is especially true when investing in small, innovative companies.   So we asked our investing friends at The Motley Fool to help us know what to look for before we get disruptive with our investing. There are no shortage of companies claiming to be disrupting something.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/18/small-company-big-moves-guide-disruptive-investing</link>
-  <author>Morning Brew</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/small-company-big-moves-guide-disruptive-investing</guid>
-  <pubDate>Wed, 18 Nov 2020 21:31:43 -0800</pubDate>
- </item>
- <item>
-  <title>Google Rolls Out New, All-in-One Payments App</title>
-  <description>&lt;img src='https://media.giphy.com/media/3o6Mbl9dpwlw8mkLsY/giphy.gif'&gt;&lt;br/&gt;Bottom line: Google’s app will shine if you opt into its advanced features like allowing it to scan your Gmail inbox or Google Photos account to look for receipts. The tech giant rolled out a revamped Google Pay app yesterday highlighted by a new peer-to-peer payments system. Google says no.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/18/google-rolls-new-allinone-payments-app</link>
-  <author>Toby Howell</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/google-rolls-new-allinone-payments-app</guid>
-  <pubDate>Wed, 18 Nov 2020 21:31:43 -0800</pubDate>
  </item>
 
 </channel>
