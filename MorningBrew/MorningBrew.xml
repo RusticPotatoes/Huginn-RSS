@@ -1,16 +1,115 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/23/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/25/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/23</link>
- <lastBuildDate>Mon, 23 Nov 2020 14:53:59 -0800</lastBuildDate>
- <pubDate>Mon, 23 Nov 2020 14:53:59 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/25</link>
+ <lastBuildDate>Wed, 25 Nov 2020 07:08:18 -0800</lastBuildDate>
+ <pubDate>Wed, 25 Nov 2020 07:08:18 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>McKesson Will Be the Central Distributor of Covid-19 Vaccines</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3227/former_mckesson_chairman.jpg'&gt;&lt;br/&gt;  The company will not make decisions on where to send the vaccines, however.   Put me in, coach Through Operation Warp Speed, the government has made McKesson the central distributor of Covid-19 vaccines (outside of Pfizer-BioNTech’s, which needs to live in sub-Arctic temps).     Because of McKesson’s expertise in schlepping life-saving material, the country has tapped it for similar programs before. It’s a lucrative business.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/23/mckesson-will-central-distributor-covid19-vaccines</link>
+  <author>Neal Freyman</author>
+  <categories>profile</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/mckesson-will-central-distributor-covid19-vaccines</guid>
+  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
+ </item>
+ <item>
+  <title>A Quick Teardown of Operation Warp Speed</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3228/operation_warp_speed.png'&gt;&lt;br/&gt;  Looking ahead...   Budget: Up to $18 billion.   The goal: To deliver 300 million doses of a safe and effective vaccine by Jan. 2021. OWS leadership has said they can deliver a Covid-19 vaccine to every state less than 24 hours after FDA approval.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/quick-teardown-operation-warp-speed</link>
+  <author>Neal Freyman</author>
+  <categories>government</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/quick-teardown-operation-warp-speed</guid>
+  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
+ </item>
+ <item>
+  <title>How Temperature-Sensitive Vaccine Candidates Will be Distributed Via the Cold Chain</title>
+  <description>&lt;img src='https://media.giphy.com/media/zoMno34V30kla/giphy.gif'&gt;&lt;br/&gt;  Dry ice is the cold chain’s best friend. Pfizer has designed temperature-controlled dry ice boxes that can maintain a roughly -94° Fahrenheit temperature for up to 10 days.   Bottom line: Even with distributors and drug companies beefing up their cold chain capacity, pharma experts still expect a spoilage rate between 5% and 20%.   Storage is tight.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/temperaturesensitive-vaccine-candidates-will-distributed-via-cold-chain</link>
+  <author>Toby Howell</author>
+  <categories>temperature</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/temperaturesensitive-vaccine-candidates-will-distributed-via-cold-chain</guid>
+  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
+ </item>
+ <item>
+  <title>McCormick Buys Cholula Amid Pandemic Boost to Grocery Sales</title>
+  <description>&lt;img src='https://media.giphy.com/media/OtmGEIPc6oZK8/giphy.gif'&gt;&lt;br/&gt;  As for Cholula’s previous owner, L Catterton is reportedly expecting a 4x return on its 2019 purchase of Cholula. It agreed to buy the wood-capped hot sauce company’s parent from private equity firm L Catterton for $800 million.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/mccormick-buys-cholula-amid-pandemic-boost-grocery-sales</link>
+  <author>Eliza Carter</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/mccormick-buys-cholula-amid-pandemic-boost-grocery-sales</guid>
+  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
+ </item>
+ <item>
+  <title>Dow Rises to 30,000 and a Fresh Record</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3240/arrow_breaking_thru_a_wall.jpg'&gt;&lt;br/&gt;    Quick refresher on the Dow: It’s a collection of 30 "blue-chip" U.S. stocks.   It also topped 30,000, another completely arbitrary number.   And that’s exactly how professional investors view the Dow at 30k: symbolic, nothing more. Let’s talk about that rally  How it started: The Dow was in the dumps during the onset of the pandemic, trading below 19,000 points in March. Of course, each 10,000 point milestone represents a smaller proportional gain, because math.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/dow-rises-30000-fresh-record</link>
+  <author>Neal Freyman</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/dow-rises-30000-fresh-record</guid>
+  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
+ </item>
+ <item>
+  <title>Covid-19 Watch: College Students Head Home for Holidays</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/979/college_campus.jpg'&gt;&lt;br/&gt;   The American College Health Association advised schools with in-person classes after Thanksgiving to ask students to remain on campus.   Many colleges are expected to stick with virtual or hybrid learning, but we could see more human bodies on college campuses.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/covid19-watch-college-students-head-home-holidays</link>
+  <author>Alex Hickey</author>
+  <categories>education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/covid19-watch-college-students-head-home-holidays</guid>
+  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
+ </item>
+ <item>
+  <title>One Vaccine Dose’s Journey From Lab to Arm</title>
+  <description>&lt;img src='https://media.giphy.com/media/VTLkM7Z0a2I48/giphy.gif'&gt;&lt;br/&gt;  But not so fast: Moderna’s vaccine requires two doses 28 days apart. The vaccine will fly in those Elsa-approved containers to a McKesson distribution facility in Irving, TX. We just spit a lot of information at you about the vaccine supply chain.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/one-vaccine-doses-journey-lab-arm</link>
+  <author>Jamie Wilde</author>
+  <categories>logistics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/one-vaccine-doses-journey-lab-arm</guid>
+  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
+ </item>
+ <item>
+  <title>2021 Grammys: Recording Academy Announces Nominees</title>
+  <description>&lt;img src='https://media.giphy.com/media/jTHLTd4FGwlWPAqFOy/giphy.gif'&gt;&lt;br/&gt;.   Looking ahead...   The snubs: The Academy still thinks of The Weeknd as Saturday and Sunday, even though the pop star will perform at the Super Bowl. Producer and Recording Academy chairman Harvey Mason Jr. said the artists will be present and there will be a small audience.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/2021-grammys-recording-academy-announces-nominees</link>
+  <author>Eliza Carter</author>
+  <categories>music</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/2021-grammys-recording-academy-announces-nominees</guid>
+  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
+ </item>
+ <item>
+  <title>Vaccine Manufacturing 101: The Brew Breaks it Down</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3074/vaccine.jpg'&gt;&lt;br/&gt;  Vaccine manufacturing is Isla de Muerta  It’s an island that cannot be found, except by those who already know where it is.   Plus, it’s not cheap. The total costs of vaccine development can run up to $500 million, one study found.     Step 5: Distribution—mix up all the components in vials or syringes, load those suckers on trucks, and get them in some arms.   Step 3: Next, the antigen is purified through processes that sound like words you’d make up when lying about doing science homework: chromatography and ultrafiltration. Probably not, but Pfizer does. Basil’s gotta become pesto at some point. Scientists do this by literally growing it in a cell—like the basil plant on your window, but tiny.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/vaccine-manufacturing-101-brew-breaks</link>
+  <author>Eliza Carter</author>
+  <categories>manufacturing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/vaccine-manufacturing-101-brew-breaks</guid>
+  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
+ </item>
+ <item>
+  <title>Covid-19 Vaccine Distribution Effort: By the Numbers</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3236/airline_freight.jpg'&gt;&lt;br/&gt;$21—the difference in price between Moderna’s vaccine ($25/dose) and AstraZeneca’s vaccine ($4/dose), according to U.S. purchase agreements.   10 billion single doses could be available by the end of 2022 if all the frontrunner vaccine candidates are approved.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/covid19-vaccine-distribution-effort-numbers</link>
+  <author>Toby Howell</author>
+  <categories>stats</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/covid19-vaccine-distribution-effort-numbers</guid>
+  <pubDate>Wed, 25 Nov 2020 07:06:25 -0800</pubDate>
+ </item>
+ <item>
+  <title>Gap, Nordstrom, Dick’s and More Report Earnings</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/115/gap_inc_turnaround.jpg'&gt;&lt;br/&gt;  Dick’s e-commerce sales rose 95%, while same-store sales grew 23%.   And Best Buy shares fell 7% when the company warned early holiday sales could mean lower demand ahead.   Abercrombie reported a 43% uptick in online sales.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/gap-nordstrom-dicks-report-earnings</link>
+  <author>Alex Hickey</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/gap-nordstrom-dicks-report-earnings</guid>
+  <pubDate>Wed, 25 Nov 2020 07:06:25 -0800</pubDate>
+ </item>
  <item>
   <title>GM Pulls out of Trump Administration Lawsuit Against CA Emissions Rules</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3220/mary_barra.jpg'&gt;&lt;br/&gt;GM joined Fiat Chrysler, Toyota, and several smaller automakers in supporting the White House. Yesterday, GM CEO Mary Barra pulled her company's support for a Trump administration lawsuit against the state of California. Looking ahead…Barra is trying to buddy up to Biden, who's made supporting the electric vehicle industry a priority for his administration.</description>
@@ -271,105 +370,6 @@
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/unemployment-claims-rise-first-time-5-weeks?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 20 Nov 2020 03:01:44 -0800</pubDate>
- </item>
- <item>
-  <title>BuzzFeed to Acquire HuffPost in Broader Partnership With Owner Verizon Media</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3178/jonah_peretti.jpg'&gt;&lt;br/&gt;In the 2000s, brands like BuzzFeed and The Huffington Post (HuffPost's initial name) attracted eyeballs aplenty—and with them, ad dollars.   HuffPost owner Verizon Media will reportedly make a cash investment in BuzzFeed, plus nab a minority stake that values BuzzFeed at a reported $1.7 billion.     Add this to the list of accelerating trends  The trend here being consolidation in digital media.   Last year alone, Vox Media acquired New York Magazine's parent company, Vice Media acquired Refinery29, and Group Nine bought PopSugar.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/19/buzzfeed-acquire-huffpost-broader-partnership-owner-verizon-media?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/buzzfeed-acquire-huffpost-broader-partnership-owner-verizon-media?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 20 Nov 2020 03:01:44 -0800</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: November 20</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1033/quiz.jpg'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/19/brews-weekly-news-quiz-november-20</link>
-  <author>Jamie Wilde</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/brews-weekly-news-quiz-november-20</guid>
-  <pubDate>Thu, 19 Nov 2020 15:01:48 -0800</pubDate>
- </item>
- <item>
-  <title>BuzzFeed to Acquire HuffPost in Broader Partnership With Owner Verizon Media</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3178/jonah_peretti.jpg'&gt;&lt;br/&gt;In the 2000s, brands like BuzzFeed and The Huffington Post (HuffPost's initial name) attracted eyeballs aplenty—and with them, ad dollars.   HuffPost owner Verizon Media will reportedly make a cash investment in BuzzFeed, plus nab a minority stake that values BuzzFeed at a reported $1.7 billion.     Add this to the list of accelerating trends  The trend here being consolidation in digital media.   Last year alone, Vox Media acquired New York Magazine's parent company, Vice Media acquired Refinery29, and Group Nine bought PopSugar.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/19/buzzfeed-acquire-huffpost-broader-partnership-owner-verizon-media</link>
-  <author>Eliza Carter</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/buzzfeed-acquire-huffpost-broader-partnership-owner-verizon-media</guid>
-  <pubDate>Thu, 19 Nov 2020 14:46:43 -0800</pubDate>
- </item>
- <item>
-  <title>Electric Vehicle Roundup: GM Ups Investments, UK Accelerates Gas Vehicle Ban</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1241/mr_krabs.png'&gt;&lt;br/&gt;  Finally, shares rose for Chinese EV makers Nio, Xpeng Motors, and Li Auto after they posted Q3 earnings this week.   SPACs are back.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/19/electric-vehicle-roundup-gm-ups-investments-uk-accelerates-gas-vehicle-ban</link>
-  <author>Alex Hickey</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/electric-vehicle-roundup-gm-ups-investments-uk-accelerates-gas-vehicle-ban</guid>
-  <pubDate>Thu, 19 Nov 2020 14:46:43 -0800</pubDate>
- </item>
- <item>
-  <title>Unemployment Claims Rise for First Time in 5 Weeks</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3180/usa.jpg'&gt;&lt;br/&gt;  The other provides an additional 13 weeks of federal benefits after state ones run out. Congress missed the sentiment behind Boxing Day. On Dec. 26, two CARES Act programs that offer additional federal unemployment benefits will expire: One expands eligibility to contract workers and the self-employed for the first time.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/19/unemployment-claims-rise-first-time-5-weeks</link>
-  <author>Alex Hickey</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/unemployment-claims-rise-first-time-5-weeks</guid>
-  <pubDate>Thu, 19 Nov 2020 14:41:43 -0800</pubDate>
- </item>
- <item>
-  <title>Housing Boom Continues to Expand, According to Existing Home Sales Data</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3179/housing_market.jpg'&gt;&lt;br/&gt;The median price of an existing home last month was $313,000, 15% higher than a year ago.   A combo of factors is driving the housing boom: Homes are the new offices, considering at least 21% of the labor force is working from home because of the pandemic.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/19/housing-boom-continues-expand-according-existing-home-sales-data</link>
-  <author>Neal Freyman</author>
-  <categories>housing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/housing-boom-continues-expand-according-existing-home-sales-data</guid>
-  <pubDate>Thu, 19 Nov 2020 14:26:40 -0800</pubDate>
- </item>
- <item>
-  <title>The Essentials, Issue #83: Goodbye, hello</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/498/the_essentials.png'&gt;&lt;br/&gt;  R&amp;R    alvarez / Getty Images Start with dessert: Candace Nelson, founder of Sprinkles Cupcakes, is hosting a virtual pie pop-up—a holiday pie-making course designed to turn you into a baking mastermind.   The origin story of the Ratatousical.   Your internet Sidekick, Rachel    -----  See you on Monday.   Happy Place    Cavan Images / Getty Images It was prime parka weather in Chicago on Tuesday morning—a crisp 28 degrees, which reminded me that I had planned to teleport to Tucson, Arizona, this winter.   Dept.   Show time: Just because you’re famous doesn’t mean you’re a good podcast host. Leading Off    Giphy My “For You” page on TikTok: Target hauls, healthy cooking tips, and Ratatouille The Musical.   Conversations with the masterminds behind this musical adaption of one of Pixar’s most underrated animated films.   Now the musical has a behind-the-scenes crew, including a stage manager and a tech team.   Bingeworthy: Now is the ideal time to mooch off your friend’s HBO Max account.   First draft: For a good laugh, here are the first lines of rejected “Modern Love” essays.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/19/essentials-issue-83-goodbye-hello</link>
-  <author>Rachel Cantor</author>
-  <categories>recommendations</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/19/essentials-issue-83-goodbye-hello</guid>
-  <pubDate>Thu, 19 Nov 2020 11:11:39 -0800</pubDate>
- </item>
- <item>
-  <title>Social Media Startup Yubo Has a Unique Business Model</title>
-  <description>&lt;img src='https://media.giphy.com/media/zOSEurjXCPTag/giphy.gif'&gt;&lt;br/&gt;  It’s doing a lot more than just copying Snap stories.   How it makes money: Yubo is completely ad-free. In between chats, users can swipe left or right to add friends, similar to Tinder. The app consists of a variety of “rooms” users can enter to videochat with friends or strangers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/18/social-media-startup-yubo-unique-business-model?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>social-media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/social-media-startup-yubo-unique-business-model?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 19 Nov 2020 03:01:39 -0800</pubDate>
- </item>
- <item>
-  <title>Apple to Shrink App Store Fees—For Certain Developers</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2155/gold_apple.jpg'&gt;&lt;br/&gt;  Who counts as small: Those that generate $1 million or less in annual revenue (after Apple takes its 15% chunk).   Bottom line: The App Store is essential to Apple’s long-term strategy, but it’s also been the center of antitrust allegations in both the U.S. and the EU.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/18/apple-shrink-app-store-feesfor-certain-developers?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>big-tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/apple-shrink-app-store-feesfor-certain-developers?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 19 Nov 2020 03:01:39 -0800</pubDate>
- </item>
- <item>
-  <title>Google Rolls Out New, All-in-One Payments App</title>
-  <description>&lt;img src='https://media.giphy.com/media/3o6Mbl9dpwlw8mkLsY/giphy.gif'&gt;&lt;br/&gt;Bottom line: Google’s app will shine if you opt into its advanced features like allowing it to scan your Gmail inbox or Google Photos account to look for receipts. The tech giant rolled out a revamped Google Pay app yesterday highlighted by a new peer-to-peer payments system. Google says no.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/18/google-rolls-new-allinone-payments-app?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/google-rolls-new-allinone-payments-app?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 19 Nov 2020 03:01:39 -0800</pubDate>
- </item>
- <item>
-  <title>Covid-19: States and Cities Reimpose Restrictions to Curb Infection Rates</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3170/mural_of_a_doctor_with_ppe.jpg'&gt;&lt;br/&gt;As the coronavirus sweeps across the country, states and cities are re-implementing restrictions on businesses and social life to curb infection numbers. Here’s some advice from experts. with Thanksgiving approaching, the No. 1 topic of conversation in our group chats is, “Should I go home for the holiday?”</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/18/covid19-states-cities-reimpose-restrictions-curb-infection-rates?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/18/covid19-states-cities-reimpose-restrictions-curb-infection-rates?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 19 Nov 2020 03:01:39 -0800</pubDate>
  </item>
 
 </channel>
