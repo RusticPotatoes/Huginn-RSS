@@ -8,9 +8,63 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/25</link>
- <lastBuildDate>Wed, 25 Nov 2020 08:03:18 -0800</lastBuildDate>
- <pubDate>Wed, 25 Nov 2020 08:03:18 -0800</pubDate>
+ <lastBuildDate>Wed, 25 Nov 2020 11:08:27 -0800</lastBuildDate>
+ <pubDate>Wed, 25 Nov 2020 11:08:27 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Photos of Vaccination Throughout History</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1788/vaccine_stock_photo.jpg'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/23/photos-vaccination-throughout-history</link>
+  <author>Neal Freyman</author>
+  <categories>pics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/photos-vaccination-throughout-history</guid>
+  <pubDate>Wed, 25 Nov 2020 11:06:26 -0800</pubDate>
+ </item>
+ <item>
+  <title>A Rough Timeline of Covid-19 Immunization in the U.S.</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2921/vaccine_clock.jpg'&gt;&lt;br/&gt;January 31, 2021: About 50 million Americans could be vaccinated by now, and, grouped in with those who've recovered from Covid-19, over 30% of the population would be immune, per the dean of Brown's public health school, Ashish Jha. February/March: At 30%–40% immunity, according to Jha, the spread will become "meaningfully slower" and infections won't be "self-sustaining."  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/23/rough-timeline-covid19-immunization-us</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/rough-timeline-covid19-immunization-us</guid>
+  <pubDate>Wed, 25 Nov 2020 11:06:26 -0800</pubDate>
+ </item>
+ <item>
+  <title>Who Gets a Vaccine First?</title>
+  <description>&lt;img src='https://media.giphy.com/media/eoK5GIUKwf0tO/giphy.gif'&gt;&lt;br/&gt;  The U.S.' ~20 million healthcare workers, including doctors, nurses, and support staff, will likely be top priority. #3: Not everyone will get a vaccine.     Who's first? But in 2009, researchers published a study suggesting a focus on vaccinating the biggest spreaders—in the case of swine flu, children ages 5–19—to protect everyone else. Reality check: There won't be enough Covid-19 vaccines for everyone for a while. In the last decade, the U.S. has never vaccinated more than half of adults for the flu, and vaccination rates for Black, Latinx, and high-risk adults trend lower. Other factors to consider #1: Different vaccines have different logistical challenges and health considerations, which could affect who gets what when.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/gets-vaccine-first</link>
+  <author>Alex Hickey</author>
+  <categories>public-health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/gets-vaccine-first</guid>
+  <pubDate>Wed, 25 Nov 2020 11:06:26 -0800</pubDate>
+ </item>
+ <item>
+  <title>WHO Covax Initiative Seeks Equitable Access to Covid Vaccines</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3150/covid-19_vaccine.jpg'&gt;&lt;br/&gt;So far, Covax has secured 700 million doses and $2 billion in funding. The goal is to raise $5 billion and provide 2 billion doses by the end of 2021.   Big picture: The Duke Global Health Institute thinks it'll take until 2024 for vaccines to reach the entire population.  The Duke Global Health Institute estimates 9.6 billion doses are already reserved by individual countries, without any vaccines having reached the market yet.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/covax-initiative-seeks-equitable-access-covid-vaccines</link>
+  <author>Alex Hickey</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/covax-initiative-seeks-equitable-access-covid-vaccines</guid>
+  <pubDate>Wed, 25 Nov 2020 11:06:25 -0800</pubDate>
+ </item>
+ <item>
+  <title>Vaccination in the Workplace: Employers Advised to "Strongly Encourage"</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3219/vaccine.jpg'&gt;&lt;br/&gt;  Labor and employment attorney Michael Roche told Business Insider that the safest legal tack is for companies to "strongly encourage employees to get vaccinated." But can employers legally require their workers to get vaccines?  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/vaccination-workplace-employers-advised-strongly-encourage</link>
+  <author>Eliza Carter</author>
+  <categories>human-resources</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/vaccination-workplace-employers-advised-strongly-encourage</guid>
+  <pubDate>Wed, 25 Nov 2020 11:06:25 -0800</pubDate>
+ </item>
+ <item>
+  <title>Americans Are Divided Over The Covid-19 Vaccine</title>
+  <description>&lt;img src='https://media.giphy.com/media/s3Klt17UqDYyI/giphy.gif'&gt;&lt;br/&gt;Establishing public trust in these vaccines will be the next major challenge for health officials. That's down from a peak of 50% in September, but remains a concerning number for public health officials who want to get Covid-19 under control.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/americans-divided-covid19-vaccine</link>
+  <author>Jamie Wilde</author>
+  <categories>poll</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/americans-divided-covid19-vaccine</guid>
+  <pubDate>Wed, 25 Nov 2020 11:06:25 -0800</pubDate>
+ </item>
  <item>
   <title>2021 Grammys: Recording Academy Announces Nominees</title>
   <description>&lt;img src='https://media.giphy.com/media/jTHLTd4FGwlWPAqFOy/giphy.gif'&gt;&lt;br/&gt;.   Looking ahead...   The snubs: The Academy still thinks of The Weeknd as Saturday and Sunday, even though the pop star will perform at the Super Bowl. Producer and Recording Academy chairman Harvey Mason Jr. said the artists will be present and there will be a small audience.</description>
@@ -316,60 +370,6 @@
   <categories>ipo</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/wish-roblox-affirm-headline-latest-public-offering-filings?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 21 Nov 2020 03:01:32 -0800</pubDate>
- </item>
- <item>
-  <title>Pfizer Applies for Emergency Use Authorization</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3074/vaccine.jpg'&gt;&lt;br/&gt;  With vaccines, “emergency” is relative. If that’s approved, about 20 million Americans—likely healthcare workers and the elderly—could be immunized before the end of the year. Moderna, which reported a 94.5% effective vaccine, will be next to file an application.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/20/pfizer-applies-emergency-use-authorization?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>pharma</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/pfizer-applies-emergency-use-authorization?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 21 Nov 2020 03:01:32 -0800</pubDate>
- </item>
- <item>
-  <title>Steve Mnuchin Defends Pulling of Fed Emergency Lending Funds</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3189/treasury_secretary_mnuchi.jpg'&gt;&lt;br/&gt;It’s the rivalry no one asked for but we got because everything else is canceled.   Mnuchin: Nobody panic Mnuchin tried to calm down investors by doing an interview with someone who’s known for calming down investors: Jim Cramer. He said he’s made his pick, one who will be accepted by “all elements of the Democratic Party.” and there’s plenty of money available, should it be needed. But Thursday’s surprise announcement was one of the few times that politics may have weaseled into their relationship.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/20/steve-mnuchin-defends-pulling-fed-emergency-lending-funds?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/steve-mnuchin-defends-pulling-fed-emergency-lending-funds?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 21 Nov 2020 03:01:32 -0800</pubDate>
- </item>
- <item>
-  <title>Pfizer Applies for Emergency Use Authorization</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3074/vaccine.jpg'&gt;&lt;br/&gt;  With vaccines, “emergency” is relative. If that’s approved, about 20 million Americans—likely healthcare workers and the elderly—could be immunized before the end of the year. Moderna, which reported a 94.5% effective vaccine, will be next to file an application.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/20/pfizer-applies-emergency-use-authorization</link>
-  <author>Neal Freyman</author>
-  <categories>pharma</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/pfizer-applies-emergency-use-authorization</guid>
-  <pubDate>Fri, 20 Nov 2020 15:11:39 -0800</pubDate>
- </item>
- <item>
-  <title>The Theatrical Window Is Shrinking, Fast</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3191/home_theater.jpg'&gt;&lt;br/&gt;On Monday, Universal struck a landmark deal with theater chain Cinemark that allows it to debut a movie on premium streaming services just 31 days after it hits theaters. But amid the pandemic, Hollywood is repositioning its financial calculus toward home theaters and away from theater theaters.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/20/theatrical-window-shrinking-fast</link>
-  <author>Jamie Wilde</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/theatrical-window-shrinking-fast</guid>
-  <pubDate>Fri, 20 Nov 2020 15:06:35 -0800</pubDate>
- </item>
- <item>
-  <title>Regional Lockdown in Australia Lifted After It Was Discovered That Pizza Worker Lied</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3193/south_australians_adjust.jpg'&gt;&lt;br/&gt;Yesterday, authorities in South Australia lifted an emergency six-day lockdown early, after it was revealed a guy who worked at a pizza shop deliberately misled contact tracers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/20/regional-lockdown-australia-lifted-discovered-pizza-worker-lied</link>
-  <author>Toby Howell</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/regional-lockdown-australia-lifted-discovered-pizza-worker-lied</guid>
-  <pubDate>Fri, 20 Nov 2020 15:06:35 -0800</pubDate>
- </item>
- <item>
-  <title>Wish, Roblox, and Affirm Headline Latest Public Offering Filings</title>
-  <description>&lt;img src='https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif'&gt;&lt;br/&gt;  Wish isn’t the only one promoting its growth story The ultra-popular video game platform Roblox and personal lender Affirm also revealed their IPO paperwork this week.   Crazy stat of the day: Affirm’s partnership with Peloton accounts for 30% of its total revenue.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/20/wish-roblox-affirm-headline-latest-public-offering-filings</link>
-  <author>Toby Howell</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/wish-roblox-affirm-headline-latest-public-offering-filings</guid>
-  <pubDate>Fri, 20 Nov 2020 15:02:16 -0800</pubDate>
  </item>
 
 </channel>
