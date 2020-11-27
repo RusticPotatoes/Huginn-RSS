@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/25/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/27/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/27/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/25</link>
- <lastBuildDate>Wed, 25 Nov 2020 11:08:27 -0800</lastBuildDate>
- <pubDate>Wed, 25 Nov 2020 11:08:27 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/27</link>
+ <lastBuildDate>Fri, 27 Nov 2020 03:03:28 -0800</lastBuildDate>
+ <pubDate>Fri, 27 Nov 2020 03:03:28 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>McKesson Will Be the Central Distributor of Covid-19 Vaccines</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3227/former_mckesson_chairman.jpg'&gt;&lt;br/&gt;  The company will not make decisions on where to send the vaccines, however.   Put me in, coach Through Operation Warp Speed, the government has made McKesson the central distributor of Covid-19 vaccines (outside of Pfizer-BioNTech’s, which needs to live in sub-Arctic temps).     Because of McKesson’s expertise in schlepping life-saving material, the country has tapped it for similar programs before. It’s a lucrative business.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/23/mckesson-will-central-distributor-covid19-vaccines?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>profile</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/mckesson-will-central-distributor-covid19-vaccines?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 27 Nov 2020 03:01:24 -0800</pubDate>
+ </item>
+ <item>
+  <title>Covid-19 Vaccine Distribution Effort: By the Numbers</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3236/airline_freight.jpg'&gt;&lt;br/&gt;$21—the difference in price between Moderna’s vaccine ($25/dose) and AstraZeneca’s vaccine ($4/dose), according to U.S. purchase agreements.   10 billion single doses could be available by the end of 2022 if all the frontrunner vaccine candidates are approved.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/covid19-vaccine-distribution-effort-numbers?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>stats</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/covid19-vaccine-distribution-effort-numbers?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 27 Nov 2020 03:01:24 -0800</pubDate>
+ </item>
+ <item>
+  <title>How Temperature-Sensitive Vaccine Candidates Will be Distributed Via the Cold Chain</title>
+  <description>&lt;img src='https://media.giphy.com/media/zoMno34V30kla/giphy.gif'&gt;&lt;br/&gt;  Dry ice is the cold chain’s best friend. Pfizer has designed temperature-controlled dry ice boxes that can maintain a roughly -94° Fahrenheit temperature for up to 10 days.   Bottom line: Even with distributors and drug companies beefing up their cold chain capacity, pharma experts still expect a spoilage rate between 5% and 20%.   Storage is tight.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/temperaturesensitive-vaccine-candidates-will-distributed-via-cold-chain?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>temperature</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/temperaturesensitive-vaccine-candidates-will-distributed-via-cold-chain?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 27 Nov 2020 03:01:23 -0800</pubDate>
+ </item>
+ <item>
+  <title>A Quick Teardown of Operation Warp Speed</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3228/operation_warp_speed.png'&gt;&lt;br/&gt;  Looking ahead...   Budget: Up to $18 billion.   The goal: To deliver 300 million doses of a safe and effective vaccine by Jan. 2021. OWS leadership has said they can deliver a Covid-19 vaccine to every state less than 24 hours after FDA approval.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/quick-teardown-operation-warp-speed?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>government</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/quick-teardown-operation-warp-speed?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 27 Nov 2020 03:01:23 -0800</pubDate>
+ </item>
+ <item>
+  <title>Vaccine Manufacturing 101: The Brew Breaks it Down</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3074/vaccine.jpg'&gt;&lt;br/&gt;  Vaccine manufacturing is Isla de Muerta  It’s an island that cannot be found, except by those who already know where it is.   Plus, it’s not cheap. The total costs of vaccine development can run up to $500 million, one study found.   Regulators license the process behind making a vaccine in addition to the biological product itself.   Step 5: Distribution—mix up all the components in vials or syringes, load those suckers on trucks, and get them in some arms.   Step 3: Next, the antigen is purified through processes that sound like words you’d make up when lying about doing science homework: chromatography and ultrafiltration. Probably not, but Pfizer does. Basil’s gotta become pesto at some point.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/vaccine-manufacturing-101-brew-breaks?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>manufacturing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/vaccine-manufacturing-101-brew-breaks?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 27 Nov 2020 03:01:23 -0800</pubDate>
+ </item>
+ <item>
+  <title>One Vaccine Dose’s Journey From Lab to Arm</title>
+  <description>&lt;img src='https://media.giphy.com/media/VTLkM7Z0a2I48/giphy.gif'&gt;&lt;br/&gt;  But not so fast: Moderna’s vaccine requires two doses 28 days apart. The vaccine will fly in those Elsa-approved containers to a McKesson distribution facility in Irving, TX. We just spit a lot of information at you about the vaccine supply chain.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/24/one-vaccine-doses-journey-lab-arm?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>logistics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/one-vaccine-doses-journey-lab-arm?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 27 Nov 2020 03:01:23 -0800</pubDate>
+ </item>
  <item>
   <title>Photos of Vaccination Throughout History</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1788/vaccine_stock_photo.jpg'&gt;&lt;br/&gt;</description>
@@ -316,60 +370,6 @@
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/22/week-ahead-november-23</guid>
   <pubDate>Sun, 22 Nov 2020 19:23:01 -0800</pubDate>
- </item>
- <item>
-  <title>Cocoa Futures Skyrocket Thanks to Reported Hershey’s Trade</title>
-  <description>&lt;img src='https://media.giphy.com/media/Tt9jctxaVjRny/giphy.gif'&gt;&lt;br/&gt;Those two West African countries, which account for almost 70% of total global cocoa production, recently instituted a fee to boost cocoa farmers’ incomes.   Why is the cocoa so hot?    The futures markets are typically the domain of traders and speculators, the Financial Times explains.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/22/cocoa-futures-skyrocket-thanks-reported-hersheys-trade</link>
-  <author>Neal Freyman</author>
-  <categories>commodities</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/22/cocoa-futures-skyrocket-thanks-reported-hersheys-trade</guid>
-  <pubDate>Sun, 22 Nov 2020 19:23:01 -0800</pubDate>
- </item>
- <item>
-  <title>Why This Thanksgiving Will Be Unlike Any We’ve Had Before</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3198/macy_s_thanksgiving_parade.jpg'&gt;&lt;br/&gt;  Finally, it’s runty turkeys’ time to shine  Because people are planning smaller gatherings, smaller turkeys are taking flight off of shelves they likely never could as birds."     In response to outcry from those small businesses, large retailers agreed to delay their Black Vendredi deals until Dec. 4, provided the government allowed those smaller shops to reopen then. Travel will be much lighter But far from eliminated.   Important note: The CDC isn’t worried about the disease spreading on airplanes as much as people traveling in order to gather in large groups.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/23/thanksgiving-will-unlike-weve</link>
-  <author>Eliza Carter</author>
-  <categories>holiday</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/thanksgiving-will-unlike-weve</guid>
-  <pubDate>Sun, 22 Nov 2020 19:23:01 -0800</pubDate>
- </item>
- <item>
-  <title>Charli D’Amelio Hits 100 Million Followers on TikTok</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1699/tiktok_on_mobile_phone.jpg'&gt;&lt;br/&gt;  The nowstory: Charli, and her increasingly famous family, are thinking way beyond TikTok.  In the social media realm, Charli has 8.5 million subscribers on YouTube and 33.7 million followers on Instagram.     Even more impressively, she did it without drinking cranberry juice.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/23/charli-damelio-hits-100-million-followers-tiktok</link>
-  <author>Neal Freyman</author>
-  <categories>social-media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/charli-damelio-hits-100-million-followers-tiktok</guid>
-  <pubDate>Sun, 22 Nov 2020 19:23:01 -0800</pubDate>
- </item>
- <item>
-  <title>Regional Lockdown in Australia Lifted After It Was Discovered That Pizza Worker Lied</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3193/south_australians_adjust.jpg'&gt;&lt;br/&gt;  The backstory: The worker said he contracted Covid-19 shortly after picking up a takeout pizza at a restaurant (not the one he worked at).</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/20/regional-lockdown-australia-lifted-discovered-pizza-worker-lied?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/regional-lockdown-australia-lifted-discovered-pizza-worker-lied?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 21 Nov 2020 03:01:33 -0800</pubDate>
- </item>
- <item>
-  <title>The Theatrical Window Is Shrinking, Fast</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3191/home_theater.jpg'&gt;&lt;br/&gt;On Monday, Universal struck a landmark deal with theater chain Cinemark that allows it to debut a movie on premium streaming services just 31 days after it hits theaters. But amid the pandemic, Hollywood is repositioning its financial calculus toward home theaters and away from theater theaters.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/20/theatrical-window-shrinking-fast?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/theatrical-window-shrinking-fast?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 21 Nov 2020 03:01:32 -0800</pubDate>
- </item>
- <item>
-  <title>Wish, Roblox, and Affirm Headline Latest Public Offering Filings</title>
-  <description>&lt;img src='https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif'&gt;&lt;br/&gt;  Wish isn’t the only one promoting its growth story The personal lender Affirm and ultra-popular videogame platform Roblox also revealed their IPO paperwork this week.   Crazy stat of the day: Affirm’s partnership with Peloton accounts for 30% of its total revenue.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/20/wish-roblox-affirm-headline-latest-public-offering-filings?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/20/wish-roblox-affirm-headline-latest-public-offering-filings?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 21 Nov 2020 03:01:32 -0800</pubDate>
  </item>
 
 </channel>
