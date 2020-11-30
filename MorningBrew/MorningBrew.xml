@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/30</link>
- <lastBuildDate>Mon, 30 Nov 2020 15:14:00 -0800</lastBuildDate>
- <pubDate>Mon, 30 Nov 2020 15:14:00 -0800</pubDate>
+ <lastBuildDate>Mon, 30 Nov 2020 15:28:57 -0800</lastBuildDate>
+ <pubDate>Mon, 30 Nov 2020 15:28:57 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>GM Pulls out of Deal With Nikola Corporation </title>
+  <description>&lt;img src='https://media.giphy.com/media/bF297TFOoUK89mLayo/giphy.gif'&gt;&lt;br/&gt;  The nowstory: GM and Nikola are entering into a non-binding "potential agreement" that scraps the equity stake and Badger trucks.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/30/gm-pulls-deal-nikola-corporation</link>
+  <author>Toby Howell</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/gm-pulls-deal-nikola-corporation</guid>
+  <pubDate>Mon, 30 Nov 2020 15:26:56 -0800</pubDate>
+ </item>
  <item>
   <title>Biden Announces Economic Nominations and Appointments</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3265/biden-harris_transition.jpeg'&gt;&lt;br/&gt;    Cecilia Rouse, dean of Princeton's School of Public and International Affairs, was nominated as chair.   Confirming recent reports, former Fed Chair Janet Yellen was nominated to become the first woman to head the Treasury.   Council of Economic Advisors: Think of it as the president's personal econ think tank, responsible for crafting policy and economic forecasting. She'd be the first woman of color to head the OMB, but of all Biden's early nominees, she may face the tightest confirmation battle.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>government</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/quick-teardown-operation-warp-speed</guid>
-  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
- </item>
- <item>
-  <title>How Temperature-Sensitive Vaccine Candidates Will be Distributed Via the Cold Chain</title>
-  <description>&lt;img src='https://media.giphy.com/media/zoMno34V30kla/giphy.gif'&gt;&lt;br/&gt;  Dry ice is the cold chain’s best friend. Pfizer has designed temperature-controlled dry ice boxes that can maintain a roughly -94° Fahrenheit temperature for up to 10 days.   Bottom line: Even with distributors and drug companies beefing up their cold chain capacity, pharma experts still expect a spoilage rate between 5% and 20%.   Storage is tight.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/temperaturesensitive-vaccine-candidates-will-distributed-via-cold-chain</link>
-  <author>Toby Howell</author>
-  <categories>temperature</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/temperaturesensitive-vaccine-candidates-will-distributed-via-cold-chain</guid>
   <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
  </item>
 
