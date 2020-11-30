@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/30</link>
- <lastBuildDate>Mon, 30 Nov 2020 03:03:24 -0800</lastBuildDate>
- <pubDate>Mon, 30 Nov 2020 03:03:24 -0800</pubDate>
+ <lastBuildDate>Mon, 30 Nov 2020 15:04:05 -0800</lastBuildDate>
+ <pubDate>Mon, 30 Nov 2020 15:04:05 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Under Armour and Steph Curry Launch Curry Brand</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3264/steph_curry.jpg'&gt;&lt;br/&gt;  Zoom out: As effective as Steph is as a marketer, Curry Brand alone probably won't be able to right Under Armour's ship. Even Nike's powerful Jordan Brand accounts for just ~9% of the company's overall revenue.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/30/armour-steph-curry-launch-curry-brand</link>
+  <author>Toby Howell</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/armour-steph-curry-launch-curry-brand</guid>
+  <pubDate>Mon, 30 Nov 2020 15:01:58 -0800</pubDate>
+ </item>
+ <item>
+  <title>Stocks, Crypto Post Record-Setting Month</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o7abIileRivlGr8Nq/giphy.gif'&gt;&lt;br/&gt;  Small cap stocks, Wall Street verbiage for smaller companies that are publicly traded, had their best month ever—up 19%.     Non-cryptocurrency: The dollar had its worst month since July, which is a sign investors stayed away from the safe haven asset and piled into riskier bets.   It's not totally surprising.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/30/stocks-crypto-post-recordsetting-month</link>
+  <author>Neal Freyman</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/stocks-crypto-post-recordsetting-month</guid>
+  <pubDate>Mon, 30 Nov 2020 15:01:58 -0800</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: November 30</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2852/virtual_event_zoom.jpg'&gt;&lt;br/&gt;Everything else:  Tuesday is the first day of December.    Earnings: Zoom will report Q3 financials today, Salesforce (following rumors it's in talks to acquire Slack) is up Tuesday, and recently IPOed Snowflake will report Wednesday.</description>
@@ -351,24 +369,6 @@
   <author>Neal Freyman</author>
   <categories>markets</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/dow-rises-30000-fresh-record</guid>
-  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
- </item>
- <item>
-  <title>Covid-19 Watch: College Students Head Home for Holidays</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/979/college_campus.jpg'&gt;&lt;br/&gt;   The American College Health Association advised schools with in-person classes after Thanksgiving to ask students to remain on campus.   Many colleges are expected to stick with virtual or hybrid learning, but we could see more human bodies on college campuses.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/covid19-watch-college-students-head-home-holidays</link>
-  <author>Alex Hickey</author>
-  <categories>education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/covid19-watch-college-students-head-home-holidays</guid>
-  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
- </item>
- <item>
-  <title>One Vaccine Dose’s Journey From Lab to Arm</title>
-  <description>&lt;img src='https://media.giphy.com/media/VTLkM7Z0a2I48/giphy.gif'&gt;&lt;br/&gt;  But not so fast: Moderna’s vaccine requires two doses 28 days apart. The vaccine will fly in those Elsa-approved containers to a McKesson distribution facility in Irving, TX. We just spit a lot of information at you about the vaccine supply chain.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/one-vaccine-doses-journey-lab-arm</link>
-  <author>Jamie Wilde</author>
-  <categories>logistics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/one-vaccine-doses-journey-lab-arm</guid>
   <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
  </item>
 
