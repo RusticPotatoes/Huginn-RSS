@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/29</link>
- <lastBuildDate>Sun, 29 Nov 2020 16:53:18 -0800</lastBuildDate>
- <pubDate>Sun, 29 Nov 2020 16:53:18 -0800</pubDate>
+ <lastBuildDate>Sun, 29 Nov 2020 16:58:24 -0800</lastBuildDate>
+ <pubDate>Sun, 29 Nov 2020 16:58:24 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>NYC to Reopen Schools Next Week</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1714/empty_desk_and_classrooms.png'&gt;&lt;br/&gt;Next week, NYC will begin reopening preschools, kindergartens, and elementary schools, with middle and high schools to follow later, Mayor Bill de Blasio's office announced yesterday.   Leaders everywhere are wrestling with this Without federal guidance, the decision to open schools falls on state and local officials.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/30/nyc-reopen-schools-next-week</link>
+  <author>Alex Hickey</author>
+  <categories>education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/nyc-reopen-schools-next-week</guid>
+  <pubDate>Sun, 29 Nov 2020 16:56:23 -0800</pubDate>
+ </item>
+ <item>
+  <title>EU, UK Have Just 1 Month Left to Make Brexit Deal</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3254/brexit.jpg'&gt;&lt;br/&gt;With just one month left to reach a deal protecting ~$1 trillion worth of trade between the EU and UK, this is shaping up to be a critical week for Brexit negotiations.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/30/eu-uk-just-1-month-left-make-brexit-deal</link>
+  <author>Alex Hickey</author>
+  <categories>trade</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/eu-uk-just-1-month-left-make-brexit-deal</guid>
+  <pubDate>Sun, 29 Nov 2020 16:56:23 -0800</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: November 30</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2852/virtual_event_zoom.jpg'&gt;&lt;br/&gt;  Everything else:  Tuesday is the first day of December.    Earnings: Zoom will report Q3 financials today, Salesforce (following rumors it's in talks to acquire Slack) is up Tuesday, and 2020 hyped IPO Snowflake will report Wednesday.</description>
@@ -352,24 +370,6 @@
   <categories>auto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/gm-pulls-trump-administration-lawsuit-ca-emissions-rules</guid>
   <pubDate>Mon, 23 Nov 2020 14:51:58 -0800</pubDate>
- </item>
- <item>
-  <title>AstraZeneca's Vaccine Has Major Implications for Developing Countries</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3219/vaccine.jpg'&gt;&lt;br/&gt;AstraZeneca doesn't plan on profiting from its vaccine and will distribute doses at cost (a few bucks a pop). The company has committed 300 million doses to a WHO initiative for equitable vaccine access and another 1 billion for developing countries.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/23/astrazenecas-vaccine-major-implications-developing-countries</link>
-  <author>Alex Hickey</author>
-  <categories>pharma</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/astrazenecas-vaccine-major-implications-developing-countries</guid>
-  <pubDate>Mon, 23 Nov 2020 14:36:57 -0800</pubDate>
- </item>
- <item>
-  <title>Snapchat Rolls Out Its TikTok Competitor, Spotlight</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3222/tech_spidermans.png'&gt;&lt;br/&gt;  To make sure that Spotlight content gets created, Snap is adopting the "pay people a ridiculous amount of money" approach.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/23/snapchat-rolls-tiktok-competitor-spotlight</link>
-  <author>Toby Howell</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/snapchat-rolls-tiktok-competitor-spotlight</guid>
-  <pubDate>Mon, 23 Nov 2020 14:31:52 -0800</pubDate>
  </item>
 
 </channel>
