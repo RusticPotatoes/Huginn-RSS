@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/29</link>
- <lastBuildDate>Sun, 29 Nov 2020 16:18:21 -0800</lastBuildDate>
- <pubDate>Sun, 29 Nov 2020 16:18:21 -0800</pubDate>
+ <lastBuildDate>Sun, 29 Nov 2020 16:53:18 -0800</lastBuildDate>
+ <pubDate>Sun, 29 Nov 2020 16:53:18 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: November 30</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2852/virtual_event_zoom.jpg'&gt;&lt;br/&gt;  Everything else:  Tuesday is the first day of December.    Earnings: Zoom will report Q3 financials today, Salesforce (following rumors it's in talks to acquire Slack) is up Tuesday, and 2020 hyped IPO Snowflake will report Wednesday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/29/week-ahead-november-30</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/29/week-ahead-november-30</guid>
+  <pubDate>Sun, 29 Nov 2020 16:51:17 -0800</pubDate>
+ </item>
+ <item>
+  <title>Remembering Tony Hsieh, Former Zappos CEO</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3252/blue_man_group_and_zappos.jpg'&gt;&lt;br/&gt;  Hsieh took over and built an e-comm shoe colossus.   ShoeSite. Hsieh then started a fund and invested in the online shoe seller Zappos (then known as ShoeSite.   Quick bio In 1995, Hsieh (pronounced "shay") cofounded the internet ad company LinkExchange with a fellow Harvard alum. Nine years later...   more than $1 billion. At Zappos, he installed a self-management system called "Holacracy," which eliminated most traditional corporate hierarchy and allowed anyone to set meeting agendas.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/29/remembering-tony-hsieh-former-zappos-ceo</link>
+  <author>Neal Freyman</author>
+  <categories>obituary</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/29/remembering-tony-hsieh-former-zappos-ceo</guid>
+  <pubDate>Sun, 29 Nov 2020 16:51:17 -0800</pubDate>
+ </item>
  <item>
   <title>Black Friday? More Like Cyber Friday.</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3253/amazon_fulfillment_center.jpg'&gt;&lt;br/&gt;  Shopping on U.S. retail websites, however, rose 22% over last year to $9 billion, according to Adobe Analytics.   And today is Cyber Monday.</description>
@@ -352,24 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/snapchat-rolls-tiktok-competitor-spotlight</guid>
   <pubDate>Mon, 23 Nov 2020 14:31:52 -0800</pubDate>
- </item>
- <item>
-  <title>Bitcoin, Ethereum, and Altcoins Remain on a Heater</title>
-  <description>&lt;img src='https://media.giphy.com/media/TjY1AFrW5VUQXLuzTX/giphy.gif'&gt;&lt;br/&gt;But, as DeFi gains more traction and institutional investors warm up to bitcoin, altcoins could benefit.   Zoom out: Altcoins, in general, have a negative stigma attached to them because of the lack of regulation and a laundry list of horror stories involving scammy coin offerings.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/23/bitcoin-ethereum-altcoins-remain-heater</link>
-  <author>Toby Howell</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/bitcoin-ethereum-altcoins-remain-heater</guid>
-  <pubDate>Mon, 23 Nov 2020 14:31:52 -0800</pubDate>
- </item>
- <item>
-  <title>Report: President-Elect Biden Will Nominate Janet Yellen as Treasury Secretary</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3218/federal_reserve_chair_jan.jpg'&gt;&lt;br/&gt;  What does a Treasury secretary even do? If confirmed, Yellen will become the first woman to lead the Treasury Department.   What else will be on her agenda? President-elect Joe Biden is expected to nominate the former Fed Chair as the next Treasury secretary, as first reported by the WSJ.   Of course, Yellen's first couple months will be preoccupied with one objective: putting this coronavirus-induced recession in the rearview. Biden said his Treasury secretary pick would please those across the political spectrum, and Yellen is it.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/23/report-presidentelect-biden-will-nominate-janet-yellen-treasury-secretary</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/report-presidentelect-biden-will-nominate-janet-yellen-treasury-secretary</guid>
-  <pubDate>Mon, 23 Nov 2020 14:26:52 -0800</pubDate>
  </item>
 
 </channel>
