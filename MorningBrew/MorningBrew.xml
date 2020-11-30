@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/28/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/28/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/29/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/29/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/28</link>
- <lastBuildDate>Sat, 28 Nov 2020 05:04:59 -0800</lastBuildDate>
- <pubDate>Sat, 28 Nov 2020 05:04:59 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/29</link>
+ <lastBuildDate>Sun, 29 Nov 2020 16:18:21 -0800</lastBuildDate>
+ <pubDate>Sun, 29 Nov 2020 16:18:21 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Black Friday? More Like Cyber Friday.</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3253/amazon_fulfillment_center.jpg'&gt;&lt;br/&gt;  Shopping on U.S. retail websites, however, rose 22% over last year to $9 billion, according to Adobe Analytics.   And today is Cyber Monday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/29/black-friday-like-cyber-friday</link>
+  <author>Neal Freyman</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/29/black-friday-like-cyber-friday</guid>
+  <pubDate>Sun, 29 Nov 2020 16:16:19 -0800</pubDate>
+ </item>
  <item>
   <title>A Rough Timeline of Covid-19 Immunization in the U.S.</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2921/vaccine_clock.jpg'&gt;&lt;br/&gt;January 31, 2021: About 50 million Americans could be vaccinated by now, and, grouped in with those who've recovered from Covid-19, over 30% of the population would be immune, per the dean of Brown's public health school, Ashish Jha. February/March: At 30%–40% immunity, according to Jha, the spread will become "meaningfully slower" and infections won't be "self-sustaining."  </description>
@@ -361,15 +370,6 @@
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/report-presidentelect-biden-will-nominate-janet-yellen-treasury-secretary</guid>
   <pubDate>Mon, 23 Nov 2020 14:26:52 -0800</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: November 23</title>
-  <description>&lt;img src='https://media.giphy.com/media/Grqq2Ml8YrEC4/giphy.gif'&gt;&lt;br/&gt;    Economic data: Wednesday is where the action is.    Everything else:  On Tuesday, author Ernest Cline will follow up his sci-fi hit Ready Player One with—wait for it—Ready Player Two. Rock star Miley Cyrus’s new album, Plastic Hearts, drops on Friday. Go Terps.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/22/week-ahead-november-23?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/22/week-ahead-november-23?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 23 Nov 2020 03:02:08 -0800</pubDate>
  </item>
 
 </channel>
