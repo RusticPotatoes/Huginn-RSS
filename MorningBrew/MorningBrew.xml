@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/11/30</link>
- <lastBuildDate>Mon, 30 Nov 2020 15:04:05 -0800</lastBuildDate>
- <pubDate>Mon, 30 Nov 2020 15:04:05 -0800</pubDate>
+ <lastBuildDate>Mon, 30 Nov 2020 15:14:00 -0800</lastBuildDate>
+ <pubDate>Mon, 30 Nov 2020 15:14:00 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Biden Announces Economic Nominations and Appointments</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3265/biden-harris_transition.jpeg'&gt;&lt;br/&gt;    Cecilia Rouse, dean of Princeton's School of Public and International Affairs, was nominated as chair.   Confirming recent reports, former Fed Chair Janet Yellen was nominated to become the first woman to head the Treasury.   Council of Economic Advisors: Think of it as the president's personal econ think tank, responsible for crafting policy and economic forecasting. She'd be the first woman of color to head the OMB, but of all Biden's early nominees, she may face the tightest confirmation battle.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/30/biden-announces-economic-nominations-appointments</link>
+  <author>Alex Hickey</author>
+  <categories>politics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/biden-announces-economic-nominations-appointments</guid>
+  <pubDate>Mon, 30 Nov 2020 15:12:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>Facebook to Buy CRM Startup Kustomer for $1B+</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1017/facebook_shops.jpg'&gt;&lt;br/&gt;  Why Facebook wants in: Kustomer rounds out a growing suite of services Facebook offers to the millions of businesses that use its platforms.   buying promising startups and squashing competition. Over 175 million people chat up businesses on WhatsApp each day.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/30/facebook-buy-crm-startup-kustomer-1b</link>
+  <author>Alex Hickey</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/facebook-buy-crm-startup-kustomer-1b</guid>
+  <pubDate>Mon, 30 Nov 2020 15:12:04 -0800</pubDate>
+ </item>
  <item>
   <title>Under Armour and Steph Curry Launch Curry Brand</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3264/steph_curry.jpg'&gt;&lt;br/&gt;  Zoom out: As effective as Steph is as a marketer, Curry Brand alone probably won't be able to right Under Armour's ship. Even Nike's powerful Jordan Brand accounts for just ~9% of the company's overall revenue.</description>
@@ -351,24 +369,6 @@
   <author>Toby Howell</author>
   <categories>temperature</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/temperaturesensitive-vaccine-candidates-will-distributed-via-cold-chain</guid>
-  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
- </item>
- <item>
-  <title>McCormick Buys Cholula Amid Pandemic Boost to Grocery Sales</title>
-  <description>&lt;img src='https://media.giphy.com/media/OtmGEIPc6oZK8/giphy.gif'&gt;&lt;br/&gt;  As for Cholula’s previous owner, L Catterton is reportedly expecting a 4x return on its 2019 purchase of Cholula. It agreed to buy the wood-capped hot sauce company’s parent from private equity firm L Catterton for $800 million.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/mccormick-buys-cholula-amid-pandemic-boost-grocery-sales</link>
-  <author>Eliza Carter</author>
-  <categories>food</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/mccormick-buys-cholula-amid-pandemic-boost-grocery-sales</guid>
-  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
- </item>
- <item>
-  <title>Dow Rises to 30,000 and a Fresh Record</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3240/arrow_breaking_thru_a_wall.jpg'&gt;&lt;br/&gt;    Quick refresher on the Dow: It’s a collection of 30 "blue-chip" U.S. stocks.   It also topped 30,000, another completely arbitrary number.   And that’s exactly how professional investors view the Dow at 30k: symbolic, nothing more. Let’s talk about that rally  How it started: The Dow was in the dumps during the onset of the pandemic, trading below 19,000 points in March. Of course, each 10,000 point milestone represents a smaller proportional gain, because math.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/dow-rises-30000-fresh-record</link>
-  <author>Neal Freyman</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/dow-rises-30000-fresh-record</guid>
   <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
  </item>
 
