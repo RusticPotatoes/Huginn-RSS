@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/11/29/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/11/29/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/11/30/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/11/30/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/11/29</link>
- <lastBuildDate>Sun, 29 Nov 2020 16:58:24 -0800</lastBuildDate>
- <pubDate>Sun, 29 Nov 2020 16:58:24 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/11/30</link>
+ <lastBuildDate>Mon, 30 Nov 2020 03:03:24 -0800</lastBuildDate>
+ <pubDate>Mon, 30 Nov 2020 03:03:24 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: November 30</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2852/virtual_event_zoom.jpg'&gt;&lt;br/&gt;Everything else:  Tuesday is the first day of December.    Earnings: Zoom will report Q3 financials today, Salesforce (following rumors it's in talks to acquire Slack) is up Tuesday, and recently IPOed Snowflake will report Wednesday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/29/week-ahead-november-30?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/29/week-ahead-november-30?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 30 Nov 2020 03:01:22 -0800</pubDate>
+ </item>
+ <item>
+  <title>EU, UK Have Just 1 Month Left to Make Brexit Deal</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3254/brexit.jpg'&gt;&lt;br/&gt;With just one month left to reach a deal protecting ~$1 trillion worth of trade between the EU and UK, this is shaping up to be a critical week for Brexit negotiations.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/30/eu-uk-just-1-month-left-make-brexit-deal?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>trade</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/eu-uk-just-1-month-left-make-brexit-deal?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 30 Nov 2020 03:01:22 -0800</pubDate>
+ </item>
+ <item>
+  <title>NYC to Reopen Schools Next Week</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1714/empty_desk_and_classrooms.png'&gt;&lt;br/&gt;Next week, NYC will begin reopening preschools, kindergartens, and elementary schools, with middle and high schools to follow later, Mayor Bill de Blasio's office announced yesterday.   Leaders everywhere are wrestling with this Without federal guidance, the decision to open schools falls on state and local officials.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/30/nyc-reopen-schools-next-week?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/nyc-reopen-schools-next-week?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 30 Nov 2020 03:01:21 -0800</pubDate>
+ </item>
+ <item>
+  <title>Black Friday? More Like Cyber Friday.</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3253/amazon_fulfillment_center.jpg'&gt;&lt;br/&gt;  Shopping on U.S. retail websites, however, rose 22% over last year to $9 billion, according to Adobe Analytics.   And today is Cyber Monday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/29/black-friday-like-cyber-friday?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/29/black-friday-like-cyber-friday?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 30 Nov 2020 03:01:21 -0800</pubDate>
+ </item>
+ <item>
+  <title>Remembering Tony Hsieh, Former Zappos CEO</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3252/blue_man_group_and_zappos.jpg'&gt;&lt;br/&gt;  Hsieh took over and built an e-comm shoe colossus.   ShoeSite. Hsieh then started a fund and invested in the online shoe seller Zappos (then known as ShoeSite.   Quick bio In 1995, Hsieh (pronounced "shay") cofounded the internet ad company LinkExchange with a fellow Harvard alum. Nine years later...   more than $1 billion. At Zappos, he installed a self-management system called "Holacracy," which eliminated most traditional corporate hierarchy and allowed anyone to set meeting agendas.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/11/29/remembering-tony-hsieh-former-zappos-ceo?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>obituary</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/29/remembering-tony-hsieh-former-zappos-ceo?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 30 Nov 2020 03:01:21 -0800</pubDate>
+ </item>
  <item>
   <title>NYC to Reopen Schools Next Week</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1714/empty_desk_and_classrooms.png'&gt;&lt;br/&gt;Next week, NYC will begin reopening preschools, kindergartens, and elementary schools, with middle and high schools to follow later, Mayor Bill de Blasio's office announced yesterday.   Leaders everywhere are wrestling with this Without federal guidance, the decision to open schools falls on state and local officials.  </description>
@@ -325,51 +370,6 @@
   <categories>logistics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/one-vaccine-doses-journey-lab-arm</guid>
   <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
- </item>
- <item>
-  <title>2021 Grammys: Recording Academy Announces Nominees</title>
-  <description>&lt;img src='https://media.giphy.com/media/jTHLTd4FGwlWPAqFOy/giphy.gif'&gt;&lt;br/&gt;.   Looking ahead...   The snubs: The Academy still thinks of The Weeknd as Saturday and Sunday, even though the pop star will perform at the Super Bowl. Producer and Recording Academy chairman Harvey Mason Jr. said the artists will be present and there will be a small audience.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/2021-grammys-recording-academy-announces-nominees</link>
-  <author>Eliza Carter</author>
-  <categories>music</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/2021-grammys-recording-academy-announces-nominees</guid>
-  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
- </item>
- <item>
-  <title>Vaccine Manufacturing 101: The Brew Breaks it Down</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3074/vaccine.jpg'&gt;&lt;br/&gt;  Vaccine manufacturing is Isla de Muerta  It’s an island that cannot be found, except by those who already know where it is.   Plus, it’s not cheap. The total costs of vaccine development can run up to $500 million, one study found.     Step 5: Distribution—mix up all the components in vials or syringes, load those suckers on trucks, and get them in some arms.   Step 3: Next, the antigen is purified through processes that sound like words you’d make up when lying about doing science homework: chromatography and ultrafiltration. Probably not, but Pfizer does. Basil’s gotta become pesto at some point. Scientists do this by literally growing it in a cell—like the basil plant on your window, but tiny.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/vaccine-manufacturing-101-brew-breaks</link>
-  <author>Eliza Carter</author>
-  <categories>manufacturing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/vaccine-manufacturing-101-brew-breaks</guid>
-  <pubDate>Wed, 25 Nov 2020 07:06:26 -0800</pubDate>
- </item>
- <item>
-  <title>Covid-19 Vaccine Distribution Effort: By the Numbers</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3236/airline_freight.jpg'&gt;&lt;br/&gt;$21—the difference in price between Moderna’s vaccine ($25/dose) and AstraZeneca’s vaccine ($4/dose), according to U.S. purchase agreements.   10 billion single doses could be available by the end of 2022 if all the frontrunner vaccine candidates are approved.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/covid19-vaccine-distribution-effort-numbers</link>
-  <author>Toby Howell</author>
-  <categories>stats</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/covid19-vaccine-distribution-effort-numbers</guid>
-  <pubDate>Wed, 25 Nov 2020 07:06:25 -0800</pubDate>
- </item>
- <item>
-  <title>Gap, Nordstrom, Dick’s and More Report Earnings</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/115/gap_inc_turnaround.jpg'&gt;&lt;br/&gt;  Dick’s e-commerce sales rose 95%, while same-store sales grew 23%.   And Best Buy shares fell 7% when the company warned early holiday sales could mean lower demand ahead.   Abercrombie reported a 43% uptick in online sales.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/gap-nordstrom-dicks-report-earnings</link>
-  <author>Alex Hickey</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/gap-nordstrom-dicks-report-earnings</guid>
-  <pubDate>Wed, 25 Nov 2020 07:06:25 -0800</pubDate>
- </item>
- <item>
-  <title>GM Pulls out of Trump Administration Lawsuit Against CA Emissions Rules</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3220/mary_barra.jpg'&gt;&lt;br/&gt;GM joined Fiat Chrysler, Toyota, and several smaller automakers in supporting the White House. Yesterday, GM CEO Mary Barra pulled her company's support for a Trump administration lawsuit against the state of California. Looking ahead…Barra is trying to buddy up to Biden, who's made supporting the electric vehicle industry a priority for his administration.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/23/gm-pulls-trump-administration-lawsuit-ca-emissions-rules</link>
-  <author>Alex Hickey</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/gm-pulls-trump-administration-lawsuit-ca-emissions-rules</guid>
-  <pubDate>Mon, 23 Nov 2020 14:51:58 -0800</pubDate>
  </item>
 
 </channel>
