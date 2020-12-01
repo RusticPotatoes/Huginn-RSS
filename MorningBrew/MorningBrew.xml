@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/01</link>
- <lastBuildDate>Tue, 01 Dec 2020 14:38:38 -0800</lastBuildDate>
- <pubDate>Tue, 01 Dec 2020 14:38:38 -0800</pubDate>
+ <lastBuildDate>Tue, 01 Dec 2020 14:43:38 -0800</lastBuildDate>
+ <pubDate>Tue, 01 Dec 2020 14:43:38 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The McRib Returns to McDonald’s in Nationwide Rollout</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3268/mcrib.jpg'&gt;&lt;br/&gt;  + Did you know: Germany is the only country that's served the McRib all year-round. The famous McRib returns to McDonald's menus today.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/01/mcrib-returns-mcdonalds-nationwide-rollout</link>
+  <author>Neal Freyman</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/mcrib-returns-mcdonalds-nationwide-rollout</guid>
+  <pubDate>Tue, 01 Dec 2020 14:41:38 -0800</pubDate>
+ </item>
  <item>
   <title>It Went Down in the DMs</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3271/slack_salesforce.jpg'&gt;&lt;br/&gt;  Zoom out: Salesforce and Slack have a common, four-paned enemy: Microsoft.   For Salesforce: Slack will join analytics company Tableau and cloud provider Vlocity in Salesforce's growing stable of business services offerings. Salesforce has been buying up enterprise-oriented companies in a bid to fulfill every workplace need outside of book club—but Slack is Salesforce's biggest purchase to date.   No need to worry about your favorite gossip channel disappearing; the WaPo writes that Slack's impressive brand loyalty will likely keep Salesforce from meddling too much in the app you know and love/dread.</description>
@@ -360,15 +369,6 @@
   <author>Eliza Carter</author>
   <categories>human-resources</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/vaccination-workplace-employers-advised-strongly-encourage</guid>
-  <pubDate>Wed, 25 Nov 2020 11:06:25 -0800</pubDate>
- </item>
- <item>
-  <title>Americans Are Divided Over The Covid-19 Vaccine</title>
-  <description>&lt;img src='https://media.giphy.com/media/s3Klt17UqDYyI/giphy.gif'&gt;&lt;br/&gt;Establishing public trust in these vaccines will be the next major challenge for health officials. That's down from a peak of 50% in September, but remains a concerning number for public health officials who want to get Covid-19 under control.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/americans-divided-covid19-vaccine</link>
-  <author>Jamie Wilde</author>
-  <categories>poll</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/americans-divided-covid19-vaccine</guid>
   <pubDate>Wed, 25 Nov 2020 11:06:25 -0800</pubDate>
  </item>
 
