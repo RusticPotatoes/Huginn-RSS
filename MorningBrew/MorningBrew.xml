@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/01</link>
- <lastBuildDate>Tue, 01 Dec 2020 03:03:41 -0800</lastBuildDate>
- <pubDate>Tue, 01 Dec 2020 03:03:41 -0800</pubDate>
+ <lastBuildDate>Tue, 01 Dec 2020 14:33:37 -0800</lastBuildDate>
+ <pubDate>Tue, 01 Dec 2020 14:33:37 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Startups in Micro Mobility, Freight Tech, and Customer Engagement, Announce Deals</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3270/scooter_at_the_brandenbur.jpg'&gt;&lt;br/&gt;It's one of many well-funded companies looking to disrupt the—how do we put this kindly—mature freight sector.     Micromobility: Voi, a Swedish scooter rental startup, raised $160 million to help it expand in Europe. With more consumers interacting with brands over the internet, Sinch is the top-performing stock on the Stoxx Europe 600 index this year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/01/startups-micro-mobility-freight-tech-customer-engagement-announce-deals</link>
+  <author>Neal Freyman</author>
+  <categories>startup</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/startups-micro-mobility-freight-tech-customer-engagement-announce-deals</guid>
+  <pubDate>Tue, 01 Dec 2020 14:31:35 -0800</pubDate>
+ </item>
  <item>
   <title>Under Armour and Steph Curry Launch Curry Brand</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3264/steph_curry.jpg'&gt;&lt;br/&gt;  Zoom out: Even with Steph's marketing chops, Curry Brand alone probably won't be able to right Under Armour's ship. Nike's powerful Jordan Brand accounts for just ~9% of the company's overall revenue.</description>
@@ -360,15 +369,6 @@
   <author>Eliza Carter</author>
   <categories>music</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/2021-grammys-recording-academy-announces-nominees?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 25 Nov 2020 08:01:27 -0800</pubDate>
- </item>
- <item>
-  <title>Gap, Nordstrom, Dick’s and More Report Earnings</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/115/gap_inc_turnaround.jpg'&gt;&lt;br/&gt;  Dick’s e-commerce sales rose 95%, while same-store sales grew 23%.   And Best Buy shares fell 7% when the company warned early holiday sales could mean lower demand ahead.   Abercrombie reported a 43% uptick in online sales.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/gap-nordstrom-dicks-report-earnings?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/gap-nordstrom-dicks-report-earnings?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 25 Nov 2020 08:01:27 -0800</pubDate>
  </item>
 
