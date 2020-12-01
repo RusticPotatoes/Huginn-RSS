@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/01</link>
- <lastBuildDate>Tue, 01 Dec 2020 14:33:37 -0800</lastBuildDate>
- <pubDate>Tue, 01 Dec 2020 14:33:37 -0800</pubDate>
+ <lastBuildDate>Tue, 01 Dec 2020 14:38:38 -0800</lastBuildDate>
+ <pubDate>Tue, 01 Dec 2020 14:38:38 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>It Went Down in the DMs</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3271/slack_salesforce.jpg'&gt;&lt;br/&gt;  Zoom out: Salesforce and Slack have a common, four-paned enemy: Microsoft.   For Salesforce: Slack will join analytics company Tableau and cloud provider Vlocity in Salesforce's growing stable of business services offerings. Salesforce has been buying up enterprise-oriented companies in a bid to fulfill every workplace need outside of book club—but Slack is Salesforce's biggest purchase to date.   No need to worry about your favorite gossip channel disappearing; the WaPo writes that Slack's impressive brand loyalty will likely keep Salesforce from meddling too much in the app you know and love/dread.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/01/went-dms</link>
+  <author>Eliza Carter</author>
+  <categories>manda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/went-dms</guid>
+  <pubDate>Tue, 01 Dec 2020 14:36:37 -0800</pubDate>
+ </item>
  <item>
   <title>Startups in Micro Mobility, Freight Tech, and Customer Engagement, Announce Deals</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3270/scooter_at_the_brandenbur.jpg'&gt;&lt;br/&gt;It's one of many well-funded companies looking to disrupt the—how do we put this kindly—mature freight sector.     Micromobility: Voi, a Swedish scooter rental startup, raised $160 million to help it expand in Europe. With more consumers interacting with brands over the internet, Sinch is the top-performing stock on the Stoxx Europe 600 index this year.</description>
@@ -361,15 +370,6 @@
   <categories>poll</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/americans-divided-covid19-vaccine</guid>
   <pubDate>Wed, 25 Nov 2020 11:06:25 -0800</pubDate>
- </item>
- <item>
-  <title>2021 Grammys: Recording Academy Announces Nominees</title>
-  <description>&lt;img src='https://media.giphy.com/media/jTHLTd4FGwlWPAqFOy/giphy.gif'&gt;&lt;br/&gt;.   Looking ahead...   The snubs: The Academy still thinks of The Weeknd as Saturday and Sunday, even though the pop star will perform at the Super Bowl. Producer and Recording Academy chairman Harvey Mason Jr. said the artists will be present and there will be a small audience.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/2021-grammys-recording-academy-announces-nominees?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>music</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/2021-grammys-recording-academy-announces-nominees?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 25 Nov 2020 08:01:27 -0800</pubDate>
  </item>
 
 </channel>
