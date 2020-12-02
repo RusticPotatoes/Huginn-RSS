@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/01/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/02/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/01</link>
- <lastBuildDate>Tue, 01 Dec 2020 14:53:37 -0800</lastBuildDate>
- <pubDate>Tue, 01 Dec 2020 14:53:37 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/02</link>
+ <lastBuildDate>Wed, 02 Dec 2020 03:03:36 -0800</lastBuildDate>
+ <pubDate>Wed, 02 Dec 2020 03:03:36 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The McRib Returns to McDonald’s in Nationwide Rollout</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3268/mcrib.jpg'&gt;&lt;br/&gt;  + Did you know: Germany is the only country that's served the McRib all year round.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/01/mcrib-returns-mcdonalds-nationwide-rollout?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/mcrib-returns-mcdonalds-nationwide-rollout?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 02 Dec 2020 03:01:34 -0800</pubDate>
+ </item>
+ <item>
+  <title>Startups in Micro Mobility, Freight Tech, and Customer Engagement, Announce Deals</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3270/scooter_at_the_brandenbur.jpg'&gt;&lt;br/&gt;It's one of many well-funded companies looking to disrupt the—how do we put this kindly—mature freight sector.   Scale AI, which yesterday raised $155 million at a monster valuation of $3.5 billion, gives companies the behind-the-scenes tools to help them actually put AI to work.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/01/startups-micro-mobility-freight-tech-customer-engagement-announce-deals?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>startup</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/startups-micro-mobility-freight-tech-customer-engagement-announce-deals?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 02 Dec 2020 03:01:34 -0800</pubDate>
+ </item>
+ <item>
+  <title>Nasdaq Proposes Board Diversity Requirements</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3272/nasdaq.jpg'&gt;&lt;br/&gt;From 2010–2018, seats held by Black directors increased just one percentage point to 9%. The Nasdaq would be the first major exchange to impose such requirements, but it's not alone in pushing for board diversity.    Over three-quarters of Nasdaq-listed companies can't meet that benchmark today.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/01/nasdaq-proposes-board-diversity-requirements?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>diversity-and-inclusion</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/nasdaq-proposes-board-diversity-requirements?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 02 Dec 2020 03:01:34 -0800</pubDate>
+ </item>
+ <item>
+  <title>CDC Vaccine Panel Votes to Prioritize Healthcare Workers, Long Term Care Residents</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3219/vaccine.jpg'&gt;&lt;br/&gt;  The vaccine scene: Pfizer and Moderna have requested emergency use authorization for their Covid-19 vaccines. if CDC Director Robert Redfield approves ACIP's decision, this guidance will be sent to the states. What they decided: Phase 1 of Phase 1 is *drumroll please* healthcare personnel and long-term care facility (LTCF) residents. Not a simple decision.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/01/cdc-vaccine-panel-votes-prioritize-healthcare-workers-long-term-care-residents?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>healthcare</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/cdc-vaccine-panel-votes-prioritize-healthcare-workers-long-term-care-residents?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 02 Dec 2020 03:01:34 -0800</pubDate>
+ </item>
+ <item>
+  <title>Why SaaS Giant Salesforce Bought Slack</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3271/slack_salesforce.jpg'&gt;&lt;br/&gt;  Zoom out: Salesforce and Slack have a common, four-paned enemy: Microsoft.   For Salesforce: Slack will join analytics company Tableau and cloud provider Vlocity in Salesforce's growing stable of business services offerings. Salesforce has been buying up enterprise-oriented companies in a bid to fulfill every workplace need outside of book club—and Slack is Salesforce's biggest purchase to date.   No need to worry about your favorite gossip channel disappearing; the WaPo writes that Slack's impressive brand loyalty will likely keep Salesforce from meddling too much in the app you know and love/dread.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/01/went-dms?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>software</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/went-dms?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 02 Dec 2020 03:01:34 -0800</pubDate>
+ </item>
  <item>
   <title>Nasdaq Proposes Board Diversity Requirements</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3272/nasdaq.jpg'&gt;&lt;br/&gt;The Nasdaq would be the first major exchange to impose such requirements, but it's not alone in pushing for board diversity.    Over three-quarters of Nasdaq-listed companies can't meet that benchmark today. In 2018, women held just 22% of Fortune 500 board seats. Publicly disclose diversity statistics about their boards of directors.</description>
@@ -325,51 +370,6 @@
   <categories>government</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/quick-teardown-operation-warp-speed?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 27 Nov 2020 03:01:23 -0800</pubDate>
- </item>
- <item>
-  <title>Vaccine Manufacturing 101: The Brew Breaks it Down</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3074/vaccine.jpg'&gt;&lt;br/&gt;  Vaccine manufacturing is Isla de Muerta  It’s an island that cannot be found, except by those who already know where it is.   Plus, it’s not cheap. The total costs of vaccine development can run up to $500 million, one study found.   Regulators license the process behind making a vaccine in addition to the biological product itself.   Step 5: Distribution—mix up all the components in vials or syringes, load those suckers on trucks, and get them in some arms.   Step 3: Next, the antigen is purified through processes that sound like words you’d make up when lying about doing science homework: chromatography and ultrafiltration. Probably not, but Pfizer does. Basil’s gotta become pesto at some point.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/vaccine-manufacturing-101-brew-breaks?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>manufacturing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/vaccine-manufacturing-101-brew-breaks?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 27 Nov 2020 03:01:23 -0800</pubDate>
- </item>
- <item>
-  <title>One Vaccine Dose’s Journey From Lab to Arm</title>
-  <description>&lt;img src='https://media.giphy.com/media/VTLkM7Z0a2I48/giphy.gif'&gt;&lt;br/&gt;  But not so fast: Moderna’s vaccine requires two doses 28 days apart. The vaccine will fly in those Elsa-approved containers to a McKesson distribution facility in Irving, TX. We just spit a lot of information at you about the vaccine supply chain.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/one-vaccine-doses-journey-lab-arm?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>logistics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/one-vaccine-doses-journey-lab-arm?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 27 Nov 2020 03:01:23 -0800</pubDate>
- </item>
- <item>
-  <title>Photos of Vaccination Throughout History</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1788/vaccine_stock_photo.jpg'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/23/photos-vaccination-throughout-history</link>
-  <author>Neal Freyman</author>
-  <categories>pics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/photos-vaccination-throughout-history</guid>
-  <pubDate>Wed, 25 Nov 2020 11:06:26 -0800</pubDate>
- </item>
- <item>
-  <title>A Rough Timeline of Covid-19 Immunization in the U.S.</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2921/vaccine_clock.jpg'&gt;&lt;br/&gt;January 31, 2021: About 50 million Americans could be vaccinated by now, and, grouped in with those who've recovered from Covid-19, over 30% of the population would be immune, per the dean of Brown's public health school, Ashish Jha. February/March: At 30%–40% immunity, according to Jha, the spread will become "meaningfully slower" and infections won't be "self-sustaining."  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/23/rough-timeline-covid19-immunization-us</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/rough-timeline-covid19-immunization-us</guid>
-  <pubDate>Wed, 25 Nov 2020 11:06:26 -0800</pubDate>
- </item>
- <item>
-  <title>Who Gets a Vaccine First?</title>
-  <description>&lt;img src='https://media.giphy.com/media/eoK5GIUKwf0tO/giphy.gif'&gt;&lt;br/&gt;  The U.S.' ~20 million healthcare workers, including doctors, nurses, and support staff, will likely be top priority. #3: Not everyone will get a vaccine.     Who's first? But in 2009, researchers published a study suggesting a focus on vaccinating the biggest spreaders—in the case of swine flu, children ages 5–19—to protect everyone else. Reality check: There won't be enough Covid-19 vaccines for everyone for a while. In the last decade, the U.S. has never vaccinated more than half of adults for the flu, and vaccination rates for Black, Latinx, and high-risk adults trend lower. Other factors to consider #1: Different vaccines have different logistical challenges and health considerations, which could affect who gets what when.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/gets-vaccine-first</link>
-  <author>Alex Hickey</author>
-  <categories>public-health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/gets-vaccine-first</guid>
-  <pubDate>Wed, 25 Nov 2020 11:06:26 -0800</pubDate>
  </item>
 
 </channel>
