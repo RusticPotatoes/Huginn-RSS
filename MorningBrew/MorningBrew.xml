@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/02</link>
- <lastBuildDate>Wed, 02 Dec 2020 14:38:34 -0800</lastBuildDate>
- <pubDate>Wed, 02 Dec 2020 14:38:34 -0800</pubDate>
+ <lastBuildDate>Wed, 02 Dec 2020 14:43:41 -0800</lastBuildDate>
+ <pubDate>Wed, 02 Dec 2020 14:43:41 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Coronavirus Aid: Democratic Leaders Back Compromise Bill</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3022/congress.jpg'&gt;&lt;br/&gt;    But there’s been a development. Democratic Sen. Mark Warner told NBC that failing to pass a relief bill before Congress breaks for the holidays would be “stupidity on steroids.” Republican leadership wants a $550 billion package, Dems have favored one closer to $2 trillion.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/02/coronavirus-aid-democratic-leaders-back-compromise-bill</link>
+  <author>Eliza Carter</author>
+  <categories>covid-19</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/coronavirus-aid-democratic-leaders-back-compromise-bill</guid>
+  <pubDate>Wed, 02 Dec 2020 14:41:40 -0800</pubDate>
+ </item>
+ <item>
+  <title>This Year’s Largest Acquisition? It’s Not What You Think</title>
+  <description>&lt;img src='https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif'&gt;&lt;br/&gt;  Bottom line: The former NYC mayor and memelord’s namesake company still towers over the financial data market.   Intercontinental Exchange, LSE rival and owner of the NYSE, has bought both mortgage finance tech platform Ellie Mae and data provider Interactive Data in the past few years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/02/years-largest-acquisition-not-think</link>
+  <author>Eliza Carter</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/years-largest-acquisition-not-think</guid>
+  <pubDate>Wed, 02 Dec 2020 14:41:40 -0800</pubDate>
+ </item>
  <item>
   <title>Apple, Spotify, and TikTok Release Their Year-End-Roundups</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3291/apple_award.jpg'&gt;&lt;br/&gt;the global pandemic simulator Plague Inc. came in at No. 2 on the paid gaming charts. Spotify. App Store: Unsurprisingly, Zoom was the most downloaded free app of the year, and TikTok and Disney+ rounded out the top three.</description>
@@ -352,24 +370,6 @@
   <categories>geopolitics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/covax-initiative-seeks-equitable-access-covid-vaccines?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 28 Nov 2020 05:01:28 -0800</pubDate>
- </item>
- <item>
-  <title>Who Gets a Vaccine First?</title>
-  <description>&lt;img src='https://media.giphy.com/media/eoK5GIUKwf0tO/giphy.gif'&gt;&lt;br/&gt;  The U.S.' ~20 million healthcare workers, including doctors, nurses, and support staff, will likely be top priority. #3: Not everyone will get a vaccine.     Who's first? But in 2009, researchers published a study suggesting a focus on vaccinating the biggest spreaders—in the case of swine flu, children ages 5–19—to protect everyone else. Reality check: There won't be enough Covid-19 vaccines for everyone for a while. In the last decade, the U.S. has never vaccinated more than half of adults for the flu, and vaccination rates for Black, Latinx, and high-risk adults trend lower. Other factors to consider #1: Different vaccines have different logistical challenges and health considerations, which could affect who gets what when.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/gets-vaccine-first?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>public-health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/gets-vaccine-first?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 28 Nov 2020 05:01:27 -0800</pubDate>
- </item>
- <item>
-  <title>McKesson Will Be the Central Distributor of Covid-19 Vaccines</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3227/former_mckesson_chairman.jpg'&gt;&lt;br/&gt;  The company will not make decisions on where to send the vaccines, however.   Put me in, coach Through Operation Warp Speed, the government has made McKesson the central distributor of Covid-19 vaccines (outside of Pfizer-BioNTech’s, which needs to live in sub-Arctic temps).     Because of McKesson’s expertise in schlepping life-saving material, the country has tapped it for similar programs before. It’s a lucrative business.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/23/mckesson-will-central-distributor-covid19-vaccines?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>profile</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/mckesson-will-central-distributor-covid19-vaccines?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 27 Nov 2020 03:01:24 -0800</pubDate>
  </item>
 
 </channel>
