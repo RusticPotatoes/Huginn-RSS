@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/02</link>
- <lastBuildDate>Wed, 02 Dec 2020 14:33:38 -0800</lastBuildDate>
- <pubDate>Wed, 02 Dec 2020 14:33:38 -0800</pubDate>
+ <lastBuildDate>Wed, 02 Dec 2020 14:38:34 -0800</lastBuildDate>
+ <pubDate>Wed, 02 Dec 2020 14:38:34 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Apple, Spotify, and TikTok Release Their Year-End-Roundups</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3291/apple_award.jpg'&gt;&lt;br/&gt;the global pandemic simulator Plague Inc. came in at No. 2 on the paid gaming charts. Spotify. App Store: Unsurprisingly, Zoom was the most downloaded free app of the year, and TikTok and Disney+ rounded out the top three.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/02/apple-spotify-tiktok-release-yearendroundups</link>
+  <author>Toby Howell</author>
+  <categories>review</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/apple-spotify-tiktok-release-yearendroundups</guid>
+  <pubDate>Wed, 02 Dec 2020 14:36:33 -0800</pubDate>
+ </item>
  <item>
   <title>Discovery Inc. Launches Streaming Service</title>
   <description>&lt;img src='https://media.giphy.com/media/VhWunESS8Kb9Cpeuwn/giphy.gif'&gt;&lt;br/&gt;  It’s also partnering with Verizon to give 55 million customers one year of Discovery+ for free, a similar strategy to the Disney+ debut. It’s going big Discovery is offering 55,000 episodes from 2,500 different shows upon launch, the most content of any new streaming service.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>profile</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/mckesson-will-central-distributor-covid19-vaccines?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 27 Nov 2020 03:01:24 -0800</pubDate>
- </item>
- <item>
-  <title>Covid-19 Vaccine Distribution Effort: By the Numbers</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3236/airline_freight.jpg'&gt;&lt;br/&gt;$21—the difference in price between Moderna’s vaccine ($25/dose) and AstraZeneca’s vaccine ($4/dose), according to U.S. purchase agreements.   10 billion single doses could be available by the end of 2022 if all the frontrunner vaccine candidates are approved.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/covid19-vaccine-distribution-effort-numbers?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>stats</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/covid19-vaccine-distribution-effort-numbers?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 27 Nov 2020 03:01:24 -0800</pubDate>
  </item>
 
