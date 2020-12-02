@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/02</link>
- <lastBuildDate>Wed, 02 Dec 2020 03:03:36 -0800</lastBuildDate>
- <pubDate>Wed, 02 Dec 2020 03:03:36 -0800</pubDate>
+ <lastBuildDate>Wed, 02 Dec 2020 14:33:38 -0800</lastBuildDate>
+ <pubDate>Wed, 02 Dec 2020 14:33:38 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Discovery Inc. Launches Streaming Service</title>
+  <description>&lt;img src='https://media.giphy.com/media/VhWunESS8Kb9Cpeuwn/giphy.gif'&gt;&lt;br/&gt;  It’s also partnering with Verizon to give 55 million customers one year of Discovery+ for free, a similar strategy to the Disney+ debut. It’s going big Discovery is offering 55,000 episodes from 2,500 different shows upon launch, the most content of any new streaming service.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/02/discovery-inc-launches-streaming-service</link>
+  <author>Toby Howell</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/discovery-inc-launches-streaming-service</guid>
+  <pubDate>Wed, 02 Dec 2020 14:31:36 -0800</pubDate>
+ </item>
+ <item>
+  <title>E-Commerce Boom Strains Delivery Networks</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3290/lots_of_christmas_boxes.jpg'&gt;&lt;br/&gt;  Follow the money  The investors with the biggest pockets are making bets on the physical infrastructure that powers e-commerce: warehouses.      Bottom line: With consumers feeling more comfortable shopping online and companies rapidly expanding their e-commerce infrastructure, the retail industry has been catapulted years into the future by the pandemic.   Shopify, a platform that’s home to 1+ million merchants, reported that Black Friday sales increased 75% annually to $2.4 billion, per Retail Brew. U.S. store visits dropped more than 50% on Black Friday from last year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/02/ecommerce-boom-strains-delivery-networks</link>
+  <author>Neal Freyman</author>
+  <categories>e-commerce</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/ecommerce-boom-strains-delivery-networks</guid>
+  <pubDate>Wed, 02 Dec 2020 14:31:35 -0800</pubDate>
+ </item>
  <item>
   <title>The McRib Returns to McDonald’s in Nationwide Rollout</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3268/mcrib.jpg'&gt;&lt;br/&gt;  + Did you know: Germany is the only country that's served the McRib all year round.</description>
@@ -352,24 +370,6 @@
   <categories>stats</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/covid19-vaccine-distribution-effort-numbers?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 27 Nov 2020 03:01:24 -0800</pubDate>
- </item>
- <item>
-  <title>How Temperature-Sensitive Vaccine Candidates Will be Distributed Via the Cold Chain</title>
-  <description>&lt;img src='https://media.giphy.com/media/zoMno34V30kla/giphy.gif'&gt;&lt;br/&gt;  Dry ice is the cold chain’s best friend. Pfizer has designed temperature-controlled dry ice boxes that can maintain a roughly -94° Fahrenheit temperature for up to 10 days.   Bottom line: Even with distributors and drug companies beefing up their cold chain capacity, pharma experts still expect a spoilage rate between 5% and 20%.   Storage is tight.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/temperaturesensitive-vaccine-candidates-will-distributed-via-cold-chain?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>temperature</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/temperaturesensitive-vaccine-candidates-will-distributed-via-cold-chain?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 27 Nov 2020 03:01:23 -0800</pubDate>
- </item>
- <item>
-  <title>A Quick Teardown of Operation Warp Speed</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3228/operation_warp_speed.png'&gt;&lt;br/&gt;  Looking ahead...   Budget: Up to $18 billion.   The goal: To deliver 300 million doses of a safe and effective vaccine by Jan. 2021. OWS leadership has said they can deliver a Covid-19 vaccine to every state less than 24 hours after FDA approval.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/quick-teardown-operation-warp-speed?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/quick-teardown-operation-warp-speed?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 27 Nov 2020 03:01:23 -0800</pubDate>
  </item>
 
 </channel>
