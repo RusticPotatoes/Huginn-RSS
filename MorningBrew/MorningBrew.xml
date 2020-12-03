@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/03</link>
- <lastBuildDate>Thu, 03 Dec 2020 14:33:39 -0800</lastBuildDate>
- <pubDate>Thu, 03 Dec 2020 14:33:39 -0800</pubDate>
+ <lastBuildDate>Thu, 03 Dec 2020 14:38:35 -0800</lastBuildDate>
+ <pubDate>Thu, 03 Dec 2020 14:38:35 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>OPEC+ Compromises on January Oil Production Hike</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2392/game_of_risk_played_in_oil_barrels.png'&gt;&lt;br/&gt;  August: The group eased cuts to 7.7 million/day.   May: OPEC+ decided to cut output by 9.7 million barrels/day to prop up prices.     What’s OPEC+? In all, big oil companies have written down ~$80 billion in assets this year, Reuters reports. Yesterday, Chevron shaved up to $6 billion off its budget.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/03/opec-compromises-january-oil-production-hike</link>
+  <author>Alex Hickey</author>
+  <categories>oil</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/opec-compromises-january-oil-production-hike</guid>
+  <pubDate>Thu, 03 Dec 2020 14:36:35 -0800</pubDate>
+ </item>
  <item>
   <title>BlackRock Alums Named to Biden’s Cabinet Generate Controversy</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3304/brian_deese.jpg'&gt;&lt;br/&gt;Yesterday, President-elect Joe Biden named Brian Deese, head of sustainable investing at asset manager BlackRock, to helm the National Economic Council (NEC).   Deese worked at the NEC under former President Obama, where he helped form the auto bailout of 2008.     The Brooks Brothers crowd is even more pleased.   What it means: The clipboard crowd isn’t happy.</description>
@@ -361,15 +370,6 @@
   <categories>obituary</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/29/remembering-tony-hsieh-former-zappos-ceo?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 30 Nov 2020 03:01:21 -0800</pubDate>
- </item>
- <item>
-  <title>NYC to Reopen Schools Next Week</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1714/empty_desk_and_classrooms.png'&gt;&lt;br/&gt;Next week, NYC will begin reopening preschools, kindergartens, and elementary schools, with middle and high schools to follow later, Mayor Bill de Blasio's office announced yesterday.   Leaders everywhere are wrestling with this Without federal guidance, the decision to open schools falls on state and local officials.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/30/nyc-reopen-schools-next-week</link>
-  <author>Alex Hickey</author>
-  <categories>education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/nyc-reopen-schools-next-week</guid>
-  <pubDate>Sun, 29 Nov 2020 16:56:23 -0800</pubDate>
  </item>
 
 </channel>
