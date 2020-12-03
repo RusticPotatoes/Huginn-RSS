@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/02/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/03/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/02</link>
- <lastBuildDate>Wed, 02 Dec 2020 18:48:41 -0800</lastBuildDate>
- <pubDate>Wed, 02 Dec 2020 18:48:41 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/03</link>
+ <lastBuildDate>Thu, 03 Dec 2020 03:03:35 -0800</lastBuildDate>
+ <pubDate>Thu, 03 Dec 2020 03:03:35 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Apple, Spotify, and TikTok Release Their Year-End-Roundups</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3294/brace_yourself.jpg'&gt;&lt;br/&gt;the global pandemic simulator Plague Inc. came in at No. 2 on the paid gaming charts. Spotify. App Store: Unsurprisingly, Zoom was the most downloaded free app of the year, with TikTok and Disney+ following closely behind.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/02/apple-spotify-tiktok-release-yearendroundups?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>review</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/apple-spotify-tiktok-release-yearendroundups?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 03 Dec 2020 03:01:33 -0800</pubDate>
+ </item>
+ <item>
+  <title>This Year’s Largest Acquisition? It’s Not What You Think</title>
+  <description>&lt;img src='https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif'&gt;&lt;br/&gt;  Bottom line: The former NYC mayor and memelord’s namesake company still towers over the financial data market.   Intercontinental Exchange, LSE rival and owner of the NYSE, has bought both mortgage finance tech platform Ellie Mae and data provider Interactive Data in the past few years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/02/years-largest-acquisition-not-think?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/years-largest-acquisition-not-think?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 03 Dec 2020 03:01:33 -0800</pubDate>
+ </item>
+ <item>
+  <title>Discovery Inc. Launches Streaming Service</title>
+  <description>&lt;img src='https://media.giphy.com/media/l4EoZunhI8mM5c4ak/giphy.gif'&gt;&lt;br/&gt;  It’s also partnering with Verizon to give 55 million customers one year of Discovery+ for free, a similar strategy to the Disney+ debut. It’s going big Discovery is offering 55,000 episodes from 2,500 different shows upon launch, the most content of any new streaming service.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/02/discovery-inc-launches-streaming-service?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/discovery-inc-launches-streaming-service?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 03 Dec 2020 03:01:33 -0800</pubDate>
+ </item>
+ <item>
+  <title>Coronavirus Aid: Democratic Leaders Back Compromise Bill</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3022/congress.jpg'&gt;&lt;br/&gt;    But there’s been some movement. Democratic Sen. Mark Warner told NBC that failing to pass a relief bill before Congress breaks for the holidays would be “stupidity on steroids.” Bottom line: Momentum has been building in the past few days, but time is extremely running out.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/02/coronavirus-aid-democratic-leaders-back-compromise-bill?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>stimulus</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/coronavirus-aid-democratic-leaders-back-compromise-bill?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 03 Dec 2020 03:01:33 -0800</pubDate>
+ </item>
+ <item>
+  <title>E-Commerce Boom Strains Delivery Networks</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3290/lots_of_christmas_boxes.jpg'&gt;&lt;br/&gt;  Follow the money  The investors with the biggest pockets are making bets on the physical infrastructure that powers e-commerce: warehouses.      Bottom line: With consumers feeling more comfortable shopping online and companies rapidly expanding their e-commerce infrastructure, the retail industry has been catapulted years into the future by the pandemic.   Shopify, a platform that’s home to 1+ million merchants, reported that Black Friday sales increased 75% annually to $2.4 billion, per Retail Brew. U.S. store visits dropped more than 50% on Black Friday from last year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/02/ecommerce-boom-strains-delivery-networks?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>e-commerce</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/ecommerce-boom-strains-delivery-networks?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 03 Dec 2020 03:01:33 -0800</pubDate>
+ </item>
  <item>
   <title>Sales for Beginners: The Best Articles and Expert Resources</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2161/primary.jpg'&gt;&lt;br/&gt;Sales during “unprecedented” times   Giphy How Morning Brew’s Head of Brand Partnerships, Jason Schulweis, turned the pandemic into an opportunity  Eight big ways B2B sales changed A four-step guide for rethinking your sales approach  An in-depth white paper on how sales can adapt to the pandemic How to sell virtually, from Deloitte Five 2020 sales strategies from Entrepreneur 3.     What you will find: Insightful case studies, videos, articles, and more that people in the industry actually use to make them better professionals. How to stay up to date Read the LinkedIn Sales Blog SalesHacker is a great site for content and community 25 sales podcasts to choose from Read SocialMedia. Courses and certifications LinkedIn Sales Academy IBM’s Global Sales School This back-to-basics YouTube course Speakeasy’s virtual programming More marketing-tied, but useful for sales: IAB’s courses The art and science of sales enablement, by Roderick Jefferson 10.</description>
@@ -325,51 +370,6 @@
   <categories>obituary</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/29/remembering-tony-hsieh-former-zappos-ceo</guid>
   <pubDate>Sun, 29 Nov 2020 16:51:17 -0800</pubDate>
- </item>
- <item>
-  <title>Black Friday? More Like Cyber Friday.</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3253/amazon_fulfillment_center.jpg'&gt;&lt;br/&gt;  Shopping on U.S. retail websites, however, rose 22% over last year to $9 billion, according to Adobe Analytics.   And today is Cyber Monday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/29/black-friday-like-cyber-friday</link>
-  <author>Neal Freyman</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/29/black-friday-like-cyber-friday</guid>
-  <pubDate>Sun, 29 Nov 2020 16:16:19 -0800</pubDate>
- </item>
- <item>
-  <title>A Rough Timeline of Covid-19 Immunization in the U.S.</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2921/vaccine_clock.jpg'&gt;&lt;br/&gt;January 31, 2021: About 50 million Americans could be vaccinated by now, and, grouped in with those who've recovered from Covid-19, over 30% of the population would be immune, per the dean of Brown's public health school, Ashish Jha. February/March: At 30%–40% immunity, according to Jha, the spread will become "meaningfully slower" and infections won't be "self-sustaining."  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/23/rough-timeline-covid19-immunization-us?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/rough-timeline-covid19-immunization-us?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 28 Nov 2020 05:01:28 -0800</pubDate>
- </item>
- <item>
-  <title>Photos of Vaccination Throughout History</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1788/vaccine_stock_photo.jpg'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/23/photos-vaccination-throughout-history?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>pics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/photos-vaccination-throughout-history?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 28 Nov 2020 05:01:28 -0800</pubDate>
- </item>
- <item>
-  <title>Vaccination in the Workplace: Employers Advised to "Strongly Encourage"</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3219/vaccine.jpg'&gt;&lt;br/&gt;  Labor and employment attorney Michael Roche told Business Insider that the safest legal tack is for companies to "strongly encourage employees to get vaccinated." But can employers legally require their workers to get vaccines?  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/vaccination-workplace-employers-advised-strongly-encourage?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>human-resources</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/vaccination-workplace-employers-advised-strongly-encourage?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 28 Nov 2020 05:01:28 -0800</pubDate>
- </item>
- <item>
-  <title>Americans Are Divided Over The Covid-19 Vaccine</title>
-  <description>&lt;img src='https://media.giphy.com/media/s3Klt17UqDYyI/giphy.gif'&gt;&lt;br/&gt;Establishing public trust in these vaccines will be the next major challenge for health officials. That's down from a peak of 50% in September, but remains a concerning number for public health officials who want to get Covid-19 under control.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/americans-divided-covid19-vaccine?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>poll</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/americans-divided-covid19-vaccine?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 28 Nov 2020 05:01:28 -0800</pubDate>
  </item>
 
 </channel>
