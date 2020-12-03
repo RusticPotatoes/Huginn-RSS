@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/03</link>
- <lastBuildDate>Thu, 03 Dec 2020 03:03:35 -0800</lastBuildDate>
- <pubDate>Thu, 03 Dec 2020 03:03:35 -0800</pubDate>
+ <lastBuildDate>Thu, 03 Dec 2020 11:28:40 -0800</lastBuildDate>
+ <pubDate>Thu, 03 Dec 2020 11:28:40 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Small Company, Big Moves: A Guide to Disruptive Investing</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3300/motley.jpg'&gt;&lt;br/&gt;  And as more and more of these organizations look to IPO or woo investors, learning what to look for can be the difference between spotting a unicorn and riding something into the ground.   It may be more important to focus on companies who are disrupting industries that will be around for the long haul.   So we asked our investing friends at The Motley Fool to help us know what to look for before we get disruptive with our investing. Join Stock Advisor today to get your hands on these new picks. If this seems far-fetched, take a moment to consider what you think it would actually take for a company to achieve such lofty goals.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/03/small-company-big-moves-guide-disruptive-investing</link>
+  <author>Morning Brew</author>
+  <categories>investing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/small-company-big-moves-guide-disruptive-investing</guid>
+  <pubDate>Thu, 03 Dec 2020 11:26:38 -0800</pubDate>
+ </item>
  <item>
   <title>Apple, Spotify, and TikTok Release Their Year-End-Roundups</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3294/brace_yourself.jpg'&gt;&lt;br/&gt;the global pandemic simulator Plague Inc. came in at No. 2 on the paid gaming charts. Spotify. App Store: Unsurprisingly, Zoom was the most downloaded free app of the year, with TikTok and Disney+ following closely behind.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/29/week-ahead-november-30</guid>
-  <pubDate>Sun, 29 Nov 2020 16:51:17 -0800</pubDate>
- </item>
- <item>
-  <title>Remembering Tony Hsieh, Former Zappos CEO</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3252/blue_man_group_and_zappos.jpg'&gt;&lt;br/&gt;  Hsieh took over and built an e-comm shoe colossus.   ShoeSite. Hsieh then started a fund and invested in the online shoe seller Zappos (then known as ShoeSite.   Quick bio In 1995, Hsieh (pronounced "shay") cofounded the internet ad company LinkExchange with a fellow Harvard alum. Nine years later...   more than $1 billion. At Zappos, he installed a self-management system called "Holacracy," which eliminated most traditional corporate hierarchy and allowed anyone to set meeting agendas.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/29/remembering-tony-hsieh-former-zappos-ceo</link>
-  <author>Neal Freyman</author>
-  <categories>obituary</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/29/remembering-tony-hsieh-former-zappos-ceo</guid>
   <pubDate>Sun, 29 Nov 2020 16:51:17 -0800</pubDate>
  </item>
 
