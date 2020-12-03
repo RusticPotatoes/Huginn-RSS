@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/03</link>
- <lastBuildDate>Thu, 03 Dec 2020 14:38:35 -0800</lastBuildDate>
- <pubDate>Thu, 03 Dec 2020 14:38:35 -0800</pubDate>
+ <lastBuildDate>Thu, 03 Dec 2020 14:53:36 -0800</lastBuildDate>
+ <pubDate>Thu, 03 Dec 2020 14:53:36 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Brew’s Weekly News Quiz: December 4</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1032/quiz.jpg'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/03/brews-weekly-news-quiz-december-4</link>
+  <author>Jamie Wilde</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/brews-weekly-news-quiz-december-4</guid>
+  <pubDate>Thu, 03 Dec 2020 14:51:36 -0800</pubDate>
+ </item>
+ <item>
+  <title>Warner Bros. to Release 2021 Films in Theaters and on HBO Max</title>
+  <description>&lt;img src='https://media.giphy.com/media/cmIBKv6BpofWUPPmKU/giphy.gif'&gt;&lt;br/&gt;, a subsidiary of AT&amp;T's WarnerMedia, said it will release its 2021 movies on AT&amp;T's streaming service, HBO Max, at the same time they debut in theaters. In an announcement that shook the film industry, Warner Bros.   After 31 days on HBO Max, movies will be exclusive to theaters until they ship out to a Roku near you.   Theaters are losing hope for a Christmas miracle AMC stock fell 16% and Cinemark's 22% following the news, capping off a devastating 9-month streak for theater chains.   Warner Bros.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/03/warner-bros-release-2021-films-theaters-hbo-max</link>
+  <author>Alex Hickey</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/warner-bros-release-2021-films-theaters-hbo-max</guid>
+  <pubDate>Thu, 03 Dec 2020 14:51:36 -0800</pubDate>
+ </item>
  <item>
   <title>OPEC+ Compromises on January Oil Production Hike</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2392/game_of_risk_played_in_oil_barrels.png'&gt;&lt;br/&gt;  August: The group eased cuts to 7.7 million/day.   May: OPEC+ decided to cut output by 9.7 million barrels/day to prop up prices.     What’s OPEC+? In all, big oil companies have written down ~$80 billion in assets this year, Reuters reports. Yesterday, Chevron shaved up to $6 billion off its budget.</description>
@@ -351,24 +369,6 @@
   <author>Alex Hickey</author>
   <categories>education</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/nyc-reopen-schools-next-week?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 30 Nov 2020 03:01:21 -0800</pubDate>
- </item>
- <item>
-  <title>Black Friday? More Like Cyber Friday.</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3253/amazon_fulfillment_center.jpg'&gt;&lt;br/&gt;  Shopping on U.S. retail websites, however, rose 22% over last year to $9 billion, according to Adobe Analytics.   And today is Cyber Monday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/29/black-friday-like-cyber-friday?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/29/black-friday-like-cyber-friday?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 30 Nov 2020 03:01:21 -0800</pubDate>
- </item>
- <item>
-  <title>Remembering Tony Hsieh, Former Zappos CEO</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3252/blue_man_group_and_zappos.jpg'&gt;&lt;br/&gt;  Hsieh took over and built an e-comm shoe colossus.   ShoeSite. Hsieh then started a fund and invested in the online shoe seller Zappos (then known as ShoeSite.   Quick bio In 1995, Hsieh (pronounced "shay") cofounded the internet ad company LinkExchange with a fellow Harvard alum. Nine years later...   more than $1 billion. At Zappos, he installed a self-management system called "Holacracy," which eliminated most traditional corporate hierarchy and allowed anyone to set meeting agendas.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/29/remembering-tony-hsieh-former-zappos-ceo?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>obituary</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/29/remembering-tony-hsieh-former-zappos-ceo?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 30 Nov 2020 03:01:21 -0800</pubDate>
  </item>
 
