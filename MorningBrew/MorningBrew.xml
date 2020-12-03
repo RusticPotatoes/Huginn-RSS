@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/03</link>
- <lastBuildDate>Thu, 03 Dec 2020 11:28:40 -0800</lastBuildDate>
- <pubDate>Thu, 03 Dec 2020 11:28:40 -0800</pubDate>
+ <lastBuildDate>Thu, 03 Dec 2020 14:33:39 -0800</lastBuildDate>
+ <pubDate>Thu, 03 Dec 2020 14:33:39 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>BlackRock Alums Named to Biden’s Cabinet Generate Controversy</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3304/brian_deese.jpg'&gt;&lt;br/&gt;Yesterday, President-elect Joe Biden named Brian Deese, head of sustainable investing at asset manager BlackRock, to helm the National Economic Council (NEC).   Deese worked at the NEC under former President Obama, where he helped form the auto bailout of 2008.     The Brooks Brothers crowd is even more pleased.   What it means: The clipboard crowd isn’t happy.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/03/blackrock-alums-named-bidens-cabinet-generate-controversy</link>
+  <author>Eliza Carter</author>
+  <categories>government</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/blackrock-alums-named-bidens-cabinet-generate-controversy</guid>
+  <pubDate>Thu, 03 Dec 2020 14:31:38 -0800</pubDate>
+ </item>
+ <item>
+  <title>California Implements New Round of Strict Covid-19 Restrictions</title>
+  <description>&lt;img src='https://media.giphy.com/media/JNst2oJ0NT6yjnpMsw/giphy.gif'&gt;&lt;br/&gt;  Zoom out: You can lead a horse to water, but it’s trickier to make it stay indoors—the growing infection numbers suggest Californians are getting weary of Covid-19 restrictions.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/03/california-implements-new-round-strict-covid19-restrictions</link>
+  <author>Eliza Carter</author>
+  <categories>covid-19</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/california-implements-new-round-strict-covid19-restrictions</guid>
+  <pubDate>Thu, 03 Dec 2020 14:31:38 -0800</pubDate>
+ </item>
  <item>
   <title>Small Company, Big Moves: A Guide to Disruptive Investing</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3300/motley.jpg'&gt;&lt;br/&gt;  And as more and more of these organizations look to IPO or woo investors, learning what to look for can be the difference between spotting a unicorn and riding something into the ground.   It may be more important to focus on companies who are disrupting industries that will be around for the long haul.   So we asked our investing friends at The Motley Fool to help us know what to look for before we get disruptive with our investing. Join Stock Advisor today to get your hands on these new picks. If this seems far-fetched, take a moment to consider what you think it would actually take for a company to achieve such lofty goals.</description>
@@ -352,24 +370,6 @@
   <categories>education</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/nyc-reopen-schools-next-week</guid>
   <pubDate>Sun, 29 Nov 2020 16:56:23 -0800</pubDate>
- </item>
- <item>
-  <title>EU, UK Have Just 1 Month Left to Make Brexit Deal</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3254/brexit.jpg'&gt;&lt;br/&gt;With just one month left to reach a deal protecting ~$1 trillion worth of trade between the EU and UK, this is shaping up to be a critical week for Brexit negotiations.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/30/eu-uk-just-1-month-left-make-brexit-deal</link>
-  <author>Alex Hickey</author>
-  <categories>trade</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/eu-uk-just-1-month-left-make-brexit-deal</guid>
-  <pubDate>Sun, 29 Nov 2020 16:56:23 -0800</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: November 30</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2852/virtual_event_zoom.jpg'&gt;&lt;br/&gt;  Everything else:  Tuesday is the first day of December.    Earnings: Zoom will report Q3 financials today, Salesforce (following rumors it's in talks to acquire Slack) is up Tuesday, and 2020 hyped IPO Snowflake will report Wednesday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/29/week-ahead-november-30</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/29/week-ahead-november-30</guid>
-  <pubDate>Sun, 29 Nov 2020 16:51:17 -0800</pubDate>
  </item>
 
 </channel>
