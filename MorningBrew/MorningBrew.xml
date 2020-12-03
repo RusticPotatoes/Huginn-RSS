@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/02</link>
- <lastBuildDate>Wed, 02 Dec 2020 14:43:41 -0800</lastBuildDate>
- <pubDate>Wed, 02 Dec 2020 14:43:41 -0800</pubDate>
+ <lastBuildDate>Wed, 02 Dec 2020 18:48:41 -0800</lastBuildDate>
+ <pubDate>Wed, 02 Dec 2020 18:48:41 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Sales for Beginners: The Best Articles and Expert Resources</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2161/primary.jpg'&gt;&lt;br/&gt;Sales during “unprecedented” times   Giphy How Morning Brew’s Head of Brand Partnerships, Jason Schulweis, turned the pandemic into an opportunity  Eight big ways B2B sales changed A four-step guide for rethinking your sales approach  An in-depth white paper on how sales can adapt to the pandemic How to sell virtually, from Deloitte Five 2020 sales strategies from Entrepreneur 3.     What you will find: Insightful case studies, videos, articles, and more that people in the industry actually use to make them better professionals. How to stay up to date Read the LinkedIn Sales Blog SalesHacker is a great site for content and community 25 sales podcasts to choose from Read SocialMedia. Courses and certifications LinkedIn Sales Academy IBM’s Global Sales School This back-to-basics YouTube course Speakeasy’s virtual programming More marketing-tied, but useful for sales: IAB’s courses The art and science of sales enablement, by Roderick Jefferson 10.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/03/sales-beginners-best-articles-expert-resources</link>
+  <author>Jamie Wilde</author>
+  <categories>guide</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/sales-beginners-best-articles-expert-resources</guid>
+  <pubDate>Wed, 02 Dec 2020 18:46:39 -0800</pubDate>
+ </item>
  <item>
   <title>Coronavirus Aid: Democratic Leaders Back Compromise Bill</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3022/congress.jpg'&gt;&lt;br/&gt;    But there’s been a development. Democratic Sen. Mark Warner told NBC that failing to pass a relief bill before Congress breaks for the holidays would be “stupidity on steroids.” Republican leadership wants a $550 billion package, Dems have favored one closer to $2 trillion.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>poll</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/americans-divided-covid19-vaccine?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 28 Nov 2020 05:01:28 -0800</pubDate>
- </item>
- <item>
-  <title>WHO Covax Initiative Seeks Equitable Access to Covid Vaccines</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3150/covid-19_vaccine.jpg'&gt;&lt;br/&gt;So far, Covax has secured 700 million doses and $2 billion in funding. The goal is to raise $5 billion and provide 2 billion doses by the end of 2021.   Big picture: The Duke Global Health Institute thinks it'll take until 2024 for vaccines to reach the entire population.  The Duke Global Health Institute estimates 9.6 billion doses are already reserved by individual countries, without any vaccines having reached the market yet.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/24/covax-initiative-seeks-equitable-access-covid-vaccines?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>geopolitics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/24/covax-initiative-seeks-equitable-access-covid-vaccines?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 28 Nov 2020 05:01:28 -0800</pubDate>
  </item>
 
