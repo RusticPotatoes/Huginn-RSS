@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/04</link>
- <lastBuildDate>Fri, 04 Dec 2020 14:23:36 -0800</lastBuildDate>
- <pubDate>Fri, 04 Dec 2020 14:23:36 -0800</pubDate>
+ <lastBuildDate>Fri, 04 Dec 2020 14:28:52 -0800</lastBuildDate>
+ <pubDate>Fri, 04 Dec 2020 14:28:52 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The McRib’s Many Economic Conspiracy Theories</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3268/mcrib.jpg'&gt;&lt;br/&gt;Companies choose to take an L on these items in the hopes that it will lure customers to buy profitable products that recoup the loss.   While there’s no direct link between McRib rollouts and the Mayan calendar, there are a few popular conspiracy theories detailed by Willy Staley in The Awl purporting to explain why the McRib occasionally rises from the fast food ashes... Theory #1: Porky arbitrage   Axios Does McDonald’s time McRib releases to the pork price cycle for a bigger profit per sandwich?   If McRibs were as popular as McNuggets, it’s feasible they’d also become a forever menu item and the pork industry would play catch-up like chicken had. Eventually, the chicken supply caught up to McDonald’s demand, while the McRib’s popularity waned. + This theory could tie back to the first one: If the McRib is indeed a loss leader, McDonald’s would have more reason to take advantage of low pork prices.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/04/mcribs-many-economic-conspiracy-theories</link>
+  <author>Jamie Wilde</author>
+  <categories>big-deal</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/04/mcribs-many-economic-conspiracy-theories</guid>
+  <pubDate>Fri, 04 Dec 2020 14:26:34 -0800</pubDate>
+ </item>
  <item>
   <title>Data Warehousing Company Snowflake is Now a $100 Billion Giant</title>
   <description>&lt;img src='https://media.giphy.com/media/26tneSGWphvmFlUju/giphy.gif'&gt;&lt;br/&gt;Bottom line: While Snowflake’s value has more than tripled since its public debut this fall, Wall Street is recommending investors break out the snow tires—more than half of the 22 analysts covering the company say it’s a “Hold” at this time.</description>
@@ -360,15 +369,6 @@
   <author>Toby Howell</author>
   <categories>auto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/gm-pulls-deal-nikola-corporation?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 01 Dec 2020 03:01:38 -0800</pubDate>
- </item>
- <item>
-  <title>Stocks, Crypto Post Record-Setting Month</title>
-  <description>&lt;img src='https://media.giphy.com/media/3o7abIileRivlGr8Nq/giphy.gif'&gt;&lt;br/&gt;    Non-cryptocurrency: The dollar had its worst month since July, which is a sign investors stayed away from the safe haven asset and piled into riskier bets.   It's not totally surprising. Analysts point to greater commitments from big finance players—like PayPal and Square—for driving last month's 40% rally.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/30/stocks-crypto-post-recordsetting-month?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/stocks-crypto-post-recordsetting-month?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 01 Dec 2020 03:01:38 -0800</pubDate>
  </item>
 
