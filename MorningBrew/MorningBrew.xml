@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/04</link>
- <lastBuildDate>Fri, 04 Dec 2020 14:18:35 -0800</lastBuildDate>
- <pubDate>Fri, 04 Dec 2020 14:18:35 -0800</pubDate>
+ <lastBuildDate>Fri, 04 Dec 2020 14:23:36 -0800</lastBuildDate>
+ <pubDate>Fri, 04 Dec 2020 14:23:36 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Data Warehousing Company Snowflake is Now a $100 Billion Giant</title>
+  <description>&lt;img src='https://media.giphy.com/media/26tneSGWphvmFlUju/giphy.gif'&gt;&lt;br/&gt;Bottom line: While Snowflake’s value has more than tripled since its public debut this fall, Wall Street is recommending investors break out the snow tires—more than half of the 22 analysts covering the company say it’s a “Hold” at this time.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/04/data-warehousing-company-snowflake-now-100-billion-giant</link>
+  <author>Toby Howell</author>
+  <categories>software</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/04/data-warehousing-company-snowflake-now-100-billion-giant</guid>
+  <pubDate>Fri, 04 Dec 2020 14:21:34 -0800</pubDate>
+ </item>
+ <item>
+  <title>Pet Retailer Petco Files to Go Public</title>
+  <description>&lt;img src='https://media.giphy.com/media/Uv0VUrAT6FtMQ/giphy.gif'&gt;&lt;br/&gt;  Petco, which has 1,470 physical retail locations, also invested $300 million into its e-commerce and digital operations to capitalize on that growing trend.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/04/pet-retailer-petco-files-go-public</link>
+  <author>Toby Howell</author>
+  <categories>ipo</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/04/pet-retailer-petco-files-go-public</guid>
+  <pubDate>Fri, 04 Dec 2020 14:21:34 -0800</pubDate>
+ </item>
  <item>
   <title>U.S. House Votes to Legalize Marijuana</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2503/big_weed_nugget.jpg'&gt;&lt;br/&gt;The bill, called the MORE Act, would remove pot from the Controlled Substances Act and also expunge some marijuana-related convictions. Yesterday, the U.S. House passed a landmark bill that would decriminalize marijuana at the federal level.</description>
@@ -352,24 +370,6 @@
   <categories>markets</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/stocks-crypto-post-recordsetting-month?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 01 Dec 2020 03:01:38 -0800</pubDate>
- </item>
- <item>
-  <title>Biden Announces Economic Nominations and Appointments</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3265/biden-harris_transition.jpeg'&gt;&lt;br/&gt;    Cecilia Rouse, dean of Princeton's School of Public and International Affairs, was nominated as chair.   Confirming recent reports, former Fed Chair Janet Yellen was nominated to become the first woman to head the Treasury.   Council of Economic Advisors: Think of it as the president's personal econ think tank, responsible for crafting policy and economic forecasting. Looking ahead…with a slowing recovery, worsening pandemic, and one month until ~12 million U.S. workers lose federal unemployment benefits, Biden's team will face the economic equivalent of Alabama in Week 1.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/30/biden-announces-economic-nominations-appointments?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>politics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/biden-announces-economic-nominations-appointments?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 01 Dec 2020 03:01:38 -0800</pubDate>
- </item>
- <item>
-  <title>GM Pulls out of Deal With Nikola Corporation </title>
-  <description>&lt;img src='https://media.giphy.com/media/bF297TFOoUK89mLayo/giphy.gif'&gt;&lt;br/&gt;  The nowstory: GM and Nikola are entering into a non-binding "potential agreement" that scraps the equity stake and Badger trucks.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/30/gm-pulls-deal-nikola-corporation</link>
-  <author>Toby Howell</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/gm-pulls-deal-nikola-corporation</guid>
-  <pubDate>Mon, 30 Nov 2020 15:26:56 -0800</pubDate>
  </item>
 
 </channel>
