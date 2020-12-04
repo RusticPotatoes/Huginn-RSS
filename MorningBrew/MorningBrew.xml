@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/04</link>
- <lastBuildDate>Fri, 04 Dec 2020 03:03:40 -0800</lastBuildDate>
- <pubDate>Fri, 04 Dec 2020 03:03:40 -0800</pubDate>
+ <lastBuildDate>Fri, 04 Dec 2020 11:14:17 -0800</lastBuildDate>
+ <pubDate>Fri, 04 Dec 2020 11:14:17 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Crossword: Musical Dogposers</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2397/crossword.jpg'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/04/brew-crossword-musical-dogposers</link>
+  <author>Toby Howell</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/04/brew-crossword-musical-dogposers</guid>
+  <pubDate>Fri, 04 Dec 2020 11:12:17 -0800</pubDate>
+ </item>
  <item>
   <title>OPEC+ Compromises on January Oil Production Hike</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2392/game_of_risk_played_in_oil_barrels.png'&gt;&lt;br/&gt;  August: The group eased cuts to 7.7 million/day.   May: OPEC+ decided to cut output by 9.7 million barrels/day to prop up prices.     What’s OPEC+? In all, big oil companies have written down ~$80 billion in assets this year, Reuters reports. Yesterday, Chevron shaved up to $6 billion off its budget.</description>
@@ -361,15 +370,6 @@
   <categories>retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/facebook-buy-crm-startup-kustomer-1b</guid>
   <pubDate>Mon, 30 Nov 2020 15:12:04 -0800</pubDate>
- </item>
- <item>
-  <title>Under Armour and Steph Curry Launch Curry Brand</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3264/steph_curry.jpg'&gt;&lt;br/&gt;  Zoom out: As effective as Steph is as a marketer, Curry Brand alone probably won't be able to right Under Armour's ship. Even Nike's powerful Jordan Brand accounts for just ~9% of the company's overall revenue.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/30/armour-steph-curry-launch-curry-brand</link>
-  <author>Toby Howell</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/armour-steph-curry-launch-curry-brand</guid>
-  <pubDate>Mon, 30 Nov 2020 15:01:58 -0800</pubDate>
  </item>
 
 </channel>
