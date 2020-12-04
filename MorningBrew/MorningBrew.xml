@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/04</link>
- <lastBuildDate>Fri, 04 Dec 2020 12:43:41 -0800</lastBuildDate>
- <pubDate>Fri, 04 Dec 2020 12:43:41 -0800</pubDate>
+ <lastBuildDate>Fri, 04 Dec 2020 14:18:35 -0800</lastBuildDate>
+ <pubDate>Fri, 04 Dec 2020 14:18:35 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>U.S. House Votes to Legalize Marijuana</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2503/big_weed_nugget.jpg'&gt;&lt;br/&gt;The bill, called the MORE Act, would remove pot from the Controlled Substances Act and also expunge some marijuana-related convictions. Yesterday, the U.S. House passed a landmark bill that would decriminalize marijuana at the federal level.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/04/us-house-votes-legalize-marijuana</link>
+  <author>Neal Freyman</author>
+  <categories>cannabis</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/04/us-house-votes-legalize-marijuana</guid>
+  <pubDate>Fri, 04 Dec 2020 14:16:32 -0800</pubDate>
+ </item>
  <item>
   <title>Special Report: How Vaccines Are Made</title>
   <description>&lt;img src='https://media.giphy.com/media/dUUw7Z1Jps4xLWZOWX/giphy.gif'&gt;&lt;br/&gt;  Getting in Line for a Vaccine Like   Giphy Reality check: There won't be enough Covid-19 vaccines for everyone for a while. $21—the difference in price between Moderna's vaccine ($25/dose) and AstraZeneca's vaccine ($4/dose), according to U.S. purchase agreements.   Vaccine candidates 67 vaccine candidates are currently in various stages of clinical trials around the world.   10 billion single doses could be available by the end of 2022 if all the frontrunner vaccine candidates are approved.   But not so fast: Moderna's vaccine requires two doses 28 days apart.   Once We Have a Vaccine...   Let's Hit the Road  We just spit a lot of information at you about the vaccine supply chain. #3: Not everyone will get a vaccine.   Let’s set the mood with this passage from The Economist:  “Deliverance, when it arrives, will come in a small glass vial.   Who next?   The early leaders? How the Magic Happens   Francis Scialabba Maybe Thanksgiving is getting us sentimental, but the concept of a vaccine is kind of...   The next round of Phase 1 will include other vulnerable groups such as...   Vaccine manufacturing is Isla de Muerta  It's an island that cannot be found, except by those who already know where it is.   Pharma Companies Channel Their Inner Elsa   Giphy Leading vaccine candidates are more temperature-sensitive than your dad who doesn't let anyone touch the thermostat. But can employers legally require their workers to get vaccines? The Duke Global Health Institute estimates 9.6 billion doses are already reserved by individual countries, without any vaccines having reached the market yet.   Zoom out: The companies currently vying to get a Covid-19 vaccine to market are pursuing different biological methods, in the hopes that a "throw everything against the wall" approach will lead to a few sticking.       Economist That's a bit lopsided Which is where Covax comes in. Distribution 8,000 fully filled 747 cargo planes would be needed to distribute a single vaccine dose to the world's 7.8 billion people, per the International Air Transportation Association. The total costs of vaccine development can run up to $500 million, one study found. We'll walk through everything from how a vaccine is made to who gets the first shot to whether your boss can force you to get one.   Storage is tight. Establishing public trust in these vaccines will be the next major challenge for health officials. Where do vaccines come from?   Short answer: Yes.*  *There are exceptions for people with disabilities or those with "sincerely held" religious beliefs against vaccination.   Big picture: The Duke Global Health Institute thinks it'll take until 2024 for vaccines to reach the entire population. Probably not, but Pfizer does.   Did you know there's currently a shortage of sand needed to make glass vials for vaccine storage?   Plus, it's not cheap. With an $18+ billion budget ($12+ million of which has already been doled out), the goal is to deliver 300 million doses of a safe and effective vaccine by Jan. 2021.   Then, they're on the road, this time to a regional distribution center.   Methodologies vary, but the overall breakdown goes something like this:  Step 1: Create an antigen (a substance that provokes your immune system).   Dry ice is the cold chain's best friend.   How it works: There are 184 countries participating, with wealthier countries subsidizing vaccine access for 92 lower- and middle-income ones, particularly across Africa and South and Southeast Asia. In a November Gallup poll, 42% of U.S. adults said they would not get an FDA-approved coronavirus vaccine. The vaccine will head to an administration site like a mobile clinic or a Costco, where injectees will get a shot, a chicken bake, six gallons of salsa, and be on their way.</description>
@@ -361,15 +370,6 @@
   <categories>auto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/gm-pulls-deal-nikola-corporation</guid>
   <pubDate>Mon, 30 Nov 2020 15:26:56 -0800</pubDate>
- </item>
- <item>
-  <title>Biden Announces Economic Nominations and Appointments</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3265/biden-harris_transition.jpeg'&gt;&lt;br/&gt;    Cecilia Rouse, dean of Princeton's School of Public and International Affairs, was nominated as chair.   Confirming recent reports, former Fed Chair Janet Yellen was nominated to become the first woman to head the Treasury.   Council of Economic Advisors: Think of it as the president's personal econ think tank, responsible for crafting policy and economic forecasting. She'd be the first woman of color to head the OMB, but of all Biden's early nominees, she may face the tightest confirmation battle.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/30/biden-announces-economic-nominations-appointments</link>
-  <author>Alex Hickey</author>
-  <categories>politics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/biden-announces-economic-nominations-appointments</guid>
-  <pubDate>Mon, 30 Nov 2020 15:12:04 -0800</pubDate>
  </item>
 
 </channel>
