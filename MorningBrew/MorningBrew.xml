@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/03/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/04/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/03</link>
- <lastBuildDate>Thu, 03 Dec 2020 14:53:36 -0800</lastBuildDate>
- <pubDate>Thu, 03 Dec 2020 14:53:36 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/04</link>
+ <lastBuildDate>Fri, 04 Dec 2020 03:03:40 -0800</lastBuildDate>
+ <pubDate>Fri, 04 Dec 2020 03:03:40 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>OPEC+ Compromises on January Oil Production Hike</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2392/game_of_risk_played_in_oil_barrels.png'&gt;&lt;br/&gt;  August: The group eased cuts to 7.7 million/day.   May: OPEC+ decided to cut output by 9.7 million barrels/day to prop up prices.     What’s OPEC+? In all, big oil companies have written down ~$80 billion in assets this year, Reuters reports. Yesterday, Chevron shaved up to $6 billion off its budget.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/03/opec-compromises-january-oil-production-hike?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>oil</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/opec-compromises-january-oil-production-hike?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 04 Dec 2020 03:01:37 -0800</pubDate>
+ </item>
+ <item>
+  <title>California Implements New Round of Strict Covid-19 Restrictions</title>
+  <description>&lt;img src='https://media.giphy.com/media/JNst2oJ0NT6yjnpMsw/giphy.gif'&gt;&lt;br/&gt;  Zoom out: You can lead a horse to water, but it’s trickier to make it stay indoors—the growing infection numbers suggest Californians are getting weary of Covid-19 restrictions.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/03/california-implements-new-round-strict-covid19-restrictions?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>covid-19</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/california-implements-new-round-strict-covid19-restrictions?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 04 Dec 2020 03:01:37 -0800</pubDate>
+ </item>
+ <item>
+  <title>BlackRock Alums Named to Biden’s Cabinet Generate Controversy</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3304/brian_deese.jpg'&gt;&lt;br/&gt;Yesterday, President-elect Joe Biden named Brian Deese, head of sustainable investing at asset manager BlackRock, to helm the National Economic Council (NEC).   Deese worked at the NEC under former President Obama, where he helped form the auto bailout of 2008.     The Brooks Brothers crowd is even more pleased.   What it means: The clipboard crowd isn’t happy.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/03/blackrock-alums-named-bidens-cabinet-generate-controversy?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>government</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/blackrock-alums-named-bidens-cabinet-generate-controversy?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 04 Dec 2020 03:01:37 -0800</pubDate>
+ </item>
+ <item>
+  <title>Warner Bros. to Release 2021 Films in Theaters and on HBO Max</title>
+  <description>&lt;img src='https://media.giphy.com/media/cmIBKv6BpofWUPPmKU/giphy.gif'&gt;&lt;br/&gt;, a subsidiary of AT&amp;T's WarnerMedia, said it will release its 2021 movies on AT&amp;T's streaming service, HBO Max, at the same time they debut in theaters. In an announcement that shook the film industry, Warner Bros.   After 31 days on HBO Max, movies will be exclusive to theaters until they ship out to a Roku near you.   Theaters are losing hope for a Christmas miracle AMC stock fell 16% and Cinemark's 22% following the news, capping off a devastating nine-month streak for theater chains.   Warner Bros.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/03/warner-bros-release-2021-films-theaters-hbo-max?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/warner-bros-release-2021-films-theaters-hbo-max?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 04 Dec 2020 03:01:37 -0800</pubDate>
+ </item>
  <item>
   <title>The Brew’s Weekly News Quiz: December 4</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1032/quiz.jpg'&gt;&lt;br/&gt;</description>
@@ -334,42 +370,6 @@
   <categories>retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/armour-steph-curry-launch-curry-brand</guid>
   <pubDate>Mon, 30 Nov 2020 15:01:58 -0800</pubDate>
- </item>
- <item>
-  <title>Stocks, Crypto Post Record-Setting Month</title>
-  <description>&lt;img src='https://media.giphy.com/media/3o7abIileRivlGr8Nq/giphy.gif'&gt;&lt;br/&gt;  Small cap stocks, Wall Street verbiage for smaller companies that are publicly traded, had their best month ever—up 19%.     Non-cryptocurrency: The dollar had its worst month since July, which is a sign investors stayed away from the safe haven asset and piled into riskier bets.   It's not totally surprising.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/30/stocks-crypto-post-recordsetting-month</link>
-  <author>Neal Freyman</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/stocks-crypto-post-recordsetting-month</guid>
-  <pubDate>Mon, 30 Nov 2020 15:01:58 -0800</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: November 30</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2852/virtual_event_zoom.jpg'&gt;&lt;br/&gt;Everything else:  Tuesday is the first day of December.    Earnings: Zoom will report Q3 financials today, Salesforce (following rumors it's in talks to acquire Slack) is up Tuesday, and recently IPOed Snowflake will report Wednesday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/29/week-ahead-november-30?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/29/week-ahead-november-30?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 30 Nov 2020 03:01:22 -0800</pubDate>
- </item>
- <item>
-  <title>EU, UK Have Just 1 Month Left to Make Brexit Deal</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3254/brexit.jpg'&gt;&lt;br/&gt;With just one month left to reach a deal protecting ~$1 trillion worth of trade between the EU and UK, this is shaping up to be a critical week for Brexit negotiations.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/30/eu-uk-just-1-month-left-make-brexit-deal?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>trade</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/eu-uk-just-1-month-left-make-brexit-deal?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 30 Nov 2020 03:01:22 -0800</pubDate>
- </item>
- <item>
-  <title>NYC to Reopen Schools Next Week</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1714/empty_desk_and_classrooms.png'&gt;&lt;br/&gt;Next week, NYC will begin reopening preschools, kindergartens, and elementary schools, with middle and high schools to follow later, Mayor Bill de Blasio's office announced yesterday.   Leaders everywhere are wrestling with this Without federal guidance, the decision to open schools falls on state and local officials.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/30/nyc-reopen-schools-next-week?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/nyc-reopen-schools-next-week?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 30 Nov 2020 03:01:21 -0800</pubDate>
  </item>
 
 </channel>
