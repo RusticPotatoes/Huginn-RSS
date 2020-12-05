@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/04/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/05/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/04</link>
- <lastBuildDate>Fri, 04 Dec 2020 14:33:39 -0800</lastBuildDate>
- <pubDate>Fri, 04 Dec 2020 14:33:39 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/05</link>
+ <lastBuildDate>Sat, 05 Dec 2020 03:03:38 -0800</lastBuildDate>
+ <pubDate>Sat, 05 Dec 2020 03:03:38 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Data Warehousing Company Snowflake is Now a $100 Billion Giant</title>
+  <description>&lt;img src='https://media.giphy.com/media/26tneSGWphvmFlUju/giphy.gif'&gt;&lt;br/&gt;Bottom line: While Snowflake’s value has more than tripled since its public debut this fall, Wall Street is recommending investors break out the snow tires—more than half of the 22 analysts covering the company say it’s a “Hold” at this time.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/04/data-warehousing-company-snowflake-now-100-billion-giant?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>software</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/04/data-warehousing-company-snowflake-now-100-billion-giant?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 05 Dec 2020 03:01:37 -0800</pubDate>
+ </item>
  <item>
   <title>Disappointing Jobs Report May Increase Chances of Stimulus Deal</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3320/jobless_rate.jpg'&gt;&lt;br/&gt;  The restaurant industry lost jobs for the first time since April.   9.8 million fewer Americans remain employed than before the pandemic.   Looking ahead... So, like any astute economic observers, we expected stocks to fall and Treasury prices to rise (Treasuries are considered a safe haven for investors when the economic outlook goes south). The U.S. economy added 245,000 jobs last month, a reading below expectations and less than half of the 610,000 job gains in October. The weekend is shaping up to be an eventful one in D.C.</description>
@@ -361,15 +370,6 @@
   <categories>startup</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/startups-micro-mobility-freight-tech-customer-engagement-announce-deals</guid>
   <pubDate>Tue, 01 Dec 2020 14:31:35 -0800</pubDate>
- </item>
- <item>
-  <title>Under Armour and Steph Curry Launch Curry Brand</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3264/steph_curry.jpg'&gt;&lt;br/&gt;  Zoom out: Even with Steph's marketing chops, Curry Brand alone probably won't be able to right Under Armour's ship. Nike's powerful Jordan Brand accounts for just ~9% of the company's overall revenue.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/11/30/armour-steph-curry-launch-curry-brand?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/30/armour-steph-curry-launch-curry-brand?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 01 Dec 2020 03:01:38 -0800</pubDate>
  </item>
 
 </channel>
