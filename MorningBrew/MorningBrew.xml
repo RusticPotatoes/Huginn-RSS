@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/07</link>
- <lastBuildDate>Mon, 07 Dec 2020 03:03:22 -0800</lastBuildDate>
- <pubDate>Mon, 07 Dec 2020 03:03:22 -0800</pubDate>
+ <lastBuildDate>Mon, 07 Dec 2020 14:33:22 -0800</lastBuildDate>
+ <pubDate>Mon, 07 Dec 2020 14:33:22 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Ikea to Stop Making Iconic Catalog After this Year</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3348/ikea_catalogs.jpg'&gt;&lt;br/&gt;  Bottom line: Online furniture sales have been a pandemic winner for retailers like Wayfair and Amazon, so Ikea's decision to focus on its digital operations makes business sense.   + While we're here: If you're feeling nostalgic, visit the digital Ikea museum to leaf through decades of past catalog issues.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/07/ikea-stop-making-iconic-catalog-year</link>
+  <author>Toby Howell</author>
+  <categories>ecommerce</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/ikea-stop-making-iconic-catalog-year</guid>
+  <pubDate>Mon, 07 Dec 2020 14:31:20 -0800</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: Airbnb's IPO and Congressional Compromises </title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/508/airbnb.jpg'&gt;&lt;br/&gt;  Hanukkah starts at sundown on Thursday.   Everything else:  Today is the anniversary of the attack on Pearl Harbor in 1941. The videogame Cyberpunk 2077 will be released on Thursday after several delays and an astronomical budget.</description>
@@ -361,15 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/discovery-inc-launches-streaming-service</guid>
   <pubDate>Wed, 02 Dec 2020 14:31:36 -0800</pubDate>
- </item>
- <item>
-  <title>E-Commerce Boom Strains Delivery Networks</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3290/lots_of_christmas_boxes.jpg'&gt;&lt;br/&gt;  Follow the money  The investors with the biggest pockets are making bets on the physical infrastructure that powers e-commerce: warehouses.      Bottom line: With consumers feeling more comfortable shopping online and companies rapidly expanding their e-commerce infrastructure, the retail industry has been catapulted years into the future by the pandemic.   Shopify, a platform that’s home to 1+ million merchants, reported that Black Friday sales increased 75% annually to $2.4 billion, per Retail Brew. U.S. store visits dropped more than 50% on Black Friday from last year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/02/ecommerce-boom-strains-delivery-networks</link>
-  <author>Neal Freyman</author>
-  <categories>e-commerce</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/ecommerce-boom-strains-delivery-networks</guid>
-  <pubDate>Wed, 02 Dec 2020 14:31:35 -0800</pubDate>
  </item>
 
 </channel>
