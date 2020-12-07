@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/07</link>
- <lastBuildDate>Mon, 07 Dec 2020 14:43:15 -0800</lastBuildDate>
- <pubDate>Mon, 07 Dec 2020 14:43:15 -0800</pubDate>
+ <lastBuildDate>Mon, 07 Dec 2020 14:48:21 -0800</lastBuildDate>
+ <pubDate>Mon, 07 Dec 2020 14:48:21 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Bob Dylan Sells Songwriting Catalog to the Universal Music Publishing Group in Historic Deal</title>
+  <description>&lt;img src='https://media.giphy.com/media/12nXbkoWTPvM9W/giphy.gif'&gt;&lt;br/&gt;Yesterday, cultural icon/harmonica player Bob Dylan sold his entire catalog of more than 600+ songs to the Universal Music Publishing Group. Why it matters: Dylan is one of the most famous artists of all time, and his catalog is considered a priceless treasure of the music canon.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/07/bob-dylan-sells-songwriting-catalog-universal-music-publishing-group-historic-deal</link>
+  <author>Neal Freyman</author>
+  <categories>music</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/bob-dylan-sells-songwriting-catalog-universal-music-publishing-group-historic-deal</guid>
+  <pubDate>Mon, 07 Dec 2020 14:46:21 -0800</pubDate>
+ </item>
  <item>
   <title>China Trade Surplus Reaches Highest Level Ever</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2420/u_s_-china_trade_war.jpg'&gt;&lt;br/&gt;In November, China posted its biggest month for exports on record, and its trade surplus—the amount by which exports exceed imports—topped $75 billion.</description>
@@ -360,15 +369,6 @@
   <author>Eliza Carter</author>
   <categories>covid-19</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/coronavirus-aid-democratic-leaders-back-compromise-bill</guid>
-  <pubDate>Wed, 02 Dec 2020 14:41:40 -0800</pubDate>
- </item>
- <item>
-  <title>This Year’s Largest Acquisition? It’s Not What You Think</title>
-  <description>&lt;img src='https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif'&gt;&lt;br/&gt;  Bottom line: The former NYC mayor and memelord’s namesake company still towers over the financial data market.   Intercontinental Exchange, LSE rival and owner of the NYSE, has bought both mortgage finance tech platform Ellie Mae and data provider Interactive Data in the past few years.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/02/years-largest-acquisition-not-think</link>
-  <author>Eliza Carter</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/years-largest-acquisition-not-think</guid>
   <pubDate>Wed, 02 Dec 2020 14:41:40 -0800</pubDate>
  </item>
 
