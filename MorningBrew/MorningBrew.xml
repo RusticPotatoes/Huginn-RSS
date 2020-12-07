@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/07</link>
- <lastBuildDate>Mon, 07 Dec 2020 14:38:19 -0800</lastBuildDate>
- <pubDate>Mon, 07 Dec 2020 14:38:19 -0800</pubDate>
+ <lastBuildDate>Mon, 07 Dec 2020 14:43:15 -0800</lastBuildDate>
+ <pubDate>Mon, 07 Dec 2020 14:43:15 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>China Trade Surplus Reaches Highest Level Ever</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2420/u_s_-china_trade_war.jpg'&gt;&lt;br/&gt;In November, China posted its biggest month for exports on record, and its trade surplus—the amount by which exports exceed imports—topped $75 billion.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/07/china-trade-surplus-reaches-highest-level-ever</link>
+  <author>Toby Howell</author>
+  <categories>trade</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/china-trade-surplus-reaches-highest-level-ever</guid>
+  <pubDate>Mon, 07 Dec 2020 14:41:15 -0800</pubDate>
+ </item>
  <item>
   <title>California Water Futures are First to Trade on Chicago Mercantile Exchange</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3349/water_futures.jpg'&gt;&lt;br/&gt;  If you buy a futures contract, you agree to purchase the asset at a predetermined price on a future date.   California farmers could use the help California is the country's largest water market by a magnitude of four, but the quality of its water supply is less consistent than a container of strawberries in January. Investors can buy futures contracts for everything from fresh bacon to Burgundy wine, but the commoditization of an element critical to daily life is worrying to some observers—especially as water access becomes more strained."</description>
@@ -361,15 +370,6 @@
   <categories>finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/years-largest-acquisition-not-think</guid>
   <pubDate>Wed, 02 Dec 2020 14:41:40 -0800</pubDate>
- </item>
- <item>
-  <title>Apple, Spotify, and TikTok Release Their Year-End-Roundups</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3291/apple_award.jpg'&gt;&lt;br/&gt;the global pandemic simulator Plague Inc. came in at No. 2 on the paid gaming charts. Spotify. App Store: Unsurprisingly, Zoom was the most downloaded free app of the year, and TikTok and Disney+ rounded out the top three.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/02/apple-spotify-tiktok-release-yearendroundups</link>
-  <author>Toby Howell</author>
-  <categories>review</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/apple-spotify-tiktok-release-yearendroundups</guid>
-  <pubDate>Wed, 02 Dec 2020 14:36:33 -0800</pubDate>
  </item>
 
 </channel>
