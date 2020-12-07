@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/06/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/06/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/07/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/06</link>
- <lastBuildDate>Sun, 06 Dec 2020 16:38:14 -0800</lastBuildDate>
- <pubDate>Sun, 06 Dec 2020 16:38:14 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/07</link>
+ <lastBuildDate>Mon, 07 Dec 2020 03:03:22 -0800</lastBuildDate>
+ <pubDate>Mon, 07 Dec 2020 03:03:22 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: Airbnb's IPO and Congressional Compromises </title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/508/airbnb.jpg'&gt;&lt;br/&gt;  Hanukkah starts at sundown on Thursday.   Everything else:  Today is the anniversary of the attack on Pearl Harbor in 1941. The videogame Cyberpunk 2077 will be released on Thursday after several delays and an astronomical budget.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/06/week-ahead-airbnbs-ipo-congressional-compromises?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/week-ahead-airbnbs-ipo-congressional-compromises?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 07 Dec 2020 03:01:21 -0800</pubDate>
+ </item>
+ <item>
+  <title>Coastal Carolina vs. BYU Arranged at Last Minute</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3324/road_trip.png'&gt;&lt;br/&gt;  These two teams were not supposed to play one another.   And the game itself was thrilling—Coastal Carolina eked out a win that came down to the last play.    A few days ago, the NBA released only half of its regular-season schedule to give itself the wiggle room the NFL wishes it had. Mullets.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/06/coastal-carolina-vs-byu-arranged-last-minute?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/coastal-carolina-vs-byu-arranged-last-minute?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 07 Dec 2020 03:01:21 -0800</pubDate>
+ </item>
+ <item>
+  <title>Metals Prices Surge as Manufacturing Kicks into High Gear</title>
+  <description>&lt;img src='https://media.giphy.com/media/xTnj7s9kx230Q/giphy.gif'&gt;&lt;br/&gt;    Plus, the U.S. and China’s geopolitical game of chicken led to uncertainty for mining companies, which slowed investment in new mines from 2016 on.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/06/metals-prices-surge-manufacturing-kicks-high-gear?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>commodities</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/metals-prices-surge-manufacturing-kicks-high-gear?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 07 Dec 2020 03:01:21 -0800</pubDate>
+ </item>
+ <item>
+  <title>New California Covid-19 Restrictions Face Pushback From Small Businesses</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3327/closed_playground.jpg'&gt;&lt;br/&gt;   Bottom line: California leaders are struggling to address the growing public health crisis (LA County hit a record number of cases four times last week) and simmering anger from devastated small businesses.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/07/new-california-covid19-restrictions-face-pushback-small-businesses?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>small-biz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/new-california-covid19-restrictions-face-pushback-small-businesses?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 07 Dec 2020 03:01:20 -0800</pubDate>
+ </item>
+ <item>
+  <title>Western Countries Will Likely Administer the First Covid-19 Vaccines This Week</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3326/russian_vaccine.jpg'&gt;&lt;br/&gt;Russia began inoculating its citizens on Saturday with its Sputnik V vaccine, and about 1 million Chinese people have already been vaccinated.    In further defense of the FDA’s process, last week the U.S.’ top infectious disease official, Dr. Anthony Fauci, called the UK ruling “rushed,” which ticked off some British health officials.   The debate over timing On Thursday, the FDA is expected to vote on approving the Pfizer-BioNTech vaccine for emergency use, and it could be administered to Americans the next day.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/06/western-countries-will-likely-administer-first-covid19-vaccines-week?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/western-countries-will-likely-administer-first-covid19-vaccines-week?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 07 Dec 2020 03:01:20 -0800</pubDate>
+ </item>
  <item>
   <title>Metals Prices Surge as Manufacturing Kicks into High Gear</title>
   <description>&lt;img src='https://media.giphy.com/media/xTnj7s9kx230Q/giphy.gif'&gt;&lt;br/&gt;    Put your microeconomic hat on The U.S. and China’s geopolitical game of chicken led to uncertainty for mining companies, which slowed investment in new mines from 2016 on.</description>
@@ -325,51 +370,6 @@
   <categories>e-commerce</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/ecommerce-boom-strains-delivery-networks</guid>
   <pubDate>Wed, 02 Dec 2020 14:31:35 -0800</pubDate>
- </item>
- <item>
-  <title>The McRib Returns to McDonald’s in Nationwide Rollout</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3268/mcrib.jpg'&gt;&lt;br/&gt;  + Did you know: Germany is the only country that's served the McRib all year round.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/01/mcrib-returns-mcdonalds-nationwide-rollout?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>food</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/mcrib-returns-mcdonalds-nationwide-rollout?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 02 Dec 2020 03:01:34 -0800</pubDate>
- </item>
- <item>
-  <title>Startups in Micro Mobility, Freight Tech, and Customer Engagement, Announce Deals</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3270/scooter_at_the_brandenbur.jpg'&gt;&lt;br/&gt;It's one of many well-funded companies looking to disrupt the—how do we put this kindly—mature freight sector.   Scale AI, which yesterday raised $155 million at a monster valuation of $3.5 billion, gives companies the behind-the-scenes tools to help them actually put AI to work.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/01/startups-micro-mobility-freight-tech-customer-engagement-announce-deals?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>startup</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/startups-micro-mobility-freight-tech-customer-engagement-announce-deals?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 02 Dec 2020 03:01:34 -0800</pubDate>
- </item>
- <item>
-  <title>Nasdaq Proposes Board Diversity Requirements</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3272/nasdaq.jpg'&gt;&lt;br/&gt;From 2010–2018, seats held by Black directors increased just one percentage point to 9%. The Nasdaq would be the first major exchange to impose such requirements, but it's not alone in pushing for board diversity.    Over three-quarters of Nasdaq-listed companies can't meet that benchmark today.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/01/nasdaq-proposes-board-diversity-requirements?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>diversity-and-inclusion</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/nasdaq-proposes-board-diversity-requirements?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 02 Dec 2020 03:01:34 -0800</pubDate>
- </item>
- <item>
-  <title>CDC Vaccine Panel Votes to Prioritize Healthcare Workers, Long Term Care Residents</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3219/vaccine.jpg'&gt;&lt;br/&gt;  The vaccine scene: Pfizer and Moderna have requested emergency use authorization for their Covid-19 vaccines. if CDC Director Robert Redfield approves ACIP's decision, this guidance will be sent to the states. What they decided: Phase 1 of Phase 1 is *drumroll please* healthcare personnel and long-term care facility (LTCF) residents. Not a simple decision.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/01/cdc-vaccine-panel-votes-prioritize-healthcare-workers-long-term-care-residents?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>healthcare</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/cdc-vaccine-panel-votes-prioritize-healthcare-workers-long-term-care-residents?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 02 Dec 2020 03:01:34 -0800</pubDate>
- </item>
- <item>
-  <title>Why SaaS Giant Salesforce Bought Slack</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3271/slack_salesforce.jpg'&gt;&lt;br/&gt;  Zoom out: Salesforce and Slack have a common, four-paned enemy: Microsoft.   For Salesforce: Slack will join analytics company Tableau and cloud provider Vlocity in Salesforce's growing stable of business services offerings. Salesforce has been buying up enterprise-oriented companies in a bid to fulfill every workplace need outside of book club—and Slack is Salesforce's biggest purchase to date.   No need to worry about your favorite gossip channel disappearing; the WaPo writes that Slack's impressive brand loyalty will likely keep Salesforce from meddling too much in the app you know and love/dread.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/01/went-dms?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>software</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/went-dms?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 02 Dec 2020 03:01:34 -0800</pubDate>
  </item>
 
 </channel>
