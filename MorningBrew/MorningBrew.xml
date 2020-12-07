@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/07</link>
- <lastBuildDate>Mon, 07 Dec 2020 14:33:22 -0800</lastBuildDate>
- <pubDate>Mon, 07 Dec 2020 14:33:22 -0800</pubDate>
+ <lastBuildDate>Mon, 07 Dec 2020 14:38:19 -0800</lastBuildDate>
+ <pubDate>Mon, 07 Dec 2020 14:38:19 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>California Water Futures are First to Trade on Chicago Mercantile Exchange</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3349/water_futures.jpg'&gt;&lt;br/&gt;  If you buy a futures contract, you agree to purchase the asset at a predetermined price on a future date.   California farmers could use the help California is the country's largest water market by a magnitude of four, but the quality of its water supply is less consistent than a container of strawberries in January. Investors can buy futures contracts for everything from fresh bacon to Burgundy wine, but the commoditization of an element critical to daily life is worrying to some observers—especially as water access becomes more strained."</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/07/california-water-futures-first-trade-chicago-mercantile-exchange</link>
+  <author>Alex Hickey</author>
+  <categories>investment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/california-water-futures-first-trade-chicago-mercantile-exchange</guid>
+  <pubDate>Mon, 07 Dec 2020 14:36:19 -0800</pubDate>
+ </item>
  <item>
   <title>Ikea to Stop Making Iconic Catalog After this Year</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3348/ikea_catalogs.jpg'&gt;&lt;br/&gt;  Bottom line: Online furniture sales have been a pandemic winner for retailers like Wayfair and Amazon, so Ikea's decision to focus on its digital operations makes business sense.   + While we're here: If you're feeling nostalgic, visit the digital Ikea museum to leaf through decades of past catalog issues.</description>
@@ -361,15 +370,6 @@
   <categories>review</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/apple-spotify-tiktok-release-yearendroundups</guid>
   <pubDate>Wed, 02 Dec 2020 14:36:33 -0800</pubDate>
- </item>
- <item>
-  <title>Discovery Inc. Launches Streaming Service</title>
-  <description>&lt;img src='https://media.giphy.com/media/VhWunESS8Kb9Cpeuwn/giphy.gif'&gt;&lt;br/&gt;  It’s also partnering with Verizon to give 55 million customers one year of Discovery+ for free, a similar strategy to the Disney+ debut. It’s going big Discovery is offering 55,000 episodes from 2,500 different shows upon launch, the most content of any new streaming service.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/02/discovery-inc-launches-streaming-service</link>
-  <author>Toby Howell</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/discovery-inc-launches-streaming-service</guid>
-  <pubDate>Wed, 02 Dec 2020 14:31:36 -0800</pubDate>
  </item>
 
 </channel>
