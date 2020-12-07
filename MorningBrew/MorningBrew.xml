@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/06</link>
- <lastBuildDate>Sun, 06 Dec 2020 16:33:15 -0800</lastBuildDate>
- <pubDate>Sun, 06 Dec 2020 16:33:15 -0800</pubDate>
+ <lastBuildDate>Sun, 06 Dec 2020 16:38:14 -0800</lastBuildDate>
+ <pubDate>Sun, 06 Dec 2020 16:38:14 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Metals Prices Surge as Manufacturing Kicks into High Gear</title>
+  <description>&lt;img src='https://media.giphy.com/media/xTnj7s9kx230Q/giphy.gif'&gt;&lt;br/&gt;    Put your microeconomic hat on The U.S. and China’s geopolitical game of chicken led to uncertainty for mining companies, which slowed investment in new mines from 2016 on.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/06/metals-prices-surge-manufacturing-kicks-high-gear</link>
+  <author>Toby Howell</author>
+  <categories>materials</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/metals-prices-surge-manufacturing-kicks-high-gear</guid>
+  <pubDate>Sun, 06 Dec 2020 16:36:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>New California Covid-19 Restrictions Face Pushback From Small Businesses</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3327/closed_playground.jpg'&gt;&lt;br/&gt;   Bottom line: California leaders are struggling to address the growing public health crisis (LA County hit a record number of cases four times last week) and simmering anger from devastated small businesses.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/07/new-california-covid19-restrictions-face-pushback-small-businesses</link>
+  <author>Neal Freyman</author>
+  <categories>small-biz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/new-california-covid19-restrictions-face-pushback-small-businesses</guid>
+  <pubDate>Sun, 06 Dec 2020 16:36:14 -0800</pubDate>
+ </item>
  <item>
   <title>Coastal Carolina vs. BYU Arranged at Last Minute</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3324/road_trip.png'&gt;&lt;br/&gt;  These two teams were not supposed to play one another.   And the game itself was thrilling—Coastal Carolina eked out a win that came down to the last play.    A few days ago, the NBA released only half of its regular-season schedule to give itself the wiggle room the NFL wishes it had. Mullets.”</description>
@@ -352,24 +370,6 @@
   <categories>software</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/went-dms?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 02 Dec 2020 03:01:34 -0800</pubDate>
- </item>
- <item>
-  <title>Nasdaq Proposes Board Diversity Requirements</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3272/nasdaq.jpg'&gt;&lt;br/&gt;The Nasdaq would be the first major exchange to impose such requirements, but it's not alone in pushing for board diversity.    Over three-quarters of Nasdaq-listed companies can't meet that benchmark today. In 2018, women held just 22% of Fortune 500 board seats. Publicly disclose diversity statistics about their boards of directors.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/01/nasdaq-proposes-board-diversity-requirements</link>
-  <author>Alex Hickey</author>
-  <categories>dandi</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/nasdaq-proposes-board-diversity-requirements</guid>
-  <pubDate>Tue, 01 Dec 2020 14:51:36 -0800</pubDate>
- </item>
- <item>
-  <title>CDC Vaccine Panel Votes to Prioritize Healthcare Workers, Long Term Care Residents</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3219/vaccine.jpg'&gt;&lt;br/&gt;  Phase 1 of Phase 1 is *drumroll please* healthcare personnel and long-term care facility (LTCF) residents. The vaccine scene: Pfizer and Moderna have requested emergency use authorization for their Covid-19 vaccines.      Looking ahead...   The next round of Phase 1 will include essential workers, people with underlying health conditions, and adults 65+.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/01/cdc-vaccine-panel-votes-prioritize-healthcare-workers-long-term-care-residents</link>
-  <author>Alex Hickey</author>
-  <categories>healthcare</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/cdc-vaccine-panel-votes-prioritize-healthcare-workers-long-term-care-residents</guid>
-  <pubDate>Tue, 01 Dec 2020 14:51:36 -0800</pubDate>
  </item>
 
 </channel>
