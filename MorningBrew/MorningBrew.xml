@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/07</link>
- <lastBuildDate>Mon, 07 Dec 2020 14:48:21 -0800</lastBuildDate>
- <pubDate>Mon, 07 Dec 2020 14:48:21 -0800</pubDate>
+ <lastBuildDate>Mon, 07 Dec 2020 14:53:21 -0800</lastBuildDate>
+ <pubDate>Mon, 07 Dec 2020 14:53:21 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Uber Sells Self-Driving Division to Aurora Innovations</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3350/aurora.jpg'&gt;&lt;br/&gt;Uber is reportedly unloading its air taxi division too.   Why Uber is letting go:  Self-driving cars are expensive.   Who is Aurora? Uber hasn’t completely given up on AVs—it’ll eventually use Aurora's self-driving cars.   Big picture: Several self-driving startups have downsized or closed shop during the pandemic. Subscribe to Emerging Tech Brew.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/07/uber-sells-selfdriving-division-aurora-innovations</link>
+  <author>Alex Hickey</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/uber-sells-selfdriving-division-aurora-innovations</guid>
+  <pubDate>Mon, 07 Dec 2020 14:51:21 -0800</pubDate>
+ </item>
  <item>
   <title>Bob Dylan Sells Songwriting Catalog to the Universal Music Publishing Group in Historic Deal</title>
   <description>&lt;img src='https://media.giphy.com/media/12nXbkoWTPvM9W/giphy.gif'&gt;&lt;br/&gt;Yesterday, cultural icon/harmonica player Bob Dylan sold his entire catalog of more than 600+ songs to the Universal Music Publishing Group. Why it matters: Dylan is one of the most famous artists of all time, and his catalog is considered a priceless treasure of the music canon.</description>
@@ -361,15 +370,6 @@
   <categories>guide</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/sales-beginners-best-articles-expert-resources</guid>
   <pubDate>Wed, 02 Dec 2020 18:46:39 -0800</pubDate>
- </item>
- <item>
-  <title>Coronavirus Aid: Democratic Leaders Back Compromise Bill</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3022/congress.jpg'&gt;&lt;br/&gt;    But there’s been a development. Democratic Sen. Mark Warner told NBC that failing to pass a relief bill before Congress breaks for the holidays would be “stupidity on steroids.” Republican leadership wants a $550 billion package, Dems have favored one closer to $2 trillion.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/02/coronavirus-aid-democratic-leaders-back-compromise-bill</link>
-  <author>Eliza Carter</author>
-  <categories>covid-19</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/coronavirus-aid-democratic-leaders-back-compromise-bill</guid>
-  <pubDate>Wed, 02 Dec 2020 14:41:40 -0800</pubDate>
  </item>
 
 </channel>
