@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/05/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/06/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/06/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/05</link>
- <lastBuildDate>Sat, 05 Dec 2020 03:03:38 -0800</lastBuildDate>
- <pubDate>Sat, 05 Dec 2020 03:03:38 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/06</link>
+ <lastBuildDate>Sun, 06 Dec 2020 16:33:15 -0800</lastBuildDate>
+ <pubDate>Sun, 06 Dec 2020 16:33:15 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Coastal Carolina vs. BYU Arranged at Last Minute</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3324/road_trip.png'&gt;&lt;br/&gt;  These two teams were not supposed to play one another.   And the game itself was thrilling—Coastal Carolina eked out a win that came down to the last play.    A few days ago, the NBA released only half of its regular-season schedule to give itself the wiggle room the NFL wishes it had. Mullets.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/06/coastal-carolina-vs-byu-arranged-last-minute</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/coastal-carolina-vs-byu-arranged-last-minute</guid>
+  <pubDate>Sun, 06 Dec 2020 16:31:22 -0800</pubDate>
+ </item>
+ <item>
+  <title>The Week Ahead: Airbnb's IPO and Congressional Compromises </title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/508/airbnb.jpg'&gt;&lt;br/&gt;  Hanukkah starts at sundown on Thursday.   Everything else:  Today is the anniversary of the attack on Pearl Harbor in 1941. The videogame Cyberpunk 2077 will be released on Thursday after several delays and an astronomical budget.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/06/week-ahead-airbnbs-ipo-congressional-compromises</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/week-ahead-airbnbs-ipo-congressional-compromises</guid>
+  <pubDate>Sun, 06 Dec 2020 16:31:22 -0800</pubDate>
+ </item>
+ <item>
+  <title>Western Countries Will Likely Administer the First Covid-19 Vaccines This Week</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3326/russian_vaccine.jpg'&gt;&lt;br/&gt;Russia began inoculating its citizens on Saturday with its Sputnik V vaccine, and about 1 million Chinese people have already been vaccinated.    In further defense of the FDA’s process, last week the U.S.’ top infectious disease official, Dr. Anthony Fauci, called the UK ruling “rushed,” which ticked off some British health officials.   The debate over timing On Thursday, the FDA is expected to vote on approving the Pfizer-BioNTech vaccine for emergency use, and it could be administered to Americans the next day.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/06/western-countries-will-likely-administer-first-covid19-vaccines-week</link>
+  <author>Neal Freyman</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/western-countries-will-likely-administer-first-covid19-vaccines-week</guid>
+  <pubDate>Sun, 06 Dec 2020 16:31:22 -0800</pubDate>
+ </item>
  <item>
   <title>Data Warehousing Company Snowflake is Now a $100 Billion Giant</title>
   <description>&lt;img src='https://media.giphy.com/media/26tneSGWphvmFlUju/giphy.gif'&gt;&lt;br/&gt;Bottom line: While Snowflake’s value has more than tripled since its public debut this fall, Wall Street is recommending investors break out the snow tires—more than half of the 22 analysts covering the company say it’s a “Hold” at this time.</description>
@@ -343,33 +370,6 @@
   <categories>healthcare</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/cdc-vaccine-panel-votes-prioritize-healthcare-workers-long-term-care-residents</guid>
   <pubDate>Tue, 01 Dec 2020 14:51:36 -0800</pubDate>
- </item>
- <item>
-  <title>The McRib Returns to McDonald’s in Nationwide Rollout</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3268/mcrib.jpg'&gt;&lt;br/&gt;  + Did you know: Germany is the only country that's served the McRib all year-round. The famous McRib returns to McDonald's menus today.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/01/mcrib-returns-mcdonalds-nationwide-rollout</link>
-  <author>Neal Freyman</author>
-  <categories>food</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/mcrib-returns-mcdonalds-nationwide-rollout</guid>
-  <pubDate>Tue, 01 Dec 2020 14:41:38 -0800</pubDate>
- </item>
- <item>
-  <title>It Went Down in the DMs</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3271/slack_salesforce.jpg'&gt;&lt;br/&gt;  Zoom out: Salesforce and Slack have a common, four-paned enemy: Microsoft.   For Salesforce: Slack will join analytics company Tableau and cloud provider Vlocity in Salesforce's growing stable of business services offerings. Salesforce has been buying up enterprise-oriented companies in a bid to fulfill every workplace need outside of book club—but Slack is Salesforce's biggest purchase to date.   No need to worry about your favorite gossip channel disappearing; the WaPo writes that Slack's impressive brand loyalty will likely keep Salesforce from meddling too much in the app you know and love/dread.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/01/went-dms</link>
-  <author>Eliza Carter</author>
-  <categories>manda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/went-dms</guid>
-  <pubDate>Tue, 01 Dec 2020 14:36:37 -0800</pubDate>
- </item>
- <item>
-  <title>Startups in Micro Mobility, Freight Tech, and Customer Engagement, Announce Deals</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3270/scooter_at_the_brandenbur.jpg'&gt;&lt;br/&gt;It's one of many well-funded companies looking to disrupt the—how do we put this kindly—mature freight sector.     Micromobility: Voi, a Swedish scooter rental startup, raised $160 million to help it expand in Europe. With more consumers interacting with brands over the internet, Sinch is the top-performing stock on the Stoxx Europe 600 index this year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/01/startups-micro-mobility-freight-tech-customer-engagement-announce-deals</link>
-  <author>Neal Freyman</author>
-  <categories>startup</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/01/startups-micro-mobility-freight-tech-customer-engagement-announce-deals</guid>
-  <pubDate>Tue, 01 Dec 2020 14:31:35 -0800</pubDate>
  </item>
 
 </channel>
