@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/08</link>
- <lastBuildDate>Tue, 08 Dec 2020 14:43:16 -0800</lastBuildDate>
- <pubDate>Tue, 08 Dec 2020 14:43:16 -0800</pubDate>
+ <lastBuildDate>Tue, 08 Dec 2020 14:48:14 -0800</lastBuildDate>
+ <pubDate>Tue, 08 Dec 2020 14:48:14 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Apple Unveils the AirPods Max, Its First Over-Ear Headphones</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3355/airpods_max.jpg'&gt;&lt;br/&gt;If you're looking for a new way to flex on your Zoom calls, Apple unveiled its first over-ear headphones yesterday, the AirPods Max. It'd be quite the flex. the headphones arrive Dec. 15, and Apple's workout service, Fitness+ ($9.99/mo.   Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/08/apple-unveils-airpods-max-first-overear-headphones</link>
+  <author>Neal Freyman</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/apple-unveils-airpods-max-first-overear-headphones</guid>
+  <pubDate>Tue, 08 Dec 2020 14:46:23 -0800</pubDate>
+ </item>
+ <item>
+  <title>DoorDash IPO Could Value Startup at $36B</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3356/doordash_going_public.jpg'&gt;&lt;br/&gt;Today, DoorDash says it has 58% of the suburban market.   The pandemic solidified DoorDash's lead in the U.S. food delivery industry, catapulting its market share to nearly 50% (No. 2 Uber Eats has 28%). Q2 revenue jumped 214% annually, propelling DoorDash to the first profitable quarter for a food delivery company. And with DoorDash commissions climbing as high as 30%, restaurants may look for cheaper options.     Why the hype? Raising $3+ billion should help. Monthly subscribers have more than tripled to 5 million, and 390,000+ merchants use its app. Is the balance sheet keeping up?</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/08/doordash-ipo-value-startup-36b</link>
+  <author>Alex Hickey</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/doordash-ipo-value-startup-36b</guid>
+  <pubDate>Tue, 08 Dec 2020 14:46:23 -0800</pubDate>
+ </item>
  <item>
   <title>The UK Begins Its Inoculation Program in Busy Day for Vaccines</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3354/woman_being_greeted_for_getting_a_vaccine.jpg'&gt;&lt;br/&gt;It's hard not to get a little emotional when looking at this picture of 90-year-old grandmother Margaret Keenan receiving a standing O from hospital staff in England yesterday morning.   You might think the UK rolling out its mass inoculation program was enough vaccine news for one day, but there were several other important developments.</description>
@@ -352,24 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/warner-bros-release-2021-films-theaters-hbo-max?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 04 Dec 2020 03:01:37 -0800</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: December 4</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1032/quiz.jpg'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/03/brews-weekly-news-quiz-december-4</link>
-  <author>Jamie Wilde</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/brews-weekly-news-quiz-december-4</guid>
-  <pubDate>Thu, 03 Dec 2020 14:51:36 -0800</pubDate>
- </item>
- <item>
-  <title>Warner Bros. to Release 2021 Films in Theaters and on HBO Max</title>
-  <description>&lt;img src='https://media.giphy.com/media/cmIBKv6BpofWUPPmKU/giphy.gif'&gt;&lt;br/&gt;, a subsidiary of AT&amp;T's WarnerMedia, said it will release its 2021 movies on AT&amp;T's streaming service, HBO Max, at the same time they debut in theaters. In an announcement that shook the film industry, Warner Bros.   After 31 days on HBO Max, movies will be exclusive to theaters until they ship out to a Roku near you.   Theaters are losing hope for a Christmas miracle AMC stock fell 16% and Cinemark's 22% following the news, capping off a devastating 9-month streak for theater chains.   Warner Bros.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/03/warner-bros-release-2021-films-theaters-hbo-max</link>
-  <author>Alex Hickey</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/warner-bros-release-2021-films-theaters-hbo-max</guid>
-  <pubDate>Thu, 03 Dec 2020 14:51:36 -0800</pubDate>
  </item>
 
 </channel>
