@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/08</link>
- <lastBuildDate>Tue, 08 Dec 2020 03:03:17 -0800</lastBuildDate>
- <pubDate>Tue, 08 Dec 2020 03:03:17 -0800</pubDate>
+ <lastBuildDate>Tue, 08 Dec 2020 07:28:24 -0800</lastBuildDate>
+ <pubDate>Tue, 08 Dec 2020 07:28:24 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Morning Brew Grammar Blog, No. 6: Rules Are Rules, Except When They’re Not</title>
+  <description>&lt;img src='https://media.giphy.com/media/130JryJRLP4cN2/giphy.gif'&gt;&lt;br/&gt;People sometimes think a run-on sentence is one that has...     Gets the job done, but now it’s not entirely clear which piece of information the reader should be focused on.    Long sentences can be run-ons, but it’s not their length that makes them so.   Unhelpful Rule No. 1: Run-on sentences = writer jail Run-ons are definitely to be avoided, but it’s important to remember the actual definition of a run-on.   Way better.   News Cycle Case Study  In this section, I focus on a recent news story and explain why it’s tricky for people to write about.   Active voice: JPMorgan underwrote the listing.   That’s all I have for this edition.   Passive voice: The listing was underwritten by JPMorgan.   In this case, the passive voice is fine because the actors who elected Reagan (i.e., U.S. voters) aren’t important to the sentence; the year is the focus. But in some instances, we don’t need to avoid the passive voice like it’s an indoor gathering—because it’s not actually important who’s doing the acting.   Unhelpful Rule No. 2: Passive voice = writer jail  What’s the passive voice?   Bottom line: Correct sentences are correct sentences; length is irrelevant. Grammar “rules” are really more like guidelines that come with asterisks and exceptions and unlesses. This is a series about grammar and style.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/07/morning-brew-grammar-blog-no-6-rules-rules-except-theyre-not</link>
+  <author>Eliza Carter</author>
+  <categories>grammar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/morning-brew-grammar-blog-no-6-rules-rules-except-theyre-not</guid>
+  <pubDate>Tue, 08 Dec 2020 07:26:23 -0800</pubDate>
+ </item>
  <item>
   <title>Ikea to Stop Making Iconic Catalog After this Year</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3348/ikea_catalogs.jpg'&gt;&lt;br/&gt;  Bottom line: Online furniture sales have been a pandemic winner for retailers like Wayfair and Amazon, so Ikea's decision to focus on its digital operations makes business sense.   + While we're here: If you're feeling nostalgic, visit the digital Ikea museum to leaf through decades of past catalog issues.</description>
@@ -361,15 +370,6 @@
   <categories>covid-19</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/california-implements-new-round-strict-covid19-restrictions</guid>
   <pubDate>Thu, 03 Dec 2020 14:31:38 -0800</pubDate>
- </item>
- <item>
-  <title>Small Company, Big Moves: A Guide to Disruptive Investing</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3300/motley.jpg'&gt;&lt;br/&gt;  And as more and more of these organizations look to IPO or woo investors, learning what to look for can be the difference between spotting a unicorn and riding something into the ground.   It may be more important to focus on companies who are disrupting industries that will be around for the long haul.   So we asked our investing friends at The Motley Fool to help us know what to look for before we get disruptive with our investing. Join Stock Advisor today to get your hands on these new picks. If this seems far-fetched, take a moment to consider what you think it would actually take for a company to achieve such lofty goals.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/03/small-company-big-moves-guide-disruptive-investing</link>
-  <author>Morning Brew</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/small-company-big-moves-guide-disruptive-investing</guid>
-  <pubDate>Thu, 03 Dec 2020 11:26:38 -0800</pubDate>
  </item>
 
 </channel>
