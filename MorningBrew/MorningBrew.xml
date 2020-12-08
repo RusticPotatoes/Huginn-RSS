@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/07/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/08/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/07</link>
- <lastBuildDate>Mon, 07 Dec 2020 14:58:14 -0800</lastBuildDate>
- <pubDate>Mon, 07 Dec 2020 14:58:14 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/08</link>
+ <lastBuildDate>Tue, 08 Dec 2020 03:03:17 -0800</lastBuildDate>
+ <pubDate>Tue, 08 Dec 2020 03:03:17 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Ikea to Stop Making Iconic Catalog After this Year</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3348/ikea_catalogs.jpg'&gt;&lt;br/&gt;  Bottom line: Online furniture sales have been a pandemic winner for retailers like Wayfair and Amazon, so Ikea's decision to focus on its digital operations makes business sense.   + While we're here: If you're feeling nostalgic, visit the digital Ikea museum to leaf through decades of past catalog issues.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/07/ikea-stop-making-iconic-catalog-year?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/ikea-stop-making-iconic-catalog-year?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 08 Dec 2020 03:01:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>China Trade Surplus Reaches Highest Level Ever</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2420/u_s_-china_trade_war.jpg'&gt;&lt;br/&gt;S-China trade deficit is closely watched because one of President Trump's main economic goals was to reduce the imbalance by slapping tariffs on Chinese goods. In November, China posted its biggest month for exports on record, and its trade surplus—the amount by which exports exceed imports—topped $75 billion.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/07/china-trade-surplus-reaches-highest-level-ever?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>trade</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/china-trade-surplus-reaches-highest-level-ever?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 08 Dec 2020 03:01:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>Bob Dylan Sells Songwriting Catalog to the Universal Music Publishing Group in Historic Deal</title>
+  <description>&lt;img src='https://media.giphy.com/media/12nXbkoWTPvM9W/giphy.gif'&gt;&lt;br/&gt;Yesterday, cultural icon/harmonica player Bob Dylan sold his entire catalog of more than 600+ songs to the Universal Music Publishing Group. Why it matters: Dylan is one of the most famous artists of all time, and his catalog is considered a priceless treasure of the music canon.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/07/bob-dylan-sells-songwriting-catalog-universal-music-publishing-group-historic-deal?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>music</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/bob-dylan-sells-songwriting-catalog-universal-music-publishing-group-historic-deal?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 08 Dec 2020 03:01:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>Uber Sells Self-Driving Division to Aurora Innovations</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3350/aurora.jpg'&gt;&lt;br/&gt;  Why Uber is letting go:  Self-driving cars are expensive. Uber is reportedly unloading its air taxi division too.   Big picture: Several self-driving startups have downsized or closed shop during the pandemic.   Who is Aurora? Subscribe to Emerging Tech Brew. Experts predict more consolidation ahead. The pandemic walloped ride hailing.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/07/uber-sells-selfdriving-division-aurora-innovations?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/uber-sells-selfdriving-division-aurora-innovations?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 08 Dec 2020 03:01:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>California Water Futures are First to Trade on Chicago Mercantile Exchange</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3349/water_futures.jpg'&gt;&lt;br/&gt;  If you buy a futures contract, you agree to purchase the asset at a predetermined price on a future date.   California farmers could use the help California is the country's largest water market by a magnitude of four, but its water supply is less consistent than a container of strawberries in January. Investors can buy futures contracts for everything from fresh bacon to Burgundy wine, but the commoditization of an element critical to daily life is worrying to some observers—especially as water access becomes more strained." California's spot water market is worth ~$1.1 billion.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/07/california-water-futures-first-trade-chicago-mercantile-exchange?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>commodities</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/california-water-futures-first-trade-chicago-mercantile-exchange?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 08 Dec 2020 03:01:15 -0800</pubDate>
+ </item>
  <item>
   <title>Q3 2020 Recap</title>
   <description>&lt;img src='https://media.giphy.com/media/Jl4M6CA3Id6Op5SXRD/giphy.gif'&gt;&lt;br/&gt;Professional golf has been underway for months with only minor testing headaches, while the pandemic-era versions of the Tour de France, the U.S. Open in tennis, and the Kentucky Derby went off smoothly. If the first two quarters of the year meant us coming to terms with a global pandemic, Q3 saw us settling into a ~new normal~ of face masks, parking lot dining, and saying "whoops, sorry!"   So what about K-12?   Q3 was the busiest for public offerings since the dot-com era.   That was a lot.   The election, for one.   Over the last three months, extreme weather events made more intense and frequent by human-induced climate change have ravaged communities across the country. There's actually good news.   Pulse check on the economic recovery  It's...   So why are biz leaders wearing out DocuSign?   Looking ahead On the monetary side...   On the corporate side...   On the fiscal side...   Looking ahead... School Reopenings Test Students, College Towns, and Parents After schools across the country closed their doors in the spring, John Krasinski hosted virtual prom, graduation ceremonies were streamed online, and at least one student accidentally said, “Sup, b****?”   Soccer: A  This summer, the National Women's Soccer League became the first major U.S. sports league to return to action from the Covid break, while the MLS has already welcomed fans back in certain states.    How the Economic Recovery Fared in Q3 As the ink dries on Q3, nearly 900,000 Americans are filing new jobless claims each week.   The Atlantic Coast produced so many big tropical storms that the World Meteorological Organization depleted its list of 21 names by September and is now using the Greek alphabet. Even where students can attend school, many parents have chosen not to enroll them. University of Iowa students angered Twitter (an easy feat, really) by lining up for downtown bars in Iowa City, which earlier this month had the fourth-highest Covid-19 cases per capita in the U.S. But for local businesses like The Airliner bar, students returning to campus is their only lifeline—revenue was $0 in April.   Kent Nishimura / Los Angeles Times via Getty Images Parts of the West Coast have been ablaze since August, with a record 3.7 million acres burned across California. Climate change is no longer one of those problems. the M&amp;A could keep flowing, but experts think the IPO frenzy will settle by late October.   Whether you want to relive summer 2020 or would rather pretend it never happened, we present: the Brew's third quarter recap. Basketball: A+  Zero NBA players have tested positive for Covid-19 since entering the famous "bubble" in Orlando. The Tampa Bay Rays, the Brew’s July pick to win it all, entered the postseason as the top team in the American League. But with the election and a Supreme Court fight ahead, don't hold your breath for more emergency aid until the Christmas lights come out.</description>
@@ -325,51 +370,6 @@
   <categories>investing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/small-company-big-moves-guide-disruptive-investing</guid>
   <pubDate>Thu, 03 Dec 2020 11:26:38 -0800</pubDate>
- </item>
- <item>
-  <title>Apple, Spotify, and TikTok Release Their Year-End-Roundups</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3294/brace_yourself.jpg'&gt;&lt;br/&gt;the global pandemic simulator Plague Inc. came in at No. 2 on the paid gaming charts. Spotify. App Store: Unsurprisingly, Zoom was the most downloaded free app of the year, with TikTok and Disney+ following closely behind.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/02/apple-spotify-tiktok-release-yearendroundups?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>review</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/apple-spotify-tiktok-release-yearendroundups?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 03 Dec 2020 03:01:33 -0800</pubDate>
- </item>
- <item>
-  <title>This Year’s Largest Acquisition? It’s Not What You Think</title>
-  <description>&lt;img src='https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif'&gt;&lt;br/&gt;  Bottom line: The former NYC mayor and memelord’s namesake company still towers over the financial data market.   Intercontinental Exchange, LSE rival and owner of the NYSE, has bought both mortgage finance tech platform Ellie Mae and data provider Interactive Data in the past few years.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/02/years-largest-acquisition-not-think?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/years-largest-acquisition-not-think?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 03 Dec 2020 03:01:33 -0800</pubDate>
- </item>
- <item>
-  <title>Discovery Inc. Launches Streaming Service</title>
-  <description>&lt;img src='https://media.giphy.com/media/l4EoZunhI8mM5c4ak/giphy.gif'&gt;&lt;br/&gt;  It’s also partnering with Verizon to give 55 million customers one year of Discovery+ for free, a similar strategy to the Disney+ debut. It’s going big Discovery is offering 55,000 episodes from 2,500 different shows upon launch, the most content of any new streaming service.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/02/discovery-inc-launches-streaming-service?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/discovery-inc-launches-streaming-service?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 03 Dec 2020 03:01:33 -0800</pubDate>
- </item>
- <item>
-  <title>Coronavirus Aid: Democratic Leaders Back Compromise Bill</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3022/congress.jpg'&gt;&lt;br/&gt;    But there’s been some movement. Democratic Sen. Mark Warner told NBC that failing to pass a relief bill before Congress breaks for the holidays would be “stupidity on steroids.” Bottom line: Momentum has been building in the past few days, but time is extremely running out.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/02/coronavirus-aid-democratic-leaders-back-compromise-bill?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>stimulus</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/coronavirus-aid-democratic-leaders-back-compromise-bill?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 03 Dec 2020 03:01:33 -0800</pubDate>
- </item>
- <item>
-  <title>E-Commerce Boom Strains Delivery Networks</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3290/lots_of_christmas_boxes.jpg'&gt;&lt;br/&gt;  Follow the money  The investors with the biggest pockets are making bets on the physical infrastructure that powers e-commerce: warehouses.      Bottom line: With consumers feeling more comfortable shopping online and companies rapidly expanding their e-commerce infrastructure, the retail industry has been catapulted years into the future by the pandemic.   Shopify, a platform that’s home to 1+ million merchants, reported that Black Friday sales increased 75% annually to $2.4 billion, per Retail Brew. U.S. store visits dropped more than 50% on Black Friday from last year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/02/ecommerce-boom-strains-delivery-networks?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>e-commerce</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/02/ecommerce-boom-strains-delivery-networks?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 03 Dec 2020 03:01:33 -0800</pubDate>
  </item>
 
 </channel>
