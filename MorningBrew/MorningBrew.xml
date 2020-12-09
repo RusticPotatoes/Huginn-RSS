@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/08/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/09/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/08</link>
- <lastBuildDate>Tue, 08 Dec 2020 14:48:14 -0800</lastBuildDate>
- <pubDate>Tue, 08 Dec 2020 14:48:14 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/09</link>
+ <lastBuildDate>Wed, 09 Dec 2020 03:03:16 -0800</lastBuildDate>
+ <pubDate>Wed, 09 Dec 2020 03:03:16 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Apple Unveils the AirPods Max, Its First Over-Ear Headphones</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3355/airpods_max.jpg'&gt;&lt;br/&gt;If you're looking for a new way to flex on your Zoom calls, Apple unveiled its first over-ear headphones yesterday, the AirPods Max. It'd be quite the flex. the headphones arrive Dec. 15, and Apple's workout service, Fitness+ ($9.99/mo.   Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/08/apple-unveils-airpods-max-first-overear-headphones?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/apple-unveils-airpods-max-first-overear-headphones?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 09 Dec 2020 03:01:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>HBO Max: Strong User Growth, But Fallout From Upending Theatrical Window Continues</title>
+  <description>&lt;img src='https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif'&gt;&lt;br/&gt;According to AT&amp;T CEO John Stankey, HBO Max will notch 12.6 million activated accounts by today.   The straight-to-streaming decision has upset Hollywood creators. 30... In a fiery statement Monday night, filmmaker Christopher Nolan said, "They don't even understand what they're losing.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/08/hbo-max-strong-user-growth-fallout-upending-theatrical-window-continues?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/hbo-max-strong-user-growth-fallout-upending-theatrical-window-continues?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 09 Dec 2020 03:01:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>Cybersecurity Giant FireEye Suffers Massive Attack</title>
+  <description>&lt;img src='https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif'&gt;&lt;br/&gt;  So this is like if an animal control office got infested by raccoons.   What FireEye is: the go-to security provider for governments and companies that suffer sophisticated hacks; for instance, it helped Sony and Equifax bulletproof their operations following breaches.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/08/cybersecurity-giant-fireeye-suffers-massive-attack?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>cybersecurity</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/cybersecurity-giant-fireeye-suffers-massive-attack?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 09 Dec 2020 03:01:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>The UK Begins Its Inoculation Program in Busy Day for Vaccines</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3354/woman_being_greeted_for_getting_a_vaccine.jpg'&gt;&lt;br/&gt;It's hard not to get a little emotional when looking at this picture of 90-year-old grandmother Margaret Keenan receiving a standing O from hospital staff in England yesterday morning.   You might think the UK rolling out its mass inoculation program was enough vaccine news for one day, but there were several other important developments.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/08/uk-begins-inoculation-program-busy-day-vaccines?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/uk-begins-inoculation-program-busy-day-vaccines?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 09 Dec 2020 03:01:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>DoorDash IPO Could Value It at $36B</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3356/doordash_going_public.jpg'&gt;&lt;br/&gt;Today, DoorDash says it has 58% of the suburban market.   The pandemic solidified DoorDash's lead in the U.S. food delivery industry, catapulting its market share to nearly 50% (No. 2 Uber Eats has 28%). Q2 revenue jumped 214% annually, propelling DoorDash to the first profitable quarter for a food delivery company. DoorDash reportedly priced its shares at $102 a pop, which, on a fully diluted basis, would equate to about a $39 billion market cap.     Why the hype? As food delivery companies went wheel-to-wheel in cities, DoorDash opted for a market with less competition: the 'burbs.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/08/doordash-ipo-value-startup-36b?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/doordash-ipo-value-startup-36b?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 09 Dec 2020 03:01:15 -0800</pubDate>
+ </item>
  <item>
   <title>Apple Unveils the AirPods Max, Its First Over-Ear Headphones</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3355/airpods_max.jpg'&gt;&lt;br/&gt;If you're looking for a new way to flex on your Zoom calls, Apple unveiled its first over-ear headphones yesterday, the AirPods Max. It'd be quite the flex. the headphones arrive Dec. 15, and Apple's workout service, Fitness+ ($9.99/mo.   Looking ahead...</description>
@@ -325,51 +370,6 @@
   <categories>healthcare</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/04/special-report-vaccines-made</guid>
   <pubDate>Fri, 04 Dec 2020 12:41:48 -0800</pubDate>
- </item>
- <item>
-  <title>Brew Crossword: Musical Dogposers</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2397/crossword.jpg'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/04/brew-crossword-musical-dogposers</link>
-  <author>Toby Howell</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/04/brew-crossword-musical-dogposers</guid>
-  <pubDate>Fri, 04 Dec 2020 11:12:17 -0800</pubDate>
- </item>
- <item>
-  <title>OPEC+ Compromises on January Oil Production Hike</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2392/game_of_risk_played_in_oil_barrels.png'&gt;&lt;br/&gt;  August: The group eased cuts to 7.7 million/day.   May: OPEC+ decided to cut output by 9.7 million barrels/day to prop up prices.     What’s OPEC+? In all, big oil companies have written down ~$80 billion in assets this year, Reuters reports. Yesterday, Chevron shaved up to $6 billion off its budget.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/03/opec-compromises-january-oil-production-hike?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>oil</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/opec-compromises-january-oil-production-hike?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 04 Dec 2020 03:01:37 -0800</pubDate>
- </item>
- <item>
-  <title>California Implements New Round of Strict Covid-19 Restrictions</title>
-  <description>&lt;img src='https://media.giphy.com/media/JNst2oJ0NT6yjnpMsw/giphy.gif'&gt;&lt;br/&gt;  Zoom out: You can lead a horse to water, but it’s trickier to make it stay indoors—the growing infection numbers suggest Californians are getting weary of Covid-19 restrictions.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/03/california-implements-new-round-strict-covid19-restrictions?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>covid-19</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/california-implements-new-round-strict-covid19-restrictions?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 04 Dec 2020 03:01:37 -0800</pubDate>
- </item>
- <item>
-  <title>BlackRock Alums Named to Biden’s Cabinet Generate Controversy</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3304/brian_deese.jpg'&gt;&lt;br/&gt;Yesterday, President-elect Joe Biden named Brian Deese, head of sustainable investing at asset manager BlackRock, to helm the National Economic Council (NEC).   Deese worked at the NEC under former President Obama, where he helped form the auto bailout of 2008.     The Brooks Brothers crowd is even more pleased.   What it means: The clipboard crowd isn’t happy.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/03/blackrock-alums-named-bidens-cabinet-generate-controversy?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/blackrock-alums-named-bidens-cabinet-generate-controversy?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 04 Dec 2020 03:01:37 -0800</pubDate>
- </item>
- <item>
-  <title>Warner Bros. to Release 2021 Films in Theaters and on HBO Max</title>
-  <description>&lt;img src='https://media.giphy.com/media/cmIBKv6BpofWUPPmKU/giphy.gif'&gt;&lt;br/&gt;, a subsidiary of AT&amp;T's WarnerMedia, said it will release its 2021 movies on AT&amp;T's streaming service, HBO Max, at the same time they debut in theaters. In an announcement that shook the film industry, Warner Bros.   After 31 days on HBO Max, movies will be exclusive to theaters until they ship out to a Roku near you.   Theaters are losing hope for a Christmas miracle AMC stock fell 16% and Cinemark's 22% following the news, capping off a devastating nine-month streak for theater chains.   Warner Bros.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/03/warner-bros-release-2021-films-theaters-hbo-max?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/03/warner-bros-release-2021-films-theaters-hbo-max?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 04 Dec 2020 03:01:37 -0800</pubDate>
  </item>
 
 </channel>
