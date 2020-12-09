@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/09</link>
- <lastBuildDate>Wed, 09 Dec 2020 03:03:16 -0800</lastBuildDate>
- <pubDate>Wed, 09 Dec 2020 03:03:16 -0800</pubDate>
+ <lastBuildDate>Wed, 09 Dec 2020 14:33:23 -0800</lastBuildDate>
+ <pubDate>Wed, 09 Dec 2020 14:33:23 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Google's Top Trending Searches in 2020</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1875/google_logo_on_a_couch.jpg'&gt;&lt;br/&gt;1) Cut men’s hair at home 2) plop hair 3) color your hair at home Lyrics: 1) WAP 🧐 Definitions: 1) WAP 🧐🧐🧐 1) My stimulus money 2) my refunds 3) Kansas City How to...</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/09/googles-top-trending-searches-2020</link>
+  <author>Neal Freyman</author>
+  <categories>internet</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/googles-top-trending-searches-2020</guid>
+  <pubDate>Wed, 09 Dec 2020 14:31:21 -0800</pubDate>
+ </item>
  <item>
   <title>Apple Unveils the AirPods Max, Its First Over-Ear Headphones</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3355/airpods_max.jpg'&gt;&lt;br/&gt;If you're looking for a new way to flex on your Zoom calls, Apple unveiled its first over-ear headphones yesterday, the AirPods Max. It'd be quite the flex. the headphones arrive Dec. 15, and Apple's workout service, Fitness+ ($9.99/mo.   Looking ahead...</description>
@@ -361,15 +370,6 @@
   <categories>cannabis</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/04/us-house-votes-legalize-marijuana</guid>
   <pubDate>Fri, 04 Dec 2020 14:16:32 -0800</pubDate>
- </item>
- <item>
-  <title>Special Report: How Vaccines Are Made</title>
-  <description>&lt;img src='https://media.giphy.com/media/dUUw7Z1Jps4xLWZOWX/giphy.gif'&gt;&lt;br/&gt;  Getting in Line for a Vaccine Like   Giphy Reality check: There won't be enough Covid-19 vaccines for everyone for a while. $21—the difference in price between Moderna's vaccine ($25/dose) and AstraZeneca's vaccine ($4/dose), according to U.S. purchase agreements.   Vaccine candidates 67 vaccine candidates are currently in various stages of clinical trials around the world.   10 billion single doses could be available by the end of 2022 if all the frontrunner vaccine candidates are approved.   But not so fast: Moderna's vaccine requires two doses 28 days apart.   Once We Have a Vaccine...   Let's Hit the Road  We just spit a lot of information at you about the vaccine supply chain. #3: Not everyone will get a vaccine.   Let’s set the mood with this passage from The Economist:  “Deliverance, when it arrives, will come in a small glass vial.   Who next?   The early leaders? How the Magic Happens   Francis Scialabba Maybe Thanksgiving is getting us sentimental, but the concept of a vaccine is kind of...   The next round of Phase 1 will include other vulnerable groups such as...   Vaccine manufacturing is Isla de Muerta  It's an island that cannot be found, except by those who already know where it is.   Pharma Companies Channel Their Inner Elsa   Giphy Leading vaccine candidates are more temperature-sensitive than your dad who doesn't let anyone touch the thermostat. But can employers legally require their workers to get vaccines? The Duke Global Health Institute estimates 9.6 billion doses are already reserved by individual countries, without any vaccines having reached the market yet.   Zoom out: The companies currently vying to get a Covid-19 vaccine to market are pursuing different biological methods, in the hopes that a "throw everything against the wall" approach will lead to a few sticking.       Economist That's a bit lopsided Which is where Covax comes in. Distribution 8,000 fully filled 747 cargo planes would be needed to distribute a single vaccine dose to the world's 7.8 billion people, per the International Air Transportation Association. The total costs of vaccine development can run up to $500 million, one study found. We'll walk through everything from how a vaccine is made to who gets the first shot to whether your boss can force you to get one.   Storage is tight. Establishing public trust in these vaccines will be the next major challenge for health officials. Where do vaccines come from?   Short answer: Yes.*  *There are exceptions for people with disabilities or those with "sincerely held" religious beliefs against vaccination.   Big picture: The Duke Global Health Institute thinks it'll take until 2024 for vaccines to reach the entire population. Probably not, but Pfizer does.   Did you know there's currently a shortage of sand needed to make glass vials for vaccine storage?   Plus, it's not cheap. With an $18+ billion budget ($12+ million of which has already been doled out), the goal is to deliver 300 million doses of a safe and effective vaccine by Jan. 2021.   Then, they're on the road, this time to a regional distribution center.   Methodologies vary, but the overall breakdown goes something like this:  Step 1: Create an antigen (a substance that provokes your immune system).   Dry ice is the cold chain's best friend.   How it works: There are 184 countries participating, with wealthier countries subsidizing vaccine access for 92 lower- and middle-income ones, particularly across Africa and South and Southeast Asia. In a November Gallup poll, 42% of U.S. adults said they would not get an FDA-approved coronavirus vaccine. The vaccine will head to an administration site like a mobile clinic or a Costco, where injectees will get a shot, a chicken bake, six gallons of salsa, and be on their way.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/04/special-report-vaccines-made</link>
-  <author>Morning Brew</author>
-  <categories>healthcare</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/04/special-report-vaccines-made</guid>
-  <pubDate>Fri, 04 Dec 2020 12:41:48 -0800</pubDate>
  </item>
 
 </channel>
