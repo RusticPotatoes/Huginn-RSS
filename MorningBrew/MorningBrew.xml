@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/09</link>
- <lastBuildDate>Wed, 09 Dec 2020 14:38:17 -0800</lastBuildDate>
- <pubDate>Wed, 09 Dec 2020 14:38:17 -0800</pubDate>
+ <lastBuildDate>Wed, 09 Dec 2020 14:53:17 -0800</lastBuildDate>
+ <pubDate>Wed, 09 Dec 2020 14:53:17 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Airbnb Goes Public After Turbulent Year for Travel</title>
+  <description>&lt;img src='https://media.giphy.com/media/W12WAzuqod9VS/giphy.gif'&gt;&lt;br/&gt;  The company had a roller-coaster year. If this week’s IPOs were a music festival, DoorDash would be the opener that rocked so hard everyone started moshing. As a public company, Airbnb will face a number of challenges, including angry city officials, concerns over safety, and a rising number of professional hosts who threaten Airbnb’s identity as a platform that connects people with...   Just because you survived the travel industry’s worst downturn ever doesn’t mean you can nap.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/09/airbnb-goes-public-turbulent-year-travel</link>
+  <author>Neal Freyman</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/airbnb-goes-public-turbulent-year-travel</guid>
+  <pubDate>Wed, 09 Dec 2020 14:51:16 -0800</pubDate>
+ </item>
  <item>
   <title>Facebook Faces Two Antitrust Lawsuits at the Federal and State Levels</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3366/facebook_butterfly.jpg'&gt;&lt;br/&gt;   Bottom line: Facebook stock barely budged on the announcement, so these lawsuits probably aren't the Jake Paul to Facebook’s Nate Robinson.   Yesterday, the twin investigations emerged from their chrysalises into full-fledged lawsuits.</description>
@@ -361,15 +370,6 @@
   <categories>videogames</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/04/ryans-world-will-soon-virtual-theme-park-roblox</guid>
   <pubDate>Fri, 04 Dec 2020 14:31:38 -0800</pubDate>
- </item>
- <item>
-  <title>The McRib’s Many Economic Conspiracy Theories</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3268/mcrib.jpg'&gt;&lt;br/&gt;Companies choose to take an L on these items in the hopes that it will lure customers to buy profitable products that recoup the loss.   While there’s no direct link between McRib rollouts and the Mayan calendar, there are a few popular conspiracy theories detailed by Willy Staley in The Awl purporting to explain why the McRib occasionally rises from the fast food ashes... Theory #1: Porky arbitrage   Axios Does McDonald’s time McRib releases to the pork price cycle for a bigger profit per sandwich?   If McRibs were as popular as McNuggets, it’s feasible they’d also become a forever menu item and the pork industry would play catch-up like chicken had. Eventually, the chicken supply caught up to McDonald’s demand, while the McRib’s popularity waned. + This theory could tie back to the first one: If the McRib is indeed a loss leader, McDonald’s would have more reason to take advantage of low pork prices.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/04/mcribs-many-economic-conspiracy-theories</link>
-  <author>Jamie Wilde</author>
-  <categories>big-deal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/04/mcribs-many-economic-conspiracy-theories</guid>
-  <pubDate>Fri, 04 Dec 2020 14:26:34 -0800</pubDate>
  </item>
 
 </channel>
