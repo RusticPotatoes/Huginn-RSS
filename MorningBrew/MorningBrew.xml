@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/10</link>
- <lastBuildDate>Thu, 10 Dec 2020 11:23:16 -0800</lastBuildDate>
- <pubDate>Thu, 10 Dec 2020 11:23:16 -0800</pubDate>
+ <lastBuildDate>Thu, 10 Dec 2020 14:43:16 -0800</lastBuildDate>
+ <pubDate>Thu, 10 Dec 2020 14:43:16 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>How to Host a Company Holiday Party During Covid?</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o7TKQO1dMAnxRXlPW/giphy.gif'&gt;&lt;br/&gt;   But ordinary times these are not.   One benefit of an online holiday party?   You’ll find everything you need right here. What is Slack’s video function but an opportunity for embarrassment waiting to happen? We aren’t so sure. “At corporate holiday parties, you typically get a handful of folks who end up drinking too much and do something embarrassing,” Ryan Costello of Event Farm told the WSJ.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/10/host-company-holiday-party-covid</link>
+  <author>Eliza Carter</author>
+  <categories>employers</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/host-company-holiday-party-covid</guid>
+  <pubDate>Thu, 10 Dec 2020 14:41:15 -0800</pubDate>
+ </item>
  <item>
   <title>The Brew’s Weekly News Quiz: December 11</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3369/typeform_quiz_asset.png'&gt;&lt;br/&gt;</description>
@@ -361,15 +370,6 @@
   <categories>pharma</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/western-countries-will-likely-administer-first-covid19-vaccines-week?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 07 Dec 2020 03:01:20 -0800</pubDate>
- </item>
- <item>
-  <title>Metals Prices Surge as Manufacturing Kicks into High Gear</title>
-  <description>&lt;img src='https://media.giphy.com/media/xTnj7s9kx230Q/giphy.gif'&gt;&lt;br/&gt;    Put your microeconomic hat on The U.S. and China’s geopolitical game of chicken led to uncertainty for mining companies, which slowed investment in new mines from 2016 on.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/06/metals-prices-surge-manufacturing-kicks-high-gear</link>
-  <author>Toby Howell</author>
-  <categories>materials</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/metals-prices-surge-manufacturing-kicks-high-gear</guid>
-  <pubDate>Sun, 06 Dec 2020 16:36:14 -0800</pubDate>
  </item>
 
 </channel>
