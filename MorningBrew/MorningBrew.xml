@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/10</link>
- <lastBuildDate>Thu, 10 Dec 2020 14:43:16 -0800</lastBuildDate>
- <pubDate>Thu, 10 Dec 2020 14:43:16 -0800</pubDate>
+ <lastBuildDate>Thu, 10 Dec 2020 15:03:18 -0800</lastBuildDate>
+ <pubDate>Thu, 10 Dec 2020 15:03:18 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Jobless Claims, Food Insecurity Rise</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3180/usa.jpg'&gt;&lt;br/&gt;    Housing: A homebuying boom has added a collective $1 trillion in homeowner equity this year (an average of $17,000 per homeowner), according to CoreLogic. Applications from self-employed and gig workers for a federal program rose 48%, but that program expires Dec. 26.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/10/jobless-claims-food-insecurity-rise</link>
+  <author>Alex Hickey</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/jobless-claims-food-insecurity-rise</guid>
+  <pubDate>Thu, 10 Dec 2020 15:01:17 -0800</pubDate>
+ </item>
  <item>
   <title>How to Host a Company Holiday Party During Covid?</title>
   <description>&lt;img src='https://media.giphy.com/media/3o7TKQO1dMAnxRXlPW/giphy.gif'&gt;&lt;br/&gt;   But ordinary times these are not.   One benefit of an online holiday party?   You’ll find everything you need right here. What is Slack’s video function but an opportunity for embarrassment waiting to happen? We aren’t so sure. “At corporate holiday parties, you typically get a handful of folks who end up drinking too much and do something embarrassing,” Ryan Costello of Event Farm told the WSJ.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>small-biz</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/new-california-covid19-restrictions-face-pushback-small-businesses?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 07 Dec 2020 03:01:20 -0800</pubDate>
- </item>
- <item>
-  <title>Western Countries Will Likely Administer the First Covid-19 Vaccines This Week</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3326/russian_vaccine.jpg'&gt;&lt;br/&gt;Russia began inoculating its citizens on Saturday with its Sputnik V vaccine, and about 1 million Chinese people have already been vaccinated.    In further defense of the FDA’s process, last week the U.S.’ top infectious disease official, Dr. Anthony Fauci, called the UK ruling “rushed,” which ticked off some British health officials.   The debate over timing On Thursday, the FDA is expected to vote on approving the Pfizer-BioNTech vaccine for emergency use, and it could be administered to Americans the next day.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/06/western-countries-will-likely-administer-first-covid19-vaccines-week?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>pharma</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/western-countries-will-likely-administer-first-covid19-vaccines-week?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 07 Dec 2020 03:01:20 -0800</pubDate>
  </item>
 
