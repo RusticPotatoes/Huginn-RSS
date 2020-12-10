@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/09/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/10/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/09</link>
- <lastBuildDate>Wed, 09 Dec 2020 14:53:17 -0800</lastBuildDate>
- <pubDate>Wed, 09 Dec 2020 14:53:17 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/10</link>
+ <lastBuildDate>Thu, 10 Dec 2020 03:03:23 -0800</lastBuildDate>
+ <pubDate>Thu, 10 Dec 2020 03:03:23 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Google's Top Trending Searches in 2020</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1875/google_logo_on_a_couch.jpg'&gt;&lt;br/&gt;1) Cut men’s hair at home 2) plop hair 3) color your hair at home Lyrics: 1) WAP 🧐 Definitions: 1) WAP 🧐🧐🧐 1) My stimulus money 2) my refunds 3) Kansas City How to...</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/09/googles-top-trending-searches-2020?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>internet</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/googles-top-trending-searches-2020?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 10 Dec 2020 03:01:22 -0800</pubDate>
+ </item>
+ <item>
+  <title>‘Cyberpunk 2077’ Debuts to Enormous Hype and Positive Reviews</title>
+  <description>&lt;img src='https://media.giphy.com/media/aTGwuEFyg6d8c/giphy.gif'&gt;&lt;br/&gt;     The WSJ forecasts Cyberpunk 2077 will sell between 18 million and 25 million copies in its first month since a) it’s such a hyped game and b) it’s the only major title coming out during the holiday season. For real.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/09/cyberpunk-2077-debuts-enormous-hype-positive-reviews?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>videogames</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/cyberpunk-2077-debuts-enormous-hype-positive-reviews?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 10 Dec 2020 03:01:22 -0800</pubDate>
+ </item>
+ <item>
+  <title>International News Updates</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3365/indian_farm_protest.jpg'&gt;&lt;br/&gt;    Canada: The country’s health regulator approved Pfizer-BioNTech’s Covid-19 vaccine, becoming the second nation after the UK to do so.   Brazil: Passengers on a Gol Airlines flight from Sao Paulo to Porto Alegre were the first in nearly two years to travel on a Boeing 737 Max, which returned to commercial service yesterday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/09/international-news-updates?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>around-the-world</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/international-news-updates?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 10 Dec 2020 03:01:22 -0800</pubDate>
+ </item>
+ <item>
+  <title>Facebook Faces Two Antitrust Lawsuits at the Federal and State Levels</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3366/facebook_butterfly.jpg'&gt;&lt;br/&gt;   Bottom line: These lawsuits probably aren't the Jake Paul to Facebook’s Nate Robinson...   Yesterday, the twin investigations emerged from their chrysalises into full-fledged lawsuits.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/09/facebook-faces-two-antitrust-lawsuits-federal-state-levels?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>social-media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/facebook-faces-two-antitrust-lawsuits-federal-state-levels?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 10 Dec 2020 03:01:22 -0800</pubDate>
+ </item>
+ <item>
+  <title>Airbnb Goes Public After Turbulent Year for Travel</title>
+  <description>&lt;img src='https://media.giphy.com/media/W12WAzuqod9VS/giphy.gif'&gt;&lt;br/&gt;  The company had a roller-coaster year. If this week’s IPOs were a music festival, DoorDash would be the opener that rocked so hard everyone started moshing. As a public company, Airbnb will face a number of challenges, including angry city officials, concerns over safety, and a rising number of professional hosts who threaten Airbnb’s identity as a platform that connects people with... To swing the pendulum back toward individuals, Airbnb is creating a host endowment fund through its IPO to invest in the people who make its platform work.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/09/airbnb-goes-public-turbulent-year-travel?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/airbnb-goes-public-turbulent-year-travel?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 10 Dec 2020 03:01:21 -0800</pubDate>
+ </item>
  <item>
   <title>Airbnb Goes Public After Turbulent Year for Travel</title>
   <description>&lt;img src='https://media.giphy.com/media/W12WAzuqod9VS/giphy.gif'&gt;&lt;br/&gt;  The company had a roller-coaster year. If this week’s IPOs were a music festival, DoorDash would be the opener that rocked so hard everyone started moshing. As a public company, Airbnb will face a number of challenges, including angry city officials, concerns over safety, and a rising number of professional hosts who threaten Airbnb’s identity as a platform that connects people with...   Just because you survived the travel industry’s worst downturn ever doesn’t mean you can nap.</description>
@@ -325,51 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/coastal-carolina-vs-byu-arranged-last-minute</guid>
   <pubDate>Sun, 06 Dec 2020 16:31:22 -0800</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: Airbnb's IPO and Congressional Compromises </title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/508/airbnb.jpg'&gt;&lt;br/&gt;  Hanukkah starts at sundown on Thursday.   Everything else:  Today is the anniversary of the attack on Pearl Harbor in 1941. The videogame Cyberpunk 2077 will be released on Thursday after several delays and an astronomical budget.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/06/week-ahead-airbnbs-ipo-congressional-compromises</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/week-ahead-airbnbs-ipo-congressional-compromises</guid>
-  <pubDate>Sun, 06 Dec 2020 16:31:22 -0800</pubDate>
- </item>
- <item>
-  <title>Western Countries Will Likely Administer the First Covid-19 Vaccines This Week</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3326/russian_vaccine.jpg'&gt;&lt;br/&gt;Russia began inoculating its citizens on Saturday with its Sputnik V vaccine, and about 1 million Chinese people have already been vaccinated.    In further defense of the FDA’s process, last week the U.S.’ top infectious disease official, Dr. Anthony Fauci, called the UK ruling “rushed,” which ticked off some British health officials.   The debate over timing On Thursday, the FDA is expected to vote on approving the Pfizer-BioNTech vaccine for emergency use, and it could be administered to Americans the next day.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/06/western-countries-will-likely-administer-first-covid19-vaccines-week</link>
-  <author>Neal Freyman</author>
-  <categories>pharma</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/western-countries-will-likely-administer-first-covid19-vaccines-week</guid>
-  <pubDate>Sun, 06 Dec 2020 16:31:22 -0800</pubDate>
- </item>
- <item>
-  <title>Data Warehousing Company Snowflake is Now a $100 Billion Giant</title>
-  <description>&lt;img src='https://media.giphy.com/media/26tneSGWphvmFlUju/giphy.gif'&gt;&lt;br/&gt;Bottom line: While Snowflake’s value has more than tripled since its public debut this fall, Wall Street is recommending investors break out the snow tires—more than half of the 22 analysts covering the company say it’s a “Hold” at this time.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/04/data-warehousing-company-snowflake-now-100-billion-giant?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>software</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/04/data-warehousing-company-snowflake-now-100-billion-giant?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 05 Dec 2020 03:01:37 -0800</pubDate>
- </item>
- <item>
-  <title>Disappointing Jobs Report May Increase Chances of Stimulus Deal</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3320/jobless_rate.jpg'&gt;&lt;br/&gt;  The restaurant industry lost jobs for the first time since April.   9.8 million fewer Americans remain employed than before the pandemic.   Looking ahead... So, like any astute economic observers, we expected stocks to fall and Treasury prices to rise (Treasuries are considered a safe haven for investors when the economic outlook goes south). The U.S. economy added 245,000 jobs last month, a reading below expectations and less than half of the 610,000 job gains in October. The weekend is shaping up to be an eventful one in D.C.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/04/disappointing-jobs-report-may-increase-chances-stimulus-deal</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/04/disappointing-jobs-report-may-increase-chances-stimulus-deal</guid>
-  <pubDate>Fri, 04 Dec 2020 14:31:38 -0800</pubDate>
- </item>
- <item>
-  <title>Ryan’s World Will Soon be a Virtual Theme Park In Roblox</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3323/us-entertainment-nickelod.jpg'&gt;&lt;br/&gt;The park will feature a racetrack, school, city center, and an obstacle course-filled “fun zone,” where players can walk among characters from Ryan’s show and, occasionally, with Ryan himself.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/04/ryans-world-will-soon-virtual-theme-park-roblox</link>
-  <author>Jamie Wilde</author>
-  <categories>videogames</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/04/ryans-world-will-soon-virtual-theme-park-roblox</guid>
-  <pubDate>Fri, 04 Dec 2020 14:31:38 -0800</pubDate>
  </item>
 
 </channel>
