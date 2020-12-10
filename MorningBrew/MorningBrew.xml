@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/10</link>
- <lastBuildDate>Thu, 10 Dec 2020 15:03:18 -0800</lastBuildDate>
- <pubDate>Thu, 10 Dec 2020 15:03:18 -0800</pubDate>
+ <lastBuildDate>Thu, 10 Dec 2020 15:13:19 -0800</lastBuildDate>
+ <pubDate>Thu, 10 Dec 2020 15:13:19 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>FDA Approves Pfizer-BioNTech Vaccine, Raising Questions Over Who Counts as Essential</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3380/covid_shot_line.jpg'&gt;&lt;br/&gt;    Now comes the hard part  Pfizer, BioNTech, and other manufacturers have generated lifesaving products at a breathtaking speed...   Bottom line: It will ultimately fall to the states to decide which workers are “essential” enough to receive the first, limited doses of the vaccine.   Some states have drafted plans for distribution, but many of them don’t match up.   Unblinding would hamstring the research process... Currently, the only clear directive is that healthcare workers and residents of long-term care facilities go first—and no industry reps dispute that.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/10/fda-approves-pfizerbiontech-vaccine-raising-questions-counts-essential</link>
+  <author>Eliza Carter</author>
+  <categories>covid-19</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/fda-approves-pfizerbiontech-vaccine-raising-questions-counts-essential</guid>
+  <pubDate>Thu, 10 Dec 2020 15:11:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>Disney Announces Disney+ Content Slate</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2751/lion_king_meme.png'&gt;&lt;br/&gt;Zoom out: Disney’s streaming unit is growing rapidly, but still incurring big losses ($2.8 billion in fiscal year 2020) that analysts expect to peak in the next two years.   But Disney isn't planning to follow WarnerMedia down that path just yet. WarnerMedia is planning joint theater-HBO Max premieres next year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/10/disney-announces-disney-content-slate</link>
+  <author>Alex Hickey</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/disney-announces-disney-content-slate</guid>
+  <pubDate>Thu, 10 Dec 2020 15:11:18 -0800</pubDate>
+ </item>
  <item>
   <title>Jobless Claims, Food Insecurity Rise</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3180/usa.jpg'&gt;&lt;br/&gt;    Housing: A homebuying boom has added a collective $1 trillion in homeowner equity this year (an average of $17,000 per homeowner), according to CoreLogic. Applications from self-employed and gig workers for a federal program rose 48%, but that program expires Dec. 26.</description>
@@ -352,24 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/coastal-carolina-vs-byu-arranged-last-minute?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 07 Dec 2020 03:01:21 -0800</pubDate>
- </item>
- <item>
-  <title>Metals Prices Surge as Manufacturing Kicks into High Gear</title>
-  <description>&lt;img src='https://media.giphy.com/media/xTnj7s9kx230Q/giphy.gif'&gt;&lt;br/&gt;    Plus, the U.S. and China’s geopolitical game of chicken led to uncertainty for mining companies, which slowed investment in new mines from 2016 on.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/06/metals-prices-surge-manufacturing-kicks-high-gear?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>commodities</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/metals-prices-surge-manufacturing-kicks-high-gear?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 07 Dec 2020 03:01:21 -0800</pubDate>
- </item>
- <item>
-  <title>New California Covid-19 Restrictions Face Pushback From Small Businesses</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3327/closed_playground.jpg'&gt;&lt;br/&gt;   Bottom line: California leaders are struggling to address the growing public health crisis (LA County hit a record number of cases four times last week) and simmering anger from devastated small businesses.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/07/new-california-covid19-restrictions-face-pushback-small-businesses?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>small-biz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/new-california-covid19-restrictions-face-pushback-small-businesses?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 07 Dec 2020 03:01:20 -0800</pubDate>
  </item>
 
 </channel>
