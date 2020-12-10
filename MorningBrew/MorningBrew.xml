@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/10</link>
- <lastBuildDate>Thu, 10 Dec 2020 07:43:24 -0800</lastBuildDate>
- <pubDate>Thu, 10 Dec 2020 07:43:24 -0800</pubDate>
+ <lastBuildDate>Thu, 10 Dec 2020 11:23:16 -0800</lastBuildDate>
+ <pubDate>Thu, 10 Dec 2020 11:23:16 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Brew’s Weekly News Quiz: December 11</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3369/typeform_quiz_asset.png'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/09/brews-weekly-news-quiz-december-11</link>
+  <author>Jamie Wilde</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/brews-weekly-news-quiz-december-11</guid>
+  <pubDate>Thu, 10 Dec 2020 11:21:15 -0800</pubDate>
+ </item>
  <item>
   <title>ETFs: Everything You Need To Know, And Then Some</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3370/motley_fool_etf.jpg'&gt;&lt;br/&gt;One More ETF FYI As a beginner investment vehicle, ETFs can be a wonderful way to get a hang of the market and all of its fluctuations. If your brokerage charges you fees when you buy or sell ETF shares, its cost effectiveness can go out the window.   ETFs can track indexes from bonds to the NASDAQ, so find one that represents your own risk-tolerance and long-term plan.   An under-the-radar stock that could overperform. You can find out what the management team tracks their performance to, which is a good indicator to determine if you want that for your own portfolio. So good luck, and ETFs FTW. ETFs are not Always Cheaper It’s true, ETFs can be more cost-effective for the average investor than other funds.   In case you forgot, ETFs—or Exchange-Traded Funds—are funds that are traded on public exchanges just like a stock. If you read our Ultimate Guide to Investing, created with our friends at The Motley Fool, you’ll remember our comparison of ETFs to succulents.</description>
@@ -360,15 +369,6 @@
   <author>Toby Howell</author>
   <categories>materials</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/metals-prices-surge-manufacturing-kicks-high-gear</guid>
-  <pubDate>Sun, 06 Dec 2020 16:36:14 -0800</pubDate>
- </item>
- <item>
-  <title>New California Covid-19 Restrictions Face Pushback From Small Businesses</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3327/closed_playground.jpg'&gt;&lt;br/&gt;   Bottom line: California leaders are struggling to address the growing public health crisis (LA County hit a record number of cases four times last week) and simmering anger from devastated small businesses.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/07/new-california-covid19-restrictions-face-pushback-small-businesses</link>
-  <author>Neal Freyman</author>
-  <categories>small-biz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/new-california-covid19-restrictions-face-pushback-small-businesses</guid>
   <pubDate>Sun, 06 Dec 2020 16:36:14 -0800</pubDate>
  </item>
 
