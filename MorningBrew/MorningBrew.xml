@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/11</link>
- <lastBuildDate>Fri, 11 Dec 2020 03:03:16 -0800</lastBuildDate>
- <pubDate>Fri, 11 Dec 2020 03:03:16 -0800</pubDate>
+ <lastBuildDate>Fri, 11 Dec 2020 14:24:10 -0800</lastBuildDate>
+ <pubDate>Fri, 11 Dec 2020 14:24:10 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Corporations Across Sectors Prepare to Make and Distribute the Vaccine</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3396/cargo_hold.jpg'&gt;&lt;br/&gt;  Moderna did just $60 million in revenue last year. Pfizer and Moderna are expected to generate $32 billion in Covid-19 vaccine sales in 2021, according to Wall Street forecasts.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/11/corporations-across-sectors-prepare-make-distribute-vaccine</link>
+  <author>Neal Freyman</author>
+  <categories>public-health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/corporations-across-sectors-prepare-make-distribute-vaccine</guid>
+  <pubDate>Fri, 11 Dec 2020 14:21:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>Finance Bosses Look Beyond Wall Street to Florida</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o7TKT7gSMOT8Thtss/giphy.gif'&gt;&lt;br/&gt;  Yesterday, Ken Moelis, the chairman and CEO of New York investment bank Moelis &amp; Co., told Bloomberg he wouldn't stop his employees from moving to Florida.   It’s not just finance… And it’s not just New York bleeding businesses. And if that talent wants to do it in Florida, that’s where we’ll support them.”   Right on cue, software giant Oracle said yesterday it was moving its HQ from Redwood City, CA, to Austin, TX.   It’s not exactly a secret that Florida is warmer than New York, boasts a cheaper cost of living, and has world-class institutions like Publix.     Why now?</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/11/finance-bosses-look-beyond-wall-street-florida</link>
+  <author>Neal Freyman</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/finance-bosses-look-beyond-wall-street-florida</guid>
+  <pubDate>Fri, 11 Dec 2020 14:21:18 -0800</pubDate>
+ </item>
  <item>
   <title>How to Host a Company Holiday Party During Covid?</title>
   <description>&lt;img src='https://media.giphy.com/media/3o7TKQO1dMAnxRXlPW/giphy.gif'&gt;&lt;br/&gt;   But ordinary times these are not.   One benefit of an online holiday party?   You’ll find everything you need right here. What is Slack’s video function but an opportunity for embarrassment waiting to happen? We aren’t so sure. “At corporate holiday parties, you typically get a handful of folks who end up drinking too much and do something embarrassing,” Ryan Costello of Event Farm told the WSJ.</description>
@@ -352,24 +370,6 @@
   <categories>auto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/uber-sells-selfdriving-division-aurora-innovations</guid>
   <pubDate>Mon, 07 Dec 2020 14:51:21 -0800</pubDate>
- </item>
- <item>
-  <title>Bob Dylan Sells Songwriting Catalog to the Universal Music Publishing Group in Historic Deal</title>
-  <description>&lt;img src='https://media.giphy.com/media/12nXbkoWTPvM9W/giphy.gif'&gt;&lt;br/&gt;Yesterday, cultural icon/harmonica player Bob Dylan sold his entire catalog of more than 600+ songs to the Universal Music Publishing Group. Why it matters: Dylan is one of the most famous artists of all time, and his catalog is considered a priceless treasure of the music canon.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/07/bob-dylan-sells-songwriting-catalog-universal-music-publishing-group-historic-deal</link>
-  <author>Neal Freyman</author>
-  <categories>music</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/bob-dylan-sells-songwriting-catalog-universal-music-publishing-group-historic-deal</guid>
-  <pubDate>Mon, 07 Dec 2020 14:46:21 -0800</pubDate>
- </item>
- <item>
-  <title>China Trade Surplus Reaches Highest Level Ever</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2420/u_s_-china_trade_war.jpg'&gt;&lt;br/&gt;In November, China posted its biggest month for exports on record, and its trade surplus—the amount by which exports exceed imports—topped $75 billion.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/07/china-trade-surplus-reaches-highest-level-ever</link>
-  <author>Toby Howell</author>
-  <categories>trade</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/china-trade-surplus-reaches-highest-level-ever</guid>
-  <pubDate>Mon, 07 Dec 2020 14:41:15 -0800</pubDate>
  </item>
 
 </channel>
