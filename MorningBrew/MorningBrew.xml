@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/11</link>
- <lastBuildDate>Fri, 11 Dec 2020 14:24:10 -0800</lastBuildDate>
- <pubDate>Fri, 11 Dec 2020 14:24:10 -0800</pubDate>
+ <lastBuildDate>Fri, 11 Dec 2020 14:39:10 -0800</lastBuildDate>
+ <pubDate>Fri, 11 Dec 2020 14:39:10 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Hyundai Acquires Boston Dynamics and Its Robot Dogs for $1.1 Billion</title>
+  <description>&lt;img src='https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif'&gt;&lt;br/&gt;  Some of the sectors Boston Dynamics’s tech might help with one day: self-driving vehicles, smart factories, and healthcare.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/11/hyundai-acquires-boston-dynamics-robot-dogs-11-billion</link>
+  <author>Jamie Wilde</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/hyundai-acquires-boston-dynamics-robot-dogs-11-billion</guid>
+  <pubDate>Fri, 11 Dec 2020 14:36:08 -0800</pubDate>
+ </item>
  <item>
   <title>Corporations Across Sectors Prepare to Make and Distribute the Vaccine</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3396/cargo_hold.jpg'&gt;&lt;br/&gt;  Moderna did just $60 million in revenue last year. Pfizer and Moderna are expected to generate $32 billion in Covid-19 vaccine sales in 2021, according to Wall Street forecasts.</description>
@@ -361,15 +370,6 @@
   <categories>recap</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/09/30/q3-2020-recap</guid>
   <pubDate>Mon, 07 Dec 2020 14:56:23 -0800</pubDate>
- </item>
- <item>
-  <title>Uber Sells Self-Driving Division to Aurora Innovations</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3350/aurora.jpg'&gt;&lt;br/&gt;Uber is reportedly unloading its air taxi division too.   Why Uber is letting go:  Self-driving cars are expensive.   Who is Aurora? Uber hasn’t completely given up on AVs—it’ll eventually use Aurora's self-driving cars.   Big picture: Several self-driving startups have downsized or closed shop during the pandemic. Subscribe to Emerging Tech Brew.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/07/uber-sells-selfdriving-division-aurora-innovations</link>
-  <author>Alex Hickey</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/uber-sells-selfdriving-division-aurora-innovations</guid>
-  <pubDate>Mon, 07 Dec 2020 14:51:21 -0800</pubDate>
  </item>
 
 </channel>
