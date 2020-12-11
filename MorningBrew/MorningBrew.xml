@@ -8,9 +8,36 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/11</link>
- <lastBuildDate>Fri, 11 Dec 2020 14:39:10 -0800</lastBuildDate>
- <pubDate>Fri, 11 Dec 2020 14:39:10 -0800</pubDate>
+ <lastBuildDate>Fri, 11 Dec 2020 14:48:11 -0800</lastBuildDate>
+ <pubDate>Fri, 11 Dec 2020 14:48:11 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Short Sellers on Pace for Worst Year Ever</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3395/bro_meme.jpg'&gt;&lt;br/&gt;Two of the most popular targets for short sellers, Moderna and Tesla, have gained 702% and 629% this year, respectively, wiping out short sellers’ March profits.   A quick refresher: Short sellers make money when a company loses value.   But it’s been nothing but pain ever since.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/11/short-sellers-pace-worst-year-ever</link>
+  <author>Toby Howell</author>
+  <categories>investing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/short-sellers-pace-worst-year-ever</guid>
+  <pubDate>Fri, 11 Dec 2020 14:46:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>The Popping IPO Market Could Be “Broken”</title>
+  <description>&lt;img src='https://media.giphy.com/media/31q2ecYvWjcYsWthyQ/giphy.gif'&gt;&lt;br/&gt;In 2019, just three newly public companies did.   For Chesky, the gap between Airbnb’s debut share price of $68 and the $139/share it actually opened at translates to billions of dollars of missed opportunity (had the company initially sold its shares at that higher price). Plus, these first-day pops can make shares look soggy later.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/11/popping-ipo-market-broken</link>
+  <author>Jamie Wilde</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/popping-ipo-market-broken</guid>
+  <pubDate>Fri, 11 Dec 2020 14:46:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Sony Buys Crunchyroll, Consolidates the Big Business of Bringing Japanese Anime to Western Viewers</title>
+  <description>&lt;img src='https://media.giphy.com/media/qWnoVy8UlX3A44dtQk/giphy.gif'&gt;&lt;br/&gt;Netflix can appease the casual viewer by sprinkling shows and movies into its existing service, while Funimation x Crunchyroll can satisfy the straight-from-Japan needs of the truly anime-obsessed.   Crunchyroll gives Sony a Snorlax-sized foothold in anime  In 2019, Sony combined three anime streaming services under its roof—France’s Wakanim, Australia’s Madman Anime Group, and the U.S.' Funimation—into a joint venture between Sony Pictures Entertainment and Sony Music Entertainment’s subsidiary, Aniplex. On Wednesday, Sony-owned anime streaming service Funimation agreed to acquire anime streaming service Crunchyroll from AT&amp;T for $1.2 billion. But getting anime from Japan to the U.S. has historically been a slow and painful process. Medium dive: Read this Quora answer on the history of anime production, this Reddit thread on financing, and “The Dark Side of Japan’s Anime Industry” by Eric Margolis. Crunchyroll will also be folded into this streaming giant, which could mean a complete merger or just an exchange of content. Here’s how it works: Most anime is a collaboration between a studio and a production committee. That rabid love raises the question of whether anime is better suited to an all-in-one streamer like Netflix or a standalone service like Crunchyroll. Once an anime gets made, distribution is quick and painless... Deep dive: Listen to Anime in America from Crunchyroll and read The Soul of Anime: Collaborative Creativity and Japan’s Media Success Story by Ian Condry. there’s room for both Sony and Netflix to be successful anime streamers if the genre’s appeal continues to grow beyond its most hardcore fans. Enter: streaming services Pay-per-month services are getting anime to Western fans in two ways: The Crunchyroll way: In 2006, Crunchyroll started as a quasi-legal YouTube channel for fan-subtitled anime, but evolved into an above-board streaming service in 2009. When Cartoon Network started Toonami (part of Adult Swim) in 1997, the co-creators looked beyond the U.S. for more adult cartoons at the turn of the millennia. Foreign: U.S. media companies didn’t think there would be demand for content that’s not from Hollywood. Both will achieve the same end goal: exporting Japanese anime to Western audiences. Sometimes, major studios like Kyoto Animation and Shaft are part of the production committees themselves, according to this highly detailed Reddit post.   Looking ahead... Adult Swim SVP Jason DeMarco wrote on Twitter that it’s “doubtful” any of the original shows Toonami and Crunchyroll are currently co-producing will be affected.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/11/sony-buys-crunchyroll-consolidates-big-business-bringing-japanese-anime-western-viewers</link>
+  <author>Jamie Wilde</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/sony-buys-crunchyroll-consolidates-big-business-bringing-japanese-anime-western-viewers</guid>
+  <pubDate>Fri, 11 Dec 2020 14:46:10 -0800</pubDate>
+ </item>
  <item>
   <title>Hyundai Acquires Boston Dynamics and Its Robot Dogs for $1.1 Billion</title>
   <description>&lt;img src='https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif'&gt;&lt;br/&gt;  Some of the sectors Boston Dynamics’s tech might help with one day: self-driving vehicles, smart factories, and healthcare.</description>
@@ -343,33 +370,6 @@
   <categories>music</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/bob-dylan-sells-songwriting-catalog-universal-music-publishing-group-historic-deal?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 08 Dec 2020 03:01:15 -0800</pubDate>
- </item>
- <item>
-  <title>Uber Sells Self-Driving Division to Aurora Innovations</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3350/aurora.jpg'&gt;&lt;br/&gt;  Why Uber is letting go:  Self-driving cars are expensive. Uber is reportedly unloading its air taxi division too.   Big picture: Several self-driving startups have downsized or closed shop during the pandemic.   Who is Aurora? Subscribe to Emerging Tech Brew. Experts predict more consolidation ahead. The pandemic walloped ride hailing.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/07/uber-sells-selfdriving-division-aurora-innovations?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/uber-sells-selfdriving-division-aurora-innovations?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 08 Dec 2020 03:01:15 -0800</pubDate>
- </item>
- <item>
-  <title>California Water Futures are First to Trade on Chicago Mercantile Exchange</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3349/water_futures.jpg'&gt;&lt;br/&gt;  If you buy a futures contract, you agree to purchase the asset at a predetermined price on a future date.   California farmers could use the help California is the country's largest water market by a magnitude of four, but its water supply is less consistent than a container of strawberries in January. Investors can buy futures contracts for everything from fresh bacon to Burgundy wine, but the commoditization of an element critical to daily life is worrying to some observers—especially as water access becomes more strained." California's spot water market is worth ~$1.1 billion.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/07/california-water-futures-first-trade-chicago-mercantile-exchange?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>commodities</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/california-water-futures-first-trade-chicago-mercantile-exchange?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 08 Dec 2020 03:01:15 -0800</pubDate>
- </item>
- <item>
-  <title>Q3 2020 Recap</title>
-  <description>&lt;img src='https://media.giphy.com/media/Jl4M6CA3Id6Op5SXRD/giphy.gif'&gt;&lt;br/&gt;Professional golf has been underway for months with only minor testing headaches, while the pandemic-era versions of the Tour de France, the U.S. Open in tennis, and the Kentucky Derby went off smoothly. If the first two quarters of the year meant us coming to terms with a global pandemic, Q3 saw us settling into a ~new normal~ of face masks, parking lot dining, and saying "whoops, sorry!"   So what about K-12?   Q3 was the busiest for public offerings since the dot-com era.   That was a lot.   The election, for one.   Over the last three months, extreme weather events made more intense and frequent by human-induced climate change have ravaged communities across the country. There's actually good news.   Pulse check on the economic recovery  It's...   So why are biz leaders wearing out DocuSign?   Looking ahead On the monetary side...   On the corporate side...   On the fiscal side...   Looking ahead... School Reopenings Test Students, College Towns, and Parents After schools across the country closed their doors in the spring, John Krasinski hosted virtual prom, graduation ceremonies were streamed online, and at least one student accidentally said, “Sup, b****?”   Soccer: A  This summer, the National Women's Soccer League became the first major U.S. sports league to return to action from the Covid break, while the MLS has already welcomed fans back in certain states.    How the Economic Recovery Fared in Q3 As the ink dries on Q3, nearly 900,000 Americans are filing new jobless claims each week.   The Atlantic Coast produced so many big tropical storms that the World Meteorological Organization depleted its list of 21 names by September and is now using the Greek alphabet. Even where students can attend school, many parents have chosen not to enroll them. University of Iowa students angered Twitter (an easy feat, really) by lining up for downtown bars in Iowa City, which earlier this month had the fourth-highest Covid-19 cases per capita in the U.S. But for local businesses like The Airliner bar, students returning to campus is their only lifeline—revenue was $0 in April.   Kent Nishimura / Los Angeles Times via Getty Images Parts of the West Coast have been ablaze since August, with a record 3.7 million acres burned across California. Climate change is no longer one of those problems. the M&amp;A could keep flowing, but experts think the IPO frenzy will settle by late October.   Whether you want to relive summer 2020 or would rather pretend it never happened, we present: the Brew's third quarter recap. Basketball: A+  Zero NBA players have tested positive for Covid-19 since entering the famous "bubble" in Orlando. The Tampa Bay Rays, the Brew’s July pick to win it all, entered the postseason as the top team in the American League. But with the election and a Supreme Court fight ahead, don't hold your breath for more emergency aid until the Christmas lights come out.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/09/30/q3-2020-recap</link>
-  <author>Neal Freyman</author>
-  <categories>recap</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/09/30/q3-2020-recap</guid>
-  <pubDate>Mon, 07 Dec 2020 14:56:23 -0800</pubDate>
  </item>
 
 </channel>
