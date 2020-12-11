@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/10/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/11/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/11/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/10</link>
- <lastBuildDate>Thu, 10 Dec 2020 15:13:19 -0800</lastBuildDate>
- <pubDate>Thu, 10 Dec 2020 15:13:19 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/11</link>
+ <lastBuildDate>Fri, 11 Dec 2020 03:03:16 -0800</lastBuildDate>
+ <pubDate>Fri, 11 Dec 2020 03:03:16 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>How to Host a Company Holiday Party During Covid?</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o7TKQO1dMAnxRXlPW/giphy.gif'&gt;&lt;br/&gt;   But ordinary times these are not.   One benefit of an online holiday party?   You’ll find everything you need right here. What is Slack’s video function but an opportunity for embarrassment waiting to happen? We aren’t so sure. “At corporate holiday parties, you typically get a handful of folks who end up drinking too much and do something embarrassing,” Ryan Costello of Event Farm told the WSJ.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/10/host-company-holiday-party-covid?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>employers</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/host-company-holiday-party-covid?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 11 Dec 2020 03:01:23 -0800</pubDate>
+ </item>
+ <item>
+  <title>Jobless Claims, Food Insecurity Rise</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3180/usa.jpg'&gt;&lt;br/&gt;    Housing: A homebuying boom has added a collective $1 trillion in homeowner equity this year (an average of $17,000 per homeowner), according to CoreLogic. Applications from self-employed and gig workers for a federal program rose 48%, but that program expires Dec. 26.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/10/jobless-claims-food-insecurity-rise?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/jobless-claims-food-insecurity-rise?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 11 Dec 2020 03:01:23 -0800</pubDate>
+ </item>
+ <item>
+  <title>Disney Announces Disney+ Content Slate</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2751/lion_king_meme.png'&gt;&lt;br/&gt;Zoom out: Disney’s streaming unit is growing rapidly, but still incurring big losses ($2.8 billion in fiscal year 2020) that analysts expect to peak in the next two years.   But Disney isn't planning to follow WarnerMedia down that path just yet. WarnerMedia is planning joint theater-HBO Max premieres next year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/10/disney-announces-disney-content-slate?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/disney-announces-disney-content-slate?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 11 Dec 2020 03:01:23 -0800</pubDate>
+ </item>
+ <item>
+  <title>FDA Approves Pfizer-BioNTech Vaccine, Raising Questions Over Who Counts as Essential</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3380/covid_shot_line.jpg'&gt;&lt;br/&gt;    Now comes the hard part  Pfizer, BioNTech, and other manufacturers have generated lifesaving products at a breathtaking speed...   Bottom line: It will ultimately fall to the states to decide which workers are “essential” enough to receive the first, limited doses of the vaccine. Currently, the only clear directive is that healthcare workers and residents of long-term care facilities go first—and no industry reps dispute that.   Unblinding would hamstring the research process... but it would also get people vaccinated.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/10/fda-approves-pfizerbiontech-vaccine-raising-questions-counts-essential?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>covid-19</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/fda-approves-pfizerbiontech-vaccine-raising-questions-counts-essential?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 11 Dec 2020 03:01:23 -0800</pubDate>
+ </item>
  <item>
   <title>FDA Approves Pfizer-BioNTech Vaccine, Raising Questions Over Who Counts as Essential</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3380/covid_shot_line.jpg'&gt;&lt;br/&gt;    Now comes the hard part  Pfizer, BioNTech, and other manufacturers have generated lifesaving products at a breathtaking speed...   Bottom line: It will ultimately fall to the states to decide which workers are “essential” enough to receive the first, limited doses of the vaccine.   Some states have drafted plans for distribution, but many of them don’t match up.   Unblinding would hamstring the research process... Currently, the only clear directive is that healthcare workers and residents of long-term care facilities go first—and no industry reps dispute that.</description>
@@ -334,42 +370,6 @@
   <categories>trade</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/china-trade-surplus-reaches-highest-level-ever</guid>
   <pubDate>Mon, 07 Dec 2020 14:41:15 -0800</pubDate>
- </item>
- <item>
-  <title>California Water Futures are First to Trade on Chicago Mercantile Exchange</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3349/water_futures.jpg'&gt;&lt;br/&gt;  If you buy a futures contract, you agree to purchase the asset at a predetermined price on a future date.   California farmers could use the help California is the country's largest water market by a magnitude of four, but the quality of its water supply is less consistent than a container of strawberries in January. Investors can buy futures contracts for everything from fresh bacon to Burgundy wine, but the commoditization of an element critical to daily life is worrying to some observers—especially as water access becomes more strained."</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/07/california-water-futures-first-trade-chicago-mercantile-exchange</link>
-  <author>Alex Hickey</author>
-  <categories>investment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/california-water-futures-first-trade-chicago-mercantile-exchange</guid>
-  <pubDate>Mon, 07 Dec 2020 14:36:19 -0800</pubDate>
- </item>
- <item>
-  <title>Ikea to Stop Making Iconic Catalog After this Year</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3348/ikea_catalogs.jpg'&gt;&lt;br/&gt;  Bottom line: Online furniture sales have been a pandemic winner for retailers like Wayfair and Amazon, so Ikea's decision to focus on its digital operations makes business sense.   + While we're here: If you're feeling nostalgic, visit the digital Ikea museum to leaf through decades of past catalog issues.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/07/ikea-stop-making-iconic-catalog-year</link>
-  <author>Toby Howell</author>
-  <categories>ecommerce</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/ikea-stop-making-iconic-catalog-year</guid>
-  <pubDate>Mon, 07 Dec 2020 14:31:20 -0800</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: Airbnb's IPO and Congressional Compromises </title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/508/airbnb.jpg'&gt;&lt;br/&gt;  Hanukkah starts at sundown on Thursday.   Everything else:  Today is the anniversary of the attack on Pearl Harbor in 1941. The videogame Cyberpunk 2077 will be released on Thursday after several delays and an astronomical budget.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/06/week-ahead-airbnbs-ipo-congressional-compromises?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/week-ahead-airbnbs-ipo-congressional-compromises?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 07 Dec 2020 03:01:21 -0800</pubDate>
- </item>
- <item>
-  <title>Coastal Carolina vs. BYU Arranged at Last Minute</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3324/road_trip.png'&gt;&lt;br/&gt;  These two teams were not supposed to play one another.   And the game itself was thrilling—Coastal Carolina eked out a win that came down to the last play.    A few days ago, the NBA released only half of its regular-season schedule to give itself the wiggle room the NFL wishes it had. Mullets.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/06/coastal-carolina-vs-byu-arranged-last-minute?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/06/coastal-carolina-vs-byu-arranged-last-minute?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 07 Dec 2020 03:01:21 -0800</pubDate>
  </item>
 
 </channel>
