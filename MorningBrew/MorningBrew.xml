@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/11/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/11/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/12/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/11</link>
- <lastBuildDate>Fri, 11 Dec 2020 14:48:11 -0800</lastBuildDate>
- <pubDate>Fri, 11 Dec 2020 14:48:11 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/12</link>
+ <lastBuildDate>Sat, 12 Dec 2020 03:03:13 -0800</lastBuildDate>
+ <pubDate>Sat, 12 Dec 2020 03:03:13 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Hyundai Acquires Boston Dynamics and Its Robot Dogs for $1.1 Billion</title>
+  <description>&lt;img src='https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif'&gt;&lt;br/&gt;  Some of the sectors Boston Dynamics’s tech might help with one day: self-driving vehicles, smart factories, and healthcare.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/11/hyundai-acquires-boston-dynamics-robot-dogs-11-billion?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/hyundai-acquires-boston-dynamics-robot-dogs-11-billion?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 12 Dec 2020 03:01:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>The Popping IPO Market Could Be “Broken”</title>
+  <description>&lt;img src='https://media.giphy.com/media/31q2ecYvWjcYsWthyQ/giphy.gif'&gt;&lt;br/&gt;In 2019, just three newly public companies did.   For Chesky, the gap between Airbnb’s debut share price of $68 and the $139/share it actually opened at translates to billions of dollars of missed opportunity (had the company initially sold its shares at that higher price). Plus, these first-day pops can make shares look soggy later.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/11/popping-ipo-market-broken?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/popping-ipo-market-broken?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 12 Dec 2020 03:01:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Short Sellers on Pace for Worst Year Ever</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3395/bro_meme.jpg'&gt;&lt;br/&gt;Two of the most popular targets for short sellers, Moderna and Tesla, have gained 702% and 629% this year, respectively, wiping out short sellers’ March profits.   A quick refresher: Short sellers make money when a company loses value.   But it’s been nothing but pain ever since.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/11/short-sellers-pace-worst-year-ever?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>investing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/short-sellers-pace-worst-year-ever?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 12 Dec 2020 03:01:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Corporations Across Sectors Prepare to Make and Distribute the Vaccine</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3396/cargo_hold.jpg'&gt;&lt;br/&gt;  Pfizer and Moderna are expected to generate $32 billion in Covid-19 vaccine sales in 2021, according to Wall Street forecasts. They’re confident that together they have the capacity to deliver both the life-saving shot and the Christmas sweater you sent your aunt.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/11/corporations-across-sectors-prepare-make-distribute-vaccine?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>public-health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/corporations-across-sectors-prepare-make-distribute-vaccine?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 12 Dec 2020 03:01:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Finance Bosses Look Beyond Wall Street to Florida</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o7TKT7gSMOT8Thtss/giphy.gif'&gt;&lt;br/&gt;  Yesterday, Ken Moelis, the chairman and CEO of New York investment bank Moelis &amp; Co., told Bloomberg he wouldn't stop his employees from moving to Florida.   It’s not just finance… And it’s not just New York bleeding business leaders. And if that talent wants to do it in Florida, that’s where we’ll support them.”   Right on cue, software giant Oracle said yesterday it was moving its HQ from Redwood City, CA, to Austin, TX.   It’s not exactly a secret that Florida is warmer than New York, boasts a cheaper cost of living, and has world-class institutions like Publix.     Why now?</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/11/finance-bosses-look-beyond-wall-street-florida?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/finance-bosses-look-beyond-wall-street-florida?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 12 Dec 2020 03:01:11 -0800</pubDate>
+ </item>
  <item>
   <title>Short Sellers on Pace for Worst Year Ever</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3395/bro_meme.jpg'&gt;&lt;br/&gt;Two of the most popular targets for short sellers, Moderna and Tesla, have gained 702% and 629% this year, respectively, wiping out short sellers’ March profits.   A quick refresher: Short sellers make money when a company loses value.   But it’s been nothing but pain ever since.</description>
@@ -325,51 +370,6 @@
   <categories>media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/hbo-max-strong-user-growth-fallout-upending-theatrical-window-continues</guid>
   <pubDate>Tue, 08 Dec 2020 14:41:14 -0800</pubDate>
- </item>
- <item>
-  <title>Cybersecurity Giant FireEye Suffers Massive Attack</title>
-  <description>&lt;img src='https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif'&gt;&lt;br/&gt;  So this is like if an animal control office got infested by raccoons.   What FireEye is: the go-to security provider for governments and companies that suffer sophisticated hacks; for instance, it helped Sony and Equifax bulletproof their operations following breaches.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/08/cybersecurity-giant-fireeye-suffers-massive-attack</link>
-  <author>Eliza Carter</author>
-  <categories>cybersecurity</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/cybersecurity-giant-fireeye-suffers-massive-attack</guid>
-  <pubDate>Tue, 08 Dec 2020 14:41:14 -0800</pubDate>
- </item>
- <item>
-  <title>Morning Brew Grammar Blog, No. 6: Rules Are Rules, Except When They’re Not</title>
-  <description>&lt;img src='https://media.giphy.com/media/130JryJRLP4cN2/giphy.gif'&gt;&lt;br/&gt;People sometimes think a run-on sentence is one that has...     Gets the job done, but now it’s not entirely clear which piece of information the reader should be focused on.    Long sentences can be run-ons, but it’s not their length that makes them so.   Unhelpful Rule No. 1: Run-on sentences = writer jail Run-ons are definitely to be avoided, but it’s important to remember the actual definition of a run-on.   Way better.   News Cycle Case Study  In this section, I focus on a recent news story and explain why it’s tricky for people to write about.   Active voice: JPMorgan underwrote the listing.   That’s all I have for this edition.   Passive voice: The listing was underwritten by JPMorgan.   In this case, the passive voice is fine because the actors who elected Reagan (i.e., U.S. voters) aren’t important to the sentence; the year is the focus. But in some instances, we don’t need to avoid the passive voice like it’s an indoor gathering—because it’s not actually important who’s doing the acting.   Unhelpful Rule No. 2: Passive voice = writer jail  What’s the passive voice?   Bottom line: Correct sentences are correct sentences; length is irrelevant. Grammar “rules” are really more like guidelines that come with asterisks and exceptions and unlesses. This is a series about grammar and style.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/07/morning-brew-grammar-blog-no-6-rules-rules-except-theyre-not</link>
-  <author>Eliza Carter</author>
-  <categories>grammar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/morning-brew-grammar-blog-no-6-rules-rules-except-theyre-not</guid>
-  <pubDate>Tue, 08 Dec 2020 07:26:23 -0800</pubDate>
- </item>
- <item>
-  <title>Ikea to Stop Making Iconic Catalog After this Year</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3348/ikea_catalogs.jpg'&gt;&lt;br/&gt;  Bottom line: Online furniture sales have been a pandemic winner for retailers like Wayfair and Amazon, so Ikea's decision to focus on its digital operations makes business sense.   + While we're here: If you're feeling nostalgic, visit the digital Ikea museum to leaf through decades of past catalog issues.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/07/ikea-stop-making-iconic-catalog-year?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/ikea-stop-making-iconic-catalog-year?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 08 Dec 2020 03:01:15 -0800</pubDate>
- </item>
- <item>
-  <title>China Trade Surplus Reaches Highest Level Ever</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2420/u_s_-china_trade_war.jpg'&gt;&lt;br/&gt;S-China trade deficit is closely watched because one of President Trump's main economic goals was to reduce the imbalance by slapping tariffs on Chinese goods. In November, China posted its biggest month for exports on record, and its trade surplus—the amount by which exports exceed imports—topped $75 billion.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/07/china-trade-surplus-reaches-highest-level-ever?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>trade</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/china-trade-surplus-reaches-highest-level-ever?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 08 Dec 2020 03:01:15 -0800</pubDate>
- </item>
- <item>
-  <title>Bob Dylan Sells Songwriting Catalog to the Universal Music Publishing Group in Historic Deal</title>
-  <description>&lt;img src='https://media.giphy.com/media/12nXbkoWTPvM9W/giphy.gif'&gt;&lt;br/&gt;Yesterday, cultural icon/harmonica player Bob Dylan sold his entire catalog of more than 600+ songs to the Universal Music Publishing Group. Why it matters: Dylan is one of the most famous artists of all time, and his catalog is considered a priceless treasure of the music canon.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/07/bob-dylan-sells-songwriting-catalog-universal-music-publishing-group-historic-deal?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>music</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/07/bob-dylan-sells-songwriting-catalog-universal-music-publishing-group-historic-deal?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 08 Dec 2020 03:01:15 -0800</pubDate>
  </item>
 
 </channel>
