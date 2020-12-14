@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/13</link>
- <lastBuildDate>Sun, 13 Dec 2020 16:38:13 -0800</lastBuildDate>
- <pubDate>Sun, 13 Dec 2020 16:38:13 -0800</pubDate>
+ <lastBuildDate>Sun, 13 Dec 2020 16:43:16 -0800</lastBuildDate>
+ <pubDate>Sun, 13 Dec 2020 16:43:16 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>George Senate Races Attracting Attention from Corporate America</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3405/georgia_gop_senate_candid.jpg'&gt;&lt;br/&gt;the vote is scheduled for Jan. 5, but in-person early voting starts today. Looking ahead... Its online fundraising platform processed nearly $112 million in donations from Nov. 4 and Nov. 23 (the GOP equivalent processed $55.6 million).</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/13/george-senate-races-attracting-attention-corporate-america</link>
+  <author>Neal Freyman</author>
+  <categories>election</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/george-senate-races-attracting-attention-corporate-america</guid>
+  <pubDate>Sun, 13 Dec 2020 16:41:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>Roblox, Affirm Delay IPOs to Early 2021</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2750/roblox.jpg'&gt;&lt;br/&gt;And even companies that make no money are soaring: At least three electric vehicle companies worth more than $2 billion have no revenue. Recent IPO trends may lead them to sell more shares or price them differently. Affirm and Roblox were hoping for valuations as high as $10 billion and $8 billion, respectively.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/13/roblox-affirm-delay-ipos-early-2021</link>
+  <author>Alex Hickey</author>
+  <categories>market</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/roblox-affirm-delay-ipos-early-2021</guid>
+  <pubDate>Sun, 13 Dec 2020 16:41:15 -0800</pubDate>
+ </item>
  <item>
   <title>The First Covid-19 Vaccines Are Being Delivered</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3404/pfizer_vaccine.jpg'&gt;&lt;br/&gt;Altogether, around 3 million doses will snake their way to 636 distribution centers across the country in the coming days.   The vaccine requires two shots a month apart, so officials are saving the second half of the ~6.4 million doses planned for the first wave to send out in a few weeks.   Supply chain: In 2009, delivery timetables for the swine flu vaccine shifted regularly. It's expected to get approval. The remaining challenges Spoilage: Pfizer's vaccine needs to maintain -94°F, and although the company has equipped shipping containers with dry ice and GPS-enabled temperature sensors, it's expected that some doses won't survive the journey.  </description>
@@ -351,24 +369,6 @@
   <author>Eliza Carter</author>
   <categories>cybersecurity</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/cybersecurity-giant-fireeye-suffers-massive-attack?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 09 Dec 2020 03:01:15 -0800</pubDate>
- </item>
- <item>
-  <title>The UK Begins Its Inoculation Program in Busy Day for Vaccines</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3354/woman_being_greeted_for_getting_a_vaccine.jpg'&gt;&lt;br/&gt;It's hard not to get a little emotional when looking at this picture of 90-year-old grandmother Margaret Keenan receiving a standing O from hospital staff in England yesterday morning.   You might think the UK rolling out its mass inoculation program was enough vaccine news for one day, but there were several other important developments.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/08/uk-begins-inoculation-program-busy-day-vaccines?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>pharma</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/uk-begins-inoculation-program-busy-day-vaccines?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 09 Dec 2020 03:01:15 -0800</pubDate>
- </item>
- <item>
-  <title>DoorDash IPO Could Value It at $36B</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3356/doordash_going_public.jpg'&gt;&lt;br/&gt;Today, DoorDash says it has 58% of the suburban market.   The pandemic solidified DoorDash's lead in the U.S. food delivery industry, catapulting its market share to nearly 50% (No. 2 Uber Eats has 28%). Q2 revenue jumped 214% annually, propelling DoorDash to the first profitable quarter for a food delivery company. DoorDash reportedly priced its shares at $102 a pop, which, on a fully diluted basis, would equate to about a $39 billion market cap.     Why the hype? As food delivery companies went wheel-to-wheel in cities, DoorDash opted for a market with less competition: the 'burbs.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/08/doordash-ipo-value-startup-36b?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/doordash-ipo-value-startup-36b?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 09 Dec 2020 03:01:15 -0800</pubDate>
  </item>
 
