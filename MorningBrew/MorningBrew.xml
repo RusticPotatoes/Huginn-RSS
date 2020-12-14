@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/13/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/14/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/13</link>
- <lastBuildDate>Sun, 13 Dec 2020 16:43:16 -0800</lastBuildDate>
- <pubDate>Sun, 13 Dec 2020 16:43:16 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/14</link>
+ <lastBuildDate>Mon, 14 Dec 2020 03:03:12 -0800</lastBuildDate>
+ <pubDate>Mon, 14 Dec 2020 03:03:12 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: Tesla's Grand Entrance and Another Vaccine</title>
+  <description>&lt;img src='https://media.giphy.com/media/9kSH36D2DtFOU/giphy.gif'&gt;&lt;br/&gt;   Everything else: Christopher Nolan's Tenet will be released digitally on Tuesday.    Tesla gets promoted: On Friday, Elon Musk's $578 billion electric automaker will join the S&amp;P 500 index. Friday is National Ugly Sweater Day. A major snowstorm could hit the East Coast mid-week.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/13/week-ahead-teslas-grand-entrance-another-vaccine?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/week-ahead-teslas-grand-entrance-another-vaccine?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 14 Dec 2020 03:01:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Kevin From 'The Office' Will Bring in More Than $1 Million on Cameo This Year</title>
+  <description>&lt;img src='https://media.giphy.com/media/11zU4IDJeg75Sg/giphy.gif'&gt;&lt;br/&gt;But Galanis thinks President Trump would crush Dobrik if he joined Cameo. Since he charges $195/video, we estimate Baumgartner will have averaged at least 14 videos per day in 2020.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/14/kevin-office-will-bring-1-million-cameo-year?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/kevin-office-will-bring-1-million-cameo-year?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 14 Dec 2020 03:01:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Roblox, Affirm Delay IPOs to Early 2021</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2750/roblox.jpg'&gt;&lt;br/&gt;And even companies that make no money are soaring: At least three electric vehicle companies worth more than $2 billion have no revenue. Recent IPO trends may lead them to sell more shares or price them differently. Affirm and Roblox were hoping for valuations as high as $10 billion and $8 billion, respectively.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/13/roblox-affirm-delay-ipos-early-2021?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>market</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/roblox-affirm-delay-ipos-early-2021?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 14 Dec 2020 03:01:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>George Senate Races Attracting Attention from Corporate America</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3405/georgia_gop_senate_candid.jpg'&gt;&lt;br/&gt;the vote is scheduled for Jan. 5, but in-person early voting starts today. Looking ahead... Its online fundraising platform processed nearly $112 million in donations from Nov. 4 to Nov. 23 (the GOP equivalent processed $55.6 million).</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/13/george-senate-races-attracting-attention-corporate-america?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>election</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/george-senate-races-attracting-attention-corporate-america?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 14 Dec 2020 03:01:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>The First Covid-19 Vaccines Are Being Delivered</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3404/pfizer_vaccine.jpg'&gt;&lt;br/&gt;Altogether, around 3 million doses will snake their way to 636 distribution centers across the country in the coming days.   The vaccine requires two shots a month apart, so officials are saving the second half of the ~6.4 million doses planned for the first wave to send out in a few weeks.   Supply chain: In 2009, delivery timetables for the swine flu vaccine shifted regularly. It's expected to get approval. The remaining challenges Spoilage: Pfizer's vaccine needs to maintain -94°F, and although the company has equipped shipping containers with dry ice and GPS-enabled temperature sensors, it's expected that some doses won't survive the journey.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/13/first-covid19-vaccines-delivered?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>healthcare</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/first-covid19-vaccines-delivered?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 14 Dec 2020 03:01:11 -0800</pubDate>
+ </item>
  <item>
   <title>George Senate Races Attracting Attention from Corporate America</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3405/georgia_gop_senate_candid.jpg'&gt;&lt;br/&gt;the vote is scheduled for Jan. 5, but in-person early voting starts today. Looking ahead... Its online fundraising platform processed nearly $112 million in donations from Nov. 4 and Nov. 23 (the GOP equivalent processed $55.6 million).</description>
@@ -325,51 +370,6 @@
   <categories>around-the-world</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/international-news-updates</guid>
   <pubDate>Wed, 09 Dec 2020 14:36:15 -0800</pubDate>
- </item>
- <item>
-  <title>‘Cyberpunk 2077’ Debuts to Enormous Hype and Positive Reviews</title>
-  <description>&lt;img src='https://media.giphy.com/media/aTGwuEFyg6d8c/giphy.gif'&gt;&lt;br/&gt;     The WSJ forecasts Cyberpunk 2077 will sell between 18 million and 25 million copies in its first month since a) it’s such a hyped game and b) it’s the only major title coming out during the holiday season.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/09/cyberpunk-2077-debuts-enormous-hype-positive-reviews</link>
-  <author>Toby Howell</author>
-  <categories>video-games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/cyberpunk-2077-debuts-enormous-hype-positive-reviews</guid>
-  <pubDate>Wed, 09 Dec 2020 14:36:15 -0800</pubDate>
- </item>
- <item>
-  <title>Google's Top Trending Searches in 2020</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1875/google_logo_on_a_couch.jpg'&gt;&lt;br/&gt;1) Cut men’s hair at home 2) plop hair 3) color your hair at home Lyrics: 1) WAP 🧐 Definitions: 1) WAP 🧐🧐🧐 1) My stimulus money 2) my refunds 3) Kansas City How to...</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/09/googles-top-trending-searches-2020</link>
-  <author>Neal Freyman</author>
-  <categories>internet</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/googles-top-trending-searches-2020</guid>
-  <pubDate>Wed, 09 Dec 2020 14:31:21 -0800</pubDate>
- </item>
- <item>
-  <title>Apple Unveils the AirPods Max, Its First Over-Ear Headphones</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3355/airpods_max.jpg'&gt;&lt;br/&gt;If you're looking for a new way to flex on your Zoom calls, Apple unveiled its first over-ear headphones yesterday, the AirPods Max. It'd be quite the flex. the headphones arrive Dec. 15, and Apple's workout service, Fitness+ ($9.99/mo.   Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/08/apple-unveils-airpods-max-first-overear-headphones?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/apple-unveils-airpods-max-first-overear-headphones?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 09 Dec 2020 03:01:15 -0800</pubDate>
- </item>
- <item>
-  <title>HBO Max: Strong User Growth, But Fallout From Upending Theatrical Window Continues</title>
-  <description>&lt;img src='https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif'&gt;&lt;br/&gt;According to AT&amp;T CEO John Stankey, HBO Max will notch 12.6 million activated accounts by today.   The straight-to-streaming decision has upset Hollywood creators. 30... In a fiery statement Monday night, filmmaker Christopher Nolan said, "They don't even understand what they're losing.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/08/hbo-max-strong-user-growth-fallout-upending-theatrical-window-continues?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/hbo-max-strong-user-growth-fallout-upending-theatrical-window-continues?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 09 Dec 2020 03:01:15 -0800</pubDate>
- </item>
- <item>
-  <title>Cybersecurity Giant FireEye Suffers Massive Attack</title>
-  <description>&lt;img src='https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif'&gt;&lt;br/&gt;  So this is like if an animal control office got infested by raccoons.   What FireEye is: the go-to security provider for governments and companies that suffer sophisticated hacks; for instance, it helped Sony and Equifax bulletproof their operations following breaches.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/08/cybersecurity-giant-fireeye-suffers-massive-attack?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>cybersecurity</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/cybersecurity-giant-fireeye-suffers-massive-attack?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 09 Dec 2020 03:01:15 -0800</pubDate>
  </item>
 
 </channel>
