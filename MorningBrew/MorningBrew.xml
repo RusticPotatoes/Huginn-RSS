@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/14</link>
- <lastBuildDate>Mon, 14 Dec 2020 14:48:13 -0800</lastBuildDate>
- <pubDate>Mon, 14 Dec 2020 14:48:13 -0800</pubDate>
+ <lastBuildDate>Mon, 14 Dec 2020 14:54:09 -0800</lastBuildDate>
+ <pubDate>Mon, 14 Dec 2020 14:54:09 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Amazon Owned Zoox Unveils Autonomous Robotaxi</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3425/zoox_autonomous_robotaxi.jpg'&gt;&lt;br/&gt;It’s fast(ish): Topping out at 75 mph, it’s the speediest robotaxi in the industry. But for now, Zoox is 100% focused on people, not packages. “In a nutshell, we want to eventually move people around a city,” CEO Aicha Evans told Kara Swisher in an interview.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/14/amazon-owned-zoox-unveils-autonomous-robotaxi</link>
+  <author>Toby Howell</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/amazon-owned-zoox-unveils-autonomous-robotaxi</guid>
+  <pubDate>Mon, 14 Dec 2020 14:51:08 -0800</pubDate>
+ </item>
  <item>
   <title>Pornhub Bows to Pressure, Deletes Unverified Videos</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3420/the_2018_avn_adult_entert.jpg'&gt;&lt;br/&gt;  Mastercard and Visa, which process payments on the site, launched an investigation.   But that wasn’t enough.   That piece set off a chain of events that have “left the porn industry shaken,” according to Motherboard.</description>
@@ -361,15 +370,6 @@
   <categories>markets</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/airbnb-goes-public-turbulent-year-travel?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 10 Dec 2020 03:01:21 -0800</pubDate>
- </item>
- <item>
-  <title>Airbnb Goes Public After Turbulent Year for Travel</title>
-  <description>&lt;img src='https://media.giphy.com/media/W12WAzuqod9VS/giphy.gif'&gt;&lt;br/&gt;  The company had a roller-coaster year. If this week’s IPOs were a music festival, DoorDash would be the opener that rocked so hard everyone started moshing. As a public company, Airbnb will face a number of challenges, including angry city officials, concerns over safety, and a rising number of professional hosts who threaten Airbnb’s identity as a platform that connects people with...   Just because you survived the travel industry’s worst downturn ever doesn’t mean you can nap.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/09/airbnb-goes-public-turbulent-year-travel</link>
-  <author>Neal Freyman</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/airbnb-goes-public-turbulent-year-travel</guid>
-  <pubDate>Wed, 09 Dec 2020 14:51:16 -0800</pubDate>
  </item>
 
 </channel>
