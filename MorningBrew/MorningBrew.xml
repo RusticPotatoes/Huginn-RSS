@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/12/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/13/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/12</link>
- <lastBuildDate>Sat, 12 Dec 2020 21:08:17 -0800</lastBuildDate>
- <pubDate>Sat, 12 Dec 2020 21:08:17 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/13</link>
+ <lastBuildDate>Sun, 13 Dec 2020 16:38:13 -0800</lastBuildDate>
+ <pubDate>Sun, 13 Dec 2020 16:38:13 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The First Covid-19 Vaccines Are Being Delivered</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3404/pfizer_vaccine.jpg'&gt;&lt;br/&gt;Altogether, around 3 million doses will snake their way to 636 distribution centers across the country in the coming days.   The vaccine requires two shots a month apart, so officials are saving the second half of the ~6.4 million doses planned for the first wave to send out in a few weeks.   Supply chain: In 2009, delivery timetables for the swine flu vaccine shifted regularly. It's expected to get approval. The remaining challenges Spoilage: Pfizer's vaccine needs to maintain -94°F, and although the company has equipped shipping containers with dry ice and GPS-enabled temperature sensors, it's expected that some doses won't survive the journey.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/13/first-covid19-vaccines-delivered</link>
+  <author>Alex Hickey</author>
+  <categories>healthcare</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/first-covid19-vaccines-delivered</guid>
+  <pubDate>Sun, 13 Dec 2020 16:36:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>The Week Ahead: Tesla's Grand Entrance and Another Vaccine</title>
+  <description>&lt;img src='https://media.giphy.com/media/9kSH36D2DtFOU/giphy.gif'&gt;&lt;br/&gt;   Everything else: Christopher Nolan's Tenet will be released digitally on Tuesday.    Tesla gets promoted: On Friday, Elon Musk's $578 billion electric automaker will join the S&amp;P 500 index. Friday is National Ugly Sweater Day. A major snowstorm could hit the East Coast mid-week.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/13/week-ahead-teslas-grand-entrance-another-vaccine</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/week-ahead-teslas-grand-entrance-another-vaccine</guid>
+  <pubDate>Sun, 13 Dec 2020 16:36:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Kevin From 'The Office' Will Bring in More Than $1 Million on Cameo This Year</title>
+  <description>&lt;img src='https://media.giphy.com/media/11zU4IDJeg75Sg/giphy.gif'&gt;&lt;br/&gt;But Galanis thinks President Trump would crush Dobrik if he joined Cameo. Since he charges $195/video, we estimate Baumgartner will have averaged at least 14 videos per day in 2020.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/14/kevin-office-will-bring-1-million-cameo-year</link>
+  <author>Neal Freyman</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/kevin-office-will-bring-1-million-cameo-year</guid>
+  <pubDate>Sun, 13 Dec 2020 16:36:11 -0800</pubDate>
+ </item>
  <item>
   <title>Your Candy Bar Has a Dark Secret</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3391/chocolate.jpg'&gt;&lt;br/&gt;  Originally filed in 2005, the case alleges the companies violated international laws against child slavery." Nestlé and Cargill say they've made efforts to eliminate child labor from supply chains. The chocolate supply chain is riddled with child labor.    That's one of the problems with the cocoa supply chain.   An October report from the Labor Department estimates ~1.6 million children are working on cocoa farms. A decision on the side of Nestlé and Cargill could affect future human rights cases brought under the ATS.    This case could have big implications for corporate liability The case centers on the Alien Tort Statute (ATS), a provision nearly as old as the U.S. that provides a path for foreign nationals to sue over violations of international law or U.S. treaties abroad in American courts.   This wasn't the Court's first dance with ATS.   They won't have to worry...   Ex.: The ATS has been invoked in conversations around corporate liability for supply chains linked to imprisoned Uighur Muslims in China."   While the justices weren't convinced that ATS was the right statute to use in pursuit of this case...</description>
@@ -343,33 +370,6 @@
   <categories>markets</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/doordash-ipo-value-startup-36b?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 09 Dec 2020 03:01:15 -0800</pubDate>
- </item>
- <item>
-  <title>Apple Unveils the AirPods Max, Its First Over-Ear Headphones</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3355/airpods_max.jpg'&gt;&lt;br/&gt;If you're looking for a new way to flex on your Zoom calls, Apple unveiled its first over-ear headphones yesterday, the AirPods Max. It'd be quite the flex. the headphones arrive Dec. 15, and Apple's workout service, Fitness+ ($9.99/mo.   Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/08/apple-unveils-airpods-max-first-overear-headphones</link>
-  <author>Neal Freyman</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/apple-unveils-airpods-max-first-overear-headphones</guid>
-  <pubDate>Tue, 08 Dec 2020 14:46:23 -0800</pubDate>
- </item>
- <item>
-  <title>DoorDash IPO Could Value Startup at $36B</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3356/doordash_going_public.jpg'&gt;&lt;br/&gt;Today, DoorDash says it has 58% of the suburban market.   The pandemic solidified DoorDash's lead in the U.S. food delivery industry, catapulting its market share to nearly 50% (No. 2 Uber Eats has 28%). Q2 revenue jumped 214% annually, propelling DoorDash to the first profitable quarter for a food delivery company. And with DoorDash commissions climbing as high as 30%, restaurants may look for cheaper options.     Why the hype? Raising $3+ billion should help. Monthly subscribers have more than tripled to 5 million, and 390,000+ merchants use its app. Is the balance sheet keeping up?</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/08/doordash-ipo-value-startup-36b</link>
-  <author>Alex Hickey</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/doordash-ipo-value-startup-36b</guid>
-  <pubDate>Tue, 08 Dec 2020 14:46:23 -0800</pubDate>
- </item>
- <item>
-  <title>The UK Begins Its Inoculation Program in Busy Day for Vaccines</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3354/woman_being_greeted_for_getting_a_vaccine.jpg'&gt;&lt;br/&gt;It's hard not to get a little emotional when looking at this picture of 90-year-old grandmother Margaret Keenan receiving a standing O from hospital staff in England yesterday morning.   You might think the UK rolling out its mass inoculation program was enough vaccine news for one day, but there were several other important developments.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/08/uk-begins-inoculation-program-busy-day-vaccines</link>
-  <author>Neal Freyman</author>
-  <categories>pharma</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/08/uk-begins-inoculation-program-busy-day-vaccines</guid>
-  <pubDate>Tue, 08 Dec 2020 14:41:14 -0800</pubDate>
  </item>
 
 </channel>
