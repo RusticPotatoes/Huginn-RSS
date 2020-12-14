@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/14</link>
- <lastBuildDate>Mon, 14 Dec 2020 03:03:12 -0800</lastBuildDate>
- <pubDate>Mon, 14 Dec 2020 03:03:12 -0800</pubDate>
+ <lastBuildDate>Mon, 14 Dec 2020 14:43:17 -0800</lastBuildDate>
+ <pubDate>Mon, 14 Dec 2020 14:43:17 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Taking a Look at the Fallout from the SolarWinds Hack</title>
+  <description>&lt;img src='https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif'&gt;&lt;br/&gt;The hack was first identified last week by FireEye, a cybersecurity company that itself was hacked.   As for the identity of the hackers, multiple outlets say all signs point to a specific group of Russian state-backed hackers called “APT29” or “Cozy Bear.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/14/taking-look-fallout-solarwinds-hack</link>
+  <author>Toby Howell</author>
+  <categories>cybersecurity</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/taking-look-fallout-solarwinds-hack</guid>
+  <pubDate>Mon, 14 Dec 2020 14:41:14 -0800</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: Tesla's Grand Entrance and Another Vaccine</title>
   <description>&lt;img src='https://media.giphy.com/media/9kSH36D2DtFOU/giphy.gif'&gt;&lt;br/&gt;   Everything else: Christopher Nolan's Tenet will be released digitally on Tuesday.    Tesla gets promoted: On Friday, Elon Musk's $578 billion electric automaker will join the S&amp;P 500 index. Friday is National Ugly Sweater Day. A major snowstorm could hit the East Coast mid-week.</description>
@@ -360,15 +369,6 @@
   <author>Toby Howell</author>
   <categories>social-media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/facebook-faces-two-antitrust-lawsuits-federal-state-levels</guid>
-  <pubDate>Wed, 09 Dec 2020 14:36:15 -0800</pubDate>
- </item>
- <item>
-  <title>International News Updates</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3365/indian_farm_protest.jpg'&gt;&lt;br/&gt;    Canada: The country’s health regulator approved Pfizer-BioNTech’s Covid-19 vaccine, becoming the second nation after the UK to do so. It’s a tense issue considering more than 40% of India’s workforce is employed in agriculture. The laws loosened some rules around the pricing and storage of crops, and farmers argue the deregulation will devastate their incomes.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/09/international-news-updates</link>
-  <author>Neal Freyman</author>
-  <categories>around-the-world</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/international-news-updates</guid>
   <pubDate>Wed, 09 Dec 2020 14:36:15 -0800</pubDate>
  </item>
 
