@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/14</link>
- <lastBuildDate>Mon, 14 Dec 2020 14:43:17 -0800</lastBuildDate>
- <pubDate>Mon, 14 Dec 2020 14:43:17 -0800</pubDate>
+ <lastBuildDate>Mon, 14 Dec 2020 14:48:13 -0800</lastBuildDate>
+ <pubDate>Mon, 14 Dec 2020 14:48:13 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Pornhub Bows to Pressure, Deletes Unverified Videos</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3420/the_2018_avn_adult_entert.jpg'&gt;&lt;br/&gt;  Mastercard and Visa, which process payments on the site, launched an investigation.   But that wasn’t enough.   That piece set off a chain of events that have “left the porn industry shaken,” according to Motherboard.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/14/pornhub-bows-pressure-deletes-unverified-videos</link>
+  <author>Neal Freyman</author>
+  <categories>adult</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/pornhub-bows-pressure-deletes-unverified-videos</guid>
+  <pubDate>Mon, 14 Dec 2020 14:46:13 -0800</pubDate>
+ </item>
  <item>
   <title>Taking a Look at the Fallout from the SolarWinds Hack</title>
   <description>&lt;img src='https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif'&gt;&lt;br/&gt;The hack was first identified last week by FireEye, a cybersecurity company that itself was hacked.   As for the identity of the hackers, multiple outlets say all signs point to a specific group of Russian state-backed hackers called “APT29” or “Cozy Bear.”</description>
@@ -361,15 +370,6 @@
   <categories>markets</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/airbnb-goes-public-turbulent-year-travel</guid>
   <pubDate>Wed, 09 Dec 2020 14:51:16 -0800</pubDate>
- </item>
- <item>
-  <title>Facebook Faces Two Antitrust Lawsuits at the Federal and State Levels</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3366/facebook_butterfly.jpg'&gt;&lt;br/&gt;   Bottom line: Facebook stock barely budged on the announcement, so these lawsuits probably aren't the Jake Paul to Facebook’s Nate Robinson.   Yesterday, the twin investigations emerged from their chrysalises into full-fledged lawsuits.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/09/facebook-faces-two-antitrust-lawsuits-federal-state-levels</link>
-  <author>Toby Howell</author>
-  <categories>social-media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/facebook-faces-two-antitrust-lawsuits-federal-state-levels</guid>
-  <pubDate>Wed, 09 Dec 2020 14:36:15 -0800</pubDate>
  </item>
 
 </channel>
