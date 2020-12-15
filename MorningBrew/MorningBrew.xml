@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/15</link>
- <lastBuildDate>Tue, 15 Dec 2020 14:58:12 -0800</lastBuildDate>
- <pubDate>Tue, 15 Dec 2020 14:58:12 -0800</pubDate>
+ <lastBuildDate>Tue, 15 Dec 2020 15:48:17 -0800</lastBuildDate>
+ <pubDate>Tue, 15 Dec 2020 15:48:17 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Christmas Markets Need a Christmas Miracle</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3429/santa_claus.jpg'&gt;&lt;br/&gt;  The situation is even tougher for vendors at San Francisco's Dickens Fair, which is a historic market that requires vendors to meet certain standards of "authenticity." His experience implementing health and safety protocols at the flea market helped him open the holiday market in-person safely. Michael Berman, who created the market 16 years ago, also runs D.C.'s Eastern Market and had to adapt this spring to pandemic-era guidelines. While the Christkindlmarket in Chicago is showcasing about 50 exhibitors online (close to the number it welcomed at its in-person market), most are "hanging on for dear life," according to Kate Bleeker, director of expansion and market development.   Vendors need help Small businesses that sell at markets often depend on a handful of in-person events for the majority of their annual sales. In San Francisco, the Great Dickens Christmas Fair also canceled its in-person market and set up the Dickens Fair at Home with an online shop and virtual experiences.   At Bryant Park, foot traffic and sales are estimated at a third of previous years’ levels, and Vagianos said vendors are worried."    But this year, the markets in D.C., San Francisco, and NYC currently have anywhere from a third to half the typical number of vendors exhibiting.   After watching in-person events get postponed the start of the pandemic and reconstitute on Zoom over the summer, Christmas markets began having tough conversations—and we're not talking about the final design for the collectible 2020 candle holder.   Other markets decided to open...</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/15/christmas-markets-need-christmas-miracle</link>
+  <author>Alex Hickey</author>
+  <categories>events</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/christmas-markets-need-christmas-miracle</guid>
+  <pubDate>Tue, 15 Dec 2020 15:46:15 -0800</pubDate>
+ </item>
  <item>
   <title>EU Unveils Regulations Targeting Big Tech</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1823/big_tech_under_the_antitrust_spotlight.jpg'&gt;&lt;br/&gt;The walls are closing in This week, the FTC ordered top U.S. tech companies to explain their user data practices, China fined its own tech leaders Alibaba and Tencent over antitrust violations, and the UK proposed fines of up to 10% of global revenue if tech giants don't remove illegal content.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/disney-announces-disney-content-slate?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 11 Dec 2020 03:01:23 -0800</pubDate>
- </item>
- <item>
-  <title>FDA Approves Pfizer-BioNTech Vaccine, Raising Questions Over Who Counts as Essential</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3380/covid_shot_line.jpg'&gt;&lt;br/&gt;    Now comes the hard part  Pfizer, BioNTech, and other manufacturers have generated lifesaving products at a breathtaking speed...   Bottom line: It will ultimately fall to the states to decide which workers are “essential” enough to receive the first, limited doses of the vaccine. Currently, the only clear directive is that healthcare workers and residents of long-term care facilities go first—and no industry reps dispute that.   Unblinding would hamstring the research process... but it would also get people vaccinated.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/10/fda-approves-pfizerbiontech-vaccine-raising-questions-counts-essential?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>covid-19</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/fda-approves-pfizerbiontech-vaccine-raising-questions-counts-essential?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 11 Dec 2020 03:01:23 -0800</pubDate>
  </item>
 
