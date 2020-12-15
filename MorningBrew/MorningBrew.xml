@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/14/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/15/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/14</link>
- <lastBuildDate>Mon, 14 Dec 2020 14:59:15 -0800</lastBuildDate>
- <pubDate>Mon, 14 Dec 2020 14:59:15 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/15</link>
+ <lastBuildDate>Tue, 15 Dec 2020 03:03:16 -0800</lastBuildDate>
+ <pubDate>Tue, 15 Dec 2020 03:03:16 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Amazon Owned Zoox Unveils Autonomous Robotaxi</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3425/zoox_autonomous_robotaxi.jpg'&gt;&lt;br/&gt;It’s fast(ish): Topping out at 75 mph, it’s the speediest robotaxi in the industry. But for now, Zoox is 100% focused on people, not packages. “In a nutshell, we want to eventually move people around a city,” CEO Aicha Evans told journalist Kara Swisher in an interview.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/14/amazon-owned-zoox-unveils-autonomous-robotaxi?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/amazon-owned-zoox-unveils-autonomous-robotaxi?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 15 Dec 2020 03:01:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>Pornhub Bows to Pressure, Deletes Unverified Videos</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3420/the_2018_avn_adult_entert.jpg'&gt;&lt;br/&gt;  Mastercard and Visa, which process payments on the site, launched an investigation.   But that wasn’t enough.   That piece set off a chain of events that have “left the porn industry shaken,” according to Motherboard.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/14/pornhub-bows-pressure-deletes-unverified-videos?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>adult</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/pornhub-bows-pressure-deletes-unverified-videos?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 15 Dec 2020 03:01:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>Assessing the Fallout from the SolarWinds Hack</title>
+  <description>&lt;img src='https://media.giphy.com/media/908fS3eQFUodG/giphy.gif'&gt;&lt;br/&gt;  As for the identity of the hackers, multiple outlets say all signs point to a specific group of Russian state-backed hackers called “APT29” or “Cozy Bear.”   The backstory: Hackers infiltrated the IT systems of several federal agencies and top corporations via a product made by software company SolarWinds.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/14/taking-look-fallout-solarwinds-hack?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>cybersecurity</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/taking-look-fallout-solarwinds-hack?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 15 Dec 2020 03:01:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>U.S. Healthcare Workers Receive First Covid Vaccines</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3424/covid_vaccine.jpg'&gt;&lt;br/&gt;  More than 300,000 Americans have died from Covid-19. Three million more doses of Pfizer-BioNTech’s vaccine will be delivered across the country this week.     Yesterday, NYC’s mayor told the city to prepare for a potential “full shutdown.” The longer process has drawn criticism from some European leaders.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/14/us-healthcare-workers-receive-first-covid-vaccines?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>healthcare</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/us-healthcare-workers-receive-first-covid-vaccines?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 15 Dec 2020 03:01:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>Exxon Mobil Pledges Emission Cuts</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3421/exxon_green.jpg'&gt;&lt;br/&gt;  Looking ahead…while fossil fuel companies struggle, a new guard of clean energy giants is beating them to investor dollars and ushering in energy’s “NextEra.”   While some are making efforts, including net-zero emissions targets and diversifying into renewables, “there doesn't seem to be an oil major that's got it all figured out between the pandemic, cloudy demand and price outlooks, and the unknown path through a world getting a bit more serious about climate,” Axios writes. Reduce overall emissions intensity by 15%–20% Halve methane emission intensity Emission “intensity”?</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/14/exxon-mobil-pledges-emission-cuts?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/exxon-mobil-pledges-emission-cuts?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 15 Dec 2020 03:01:14 -0800</pubDate>
+ </item>
  <item>
   <title>Exxon Mobil Pledges Emission Cuts</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3421/exxon_green.jpg'&gt;&lt;br/&gt;  Looking ahead…while fossil fuel companies struggle, a new guard of clean energy giants is beating them to investor dollars and ushering in energy’s “NextEra.”   While some are making efforts, including net-zero emissions targets and diversifying into renewables, “there doesn't seem to be an oil major that's got it all figured out between the pandemic, cloudy demand and price outlooks, and the unknown path through a world getting a bit more serious about climate,” Axios writes. He’s pledged to rejoin the Paris Accord on Day 1, invest $2 trillion in clean energy, and get the U.S. on a path to net-zero carbon emissions “no later than 2050.”</description>
@@ -325,51 +370,6 @@
   <categories>employers</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/host-company-holiday-party-covid</guid>
   <pubDate>Thu, 10 Dec 2020 14:41:15 -0800</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: December 11</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3369/typeform_quiz_asset.png'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/09/brews-weekly-news-quiz-december-11</link>
-  <author>Jamie Wilde</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/brews-weekly-news-quiz-december-11</guid>
-  <pubDate>Thu, 10 Dec 2020 11:21:15 -0800</pubDate>
- </item>
- <item>
-  <title>ETFs: Everything You Need To Know, And Then Some</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3370/motley_fool_etf.jpg'&gt;&lt;br/&gt;One More ETF FYI As a beginner investment vehicle, ETFs can be a wonderful way to get a hang of the market and all of its fluctuations. If your brokerage charges you fees when you buy or sell ETF shares, its cost effectiveness can go out the window.   ETFs can track indexes from bonds to the NASDAQ, so find one that represents your own risk-tolerance and long-term plan.   An under-the-radar stock that could overperform. You can find out what the management team tracks their performance to, which is a good indicator to determine if you want that for your own portfolio. So good luck, and ETFs FTW. ETFs are not Always Cheaper It’s true, ETFs can be more cost-effective for the average investor than other funds.   In case you forgot, ETFs—or Exchange-Traded Funds—are funds that are traded on public exchanges just like a stock. If you read our Ultimate Guide to Investing, created with our friends at The Motley Fool, you’ll remember our comparison of ETFs to succulents.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/10/etfs-everything-need-know</link>
-  <author>Morning Brew</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/etfs-everything-need-know</guid>
-  <pubDate>Thu, 10 Dec 2020 07:41:21 -0800</pubDate>
- </item>
- <item>
-  <title>Google's Top Trending Searches in 2020</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1875/google_logo_on_a_couch.jpg'&gt;&lt;br/&gt;1) Cut men’s hair at home 2) plop hair 3) color your hair at home Lyrics: 1) WAP 🧐 Definitions: 1) WAP 🧐🧐🧐 1) My stimulus money 2) my refunds 3) Kansas City How to...</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/09/googles-top-trending-searches-2020?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>internet</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/googles-top-trending-searches-2020?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 10 Dec 2020 03:01:22 -0800</pubDate>
- </item>
- <item>
-  <title>‘Cyberpunk 2077’ Debuts to Enormous Hype and Positive Reviews</title>
-  <description>&lt;img src='https://media.giphy.com/media/aTGwuEFyg6d8c/giphy.gif'&gt;&lt;br/&gt;     The WSJ forecasts Cyberpunk 2077 will sell between 18 million and 25 million copies in its first month since a) it’s such a hyped game and b) it’s the only major title coming out during the holiday season. For real.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/09/cyberpunk-2077-debuts-enormous-hype-positive-reviews?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>videogames</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/cyberpunk-2077-debuts-enormous-hype-positive-reviews?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 10 Dec 2020 03:01:22 -0800</pubDate>
- </item>
- <item>
-  <title>International News Updates</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3365/indian_farm_protest.jpg'&gt;&lt;br/&gt;    Canada: The country’s health regulator approved Pfizer-BioNTech’s Covid-19 vaccine, becoming the second nation after the UK to do so.   Brazil: Passengers on a Gol Airlines flight from Sao Paulo to Porto Alegre were the first in nearly two years to travel on a Boeing 737 Max, which returned to commercial service yesterday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/09/international-news-updates?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>around-the-world</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/09/international-news-updates?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 10 Dec 2020 03:01:22 -0800</pubDate>
  </item>
 
 </channel>
