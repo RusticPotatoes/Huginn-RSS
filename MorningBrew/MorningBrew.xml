@@ -8,9 +8,45 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/15</link>
- <lastBuildDate>Tue, 15 Dec 2020 03:03:16 -0800</lastBuildDate>
- <pubDate>Tue, 15 Dec 2020 03:03:16 -0800</pubDate>
+ <lastBuildDate>Tue, 15 Dec 2020 14:58:12 -0800</lastBuildDate>
+ <pubDate>Tue, 15 Dec 2020 14:58:12 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>EU Unveils Regulations Targeting Big Tech</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1823/big_tech_under_the_antitrust_spotlight.jpg'&gt;&lt;br/&gt;The walls are closing in This week, the FTC ordered top U.S. tech companies to explain their user data practices, China fined its own tech leaders Alibaba and Tencent over antitrust violations, and the UK proposed fines of up to 10% of global revenue if tech giants don't remove illegal content.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/15/eu-unveils-regulations-targeting-big-tech</link>
+  <author>Alex Hickey</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/eu-unveils-regulations-targeting-big-tech</guid>
+  <pubDate>Tue, 15 Dec 2020 14:56:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Warren Buffett, David Solomon Urge Congress to Extend PPP for Small Businesses</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3431/warren_buffett.jpg'&gt;&lt;br/&gt;  PPP has been criticized for fraud and not actually going to small businesses. It's a $525 billion government program intended to help small businesses keep workers on payroll. In an interview with CNBC yesterday morning, legendary investor Warren Buffett urged Congress to pass legislation to help small businesses stay afloat. Help could be on the way if Congress gets the job done.   A real-world example: This summer, American Airlines was able to raise $2.5 billion from selling bonds even as it was bleeding $58 million/day.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/15/warren-buffett-david-solomon-urge-congress-extend-ppp-small-businesses</link>
+  <author>Neal Freyman</author>
+  <categories>small biz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/warren-buffett-david-solomon-urge-congress-extend-ppp-small-businesses</guid>
+  <pubDate>Tue, 15 Dec 2020 14:56:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Anna Wintour Promoted at Condé Nast, Again</title>
+  <description>&lt;img src='https://media.giphy.com/media/l46CAeMR1XVgrpY5O/giphy.gif'&gt;&lt;br/&gt;  The backstory: Wintour became U.S. Vogue editor in 1988, then added the "artistic director" title in 2014.   Wintour apologized for her role in sidelining Black creators in June. CEO Roger Lynch plans to lean on 1) digital video and 2) paywalls to reach profitability.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/15/anna-wintour-promoted-cond-nast</link>
+  <author>Eliza Carter</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/anna-wintour-promoted-cond-nast</guid>
+  <pubDate>Tue, 15 Dec 2020 14:56:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>President-elect Biden Taps Pete Buttigieg for Transportation Secretary</title>
+  <description>&lt;img src='https://media.giphy.com/media/Qve6HBxgvPw3BCdsFF/giphy.gif'&gt;&lt;br/&gt;Buttigieg endorsed Biden and helped him raise money, despite Biden having run an ad mocking Buttigieg's relatively paltry experience.     More broadly, Buttigieg will manage a nearly $90 billion budget, plus oversee the agencies that regulate railroads, trucking, and aviation.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/15/presidentelect-biden-taps-pete-buttigieg-transportation-secretary</link>
+  <author>Eliza Carter</author>
+  <categories>government</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/presidentelect-biden-taps-pete-buttigieg-transportation-secretary</guid>
+  <pubDate>Tue, 15 Dec 2020 14:56:10 -0800</pubDate>
+ </item>
  <item>
   <title>Amazon Owned Zoox Unveils Autonomous Robotaxi</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3425/zoox_autonomous_robotaxi.jpg'&gt;&lt;br/&gt;It’s fast(ish): Topping out at 75 mph, it’s the speediest robotaxi in the industry. But for now, Zoox is 100% focused on people, not packages. “In a nutshell, we want to eventually move people around a city,” CEO Aicha Evans told journalist Kara Swisher in an interview.</description>
@@ -334,42 +370,6 @@
   <categories>covid-19</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/fda-approves-pfizerbiontech-vaccine-raising-questions-counts-essential?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 11 Dec 2020 03:01:23 -0800</pubDate>
- </item>
- <item>
-  <title>FDA Approves Pfizer-BioNTech Vaccine, Raising Questions Over Who Counts as Essential</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3380/covid_shot_line.jpg'&gt;&lt;br/&gt;    Now comes the hard part  Pfizer, BioNTech, and other manufacturers have generated lifesaving products at a breathtaking speed...   Bottom line: It will ultimately fall to the states to decide which workers are “essential” enough to receive the first, limited doses of the vaccine.   Some states have drafted plans for distribution, but many of them don’t match up.   Unblinding would hamstring the research process... Currently, the only clear directive is that healthcare workers and residents of long-term care facilities go first—and no industry reps dispute that.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/10/fda-approves-pfizerbiontech-vaccine-raising-questions-counts-essential</link>
-  <author>Eliza Carter</author>
-  <categories>covid-19</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/fda-approves-pfizerbiontech-vaccine-raising-questions-counts-essential</guid>
-  <pubDate>Thu, 10 Dec 2020 15:11:18 -0800</pubDate>
- </item>
- <item>
-  <title>Disney Announces Disney+ Content Slate</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2751/lion_king_meme.png'&gt;&lt;br/&gt;Zoom out: Disney’s streaming unit is growing rapidly, but still incurring big losses ($2.8 billion in fiscal year 2020) that analysts expect to peak in the next two years.   But Disney isn't planning to follow WarnerMedia down that path just yet. WarnerMedia is planning joint theater-HBO Max premieres next year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/10/disney-announces-disney-content-slate</link>
-  <author>Alex Hickey</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/disney-announces-disney-content-slate</guid>
-  <pubDate>Thu, 10 Dec 2020 15:11:18 -0800</pubDate>
- </item>
- <item>
-  <title>Jobless Claims, Food Insecurity Rise</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3180/usa.jpg'&gt;&lt;br/&gt;    Housing: A homebuying boom has added a collective $1 trillion in homeowner equity this year (an average of $17,000 per homeowner), according to CoreLogic. Applications from self-employed and gig workers for a federal program rose 48%, but that program expires Dec. 26.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/10/jobless-claims-food-insecurity-rise</link>
-  <author>Alex Hickey</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/jobless-claims-food-insecurity-rise</guid>
-  <pubDate>Thu, 10 Dec 2020 15:01:17 -0800</pubDate>
- </item>
- <item>
-  <title>How to Host a Company Holiday Party During Covid?</title>
-  <description>&lt;img src='https://media.giphy.com/media/3o7TKQO1dMAnxRXlPW/giphy.gif'&gt;&lt;br/&gt;   But ordinary times these are not.   One benefit of an online holiday party?   You’ll find everything you need right here. What is Slack’s video function but an opportunity for embarrassment waiting to happen? We aren’t so sure. “At corporate holiday parties, you typically get a handful of folks who end up drinking too much and do something embarrassing,” Ryan Costello of Event Farm told the WSJ.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/10/host-company-holiday-party-covid</link>
-  <author>Eliza Carter</author>
-  <categories>employers</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/host-company-holiday-party-covid</guid>
-  <pubDate>Thu, 10 Dec 2020 14:41:15 -0800</pubDate>
  </item>
 
 </channel>
