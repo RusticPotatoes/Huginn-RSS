@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/15/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/16/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/15</link>
- <lastBuildDate>Tue, 15 Dec 2020 15:48:17 -0800</lastBuildDate>
- <pubDate>Tue, 15 Dec 2020 15:48:17 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/16</link>
+ <lastBuildDate>Wed, 16 Dec 2020 03:03:15 -0800</lastBuildDate>
+ <pubDate>Wed, 16 Dec 2020 03:03:15 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Nickelodeon to Air NFL Wild Card Game</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3430/nickelodeon.png'&gt;&lt;br/&gt;  Food for thought: Who makes your all-Nickelodeon football roster?</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/15/nickelodeon-air-nfl-wild-card-game?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/nickelodeon-air-nfl-wild-card-game?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 16 Dec 2020 03:01:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>President-elect Biden Taps Pete Buttigieg for Transportation Secretary</title>
+  <description>&lt;img src='https://media.giphy.com/media/Qve6HBxgvPw3BCdsFF/giphy.gif'&gt;&lt;br/&gt;Buttigieg endorsed Biden and helped him raise money, despite Biden having run an ad mocking Buttigieg's relatively paltry experience.     More broadly, Buttigieg will manage a nearly $90 billion budget, plus oversee the agencies that regulate railroads, trucking, and aviation.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/15/presidentelect-biden-taps-pete-buttigieg-transportation-secretary?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>government</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/presidentelect-biden-taps-pete-buttigieg-transportation-secretary?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 16 Dec 2020 03:01:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>EU Unveils Regulations Targeting Big Tech</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1823/big_tech_under_the_antitrust_spotlight.jpg'&gt;&lt;br/&gt;The walls are closing in This week, the FTC ordered top U.S. tech companies to explain their user data practices, China fined its own tech leaders Alibaba and Tencent over antitrust violations, and the UK proposed fines of up to 10% of global revenue if tech giants don't remove illegal content.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/15/eu-unveils-regulations-targeting-big-tech?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/eu-unveils-regulations-targeting-big-tech?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 16 Dec 2020 03:01:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Anna Wintour Promoted at Condé Nast, Again</title>
+  <description>&lt;img src='https://media.giphy.com/media/l46CAeMR1XVgrpY5O/giphy.gif'&gt;&lt;br/&gt;  The backstory: Wintour became U.S. Vogue editor in 1988, then added the "artistic director" title in 2014.   Wintour apologized for her role in sidelining Black creators in June. CEO Roger Lynch plans to lean on 1) digital video and 2) paywalls to reach profitability.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/15/anna-wintour-promoted-cond-nast?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/anna-wintour-promoted-cond-nast?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 16 Dec 2020 03:01:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Warren Buffett, David Solomon Urge Congress to Extend PPP for Small Businesses</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3431/warren_buffett.jpg'&gt;&lt;br/&gt;  PPP has been criticized for fraud and not actually going to small businesses. It's a $525 billion government program intended to help small businesses keep workers on payroll. In an interview with CNBC yesterday morning, legendary investor Warren Buffett urged Congress to pass legislation to help small businesses stay afloat. Help could be on the way if Congress gets the job done.   A real-world example: This summer, American Airlines was able to raise $2.5 billion from selling bonds even as it was bleeding $58 million/day.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/15/warren-buffett-david-solomon-urge-congress-extend-ppp-small-businesses?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>small biz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/warren-buffett-david-solomon-urge-congress-extend-ppp-small-businesses?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 16 Dec 2020 03:01:13 -0800</pubDate>
+ </item>
  <item>
   <title>Christmas Markets Need a Christmas Miracle</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3429/santa_claus.jpg'&gt;&lt;br/&gt;  The situation is even tougher for vendors at San Francisco's Dickens Fair, which is a historic market that requires vendors to meet certain standards of "authenticity." His experience implementing health and safety protocols at the flea market helped him open the holiday market in-person safely. Michael Berman, who created the market 16 years ago, also runs D.C.'s Eastern Market and had to adapt this spring to pandemic-era guidelines. While the Christkindlmarket in Chicago is showcasing about 50 exhibitors online (close to the number it welcomed at its in-person market), most are "hanging on for dear life," according to Kate Bleeker, director of expansion and market development.   Vendors need help Small businesses that sell at markets often depend on a handful of in-person events for the majority of their annual sales. In San Francisco, the Great Dickens Christmas Fair also canceled its in-person market and set up the Dickens Fair at Home with an online shop and virtual experiences.   At Bryant Park, foot traffic and sales are estimated at a third of previous years’ levels, and Vagianos said vendors are worried."    But this year, the markets in D.C., San Francisco, and NYC currently have anywhere from a third to half the typical number of vendors exhibiting.   After watching in-person events get postponed the start of the pandemic and reconstitute on Zoom over the summer, Christmas markets began having tough conversations—and we're not talking about the final design for the collectible 2020 candle holder.   Other markets decided to open...</description>
@@ -325,51 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/hyundai-acquires-boston-dynamics-robot-dogs-11-billion</guid>
   <pubDate>Fri, 11 Dec 2020 14:36:08 -0800</pubDate>
- </item>
- <item>
-  <title>Corporations Across Sectors Prepare to Make and Distribute the Vaccine</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3396/cargo_hold.jpg'&gt;&lt;br/&gt;  Moderna did just $60 million in revenue last year. Pfizer and Moderna are expected to generate $32 billion in Covid-19 vaccine sales in 2021, according to Wall Street forecasts.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/11/corporations-across-sectors-prepare-make-distribute-vaccine</link>
-  <author>Neal Freyman</author>
-  <categories>public-health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/corporations-across-sectors-prepare-make-distribute-vaccine</guid>
-  <pubDate>Fri, 11 Dec 2020 14:21:18 -0800</pubDate>
- </item>
- <item>
-  <title>Finance Bosses Look Beyond Wall Street to Florida</title>
-  <description>&lt;img src='https://media.giphy.com/media/3o7TKT7gSMOT8Thtss/giphy.gif'&gt;&lt;br/&gt;  Yesterday, Ken Moelis, the chairman and CEO of New York investment bank Moelis &amp; Co., told Bloomberg he wouldn't stop his employees from moving to Florida.   It’s not just finance… And it’s not just New York bleeding businesses. And if that talent wants to do it in Florida, that’s where we’ll support them.”   Right on cue, software giant Oracle said yesterday it was moving its HQ from Redwood City, CA, to Austin, TX.   It’s not exactly a secret that Florida is warmer than New York, boasts a cheaper cost of living, and has world-class institutions like Publix.     Why now?</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/11/finance-bosses-look-beyond-wall-street-florida</link>
-  <author>Neal Freyman</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/finance-bosses-look-beyond-wall-street-florida</guid>
-  <pubDate>Fri, 11 Dec 2020 14:21:18 -0800</pubDate>
- </item>
- <item>
-  <title>How to Host a Company Holiday Party During Covid?</title>
-  <description>&lt;img src='https://media.giphy.com/media/3o7TKQO1dMAnxRXlPW/giphy.gif'&gt;&lt;br/&gt;   But ordinary times these are not.   One benefit of an online holiday party?   You’ll find everything you need right here. What is Slack’s video function but an opportunity for embarrassment waiting to happen? We aren’t so sure. “At corporate holiday parties, you typically get a handful of folks who end up drinking too much and do something embarrassing,” Ryan Costello of Event Farm told the WSJ.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/10/host-company-holiday-party-covid?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>employers</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/host-company-holiday-party-covid?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 11 Dec 2020 03:01:23 -0800</pubDate>
- </item>
- <item>
-  <title>Jobless Claims, Food Insecurity Rise</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3180/usa.jpg'&gt;&lt;br/&gt;    Housing: A homebuying boom has added a collective $1 trillion in homeowner equity this year (an average of $17,000 per homeowner), according to CoreLogic. Applications from self-employed and gig workers for a federal program rose 48%, but that program expires Dec. 26.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/10/jobless-claims-food-insecurity-rise?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/jobless-claims-food-insecurity-rise?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 11 Dec 2020 03:01:23 -0800</pubDate>
- </item>
- <item>
-  <title>Disney Announces Disney+ Content Slate</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2751/lion_king_meme.png'&gt;&lt;br/&gt;Zoom out: Disney’s streaming unit is growing rapidly, but still incurring big losses ($2.8 billion in fiscal year 2020) that analysts expect to peak in the next two years.   But Disney isn't planning to follow WarnerMedia down that path just yet. WarnerMedia is planning joint theater-HBO Max premieres next year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/10/disney-announces-disney-content-slate?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/10/disney-announces-disney-content-slate?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 11 Dec 2020 03:01:23 -0800</pubDate>
  </item>
 
 </channel>
