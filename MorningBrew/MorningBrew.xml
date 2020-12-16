@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/16</link>
- <lastBuildDate>Wed, 16 Dec 2020 03:03:15 -0800</lastBuildDate>
- <pubDate>Wed, 16 Dec 2020 03:03:15 -0800</pubDate>
+ <lastBuildDate>Wed, 16 Dec 2020 12:28:11 -0800</lastBuildDate>
+ <pubDate>Wed, 16 Dec 2020 12:28:11 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew’s Bookshelf: Holiday Gift Guide</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3447/holiday_books.jpg'&gt;&lt;br/&gt;  Henry Stockwell, copywriter: E: A Novel by Matt Beaumont This novel is really just a collection of fake emails from a fictional London ad agency at the start of the 21st century, when I guess ad agencies still operated somewhat like Mad Men?   Milo Booke, product manager: One Billion Americans by Matthew Yglesias  Yglesias lays out a vision of an America that reorients its policies and culture toward growing our population massively, giving us more economic and diplomatic heft and influence in a world of other ascendant global powers.   Mainly, this book takes anime seriously as a “media success story,” just as companies like Netflix are starting to do.   Eliza Carter, daily newsletter writer: Billion Dollar Loser by Reeves Wiedeman  You know the rise and fall of WeWork was nuts. If you’re a movie buff, this is a must read. Hayden Field, Emerging Tech Brew writer: Uncanny Valley by Anna Wiener  A beautifully-written memoir about the author’s move from the New York publishing industry to the Silicon Valley tech world. This is the main question asked throughout the book and I believe that it guides the reader to find that answer. Buy it here. How much of it is what we really know and want versus what’s taught to us?   Kate Noel, VP &amp; head of people ops: Untamed by Glennon Doyle  A memoir that really peels back the layers of what it means to be a woman, mother, and friend in today’s society. But this up-close account from NYMag reporter Reeves Wiedeman reveals the nuttery to be even nuttier than you imagined.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/16/brews-bookshelf-holiday-gift-guide</link>
+  <author>Alex Hickey</author>
+  <categories>books</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/16/brews-bookshelf-holiday-gift-guide</guid>
+  <pubDate>Wed, 16 Dec 2020 12:26:09 -0800</pubDate>
+ </item>
  <item>
   <title>Nickelodeon to Air NFL Wild Card Game</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3430/nickelodeon.png'&gt;&lt;br/&gt;  Food for thought: Who makes your all-Nickelodeon football roster?</description>
@@ -361,15 +370,6 @@
   <categories>media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/sony-buys-crunchyroll-consolidates-big-business-bringing-japanese-anime-western-viewers</guid>
   <pubDate>Fri, 11 Dec 2020 14:46:10 -0800</pubDate>
- </item>
- <item>
-  <title>Hyundai Acquires Boston Dynamics and Its Robot Dogs for $1.1 Billion</title>
-  <description>&lt;img src='https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif'&gt;&lt;br/&gt;  Some of the sectors Boston Dynamics’s tech might help with one day: self-driving vehicles, smart factories, and healthcare.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/11/hyundai-acquires-boston-dynamics-robot-dogs-11-billion</link>
-  <author>Jamie Wilde</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/hyundai-acquires-boston-dynamics-robot-dogs-11-billion</guid>
-  <pubDate>Fri, 11 Dec 2020 14:36:08 -0800</pubDate>
  </item>
 
 </channel>
