@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/17</link>
- <lastBuildDate>Thu, 17 Dec 2020 03:03:19 -0800</lastBuildDate>
- <pubDate>Thu, 17 Dec 2020 03:03:19 -0800</pubDate>
+ <lastBuildDate>Thu, 17 Dec 2020 15:04:10 -0800</lastBuildDate>
+ <pubDate>Thu, 17 Dec 2020 15:04:10 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Swedish King Says His Country "Failed" Pandemic Response</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3459/king_carl_xvi_gustaf.jpg'&gt;&lt;br/&gt;Yesterday, Sweden's King Carl XVI Gustaf said his country "failed" its pandemic response.     Refresher: While other countries enacted strict lockdowns when the pandemic began, Sweden gambled on an open economy and voluntary guidelines, with the goal of eventually reaching herd immunity. If it's approved, Swedish healthcare workers get dibs around Christmas.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/17/swedish-king-says-country-failed-pandemic-response</link>
+  <author>Alex Hickey</author>
+  <categories>public health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/17/swedish-king-says-country-failed-pandemic-response</guid>
+  <pubDate>Thu, 17 Dec 2020 15:01:09 -0800</pubDate>
+ </item>
  <item>
   <title>Japanese Appliance Startup Pops 88% in Public Market Debut</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3449/balmuda_toaster.jpeg'&gt;&lt;br/&gt;    Bottom line: There wasn't a market for high-end toasters until Balmuda showed what was possible. It comes with a little teaspoon of water, which helps seal in moisture. That sexy little oven above will set you back $224, and Balmuda’s “The Gohan” rice cooker costs $400.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>healthcare</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/first-covid19-vaccines-delivered</guid>
-  <pubDate>Sun, 13 Dec 2020 16:36:11 -0800</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: Tesla's Grand Entrance and Another Vaccine</title>
-  <description>&lt;img src='https://media.giphy.com/media/9kSH36D2DtFOU/giphy.gif'&gt;&lt;br/&gt;   Everything else: Christopher Nolan's Tenet will be released digitally on Tuesday.    Tesla gets promoted: On Friday, Elon Musk's $578 billion electric automaker will join the S&amp;P 500 index. Friday is National Ugly Sweater Day. A major snowstorm could hit the East Coast mid-week.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/13/week-ahead-teslas-grand-entrance-another-vaccine</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/week-ahead-teslas-grand-entrance-another-vaccine</guid>
   <pubDate>Sun, 13 Dec 2020 16:36:11 -0800</pubDate>
  </item>
 
