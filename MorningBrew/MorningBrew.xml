@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/16/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/17/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/17/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/16</link>
- <lastBuildDate>Wed, 16 Dec 2020 14:54:10 -0800</lastBuildDate>
- <pubDate>Wed, 16 Dec 2020 14:54:10 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/17</link>
+ <lastBuildDate>Thu, 17 Dec 2020 03:03:19 -0800</lastBuildDate>
+ <pubDate>Thu, 17 Dec 2020 03:03:19 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Japanese Appliance Startup Pops 88% in Public Market Debut</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3449/balmuda_toaster.jpeg'&gt;&lt;br/&gt;    Bottom line: There wasn't a market for high-end toasters until Balmuda showed what was possible. It comes with a little teaspoon of water, which helps seal in moisture. That sexy little oven above will set you back $224, and Balmuda’s “The Gohan” rice cooker costs $400.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/16/japanese-appliance-startup-pops-88-public-market-debut?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>startup</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/16/japanese-appliance-startup-pops-88-public-market-debut?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 17 Dec 2020 03:01:16 -0800</pubDate>
+ </item>
+ <item>
+  <title>Massachusetts Takes Aim at Robinhood for Failing to Protect its Customers</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o6wrpEqt4VpwonyNi/giphy.gif'&gt;&lt;br/&gt;Yesterday, Massachusetts securities regulators filed a complaint against the popular stock trading platform Robinhood for prioritizing “its revenue over the best interest of its customers,” according to documents reviewed by the WSJ.     Robinhood’s easy-to-navigate platform has attracted over 13 million insanely active traders.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/16/massachusetts-takes-aim-robinhood-failing-protect-customers?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>legal</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/16/massachusetts-takes-aim-robinhood-failing-protect-customers?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 17 Dec 2020 03:01:16 -0800</pubDate>
+ </item>
+ <item>
+  <title>U.S. Labels Vietnam, Switzerland Currency Manipulators</title>
+  <description>&lt;img src='https://media.giphy.com/media/lptjRBxFKCJmFoibP3/giphy.gif'&gt;&lt;br/&gt;Yesterday, the U.S. Treasury labeled the European country and Vietnam currency manipulators.   Why it matters: Labeling countries as currency manipulators is rarer than a Federer two-handed backhand, and it reflects the tougher trade stance taken by the Trump administration toward both allies and rivals.   What is currency manipulation?</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/16/us-labels-vietnam-switzerland-currency-manipulators?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>trade</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/16/us-labels-vietnam-switzerland-currency-manipulators?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 17 Dec 2020 03:01:16 -0800</pubDate>
+ </item>
+ <item>
+  <title>Texas Attorney General Leads Antitrust Suit Against Google Focusing on its Ad Business</title>
+  <description>&lt;img src='https://media.giphy.com/media/3oriffhhxhmuQP2Xgk/giphy.gif'&gt;&lt;br/&gt;  The suit claims that Google is the Joey Chestnut to the digital advertising industry's plate of hot dogs.   Yesterday, a group of state attorneys general led by Texas said they're taking legal action against Google for, you guessed it, engaging in anticompetitive practices.   Zoom out: If this feels like déjà sue, you’d be correct.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/16/texas-attorney-general-leads-antitrust-suit-google-focusing-ad-business?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>antitrust</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/16/texas-attorney-general-leads-antitrust-suit-google-focusing-ad-business?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 17 Dec 2020 03:01:16 -0800</pubDate>
+ </item>
+ <item>
+  <title>Second Stimulus Measure is Reportedly Back on the Table. Could it Finally Happen?</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3452/stimulus.jpg'&gt;&lt;br/&gt;Sophie Turner = a second stimulus package.   But if there are any snags, votes could spill into the weekend.   Looking ahead... At the conclusion of the Fed's two-day meeting, the central bank said it will keep interest rates near zero and keep buying bonds until the U.S. reaches full employment and inflation settles at 2%.   Fed Chair Jerome Powell is trying to do his part to juice the economy. the government will run out of money at midnight on Friday without a spending bill.   Also...</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/16/second-stimulus-measure-reportedly-back-table-finally-happen?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/16/second-stimulus-measure-reportedly-back-table-finally-happen?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 17 Dec 2020 03:01:16 -0800</pubDate>
+ </item>
  <item>
   <title>Massachusetts Takes Aim at Robinhood for Failing to Protect its Customers</title>
   <description>&lt;img src='https://media.giphy.com/media/3o6wrpEqt4VpwonyNi/giphy.gif'&gt;&lt;br/&gt;  Robinhood’s easy-to-navigate platform has attracted over 13 million insanely active traders. Yesterday, Massachusetts securities regulators filed a complaint against the popular stock trading platform Robinhood for prioritizing “its revenue over the best interest of its customers,” according to documents reviewed by the WSJ.</description>
@@ -325,51 +370,6 @@
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/week-ahead-teslas-grand-entrance-another-vaccine</guid>
   <pubDate>Sun, 13 Dec 2020 16:36:11 -0800</pubDate>
- </item>
- <item>
-  <title>Kevin From 'The Office' Will Bring in More Than $1 Million on Cameo This Year</title>
-  <description>&lt;img src='https://media.giphy.com/media/11zU4IDJeg75Sg/giphy.gif'&gt;&lt;br/&gt;But Galanis thinks President Trump would crush Dobrik if he joined Cameo. Since he charges $195/video, we estimate Baumgartner will have averaged at least 14 videos per day in 2020.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/14/kevin-office-will-bring-1-million-cameo-year</link>
-  <author>Neal Freyman</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/kevin-office-will-bring-1-million-cameo-year</guid>
-  <pubDate>Sun, 13 Dec 2020 16:36:11 -0800</pubDate>
- </item>
- <item>
-  <title>Your Candy Bar Has a Dark Secret</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3391/chocolate.jpg'&gt;&lt;br/&gt;  Originally filed in 2005, the case alleges the companies violated international laws against child slavery." Nestlé and Cargill say they've made efforts to eliminate child labor from supply chains. The chocolate supply chain is riddled with child labor.    That's one of the problems with the cocoa supply chain.   An October report from the Labor Department estimates ~1.6 million children are working on cocoa farms. A decision on the side of Nestlé and Cargill could affect future human rights cases brought under the ATS.    This case could have big implications for corporate liability The case centers on the Alien Tort Statute (ATS), a provision nearly as old as the U.S. that provides a path for foreign nationals to sue over violations of international law or U.S. treaties abroad in American courts.   This wasn't the Court's first dance with ATS.   They won't have to worry...   Ex.: The ATS has been invoked in conversations around corporate liability for supply chains linked to imprisoned Uighur Muslims in China."   While the justices weren't convinced that ATS was the right statute to use in pursuit of this case...</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/13/candy-bar-dark-secret</link>
-  <author>Alex Hickey</author>
-  <categories>big-deal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/candy-bar-dark-secret</guid>
-  <pubDate>Sat, 12 Dec 2020 21:06:11 -0800</pubDate>
- </item>
- <item>
-  <title>Hyundai Acquires Boston Dynamics and Its Robot Dogs for $1.1 Billion</title>
-  <description>&lt;img src='https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif'&gt;&lt;br/&gt;  Some of the sectors Boston Dynamics’s tech might help with one day: self-driving vehicles, smart factories, and healthcare.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/11/hyundai-acquires-boston-dynamics-robot-dogs-11-billion?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/hyundai-acquires-boston-dynamics-robot-dogs-11-billion?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 12 Dec 2020 03:01:11 -0800</pubDate>
- </item>
- <item>
-  <title>The Popping IPO Market Could Be “Broken”</title>
-  <description>&lt;img src='https://media.giphy.com/media/31q2ecYvWjcYsWthyQ/giphy.gif'&gt;&lt;br/&gt;In 2019, just three newly public companies did.   For Chesky, the gap between Airbnb’s debut share price of $68 and the $139/share it actually opened at translates to billions of dollars of missed opportunity (had the company initially sold its shares at that higher price). Plus, these first-day pops can make shares look soggy later.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/11/popping-ipo-market-broken?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/popping-ipo-market-broken?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 12 Dec 2020 03:01:11 -0800</pubDate>
- </item>
- <item>
-  <title>Short Sellers on Pace for Worst Year Ever</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3395/bro_meme.jpg'&gt;&lt;br/&gt;Two of the most popular targets for short sellers, Moderna and Tesla, have gained 702% and 629% this year, respectively, wiping out short sellers’ March profits.   A quick refresher: Short sellers make money when a company loses value.   But it’s been nothing but pain ever since.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/11/short-sellers-pace-worst-year-ever?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/11/short-sellers-pace-worst-year-ever?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 12 Dec 2020 03:01:11 -0800</pubDate>
  </item>
 
 </channel>
