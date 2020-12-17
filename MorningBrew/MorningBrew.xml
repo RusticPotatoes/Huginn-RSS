@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/17</link>
- <lastBuildDate>Thu, 17 Dec 2020 15:04:10 -0800</lastBuildDate>
- <pubDate>Thu, 17 Dec 2020 15:04:10 -0800</pubDate>
+ <lastBuildDate>Thu, 17 Dec 2020 15:14:09 -0800</lastBuildDate>
+ <pubDate>Thu, 17 Dec 2020 15:14:09 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Coinbase to Go Public in a Major Boost to Crypto</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3457/coinbase_ipo.jpg'&gt;&lt;br/&gt;  There are a couple major unknowns  Coinbase hasn’t announced 1) which exchange it will list on or 2) how the IPO will be structured. Yesterday, crypto exchange Coinbase filed paperwork to go public with the SEC.   This is really a story about crypto's glow-up  Cryptocurrencies were once the Gunther of the financial world because of their volatility and murky-at-best legal status.   The rundown: Coinbase was founded in 2012 by Brian Armstrong and Fred Ehrsam, and has since grown from a bitcoin exchange into one of the foremost crypto companies.   </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/17/coinbase-go-public-major-boost-crypto</link>
+  <author>Eliza Carter</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/17/coinbase-go-public-major-boost-crypto</guid>
+  <pubDate>Thu, 17 Dec 2020 15:11:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>Walmart to Debut Shoppable TikTok Content</title>
+  <description>&lt;img src='https://media.giphy.com/media/l0HlTQ7X0tigs8vJu/giphy.gif'&gt;&lt;br/&gt;How it works:  Ten of the biggest TikTok creators, including Michael Le and Taylor Hage, will display Walmart's fashion items in a livestream on its profile.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/17/walmart-debut-shoppable-tiktok-content</link>
+  <author>Eliza Carter</author>
+  <categories>e commerce</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/17/walmart-debut-shoppable-tiktok-content</guid>
+  <pubDate>Thu, 17 Dec 2020 15:11:18 -0800</pubDate>
+ </item>
  <item>
   <title>Swedish King Says His Country "Failed" Pandemic Response</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3459/king_carl_xvi_gustaf.jpg'&gt;&lt;br/&gt;Yesterday, Sweden's King Carl XVI Gustaf said his country "failed" its pandemic response.     Refresher: While other countries enacted strict lockdowns when the pandemic began, Sweden gambled on an open economy and voluntary guidelines, with the goal of eventually reaching herd immunity. If it's approved, Swedish healthcare workers get dibs around Christmas.</description>
@@ -352,24 +370,6 @@
   <categories>election</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/george-senate-races-attracting-attention-corporate-america</guid>
   <pubDate>Sun, 13 Dec 2020 16:41:15 -0800</pubDate>
- </item>
- <item>
-  <title>Roblox, Affirm Delay IPOs to Early 2021</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2750/roblox.jpg'&gt;&lt;br/&gt;And even companies that make no money are soaring: At least three electric vehicle companies worth more than $2 billion have no revenue. Recent IPO trends may lead them to sell more shares or price them differently. Affirm and Roblox were hoping for valuations as high as $10 billion and $8 billion, respectively.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/13/roblox-affirm-delay-ipos-early-2021</link>
-  <author>Alex Hickey</author>
-  <categories>market</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/roblox-affirm-delay-ipos-early-2021</guid>
-  <pubDate>Sun, 13 Dec 2020 16:41:15 -0800</pubDate>
- </item>
- <item>
-  <title>The First Covid-19 Vaccines Are Being Delivered</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3404/pfizer_vaccine.jpg'&gt;&lt;br/&gt;Altogether, around 3 million doses will snake their way to 636 distribution centers across the country in the coming days.   The vaccine requires two shots a month apart, so officials are saving the second half of the ~6.4 million doses planned for the first wave to send out in a few weeks.   Supply chain: In 2009, delivery timetables for the swine flu vaccine shifted regularly. It's expected to get approval. The remaining challenges Spoilage: Pfizer's vaccine needs to maintain -94°F, and although the company has equipped shipping containers with dry ice and GPS-enabled temperature sensors, it's expected that some doses won't survive the journey.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/13/first-covid19-vaccines-delivered</link>
-  <author>Alex Hickey</author>
-  <categories>healthcare</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/first-covid19-vaccines-delivered</guid>
-  <pubDate>Sun, 13 Dec 2020 16:36:11 -0800</pubDate>
  </item>
 
 </channel>
