@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/18</link>
- <lastBuildDate>Fri, 18 Dec 2020 14:58:13 -0800</lastBuildDate>
- <pubDate>Fri, 18 Dec 2020 14:58:13 -0800</pubDate>
+ <lastBuildDate>Fri, 18 Dec 2020 15:03:17 -0800</lastBuildDate>
+ <pubDate>Fri, 18 Dec 2020 15:03:17 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>OnlyFans Makes Money Moves Amid the Pandemic</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3473/cardi_b.jpg'&gt;&lt;br/&gt;Of that $400 million in revenue, OnlyFans will make $300 million profit, per The Information.   Creators on OnlyFans will generate more than $2 billion in sales this year, Bloomberg reports.   Once known exclusively for NSFW content creators, OnlyFans has been flooded by celebrities who went looking for a new revenue stream when concerts, studio production, and other forms of live entertainment were put on pause.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/18/onlyfans-makes-money-moves-amid-pandemic</link>
+  <author>Jamie Wilde</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/18/onlyfans-makes-money-moves-amid-pandemic</guid>
+  <pubDate>Fri, 18 Dec 2020 15:01:14 -0800</pubDate>
+ </item>
  <item>
   <title>Covid-19 Baby Bust: U.S. Could See Up to 500k Fewer Births Next Year</title>
   <description>&lt;img src='https://media.giphy.com/media/RK5LYiBbWw1HuBCxq7/giphy.gif'&gt;&lt;br/&gt;Other variables weighing on parents: Reduced access to reproductive services  Fears about coronavirus affecting a fetus  Being home with existing children 24/7 (sounds mean, but if we had to spend the pandemic with our 13yo selves...   Okay, maybe the pandemic and accompanying recession are a better explanation.</description>
@@ -361,15 +370,6 @@
   <categories>energy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/exxon-mobil-pledges-emission-cuts?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 15 Dec 2020 03:01:14 -0800</pubDate>
- </item>
- <item>
-  <title>Exxon Mobil Pledges Emission Cuts</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3421/exxon_green.jpg'&gt;&lt;br/&gt;  Looking ahead…while fossil fuel companies struggle, a new guard of clean energy giants is beating them to investor dollars and ushering in energy’s “NextEra.”   While some are making efforts, including net-zero emissions targets and diversifying into renewables, “there doesn't seem to be an oil major that's got it all figured out between the pandemic, cloudy demand and price outlooks, and the unknown path through a world getting a bit more serious about climate,” Axios writes. He’s pledged to rejoin the Paris Accord on Day 1, invest $2 trillion in clean energy, and get the U.S. on a path to net-zero carbon emissions “no later than 2050.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/14/exxon-mobil-pledges-emission-cuts</link>
-  <author>Alex Hickey</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/exxon-mobil-pledges-emission-cuts</guid>
-  <pubDate>Mon, 14 Dec 2020 14:57:15 -0800</pubDate>
  </item>
 
 </channel>
