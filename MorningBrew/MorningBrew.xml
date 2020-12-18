@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/18</link>
- <lastBuildDate>Fri, 18 Dec 2020 13:33:19 -0800</lastBuildDate>
- <pubDate>Fri, 18 Dec 2020 13:33:19 -0800</pubDate>
+ <lastBuildDate>Fri, 18 Dec 2020 14:53:16 -0800</lastBuildDate>
+ <pubDate>Fri, 18 Dec 2020 14:53:16 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Dating Apps See Increased Engagement But Struggle to Convert it to Dollars</title>
+  <description>&lt;img src='https://media.giphy.com/media/fWh7ETTpO6HhV1bYHQ/giphy.gif'&gt;&lt;br/&gt;  The top 20 dating apps have gained 1.5 million daily active users this year, according to Apptopia data from November. Users are active, active Video chatting on Bumble spiked 93% in the pandemic’s early days, while the average conversation length on Tinder rose 10%–30%.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/18/dating-apps-see-increased-engagement-struggle-convert-dollars</link>
+  <author>Toby Howell</author>
+  <categories>online dating</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/18/dating-apps-see-increased-engagement-struggle-convert-dollars</guid>
+  <pubDate>Fri, 18 Dec 2020 14:51:14 -0800</pubDate>
+ </item>
  <item>
   <title>Bitcoin Is All Grown Up</title>
   <description>&lt;img src='https://media.giphy.com/media/Vi5qBEpExoCmzEcDvF/giphy.gif'&gt;&lt;br/&gt;  Accumulation is the name of the game Around 62% of bitcoin in circulation hasn’t changed hands in over a year, a sign that fewer people are actively trading bitcoin, and more are holding onto it (HODL, if you will).    Inexperienced investors getting burned by altcoins (aka cryptocurrencies that aren’t bitcoin) is a familiar story. That’s because bitcoin isn’t being used as an intermediary to move capital into other “shitcoins.”       Searches for keyword "Bitcoin" via Google Trends Zoom out: A look at Google search data indicates interest by individual investors is far lower than  it was in 2017.   Investors have wisened up on altcoins Rewind to 2017. And publicly traded companies like Square and MicroStrategy have moved portions of their cash reserves into bitcoin.   Startups like Ryze and Swan help users accumulate bitcoin at regular intervals regardless of price, a classic investing strategy known as dollar-cost averaging (DCA).   Institutional investors have entered the chat In 2017, JPMorgan CEO Jamie Dimon called bitcoin a fraud and a bubble: “It’s worse than tulip bulbs.</description>
@@ -361,15 +370,6 @@
   <categories>adult</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/pornhub-bows-pressure-deletes-unverified-videos</guid>
   <pubDate>Mon, 14 Dec 2020 14:46:13 -0800</pubDate>
- </item>
- <item>
-  <title>Taking a Look at the Fallout from the SolarWinds Hack</title>
-  <description>&lt;img src='https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif'&gt;&lt;br/&gt;The hack was first identified last week by FireEye, a cybersecurity company that itself was hacked.   As for the identity of the hackers, multiple outlets say all signs point to a specific group of Russian state-backed hackers called “APT29” or “Cozy Bear.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/14/taking-look-fallout-solarwinds-hack</link>
-  <author>Toby Howell</author>
-  <categories>cybersecurity</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/taking-look-fallout-solarwinds-hack</guid>
-  <pubDate>Mon, 14 Dec 2020 14:41:14 -0800</pubDate>
  </item>
 
 </channel>
