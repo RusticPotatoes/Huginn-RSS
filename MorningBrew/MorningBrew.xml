@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/18</link>
- <lastBuildDate>Fri, 18 Dec 2020 15:03:17 -0800</lastBuildDate>
- <pubDate>Fri, 18 Dec 2020 15:03:17 -0800</pubDate>
+ <lastBuildDate>Fri, 18 Dec 2020 15:08:11 -0800</lastBuildDate>
+ <pubDate>Fri, 18 Dec 2020 15:08:11 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Crossword: Formula Fun</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2397/crossword.jpg'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/18/brew-crossword-formula-fun</link>
+  <author>Toby Howell</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/18/brew-crossword-formula-fun</guid>
+  <pubDate>Fri, 18 Dec 2020 15:06:10 -0800</pubDate>
+ </item>
  <item>
   <title>OnlyFans Makes Money Moves Amid the Pandemic</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3473/cardi_b.jpg'&gt;&lt;br/&gt;Of that $400 million in revenue, OnlyFans will make $300 million profit, per The Information.   Creators on OnlyFans will generate more than $2 billion in sales this year, Bloomberg reports.   Once known exclusively for NSFW content creators, OnlyFans has been flooded by celebrities who went looking for a new revenue stream when concerts, studio production, and other forms of live entertainment were put on pause.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>healthcare</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/us-healthcare-workers-receive-first-covid-vaccines?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 15 Dec 2020 03:01:14 -0800</pubDate>
- </item>
- <item>
-  <title>Exxon Mobil Pledges Emission Cuts</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3421/exxon_green.jpg'&gt;&lt;br/&gt;  Looking ahead…while fossil fuel companies struggle, a new guard of clean energy giants is beating them to investor dollars and ushering in energy’s “NextEra.”   While some are making efforts, including net-zero emissions targets and diversifying into renewables, “there doesn't seem to be an oil major that's got it all figured out between the pandemic, cloudy demand and price outlooks, and the unknown path through a world getting a bit more serious about climate,” Axios writes. Reduce overall emissions intensity by 15%–20% Halve methane emission intensity Emission “intensity”?</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/14/exxon-mobil-pledges-emission-cuts?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/exxon-mobil-pledges-emission-cuts?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 15 Dec 2020 03:01:14 -0800</pubDate>
  </item>
 
