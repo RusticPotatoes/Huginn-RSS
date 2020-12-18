@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/17/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/17/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/18/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/17</link>
- <lastBuildDate>Thu, 17 Dec 2020 15:53:18 -0800</lastBuildDate>
- <pubDate>Thu, 17 Dec 2020 15:53:18 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/18</link>
+ <lastBuildDate>Fri, 18 Dec 2020 03:04:12 -0800</lastBuildDate>
+ <pubDate>Fri, 18 Dec 2020 03:04:12 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Mortgage Rates Hit 15th Record Low This Year</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3179/housing_market.jpg'&gt;&lt;br/&gt;Compared to 2019, mortgage applications are up 26% and refinances 105%, per the Mortgage Bankers Association. FYI: Freddie Mac is a government-sponsored mortgage investor. But good luck getting your hands on cheap property: Surging home sales have squeezed supply and inflated prices.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/17/mortgage-rates-hit-15th-record-low-year?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>real estate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/17/mortgage-rates-hit-15th-record-low-year?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 18 Dec 2020 03:01:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>Swedish King Says His Country "Failed" Pandemic Response</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3459/king_carl_xvi_gustaf.jpg'&gt;&lt;br/&gt;Yesterday, Sweden's King Carl XVI Gustaf said his country "failed" its pandemic response.   Refresher: While other countries enacted strict lockdowns when the pandemic began, Sweden gambled on an open economy and voluntary guidelines, with the goal of eventually reaching herd immunity.   If it's approved, Swedish healthcare workers get dibs around Christmas.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/17/swedish-king-says-country-failed-pandemic-response?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>public health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/17/swedish-king-says-country-failed-pandemic-response?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 18 Dec 2020 03:01:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>Walmart to Debut Shoppable TikTok Content</title>
+  <description>&lt;img src='https://media.giphy.com/media/l0HlTQ7X0tigs8vJu/giphy.gif'&gt;&lt;br/&gt;How it works:  Ten of the biggest TikTok creators, including Michael Le and Taylor Hage, will display Walmart's fashion items in a livestream on its profile.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/17/walmart-debut-shoppable-tiktok-content?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>e commerce</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/17/walmart-debut-shoppable-tiktok-content?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 18 Dec 2020 03:01:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>Coinbase to Go Public in a Major Boost to Crypto</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3457/coinbase_ipo.jpg'&gt;&lt;br/&gt;Yesterday, crypto exchange Coinbase filed paperwork with the SEC to go public.   There are a couple major unknowns  Coinbase hasn’t announced 1) which exchange it will list on or 2) how the IPO will be structured.   This is really a story about crypto's glow-up  Cryptocurrencies were once the Gunther of the financial world because of their volatility and murky-at-best legal status.      Bitcoin, the largest cryptocurrency, is up over 200% on the year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/17/coinbase-go-public-major-boost-crypto?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/17/coinbase-go-public-major-boost-crypto?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 18 Dec 2020 03:01:09 -0800</pubDate>
+ </item>
  <item>
   <title>Mortgage Rates Hit 15th Record Low This Year</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3179/housing_market.jpg'&gt;&lt;br/&gt;</description>
@@ -333,42 +369,6 @@
   <author>Neal Freyman</author>
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/week-ahead-teslas-grand-entrance-another-vaccine?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 14 Dec 2020 03:01:11 -0800</pubDate>
- </item>
- <item>
-  <title>Kevin From 'The Office' Will Bring in More Than $1 Million on Cameo This Year</title>
-  <description>&lt;img src='https://media.giphy.com/media/11zU4IDJeg75Sg/giphy.gif'&gt;&lt;br/&gt;But Galanis thinks President Trump would crush Dobrik if he joined Cameo. Since he charges $195/video, we estimate Baumgartner will have averaged at least 14 videos per day in 2020.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/14/kevin-office-will-bring-1-million-cameo-year?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/kevin-office-will-bring-1-million-cameo-year?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 14 Dec 2020 03:01:11 -0800</pubDate>
- </item>
- <item>
-  <title>Roblox, Affirm Delay IPOs to Early 2021</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/2750/roblox.jpg'&gt;&lt;br/&gt;And even companies that make no money are soaring: At least three electric vehicle companies worth more than $2 billion have no revenue. Recent IPO trends may lead them to sell more shares or price them differently. Affirm and Roblox were hoping for valuations as high as $10 billion and $8 billion, respectively.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/13/roblox-affirm-delay-ipos-early-2021?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>market</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/roblox-affirm-delay-ipos-early-2021?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 14 Dec 2020 03:01:11 -0800</pubDate>
- </item>
- <item>
-  <title>George Senate Races Attracting Attention from Corporate America</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3405/georgia_gop_senate_candid.jpg'&gt;&lt;br/&gt;the vote is scheduled for Jan. 5, but in-person early voting starts today. Looking ahead... Its online fundraising platform processed nearly $112 million in donations from Nov. 4 to Nov. 23 (the GOP equivalent processed $55.6 million).</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/13/george-senate-races-attracting-attention-corporate-america?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>election</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/george-senate-races-attracting-attention-corporate-america?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 14 Dec 2020 03:01:11 -0800</pubDate>
- </item>
- <item>
-  <title>The First Covid-19 Vaccines Are Being Delivered</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3404/pfizer_vaccine.jpg'&gt;&lt;br/&gt;Altogether, around 3 million doses will snake their way to 636 distribution centers across the country in the coming days.   The vaccine requires two shots a month apart, so officials are saving the second half of the ~6.4 million doses planned for the first wave to send out in a few weeks.   Supply chain: In 2009, delivery timetables for the swine flu vaccine shifted regularly. It's expected to get approval. The remaining challenges Spoilage: Pfizer's vaccine needs to maintain -94°F, and although the company has equipped shipping containers with dry ice and GPS-enabled temperature sensors, it's expected that some doses won't survive the journey.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/13/first-covid19-vaccines-delivered?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>healthcare</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/first-covid19-vaccines-delivered?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 14 Dec 2020 03:01:11 -0800</pubDate>
  </item>
 
