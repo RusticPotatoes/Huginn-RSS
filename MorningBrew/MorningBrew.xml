@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/18</link>
- <lastBuildDate>Fri, 18 Dec 2020 03:04:12 -0800</lastBuildDate>
- <pubDate>Fri, 18 Dec 2020 03:04:12 -0800</pubDate>
+ <lastBuildDate>Fri, 18 Dec 2020 13:33:19 -0800</lastBuildDate>
+ <pubDate>Fri, 18 Dec 2020 13:33:19 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Bitcoin Is All Grown Up</title>
+  <description>&lt;img src='https://media.giphy.com/media/Vi5qBEpExoCmzEcDvF/giphy.gif'&gt;&lt;br/&gt;  Accumulation is the name of the game Around 62% of bitcoin in circulation hasn’t changed hands in over a year, a sign that fewer people are actively trading bitcoin, and more are holding onto it (HODL, if you will).    Inexperienced investors getting burned by altcoins (aka cryptocurrencies that aren’t bitcoin) is a familiar story. That’s because bitcoin isn’t being used as an intermediary to move capital into other “shitcoins.”       Searches for keyword "Bitcoin" via Google Trends Zoom out: A look at Google search data indicates interest by individual investors is far lower than  it was in 2017.   Investors have wisened up on altcoins Rewind to 2017. And publicly traded companies like Square and MicroStrategy have moved portions of their cash reserves into bitcoin.   Startups like Ryze and Swan help users accumulate bitcoin at regular intervals regardless of price, a classic investing strategy known as dollar-cost averaging (DCA).   Institutional investors have entered the chat In 2017, JPMorgan CEO Jamie Dimon called bitcoin a fraud and a bubble: “It’s worse than tulip bulbs.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/18/bitcoin-grown</link>
+  <author>Toby Howell</author>
+  <categories>big deal</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/18/bitcoin-grown</guid>
+  <pubDate>Fri, 18 Dec 2020 13:31:17 -0800</pubDate>
+ </item>
  <item>
   <title>Mortgage Rates Hit 15th Record Low This Year</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3179/housing_market.jpg'&gt;&lt;br/&gt;Compared to 2019, mortgage applications are up 26% and refinances 105%, per the Mortgage Bankers Association. FYI: Freddie Mac is a government-sponsored mortgage investor. But good luck getting your hands on cheap property: Surging home sales have squeezed supply and inflated prices.</description>
@@ -361,15 +370,6 @@
   <categories>cybersecurity</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/14/taking-look-fallout-solarwinds-hack</guid>
   <pubDate>Mon, 14 Dec 2020 14:41:14 -0800</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: Tesla's Grand Entrance and Another Vaccine</title>
-  <description>&lt;img src='https://media.giphy.com/media/9kSH36D2DtFOU/giphy.gif'&gt;&lt;br/&gt;   Everything else: Christopher Nolan's Tenet will be released digitally on Tuesday.    Tesla gets promoted: On Friday, Elon Musk's $578 billion electric automaker will join the S&amp;P 500 index. Friday is National Ugly Sweater Day. A major snowstorm could hit the East Coast mid-week.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/13/week-ahead-teslas-grand-entrance-another-vaccine?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/13/week-ahead-teslas-grand-entrance-another-vaccine?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 14 Dec 2020 03:01:11 -0800</pubDate>
  </item>
 
 </channel>
