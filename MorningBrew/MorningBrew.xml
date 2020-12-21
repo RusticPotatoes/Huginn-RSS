@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/20</link>
- <lastBuildDate>Sun, 20 Dec 2020 16:09:13 -0800</lastBuildDate>
- <pubDate>Sun, 20 Dec 2020 16:09:13 -0800</pubDate>
+ <lastBuildDate>Sun, 20 Dec 2020 16:34:11 -0800</lastBuildDate>
+ <pubDate>Sun, 20 Dec 2020 16:34:11 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>SolarWinds Hack: What We Know Now</title>
+  <description>&lt;img src='https://media.giphy.com/media/12bVDtXPOzYwda/giphy.gif'&gt;&lt;br/&gt;  Quick review: SolarWinds is a company that provides cybersecurity services.   In the past few days, more details about the massive Russia-linked hack of IT management software company SolarWinds have tumbled out. The affected networks will remain compromised as investigators assess the fallout, which could take months or even longer.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/21/solarwinds-hack-know-now</link>
+  <author>Eliza Carter</author>
+  <categories>cybersecurity</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/21/solarwinds-hack-know-now</guid>
+  <pubDate>Sun, 20 Dec 2020 16:31:09 -0800</pubDate>
+ </item>
  <item>
   <title>Christmas is here</title>
   <description>&lt;img src='https://media.giphy.com/media/AhQvSi0Kc0XbrS0B9C/giphy.gif'&gt;&lt;br/&gt;  The Brew’s schedule: We’ll be in your inbox every day this week except Christmas.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/eu-unveils-regulations-targeting-big-tech</guid>
-  <pubDate>Tue, 15 Dec 2020 14:56:10 -0800</pubDate>
- </item>
- <item>
-  <title>Warren Buffett, David Solomon Urge Congress to Extend PPP for Small Businesses</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3431/warren_buffett.jpg'&gt;&lt;br/&gt;  PPP has been criticized for fraud and not actually going to small businesses. It's a $525 billion government program intended to help small businesses keep workers on payroll. In an interview with CNBC yesterday morning, legendary investor Warren Buffett urged Congress to pass legislation to help small businesses stay afloat. Help could be on the way if Congress gets the job done.   A real-world example: This summer, American Airlines was able to raise $2.5 billion from selling bonds even as it was bleeding $58 million/day.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/15/warren-buffett-david-solomon-urge-congress-extend-ppp-small-businesses</link>
-  <author>Neal Freyman</author>
-  <categories>small biz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/warren-buffett-david-solomon-urge-congress-extend-ppp-small-businesses</guid>
   <pubDate>Tue, 15 Dec 2020 14:56:10 -0800</pubDate>
  </item>
 
