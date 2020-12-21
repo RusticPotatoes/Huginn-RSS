@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/20</link>
- <lastBuildDate>Sun, 20 Dec 2020 16:38:10 -0800</lastBuildDate>
- <pubDate>Sun, 20 Dec 2020 16:38:10 -0800</pubDate>
+ <lastBuildDate>Sun, 20 Dec 2020 16:43:16 -0800</lastBuildDate>
+ <pubDate>Sun, 20 Dec 2020 16:43:16 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Finally: Congress Agrees on a Follow-Up Stimulus Package</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3452/stimulus.jpg'&gt;&lt;br/&gt;   Added unemployment benefits of $300 per worker  $300 billion for the Paycheck Protection Program, which supports small businesses  A $15 billion injection to help airlines rehire over 32,000 workers who were furloughed in October, plus more for airports and air travel-related industries.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/21/finally-congress-agrees-followup-stimulus-package</link>
+  <author>Eliza Carter</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/21/finally-congress-agrees-followup-stimulus-package</guid>
+  <pubDate>Sun, 20 Dec 2020 16:41:15 -0800</pubDate>
+ </item>
  <item>
   <title>Tesla Joins the S&amp;P 500, Capping a Sensational Year for Elon Musk</title>
   <description>&lt;img src='https://media.giphy.com/media/l46C5r7CiQN5ox7MI/giphy.gif'&gt;&lt;br/&gt;could Tesla stock become... Tesla is not an ordinary stock For one, it’s absolutely humongous. With a market capitalization of $659 billion, Tesla will be the largest company to ever enter the S&amp;P 500.   More than $4.5 trillion is managed by index funds that track the S&amp;P 500. Today, electric automaker Tesla will join the U.S. stock market’s equivalent of Top 40 radio: the S&amp;P 500 index. What does it mean for the stock market?   Second, the stock is extremely volatile, meaning it’s prone to dramatic daily swings based on company news that might not be a huge deal.</description>
@@ -360,15 +369,6 @@
   <author>Eliza Carter</author>
   <categories>media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/anna-wintour-promoted-cond-nast?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 16 Dec 2020 03:01:13 -0800</pubDate>
- </item>
- <item>
-  <title>Warren Buffett, David Solomon Urge Congress to Extend PPP for Small Businesses</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3431/warren_buffett.jpg'&gt;&lt;br/&gt;  PPP has been criticized for fraud and not actually going to small businesses. It's a $525 billion government program intended to help small businesses keep workers on payroll. In an interview with CNBC yesterday morning, legendary investor Warren Buffett urged Congress to pass legislation to help small businesses stay afloat. Help could be on the way if Congress gets the job done.   A real-world example: This summer, American Airlines was able to raise $2.5 billion from selling bonds even as it was bleeding $58 million/day.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/15/warren-buffett-david-solomon-urge-congress-extend-ppp-small-businesses?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>small biz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/warren-buffett-david-solomon-urge-congress-extend-ppp-small-businesses?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 16 Dec 2020 03:01:13 -0800</pubDate>
  </item>
 
