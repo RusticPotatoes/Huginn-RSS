@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/20/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/21/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/20</link>
- <lastBuildDate>Sun, 20 Dec 2020 16:43:16 -0800</lastBuildDate>
- <pubDate>Sun, 20 Dec 2020 16:43:16 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/21</link>
+ <lastBuildDate>Mon, 21 Dec 2020 03:03:18 -0800</lastBuildDate>
+ <pubDate>Mon, 21 Dec 2020 03:03:18 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Christmas is here</title>
+  <description>&lt;img src='https://media.giphy.com/media/AhQvSi0Kc0XbrS0B9C/giphy.gif'&gt;&lt;br/&gt;  The Brew’s schedule: We’ll be in your inbox every day this week except Christmas.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/20/christmas?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/20/christmas?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 21 Dec 2020 03:01:16 -0800</pubDate>
+ </item>
+ <item>
+  <title>SolarWinds Hack: What We Know Now</title>
+  <description>&lt;img src='https://media.giphy.com/media/12bVDtXPOzYwda/giphy.gif'&gt;&lt;br/&gt;  Quick review: SolarWinds is a company that provides cybersecurity services.   In the past few days, more details about the massive Russia-linked hack of IT management software company SolarWinds have tumbled out. The affected networks will remain compromised as investigators assess the fallout, which could take months or even longer.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/21/solarwinds-hack-know-now?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>cybersecurity</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/21/solarwinds-hack-know-now?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 21 Dec 2020 03:01:16 -0800</pubDate>
+ </item>
+ <item>
+  <title>Cyberpunk 2077: What Went Wrong</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3477/cyberpunk.jpg'&gt;&lt;br/&gt;  The backstory: First announced in 2012, Cyberpunk 2077 was the crown jewel of Polish game studio CD Projekt Red. It promised exceptional customization features and an expansive dystopian universe with none other than Keanu Reeves at the center.   Both Sony and Microsoft are offering full refunds for copies purchased through their online stores.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/21/cyberpunk-2077-went-wrong?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>gaming</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/21/cyberpunk-2077-went-wrong?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 21 Dec 2020 03:01:16 -0800</pubDate>
+ </item>
+ <item>
+  <title>Congress Finally Agrees on a Follow-Up Stimulus Package</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3452/stimulus.jpg'&gt;&lt;br/&gt;   Added unemployment benefits of $300 per person  $300 billion for the Paycheck Protection Program, which supports small businesses  A $15 billion injection to help airlines rehire over 32,000 workers who were furloughed in October, plus more for airports and air travel-related industries.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/21/finally-congress-agrees-followup-stimulus-package?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/21/finally-congress-agrees-followup-stimulus-package?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 21 Dec 2020 03:01:16 -0800</pubDate>
+ </item>
+ <item>
+  <title>Tesla Joins S&amp;P 500, Capping Sensational Year for Elon Musk</title>
+  <description>&lt;img src='https://media.giphy.com/media/l46C5r7CiQN5ox7MI/giphy.gif'&gt;&lt;br/&gt;Tesla is not an ordinary stock For one, it’s absolutely humongous. With a market capitalization of $659 billion, Tesla will be the largest company to ever enter the S&amp;P 500. Looking ahead: Could Tesla stock become...   More than $4.5 trillion is managed by index funds that track the S&amp;P 500.   Third, for many years Tesla wasn’t profitable. What does it mean for the stock market? Today, electric automaker Tesla will join the U.S. stock market’s equivalent of Top 40 radio: the S&amp;P 500 index.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/20/tesla-joins-sp-500-capping-sensational-year-elon-musk?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/20/tesla-joins-sp-500-capping-sensational-year-elon-musk?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 21 Dec 2020 03:01:16 -0800</pubDate>
+ </item>
  <item>
   <title>Finally: Congress Agrees on a Follow-Up Stimulus Package</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3452/stimulus.jpg'&gt;&lt;br/&gt;   Added unemployment benefits of $300 per worker  $300 billion for the Paycheck Protection Program, which supports small businesses  A $15 billion injection to help airlines rehire over 32,000 workers who were furloughed in October, plus more for airports and air travel-related industries.</description>
@@ -325,51 +370,6 @@
   <categories>antitrust</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/16/texas-attorney-general-leads-antitrust-suit-google-focusing-ad-business</guid>
   <pubDate>Wed, 16 Dec 2020 14:36:14 -0800</pubDate>
- </item>
- <item>
-  <title>Brew’s Bookshelf: Holiday Gift Guide</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3447/holiday_books.jpg'&gt;&lt;br/&gt;  Henry Stockwell, copywriter: E: A Novel by Matt Beaumont This novel is really just a collection of fake emails from a fictional London ad agency at the start of the 21st century, when I guess ad agencies still operated somewhat like Mad Men?   Milo Booke, product manager: One Billion Americans by Matthew Yglesias  Yglesias lays out a vision of an America that reorients its policies and culture toward growing our population massively, giving us more economic and diplomatic heft and influence in a world of other ascendant global powers.   Mainly, this book takes anime seriously as a “media success story,” just as companies like Netflix are starting to do.   Eliza Carter, daily newsletter writer: Billion Dollar Loser by Reeves Wiedeman  You know the rise and fall of WeWork was nuts. If you’re a movie buff, this is a must read. Hayden Field, Emerging Tech Brew writer: Uncanny Valley by Anna Wiener  A beautifully-written memoir about the author’s move from the New York publishing industry to the Silicon Valley tech world. This is the main question asked throughout the book and I believe that it guides the reader to find that answer. Buy it here. How much of it is what we really know and want versus what’s taught to us?   Kate Noel, VP &amp; head of people ops: Untamed by Glennon Doyle  A memoir that really peels back the layers of what it means to be a woman, mother, and friend in today’s society. But this up-close account from NYMag reporter Reeves Wiedeman reveals the nuttery to be even nuttier than you imagined.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/16/brews-bookshelf-holiday-gift-guide</link>
-  <author>Alex Hickey</author>
-  <categories>books</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/16/brews-bookshelf-holiday-gift-guide</guid>
-  <pubDate>Wed, 16 Dec 2020 12:26:09 -0800</pubDate>
- </item>
- <item>
-  <title>Nickelodeon to Air NFL Wild Card Game</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3430/nickelodeon.png'&gt;&lt;br/&gt;  Food for thought: Who makes your all-Nickelodeon football roster?</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/15/nickelodeon-air-nfl-wild-card-game?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/nickelodeon-air-nfl-wild-card-game?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 16 Dec 2020 03:01:14 -0800</pubDate>
- </item>
- <item>
-  <title>President-elect Biden Taps Pete Buttigieg for Transportation Secretary</title>
-  <description>&lt;img src='https://media.giphy.com/media/Qve6HBxgvPw3BCdsFF/giphy.gif'&gt;&lt;br/&gt;Buttigieg endorsed Biden and helped him raise money, despite Biden having run an ad mocking Buttigieg's relatively paltry experience.     More broadly, Buttigieg will manage a nearly $90 billion budget, plus oversee the agencies that regulate railroads, trucking, and aviation.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/15/presidentelect-biden-taps-pete-buttigieg-transportation-secretary?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/presidentelect-biden-taps-pete-buttigieg-transportation-secretary?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 16 Dec 2020 03:01:13 -0800</pubDate>
- </item>
- <item>
-  <title>EU Unveils Regulations Targeting Big Tech</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1823/big_tech_under_the_antitrust_spotlight.jpg'&gt;&lt;br/&gt;The walls are closing in This week, the FTC ordered top U.S. tech companies to explain their user data practices, China fined its own tech leaders Alibaba and Tencent over antitrust violations, and the UK proposed fines of up to 10% of global revenue if tech giants don't remove illegal content.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/15/eu-unveils-regulations-targeting-big-tech?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/eu-unveils-regulations-targeting-big-tech?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 16 Dec 2020 03:01:13 -0800</pubDate>
- </item>
- <item>
-  <title>Anna Wintour Promoted at Condé Nast, Again</title>
-  <description>&lt;img src='https://media.giphy.com/media/l46CAeMR1XVgrpY5O/giphy.gif'&gt;&lt;br/&gt;  The backstory: Wintour became U.S. Vogue editor in 1988, then added the "artistic director" title in 2014.   Wintour apologized for her role in sidelining Black creators in June. CEO Roger Lynch plans to lean on 1) digital video and 2) paywalls to reach profitability.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/15/anna-wintour-promoted-cond-nast?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/anna-wintour-promoted-cond-nast?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 16 Dec 2020 03:01:13 -0800</pubDate>
  </item>
 
 </channel>
