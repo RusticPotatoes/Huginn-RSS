@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/20</link>
- <lastBuildDate>Sun, 20 Dec 2020 16:34:11 -0800</lastBuildDate>
- <pubDate>Sun, 20 Dec 2020 16:34:11 -0800</pubDate>
+ <lastBuildDate>Sun, 20 Dec 2020 16:38:10 -0800</lastBuildDate>
+ <pubDate>Sun, 20 Dec 2020 16:38:10 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Tesla Joins the S&amp;P 500, Capping a Sensational Year for Elon Musk</title>
+  <description>&lt;img src='https://media.giphy.com/media/l46C5r7CiQN5ox7MI/giphy.gif'&gt;&lt;br/&gt;could Tesla stock become... Tesla is not an ordinary stock For one, it’s absolutely humongous. With a market capitalization of $659 billion, Tesla will be the largest company to ever enter the S&amp;P 500.   More than $4.5 trillion is managed by index funds that track the S&amp;P 500. Today, electric automaker Tesla will join the U.S. stock market’s equivalent of Top 40 radio: the S&amp;P 500 index. What does it mean for the stock market?   Second, the stock is extremely volatile, meaning it’s prone to dramatic daily swings based on company news that might not be a huge deal.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/20/tesla-joins-sp-500-capping-sensational-year-elon-musk</link>
+  <author>Neal Freyman</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/20/tesla-joins-sp-500-capping-sensational-year-elon-musk</guid>
+  <pubDate>Sun, 20 Dec 2020 16:36:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Cyberpunk 2077: What Went Wrong</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3477/cyberpunk.jpg'&gt;&lt;br/&gt;  The backstory: First announced in 2012, Cyberpunk 2077 was the crown jewel of Polish game studio CD Projekt Red. It promised exceptional customization features and an expansive dystopian universe with none other than Keanu Reeves at the center.   Both Sony and Microsoft are offering full refunds for copies purchased through their online stores.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/21/cyberpunk-2077-went-wrong</link>
+  <author>Eliza Carter</author>
+  <categories>gaming</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/21/cyberpunk-2077-went-wrong</guid>
+  <pubDate>Sun, 20 Dec 2020 16:36:10 -0800</pubDate>
+ </item>
  <item>
   <title>SolarWinds Hack: What We Know Now</title>
   <description>&lt;img src='https://media.giphy.com/media/12bVDtXPOzYwda/giphy.gif'&gt;&lt;br/&gt;  Quick review: SolarWinds is a company that provides cybersecurity services.   In the past few days, more details about the massive Russia-linked hack of IT management software company SolarWinds have tumbled out. The affected networks will remain compromised as investigators assess the fallout, which could take months or even longer.</description>
@@ -352,24 +370,6 @@
   <categories>small biz</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/warren-buffett-david-solomon-urge-congress-extend-ppp-small-businesses?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 16 Dec 2020 03:01:13 -0800</pubDate>
- </item>
- <item>
-  <title>Christmas Markets Need a Christmas Miracle</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3429/santa_claus.jpg'&gt;&lt;br/&gt;  The situation is even tougher for vendors at San Francisco's Dickens Fair, which is a historic market that requires vendors to meet certain standards of "authenticity." His experience implementing health and safety protocols at the flea market helped him open the holiday market in-person safely. Michael Berman, who created the market 16 years ago, also runs D.C.'s Eastern Market and had to adapt this spring to pandemic-era guidelines. While the Christkindlmarket in Chicago is showcasing about 50 exhibitors online (close to the number it welcomed at its in-person market), most are "hanging on for dear life," according to Kate Bleeker, director of expansion and market development.   Vendors need help Small businesses that sell at markets often depend on a handful of in-person events for the majority of their annual sales. In San Francisco, the Great Dickens Christmas Fair also canceled its in-person market and set up the Dickens Fair at Home with an online shop and virtual experiences.   At Bryant Park, foot traffic and sales are estimated at a third of previous years’ levels, and Vagianos said vendors are worried."    But this year, the markets in D.C., San Francisco, and NYC currently have anywhere from a third to half the typical number of vendors exhibiting.   After watching in-person events get postponed the start of the pandemic and reconstitute on Zoom over the summer, Christmas markets began having tough conversations—and we're not talking about the final design for the collectible 2020 candle holder.   Other markets decided to open...</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/15/christmas-markets-need-christmas-miracle</link>
-  <author>Alex Hickey</author>
-  <categories>events</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/christmas-markets-need-christmas-miracle</guid>
-  <pubDate>Tue, 15 Dec 2020 15:46:15 -0800</pubDate>
- </item>
- <item>
-  <title>EU Unveils Regulations Targeting Big Tech</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1823/big_tech_under_the_antitrust_spotlight.jpg'&gt;&lt;br/&gt;The walls are closing in This week, the FTC ordered top U.S. tech companies to explain their user data practices, China fined its own tech leaders Alibaba and Tencent over antitrust violations, and the UK proposed fines of up to 10% of global revenue if tech giants don't remove illegal content.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/15/eu-unveils-regulations-targeting-big-tech</link>
-  <author>Alex Hickey</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/eu-unveils-regulations-targeting-big-tech</guid>
-  <pubDate>Tue, 15 Dec 2020 14:56:10 -0800</pubDate>
  </item>
 
 </channel>
