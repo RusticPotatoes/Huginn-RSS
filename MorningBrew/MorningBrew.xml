@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/21</link>
- <lastBuildDate>Mon, 21 Dec 2020 03:03:18 -0800</lastBuildDate>
- <pubDate>Mon, 21 Dec 2020 03:03:18 -0800</pubDate>
+ <lastBuildDate>Mon, 21 Dec 2020 15:33:19 -0800</lastBuildDate>
+ <pubDate>Mon, 21 Dec 2020 15:33:19 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>New Coronavirus Strain Spooks Stocks, Commodities</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/49/coronavirus_earth.jpg'&gt;&lt;br/&gt;  Zoom out: New virus strains are to be expected (that’s why you get different flu shots each year). The European Commission just needs to sign off now. Experts currently believe Pfizer’s and Moderna’s vaccines will tackle it just fine.     + While we’re here...</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/21/new-coronavirus-strain-spooks-stocks-commodities</link>
+  <author>Alex Hickey</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/21/new-coronavirus-strain-spooks-stocks-commodities</guid>
+  <pubDate>Mon, 21 Dec 2020 15:31:18 -0800</pubDate>
+ </item>
  <item>
   <title>Christmas is here</title>
   <description>&lt;img src='https://media.giphy.com/media/AhQvSi0Kc0XbrS0B9C/giphy.gif'&gt;&lt;br/&gt;  The Brew’s schedule: We’ll be in your inbox every day this week except Christmas.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>trade</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/16/us-labels-vietnam-switzerland-currency-manipulators</guid>
-  <pubDate>Wed, 16 Dec 2020 14:36:14 -0800</pubDate>
- </item>
- <item>
-  <title>Texas Attorney General Leads Antitrust Suit Against Google Focusing on its Ad Business</title>
-  <description>&lt;img src='https://media.giphy.com/media/3oriffhhxhmuQP2Xgk/giphy.gif'&gt;&lt;br/&gt;  The suit claims that Google is the Joey Chestnut to the digital advertising industry's plate of hotdogs.   Yesterday, a group of state attorneys general led by Texas said they're taking legal action against Google for, you guessed it, engaging in anticompetitive practices.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/16/texas-attorney-general-leads-antitrust-suit-google-focusing-ad-business</link>
-  <author>Toby Howell</author>
-  <categories>antitrust</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/16/texas-attorney-general-leads-antitrust-suit-google-focusing-ad-business</guid>
   <pubDate>Wed, 16 Dec 2020 14:36:14 -0800</pubDate>
  </item>
 
