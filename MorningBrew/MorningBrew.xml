@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/19/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/19/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/20/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/19</link>
- <lastBuildDate>Sat, 19 Dec 2020 03:03:13 -0800</lastBuildDate>
- <pubDate>Sat, 19 Dec 2020 03:03:13 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/20</link>
+ <lastBuildDate>Sun, 20 Dec 2020 16:09:13 -0800</lastBuildDate>
+ <pubDate>Sun, 20 Dec 2020 16:09:13 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Christmas is here</title>
+  <description>&lt;img src='https://media.giphy.com/media/AhQvSi0Kc0XbrS0B9C/giphy.gif'&gt;&lt;br/&gt;  The Brew’s schedule: We’ll be in your inbox every day this week except Christmas.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/20/christmas</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/20/christmas</guid>
+  <pubDate>Sun, 20 Dec 2020 16:07:12 -0800</pubDate>
+ </item>
  <item>
   <title>Morning Brew Readers Share Their Quarantine Dating Stories</title>
   <description>&lt;img src='https://media.giphy.com/media/x28cIQSn19Tbi/giphy.gif'&gt;&lt;br/&gt;Some made us laugh, some made us cry, and others made us go, “Hmm, didn’t know masks could be used for that.” And because we just met, neither one of us wanted to end the date because we had to pee. To spice things up I said my favorite drink was Mountain Dew... “Did a virtual date for the first time. The call ended about 5 minutes later when I told her I can't date a liar.” she didn't bat an eye and proceeded to tell me she doesn't really drink soda. For more pandemic dating stories, check out the Social Distance Project.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>small biz</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/warren-buffett-david-solomon-urge-congress-extend-ppp-small-businesses</guid>
-  <pubDate>Tue, 15 Dec 2020 14:56:10 -0800</pubDate>
- </item>
- <item>
-  <title>Anna Wintour Promoted at Condé Nast, Again</title>
-  <description>&lt;img src='https://media.giphy.com/media/l46CAeMR1XVgrpY5O/giphy.gif'&gt;&lt;br/&gt;  The backstory: Wintour became U.S. Vogue editor in 1988, then added the "artistic director" title in 2014.   Wintour apologized for her role in sidelining Black creators in June. CEO Roger Lynch plans to lean on 1) digital video and 2) paywalls to reach profitability.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/15/anna-wintour-promoted-cond-nast</link>
-  <author>Eliza Carter</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/15/anna-wintour-promoted-cond-nast</guid>
   <pubDate>Tue, 15 Dec 2020 14:56:10 -0800</pubDate>
  </item>
 
