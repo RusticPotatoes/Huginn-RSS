@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/22</link>
- <lastBuildDate>Tue, 22 Dec 2020 14:43:15 -0800</lastBuildDate>
- <pubDate>Tue, 22 Dec 2020 14:43:15 -0800</pubDate>
+ <lastBuildDate>Tue, 22 Dec 2020 14:49:14 -0800</lastBuildDate>
+ <pubDate>Tue, 22 Dec 2020 14:49:14 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>USPS Hit by Triple Whammy of Challenges Ahead of Holidays</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/562/usps_mail_boxes.jpg'&gt;&lt;br/&gt;USPS has been picking up the slack and handling an average of 6 million extra packages per day.   Truth: "This year can't end fast enough," Jennifer Lemke, the clerk craft director at APWU Local 170 in Ohio, told the Washington Post.   At the same time, its workforce has shrunk due to Covid.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/22/usps-hit-triple-whammy-challenges-ahead-holidays</link>
+  <author>Neal Freyman</author>
+  <categories>shipping</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/22/usps-hit-triple-whammy-challenges-ahead-holidays</guid>
+  <pubDate>Tue, 22 Dec 2020 14:47:13 -0800</pubDate>
+ </item>
  <item>
   <title>News by the Numbers: Vaccines, ICU Capacity, Consumer Confidence</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3150/covid-19_vaccine.jpg'&gt;&lt;br/&gt;  88.6: The December reading of U.S. consumer confidence, which fell sharply from November.   Covid patients are straining healthcare systems across the country, and almost one-fifth of hospitals with ICUs have filled 95% of beds. In the U.S., we're at 614k and counting.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>public health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/17/swedish-king-says-country-failed-pandemic-response?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 18 Dec 2020 03:01:09 -0800</pubDate>
- </item>
- <item>
-  <title>Walmart to Debut Shoppable TikTok Content</title>
-  <description>&lt;img src='https://media.giphy.com/media/l0HlTQ7X0tigs8vJu/giphy.gif'&gt;&lt;br/&gt;How it works:  Ten of the biggest TikTok creators, including Michael Le and Taylor Hage, will display Walmart's fashion items in a livestream on its profile.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/17/walmart-debut-shoppable-tiktok-content?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>e commerce</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/17/walmart-debut-shoppable-tiktok-content?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 18 Dec 2020 03:01:09 -0800</pubDate>
  </item>
 
