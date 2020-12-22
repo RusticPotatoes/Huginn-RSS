@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/21/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2020/12/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2020/12/22/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/21</link>
- <lastBuildDate>Mon, 21 Dec 2020 21:08:10 -0800</lastBuildDate>
- <pubDate>Mon, 21 Dec 2020 21:08:10 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2020/12/22</link>
+ <lastBuildDate>Tue, 22 Dec 2020 03:03:12 -0800</lastBuildDate>
+ <pubDate>Tue, 22 Dec 2020 03:03:12 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The NBA Ditches the Bubble as It Kicks Off Its 2021 Season</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3525/basketball_in_a_chair.jpg'&gt;&lt;br/&gt;  The backstory: The NBA’s decision to resume the 2020 season in the now-famous bubble in Florida paid off—revenue dipped only 10% and the league recouped an estimated $1.5 billion.      Bottom line: The NBA knows it’s in for a rocky year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/21/nba-ditches-bubble-kicks-off-2021-season?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/21/nba-ditches-bubble-kicks-off-2021-season?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 22 Dec 2020 03:01:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Health Insurer Oscar Health Files To Go Public</title>
+  <description>&lt;img src='https://media.giphy.com/media/hS2Oh3m0CkhFe/giphy.gif'&gt;&lt;br/&gt;Yesterday, health insurance company Oscar Health confidentially filed for an IPO.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/21/health-insurer-oscar-health-files-go-public?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/21/health-insurer-oscar-health-files-go-public?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 22 Dec 2020 03:01:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>New Coronavirus Strain Spooks Stocks, Commodities</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/49/coronavirus_earth.jpg'&gt;&lt;br/&gt;  Zoom out: New virus strains are to be expected (that’s why you get different flu shots each year). The European Commission just needs to sign off now. Experts currently believe Pfizer’s and Moderna’s vaccines will tackle it just fine.     + While we’re here...</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/21/new-coronavirus-strain-spooks-stocks-commodities?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/21/new-coronavirus-strain-spooks-stocks-commodities?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 22 Dec 2020 03:01:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Peloton Buys Precor for $420 Million</title>
+  <description>&lt;img src='https://media.giphy.com/media/iHQZ4Eq4GKKTQkPiPj/giphy.gif'&gt;&lt;br/&gt;That could be a significant growth opportunity for Peloton when/if those spaces fill up again after the pandemic subsides.   Precor could also be Peloton’s ticket into the commercial side of fitness. of prime manufacturing space in the U.S., which should help Peloton speed up delivery of its bikes.   Precor has 625,000 sq.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/21/peloton-buys-precor-420-million?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>fitness</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/21/peloton-buys-precor-420-million?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 22 Dec 2020 03:01:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Congress Passes $900B Stimulus Bill</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3452/stimulus.jpg'&gt;&lt;br/&gt;The Payroll Protection Program will get another $285 billion. It’ll bring back extra federal unemployment benefits ($300/week) and one-time $600 payments for millions of Americans, but tucked into the $900 billion package are some big benefits for businesses, too. More than $35 billion will go to energy R&amp;D and the extensions of tax credits for solar and wind projects. The bill has set aside $15 billion for the airline industry; $10 billion for highways; $16 billion for transit and city buses; $2 billion for airports; and $1 billion for Uncle Joe-beloved Amtrak.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/22/congress-passes-900b-stimulus-bill?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>government</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/22/congress-passes-900b-stimulus-bill?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 22 Dec 2020 03:01:10 -0800</pubDate>
+ </item>
  <item>
   <title>Congress Passes $900B Stimulus Bill</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3452/stimulus.jpg'&gt;&lt;br/&gt;The Payroll Protection Program will get another $285 billion. It’ll bring back extra federal unemployment benefits ($300/week) and one-time $600 payments for millions of Americans, but tucked into the $900 billion package are some big benefits for businesses, too. More than $35 billion will go to energy R&amp;D and the extensions of tax credits for solar and wind projects. The bill has set aside $15 billion for the airline industry; $10 billion for highways; $16 billion for transit and city buses; $2 billion for airports; and $1 billion for Uncle Joe-beloved Amtrak.</description>
@@ -325,51 +370,6 @@
   <categories>public health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/17/swedish-king-says-country-failed-pandemic-response</guid>
   <pubDate>Thu, 17 Dec 2020 15:01:09 -0800</pubDate>
- </item>
- <item>
-  <title>Japanese Appliance Startup Pops 88% in Public Market Debut</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3449/balmuda_toaster.jpeg'&gt;&lt;br/&gt;    Bottom line: There wasn't a market for high-end toasters until Balmuda showed what was possible. It comes with a little teaspoon of water, which helps seal in moisture. That sexy little oven above will set you back $224, and Balmuda’s “The Gohan” rice cooker costs $400.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/16/japanese-appliance-startup-pops-88-public-market-debut?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>startup</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/16/japanese-appliance-startup-pops-88-public-market-debut?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 17 Dec 2020 03:01:16 -0800</pubDate>
- </item>
- <item>
-  <title>Massachusetts Takes Aim at Robinhood for Failing to Protect its Customers</title>
-  <description>&lt;img src='https://media.giphy.com/media/3o6wrpEqt4VpwonyNi/giphy.gif'&gt;&lt;br/&gt;Yesterday, Massachusetts securities regulators filed a complaint against the popular stock trading platform Robinhood for prioritizing “its revenue over the best interest of its customers,” according to documents reviewed by the WSJ.     Robinhood’s easy-to-navigate platform has attracted over 13 million insanely active traders.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/16/massachusetts-takes-aim-robinhood-failing-protect-customers?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>legal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/16/massachusetts-takes-aim-robinhood-failing-protect-customers?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 17 Dec 2020 03:01:16 -0800</pubDate>
- </item>
- <item>
-  <title>U.S. Labels Vietnam, Switzerland Currency Manipulators</title>
-  <description>&lt;img src='https://media.giphy.com/media/lptjRBxFKCJmFoibP3/giphy.gif'&gt;&lt;br/&gt;Yesterday, the U.S. Treasury labeled the European country and Vietnam currency manipulators.   Why it matters: Labeling countries as currency manipulators is rarer than a Federer two-handed backhand, and it reflects the tougher trade stance taken by the Trump administration toward both allies and rivals.   What is currency manipulation?</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/16/us-labels-vietnam-switzerland-currency-manipulators?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>trade</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/16/us-labels-vietnam-switzerland-currency-manipulators?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 17 Dec 2020 03:01:16 -0800</pubDate>
- </item>
- <item>
-  <title>Texas Attorney General Leads Antitrust Suit Against Google Focusing on its Ad Business</title>
-  <description>&lt;img src='https://media.giphy.com/media/3oriffhhxhmuQP2Xgk/giphy.gif'&gt;&lt;br/&gt;  The suit claims that Google is the Joey Chestnut to the digital advertising industry's plate of hot dogs.   Yesterday, a group of state attorneys general led by Texas said they're taking legal action against Google for, you guessed it, engaging in anticompetitive practices.   Zoom out: If this feels like déjà sue, you’d be correct.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/16/texas-attorney-general-leads-antitrust-suit-google-focusing-ad-business?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>antitrust</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/16/texas-attorney-general-leads-antitrust-suit-google-focusing-ad-business?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 17 Dec 2020 03:01:16 -0800</pubDate>
- </item>
- <item>
-  <title>Second Stimulus Measure is Reportedly Back on the Table. Could it Finally Happen?</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3452/stimulus.jpg'&gt;&lt;br/&gt;Sophie Turner = a second stimulus package.   But if there are any snags, votes could spill into the weekend.   Looking ahead... At the conclusion of the Fed's two-day meeting, the central bank said it will keep interest rates near zero and keep buying bonds until the U.S. reaches full employment and inflation settles at 2%.   Fed Chair Jerome Powell is trying to do his part to juice the economy. the government will run out of money at midnight on Friday without a spending bill.   Also...</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/16/second-stimulus-measure-reportedly-back-table-finally-happen?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/16/second-stimulus-measure-reportedly-back-table-finally-happen?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 17 Dec 2020 03:01:16 -0800</pubDate>
  </item>
 
 </channel>
