@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/22</link>
- <lastBuildDate>Tue, 22 Dec 2020 03:03:12 -0800</lastBuildDate>
- <pubDate>Tue, 22 Dec 2020 03:03:12 -0800</pubDate>
+ <lastBuildDate>Tue, 22 Dec 2020 06:34:11 -0800</lastBuildDate>
+ <pubDate>Tue, 22 Dec 2020 06:34:11 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Run Your Own Zoom Trivia Night: Edition No. 2</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3108/trivia_night_by_morning_brew.jpg'&gt;&lt;br/&gt;  [Pause to read off answers and have a representative from each team announce the points they earned in Rounds 5+6.   Step 2: Right before you start asking questions, distribute blank Team Sheets to each team in their private group message. At this point, familiarize yourself with the questions below as well as the Answer Key. Also, think of a fun prize for the winning teams to create an extra competitive atmosphere.   Step 4: Ask the questions below. Ask the team to choose a team name and hype them up. Round 1: The parentals  How it works: Teams must identify the two parents of the following “children.”   Step 3: Get everyone on a Zoom or videoconference and explain the basic rules: Six rounds (this shouldn’t take much more than an hour).   Ask teams to write down the host cities of the Olympics (both winter and summer) from 1992–2028. At the end of each round, ask the group if they want any questions repeated.   U.S. national parks  Zodiac signs Seven dwarfs Sports at the Summer Olympics  Fellowship of the Ring members  Dow companies (not including a number) Cities home to an Ivy League college First name of Backstreet Boys band members [Pause to read off answers and have a representative from each team announce the points they earned in Rounds 3+4. Teams will grade themselves when answers are announced every two rounds.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/22/run-zoom-trivia-night-edition-no-2</link>
+  <author>Neal Freyman</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/22/run-zoom-trivia-night-edition-no-2</guid>
+  <pubDate>Tue, 22 Dec 2020 06:31:19 -0800</pubDate>
+ </item>
  <item>
   <title>The NBA Ditches the Bubble as It Kicks Off Its 2021 Season</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3525/basketball_in_a_chair.jpg'&gt;&lt;br/&gt;  The backstory: The NBA’s decision to resume the 2020 season in the now-famous bubble in Florida paid off—revenue dipped only 10% and the league recouped an estimated $1.5 billion.      Bottom line: The NBA knows it’s in for a rocky year.</description>
@@ -361,15 +370,6 @@
   <categories>e commerce</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/17/walmart-debut-shoppable-tiktok-content</guid>
   <pubDate>Thu, 17 Dec 2020 15:11:18 -0800</pubDate>
- </item>
- <item>
-  <title>Swedish King Says His Country "Failed" Pandemic Response</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3459/king_carl_xvi_gustaf.jpg'&gt;&lt;br/&gt;Yesterday, Sweden's King Carl XVI Gustaf said his country "failed" its pandemic response.     Refresher: While other countries enacted strict lockdowns when the pandemic began, Sweden gambled on an open economy and voluntary guidelines, with the goal of eventually reaching herd immunity. If it's approved, Swedish healthcare workers get dibs around Christmas.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/17/swedish-king-says-country-failed-pandemic-response</link>
-  <author>Alex Hickey</author>
-  <categories>public health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/17/swedish-king-says-country-failed-pandemic-response</guid>
-  <pubDate>Thu, 17 Dec 2020 15:01:09 -0800</pubDate>
  </item>
 
 </channel>
