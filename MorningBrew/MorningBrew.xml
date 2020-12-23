@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/23</link>
- <lastBuildDate>Wed, 23 Dec 2020 05:53:19 -0800</lastBuildDate>
- <pubDate>Wed, 23 Dec 2020 05:53:19 -0800</pubDate>
+ <lastBuildDate>Wed, 23 Dec 2020 08:00:18 -0800</lastBuildDate>
+ <pubDate>Wed, 23 Dec 2020 08:00:18 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Meet Brew Writer Eliza Carter</title>
+  <description>&lt;img src='https://media.giphy.com/media/H9JNDPtp0kKWY/giphy.gif'&gt;&lt;br/&gt;  Recommend literally anything: This tip is now outdated, but I’m going to share it because it shocks people and it really, actually works.     First R-rated movie: Shakespeare in Love...   One thing you are snobby about: Leather.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/23/meet-brew-writer-eliza-carter</link>
+  <author>Eliza Carter</author>
+  <categories>qanda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/23/meet-brew-writer-eliza-carter</guid>
+  <pubDate>Wed, 23 Dec 2020 07:57:09 -0800</pubDate>
+ </item>
  <item>
   <title>2020 in Review: Coronavirus Explodes Distinctions Between Public and Private Sectors</title>
   <description>&lt;img src='https://media.giphy.com/media/TlK63EEpq1DePsGR0Ag/giphy.gif'&gt;&lt;br/&gt;  In other words, while 2020 was a year of crisis, it exposed—and perhaps helped us to contemplate—just how intertwined government and business are in non-crisis times.   One University of California Berkeley economist argued that to support testing early on, the government should have inserted itself even more into the private sector by guaranteeing test makers a return on their investments.   Another example? But it has shown us the most extreme forms of government intervention in the private sector.      And now?   Enter 2020.   The Defense Production Act (DPA)  This little-known law allows presidents to give businesses homework in service of imperiled national defense.   Early on, business owners clashed with their elected leaders over social distancing restrictions. In 2020, the government stepped in to a degree not seen before in our lifetimes.   Of course, business has always had to work with the government; 2020 didn’t invent the concept of regulation.   Then there’s the stimulus  In March, the U.S. economy was chugging along with historically low unemployment, then it turned left at a sign marked “coronavirus” and chugged off a cliff. He’s promised to wield the DPA to support healthcare efforts and called for a meaty third stimulus package. Many economists agree the magnitude of the stimulus was beyond warranted, and for many critics, it wasn’t anywhere near enough. Remember this awful graph? But it was.</description>
@@ -361,15 +370,6 @@
   <categories>poll</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/18/morning-brewharris-poll-finds-americans-split-pandemic-dating-attitudes</guid>
   <pubDate>Fri, 18 Dec 2020 14:56:12 -0800</pubDate>
- </item>
- <item>
-  <title>Dating Apps See Increased Engagement But Struggle to Convert it to Dollars</title>
-  <description>&lt;img src='https://media.giphy.com/media/fWh7ETTpO6HhV1bYHQ/giphy.gif'&gt;&lt;br/&gt;  The top 20 dating apps have gained 1.5 million daily active users this year, according to Apptopia data from November. Users are active, active Video chatting on Bumble spiked 93% in the pandemic’s early days, while the average conversation length on Tinder rose 10%–30%.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/18/dating-apps-see-increased-engagement-struggle-convert-dollars</link>
-  <author>Toby Howell</author>
-  <categories>online dating</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/18/dating-apps-see-increased-engagement-struggle-convert-dollars</guid>
-  <pubDate>Fri, 18 Dec 2020 14:51:14 -0800</pubDate>
  </item>
 
 </channel>
