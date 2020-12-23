@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2020/12/22</link>
- <lastBuildDate>Tue, 22 Dec 2020 19:53:20 -0800</lastBuildDate>
- <pubDate>Tue, 22 Dec 2020 19:53:20 -0800</pubDate>
+ <lastBuildDate>Tue, 22 Dec 2020 20:58:22 -0800</lastBuildDate>
+ <pubDate>Tue, 22 Dec 2020 20:58:22 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Meet Brew Writer Neal Freyman</title>
+  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3543/neal_freyman.jpg'&gt;&lt;br/&gt;    First R-rated movie: I think it was an 8 Mile + American Pie double-header at a middle school sleepover.    One thing you are snobby about: Bagels.   What you would be doing if not writing for the Brew: A pilot making cargo runs in the Caribbean.   If you could safely eat any inedible object, what would it be? Once I got back to solid ground I called my friends and told them how much I appreciated them.</description>
+  <link>https://www.morningbrew.com/daily/stories/2020/12/23/meet-brew-writer-neal-freyman</link>
+  <author>Neal Freyman</author>
+  <categories>qanda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/23/meet-brew-writer-neal-freyman</guid>
+  <pubDate>Tue, 22 Dec 2020 20:56:16 -0800</pubDate>
+ </item>
  <item>
   <title>President Trump Criticizes Stimulus Package in Twitter Video</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/1241/mr_krabs.png'&gt;&lt;br/&gt;Zoom out: We don’t know yet whether President Trump will derail the bill. That wasn’t enough for Trump  The president said, “I am asking Congress to amend this bill and increase the ridiculously low $600 to $2,000, or $4,000 for a couple.”</description>
@@ -361,15 +370,6 @@
   <categories>big deal</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/18/bitcoin-grown</guid>
   <pubDate>Fri, 18 Dec 2020 13:31:17 -0800</pubDate>
- </item>
- <item>
-  <title>Mortgage Rates Hit 15th Record Low This Year</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3179/housing_market.jpg'&gt;&lt;br/&gt;Compared to 2019, mortgage applications are up 26% and refinances 105%, per the Mortgage Bankers Association. FYI: Freddie Mac is a government-sponsored mortgage investor. But good luck getting your hands on cheap property: Surging home sales have squeezed supply and inflated prices.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/17/mortgage-rates-hit-15th-record-low-year?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/17/mortgage-rates-hit-15th-record-low-year?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 18 Dec 2020 03:01:09 -0800</pubDate>
  </item>
 
 </channel>
