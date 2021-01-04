@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2020/12/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2020/12/23/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/01/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/01/04/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2020/12/23</link>
- <lastBuildDate>Wed, 23 Dec 2020 09:48:13 -0800</lastBuildDate>
- <pubDate>Wed, 23 Dec 2020 09:48:13 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/01/04</link>
+ <lastBuildDate>Mon, 04 Jan 2021 14:38:35 -0800</lastBuildDate>
+ <pubDate>Mon, 04 Jan 2021 14:38:35 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Google Employees Form Union in a Rare Silicon Valley Organizing Effort</title>
+  <description>&lt;img src='https://media.giphy.com/media/bGn1XMMW3EglSYFNV6/giphy.gif'&gt;&lt;br/&gt;  But it's not surprising  For years, Google employees have criticized management for their approach to issues including sexual harassment in the workplace, the company's work with the Pentagon, and treatment of contract workers. The rift between Google employees and management continued to escalate Monday, when 226 workers revealed they had formed the Alphabet Workers Union, a reference to Google's parent company. Google discontinued the contract.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/01/04/google-employees-form-union-rare-silicon-valley-organizing-effort</link>
+  <author>Neal Freyman</author>
+  <categories>labor</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/01/04/google-employees-form-union-rare-silicon-valley-organizing-effort</guid>
+  <pubDate>Mon, 04 Jan 2021 14:36:43 -0800</pubDate>
+ </item>
  <item>
   <title>The Pandemic-Era Trends That Will (or Won't) Last</title>
   <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3562/bucktown_marina_park_host.jpg'&gt;&lt;br/&gt;  Let’s talk about shopping  LIke most Americans, you probably did more of it online this year.   Will virtual tools fully replicate the office experience?   Work from home  Let’s get the obvious out of the way first: There will be a lot more remote workers, maybe triple or quadruple the amount there was before the pandemic, per Mckinsey.   It can save companies lots of money on real estate.   But the pandemic might’ve accelerated a reshuffling of the urban power rankings. So will you suddenly start going back to strip malls once the pandemic is over? It’s not crazy to think coworking companies like WeWork might benefit from the emergence of the two-day-a-week office worker. Plus, in a post-pandemic world, people will be able to work in settings other than their bedrooms, like a coffee shop or a library. What the pandemic did was squeeze 10 years of adoption into just three months, according to McKinsey.   And almost 70% will continue to buy online for in-store pickup.   Probably not. And I’m curious about which aspects of the pandemic lifestyle will outlast the plague.   Finally, the future of cities Here’s why NYC is dea— Just kidding.   Companies are also facing a drastically new landscape in the war for talent.     Toward a framework Is there some kind of “rule” that determines whether a pandemic-inspired trend will stick around after we’ve all gotten our shots?   Up: Mid-tier, cheaper cities like Madison, WI, and Sacramento, CA. The pandemic has forced us to change our behavior in dramatic ways. We’d return to eating $18 salads at our office desks.   But Covid-19 has stuck around for, well, a really long time. For employees, it can be fun; it can also mean three nights at a Holiday Inn in Topeka. Travel publisher Skift made just over $10 million in revenue in 2018...    But “remote work” doesn’t mean “WFH.” And our hands smell vaguely like cheap tequila all the time.</description>
@@ -361,15 +370,6 @@
   <categories>games</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/18/brew-crossword-formula-fun</guid>
   <pubDate>Fri, 18 Dec 2020 15:06:10 -0800</pubDate>
- </item>
- <item>
-  <title>OnlyFans Makes Money Moves Amid the Pandemic</title>
-  <description>&lt;img src='https://oslo-production.s3.amazonaws.com/uploads/medium/asset/3473/cardi_b.jpg'&gt;&lt;br/&gt;Of that $400 million in revenue, OnlyFans will make $300 million profit, per The Information.   Creators on OnlyFans will generate more than $2 billion in sales this year, Bloomberg reports.   Once known exclusively for NSFW content creators, OnlyFans has been flooded by celebrities who went looking for a new revenue stream when concerts, studio production, and other forms of live entertainment were put on pause.</description>
-  <link>https://www.morningbrew.com/daily/stories/2020/12/18/onlyfans-makes-money-moves-amid-pandemic</link>
-  <author>Jamie Wilde</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/12/18/onlyfans-makes-money-moves-amid-pandemic</guid>
-  <pubDate>Fri, 18 Dec 2020 15:01:14 -0800</pubDate>
  </item>
 
 </channel>
