@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/22</link>
- <lastBuildDate>Mon, 22 Feb 2021 14:49:02 -0800</lastBuildDate>
- <pubDate>Mon, 22 Feb 2021 14:49:02 -0800</pubDate>
+ <lastBuildDate>Mon, 22 Feb 2021 14:54:09 -0800</lastBuildDate>
+ <pubDate>Mon, 22 Feb 2021 14:54:09 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Cherokee Nation Requests That Jeep Drop Cherokee Name</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4140%2F2021_jeep_cherokee_trailhawk.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;the US auto industry has a long history of using Native American monikers and imagery.  Chief Chuck Hoskin Jr. requested that Jeep stop using his tribe's name on its Cherokee and Grand Cherokee SUVs, which together account for more than 40% of the brand's total sales.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/22/cherokee-nation-requests-jeep-drop-cherokee-name</link>
+  <author>Alex Hickey</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/cherokee-nation-requests-jeep-drop-cherokee-name</guid>
+  <pubDate>Mon, 22 Feb 2021 14:52:08 -0800</pubDate>
+ </item>
  <item>
   <title>Trump Taxes: Supreme Court Allows Manhattan DA to Subpoena Financial Documents</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1674%2Ftrump_org_documents.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the nation's highest court blocked former President Trump from keeping his financial records out of the hands of Manhattan District Attorney Cyrus Vance Jr. The details of Vance's investigation into alleged tax, insurance, and bank fraud by the Trump Organization (which includes residential and commercial real estate) haven't been made public.</description>
@@ -360,15 +369,6 @@
   <author>Eliza Carter</author>
   <categories>demographics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/17/usps-data-shows-sf-exodusto-bay-area-counties</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:25 -0800</pubDate>
- </item>
- <item>
-  <title>GameStop Saga: Key Players Set to Appear Before Congressional Committee</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4083%2Fgavel_stop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The backstory: GameStop was the story a few weeks ago after a legion of fanatical retail investors mobilized on Reddit to launch a short squeeze that sent GameStop shares rocketing higher and forced hedge funds to seek emergency bailouts. Get ready for another round at noon today, when the main characters of the saga will have their buns sufficiently warmed by the House Committee on Financial Services.  Even the cult hero Roaring Kitty is under scrutiny for his social media posts that helped spark retail interest in GameStop.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/17/gamestop-saga-key-players-set-appear-congressional-committee</link>
-  <author>Toby Howell</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/17/gamestop-saga-key-players-set-appear-congressional-committee</guid>
   <pubDate>Mon, 22 Feb 2021 10:21:25 -0800</pubDate>
  </item>
 
