@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/02/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/02/22/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/02/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/02/23/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/02/22</link>
- <lastBuildDate>Mon, 22 Feb 2021 15:39:06 -0800</lastBuildDate>
- <pubDate>Mon, 22 Feb 2021 15:39:06 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/02/23</link>
+ <lastBuildDate>Tue, 23 Feb 2021 03:04:05 -0800</lastBuildDate>
+ <pubDate>Tue, 23 Feb 2021 03:04:05 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>LVMH Buys 50% Stake in Jay-Z's Champagne Brand</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4142%2Face_of_spades.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, business mogul and rapper Jay-Z sold a 50% stake in his champagne brand, Armand de Brignac, to the wine and spirits division of luxury conglomerate LVMH.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/22/lvmh-buys-50-stake-jayzs-champagne-brand?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>luxury</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/lvmh-buys-50-stake-jayzs-champagne-brand?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 23 Feb 2021 03:02:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: February 23</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4139%2Fsenate_judiciary_committe.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The New Yorker)   Read: We're living in an age of peak advice. That's a 50% increase from 2019.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/22/key-performance-indicators-february-23?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/key-performance-indicators-february-23?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 23 Feb 2021 03:02:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>Cherokee Nation Requests That Jeep Drop Cherokee Name</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4144%2Fjeep_cherokee.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;the US auto industry has a long history of using Native American monikers and imagery.  Chief Chuck Hoskin Jr. requested that Jeep stop using his tribe's name on its Cherokee and Grand Cherokee SUVs, which together account for more than 40% of the brand's total sales.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/22/cherokee-nation-requests-jeep-drop-cherokee-name?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/cherokee-nation-requests-jeep-drop-cherokee-name?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 23 Feb 2021 03:02:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>Trump Taxes: Supreme Court Allows Manhattan DA to Subpoena Financial Documents</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1674%2Ftrump_org_documents.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the nation's highest court blocked former President Trump from keeping his financial records out of the hands of Manhattan District Attorney Cyrus Vance Jr. The details of Vance's investigation into alleged tax, insurance, and bank fraud by the Trump Organization (which includes residential and commercial real estate businesses) haven't been made public.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/22/trump-taxes-supreme-court-allows-manhattan-da-subpoena-financial-documents?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>legal</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/trump-taxes-supreme-court-allows-manhattan-da-subpoena-financial-documents?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 23 Feb 2021 03:02:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>Spotify Joins the Rest of the Media World in Focusing on International Expansion</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4141%2Finternational_media.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;    Netflix has invested in international content to differentiate itself in the streaming wars, maintain an upward growth trajectory, and serve something fresh to its American viewers.  Businesses are looking for new eyes and earsSpotify, which has headquarters in Sweden and the US, joins American media companies in recalibrating growth plans to place a larger emphasis on international markets.  "All this untapped music energy and access to our innovative creator tools will help propel artists to new heights," Spotify wrote in a statement. Put another way, a more global user base will help New Music Friday surface the Lupins of the music world.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/22/spotify-joins-rest-media-world-focusing-international-expansion?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/spotify-joins-rest-media-world-focusing-international-expansion?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 23 Feb 2021 03:02:02 -0800</pubDate>
+ </item>
  <item>
   <title>Spotify Joins the Rest of the Media World in Focusing on International Expansion</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4141%2Finternational_media.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;    Netflix has invested in international content to differentiate itself in the streaming wars, maintain an upward growth trajectory, and serve something fresh to its American viewers. Put another way, a more global user base will help New Music Friday surface the Lupins of the music world.  Big picture: With Hollywood and NYC churning out cultural hit after cultural hit, the US has historically dominated the music and entertainment industries.  "All this untapped music energy and access to our innovative creator tools will help propel artists to new heights," Spotify wrote in a statement.</description>
@@ -325,51 +370,6 @@
   <categories>big deal</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/19/cathie-wood-markets-new-oracle</guid>
   <pubDate>Mon, 22 Feb 2021 10:21:33 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4103%2Ftexas_frozen_over.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Atlantic)  Read: The NHL has a huge problem—its goalies are too big. And in January, traffic at its US shopping centers was more than 99% of last year's levels 🤔.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/18/key-performance-indicators</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/18/key-performance-indicators</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:33 -0800</pubDate>
- </item>
- <item>
-  <title>Walmart Raises Wages, McDonald's Links Exec Pay to Diversity Targets</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F317%2Fwalmart_great_workplace_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Kroger had "hero pay" when the pandemic began, then switched to one-time bonuses of up to $400. Depending on location, wages will bump up to $13–$19/hour.   The fast food chain wants to improve representation in senior leadership to 45% women and 35% minorities by 2025.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/18/walmart-raises-wages-mcdonalds-links-exec-pay-diversity-targets</link>
-  <author>Alex Hickey</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/18/walmart-raises-wages-mcdonalds-links-exec-pay-diversity-targets</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:33 -0800</pubDate>
- </item>
- <item>
-  <title>What's Going on Between Big Tech and Publishers in Australia?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F12OOqKXAALhAkM%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  A proposed law is winding through Australia's Parliament that would require social platforms like Facebook and Google to make revenue-sharing agreements with publishers.  Publishers' POV: Over the course of the digital revolution, platforms have eaten publishers' lunch, and dinner, and post-dinner snack.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/18/whats-going-big-tech-publishers-australia</link>
-  <author>Eliza Carter</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/18/whats-going-big-tech-publishers-australia</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:33 -0800</pubDate>
- </item>
- <item>
-  <title>NASA Rover Touches Down on Mars</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4102%2Fmars_landing.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; It has a friend waiting: NASA's Curiosity rover, which landed on Mars in 2012.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/18/nasa-rover-touches-mars</link>
-  <author>Eliza Carter</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/18/nasa-rover-touches-mars</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:32 -0800</pubDate>
- </item>
- <item>
-  <title>Finance Bigwigs, Tech Execs, and a Reddit Investor Testify on Capitol Hill</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4101%2Froaring_kitty.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Two Business Casual podcast episodes about GameStop. Griffin denied conspiracy theories that Citadel and Robinhood colluded to limit trading in GameStop.  Tenev and Ken Griffin, the billionaire founder of Citadel, both said that PFOF allows for innovation in the industry, such as the no-commission trades pioneered by Robinhood.  Best of the rest: Reddit’s CEO said investment advice on the platform is “probably among the best.” The guests are: 1) Jannick Malling, cofounder and co-CEO of investing social network Public and 2) Neal Freyman, who edits this newsletter every day and has been told he has a "podcast voice."</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/18/finance-bigwigs-tech-execs-reddit-investor-testify-capitol-hill</link>
-  <author>Neal Freyman</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/18/finance-bigwigs-tech-execs-reddit-investor-testify-capitol-hill</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:32 -0800</pubDate>
  </item>
 
 </channel>
