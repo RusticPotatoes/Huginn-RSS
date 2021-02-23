@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/23</link>
- <lastBuildDate>Tue, 23 Feb 2021 15:04:06 -0800</lastBuildDate>
- <pubDate>Tue, 23 Feb 2021 15:04:06 -0800</pubDate>
+ <lastBuildDate>Tue, 23 Feb 2021 15:09:04 -0800</lastBuildDate>
+ <pubDate>Tue, 23 Feb 2021 15:09:04 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>What is Market Capitalization?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2334%2Fstocks_declining.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Ask us something else here. Worth noting: Market cap =/= how much it costs to buy a company. Brew's answer: Market capitalization, aka "market cap," is a measure of a public company's worth based on the dollar value of outstanding shares.  Even though Tesla only recently became profitable and has had numerous issues meeting production schedules, investors believe that the EV market is going to explode.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/23/market-capitalization</link>
+  <author>Alex Hickey</author>
+  <categories>explainer</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/market-capitalization</guid>
+  <pubDate>Tue, 23 Feb 2021 15:07:03 -0800</pubDate>
+ </item>
  <item>
   <title>Should You Be Worried About Inflation? Short Answer: Probably Not</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt; Zoom out: Indicators of inflation usually show up in the job market; when it overheats, inflation can start to snowball.   But the current job market is like the frozen burrito you threw in the microwave—overheated on the surface (high yearly wage growth), but icy at the core (elevated unemployment claims). These soothing words helped stocks mount their big comeback yesterday.</description>
@@ -360,15 +369,6 @@
   <author>Toby Howell</author>
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/19/covid-vaccine-tracker</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:33 -0800</pubDate>
- </item>
- <item>
-  <title>Roku Breaks Records In Its Q4 Earnings Report</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4117%2Froku_premiere_streaming_b.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;As people filled their 2020 voids with CW dramas, Roku’s users streamed 10% more per day in the fourth quarter of 2020 than they did in Q4 2019. It’s now on the lookout for more content to acquire, or even create some original programming of its own.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/19/roku-breaks-records-q4-earnings-report</link>
-  <author>Jamie Wilde</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/19/roku-breaks-records-q4-earnings-report</guid>
   <pubDate>Mon, 22 Feb 2021 10:21:33 -0800</pubDate>
  </item>
 
