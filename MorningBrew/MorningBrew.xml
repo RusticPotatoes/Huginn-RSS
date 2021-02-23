@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/23</link>
- <lastBuildDate>Tue, 23 Feb 2021 03:04:05 -0800</lastBuildDate>
- <pubDate>Tue, 23 Feb 2021 03:04:05 -0800</pubDate>
+ <lastBuildDate>Tue, 23 Feb 2021 15:04:06 -0800</lastBuildDate>
+ <pubDate>Tue, 23 Feb 2021 15:04:06 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Should You Be Worried About Inflation? Short Answer: Probably Not</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt; Zoom out: Indicators of inflation usually show up in the job market; when it overheats, inflation can start to snowball.   But the current job market is like the frozen burrito you threw in the microwave—overheated on the surface (high yearly wage growth), but icy at the core (elevated unemployment claims). These soothing words helped stocks mount their big comeback yesterday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/23/worried-inflation-short-answer-probably-not</link>
+  <author>Eliza Carter</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/worried-inflation-short-answer-probably-not</guid>
+  <pubDate>Tue, 23 Feb 2021 15:02:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>Lucid Motors SPAC Falls 39% on News of Deal</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2049%2Flucid_air.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Lucid will raise $4.4 billion through the CCIV deal and use that money to help fund production and expansion into new vehicle lines. On Monday evening, electric automaker Lucid Motors confirmed it's going public via SPAC at a valuation of $24 billion.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/23/lucid-motors-spac-falls-39-news-deal</link>
+  <author>Alex Hickey</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/lucid-motors-spac-falls-39-news-deal</guid>
+  <pubDate>Tue, 23 Feb 2021 15:02:03 -0800</pubDate>
+ </item>
  <item>
   <title>LVMH Buys 50% Stake in Jay-Z's Champagne Brand</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4142%2Face_of_spades.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, business mogul and rapper Jay-Z sold a 50% stake in his champagne brand, Armand de Brignac, to the wine and spirits division of luxury conglomerate LVMH.</description>
@@ -351,24 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/19/roku-breaks-records-q4-earnings-report</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:33 -0800</pubDate>
- </item>
- <item>
-  <title>Brew Crossword: Pet Projects</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2397%2Fcrossword.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/19/brew-crossword-pet-projects</link>
-  <author>Toby Howell</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/19/brew-crossword-pet-projects</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:33 -0800</pubDate>
- </item>
- <item>
-  <title>Cathie Wood is the Market’s New Oracle</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4113%2Fcathie_wood.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Can Wood and Ark keep it going?  Zoom out: In January last year, Ark had less than $3.5 billion in total assets; Ark Innovation alone has already attracted $5.3 billion in inflows this year. Ark has added 132,000 more shares across three ETFs since Tesla announced it was investing in bitcoin.    To get a sampling of what sectors Wood is interested in, Ark’s five actively managed ETFs are: 1) Autonomous Technology &amp; Robots2) Next Generation Internet3) Genomic Revolution4) Fintech Innovation5) Innovation, the flagshipEach fund is bursting with companies Ark thinks are developing paradigm-changing technologies. And if you disagree with any of its assessments, Ark publishes the models that support its thinking for free on GitHub. But the rocket fuel to Ark’s rise is a company that spurns traditional fuel altogether: Tesla. Ark Innovation is up 22% year-to-date, while its other four funds are all in the green.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/19/cathie-wood-markets-new-oracle</link>
-  <author>Toby Howell</author>
-  <categories>big deal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/19/cathie-wood-markets-new-oracle</guid>
   <pubDate>Mon, 22 Feb 2021 10:21:33 -0800</pubDate>
  </item>
 
