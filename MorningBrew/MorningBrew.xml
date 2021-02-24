@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/24</link>
- <lastBuildDate>Wed, 24 Feb 2021 14:49:06 -0800</lastBuildDate>
- <pubDate>Wed, 24 Feb 2021 14:49:06 -0800</pubDate>
+ <lastBuildDate>Wed, 24 Feb 2021 14:54:02 -0800</lastBuildDate>
+ <pubDate>Wed, 24 Feb 2021 14:54:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: February 25</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4170%2Fmilken_institute_2019_glo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Quote: “This is not ideal for us and it’s not a new normal. Read: The secret message NASA sent to Mars, and the people who decoded it. Texas’s move to deregulate power generation is being blamed for last week’s electricity crisis.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/24/key-performance-indicators-february-25</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/key-performance-indicators-february-25</guid>
+  <pubDate>Wed, 24 Feb 2021 14:52:02 -0800</pubDate>
+ </item>
  <item>
   <title>First Covax Delivery Touches Down in Accra, Ghana</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;  Funded by donations, it hopes to vaccinate 20% of people in the world’s 92 poorest countries by the end of the year. Yesterday, Ghana became the first country to receive a vaccine care package from the UN-backed Covax program.</description>
@@ -360,15 +369,6 @@
   <author>Toby Howell</author>
   <categories>cosmetics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/12/loral-strong-q4-says-2021-looks-promising?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:34 -0800</pubDate>
- </item>
- <item>
-  <title>Meet the Air Taxi Startup Going Public via SPAC</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4020%2Farcher_plane.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Yesterday, electric aircraft startup Archer said it will SPAC into the public markets in a deal that values it at $3.8 billion. SPACs, or special purpose acquisition companies, have raised more than $38 billion so far this year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/10/meet-air-taxi-startup-going-public-via-spac?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>aviation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/10/meet-air-taxi-startup-going-public-via-spac?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 22 Feb 2021 10:21:34 -0800</pubDate>
  </item>
 
