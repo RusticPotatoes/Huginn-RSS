@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/24</link>
- <lastBuildDate>Wed, 24 Feb 2021 12:54:06 -0800</lastBuildDate>
- <pubDate>Wed, 24 Feb 2021 12:54:06 -0800</pubDate>
+ <lastBuildDate>Wed, 24 Feb 2021 14:39:06 -0800</lastBuildDate>
+ <pubDate>Wed, 24 Feb 2021 14:39:06 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Biden Addresses Global Semiconductor Chip Shortage With Executive Order</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FQ4MKucytzKYJ4elFhG%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Though the trip was a success, it exposed just how fragile the US public health supply chain is.  Bottom line: Biden’s executive order hopes to eventually reduce the US’ reliance on other countries across a wide swath of essential industries.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/24/biden-addresses-global-semiconductor-chip-shortage-executive-order</link>
+  <author>Toby Howell</author>
+  <categories>supply chain</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/biden-addresses-global-semiconductor-chip-shortage-executive-order</guid>
+  <pubDate>Wed, 24 Feb 2021 14:37:04 -0800</pubDate>
+ </item>
  <item>
   <title>Brew's Bookshelf: 15 Books for Black History Month</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;  Conversations in Black: On Power, Politics, and Leadership by Ed Gordon Imagine a roundtable discussion asking big questions about the future of Black leadership and navigating a divided country. Kendi A collection of essays from prominent Black scholars, journalists, and leaders examining different periods of Black history since the first slave ships arrived in the US in 1619. Journalist Ed Gordon brings that to life with curated answers from prominent Black politicians, activists, and leaders.  The Color of Money: Black Banks and the Racial Wealth Gap by Mehrsa BaradaranTo understand the racial wealth gap, first you have to understand the segregated economy it was built on and the history of Black banks and ownership.  Black Futures by Jenna Wortham and Kimberly DrewA 544-page anthology of art, essays, stories, recipes, memes, and more from Black creators around the world examining what it means to be "black and alive right now." Franchise: The Golden Arches in Black America by Marcia Chatelain What does McDonald's mean to the civil rights movement? Learn something new about the history of Black America, its impact on culture, business, and science, and ponder the question of "what's next?"</description>
@@ -360,15 +369,6 @@
   <author>Eliza Carter</author>
   <categories>space</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/09/uae-satellite-enters-mars-orbit-means?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:34 -0800</pubDate>
- </item>
- <item>
-  <title>Kirkland &amp; Ellis's 2020 Was Reportedly Its Best Year Yet</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3915%2Fbetter_call_saul.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If you're on the lookout for more pandemic winners, may we point you to Big Law. The world's highest-grossing law firm, Kirkland &amp; Ellis, is on track to post record annual revenue of ~$5 billion for the 12 months ending in January, according to the Financial Times.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/01/kirkland-elliss-2020-reportedly-best-year-yet?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>law</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/01/kirkland-elliss-2020-reportedly-best-year-yet?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 22 Feb 2021 10:21:34 -0800</pubDate>
  </item>
 
