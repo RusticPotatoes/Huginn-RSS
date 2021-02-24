@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/24</link>
- <lastBuildDate>Wed, 24 Feb 2021 14:54:02 -0800</lastBuildDate>
- <pubDate>Wed, 24 Feb 2021 14:54:02 -0800</pubDate>
+ <lastBuildDate>Wed, 24 Feb 2021 15:09:09 -0800</lastBuildDate>
+ <pubDate>Wed, 24 Feb 2021 15:09:09 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The First Fully Digital, NFT Artwork is Headed to Auction</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4171%2Fbeeple_art.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;NFT couldn’t ask for a more legitimizing momentWhile NFTs can arguably be traced back to 2012, they didn’t hit the mainstream until 2017 with blockchain-based CryptoKitties. Check out our NFT FAQ here.  On the auction block: A digital collage of the first 5,000 other-worldy images from Beeple’s “everyday” series, in which Winkelmann has created a new piece of digital art every day for over 10 years. It will be the first fully digital, NFT-based artwork ever sold by a major auction house, and the first to accept cryptocurrency (Ether, specifically) as a payment option. Last December, a collection of 20 Beeple pieces sold for $3.5 million on another NFT platform, Nifty Gateway.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/24/first-fully-digital-nft-artwork-headed-auction</link>
+  <author>Jamie Wilde</author>
+  <categories>nft</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/first-fully-digital-nft-artwork-headed-auction</guid>
+  <pubDate>Wed, 24 Feb 2021 15:07:09 -0800</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: February 25</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4170%2Fmilken_institute_2019_glo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Quote: “This is not ideal for us and it’s not a new normal. Read: The secret message NASA sent to Mars, and the people who decoded it. Texas’s move to deregulate power generation is being blamed for last week’s electricity crisis.</description>
@@ -361,15 +370,6 @@
   <categories>weather</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/15/mother-nature-unleashes-texassized-storm-south?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 22 Feb 2021 10:21:35 -0800</pubDate>
- </item>
- <item>
-  <title>L’Oréal Has Strong Q4, Says 2021 Looks Promising</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fsp685iuIEGuys%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The next years will “be like the Roaring 20s, there will be a fiesta in makeup and in fragrances,” L’Oréal CEO and Chairman Jean-Paul Agon predicted when discussing the company's results. Well, actually, more like e-commerce in China.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/12/loral-strong-q4-says-2021-looks-promising?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>cosmetics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/12/loral-strong-q4-says-2021-looks-promising?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:34 -0800</pubDate>
  </item>
 
 </channel>
