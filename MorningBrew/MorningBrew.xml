@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/24</link>
- <lastBuildDate>Wed, 24 Feb 2021 03:04:07 -0800</lastBuildDate>
- <pubDate>Wed, 24 Feb 2021 03:04:07 -0800</pubDate>
+ <lastBuildDate>Wed, 24 Feb 2021 12:09:05 -0800</lastBuildDate>
+ <pubDate>Wed, 24 Feb 2021 12:09:05 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Morning Brew Style Blog, No. 8: How to Kill Your Darlings</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FTXRHoV5Dvv7cA%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Maybe that reads a little blunt.  Then, you can go through the process described in No. 1; if the draft you write to your college roommate Dan feels too casual, you can zhuzh it up. That’s why editors are essential And I’m not just saying that because it’s review season and my editor decides whether I get a raise. Your best editor can be (and often is) a friend or family member—often, the person who’s most brutally honest about your outfits is your best editor. The magic of a good editor is that she can filter all the unneeded stuff gumming up your sentences without compromising your voice. If you feel it’s too much, you can add back a few fluffy descriptors, or maybe even Jeffrey’s name. And because we love making things way more morbid than they need to be, news folks call the process of removing excess verbiage “killing your darlings,” and sometimes even—sorry—“killing babies.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/24/morning-brew-style-blog-no-8-kill-darlings</link>
+  <author>Eliza Carter</author>
+  <categories>grammar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/morning-brew-style-blog-no-8-kill-darlings</guid>
+  <pubDate>Wed, 24 Feb 2021 12:07:03 -0800</pubDate>
+ </item>
  <item>
   <title>Fans Return to NYC's Basketball Arenas</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4145%2Fmsg.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: The Knicks and Nets make it 14 NBA teams (out of 30) that are allowing fans to attend games. The backstory: NY Gov. Andrew Cuomo has allowed attendance at arenas provided that fans show a negative PCR Covid-19 test 72 hours before the event starts.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>pics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2020/11/23/photos-vaccination-throughout-history?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:34 -0800</pubDate>
- </item>
- <item>
-  <title>How to File Your Taxes as a Sole Proprietor</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4123%2F1040_tax_form.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; First, you’re gonna have to fill out some forms: Income Tax: 1040 (individual income tax return), including a Schedule C (profit or loss from an unincorporated business) Self-Employment Tax: Schedule SE If you have employees, tack on: Estimated Tax: 1040-ESSocial Security, Medicare, and Income Tax Withholding: 941, 943, 944 More Info on Social Security, Medicare, and Income Tax Withholding: W-2, W-3 Federal Unemployment (FUTA) Tax: 940 You may also need to work through issues like information returns (payments to and transactions with non-employees) and excise taxes (taxes paid on certain goods, like gas). A sole proprietorship is the most DIY of all business structures: Legally speaking, there’s no difference between you and your biz.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/22/file-taxes-sole-proprietor</link>
-  <author>Devin Tomb</author>
-  <categories>taxes</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/file-taxes-sole-proprietor</guid>
   <pubDate>Mon, 22 Feb 2021 10:21:34 -0800</pubDate>
  </item>
 
