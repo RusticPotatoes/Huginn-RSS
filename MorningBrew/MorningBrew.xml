@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/25</link>
- <lastBuildDate>Thu, 25 Feb 2021 03:04:07 -0800</lastBuildDate>
- <pubDate>Thu, 25 Feb 2021 03:04:07 -0800</pubDate>
+ <lastBuildDate>Thu, 25 Feb 2021 12:34:10 -0800</lastBuildDate>
+ <pubDate>Thu, 25 Feb 2021 12:34:10 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>How to File Your Taxes as an LLC</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4182%2Ftaxe_time.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Plus, maybe an E (real estate, royalties, and other stuff), or an F (farmers, what’s up).  Now, there are a couple ways to file as an LLC: If you’re a single-member LLC (you own the business, and only you) and you’re filing as an individual, you’ll report your income and expenses on a 1040 (individual income tax return) and a Schedule C (profit or loss from an unincorporated business).  If you have employees, you’ll file separately from a 1040 or 1065: Estimated Tax: 1040-ESSocial Security, Medicare, and Income Tax Withholding: 941, 943, 944 More Info on Social Security, Medicare, and Income Tax Withholding: W-2, W-3 Federal Unemployment (FUTA) Tax: 940 You may also need to work through issues like information returns (payments to and transactions with non-employees) and excise taxes (taxes paid on certain goods, like gas). Or you simply like to decompress with a weighted blanket and some tax documents?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/25/file-taxes-llc</link>
+  <author>Devin Tomb</author>
+  <categories>taxes</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/25/file-taxes-llc</guid>
+  <pubDate>Thu, 25 Feb 2021 12:32:08 -0800</pubDate>
+ </item>
  <item>
   <title>Silicon Valley Mainstay Fry’s Electronics Store to Close</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;  Fry’s was unable to pivot to e-commerce quickly enough to compete with rivals like Amazon and Best Buy. Then, the Covid-19 pandemic delivered the fatal blow, causing foot traffic to plummet and in-store experiences to become irrelevant.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/economic-data-points-positive-economic-recovery?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:35 -0800</pubDate>
- </item>
- <item>
-  <title>It is Snowing in Hawaii</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4118%2Fhawaii_volcanoes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;🤙  + Of course they have: Some locals have swapped their surfboards to snowboards to shred what they’re calling “pineapple powder.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/19/snowing-hawaii?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>weather</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/19/snowing-hawaii?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 22 Feb 2021 10:21:35 -0800</pubDate>
  </item>
 
