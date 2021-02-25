@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/02/24/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/02/24/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/02/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/02/25/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/02/24</link>
- <lastBuildDate>Wed, 24 Feb 2021 16:24:05 -0800</lastBuildDate>
- <pubDate>Wed, 24 Feb 2021 16:24:05 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/02/25</link>
+ <lastBuildDate>Thu, 25 Feb 2021 03:04:07 -0800</lastBuildDate>
+ <pubDate>Thu, 25 Feb 2021 03:04:07 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Silicon Valley Mainstay Fry’s Electronics Store to Close</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;  Fry’s was unable to pivot to e-commerce quickly enough to compete with rivals like Amazon and Best Buy. Then, the Covid-19 pandemic delivered the fatal blow, causing foot traffic to plummet and in-store experiences to become irrelevant.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/24/silicon-valley-mainstay-frys-electronics-store-close?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/silicon-valley-mainstay-frys-electronics-store-close?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 25 Feb 2021 03:02:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: February 25</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4170%2Fmilken_institute_2019_glo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Quote: “This is not ideal for us and it’s not a new normal. Read: The secret message NASA sent to Mars, and the people who decoded it. Texas’s move to deregulate power generation is being blamed for last week’s electricity crisis.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/24/key-performance-indicators-february-25?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/key-performance-indicators-february-25?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 25 Feb 2021 03:02:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>First Covax Delivery Touches Down in Accra, Ghana</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;  Funded by donations, it hopes to vaccinate 20% of people in the world’s 92 poorest countries by the end of the year. Yesterday, Ghana became the first country to receive a vaccine care package from the UN-backed Covax program. Ivory Coast is up next later this week.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/24/first-covax-delivery-touches-accra-ghana?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>covid 19</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/first-covax-delivery-touches-accra-ghana?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 25 Feb 2021 03:02:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>Biden Addresses Global Semiconductor Chip Shortage With Executive Order</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FQ4MKucytzKYJ4elFhG%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Bottom line: While just a starting point, Biden’s executive order hopes to eventually reduce the US’ reliance on other countries across a wide swath of critical industries. Though the trip was a success, it exposed just how fragile the US public health supply chain is.   </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/24/biden-addresses-global-semiconductor-chip-shortage-executive-order?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>supply chain</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/biden-addresses-global-semiconductor-chip-shortage-executive-order?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 25 Feb 2021 03:02:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>The First Fully Digital, NFT Artwork Is Headed to Auction</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4171%2Fbeeple_art.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Now, NFT couldn’t ask for a more legitimizing momentWhile NFTs can arguably be traced back to 2012, they didn’t hit the mainstream until 2017 with blockchain-based CryptoKitties.  On the auction block: A digital collage of the first 5,000 other-worldy images from Beeple’s “everyday” series, in which Winkelmann has created a new piece of digital art every day for over 10 years. Last December, a collection of 20 Beeple pieces sold for $3.5 million on another NFT platform, Nifty Gateway. Check out our NFT FAQ here.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/24/first-fully-digital-nft-artwork-headed-auction?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/first-fully-digital-nft-artwork-headed-auction?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 25 Feb 2021 03:02:04 -0800</pubDate>
+ </item>
  <item>
   <title>NFT: Frequently Asked Questions</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;And yes, you can make money off of an NFT by buying and reselling it for more. The creators of CryptoKitties started Top Shot, a platform for buying NFTs on NBA clips, and Beeple’s digital artwork is being auctioned by Christie’s.   When the digital asset goes on sale, you’re randomly chosen to buy it. One reason to buy an NFT is for its emotional value, which isn’t so different from physical objects... Can I make money on it?  On Top Shot for instance, you register to join a waitlist that can be thousands of NBA fans long. Anything that exists online can be purchased as an NFT, theoretically. Are NFTs new?  Here’s a Fast FAQ with five of the most-pressing questions about NFTs.What is an NFT? They buy it for the way it makes them feel.</description>
@@ -324,51 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>weather</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/19/snowing-hawaii?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:35 -0800</pubDate>
- </item>
- <item>
-  <title>Roku Breaks Records In Its Q4 Earnings Report</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4117%2Froku_premiere_streaming_b.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;As people filled their 2020 voids with CW dramas, Roku’s users streamed 10% more per day in the fourth quarter of 2020 than they did in Q4 2019. It’s now on the lookout for more content to acquire, or even create some original programming of its own.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/19/roku-breaks-records-q4-earnings-report?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/19/roku-breaks-records-q4-earnings-report?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:35 -0800</pubDate>
- </item>
- <item>
-  <title>Covid Vaccine Tracker</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4119%2Fdaily_covid-19_doses_administered.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; One dose to rule them all: A peer-reviewed study conducted in Israel found that Pfizer’s vaccine is at least 85% effective after the first of two doses. 6.47 million doses are being administered daily, on average. 193 million doses have been administered in 87 different countries.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/19/covid-vaccine-tracker?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/19/covid-vaccine-tracker?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:35 -0800</pubDate>
- </item>
- <item>
-  <title>Marriott CEO Arne Sorenson Passes Away</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4073%2Farne_sorenson.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The $42 billion company he leaves behind will name a successor by the end of the month.  During his tenure, Marriott's stock rose over 240%. Sorenson also used his position to speak out on issues around immigration and LGBTQ discrimination.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/16/marriott-ceo-arne-sorenson-passes-away?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>hospitality</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/16/marriott-ceo-arne-sorenson-passes-away?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:35 -0800</pubDate>
- </item>
- <item>
-  <title>Snowstorm Unexpectedly Freezes Some US Businesses</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4071%2Ftruck_snow.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  A fearsome storm continued to roll through the south and central US yesterday, leaving millions of households without power in bone-chilling temperatures. Some authorities in Texas had to rush doses into people’s arms before they spoiled.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/16/snowstorm-unexpectedly-freezes-us-businesses?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>weather</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/16/snowstorm-unexpectedly-freezes-us-businesses?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:35 -0800</pubDate>
- </item>
- <item>
-  <title>WTO Appoints Ngozi Okonjo-Iwealea as Director-General</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4065%2Fngozi_okonjo-iweala.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, she was selected as the new WTO director-general. the WTO needs its court running. Okonjo-Iweala wants to reform the WTO to win back respect, promote fair trade, and help with the pandemic recovery. When she starts her 4.5-year term at the WTO next month, she'll be the first woman, African, and (a dual citizen since 2019) American to head the organization.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/15/wto-appoints-ngozi-okonjoiwealea-directorgeneral?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/15/wto-appoints-ngozi-okonjoiwealea-directorgeneral?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 22 Feb 2021 10:21:35 -0800</pubDate>
  </item>
 
