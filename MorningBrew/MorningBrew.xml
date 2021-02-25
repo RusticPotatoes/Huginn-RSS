@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/25</link>
- <lastBuildDate>Thu, 25 Feb 2021 14:29:05 -0800</lastBuildDate>
- <pubDate>Thu, 25 Feb 2021 14:29:05 -0800</pubDate>
+ <lastBuildDate>Thu, 25 Feb 2021 14:49:08 -0800</lastBuildDate>
+ <pubDate>Thu, 25 Feb 2021 14:49:08 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Brew’s Weekly News Quiz: February 26</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/25/brews-weekly-news-quiz-february-26</link>
+  <author>Jamie Wilde</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/25/brews-weekly-news-quiz-february-26</guid>
+  <pubDate>Thu, 25 Feb 2021 14:47:07 -0800</pubDate>
+ </item>
  <item>
   <title>Markets at a Crossroads: Stocks Drop and Bonds Surge</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4189%2Fbull.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the yield on the 10-year note briefly surpassed what's known as the S&amp;P's "dividend yield," a threshold investors use to measure the relative attractiveness of stocks vs. The more a bond yields, the more it competes with stocks. Some perspective before we move on: The Dow hit a record high on Wednesday, and the S&amp;P is less than 3% below its all-time high.</description>
@@ -361,15 +370,6 @@
   <categories>legal</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/trump-taxes-supreme-court-allows-manhattan-da-subpoena-financial-documents</guid>
   <pubDate>Mon, 22 Feb 2021 14:47:00 -0800</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: February 22</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3974%2Fbiden_stimulus_plan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Let us know if you've got any fun costumes planned. On Thursday, Airbnb and DoorDash will deliver their first earnings reports since going public. Chag sameach to our Jewish readers celebrating Purim Thursday night.  Warren Buffett will release his famous annual shareholder letter on Saturday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/22/week-ahead-february-22?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/week-ahead-february-22?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:35 -0800</pubDate>
  </item>
 
 </channel>
