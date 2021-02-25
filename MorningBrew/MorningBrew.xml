@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/25</link>
- <lastBuildDate>Thu, 25 Feb 2021 14:24:09 -0800</lastBuildDate>
- <pubDate>Thu, 25 Feb 2021 14:24:09 -0800</pubDate>
+ <lastBuildDate>Thu, 25 Feb 2021 14:29:05 -0800</lastBuildDate>
+ <pubDate>Thu, 25 Feb 2021 14:29:05 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Markets at a Crossroads: Stocks Drop and Bonds Surge</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4189%2Fbull.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the yield on the 10-year note briefly surpassed what's known as the S&amp;P's "dividend yield," a threshold investors use to measure the relative attractiveness of stocks vs. The more a bond yields, the more it competes with stocks. Some perspective before we move on: The Dow hit a record high on Wednesday, and the S&amp;P is less than 3% below its all-time high.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/25/markets-crossroads-stocks-drop-bonds-surge</link>
+  <author>Neal Freyman</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/25/markets-crossroads-stocks-drop-bonds-surge</guid>
+  <pubDate>Thu, 25 Feb 2021 14:27:05 -0800</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: February 26</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2723%2Fjack_dorsey.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Protocol) com built a streaming empire.  Read: How Chess.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/week-ahead-february-22?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 22 Feb 2021 10:21:35 -0800</pubDate>
- </item>
- <item>
-  <title>Coinbase, Stripe Valued Above $100B</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3457%2Fcoinbase_ipo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  As the first US-based crypto exchange to go public, it'll also confer major legitimacy to digital currencies.  First up, CoinbaseAhead of its planned direct listing, investors are valuing Coinbase at $100+ billion, which would make it the biggest US tech listing since Facebook, per Axios.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/22/coinbase-stripe-valued-100b?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>fintech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/coinbase-stripe-valued-100b?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 22 Feb 2021 10:21:35 -0800</pubDate>
  </item>
 
