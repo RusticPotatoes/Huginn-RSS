@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/26</link>
- <lastBuildDate>Fri, 26 Feb 2021 15:18:31 -0800</lastBuildDate>
- <pubDate>Fri, 26 Feb 2021 15:18:31 -0800</pubDate>
+ <lastBuildDate>Fri, 26 Feb 2021 15:23:29 -0800</lastBuildDate>
+ <pubDate>Fri, 26 Feb 2021 15:23:29 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Pokémon Keeps Evolving As It Turns 25</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FEktbegF3J8QIo%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In the short-term, you can watch a Pokémon x Post Malone concert at 7pm ET and in the medium-term, see how Pokémon’s evolving again into an open-world RPG.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/26/pokmon-keeps-evolving-turns-25</link>
+  <author>Jamie Wilde</author>
+  <categories>videogames</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/pokmon-keeps-evolving-turns-25</guid>
+  <pubDate>Fri, 26 Feb 2021 15:21:28 -0800</pubDate>
+ </item>
  <item>
   <title>Netflix Starts a $100 Million Global Diversity Fund</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4207%2Fbridgerton.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Netflix is launching a global fund that will direct $100 million to initiatives supporting underrepresented groups in entertainment. BIg picture: A new study by the University of Southern California’s Annenberg Inclusion Initiative found that underrepresented groups accounted for 36% of Netflix film leads in 2018 and 2019.    </description>
@@ -361,15 +370,6 @@
   <categories>explainer</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/market-capitalization</guid>
   <pubDate>Tue, 23 Feb 2021 15:07:03 -0800</pubDate>
- </item>
- <item>
-  <title>Should You Be Worried About Inflation? Short Answer: Probably Not</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt; Zoom out: Indicators of inflation usually show up in the job market; when it overheats, inflation can start to snowball.   But the current job market is like the frozen burrito you threw in the microwave—overheated on the surface (high yearly wage growth), but icy at the core (elevated unemployment claims). These soothing words helped stocks mount their big comeback yesterday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/23/worried-inflation-short-answer-probably-not</link>
-  <author>Eliza Carter</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/worried-inflation-short-answer-probably-not</guid>
-  <pubDate>Tue, 23 Feb 2021 15:02:03 -0800</pubDate>
  </item>
 
 </channel>
