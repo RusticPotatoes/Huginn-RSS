@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/26</link>
- <lastBuildDate>Fri, 26 Feb 2021 03:04:10 -0800</lastBuildDate>
- <pubDate>Fri, 26 Feb 2021 03:04:10 -0800</pubDate>
+ <lastBuildDate>Fri, 26 Feb 2021 07:54:12 -0800</lastBuildDate>
+ <pubDate>Fri, 26 Feb 2021 07:54:12 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Why Does Every Streaming Service Have a Plus Sign?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4191%2Fparamount_plus.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Some industry analysts think that streaming services may be in a better position for the long-term if they can resist adding the plus sign.  Off the top of my head I can count Discovery+, Disney+, ESPN+, Apple TV+, BET+, and AMC+. we may not have another streaming service with a + for a while, because we may not even have a new streaming service for a while.  "Our research confirmed that the plus sign has become synonymous with streaming video on demand services," David Leavy, chief operating officer for Discovery, told the LA Times. As CNBC notes, Paramount+ is the last of the big streaming unveils that started with Apple TV+ in March 2019.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/26/every-streaming-service-plus-sign</link>
+  <author>Neal Freyman</author>
+  <categories>big deal</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/every-streaming-service-plus-sign</guid>
+  <pubDate>Fri, 26 Feb 2021 07:52:08 -0800</pubDate>
+ </item>
  <item>
   <title>Soho House Files to Go Public: Will the Travel Industry Bounce Back?</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FPijan7NjATZktmxZJh%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The IPO is kinda like Soho House itself—we all poke fun at its upper-crust, jet-set brand, right up until we're two Sancerres deep and considering a mortgage refinance to cover a membership.</description>
@@ -361,15 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/spotify-joins-rest-media-world-focusing-international-expansion?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 23 Feb 2021 03:02:02 -0800</pubDate>
- </item>
- <item>
-  <title>Spotify Joins the Rest of the Media World in Focusing on International Expansion</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4141%2Finternational_media.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;    Netflix has invested in international content to differentiate itself in the streaming wars, maintain an upward growth trajectory, and serve something fresh to its American viewers. Put another way, a more global user base will help New Music Friday surface the Lupins of the music world.  Big picture: With Hollywood and NYC churning out cultural hit after cultural hit, the US has historically dominated the music and entertainment industries.  "All this untapped music energy and access to our innovative creator tools will help propel artists to new heights," Spotify wrote in a statement.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/22/spotify-joins-rest-media-world-focusing-international-expansion</link>
-  <author>Toby Howell</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/spotify-joins-rest-media-world-focusing-international-expansion</guid>
-  <pubDate>Mon, 22 Feb 2021 15:37:10 -0800</pubDate>
  </item>
 
 </channel>
