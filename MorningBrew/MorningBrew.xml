@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/26</link>
- <lastBuildDate>Fri, 26 Feb 2021 15:03:27 -0800</lastBuildDate>
- <pubDate>Fri, 26 Feb 2021 15:03:27 -0800</pubDate>
+ <lastBuildDate>Fri, 26 Feb 2021 15:08:27 -0800</lastBuildDate>
+ <pubDate>Fri, 26 Feb 2021 15:08:27 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>White House Ups the Pressure on MBS in New Report</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4202%2Ftopshot-saudi-politics-di.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Saudi Arabia is also the largest buyer of US defense goods.  The backstoryKhashoggi, a Washington Post columnist and critic of the Saudi royal family, was assassinated in 2018 in the Saudi consulate in Istanbul. Khashoggi’s killing drew outrage from the international media and US lawmakers, and investigations zeroed in on the role of Mohammed bin Salman (MBS), the 35-year-old de facto ruler of the kingdom. Following Khashoggi’s murder in 2018, corporate America tried to distance itself from the kingdom by skipping the buzzy “Davos in the Desert” investment conference held in the Saudi capital, Riyadh.     Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/26/white-house-ups-pressure-mbs-new-report</link>
+  <author>Neal Freyman</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/white-house-ups-pressure-mbs-new-report</guid>
+  <pubDate>Fri, 26 Feb 2021 15:06:25 -0800</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: February 27</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F508%2Fairbnb.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Bloomberg)  Read: A profile of Janelle Jones, the first Black woman to be chief Labor economist. We are in a serious inventory crunch, folks.</description>
@@ -361,15 +370,6 @@
   <categories>auto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/lucid-motors-spac-falls-39-news-deal</guid>
   <pubDate>Tue, 23 Feb 2021 15:02:03 -0800</pubDate>
- </item>
- <item>
-  <title>LVMH Buys 50% Stake in Jay-Z's Champagne Brand</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4142%2Face_of_spades.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, business mogul and rapper Jay-Z sold a 50% stake in his champagne brand, Armand de Brignac, to the wine and spirits division of luxury conglomerate LVMH.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/22/lvmh-buys-50-stake-jayzs-champagne-brand?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>luxury</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/lvmh-buys-50-stake-jayzs-champagne-brand?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 23 Feb 2021 03:02:02 -0800</pubDate>
  </item>
 
 </channel>
