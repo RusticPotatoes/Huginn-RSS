@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/26</link>
- <lastBuildDate>Fri, 26 Feb 2021 14:58:46 -0800</lastBuildDate>
- <pubDate>Fri, 26 Feb 2021 14:58:46 -0800</pubDate>
+ <lastBuildDate>Fri, 26 Feb 2021 15:03:27 -0800</lastBuildDate>
+ <pubDate>Fri, 26 Feb 2021 15:03:27 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: February 27</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F508%2Fairbnb.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Bloomberg)  Read: A profile of Janelle Jones, the first Black woman to be chief Labor economist. We are in a serious inventory crunch, folks.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/26/key-performance-indicators-february-27</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/key-performance-indicators-february-27</guid>
+  <pubDate>Fri, 26 Feb 2021 15:01:26 -0800</pubDate>
+ </item>
+ <item>
+  <title>Zoom Fatigue is a Real Thing According to a Stanford Study</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4205%2Fzoom_sadness.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The constant stream of eyeball-straining, headache-inducing, don’t-get-caught-yawning Zoom calls are having a tangible effect on our brains, according to a new study from Stanford researchers. Shares of the company are down around 16% in the last 10 days after exploding 443% in 2020.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/26/zoom-fatigue-real-thing-according-stanford-study</link>
+  <author>Toby Howell</author>
+  <categories>wfh</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/zoom-fatigue-real-thing-according-stanford-study</guid>
+  <pubDate>Fri, 26 Feb 2021 15:01:26 -0800</pubDate>
+ </item>
  <item>
   <title>Covid Vaccine Tracker</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Cleared for takeoff: Regulators in Canada approved AstraZeneca’s vaccine for adults, the third vaccine it’s approved. 1.45 million doses per day were administered last week, on average, a slight dip from the 1.58 million average a week prior. That’s up from 59.1 million doses last Saturday. Speaking of... In the US...</description>
@@ -351,24 +369,6 @@
   <author>Toby Howell</author>
   <categories>luxury</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/lvmh-buys-50-stake-jayzs-champagne-brand?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 23 Feb 2021 03:02:02 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: February 23</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4139%2Fsenate_judiciary_committe.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The New Yorker)   Read: We're living in an age of peak advice. That's a 50% increase from 2019.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/22/key-performance-indicators-february-23?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/key-performance-indicators-february-23?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 23 Feb 2021 03:02:02 -0800</pubDate>
- </item>
- <item>
-  <title>Cherokee Nation Requests That Jeep Drop Cherokee Name</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4144%2Fjeep_cherokee.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;the US auto industry has a long history of using Native American monikers and imagery.  Chief Chuck Hoskin Jr. requested that Jeep stop using his tribe's name on its Cherokee and Grand Cherokee SUVs, which together account for more than 40% of the brand's total sales.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/22/cherokee-nation-requests-jeep-drop-cherokee-name?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/cherokee-nation-requests-jeep-drop-cherokee-name?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 23 Feb 2021 03:02:02 -0800</pubDate>
  </item>
 
