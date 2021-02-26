@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/02/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/02/25/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/02/26/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/02/26/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/02/25</link>
- <lastBuildDate>Thu, 25 Feb 2021 14:49:08 -0800</lastBuildDate>
- <pubDate>Thu, 25 Feb 2021 14:49:08 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/02/26</link>
+ <lastBuildDate>Fri, 26 Feb 2021 03:04:10 -0800</lastBuildDate>
+ <pubDate>Fri, 26 Feb 2021 03:04:10 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Soho House Files to Go Public: Will the Travel Industry Bounce Back?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FPijan7NjATZktmxZJh%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The IPO is kinda like Soho House itself—we all poke fun at its upper-crust, jet-set brand, right up until we're two Sancerres deep and considering a mortgage refinance to cover a membership.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/25/soho-house-files-go-public-will-travel-industry-bounce-back?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>leisure</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/25/soho-house-files-go-public-will-travel-industry-bounce-back?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 26 Feb 2021 03:02:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: February 26</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2723%2Fjack_dorsey.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Protocol) com built a streaming empire.  Read: How Chess.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/25/key-performance-indicators-february-26?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/25/key-performance-indicators-february-26?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 26 Feb 2021 03:02:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>Costco Raises Minimum Wage to $16</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4188%2Fcostco.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, Costco CEO Craig Jelinek said his company is bumping starting pay to $16/hour—$1 more than Target, Best Buy, and Amazon.   </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/25/costco-raises-minimum-wage-16?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/25/costco-raises-minimum-wage-16?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 26 Feb 2021 03:02:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>Markets at a Crossroads: Stocks Drop and Bonds Surge</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4189%2Fbull.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the yield on the 10-year note briefly surpassed what's known as the S&amp;P's "dividend yield," a threshold investors use to measure the relative attractiveness of stocks vs. The more a bond yields, the more it competes with stocks. Some perspective before we move on: The Dow hit a record high on Wednesday, and the S&amp;P is less than 3% below its all-time high.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/25/markets-crossroads-stocks-drop-bonds-surge?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/25/markets-crossroads-stocks-drop-bonds-surge?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 26 Feb 2021 03:02:07 -0800</pubDate>
+ </item>
  <item>
   <title>The Brew’s Weekly News Quiz: February 26</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -334,42 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/spotify-joins-rest-media-world-focusing-international-expansion</guid>
   <pubDate>Mon, 22 Feb 2021 15:37:10 -0800</pubDate>
- </item>
- <item>
-  <title>LVMH Buys 50% Stake in Jay-Z's Champagne Brand</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4142%2Face_of_spades.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, business mogul and rapper Jay-Z sold a 50% stake in his champagne brand, Armand de Brignac, to the wine and spirits division of luxury conglomerate LVMH.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/22/lvmh-buys-50-stake-jayzs-champagne-brand</link>
-  <author>Toby Howell</author>
-  <categories>luxury</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/lvmh-buys-50-stake-jayzs-champagne-brand</guid>
-  <pubDate>Mon, 22 Feb 2021 15:12:02 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: February 23</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4139%2Fsenate_judiciary_committe.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The New Yorker)   Read: We're living in an age of peak advice. That's a 50% increase from 2019.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/22/key-performance-indicators-february-23</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/key-performance-indicators-february-23</guid>
-  <pubDate>Mon, 22 Feb 2021 14:57:04 -0800</pubDate>
- </item>
- <item>
-  <title>Cherokee Nation Requests That Jeep Drop Cherokee Name</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4140%2F2021_jeep_cherokee_trailhawk.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;the US auto industry has a long history of using Native American monikers and imagery.  Chief Chuck Hoskin Jr. requested that Jeep stop using his tribe's name on its Cherokee and Grand Cherokee SUVs, which together account for more than 40% of the brand's total sales.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/22/cherokee-nation-requests-jeep-drop-cherokee-name</link>
-  <author>Alex Hickey</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/cherokee-nation-requests-jeep-drop-cherokee-name</guid>
-  <pubDate>Mon, 22 Feb 2021 14:52:08 -0800</pubDate>
- </item>
- <item>
-  <title>Trump Taxes: Supreme Court Allows Manhattan DA to Subpoena Financial Documents</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1674%2Ftrump_org_documents.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the nation's highest court blocked former President Trump from keeping his financial records out of the hands of Manhattan District Attorney Cyrus Vance Jr. The details of Vance's investigation into alleged tax, insurance, and bank fraud by the Trump Organization (which includes residential and commercial real estate) haven't been made public.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/22/trump-taxes-supreme-court-allows-manhattan-da-subpoena-financial-documents</link>
-  <author>Alex Hickey</author>
-  <categories>legal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/22/trump-taxes-supreme-court-allows-manhattan-da-subpoena-financial-documents</guid>
-  <pubDate>Mon, 22 Feb 2021 14:47:00 -0800</pubDate>
  </item>
 
 </channel>
