@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/02/26/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/02/26/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/02/27/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/02/27/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/02/26</link>
- <lastBuildDate>Fri, 26 Feb 2021 15:23:29 -0800</lastBuildDate>
- <pubDate>Fri, 26 Feb 2021 15:23:29 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/02/27</link>
+ <lastBuildDate>Sat, 27 Feb 2021 03:03:34 -0800</lastBuildDate>
+ <pubDate>Sat, 27 Feb 2021 03:03:34 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Pokémon Keeps Evolving As It Turns 25</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FEktbegF3J8QIo%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;in the short-term, you can watch a Pokémon x Post Malone concert at 7pm ET and in the medium-term, see how Pokémon’s evolving again into an open-world RPG.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/26/pokmon-keeps-evolving-turns-25?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>video games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/pokmon-keeps-evolving-turns-25?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 27 Feb 2021 03:01:32 -0800</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: February 27</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F508%2Fairbnb.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Bloomberg)  Read: A profile of Janelle Jones, the first Black woman to be chief Labor economist. We are in a serious inventory crunch, folks.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/26/key-performance-indicators-february-27?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/key-performance-indicators-february-27?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 27 Feb 2021 03:01:32 -0800</pubDate>
+ </item>
+ <item>
+  <title>Netflix Starts a $100 Million Global Diversity Fund</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4207%2Fbridgerton.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Netflix is launching a global fund that will direct $100 million to initiatives supporting underrepresented groups in entertainment. Big picture: A new study by the University of Southern California’s Annenberg Inclusion Initiative found that underrepresented groups accounted for 36% of Netflix film leads in 2018 and 2019.    </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/26/netflix-starts-100-million-global-diversity-fund?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/netflix-starts-100-million-global-diversity-fund?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 27 Feb 2021 03:01:32 -0800</pubDate>
+ </item>
+ <item>
+  <title>Covid Vaccine Tracker</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Cleared for takeoff: Regulators in Canada approved AstraZeneca’s vaccine for adults, the third vaccine it’s approved. That’s up from 59.1 million doses last Saturday. Speaking of... In the US... Around the world…231 million doses have been administered in 100 different countries, up from 193 million doses in 87 countries last week.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/26/covid-vaccine-tracker?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/covid-vaccine-tracker?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 27 Feb 2021 03:01:32 -0800</pubDate>
+ </item>
+ <item>
+  <title>White House Ups the Pressure on MBS in New Report</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4202%2Ftopshot-saudi-politics-di.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Saudi Arabia is also the largest buyer of US defense goods.  The backstoryKhashoggi, a Washington Post columnist and critic of the Saudi royal family, was assassinated in 2018 in the Saudi consulate in Istanbul. Following Khashoggi’s murder in 2018, corporate America tried to distance itself from the kingdom by skipping the buzzy “Davos in the Desert” investment conference held in the Saudi capital, Riyadh. Khashoggi’s killing drew outrage from the international media and US lawmakers, and investigations zeroed in on the role of Mohammed bin Salman (MBS), the 35-year-old de facto ruler of the kingdom.   </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/26/white-house-ups-pressure-mbs-new-report?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/white-house-ups-pressure-mbs-new-report?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 27 Feb 2021 03:01:32 -0800</pubDate>
+ </item>
  <item>
   <title>Pokémon Keeps Evolving As It Turns 25</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FEktbegF3J8QIo%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In the short-term, you can watch a Pokémon x Post Malone concert at 7pm ET and in the medium-term, see how Pokémon’s evolving again into an open-world RPG.</description>
@@ -325,51 +370,6 @@
   <categories>housing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/us-home-prices-spiked-december?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 24 Feb 2021 03:02:04 -0800</pubDate>
- </item>
- <item>
-  <title>Should You Be Worried About Inflation? Short Answer: Probably Not</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt; Zoom out: Indicators of inflation usually show up in the job market; when it overheats, inflation can start to snowball.    Tech shares in the US and Europe have slumped in anticipation of potential interest rate hikes, a move central banks might make to keep inflation at bay. But many economists say there's no need to worry Including the ones who actually oversee the economy. But the current job market is like the frozen burrito you threw in the microwave—hot on the surface (high yearly wage growth), but icy at the core (elevated unemployment claims).</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/23/worried-inflation-short-answer-probably-not?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/worried-inflation-short-answer-probably-not?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 24 Feb 2021 03:02:04 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: February 24</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4150%2Fhp_hood_enters_alternativ.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Read: On creativity and TikTok. (Eugene Wei) Yesterday, the Swedish vegan milk company Oatly filed confidentially for an IPO, and it's aiming for a valuation of up to $10 billion.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/23/key-performance-indicators-february-24</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/key-performance-indicators-february-24</guid>
-  <pubDate>Tue, 23 Feb 2021 16:07:01 -0800</pubDate>
- </item>
- <item>
-  <title>Fans Return to NYC's Basketball Arenas</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4145%2Fmsg.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: The Knicks and Nets make it 14 NBA teams (out of 30) that are allowing fans to attend games.  Across the East River, the Brooklyn Nets also welcomed fans back to the Barclays Center.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/23/fans-return-nycs-basketball-arenas</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/fans-return-nycs-basketball-arenas</guid>
-  <pubDate>Tue, 23 Feb 2021 15:12:00 -0800</pubDate>
- </item>
- <item>
-  <title>US Home Prices Spiked in December</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3179%2Fhousing_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: A mix of historically low interest rates, the pandemic pushing people out of small apartments, and an inventory squeeze have juiced prices to unaffordable levels for many potential homebuyers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/23/us-home-prices-spiked-december</link>
-  <author>Neal Freyman</author>
-  <categories>housing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/us-home-prices-spiked-december</guid>
-  <pubDate>Tue, 23 Feb 2021 15:12:00 -0800</pubDate>
- </item>
- <item>
-  <title>What is Market Capitalization?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2334%2Fstocks_declining.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Ask us something else here. Worth noting: Market cap =/= how much it costs to buy a company. Brew's answer: Market capitalization, aka "market cap," is a measure of a public company's worth based on the dollar value of outstanding shares.  Even though Tesla only recently became profitable and has had numerous issues meeting production schedules, investors believe that the EV market is going to explode.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/23/market-capitalization</link>
-  <author>Alex Hickey</author>
-  <categories>explainer</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/market-capitalization</guid>
-  <pubDate>Tue, 23 Feb 2021 15:07:03 -0800</pubDate>
  </item>
 
 </channel>
