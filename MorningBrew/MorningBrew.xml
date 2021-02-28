@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/02/27/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/02/27/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/02/28/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/02/28/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/02/27</link>
- <lastBuildDate>Sat, 27 Feb 2021 03:03:34 -0800</lastBuildDate>
- <pubDate>Sat, 27 Feb 2021 03:03:34 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/02/28</link>
+ <lastBuildDate>Sun, 28 Feb 2021 10:43:56 -0800</lastBuildDate>
+ <pubDate>Sun, 28 Feb 2021 10:43:56 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Science Says: Zoom Fatigue Is Real</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4205%2Fzoom_sadness.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The constant stream of eyeball-straining, headache-inducing, don’t-get-caught-yawning Zoom calls are having a tangible effect on our brains, according to a new study from Stanford researchers. Shares of the company are down around 16% in the last 10 days after exploding 443% in 2020.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/28/science-says-zoom-fatigue-real</link>
+  <author>Toby Howell</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/28/science-says-zoom-fatigue-real</guid>
+  <pubDate>Sun, 28 Feb 2021 10:41:54 -0800</pubDate>
+ </item>
  <item>
   <title>Pokémon Keeps Evolving As It Turns 25</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FEktbegF3J8QIo%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;in the short-term, you can watch a Pokémon x Post Malone concert at 7pm ET and in the medium-term, see how Pokémon’s evolving again into an open-world RPG.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>auto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/lucid-motors-spac-falls-39-news-deal?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 24 Feb 2021 03:02:04 -0800</pubDate>
- </item>
- <item>
-  <title>US Home Prices Spiked in December</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3179%2Fhousing_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: A mix of historically low interest rates, the pandemic pushing people out of small apartments, and an inventory squeeze have juiced prices to unaffordable levels for many potential homebuyers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/23/us-home-prices-spiked-december?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>housing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/us-home-prices-spiked-december?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 24 Feb 2021 03:02:04 -0800</pubDate>
  </item>
 
