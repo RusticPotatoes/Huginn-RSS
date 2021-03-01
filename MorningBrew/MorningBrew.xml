@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/01</link>
- <lastBuildDate>Mon, 01 Mar 2021 08:28:50 -0800</lastBuildDate>
- <pubDate>Mon, 01 Mar 2021 08:28:50 -0800</pubDate>
+ <lastBuildDate>Mon, 01 Mar 2021 14:33:39 -0800</lastBuildDate>
+ <pubDate>Mon, 01 Mar 2021 14:33:39 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Senate Prepares for Stimulus Vote</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3452%2Fstimulus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Now that the wage increase is out, a handful of moderate Democrats who were skeptical of it are more likely to support the bill. If it passes, the House will need to vote again on a matching version.  As soon as Wednesday, the Senate will vote.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/01/senate-prepares-stimulus-vote</link>
+  <author>Alex Hickey</author>
+  <categories>government</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/senate-prepares-stimulus-vote</guid>
+  <pubDate>Mon, 01 Mar 2021 14:31:47 -0800</pubDate>
+ </item>
  <item>
   <title>How Much Do You Know About Tax Forms? Take This 6-Question Quiz to Find Out</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4217%2Ftax_forms.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;What is a Schedule SE (self-employment tax) form not used for: Net earnings on self employment Your benefits under social security The amount you owe in state taxes Answers: 1) a 2) c 3) e 4) false 5) b 6) c A Schedule F is a profit and loss form for: Finance Industry Professionals Farmers Fishermen Fathers Foundations 6. True or false: Only sole proprietors need to complete an individual income tax return.</description>
@@ -361,15 +370,6 @@
   <categories>crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/first-fully-digital-nft-artwork-headed-auction?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 25 Feb 2021 03:02:04 -0800</pubDate>
- </item>
- <item>
-  <title>NFT: Frequently Asked Questions</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;And yes, you can make money off of an NFT by buying and reselling it for more. The creators of CryptoKitties started Top Shot, a platform for buying NFTs on NBA clips, and Beeple’s digital artwork is being auctioned by Christie’s.   When the digital asset goes on sale, you’re randomly chosen to buy it. One reason to buy an NFT is for its emotional value, which isn’t so different from physical objects... Can I make money on it?  On Top Shot for instance, you register to join a waitlist that can be thousands of NBA fans long. Anything that exists online can be purchased as an NFT, theoretically. Are NFTs new?  Here’s a Fast FAQ with five of the most-pressing questions about NFTs.What is an NFT? They buy it for the way it makes them feel.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/24/nft-frequently-asked-questions</link>
-  <author>Jamie Wilde</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/nft-frequently-asked-questions</guid>
-  <pubDate>Wed, 24 Feb 2021 16:22:03 -0800</pubDate>
  </item>
 
 </channel>
