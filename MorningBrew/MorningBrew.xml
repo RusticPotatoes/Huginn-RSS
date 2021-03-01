@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/01</link>
- <lastBuildDate>Mon, 01 Mar 2021 14:38:45 -0800</lastBuildDate>
- <pubDate>Mon, 01 Mar 2021 14:38:45 -0800</pubDate>
+ <lastBuildDate>Mon, 01 Mar 2021 14:43:42 -0800</lastBuildDate>
+ <pubDate>Mon, 01 Mar 2021 14:43:42 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>SPACs Start 2021 on a Torrid Pace</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F2Wim5ftHoDdJ1RNpuS%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The latest SPAC deal is Rocket Lab, a leader in launching small satellites into space.  Quick refresher: A SPAC is a shell company that goes public, raises money, then uses those funds to acquire a private company and, in doing so, take them public. (NYT)</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/01/spacs-start-2021-torrid-pace</link>
+  <author>Neal Freyman</author>
+  <categories>deals</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/spacs-start-2021-torrid-pace</guid>
+  <pubDate>Mon, 01 Mar 2021 14:41:41 -0800</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 2</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4223%2Fny_attorney_general_letit.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Nautilus)  Read: If aliens exist, here's how we'll find them.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/01/key-performance-indicators-march-2</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/key-performance-indicators-march-2</guid>
+  <pubDate>Mon, 01 Mar 2021 14:41:41 -0800</pubDate>
+ </item>
  <item>
   <title>Buy-Now-Pay-Later Giant Klarna Worth $31 Billion After Latest Round of Funding</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4222%2Fklarna.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Companies like Macy's and Neiman Marcus still rely heavily on store- and co-branded credit card fees to pad their bottom lines, offerings that compete with BNPL options. Why the BNPL hype?  But BNPL has put retail giants in a pickle.  That concerns regulators, since more than than 10% of customers at one bank that had used BNPL were already behind on their payments, according to the UK's Financial Conduct Authority. Last October, Macy's agreed to take a stake in Klarna in exchange for offering its BNPL service as an option at checkout.</description>
@@ -351,24 +369,6 @@
   <author>Eliza Carter</author>
   <categories>retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/silicon-valley-mainstay-frys-electronics-store-close?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 25 Feb 2021 03:02:04 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: February 25</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4170%2Fmilken_institute_2019_glo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Quote: “This is not ideal for us and it’s not a new normal. Read: The secret message NASA sent to Mars, and the people who decoded it. Texas’s move to deregulate power generation is being blamed for last week’s electricity crisis.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/24/key-performance-indicators-february-25?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/key-performance-indicators-february-25?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 25 Feb 2021 03:02:04 -0800</pubDate>
- </item>
- <item>
-  <title>First Covax Delivery Touches Down in Accra, Ghana</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;  Funded by donations, it hopes to vaccinate 20% of people in the world’s 92 poorest countries by the end of the year. Yesterday, Ghana became the first country to receive a vaccine care package from the UN-backed Covax program. Ivory Coast is up next later this week.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/24/first-covax-delivery-touches-accra-ghana?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>covid 19</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/first-covax-delivery-touches-accra-ghana?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 25 Feb 2021 03:02:04 -0800</pubDate>
  </item>
 
