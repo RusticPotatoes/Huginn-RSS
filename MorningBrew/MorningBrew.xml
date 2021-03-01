@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/28</link>
- <lastBuildDate>Sun, 28 Feb 2021 10:43:56 -0800</lastBuildDate>
- <pubDate>Sun, 28 Feb 2021 10:43:56 -0800</pubDate>
+ <lastBuildDate>Sun, 28 Feb 2021 16:28:48 -0800</lastBuildDate>
+ <pubDate>Sun, 28 Feb 2021 16:28:48 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Warren Buffett Releases Annual Shareholder Letter and Berkshire Hathaway Earnings</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2248%2Fwarren_buffett.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s left Buffett with a huge cash pile he’s increasingly using for stock buybacks. Buffett steered clear of these supercharged topics, as he’s done for the majority of the last year.  Let’s start with Berkshire Hathaway performance Berkshire is a conglomerate that wholly owns firms in industries such as insurance, railroads, and retail. Berkshire also bought back almost $25 billion of its own stock last year, reducing the total number of outstanding shares and increasing current investors’ ownership. Looking ahead...  But notice what isn’t there: the pandemic, racial justice protests, the election, GameStop, and crypto.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/28/warren-buffett-releases-annual-shareholder-letter-berkshire-hathaway-earnings</link>
+  <author>Neal Freyman</author>
+  <categories>investing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/28/warren-buffett-releases-annual-shareholder-letter-berkshire-hathaway-earnings</guid>
+  <pubDate>Sun, 28 Feb 2021 16:26:47 -0800</pubDate>
+ </item>
+ <item>
+  <title>FDA Authorizes Johnson &amp; Johnson Vaccine</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;   J&amp;J’s vaccine is only one dose and can be stored at normal refrigeration temperatures, so it’s ideal for use at drive-thru vaccination sites and with “transient population groups,” such as those on college campuses.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/01/fda-authorizes-johnson-johnson-vaccine</link>
+  <author>Eliza Carter</author>
+  <categories>covid 19</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/fda-authorizes-johnson-johnson-vaccine</guid>
+  <pubDate>Sun, 28 Feb 2021 16:26:47 -0800</pubDate>
+ </item>
  <item>
   <title>Science Says: Zoom Fatigue Is Real</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4205%2Fzoom_sadness.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The constant stream of eyeball-straining, headache-inducing, don’t-get-caught-yawning Zoom calls are having a tangible effect on our brains, according to a new study from Stanford researchers. Shares of the company are down around 16% in the last 10 days after exploding 443% in 2020.</description>
@@ -351,24 +369,6 @@
   <author>Alex Hickey</author>
   <categories>explainer</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/market-capitalization?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 24 Feb 2021 03:02:04 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: February 24</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4150%2Fhp_hood_enters_alternativ.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the Swedish vegan milk company Oatly filed confidentially for an IPO, and it's aiming for a valuation of up to $10 billion. Here's 1 quote, 1 stat, and 1 long read that we discovered yesterday and had to share. Read: On creativity and TikTok. (Eugene Wei)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/23/key-performance-indicators-february-24?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/key-performance-indicators-february-24?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 24 Feb 2021 03:02:04 -0800</pubDate>
- </item>
- <item>
-  <title>Lucid Motors SPAC Falls 39% on News of Deal</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2049%2Flucid_air.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Lucid will raise $4.4 billion through the CCIV deal and use that money to help fund production and expansion into new vehicle lines. On Monday evening, electric automaker Lucid Motors confirmed it's going public via SPAC at a valuation of $24 billion.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/23/lucid-motors-spac-falls-39-news-deal?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/lucid-motors-spac-falls-39-news-deal?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 24 Feb 2021 03:02:04 -0800</pubDate>
  </item>
 
