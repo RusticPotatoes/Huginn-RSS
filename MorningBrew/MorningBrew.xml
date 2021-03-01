@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/01</link>
- <lastBuildDate>Mon, 01 Mar 2021 03:03:47 -0800</lastBuildDate>
- <pubDate>Mon, 01 Mar 2021 03:03:47 -0800</pubDate>
+ <lastBuildDate>Mon, 01 Mar 2021 08:28:50 -0800</lastBuildDate>
+ <pubDate>Mon, 01 Mar 2021 08:28:50 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>How Much Do You Know About Tax Forms? Take This 6-Question Quiz to Find Out</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4217%2Ftax_forms.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;What is a Schedule SE (self-employment tax) form not used for: Net earnings on self employment Your benefits under social security The amount you owe in state taxes Answers: 1) a 2) c 3) e 4) false 5) b 6) c A Schedule F is a profit and loss form for: Finance Industry Professionals Farmers Fishermen Fathers Foundations 6. True or false: Only sole proprietors need to complete an individual income tax return.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/01/much-know-tax-forms-take-6question-quiz-find</link>
+  <author>Devin Tomb</author>
+  <categories>taxes</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/much-know-tax-forms-take-6question-quiz-find</guid>
+  <pubDate>Mon, 01 Mar 2021 08:26:46 -0800</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: Stimulus Heads to Senate, February Jobs Report, and an Oil Decision</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3452%2Fstimulus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;after which a new version will head back to the House, and ultimately to Biden’s desk for his signature. Looks great. Energy in focus: With oil prices surging, OPEC+ members will meet on Thursday to discuss whether to boost output accordingly.</description>
@@ -361,15 +370,6 @@
   <categories>crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/nft-frequently-asked-questions</guid>
   <pubDate>Wed, 24 Feb 2021 16:22:03 -0800</pubDate>
- </item>
- <item>
-  <title>The First Fully Digital, NFT Artwork is Headed to Auction</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4171%2Fbeeple_art.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;NFT couldn’t ask for a more legitimizing momentWhile NFTs can arguably be traced back to 2012, they didn’t hit the mainstream until 2017 with blockchain-based CryptoKitties. Check out our NFT FAQ here.  On the auction block: A digital collage of the first 5,000 other-worldy images from Beeple’s “everyday” series, in which Winkelmann has created a new piece of digital art every day for over 10 years. It will be the first fully digital, NFT-based artwork ever sold by a major auction house, and the first to accept cryptocurrency (Ether, specifically) as a payment option. Last December, a collection of 20 Beeple pieces sold for $3.5 million on another NFT platform, Nifty Gateway.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/24/first-fully-digital-nft-artwork-headed-auction</link>
-  <author>Jamie Wilde</author>
-  <categories>nft</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/first-fully-digital-nft-artwork-headed-auction</guid>
-  <pubDate>Wed, 24 Feb 2021 15:07:09 -0800</pubDate>
  </item>
 
 </channel>
