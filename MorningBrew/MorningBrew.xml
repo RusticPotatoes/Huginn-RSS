@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/02/28</link>
- <lastBuildDate>Sun, 28 Feb 2021 16:28:48 -0800</lastBuildDate>
- <pubDate>Sun, 28 Feb 2021 16:28:48 -0800</pubDate>
+ <lastBuildDate>Sun, 28 Feb 2021 16:33:45 -0800</lastBuildDate>
+ <pubDate>Sun, 28 Feb 2021 16:33:45 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: March 1</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3303%2Ftv_movie_theater.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Financial Times)  Read: Sapiens author Yuval Noah Harari on what we’ve learned from a year of Covid.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/28/key-performance-indicators-march-1</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/28/key-performance-indicators-march-1</guid>
+  <pubDate>Sun, 28 Feb 2021 16:31:44 -0800</pubDate>
+ </item>
+ <item>
+  <title>The Week Ahead: Stimulus Heads to Senate, February Jobs Report, and an Oil Decision</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3452%2Fstimulus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;after which a new version will head back to the House, and ultimately to Biden’s desk for his signature. Looks great. Energy in focus: With oil prices surging, OPEC+ members will meet on Thursday to discuss whether to boost output accordingly.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/01/week-ahead-stimulus-heads-senate-february-jobs-report-oil-decision</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/week-ahead-stimulus-heads-senate-february-jobs-report-oil-decision</guid>
+  <pubDate>Sun, 28 Feb 2021 16:31:44 -0800</pubDate>
+ </item>
  <item>
   <title>Warren Buffett Releases Annual Shareholder Letter and Berkshire Hathaway Earnings</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2248%2Fwarren_buffett.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s left Buffett with a huge cash pile he’s increasingly using for stock buybacks. Buffett steered clear of these supercharged topics, as he’s done for the majority of the last year.  Let’s start with Berkshire Hathaway performance Berkshire is a conglomerate that wholly owns firms in industries such as insurance, railroads, and retail. Berkshire also bought back almost $25 billion of its own stock last year, reducing the total number of outstanding shares and increasing current investors’ ownership. Looking ahead...  But notice what isn’t there: the pandemic, racial justice protests, the election, GameStop, and crypto.</description>
@@ -352,24 +370,6 @@
   <categories>grammar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/morning-brew-style-blog-no-8-kill-darlings</guid>
   <pubDate>Wed, 24 Feb 2021 12:07:03 -0800</pubDate>
- </item>
- <item>
-  <title>Fans Return to NYC's Basketball Arenas</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4145%2Fmsg.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: The Knicks and Nets make it 14 NBA teams (out of 30) that are allowing fans to attend games. The backstory: NY Gov. Andrew Cuomo has allowed attendance at arenas provided that fans show a negative PCR Covid-19 test 72 hours before the event starts.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/23/fans-return-nycs-basketball-arenas?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/fans-return-nycs-basketball-arenas?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 24 Feb 2021 03:02:04 -0800</pubDate>
- </item>
- <item>
-  <title>What Is Market Capitalization?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2334%2Fstocks_declining.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Worth noting: Market cap =/= how much it costs to buy a company.  Ask us something else here.  Tesla is the leading EV producer, and legacy automakers and EV startups are largely playing catch up. Brew's answer: Market capitalization, aka "market cap," is a measure of a public company's worth based on the dollar value of outstanding shares.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/23/market-capitalization?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>explainer</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/23/market-capitalization?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 24 Feb 2021 03:02:04 -0800</pubDate>
  </item>
 
 </channel>
