@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/02/28/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/02/28/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/01/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/02/28</link>
- <lastBuildDate>Sun, 28 Feb 2021 16:33:45 -0800</lastBuildDate>
- <pubDate>Sun, 28 Feb 2021 16:33:45 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/01</link>
+ <lastBuildDate>Mon, 01 Mar 2021 03:03:47 -0800</lastBuildDate>
+ <pubDate>Mon, 01 Mar 2021 03:03:47 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: Stimulus Heads to Senate, February Jobs Report, and an Oil Decision</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3452%2Fstimulus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;after which a new version will head back to the House, and ultimately to Biden’s desk for his signature. Looks great. Energy in focus: With oil prices surging, OPEC+ members will meet on Thursday to discuss whether to boost output accordingly.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/01/week-ahead-stimulus-heads-senate-february-jobs-report-oil-decision?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/week-ahead-stimulus-heads-senate-february-jobs-report-oil-decision?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 01 Mar 2021 03:01:45 -0800</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 1</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4210%2Fcollin_morikawa.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Financial Times)  Read: Sapiens author Yuval Noah Harari on what we’ve learned from a year of Covid. The recent buying frenzy for song catalogs raises interesting questions of who should benefit, writes the WSJ.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/28/key-performance-indicators-march-1?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/28/key-performance-indicators-march-1?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 01 Mar 2021 03:01:45 -0800</pubDate>
+ </item>
+ <item>
+  <title>Zoom Fatigue Is Real. Even Science Says So.</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4205%2Fzoom_sadness.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  The constant stream of eyeball-straining, headache-inducing, don’t-get-caught-yawning Zoom calls are having a tangible effect on our brains, according to a new study from Stanford researchers.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/28/science-says-zoom-fatigue-real?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/28/science-says-zoom-fatigue-real?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 01 Mar 2021 03:01:45 -0800</pubDate>
+ </item>
+ <item>
+  <title>FDA Authorizes Johnson &amp; Johnson Vaccine</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;   J&amp;J’s vaccine is only one dose and can be stored at normal refrigeration temperatures, so it’s ideal for use at drive-thru vaccination sites and with “transient population groups,” such as those on college campuses.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/01/fda-authorizes-johnson-johnson-vaccine?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>covid 19</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/fda-authorizes-johnson-johnson-vaccine?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 01 Mar 2021 03:01:45 -0800</pubDate>
+ </item>
+ <item>
+  <title>Warren Buffett Releases Annual Shareholder Letter and Berkshire Hathaway Earnings</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2248%2Fwarren_buffett.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s left Buffett with a huge cash pile he’s increasingly using for stock buybacks.  Let’s start with Berkshire Hathaway performance Berkshire is a conglomerate that wholly owns firms in industries such as insurance, railroads, and retail. Berkshire also bought back almost $25 billion of its own stock last year, reducing the total number of outstanding shares and increasing current investors’ ownership.  Looking ahead...  But notice what isn’t there: the pandemic, racial justice protests, the election, GameStop, and crypto. “There has been no incubator for unleashing human potential like America.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/28/warren-buffett-releases-annual-shareholder-letter-berkshire-hathaway-earnings?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>investing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/28/warren-buffett-releases-annual-shareholder-letter-berkshire-hathaway-earnings?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 01 Mar 2021 03:01:45 -0800</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: March 1</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3303%2Ftv_movie_theater.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Financial Times)  Read: Sapiens author Yuval Noah Harari on what we’ve learned from a year of Covid.</description>
@@ -325,51 +370,6 @@
   <categories>nft</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/first-fully-digital-nft-artwork-headed-auction</guid>
   <pubDate>Wed, 24 Feb 2021 15:07:09 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: February 25</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4170%2Fmilken_institute_2019_glo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Quote: “This is not ideal for us and it’s not a new normal. Read: The secret message NASA sent to Mars, and the people who decoded it. Texas’s move to deregulate power generation is being blamed for last week’s electricity crisis.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/24/key-performance-indicators-february-25</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/key-performance-indicators-february-25</guid>
-  <pubDate>Wed, 24 Feb 2021 14:52:02 -0800</pubDate>
- </item>
- <item>
-  <title>First Covax Delivery Touches Down in Accra, Ghana</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;  Funded by donations, it hopes to vaccinate 20% of people in the world’s 92 poorest countries by the end of the year. Yesterday, Ghana became the first country to receive a vaccine care package from the UN-backed Covax program.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/24/first-covax-delivery-touches-accra-ghana</link>
-  <author>Eliza Carter</author>
-  <categories>covid 19</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/first-covax-delivery-touches-accra-ghana</guid>
-  <pubDate>Wed, 24 Feb 2021 14:47:04 -0800</pubDate>
- </item>
- <item>
-  <title>Biden Addresses Global Semiconductor Chip Shortage With Executive Order</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FQ4MKucytzKYJ4elFhG%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Though the trip was a success, it exposed just how fragile the US public health supply chain is.  Bottom line: Biden’s executive order hopes to eventually reduce the US’ reliance on other countries across a wide swath of essential industries.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/24/biden-addresses-global-semiconductor-chip-shortage-executive-order</link>
-  <author>Toby Howell</author>
-  <categories>supply chain</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/biden-addresses-global-semiconductor-chip-shortage-executive-order</guid>
-  <pubDate>Wed, 24 Feb 2021 14:37:04 -0800</pubDate>
- </item>
- <item>
-  <title>Brew's Bookshelf: 15 Books for Black History Month</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;  Conversations in Black: On Power, Politics, and Leadership by Ed Gordon Imagine a roundtable discussion asking big questions about the future of Black leadership and navigating a divided country. Kendi A collection of essays from prominent Black scholars, journalists, and leaders examining different periods of Black history since the first slave ships arrived in the US in 1619. Journalist Ed Gordon brings that to life with curated answers from prominent Black politicians, activists, and leaders.  The Color of Money: Black Banks and the Racial Wealth Gap by Mehrsa BaradaranTo understand the racial wealth gap, first you have to understand the segregated economy it was built on and the history of Black banks and ownership.  Black Futures by Jenna Wortham and Kimberly DrewA 544-page anthology of art, essays, stories, recipes, memes, and more from Black creators around the world examining what it means to be "black and alive right now." Franchise: The Golden Arches in Black America by Marcia Chatelain What does McDonald's mean to the civil rights movement? Learn something new about the history of Black America, its impact on culture, business, and science, and ponder the question of "what's next?"</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/24/brews-bookshelf-15-books-black-history-month</link>
-  <author>Alex Hickey</author>
-  <categories>books</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/brews-bookshelf-15-books-black-history-month</guid>
-  <pubDate>Wed, 24 Feb 2021 12:52:04 -0800</pubDate>
- </item>
- <item>
-  <title>Morning Brew Style Blog, No. 8: How to Kill Your Darlings</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FTXRHoV5Dvv7cA%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Maybe that reads a little blunt.  Then, you can go through the process described in No. 1; if the draft you write to your college roommate Dan feels too casual, you can zhuzh it up. That’s why editors are essential And I’m not just saying that because it’s review season and my editor decides whether I get a raise. Your best editor can be (and often is) a friend or family member—often, the person who’s most brutally honest about your outfits is your best editor. The magic of a good editor is that she can filter all the unneeded stuff gumming up your sentences without compromising your voice. If you feel it’s too much, you can add back a few fluffy descriptors, or maybe even Jeffrey’s name. And because we love making things way more morbid than they need to be, news folks call the process of removing excess verbiage “killing your darlings,” and sometimes even—sorry—“killing babies.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/24/morning-brew-style-blog-no-8-kill-darlings</link>
-  <author>Eliza Carter</author>
-  <categories>grammar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/morning-brew-style-blog-no-8-kill-darlings</guid>
-  <pubDate>Wed, 24 Feb 2021 12:07:03 -0800</pubDate>
  </item>
 
 </channel>
