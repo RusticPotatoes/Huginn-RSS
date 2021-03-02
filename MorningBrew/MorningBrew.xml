@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/02</link>
- <lastBuildDate>Tue, 02 Mar 2021 03:03:46 -0800</lastBuildDate>
- <pubDate>Tue, 02 Mar 2021 03:03:46 -0800</pubDate>
+ <lastBuildDate>Tue, 02 Mar 2021 14:43:43 -0800</lastBuildDate>
+ <pubDate>Tue, 02 Mar 2021 14:43:43 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Microsoft Unveils Mesh, a Mixed Reality Platform</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4231%2Fmicrosoft_mesh.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But Microsoft thinks Mesh can help push adoption forward."   Mixed reality combines the real and digital, letting users interact with both. There's work to do before those holograms make George Lucas proud, but yesterday, Microsoft introduced its vision for our mixed reality future: Mesh.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/02/microsoft-unveils-mesh-mixed-reality-platform</link>
+  <author>Alex Hickey</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/02/microsoft-unveils-mesh-mixed-reality-platform</guid>
+  <pubDate>Tue, 02 Mar 2021 14:41:39 -0800</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: March 2</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4223%2Fny_attorney_general_letit.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Nautilus)  Read: If aliens exist, here's how we'll find them.</description>
@@ -361,15 +370,6 @@
   <categories>quiz</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/25/brews-weekly-news-quiz-february-26</guid>
   <pubDate>Thu, 25 Feb 2021 14:47:07 -0800</pubDate>
- </item>
- <item>
-  <title>Markets at a Crossroads: Stocks Drop and Bonds Surge</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4189%2Fbull.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the yield on the 10-year note briefly surpassed what's known as the S&amp;P's "dividend yield," a threshold investors use to measure the relative attractiveness of stocks vs. The more a bond yields, the more it competes with stocks. Some perspective before we move on: The Dow hit a record high on Wednesday, and the S&amp;P is less than 3% below its all-time high.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/25/markets-crossroads-stocks-drop-bonds-surge</link>
-  <author>Neal Freyman</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/25/markets-crossroads-stocks-drop-bonds-surge</guid>
-  <pubDate>Thu, 25 Feb 2021 14:27:05 -0800</pubDate>
  </item>
 
 </channel>
