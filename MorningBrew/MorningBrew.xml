@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/02/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/03/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/02</link>
- <lastBuildDate>Tue, 02 Mar 2021 14:53:44 -0800</lastBuildDate>
- <pubDate>Tue, 02 Mar 2021 14:53:44 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/03</link>
+ <lastBuildDate>Wed, 03 Mar 2021 03:03:46 -0800</lastBuildDate>
+ <pubDate>Wed, 03 Mar 2021 03:03:46 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>New Media Company TOGETHXR Aims to Tell Stories of Female Athletes</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fh1zypyYAgZE96sCNuV%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;To combat that asymmetry, TOGETHXR will produce original content and partner closely with social media platforms, serving an audience of girls and young women.    The war chest: TOGETHXR nabbed a "mid-seven figure investment" from Magnet Companies, a private equity holding company run by longtime media mavens, per the NYT.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/02/new-media-company-togethxr-aims-tell-stories-female-athletes?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/02/new-media-company-togethxr-aims-tell-stories-female-athletes?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 03 Mar 2021 03:01:44 -0800</pubDate>
+ </item>
+ <item>
+  <title>Explainer: What Are 10-Year Treasury Notes and Yields?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3856%2Fweird_stock_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Or ask us another question here.  As demand for the 10-year 📈, the yield 📉. Investors are often willing to accept lower yields because they know their investment is safe. This week, yields have stabilized. Yields were very low during most of the pandemic. Alas, today's hottest bond is the 10-year Treasury note, which the government issues to borrow money (the 10 means it matures in 10 years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/02/explainer-10year-treasury-bonds-yields?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>explainer</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/02/explainer-10year-treasury-bonds-yields?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 03 Mar 2021 03:01:44 -0800</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 3</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4233%2Fsec_chairman_mary_jo_whit.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Generalist)  Read: A deeeeeeep dive into the history of Reddit and why it may be undervalued. The retailer will invest $4 billion annually in the next few years to keep up its pandemic-era momentum. combined.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/02/key-performance-indicators-march-3?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/02/key-performance-indicators-march-3?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 03 Mar 2021 03:01:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>Microsoft Unveils Mesh, a Mixed Reality Platform</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4231%2Fmicrosoft_mesh.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Microsoft thinks Mesh can help push adoption forward."   Mixed reality combines the real and digital, letting users interact with both. There's work to do before those holograms make George Lucas proud, but yesterday, Microsoft introduced its vision for our mixed reality future: Mesh. Zoom out: Tech giants have spent years developing augmented, virtual, and mixed reality tech.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/02/microsoft-unveils-mesh-mixed-reality-platform?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/02/microsoft-unveils-mesh-mixed-reality-platform?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 03 Mar 2021 03:01:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>Covid Vaccine: Rivals Merck and Johnson &amp; Johnson to Join Forces on Production</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FvmYo0VRLoI2fQprBMk%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;J&amp;J's vaccine is expected to be limited in the next couple of weeks, but with Merck's help, J&amp;J will ship 20 million doses by the end of March. In the most surprising pharma partnership since Walter White and Gus Fring, Merck and rival Johnson &amp; Johnson will work together to scale up production of J&amp;J's single-dose vaccine, the Biden administration said yesterday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/02/covid-vaccine-rivals-merck-johnson-johnson-join-forces-production?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>covid 19</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/02/covid-vaccine-rivals-merck-johnson-johnson-join-forces-production?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 03 Mar 2021 03:01:43 -0800</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: March 3</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4229%2Fsec_chairman_mary_jo_whit.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Generalist)  Read: A deeeeeeep dive into the history of Reddit and why it may be undervalued. The retailer will invest $4 billion annually in the next few years to keep up its pandemic-era momentum. combined.</description>
@@ -325,51 +370,6 @@
   <categories>wfh</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/zoom-fatigue-real-thing-according-stanford-study</guid>
   <pubDate>Fri, 26 Feb 2021 15:01:26 -0800</pubDate>
- </item>
- <item>
-  <title>Covid Vaccine Tracker</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Cleared for takeoff: Regulators in Canada approved AstraZeneca’s vaccine for adults, the third vaccine it’s approved. 1.45 million doses per day were administered last week, on average, a slight dip from the 1.58 million average a week prior. That’s up from 59.1 million doses last Saturday. Speaking of... In the US...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/26/covid-vaccine-tracker</link>
-  <author>Toby Howell</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/covid-vaccine-tracker</guid>
-  <pubDate>Fri, 26 Feb 2021 14:56:32 -0800</pubDate>
- </item>
- <item>
-  <title>Brew Crossword: Success Stories</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/26/brew-crossword-success-stories</link>
-  <author>Toby Howell</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/brew-crossword-success-stories</guid>
-  <pubDate>Fri, 26 Feb 2021 12:32:00 -0800</pubDate>
- </item>
- <item>
-  <title>Why Does Every Streaming Service Have a Plus Sign?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4191%2Fparamount_plus.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Some industry analysts think that streaming services may be in a better position for the long-term if they can resist adding the plus sign.  Off the top of my head I can count Discovery+, Disney+, ESPN+, Apple TV+, BET+, and AMC+. we may not have another streaming service with a + for a while, because we may not even have a new streaming service for a while.  "Our research confirmed that the plus sign has become synonymous with streaming video on demand services," David Leavy, chief operating officer for Discovery, told the LA Times. As CNBC notes, Paramount+ is the last of the big streaming unveils that started with Apple TV+ in March 2019.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/26/every-streaming-service-plus-sign</link>
-  <author>Neal Freyman</author>
-  <categories>big deal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/every-streaming-service-plus-sign</guid>
-  <pubDate>Fri, 26 Feb 2021 07:52:08 -0800</pubDate>
- </item>
- <item>
-  <title>Soho House Files to Go Public: Will the Travel Industry Bounce Back?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FPijan7NjATZktmxZJh%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The IPO is kinda like Soho House itself—we all poke fun at its upper-crust, jet-set brand, right up until we're two Sancerres deep and considering a mortgage refinance to cover a membership.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/25/soho-house-files-go-public-will-travel-industry-bounce-back?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>leisure</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/25/soho-house-files-go-public-will-travel-industry-bounce-back?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 26 Feb 2021 03:02:08 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: February 26</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2723%2Fjack_dorsey.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Protocol) com built a streaming empire.  Read: How Chess.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/25/key-performance-indicators-february-26?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/25/key-performance-indicators-february-26?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 26 Feb 2021 03:02:07 -0800</pubDate>
  </item>
 
 </channel>
