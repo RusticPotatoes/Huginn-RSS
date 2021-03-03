@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/03</link>
- <lastBuildDate>Wed, 03 Mar 2021 14:33:46 -0800</lastBuildDate>
- <pubDate>Wed, 03 Mar 2021 14:33:46 -0800</pubDate>
+ <lastBuildDate>Wed, 03 Mar 2021 14:38:44 -0800</lastBuildDate>
+ <pubDate>Wed, 03 Mar 2021 14:38:44 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Netflix Rolls Out New TikTok-esque Video Feature</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4245%2Fnetflix_fast_laughs.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Fast Laughs users can send the clip to their friends, add the show to a watch list, or, most importantly, start watching a full episode immediately.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/03/netflix-rolls-new-tiktokesque-video-feature</link>
+  <author>Toby Howell</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/03/netflix-rolls-new-tiktokesque-video-feature</guid>
+  <pubDate>Wed, 03 Mar 2021 14:36:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 4</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4247%2Fnyc_mayoral_candidate_and.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The New Yorker) Read: How to build an artificial heart.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/03/key-performance-indicators-march-4</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/03/key-performance-indicators-march-4</guid>
+  <pubDate>Wed, 03 Mar 2021 14:36:43 -0800</pubDate>
+ </item>
  <item>
   <title>Energy Biz Focuses Attention on Carbon Capture</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3720%2Ffossil_fuels_and_climate_change.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In the energy biz, attention is turning toward an expensive but enticing way to reduce emissions: carbon capture, a process where pollution is... ExxonMobil has, up until now, resisted carbon capture, but it has recently been put under pressure by an activist investor to reduce its CO2 output.</description>
@@ -352,24 +370,6 @@
   <categories>geopolitics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/white-house-ups-pressure-mbs-new-report?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 27 Feb 2021 03:01:32 -0800</pubDate>
- </item>
- <item>
-  <title>Pokémon Keeps Evolving As It Turns 25</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FEktbegF3J8QIo%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In the short-term, you can watch a Pokémon x Post Malone concert at 7pm ET and in the medium-term, see how Pokémon’s evolving again into an open-world RPG.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/26/pokmon-keeps-evolving-turns-25</link>
-  <author>Jamie Wilde</author>
-  <categories>videogames</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/pokmon-keeps-evolving-turns-25</guid>
-  <pubDate>Fri, 26 Feb 2021 15:21:28 -0800</pubDate>
- </item>
- <item>
-  <title>Netflix Starts a $100 Million Global Diversity Fund</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4207%2Fbridgerton.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Netflix is launching a global fund that will direct $100 million to initiatives supporting underrepresented groups in entertainment. BIg picture: A new study by the University of Southern California’s Annenberg Inclusion Initiative found that underrepresented groups accounted for 36% of Netflix film leads in 2018 and 2019.    </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/26/netflix-starts-100-million-global-diversity-fund</link>
-  <author>Jamie Wilde</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/26/netflix-starts-100-million-global-diversity-fund</guid>
-  <pubDate>Fri, 26 Feb 2021 15:16:29 -0800</pubDate>
  </item>
 
 </channel>
