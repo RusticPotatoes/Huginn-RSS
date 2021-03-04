@@ -8,9 +8,36 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/04</link>
- <lastBuildDate>Thu, 04 Mar 2021 14:53:34 -0800</lastBuildDate>
- <pubDate>Thu, 04 Mar 2021 14:53:34 -0800</pubDate>
+ <lastBuildDate>Thu, 04 Mar 2021 15:18:33 -0800</lastBuildDate>
+ <pubDate>Thu, 04 Mar 2021 15:18:33 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Nasdaq Turns Negative, 10-Year Rises as Fed Sticks to Status Quo</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2230%2Fjerome_powell.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In an interview with the WSJ, Powell said that while he expects some inflation ahead, he doesn't think it'll last and the Fed will keep interest rates near zero. Inflation worries have sent bond yields—still low by historic standards—spiking upwards, making investors worry that the Fed will raise interest rates to put a brake on the economy and keep inflation in check.   That sounded reassuring, but investors are still feeling nervous about inflation and the Fed potentally hiking rates: They continued to drop stocks and bonds, sending yields higher. Yesterday, they turned to Fed Chair Jerome Powell for a reassuring hug.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/04/nasdaq-turns-negative-10year-rises-fed-sticks-status-quo</link>
+  <author>Alex Hickey</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/04/nasdaq-turns-negative-10year-rises-fed-sticks-status-quo</guid>
+  <pubDate>Thu, 04 Mar 2021 15:16:32 -0800</pubDate>
+ </item>
+ <item>
+  <title>NYC and San Francisco Reopen Theaters at 25% Capacity</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4255%2Fentertainment_tourism_i.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; New York and California are the film industry's two biggest American marketsWith theaters in both regions closed for nearly a year, Hollywood mostly paused blockbuster releases. Theaters are capped at 25% capacity. doesn't everyone sneak in candy to movie theaters anyway? Zoom out: The struggling cinema industry is getting some hopeful plot twists.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/04/nyc-san-francisco-reopen-theaters-25-capacity</link>
+  <author>Jamie Wilde</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/04/nyc-san-francisco-reopen-theaters-25-capacity</guid>
+  <pubDate>Thu, 04 Mar 2021 15:16:32 -0800</pubDate>
+ </item>
+ <item>
+  <title>The Brew’s Weekly News Quiz: March 5</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/04/brews-weekly-news-quiz-march-5</link>
+  <author>Jamie Wilde</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/04/brews-weekly-news-quiz-march-5</guid>
+  <pubDate>Thu, 04 Mar 2021 15:16:32 -0800</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: March 5</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4248%2Fdallas_mavericks_v_miami.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New York Times)  Read: The era of audio creators has arrived.</description>
@@ -343,33 +370,6 @@
   <categories>investing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/28/warren-buffett-releases-annual-shareholder-letter-berkshire-hathaway-earnings?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 01 Mar 2021 03:01:45 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 1</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3303%2Ftv_movie_theater.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Financial Times)  Read: Sapiens author Yuval Noah Harari on what we’ve learned from a year of Covid.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/28/key-performance-indicators-march-1</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/28/key-performance-indicators-march-1</guid>
-  <pubDate>Sun, 28 Feb 2021 16:31:44 -0800</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: Stimulus Heads to Senate, February Jobs Report, and an Oil Decision</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3452%2Fstimulus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;after which a new version will head back to the House, and ultimately to Biden’s desk for his signature. Looks great. Energy in focus: With oil prices surging, OPEC+ members will meet on Thursday to discuss whether to boost output accordingly.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/01/week-ahead-stimulus-heads-senate-february-jobs-report-oil-decision</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/week-ahead-stimulus-heads-senate-february-jobs-report-oil-decision</guid>
-  <pubDate>Sun, 28 Feb 2021 16:31:44 -0800</pubDate>
- </item>
- <item>
-  <title>Warren Buffett Releases Annual Shareholder Letter and Berkshire Hathaway Earnings</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2248%2Fwarren_buffett.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s left Buffett with a huge cash pile he’s increasingly using for stock buybacks. Buffett steered clear of these supercharged topics, as he’s done for the majority of the last year.  Let’s start with Berkshire Hathaway performance Berkshire is a conglomerate that wholly owns firms in industries such as insurance, railroads, and retail. Berkshire also bought back almost $25 billion of its own stock last year, reducing the total number of outstanding shares and increasing current investors’ ownership. Looking ahead...  But notice what isn’t there: the pandemic, racial justice protests, the election, GameStop, and crypto.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/28/warren-buffett-releases-annual-shareholder-letter-berkshire-hathaway-earnings</link>
-  <author>Neal Freyman</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/28/warren-buffett-releases-annual-shareholder-letter-berkshire-hathaway-earnings</guid>
-  <pubDate>Sun, 28 Feb 2021 16:26:47 -0800</pubDate>
  </item>
 
 </channel>
