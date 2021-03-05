@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/05</link>
- <lastBuildDate>Fri, 05 Mar 2021 14:53:36 -0800</lastBuildDate>
- <pubDate>Fri, 05 Mar 2021 14:53:36 -0800</pubDate>
+ <lastBuildDate>Fri, 05 Mar 2021 15:03:35 -0800</lastBuildDate>
+ <pubDate>Fri, 05 Mar 2021 15:03:35 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Tom Cruise Deepfakes Go Viral on TikTok</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4265%2Ftom_cruise_deepfake.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Visual effects specialist Chris Ume spent months creating the convincing videos, which star a Tom Cruise impersonator augmented with VFX and CGI.  Despite his intentions, the videos highlight existing concerns about deepfake technology and how social media companies guard their platforms against misinformation.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/05/tom-cruise-deepfakes-go-viral-tiktok</link>
+  <author>Jamie Wilde</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/tom-cruise-deepfakes-go-viral-tiktok</guid>
+  <pubDate>Fri, 05 Mar 2021 15:01:34 -0800</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: March 6</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4264%2Fgap_to_announce_q4_earnin.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Business Insider) Read: Why millennials love Gucci. That’s shocking considering total miles driven dropped 13% due to the pandemic.</description>
@@ -360,15 +369,6 @@
   <author>Toby Howell</author>
   <categories>personal lending</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/buynowpaylater-giant-klarna-worth-31-billion-latest-round-funding</guid>
-  <pubDate>Mon, 01 Mar 2021 14:36:45 -0800</pubDate>
- </item>
- <item>
-  <title>Sen. Warren Unveils Wealth Tax Proposal</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4221%2Felizabeth_warren.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   While many politicians agree the ultra-wealthy should pay more, some disagree about whether wealth taxes are the way to go.  Wealth taxes are distinct from the income taxes you're probably filing right now.  Bottom line: The bill isn't expected to pass, even with Democratic control of Congress and the White House.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/01/sen-warren-unveils-wealth-tax-proposal</link>
-  <author>Alex Hickey</author>
-  <categories>wealth</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/sen-warren-unveils-wealth-tax-proposal</guid>
   <pubDate>Mon, 01 Mar 2021 14:36:45 -0800</pubDate>
  </item>
 
