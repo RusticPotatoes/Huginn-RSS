@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/05</link>
- <lastBuildDate>Fri, 05 Mar 2021 11:13:30 -0800</lastBuildDate>
- <pubDate>Fri, 05 Mar 2021 11:13:30 -0800</pubDate>
+ <lastBuildDate>Fri, 05 Mar 2021 14:53:36 -0800</lastBuildDate>
+ <pubDate>Fri, 05 Mar 2021 14:53:36 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: March 6</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4264%2Fgap_to_announce_q4_earnin.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Business Insider) Read: Why millennials love Gucci. That’s shocking considering total miles driven dropped 13% due to the pandemic.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/05/key-performance-indicators-march-6</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/key-performance-indicators-march-6</guid>
+  <pubDate>Fri, 05 Mar 2021 14:51:35 -0800</pubDate>
+ </item>
+ <item>
+  <title>Covid Vaccine Tracker</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Around the world…279 million doses have been administered in 111 different countries, up from 231 million doses in 100 countries last week. 82.6 million doses, or 24.9 doses for every 100 people, have been administered, according to Bloomberg.  In the US...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/05/covid-vaccine-tracker</link>
+  <author>Toby Howell</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/covid-vaccine-tracker</guid>
+  <pubDate>Fri, 05 Mar 2021 14:51:34 -0800</pubDate>
+ </item>
  <item>
   <title>Brew Crossword: TV Gold</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -352,24 +370,6 @@
   <categories>wealth</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/sen-warren-unveils-wealth-tax-proposal</guid>
   <pubDate>Mon, 01 Mar 2021 14:36:45 -0800</pubDate>
- </item>
- <item>
-  <title>Senate Prepares for Stimulus Vote</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3452%2Fstimulus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Now that the wage increase is out, a handful of moderate Democrats who were skeptical of it are more likely to support the bill. If it passes, the House will need to vote again on a matching version.  As soon as Wednesday, the Senate will vote.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/01/senate-prepares-stimulus-vote</link>
-  <author>Alex Hickey</author>
-  <categories>government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/senate-prepares-stimulus-vote</guid>
-  <pubDate>Mon, 01 Mar 2021 14:31:47 -0800</pubDate>
- </item>
- <item>
-  <title>How Much Do You Know About Tax Forms? Take This 6-Question Quiz to Find Out</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4217%2Ftax_forms.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;What is a Schedule SE (self-employment tax) form not used for: Net earnings on self employment Your benefits under social security The amount you owe in state taxes Answers: 1) a 2) c 3) e 4) false 5) b 6) c A Schedule F is a profit and loss form for: Finance Industry Professionals Farmers Fishermen Fathers Foundations 6. True or false: Only sole proprietors need to complete an individual income tax return.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/01/much-know-tax-forms-take-6question-quiz-find</link>
-  <author>Devin Tomb</author>
-  <categories>taxes</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/much-know-tax-forms-take-6question-quiz-find</guid>
-  <pubDate>Mon, 01 Mar 2021 08:26:46 -0800</pubDate>
  </item>
 
 </channel>
