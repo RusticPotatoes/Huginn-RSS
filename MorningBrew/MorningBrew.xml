@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/05</link>
- <lastBuildDate>Fri, 05 Mar 2021 15:03:35 -0800</lastBuildDate>
- <pubDate>Fri, 05 Mar 2021 15:03:35 -0800</pubDate>
+ <lastBuildDate>Fri, 05 Mar 2021 15:13:32 -0800</lastBuildDate>
+ <pubDate>Fri, 05 Mar 2021 15:13:32 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Some Dr. Seuss Books Discontinued, Others Make Amazon’s Bestseller List</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4266%2Famazon_best_sellers.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The backstory: Dr. Seuss Enterprises, which runs Theodore Seuss Geisel’s estate, discontinued six of the author’s books on Tuesday, the author’s 117th birthday, over racist imagery.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/05/dr-seuss-books-discontinued-others-make-amazons-bestseller-list</link>
+  <author>Jamie Wilde</author>
+  <categories>publishing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/dr-seuss-books-discontinued-others-make-amazons-bestseller-list</guid>
+  <pubDate>Fri, 05 Mar 2021 15:11:31 -0800</pubDate>
+ </item>
  <item>
   <title>Tom Cruise Deepfakes Go Viral on TikTok</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4265%2Ftom_cruise_deepfake.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Visual effects specialist Chris Ume spent months creating the convincing videos, which star a Tom Cruise impersonator augmented with VFX and CGI.  Despite his intentions, the videos highlight existing concerns about deepfake technology and how social media companies guard their platforms against misinformation.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/key-performance-indicators-march-2</guid>
   <pubDate>Mon, 01 Mar 2021 14:41:41 -0800</pubDate>
- </item>
- <item>
-  <title>Buy-Now-Pay-Later Giant Klarna Worth $31 Billion After Latest Round of Funding</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4222%2Fklarna.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Companies like Macy's and Neiman Marcus still rely heavily on store- and co-branded credit card fees to pad their bottom lines, offerings that compete with BNPL options. Why the BNPL hype?  But BNPL has put retail giants in a pickle.  That concerns regulators, since more than than 10% of customers at one bank that had used BNPL were already behind on their payments, according to the UK's Financial Conduct Authority. Last October, Macy's agreed to take a stake in Klarna in exchange for offering its BNPL service as an option at checkout.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/01/buynowpaylater-giant-klarna-worth-31-billion-latest-round-funding</link>
-  <author>Toby Howell</author>
-  <categories>personal lending</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/buynowpaylater-giant-klarna-worth-31-billion-latest-round-funding</guid>
-  <pubDate>Mon, 01 Mar 2021 14:36:45 -0800</pubDate>
  </item>
 
 </channel>
