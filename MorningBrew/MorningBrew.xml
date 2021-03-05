@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/05</link>
- <lastBuildDate>Fri, 05 Mar 2021 03:03:35 -0800</lastBuildDate>
- <pubDate>Fri, 05 Mar 2021 03:03:35 -0800</pubDate>
+ <lastBuildDate>Fri, 05 Mar 2021 11:13:30 -0800</lastBuildDate>
+ <pubDate>Fri, 05 Mar 2021 11:13:30 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Crossword: TV Gold</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/05/brew-crossword-tv-gold</link>
+  <author>Toby Howell</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/brew-crossword-tv-gold</guid>
+  <pubDate>Fri, 05 Mar 2021 11:11:27 -0800</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: March 5</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4248%2Fdallas_mavericks_v_miami.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New York Times)  Read: The era of audio creators has arrived.</description>
@@ -361,15 +370,6 @@
   <categories>taxes</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/much-know-tax-forms-take-6question-quiz-find</guid>
   <pubDate>Mon, 01 Mar 2021 08:26:46 -0800</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: Stimulus Heads to Senate, February Jobs Report, and an Oil Decision</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3452%2Fstimulus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;after which a new version will head back to the House, and ultimately to Biden’s desk for his signature. Looks great. Energy in focus: With oil prices surging, OPEC+ members will meet on Thursday to discuss whether to boost output accordingly.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/01/week-ahead-stimulus-heads-senate-february-jobs-report-oil-decision?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/week-ahead-stimulus-heads-senate-february-jobs-report-oil-decision?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 01 Mar 2021 03:01:45 -0800</pubDate>
  </item>
 
 </channel>
