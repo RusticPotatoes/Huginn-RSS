@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/05/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/06/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/06/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/05</link>
- <lastBuildDate>Fri, 05 Mar 2021 15:33:35 -0800</lastBuildDate>
- <pubDate>Fri, 05 Mar 2021 15:33:35 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/06</link>
+ <lastBuildDate>Sat, 06 Mar 2021 03:03:33 -0800</lastBuildDate>
+ <pubDate>Sat, 06 Mar 2021 03:03:33 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Some Dr. Seuss Books Discontinued, Others Make Amazon’s Bestseller List</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4266%2Famazon_best_sellers.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;15 books on Amazon’s Top 20 list were Seuss publications as of Friday morning.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/05/dr-seuss-books-discontinued-others-make-amazons-bestseller-list?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>publishing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/dr-seuss-books-discontinued-others-make-amazons-bestseller-list?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 06 Mar 2021 03:01:31 -0800</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 6</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4264%2Fgap_to_announce_q4_earnin.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Business Insider) Read: Why millennials love Gucci. That’s shocking considering total miles driven dropped 13% due to the pandemic.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/05/key-performance-indicators-march-6?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/key-performance-indicators-march-6?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 06 Mar 2021 03:01:31 -0800</pubDate>
+ </item>
+ <item>
+  <title>Tom Cruise Deepfakes Go Viral on TikTok</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4265%2Ftom_cruise_deepfake.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Despite his intentions, the videos highlight existing concerns about deepfake technology and how social media companies guard their platforms against misinformation.  Visual effects specialist Chris Ume spent months creating the convincing videos, which star a Tom Cruise impersonator augmented with VFX and CGI.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/05/tom-cruise-deepfakes-go-viral-tiktok?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/tom-cruise-deepfakes-go-viral-tiktok?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 06 Mar 2021 03:01:31 -0800</pubDate>
+ </item>
+ <item>
+  <title>Covid Vaccine Tracker</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Around the world…279 million doses have been administered in 111 different countries, up from 231 million doses in 100 countries last week. 82.6 million doses, or 24.9 doses for every 100 people, have been administered, according to Bloomberg.  In the US...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/05/covid-vaccine-tracker?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/covid-vaccine-tracker?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 06 Mar 2021 03:01:31 -0800</pubDate>
+ </item>
+ <item>
+  <title>The Conversation Around Vaccine Passports Heats Up</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4267%2Fvaccine_passports_aladdin.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The Digital Green Pass and other efforts like it (such as the system already implemented in Israel) have sparked a dialogue over whether vaccine passports are necessary for economic revival or an ethical minefield waiting to explode.  It’s a digital health pass showing that you’ve gotten your Covid-19 shot(s).  Looking ahead...   That word we just wrote in the sentence above: “privilege.”  And what could go wrong? Some cruise lines have also announced they’ll require vaccination for guests and crew for the privilege of sailing the Covid-free seas.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/05/conversation-around-vaccine-passports-heats?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/conversation-around-vaccine-passports-heats?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 06 Mar 2021 03:01:31 -0800</pubDate>
+ </item>
  <item>
   <title>The Conversation Around Vaccine Passports Heats Up</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4267%2Fvaccine_passports_aladdin.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The Digital Green Pass and other efforts like it (such as the system already implemented in Israel) have sparked a dialogue over whether vaccine passports are necessary for economic revival or an ethical minefield waiting to explode.  It’s a digital health pass showing that you’ve gotten your Covid-19 shot(s).  Looking ahead...   That word we just wrote in the sentence above: “privilege.”  And what could go wrong? Some cruise lines have also announced they’ll require vaccination for guests and crew for the privilege of sailing the Covid-free seas.</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/key-performance-indicators-march-2?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 02 Mar 2021 03:01:40 -0800</pubDate>
- </item>
- <item>
-  <title>Sen. Warren Unveils Wealth Tax Proposal</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4221%2Felizabeth_warren.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Last week, Treasury Sec. Janet Yellen said a wealth tax has been discussed, but given "very difficult implementation problems," the Biden administration would rather look into increased corporate or capital gains taxes.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/01/sen-warren-unveils-wealth-tax-proposal?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>wealth</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/sen-warren-unveils-wealth-tax-proposal?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 02 Mar 2021 03:01:40 -0800</pubDate>
- </item>
- <item>
-  <title>SPACs Start 2021 on a Torrid Pace</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F2Wim5ftHoDdJ1RNpuS%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The latest SPAC deal is Rocket Lab, a leader in launching small satellites into space.  Quick refresher: A SPAC is a shell company that goes public, raises money, then uses those funds to acquire a private company and, in doing so, take them public. (NYT)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/01/spacs-start-2021-torrid-pace?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>deals</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/spacs-start-2021-torrid-pace?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 02 Mar 2021 03:01:40 -0800</pubDate>
- </item>
- <item>
-  <title>Senate Prepares for Stimulus Vote</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3974%2Fbiden_stimulus_plan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; It's a win for centristsLike their House colleagues, Senate Republicans will likely unanimously oppose the bill. Now that the wage increase is out, a handful of moderate Democrats who were skeptical of it are more likely to support the bill. If it passes, the House will need to vote again on a matching version.   </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/01/senate-prepares-stimulus-vote?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/senate-prepares-stimulus-vote?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 02 Mar 2021 03:01:40 -0800</pubDate>
- </item>
- <item>
-  <title>Buy-Now-Pay-Later Giant Klarna Worth $31B After Latest Round of Funding</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4222%2Fklarna.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Why the BNPL hype? Companies like Macy's and Neiman Marcus still rely heavily on store- and co-branded credit card fees to pad their bottom lines, offerings that compete with BNPL options.  One of the earliest companies to the BNPL game, Klarna offers consumers the option to pay for an item online in installments rather than all at once.  But BNPL has put retail giants in a pickle.  That concerns regulators, since more than than 10% of customers at one bank that had used BNPL were already behind on their payments, according to the UK's Financial Conduct Authority.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/01/buynowpaylater-giant-klarna-worth-31-billion-latest-round-funding?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/buynowpaylater-giant-klarna-worth-31-billion-latest-round-funding?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 02 Mar 2021 03:01:40 -0800</pubDate>
- </item>
- <item>
-  <title>SPACs Start 2021 on a Torrid Pace</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F2Wim5ftHoDdJ1RNpuS%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The latest SPAC deal is Rocket Lab, a leader in launching small satellites into space.  Quick refresher: A SPAC is a shell company that goes public, raises money, then uses those funds to acquire a private company and, in doing so, take them public. (NYT)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/01/spacs-start-2021-torrid-pace</link>
-  <author>Neal Freyman</author>
-  <categories>deals</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/01/spacs-start-2021-torrid-pace</guid>
-  <pubDate>Mon, 01 Mar 2021 14:41:41 -0800</pubDate>
  </item>
 
 </channel>
