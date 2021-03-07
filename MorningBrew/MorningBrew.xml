@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/07</link>
- <lastBuildDate>Sun, 07 Mar 2021 06:59:02 -0800</lastBuildDate>
- <pubDate>Sun, 07 Mar 2021 06:59:02 -0800</pubDate>
+ <lastBuildDate>Sun, 07 Mar 2021 07:23:58 -0800</lastBuildDate>
+ <pubDate>Sun, 07 Mar 2021 07:23:58 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Greatest Product of All Time Bracket Challenge</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4270%2Fgreatest_product_of_all_time_logo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The product with more votes when the polls close will advance to the next round.  Over the next two weeks, Morning Brew readers will have the opportunity to select the Greatest Product of All Time (GPOAT).  How does a product advance through the bracket? what makes a product “great”? We’ll start with 64 products, separated into four different “regions” of 16 products. Some products truly are great.  How it works: The competition mirrors the format of the NCAA’s March Madness tournament.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/07/greatest-product-time-bracket-challenge</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/07/greatest-product-time-bracket-challenge</guid>
+  <pubDate>Sun, 07 Mar 2021 07:21:56 -0800</pubDate>
+ </item>
  <item>
   <title>How to File Your Taxes as an S-corp</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4259%2Fwoman_at_computer.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Here’s an example: Let’s say you’re a shareholder of an S-corp called Debi’s Awesome Snacks.    Taxes for S-corps and C-corps are due on March 15 so that shareholders have the info they need to file individual income taxes before April 15. which spits out a K-1 and is filed with each owner’s personal income taxes (this is how income tax transfers from business to owner). An S-corp is not as well known but offers a key advantage for qualifying LLCs and C-corps: Income taxes are passed through to the shareholders’ tax returns. We’ve gone over how to file your taxes as a sole proprietor and a Limited Liability Corporation (LLC), two very common ways to incorporate a business. So let us be clear: Attempting to DIY your taxes as an S-corp is like skiing up the mountain instead of taking a lift.</description>
@@ -360,15 +369,6 @@
   <author>Eliza Carter</author>
   <categories>covid 19</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/02/covid-vaccine-rivals-merck-johnson-johnson-join-forces-production</guid>
-  <pubDate>Tue, 02 Mar 2021 14:46:43 -0800</pubDate>
- </item>
- <item>
-  <title>New Media Company TOGETHXR Aims to Tell Stories of Female Athletes</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fh1zypyYAgZE96sCNuV%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;To combat that asymmetry, TOGETHXR will produce original content and partner closely with social media platforms, serving an audience of girls and young women.    The war chest: TOGETHXR nabbed a "mid-seven figure investment" from Magnet Companies, a private equity holding company run by longtime media mavens, per the NYT.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/02/new-media-company-togethxr-aims-tell-stories-female-athletes</link>
-  <author>Eliza Carter</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/02/new-media-company-togethxr-aims-tell-stories-female-athletes</guid>
   <pubDate>Tue, 02 Mar 2021 14:46:43 -0800</pubDate>
  </item>
 
