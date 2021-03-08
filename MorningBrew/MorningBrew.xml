@@ -8,9 +8,36 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/08</link>
- <lastBuildDate>Mon, 08 Mar 2021 15:08:55 -0800</lastBuildDate>
- <pubDate>Mon, 08 Mar 2021 15:08:55 -0800</pubDate>
+ <lastBuildDate>Mon, 08 Mar 2021 15:13:55 -0800</lastBuildDate>
+ <pubDate>Mon, 08 Mar 2021 15:13:55 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Discord Keeps Pandemic Momentum Going</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxUNd9XfltRREDbvwBO%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Started in 2015 as a place for users to chat with friends while playing video games, Discord has grown into a platform for more people than just gamers to connect. After the original Wall Street Bets Discord server was banned for hate speech during the height of meme stock mania in January, the new server has already amassed over 592,000 members.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/08/discord-keeps-pandemic-momentum-going</link>
+  <author>Toby Howell</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/discord-keeps-pandemic-momentum-going</guid>
+  <pubDate>Mon, 08 Mar 2021 15:11:54 -0800</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 9</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4305%2Fe_l_f_cosmetics_and_chipotle_collab.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Bloomberg) Read: Inside the $156 billion SPAC bubble.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/08/key-performance-indicators-march-9</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/key-performance-indicators-march-9</guid>
+  <pubDate>Mon, 08 Mar 2021 15:11:54 -0800</pubDate>
+ </item>
+ <item>
+  <title>North American Box Office Has Best Pandemic Weekend</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F11NcpG5wIIp77W%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Universal just delayed its newest Fast and Furious film again from May to June while it waits for more international markets to reopen. Kong (now scheduled for March 31) and A Quiet Place II (May 28). After a year with every release being pushed back, some studios are finally moving premieres up, including Godzilla v.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/08/north-american-box-office-best-pandemic-weekend</link>
+  <author>Alex Hickey</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/north-american-box-office-best-pandemic-weekend</guid>
+  <pubDate>Mon, 08 Mar 2021 15:11:54 -0800</pubDate>
+ </item>
  <item>
   <title>Stimulus Update: House Expected to Pass Bill Today</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3452%2Fstimulus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  In the US, 2.5 million women left the labor force between February 2020 and January 2021 compared to 1.8 million men.</description>
@@ -342,33 +369,6 @@
   <author>Toby Howell</author>
   <categories>media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/03/netflix-rolls-new-tiktokesque-video-feature?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 04 Mar 2021 03:01:43 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 4</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4247%2Fnyc_mayoral_candidate_and.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The New Yorker) Read: How to build an artificial heart.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/03/key-performance-indicators-march-4?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/03/key-performance-indicators-march-4?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 04 Mar 2021 03:01:43 -0800</pubDate>
- </item>
- <item>
-  <title>Energy Biz Focuses Attention on Carbon Capture</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3720%2Ffossil_fuels_and_climate_change.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In the energy biz, attention is turning toward an expensive but enticing way to reduce emissions: carbon capture, a process where pollution is... Exxon Mobil has, up until now, resisted carbon capture, but it's recently come under pressure by an activist investor to reduce its CO2 output.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/03/energy-biz-focuses-attention-carbon-capture?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/03/energy-biz-focuses-attention-carbon-capture?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 04 Mar 2021 03:01:43 -0800</pubDate>
- </item>
- <item>
-  <title>Texas Lifts Restrictions: What It Means for Businesses</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4246%2Fgreg_abbott.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Many health experts argue the moves could lead to a resurgence of the virus, and some business owners say they’re worried because the statewide mask mandate gave them cover when dealing with mask-resistant customers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/03/texas-lifts-restrictions-means-businesses?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>covid 19</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/03/texas-lifts-restrictions-means-businesses?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 04 Mar 2021 03:01:43 -0800</pubDate>
  </item>
 
