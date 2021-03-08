@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/08</link>
- <lastBuildDate>Mon, 08 Mar 2021 15:03:59 -0800</lastBuildDate>
- <pubDate>Mon, 08 Mar 2021 15:03:59 -0800</pubDate>
+ <lastBuildDate>Mon, 08 Mar 2021 15:08:55 -0800</lastBuildDate>
+ <pubDate>Mon, 08 Mar 2021 15:08:55 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Stimulus Update: House Expected to Pass Bill Today</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3452%2Fstimulus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  In the US, 2.5 million women left the labor force between February 2020 and January 2021 compared to 1.8 million men.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/08/stimulus-update-house-expected-pass-bill-today</link>
+  <author>Alex Hickey</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/stimulus-update-house-expected-pass-bill-today</guid>
+  <pubDate>Mon, 08 Mar 2021 15:06:55 -0800</pubDate>
+ </item>
  <item>
   <title>Cathie Wood and Ark Innovation Are Off to a Tough Start in 2021</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4338%2Fsinking_ark.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But after another brutal day yesterday when Ark Innovation dropped nearly 6%, overall sentiment toward Ark may be shifting—short interest in Ark Innovation rose to its highest level ever last Thursday. One example: Tesla accounts for around 10% of Ark Innovation. And Ark is particularly sensitive to any moves away from higher-risk tech stocks because it has so much exposure to them.  Ark's five exchange-traded funds (ETFs) have all dropped over 20% since early February, and its flagship fund, Ark Innovation, has declined for three weeks in a row.</description>
@@ -360,15 +369,6 @@
   <author>Eliza Carter</author>
   <categories>covid 19</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/03/texas-lifts-restrictions-means-businesses?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 04 Mar 2021 03:01:43 -0800</pubDate>
- </item>
- <item>
-  <title>Google Commits to Phasing Out Invasive Third-Party Cookies</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4244%2Fgoogle_cookie_jar.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That way, businesses can still serve targeted ads, but your specific user data is a little more private since Google is essentially hiding it in a crowd. To a certain extent, the modern advertising businesses of internet giants like Google and Facebook are built on the buttery backs of cookies. Currently, using cookies, Google can see that a user was shopping for a new golf bag on Amazon, then later serve them a Callaway ad next to a Golf.  Now, through a program called “Privacy Sandbox,” Google is testing a way for companies to target ads to groups of users with similar interests instead of directly to individuals.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/03/google-commits-phasing-invasive-thirdparty-cookies?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>advertising</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/03/google-commits-phasing-invasive-thirdparty-cookies?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 04 Mar 2021 03:01:43 -0800</pubDate>
  </item>
 
