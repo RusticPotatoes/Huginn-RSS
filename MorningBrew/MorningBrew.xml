@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/07/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/08/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/07</link>
- <lastBuildDate>Sun, 07 Mar 2021 16:43:56 -0800</lastBuildDate>
- <pubDate>Sun, 07 Mar 2021 16:43:56 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/08</link>
+ <lastBuildDate>Mon, 08 Mar 2021 03:03:58 -0800</lastBuildDate>
+ <pubDate>Mon, 08 Mar 2021 03:03:58 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: March 8</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;First held in 1851, it’s the oldest international sports competition in existance. Some big anniversaries on Thursday: It marks 1 year since the WHO declared Covid-19 a global pandemic.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/08/week-ahead-march-8?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/week-ahead-march-8?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 08 Mar 2021 03:01:56 -0800</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 8</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F125%2Fmicrosoft_redmond_campus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Stat: 434 books about climate change were published in the US in 2020, up from just 19 in 2010, according to NPD Group. (The Guardian)</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/08/key-performance-indicators-march-8?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/key-performance-indicators-march-8?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 08 Mar 2021 03:01:56 -0800</pubDate>
+ </item>
+ <item>
+  <title>NFT of Jack Doresey’s First Tweet Ever Fetches Bid of $2.5 Million</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4276%2Ftwitter_s_first_tweet.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Bottom line: Dorsey’s tweet will remain on Twitter and will be free to look at. If your answer was, “absolutely nothing, it’s just a tweet,” then you probably haven’t been following the recent NFT craze.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/08/nft-jack-doreseys-first-tweet-ever-fetches-bid-25-million?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/nft-jack-doreseys-first-tweet-ever-fetches-bid-25-million?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 08 Mar 2021 03:01:56 -0800</pubDate>
+ </item>
+ <item>
+  <title>Oprah Interviews Prince Harry and Meghan Markle in Major TV Event</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4277%2Fharry_and_meghan_interview.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;So far, they’ve mostly followed the traditional playbook:Deal with Netflix: Last September, they announced a content deal with the streamer worth a reported $100 million. Meghan told Oprah that her life as a British royal was so suffocating that she contemplated suicide. it’s only a matter of time, right? SPAC: Just kidding, but...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/08/oprah-interviews-prince-harry-meghan-markle-major-tv-event?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/oprah-interviews-prince-harry-meghan-markle-major-tv-event?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 08 Mar 2021 03:01:56 -0800</pubDate>
+ </item>
+ <item>
+  <title>Senate Passes $1.9 Trillion Stimulus Bill</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FfSYmbgG5Ug8S11K0FU%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This bill wasn’t quite the bipartisan effort Biden had originally hoped for. $1,400 stimulus checks: Individuals earning up to $75,000 and couples making up to $150,000 qualify for the entire amount.  Quick note on process: The House originally passed the stimulus bill, then the Senate tweaked it and passed its own version this weekend. For the second straight March, the Senate passed an enormous bill aimed at providing relief to Americans suffering financially from the coronavirus pandemic.  Bottom line: Workers and families will have received $2.2 trillion from all of the coronavirus stimulus measures, according to the nonpartisan Committee for a Responsible Federal Budget.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/08/senate-passes-19-trillion-stimulus-bill?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/senate-passes-19-trillion-stimulus-bill?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 08 Mar 2021 03:01:56 -0800</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: March 8</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;First held in 1851, it’s the oldest international sports competition that exists. Some big anniversaries on Thursday: It marks 1 year since the WHO declared Covid-19 a global pandemic.</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/03/key-performance-indicators-march-4</guid>
   <pubDate>Wed, 03 Mar 2021 14:36:43 -0800</pubDate>
- </item>
- <item>
-  <title>Energy Biz Focuses Attention on Carbon Capture</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3720%2Ffossil_fuels_and_climate_change.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In the energy biz, attention is turning toward an expensive but enticing way to reduce emissions: carbon capture, a process where pollution is... ExxonMobil has, up until now, resisted carbon capture, but it has recently been put under pressure by an activist investor to reduce its CO2 output.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/03/energy-biz-focuses-attention-carbon-capture</link>
-  <author>Eliza Carter</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/03/energy-biz-focuses-attention-carbon-capture</guid>
-  <pubDate>Wed, 03 Mar 2021 14:31:43 -0800</pubDate>
- </item>
- <item>
-  <title>Google Commits to Phasing Out Invasive Third-Party Cookies</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4244%2Fgoogle_cookie_jar.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That way, businesses can still serve targeted ads, but your specific user data is a little more private since Google is essentially hiding it in a crowd. To a certain extent, the modern advertising businesses of internet giants like Google and Facebook are built on the buttery backs of cookies. Google confirmed yesterday that it plans to phase out the practice of letting companies track users across the web using cookies by next year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/03/google-commits-phasing-invasive-thirdparty-cookies</link>
-  <author>Toby Howell</author>
-  <categories>advertising</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/03/google-commits-phasing-invasive-thirdparty-cookies</guid>
-  <pubDate>Wed, 03 Mar 2021 14:31:43 -0800</pubDate>
- </item>
- <item>
-  <title>Texas Lifts Restrictions: What It Means for Businesses</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4246%2Fgreg_abbott.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Retailers including gym operator Life Time Fitness, grocer Albertsons, and some local restaurants have dropped mask requirements, plan to return to normal capacity, or both.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/03/texas-lifts-restrictions-means-businesses</link>
-  <author>Eliza Carter</author>
-  <categories>covid 19</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/03/texas-lifts-restrictions-means-businesses</guid>
-  <pubDate>Wed, 03 Mar 2021 14:31:43 -0800</pubDate>
- </item>
- <item>
-  <title>New Media Company TOGETHXR Aims to Tell Stories of Female Athletes</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fh1zypyYAgZE96sCNuV%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;To combat that asymmetry, TOGETHXR will produce original content and partner closely with social media platforms, serving an audience of girls and young women.    The war chest: TOGETHXR nabbed a "mid-seven figure investment" from Magnet Companies, a private equity holding company run by longtime media mavens, per the NYT.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/02/new-media-company-togethxr-aims-tell-stories-female-athletes?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/02/new-media-company-togethxr-aims-tell-stories-female-athletes?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 03 Mar 2021 03:01:44 -0800</pubDate>
- </item>
- <item>
-  <title>Explainer: What Are 10-Year Treasury Notes and Yields?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3856%2Fweird_stock_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Or ask us another question here.  As demand for the 10-year 📈, the yield 📉. Investors are often willing to accept lower yields because they know their investment is safe. This week, yields have stabilized. Yields were very low during most of the pandemic. Alas, today's hottest bond is the 10-year Treasury note, which the government issues to borrow money (the 10 means it matures in 10 years.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/02/explainer-10year-treasury-bonds-yields?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>explainer</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/02/explainer-10year-treasury-bonds-yields?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 03 Mar 2021 03:01:44 -0800</pubDate>
  </item>
 
 </channel>
