@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/09</link>
- <lastBuildDate>Tue, 09 Mar 2021 14:58:56 -0800</lastBuildDate>
- <pubDate>Tue, 09 Mar 2021 14:58:56 -0800</pubDate>
+ <lastBuildDate>Tue, 09 Mar 2021 15:03:52 -0800</lastBuildDate>
+ <pubDate>Tue, 09 Mar 2021 15:03:52 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>How Startup Funding Works</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FDfaZfbnl5OK7S%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;, work? If you have any other questions on business or the economy, ask here.  Our A: Startups typically fund themselves by raising money from outside investors, and each time they do, it's called a funding "round."  Series B: Your business model has proven itself, but you need to expand.  Series A: Launch time. ) into the public markets. You've achieved proof of concept, and investors are analyzing data on what you achieved with past investments.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/09/startup-funding-works</link>
+  <author>Eliza Carter</author>
+  <categories>qanda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/09/startup-funding-works</guid>
+  <pubDate>Tue, 09 Mar 2021 15:02:02 -0800</pubDate>
+ </item>
  <item>
   <title>Disney+ Reaches Over 100 Million Subscribers</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2751%2Flion_king_meme.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, Disney CEO Bob Chapek announced during the company's annual shareholder meeting that streaming service Disney+ has notched over 100 million subscribers just 16 months after launch. It took Netflix nearly six years (after it first began reporting streaming sub numbers) to hit 100 million subscribers.  Bottom line: Though Disney+ is growing rapidly, Disney isn't making nearly as much money per subscriber as Netflix does.  </description>
@@ -361,15 +370,6 @@
   <categories>games</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/brew-crossword-tv-gold</guid>
   <pubDate>Fri, 05 Mar 2021 11:11:27 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 5</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4248%2Fdallas_mavericks_v_miami.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New York Times)  Read: The era of audio creators has arrived.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/04/key-performance-indicators-march-5?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/04/key-performance-indicators-march-5?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 05 Mar 2021 03:01:33 -0800</pubDate>
  </item>
 
 </channel>
