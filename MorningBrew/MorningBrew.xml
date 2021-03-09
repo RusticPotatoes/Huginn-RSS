@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/08/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/09/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/08</link>
- <lastBuildDate>Mon, 08 Mar 2021 15:13:55 -0800</lastBuildDate>
- <pubDate>Mon, 08 Mar 2021 15:13:55 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/09</link>
+ <lastBuildDate>Tue, 09 Mar 2021 03:04:03 -0800</lastBuildDate>
+ <pubDate>Tue, 09 Mar 2021 03:04:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Discord Keeps Pandemic Momentum Going</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxUNd9XfltRREDbvwBO%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Started in 2015 as a place for friends to chat while playing video games, Discord has grown into a platform for more communities to connect.  For instance, there's a 400+ person Discord server called Parrot's Nest, which provides a forum for parrot owners. Zoom out: Discord is a force in the amateur investing community.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/08/discord-keeps-pandemic-momentum-going?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/discord-keeps-pandemic-momentum-going?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 09 Mar 2021 03:02:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 9</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4305%2Fe_l_f_cosmetics_and_chipotle_collab.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Bloomberg) Read: Inside the $156 billion SPAC bubble.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/08/key-performance-indicators-march-9?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/key-performance-indicators-march-9?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 09 Mar 2021 03:02:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>North American Box Office Has Best Pandemic Weekend</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F11NcpG5wIIp77W%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Universal just delayed its newest Fast and Furious film again from May to June while it waits for more international markets to reopen. Kong (now scheduled for March 31) and A Quiet Place II (May 28). After a year with every release being pushed back, some studios are finally moving premieres up, including Godzilla v.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/08/north-american-box-office-best-pandemic-weekend?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/north-american-box-office-best-pandemic-weekend?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 09 Mar 2021 03:02:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>Stimulus Update: House Expected to Pass Bill Today</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3452%2Fstimulus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  In the US, 2.5 million women left the labor force between February 2020 and January 2021, compared to 1.8 million men. For context, overall unemployment hit a record 14.8% last April. We had a 3.5% unemployment rate before the pandemic and there was no sign of inflation increasing," she told MSNBC.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/08/stimulus-update-house-expected-pass-bill-today?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/stimulus-update-house-expected-pass-bill-today?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 09 Mar 2021 03:02:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>Cathie Wood and Ark Innovation Are Off to a Tough Start in 2021</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4338%2Fsinking_ark.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Ark's five exchange-traded funds (ETFs) have all dropped over 20% since early February, and its flagship fund, Ark Innovation, has declined for three weeks in a row. One example: Tesla accounts for around 10% of Ark Innovation. And Ark is particularly sensitive to any moves away from higher-risk tech stocks because it has so much exposure to them.  In 2020, Ark Innovation became the largest actively managed ETF in the world, with $17 billion in assets under management. That position made Wood look like a genius when Tesla gained almost 8x last year, but stocks don't always go up.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/08/cathie-wood-ark-innovation-off-tough-start-2021?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>investing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/cathie-wood-ark-innovation-off-tough-start-2021?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 09 Mar 2021 03:02:01 -0800</pubDate>
+ </item>
  <item>
   <title>Discord Keeps Pandemic Momentum Going</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxUNd9XfltRREDbvwBO%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Started in 2015 as a place for users to chat with friends while playing video games, Discord has grown into a platform for more people than just gamers to connect. After the original Wall Street Bets Discord server was banned for hate speech during the height of meme stock mania in January, the new server has already amassed over 592,000 members.</description>
@@ -325,51 +370,6 @@
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/04/nasdaq-turns-negative-10year-rises-fed-sticks-status-quo</guid>
   <pubDate>Thu, 04 Mar 2021 15:16:32 -0800</pubDate>
- </item>
- <item>
-  <title>NYC and San Francisco Reopen Theaters at 25% Capacity</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4255%2Fentertainment_tourism_i.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; New York and California are the film industry's two biggest American marketsWith theaters in both regions closed for nearly a year, Hollywood mostly paused blockbuster releases. Theaters are capped at 25% capacity. doesn't everyone sneak in candy to movie theaters anyway? Zoom out: The struggling cinema industry is getting some hopeful plot twists.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/04/nyc-san-francisco-reopen-theaters-25-capacity</link>
-  <author>Jamie Wilde</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/04/nyc-san-francisco-reopen-theaters-25-capacity</guid>
-  <pubDate>Thu, 04 Mar 2021 15:16:32 -0800</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: March 5</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/04/brews-weekly-news-quiz-march-5</link>
-  <author>Jamie Wilde</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/04/brews-weekly-news-quiz-march-5</guid>
-  <pubDate>Thu, 04 Mar 2021 15:16:32 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 5</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4248%2Fdallas_mavericks_v_miami.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New York Times)  Read: The era of audio creators has arrived.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/04/key-performance-indicators-march-5</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/04/key-performance-indicators-march-5</guid>
-  <pubDate>Thu, 04 Mar 2021 14:51:33 -0800</pubDate>
- </item>
- <item>
-  <title>Why Jack Dorsey’s Fintech Square Bought Tidal</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4254%2Fjay-z.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;He bought that stake back as part of the Square acquisition.  First, the backstory: Tidal, which was bought by rapper Jay-Z along with other artists in 2015, aimed to compete with Spotify and Apple Music by offering exclusive music and videos.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/04/jack-dorseys-fintech-square-bought-tidal</link>
-  <author>Eliza Carter</author>
-  <categories>music</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/04/jack-dorseys-fintech-square-bought-tidal</guid>
-  <pubDate>Thu, 04 Mar 2021 14:46:29 -0800</pubDate>
- </item>
- <item>
-  <title>Netflix Rolls Out New TikTok-esque Video Feature</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4245%2Fnetflix_fast_laughs.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Fast Laughs users can send the clip to their friends, add the show to a watch list, or, most importantly, start watching a full episode immediately.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/03/netflix-rolls-new-tiktokesque-video-feature?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/03/netflix-rolls-new-tiktokesque-video-feature?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 04 Mar 2021 03:01:43 -0800</pubDate>
  </item>
 
 </channel>
