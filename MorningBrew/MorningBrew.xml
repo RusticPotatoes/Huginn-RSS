@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/09/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/10/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/09</link>
- <lastBuildDate>Tue, 09 Mar 2021 15:03:52 -0800</lastBuildDate>
- <pubDate>Tue, 09 Mar 2021 15:03:52 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/10</link>
+ <lastBuildDate>Wed, 10 Mar 2021 03:03:59 -0800</lastBuildDate>
+ <pubDate>Wed, 10 Mar 2021 03:03:59 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>How Startup Funding Works</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FDfaZfbnl5OK7S%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;, work? If you have any other questions on business or the economy, ask here.  The Brew's A: Startups typically fund themselves by raising money from outside investors, and each time they do, it's called a funding "round."  Series B: Your business model has proven itself, but you need to expand.  Series A: Launch time. ) into the public markets.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/09/startup-funding-works?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>qanda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/09/startup-funding-works?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 10 Mar 2021 03:02:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 10</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4342%2Fsailing_yachts.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Biden's relief plan alone will lift global economic growth by one whole percentage point this year, the OECD's chief economist told the FT.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/09/key-performance-indicators-march-10?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/09/key-performance-indicators-march-10?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 10 Mar 2021 03:02:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>Offshore Wind Project In Martha's Vineyard Nears Approval</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4343%2Foffshore_wind_turbines.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; It'd be a breakthrough for domestic offshore wind in the US, and the Biden administration hopes this project will kick the industry into high gear.  About two dozen East Coast wind projects are in various stages of development, and several states in the region have promised to purchase at least 25,000 MW of offshore power by 2035.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/09/offshore-wind-project-marthas-vineyard-nears-approval?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/09/offshore-wind-project-marthas-vineyard-nears-approval?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 10 Mar 2021 03:02:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>Microsoft Hack Expands to Estimated 60,000 Victims</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FL39f1L94V0ydlWd6bt%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Last Tuesday, Microsoft issued security patches (which users must manually install) to prevent further intrusions.  Tens of thousands of Asian and European organizations are also affected, including the European Banking Authority. Now, it may have to do the same with China.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/09/microsoft-hack-expands-estimated-60000-victims?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/09/microsoft-hack-expands-estimated-60000-victims?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 10 Mar 2021 03:02:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>Disney+ Reaches Over 100 Million Subscribers</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2751%2Flion_king_meme.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, Disney CEO Bob Chapek announced that streaming service Disney+ has notched over 100 million subscribers just 16 months after launch.   It took Netflix nearly six years (after it first began reporting streaming sub numbers) to hit 100 million subscribers.  Bottom line: Though Disney+ is growing rapidly, Disney isn't making nearly as much money per subscriber as Netflix does. Now it's projecting 230–260 million by 2024, which would mean surpassing Netflix.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/09/disney-reaches-100-million-subscribers?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/09/disney-reaches-100-million-subscribers?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 10 Mar 2021 03:02:00 -0800</pubDate>
+ </item>
  <item>
   <title>How Startup Funding Works</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FDfaZfbnl5OK7S%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;, work? If you have any other questions on business or the economy, ask here.  Our A: Startups typically fund themselves by raising money from outside investors, and each time they do, it's called a funding "round."  Series B: Your business model has proven itself, but you need to expand.  Series A: Launch time. ) into the public markets. You've achieved proof of concept, and investors are analyzing data on what you achieved with past investments.</description>
@@ -325,51 +370,6 @@
   <categories>health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/conversation-around-vaccine-passports-heats</guid>
   <pubDate>Fri, 05 Mar 2021 15:31:35 -0800</pubDate>
- </item>
- <item>
-  <title>Some Dr. Seuss Books Discontinued, Others Make Amazon’s Bestseller List</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4266%2Famazon_best_sellers.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The backstory: Dr. Seuss Enterprises, which runs Theodore Seuss Geisel’s estate, discontinued six of the author’s books on Tuesday, the author’s 117th birthday, over racist imagery.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/05/dr-seuss-books-discontinued-others-make-amazons-bestseller-list</link>
-  <author>Jamie Wilde</author>
-  <categories>publishing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/dr-seuss-books-discontinued-others-make-amazons-bestseller-list</guid>
-  <pubDate>Fri, 05 Mar 2021 15:11:31 -0800</pubDate>
- </item>
- <item>
-  <title>Tom Cruise Deepfakes Go Viral on TikTok</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4265%2Ftom_cruise_deepfake.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Visual effects specialist Chris Ume spent months creating the convincing videos, which star a Tom Cruise impersonator augmented with VFX and CGI.  Despite his intentions, the videos highlight existing concerns about deepfake technology and how social media companies guard their platforms against misinformation.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/05/tom-cruise-deepfakes-go-viral-tiktok</link>
-  <author>Jamie Wilde</author>
-  <categories>social media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/tom-cruise-deepfakes-go-viral-tiktok</guid>
-  <pubDate>Fri, 05 Mar 2021 15:01:34 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 6</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4264%2Fgap_to_announce_q4_earnin.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Business Insider) Read: Why millennials love Gucci. That’s shocking considering total miles driven dropped 13% due to the pandemic.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/05/key-performance-indicators-march-6</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/key-performance-indicators-march-6</guid>
-  <pubDate>Fri, 05 Mar 2021 14:51:35 -0800</pubDate>
- </item>
- <item>
-  <title>Covid Vaccine Tracker</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Around the world…279 million doses have been administered in 111 different countries, up from 231 million doses in 100 countries last week. 82.6 million doses, or 24.9 doses for every 100 people, have been administered, according to Bloomberg.  In the US...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/05/covid-vaccine-tracker</link>
-  <author>Toby Howell</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/covid-vaccine-tracker</guid>
-  <pubDate>Fri, 05 Mar 2021 14:51:34 -0800</pubDate>
- </item>
- <item>
-  <title>Brew Crossword: TV Gold</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/05/brew-crossword-tv-gold</link>
-  <author>Toby Howell</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/brew-crossword-tv-gold</guid>
-  <pubDate>Fri, 05 Mar 2021 11:11:27 -0800</pubDate>
  </item>
 
 </channel>
