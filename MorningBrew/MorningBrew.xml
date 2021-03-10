@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/10</link>
- <lastBuildDate>Wed, 10 Mar 2021 03:03:59 -0800</lastBuildDate>
- <pubDate>Wed, 10 Mar 2021 03:03:59 -0800</pubDate>
+ <lastBuildDate>Wed, 10 Mar 2021 14:44:08 -0800</lastBuildDate>
+ <pubDate>Wed, 10 Mar 2021 14:44:08 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Fukushima Disaster: 10 Year Anniversary and the Impact on Energy</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4356%2Ffukushima.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: Some of that uneasiness around nuclear energy has spread to other countries since the disaster, including Germany.    What happened next: the worst nuclear disaster since Chernobyl in 1986. Only two (out of about 1,700) took them up on it, and the home of the mayor of one of those towns was targeted by a Molotov cocktail.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/10/fukushima-disaster-10-year-anniversary-impact-energy</link>
+  <author>Eliza Carter</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/10/fukushima-disaster-10-year-anniversary-impact-energy</guid>
+  <pubDate>Wed, 10 Mar 2021 14:42:06 -0800</pubDate>
+ </item>
  <item>
   <title>How Startup Funding Works</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FDfaZfbnl5OK7S%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;, work? If you have any other questions on business or the economy, ask here.  The Brew's A: Startups typically fund themselves by raising money from outside investors, and each time they do, it's called a funding "round."  Series B: Your business model has proven itself, but you need to expand.  Series A: Launch time. ) into the public markets.</description>
@@ -361,15 +370,6 @@
   <categories>health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/conversation-around-vaccine-passports-heats?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 06 Mar 2021 03:01:31 -0800</pubDate>
- </item>
- <item>
-  <title>The Conversation Around Vaccine Passports Heats Up</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4267%2Fvaccine_passports_aladdin.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The Digital Green Pass and other efforts like it (such as the system already implemented in Israel) have sparked a dialogue over whether vaccine passports are necessary for economic revival or an ethical minefield waiting to explode.  It’s a digital health pass showing that you’ve gotten your Covid-19 shot(s).  Looking ahead...   That word we just wrote in the sentence above: “privilege.”  And what could go wrong? Some cruise lines have also announced they’ll require vaccination for guests and crew for the privilege of sailing the Covid-free seas.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/05/conversation-around-vaccine-passports-heats</link>
-  <author>Neal Freyman</author>
-  <categories>health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/05/conversation-around-vaccine-passports-heats</guid>
-  <pubDate>Fri, 05 Mar 2021 15:31:35 -0800</pubDate>
  </item>
 
 </channel>
