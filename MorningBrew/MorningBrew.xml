@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/11</link>
- <lastBuildDate>Thu, 11 Mar 2021 03:04:05 -0800</lastBuildDate>
- <pubDate>Thu, 11 Mar 2021 03:04:05 -0800</pubDate>
+ <lastBuildDate>Thu, 11 Mar 2021 14:04:03 -0800</lastBuildDate>
+ <pubDate>Thu, 11 Mar 2021 14:04:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Global Food Prices Rise for Ninth Straight Month</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4364%2Fgzero_food_prices.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In February, global food prices rose 2.4% for their ninth straight month of increases.  Zoom out: The pandemic pushed an additional 13+ million Americans into food insecurity, but the situation is even worse in the world's poorest countries.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/11/global-food-prices-rise-ninth-straight-month</link>
+  <author>Alex Hickey</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/11/global-food-prices-rise-ninth-straight-month</guid>
+  <pubDate>Thu, 11 Mar 2021 14:02:01 -0800</pubDate>
+ </item>
  <item>
   <title>The Fukushima Disaster: 10 Year Anniversary and the Impact on Energy</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4356%2Ffukushima.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: Some of that uneasiness around nuclear energy has spread to other countries since the disaster, including Germany.    What happened next: the worst nuclear disaster since Chernobyl in 1986. Only two (out of about 1,700) took them up on it, and the home of the mayor of one of those towns was targeted by a Molotov cocktail.</description>
@@ -361,15 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/oprah-interviews-prince-harry-meghan-markle-major-tv-event</guid>
   <pubDate>Sun, 07 Mar 2021 16:41:56 -0800</pubDate>
- </item>
- <item>
-  <title>Senate Passes $1.9 Trillion Stimulus Bill</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FfSYmbgG5Ug8S11K0FU%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This bill wasn’t quite the bipartisan effort Biden had originally hoped for. $1,400 stimulus checks: Individuals earning up to $75,000 and couples making up to $150,000 qualify for the entire amount. For the second straight March, the Senate passed an enormous bill aimed at providing relief to Americans suffering financially from the coronavirus pandemic.  Quick note on process: The House originally passed the stimulus bill, then the Senate tweaked it and passed its own version this weekend.  Bottom line: Workers and families will have received $2.2 trillion from all of the coronavirus stimulus measures, according to the nonpartisan Committee for a Responsible Federal Budget.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/08/senate-passes-19-trillion-stimulus-bill</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/senate-passes-19-trillion-stimulus-bill</guid>
-  <pubDate>Sun, 07 Mar 2021 16:37:00 -0800</pubDate>
  </item>
 
 </channel>
