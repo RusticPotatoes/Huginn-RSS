@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/12</link>
- <lastBuildDate>Fri, 12 Mar 2021 14:44:08 -0800</lastBuildDate>
- <pubDate>Fri, 12 Mar 2021 14:44:08 -0800</pubDate>
+ <lastBuildDate>Fri, 12 Mar 2021 14:49:05 -0800</lastBuildDate>
+ <pubDate>Fri, 12 Mar 2021 14:49:05 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Chewy Cofounder to Lead GameStop’s E-commerce Business</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;His next task will be to turn GameStop’s reputation from “ye olde gaming equipment pawn shop” into “Amazon for gaming.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/12/chewy-cofounder-lead-gamestops-ecommerce-business</link>
+  <author>Jamie Wilde</author>
+  <categories>stocks</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/12/chewy-cofounder-lead-gamestops-ecommerce-business</guid>
+  <pubDate>Fri, 12 Mar 2021 14:47:04 -0800</pubDate>
+ </item>
  <item>
   <title>US Hits 100 Million Vaccine Doses Administered</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;How we got here: The US ordered 300 million doses of AstraZeneca’s vaccine last year, but regulators are still waiting on data from a clinical trial to begin the authorization process. US: The country hit a milestone of 100 million vaccine doses administered yesterday, and 13.5% of all US adults are fully vaccinated (meaning two doses of Moderna or Pfizer-BioNTech, or one of J&amp;J). The debate over unused dosesA cross-border kerfuffle is brewing over millions of unused doses of AstraZeneca’s vaccine.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/stimulus-update-house-expected-pass-bill-today?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 09 Mar 2021 03:02:01 -0800</pubDate>
- </item>
- <item>
-  <title>Cathie Wood and Ark Innovation Are Off to a Tough Start in 2021</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4338%2Fsinking_ark.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Ark's five exchange-traded funds (ETFs) have all dropped over 20% since early February, and its flagship fund, Ark Innovation, has declined for three weeks in a row. One example: Tesla accounts for around 10% of Ark Innovation. And Ark is particularly sensitive to any moves away from higher-risk tech stocks because it has so much exposure to them.  In 2020, Ark Innovation became the largest actively managed ETF in the world, with $17 billion in assets under management. That position made Wood look like a genius when Tesla gained almost 8x last year, but stocks don't always go up.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/08/cathie-wood-ark-innovation-off-tough-start-2021?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/cathie-wood-ark-innovation-off-tough-start-2021?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 09 Mar 2021 03:02:01 -0800</pubDate>
  </item>
 
