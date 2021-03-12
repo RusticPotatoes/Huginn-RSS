@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/11/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/11/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/12/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/11</link>
- <lastBuildDate>Thu, 11 Mar 2021 14:29:02 -0800</lastBuildDate>
- <pubDate>Thu, 11 Mar 2021 14:29:02 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/12</link>
+ <lastBuildDate>Fri, 12 Mar 2021 03:04:04 -0800</lastBuildDate>
+ <pubDate>Fri, 12 Mar 2021 03:04:04 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: March 12</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4171%2Fbeeple_art.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(ProPublica) Read: The lost year: What the pandemic cost teenagers.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/11/key-performance-indicators-march-12?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/11/key-performance-indicators-march-12?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 12 Mar 2021 03:02:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>Global Food Prices Rise for Ninth Straight Month</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4364%2Fgzero_food_prices.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In February, global food prices rose 2.4% for their ninth straight month of increases.  Zoom out: The pandemic pushed an additional 13+ million Americans into food insecurity, but the situation is even worse in the world's poorest countries.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/11/global-food-prices-rise-ninth-straight-month?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/11/global-food-prices-rise-ninth-straight-month?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 12 Mar 2021 03:02:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>South Korean e-Commerce Giant Makes US Trading Debut</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4366%2Fcoupang_ipo.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the South Korean e-commerce giant Coupang became the largest foreign company to make its US trading debut since Alibaba went public in 2014.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/11/south-korean-ecommerce-giant-makes-us-trading-debut?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>ipo</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/11/south-korean-ecommerce-giant-makes-us-trading-debut?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 12 Mar 2021 03:02:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>Biden Signs Stimulus Package: What's Next?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4365%2Fbiden_checklist.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Hours before, President Biden signed his $1.9 trillion Covid relief package into law, marking the first major achievement of his administration. If the $1.9 trillion Covid bill is the splint to fix a broken bone, the next item on Biden's agenda will be the workout regimen that turns the US economy into a chiseled Olympic athlete. After lamenting the toll Covid-19 has taken—including nearly 528,000 American lives—Biden said he’s putting the country on “war footing” to get Covid under control. with Biden and Co. taking a victory lap touting the Covid relief bill, don’t expect any big, new plans for at least a few weeks.  Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/11/biden-signs-stimulus-package-whats-next?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>government</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/11/biden-signs-stimulus-package-whats-next?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 12 Mar 2021 03:02:02 -0800</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: March 12</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4171%2Fbeeple_art.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(ProPublica) Read: The lost year: What the pandemic cost teenagers.</description>
@@ -334,42 +370,6 @@
   <categories>taxes</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/much-know-tax-writeoffs-take-6question-quiz-find</guid>
   <pubDate>Mon, 08 Mar 2021 09:52:00 -0800</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: March 8</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;First held in 1851, it’s the oldest international sports competition in existance. Some big anniversaries on Thursday: It marks 1 year since the WHO declared Covid-19 a global pandemic.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/08/week-ahead-march-8?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/week-ahead-march-8?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 08 Mar 2021 03:01:56 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 8</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F125%2Fmicrosoft_redmond_campus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Stat: 434 books about climate change were published in the US in 2020, up from just 19 in 2010, according to NPD Group. (The Guardian)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/08/key-performance-indicators-march-8?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/key-performance-indicators-march-8?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 08 Mar 2021 03:01:56 -0800</pubDate>
- </item>
- <item>
-  <title>NFT of Jack Doresey’s First Tweet Ever Fetches Bid of $2.5 Million</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4276%2Ftwitter_s_first_tweet.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Bottom line: Dorsey’s tweet will remain on Twitter and will be free to look at. If your answer was, “absolutely nothing, it’s just a tweet,” then you probably haven’t been following the recent NFT craze.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/08/nft-jack-doreseys-first-tweet-ever-fetches-bid-25-million?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/nft-jack-doreseys-first-tweet-ever-fetches-bid-25-million?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 08 Mar 2021 03:01:56 -0800</pubDate>
- </item>
- <item>
-  <title>Oprah Interviews Prince Harry and Meghan Markle in Major TV Event</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4277%2Fharry_and_meghan_interview.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;So far, they’ve mostly followed the traditional playbook:Deal with Netflix: Last September, they announced a content deal with the streamer worth a reported $100 million. Meghan told Oprah that her life as a British royal was so suffocating that she contemplated suicide. it’s only a matter of time, right? SPAC: Just kidding, but...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/08/oprah-interviews-prince-harry-meghan-markle-major-tv-event?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/08/oprah-interviews-prince-harry-meghan-markle-major-tv-event?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 08 Mar 2021 03:01:56 -0800</pubDate>
  </item>
 
 </channel>
