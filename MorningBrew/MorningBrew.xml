@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/13/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/14/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/13</link>
- <lastBuildDate>Sat, 13 Mar 2021 08:19:04 -0800</lastBuildDate>
- <pubDate>Sat, 13 Mar 2021 08:19:04 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/14</link>
+ <lastBuildDate>Sun, 14 Mar 2021 16:33:58 -0700</lastBuildDate>
+ <pubDate>Sun, 14 Mar 2021 16:33:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>NFTs, Bitcoin, SPACs, Snakers: Too Many Crazes to Count</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1241%2Fmr_krabs.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   A short listCrypto: Last March, bitcoin was hovering just above $5,000; on Saturday, it hit an all-time high of above $61,000. The amount wagered on SPACs to fall in value has tripled since the start of the year, per the WSJ. Zoom out: No one knows exactly if/when any of these "mini-bubbles'' will pop but, at least in the SPAC world, some think it might be soon. Even NFTs were being developed as early as 2017. SPACs have been around for decades, sneaker-flipping dates back to 1985, and trading cards, well…you get the point. Plus, it’s not like any of the "crazes" described above are that new.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/14/nfts-bitcoin-spacs-snakers-many-crazes-count</link>
+  <author>Neal Freyman</author>
+  <categories>investing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/14/nfts-bitcoin-spacs-snakers-many-crazes-count</guid>
+  <pubDate>Sun, 14 Mar 2021 16:31:55 -0700</pubDate>
+ </item>
  <item>
   <title>Roblox Teaches Gen Alpha About the Economy</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F883%2Fbloxburg.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Armor, weapons, facial expressions, wings, Sir Rich McMoneyston, III disguises, and other items that augment players’ avatarsPerks that help players in games, like a bigger duffel bag for robbing banks in the Grand Theft Auto-reminiscent Jailbreak gameAccess to games like Welcome to Bloxburg, which charges 25 Robux for entryAdvertisements for the games they create themselvesUnlike its players, Roblox’s economy has a wrinkleDevelopers who create on the Roblox platform can also get paid in Robux, which they can later exchange for USD.  So what do players spend all that virtual currency on? For $4.99, players can buy 400 Robux, and they get a Costco-level discount for buying “value packs” that can run as high as $100 or subscribing for recurring Robux installments. Virtual economies have only become more popular and varied in the years since.</description>
@@ -360,15 +369,6 @@
   <author>Eliza Carter</author>
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/09/disney-reaches-100-million-subscribers</guid>
-  <pubDate>Tue, 09 Mar 2021 14:56:55 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 10</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4342%2Fsailing_yachts.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  (Not Boring)Speaking of, what a snub by the Brew's Selection Committee for the GPOAT bracket. Read: Microsoft Excel is undefeated.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/09/key-performance-indicators-march-10</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/09/key-performance-indicators-march-10</guid>
   <pubDate>Tue, 09 Mar 2021 14:56:55 -0800</pubDate>
  </item>
 
