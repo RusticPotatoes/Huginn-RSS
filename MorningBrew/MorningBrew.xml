@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/15</link>
- <lastBuildDate>Mon, 15 Mar 2021 14:33:40 -0700</lastBuildDate>
- <pubDate>Mon, 15 Mar 2021 14:33:40 -0700</pubDate>
+ <lastBuildDate>Mon, 15 Mar 2021 14:43:41 -0700</lastBuildDate>
+ <pubDate>Mon, 15 Mar 2021 14:43:41 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>ViacomCBS and Discovery Are Quietly Having Incredible Years</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl0HlGVD6AsbobSTe0%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But while the biggest players have gobbled up hundreds of millions of subscribers... Since the start of 2021, ViacomCBS stock is up +156% and Discovery has gained +141%, powered by the launches of their respective streaming services, Paramount+ and Discovery+.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/15/viacomcbs-discovery-quietly-incredible-years</link>
+  <author>Toby Howell</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/15/viacomcbs-discovery-quietly-incredible-years</guid>
+  <pubDate>Mon, 15 Mar 2021 14:41:38 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 16</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4401%2Felon_musk_awarded_with_ax.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;) its CEO and CFO to esteemed new positions, though to the relief of many Tesla investors, they'll also keep their previous titles.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/15/key-performance-indicators-march-16</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/15/key-performance-indicators-march-16</guid>
+  <pubDate>Mon, 15 Mar 2021 14:41:38 -0700</pubDate>
+ </item>
  <item>
   <title>Germany, Italy Join Neighbors in Suspending AstraZeneca Vaccine</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Yesterday, Germany, France, and Italy joined several of their neighbors in suspending AstraZeneca's two-shot Covid vaccine following reports of blood clots. Over half of Italy's population is back under strict lockdowns. Indonesia and the Democratic Republic of the Congo also suspended rollout.</description>
@@ -352,24 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/10/declares-covid19-global-pandemic-1-year-later?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 11 Mar 2021 03:02:02 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 11</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4357%2Fgoogle_trends_map.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Morning Brew) Read: Open up a time capsule by reading our newsletter from March 12, 2020, which recapped all the craziness of the previous day.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/10/key-performance-indicators-march-11</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/10/key-performance-indicators-march-11</guid>
-  <pubDate>Wed, 10 Mar 2021 15:02:07 -0800</pubDate>
- </item>
- <item>
-  <title>The WHO Declares Covid-19 a Global Pandemic: 1 Year Later</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4355%2Fone_eternity_later_sign.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In the US, 1 in 4 adults in the US have now received their first vaccine dose, per the White House. In the US, almost 528,000 people have died due to Covid; a year ago today, the US death toll was 38. Health: Nearly 118 million people globally fell ill with the coronavirus, and 2.6 million people have died.  It’s been a long year. still soared (Norwegian Cruise Line +206%). Stimulus: Including the latest stimulus bill, DC will have spent more than $5 trillion on emergency aid for Americans over the past year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/10/declares-covid19-global-pandemic-1-year-later</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/10/declares-covid19-global-pandemic-1-year-later</guid>
-  <pubDate>Wed, 10 Mar 2021 14:57:01 -0800</pubDate>
  </item>
 
 </channel>
