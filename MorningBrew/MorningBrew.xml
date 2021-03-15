@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/15</link>
- <lastBuildDate>Mon, 15 Mar 2021 03:04:02 -0700</lastBuildDate>
- <pubDate>Mon, 15 Mar 2021 03:04:02 -0700</pubDate>
+ <lastBuildDate>Mon, 15 Mar 2021 14:33:40 -0700</lastBuildDate>
+ <pubDate>Mon, 15 Mar 2021 14:33:40 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Germany, Italy Join Neighbors in Suspending AstraZeneca Vaccine</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Yesterday, Germany, France, and Italy joined several of their neighbors in suspending AstraZeneca's two-shot Covid vaccine following reports of blood clots. Over half of Italy's population is back under strict lockdowns. Indonesia and the Democratic Republic of the Congo also suspended rollout.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/15/germany-italy-join-neighbors-suspending-astrazeneca-vaccine</link>
+  <author>Alex Hickey</author>
+  <categories>health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/15/germany-italy-join-neighbors-suspending-astrazeneca-vaccine</guid>
+  <pubDate>Mon, 15 Mar 2021 14:31:37 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4384%2Fgreen_chicago_river.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Everything else:St. Patrick's Day is on Wednesday. As you can see above, Chicago is ready to celebrate. Here's the bracket. The entire tournament is taking place in Indiana this year. For best picture, Nomadland, The Trial of the Chicago 7, Promising Young Woman, Minari, and Mank appear to be locks.</description>
@@ -361,15 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/10/declares-covid19-global-pandemic-1-year-later</guid>
   <pubDate>Wed, 10 Mar 2021 14:57:01 -0800</pubDate>
- </item>
- <item>
-  <title>Latest Covid Relief Package Includes Support for Restaurants, Event Venues</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Restaurants: The bill contains a $28.6 billion “revitalization fund” that will dole out grants to cover pandemic-related revenue shortfalls.  Event venues: They received $1.25 billion in grant money, on top of the $15 billion the live entertainment industry secured in the stimulus package approved in December.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/10/latest-covid-relief-package-includes-support-restaurants-event-venues</link>
-  <author>Eliza Carter</author>
-  <categories>covid 19</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/10/latest-covid-relief-package-includes-support-restaurants-event-venues</guid>
-  <pubDate>Wed, 10 Mar 2021 14:47:04 -0800</pubDate>
  </item>
 
 </channel>
