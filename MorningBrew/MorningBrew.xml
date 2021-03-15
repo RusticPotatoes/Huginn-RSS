@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/14</link>
- <lastBuildDate>Sun, 14 Mar 2021 16:39:04 -0700</lastBuildDate>
- <pubDate>Sun, 14 Mar 2021 16:39:04 -0700</pubDate>
+ <lastBuildDate>Sun, 14 Mar 2021 20:49:01 -0700</lastBuildDate>
+ <pubDate>Sun, 14 Mar 2021 20:49:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Grammys Pay Tribute to Local Music Venues</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4386%2F63rd_grammy_awards.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The ceremony also paid tribute to independent music venues hurt by the pandemic, featuring bartenders, box-office managers, and other industry workers from iconic venues like Nashville's Station Inn and NYC's Apollo Theater.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/14/grammys-pay-tribute-local-music-venues</link>
+  <author>Alex Hickey</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/14/grammys-pay-tribute-local-music-venues</guid>
+  <pubDate>Sun, 14 Mar 2021 20:46:59 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: March 15</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4383%2Ftopshot-india-aviation.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Kiplinger) Here's a mathematical answer. Read: How much bitcoin should you own?</description>
@@ -361,15 +370,6 @@
   <categories>energy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/09/offshore-wind-project-marthas-vineyard-nears-approval?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 10 Mar 2021 03:02:04 -0800</pubDate>
- </item>
- <item>
-  <title>Microsoft Hack Expands to Estimated 60,000 Victims</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FL39f1L94V0ydlWd6bt%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Last Tuesday, Microsoft issued security patches (which users must manually install) to prevent further intrusions.  Tens of thousands of Asian and European organizations are also affected, including the European Banking Authority. Now, it may have to do the same with China.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/09/microsoft-hack-expands-estimated-60000-victims?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/09/microsoft-hack-expands-estimated-60000-victims?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 10 Mar 2021 03:02:02 -0800</pubDate>
  </item>
 
 </channel>
