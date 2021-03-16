@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/16</link>
- <lastBuildDate>Tue, 16 Mar 2021 15:28:37 -0700</lastBuildDate>
- <pubDate>Tue, 16 Mar 2021 15:28:37 -0700</pubDate>
+ <lastBuildDate>Tue, 16 Mar 2021 15:33:43 -0700</lastBuildDate>
+ <pubDate>Tue, 16 Mar 2021 15:33:43 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Why ETFs Are Exploding in Popularity</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F53%2Fchart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; About the recent ETF boom: For years ETFs have been one of the most disruptive forces in investing, and they're only gaining steam based on the hopes of an explosive, vaccine-fueled economic recovery. Q from Andrew: Why have I seen so many new ETFs pop up recently? The first ETF launched in the US in 1993.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/16/etfs-exploding-popularity</link>
+  <author>Eliza Carter</author>
+  <categories>explainer</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/etfs-exploding-popularity</guid>
+  <pubDate>Tue, 16 Mar 2021 15:31:42 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: March 17</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4405%2Fvancouver_british_columbi.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Vice) Read: A hacker got all my texts for $16. 13 EU countries have suspended the shot due to concerns over reported blood clots.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/11/key-performance-indicators-march-12?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 12 Mar 2021 03:02:02 -0800</pubDate>
- </item>
- <item>
-  <title>Global Food Prices Rise for Ninth Straight Month</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4364%2Fgzero_food_prices.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In February, global food prices rose 2.4% for their ninth straight month of increases.  Zoom out: The pandemic pushed an additional 13+ million Americans into food insecurity, but the situation is even worse in the world's poorest countries.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/11/global-food-prices-rise-ninth-straight-month?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>food</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/11/global-food-prices-rise-ninth-straight-month?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 12 Mar 2021 03:02:02 -0800</pubDate>
  </item>
 
