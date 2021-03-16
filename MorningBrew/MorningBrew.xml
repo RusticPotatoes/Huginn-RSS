@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/16</link>
- <lastBuildDate>Tue, 16 Mar 2021 15:33:43 -0700</lastBuildDate>
- <pubDate>Tue, 16 Mar 2021 15:33:43 -0700</pubDate>
+ <lastBuildDate>Tue, 16 Mar 2021 15:38:38 -0700</lastBuildDate>
+ <pubDate>Tue, 16 Mar 2021 15:38:38 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Uber Agrees to Reclassify Its UK Drivers as Workers</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F507%2Fuber.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, Uber said it will reclassify its 70,000+ drivers in the UK as “workers.” Last month, the British Supreme Court dismissed Uber’s ruled against Uber's insistence its drivers weren't workers. We hadn’t heard much from the company until yesterday’s decision.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/16/uber-agrees-reclassify-uk-drivers-workers</link>
+  <author>Neal Freyman</author>
+  <categories>gig economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/uber-agrees-reclassify-uk-drivers-workers</guid>
+  <pubDate>Tue, 16 Mar 2021 15:36:37 -0700</pubDate>
+ </item>
  <item>
   <title>Why ETFs Are Exploding in Popularity</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F53%2Fchart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; About the recent ETF boom: For years ETFs have been one of the most disruptive forces in investing, and they're only gaining steam based on the hopes of an explosive, vaccine-fueled economic recovery. Q from Andrew: Why have I seen so many new ETFs pop up recently? The first ETF launched in the US in 1993.</description>
@@ -361,15 +370,6 @@
   <categories>games</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/12/brew-crossword-hbo</guid>
   <pubDate>Fri, 12 Mar 2021 06:42:08 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 12</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4171%2Fbeeple_art.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(ProPublica) Read: The lost year: What the pandemic cost teenagers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/11/key-performance-indicators-march-12?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/11/key-performance-indicators-march-12?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 12 Mar 2021 03:02:02 -0800</pubDate>
  </item>
 
 </channel>
