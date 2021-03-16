@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/16</link>
- <lastBuildDate>Tue, 16 Mar 2021 15:23:42 -0700</lastBuildDate>
- <pubDate>Tue, 16 Mar 2021 15:23:42 -0700</pubDate>
+ <lastBuildDate>Tue, 16 Mar 2021 15:28:37 -0700</lastBuildDate>
+ <pubDate>Tue, 16 Mar 2021 15:28:37 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: March 17</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4405%2Fvancouver_british_columbi.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Vice) Read: A hacker got all my texts for $16. 13 EU countries have suspended the shot due to concerns over reported blood clots.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/16/key-performance-indicators-march-17</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/key-performance-indicators-march-17</guid>
+  <pubDate>Tue, 16 Mar 2021 15:26:37 -0700</pubDate>
+ </item>
  <item>
   <title>Volkswagen Outlines Plans to Beat Tesla by 2025</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4406%2Ftesla_volkswagen.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Analysts see room for Tesla and Volkswagen in the growing EV market, per Bloomberg.  And with 70 new electric models on the way this decade, Volkswagen could match Tesla EV sales as soon as 2022 and outstrip it by a margin of 300,000 come 2025, UBS predicts.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>food</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/11/global-food-prices-rise-ninth-straight-month?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 12 Mar 2021 03:02:02 -0800</pubDate>
- </item>
- <item>
-  <title>South Korean e-Commerce Giant Makes US Trading Debut</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4366%2Fcoupang_ipo.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the South Korean e-commerce giant Coupang became the largest foreign company to make its US trading debut since Alibaba went public in 2014.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/11/south-korean-ecommerce-giant-makes-us-trading-debut?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/11/south-korean-ecommerce-giant-makes-us-trading-debut?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 12 Mar 2021 03:02:02 -0800</pubDate>
  </item>
 
