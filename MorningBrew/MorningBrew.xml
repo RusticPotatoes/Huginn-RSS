@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/16</link>
- <lastBuildDate>Tue, 16 Mar 2021 15:18:37 -0700</lastBuildDate>
- <pubDate>Tue, 16 Mar 2021 15:18:37 -0700</pubDate>
+ <lastBuildDate>Tue, 16 Mar 2021 15:23:42 -0700</lastBuildDate>
+ <pubDate>Tue, 16 Mar 2021 15:23:42 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Volkswagen Outlines Plans to Beat Tesla by 2025</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4406%2Ftesla_volkswagen.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Analysts see room for Tesla and Volkswagen in the growing EV market, per Bloomberg.  And with 70 new electric models on the way this decade, Volkswagen could match Tesla EV sales as soon as 2022 and outstrip it by a margin of 300,000 come 2025, UBS predicts.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/16/volkswagen-outlines-plans-beat-tesla-2025</link>
+  <author>Alex Hickey</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/volkswagen-outlines-plans-beat-tesla-2025</guid>
+  <pubDate>Tue, 16 Mar 2021 15:21:41 -0700</pubDate>
+ </item>
  <item>
   <title>If You Work in Finance, You Might Be Back in the Office Soon</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2494%2Fgordon_gekko_wall_st.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Less than half of Manhattan's 1 million office employees are expected to return to the office by September, per the Partnership for New York City.  Then yesterday, we learned that JPMorgan is planning for summer interns in New York and London to work in-person, according to the NYT.</description>
@@ -360,15 +369,6 @@
   <author>Toby Howell</author>
   <categories>ipo</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/11/south-korean-ecommerce-giant-makes-us-trading-debut?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 12 Mar 2021 03:02:02 -0800</pubDate>
- </item>
- <item>
-  <title>Biden Signs Stimulus Package: What's Next?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4365%2Fbiden_checklist.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Hours before, President Biden signed his $1.9 trillion Covid relief package into law, marking the first major achievement of his administration. If the $1.9 trillion Covid bill is the splint to fix a broken bone, the next item on Biden's agenda will be the workout regimen that turns the US economy into a chiseled Olympic athlete. After lamenting the toll Covid-19 has taken—including nearly 528,000 American lives—Biden said he’s putting the country on “war footing” to get Covid under control. with Biden and Co. taking a victory lap touting the Covid relief bill, don’t expect any big, new plans for at least a few weeks.  Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/11/biden-signs-stimulus-package-whats-next?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/11/biden-signs-stimulus-package-whats-next?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 12 Mar 2021 03:02:02 -0800</pubDate>
  </item>
 
