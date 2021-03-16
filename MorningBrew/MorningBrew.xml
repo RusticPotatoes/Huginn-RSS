@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/15/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/16/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/15</link>
- <lastBuildDate>Mon, 15 Mar 2021 14:53:40 -0700</lastBuildDate>
- <pubDate>Mon, 15 Mar 2021 14:53:40 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/16</link>
+ <lastBuildDate>Tue, 16 Mar 2021 03:03:37 -0700</lastBuildDate>
+ <pubDate>Tue, 16 Mar 2021 03:03:37 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The UK Updates Their Inflation Basket To Reflect New Consumer Habits</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FzntF1aeUvEdKWUEEB8%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Bottom line: In total, 17 items were added to the basket while 10 items, including gold chains, canteen sandwiches, and Axminster carpets, were dropped.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/15/uk-updates-inflation-basket-reflect-new-consumer-habits?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>inflation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/15/uk-updates-inflation-basket-reflect-new-consumer-habits?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 16 Mar 2021 03:01:35 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 16</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4401%2Felon_musk_awarded_with_ax.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;) its CEO and CFO to esteemed new positions, though to the relief of many Tesla investors, they'll also keep their previous titles.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/15/key-performance-indicators-march-16?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/15/key-performance-indicators-march-16?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 16 Mar 2021 03:01:35 -0700</pubDate>
+ </item>
+ <item>
+  <title>ViacomCBS and Discovery Are Quietly Having Incredible Years</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl0HlGVD6AsbobSTe0%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Since launching in December, Discovery+ has attracted more than 11 million subscribers, while Paramount+, ViacomCBS's streaming service, is believed to have around 8–9 million subscribers.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/15/viacomcbs-discovery-quietly-incredible-years?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/15/viacomcbs-discovery-quietly-incredible-years?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 16 Mar 2021 03:01:35 -0700</pubDate>
+ </item>
+ <item>
+  <title>Germany, Italy Join Neighbors in Suspending AstraZeneca Vaccine</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Yesterday, Germany, France, and Italy joined several of their neighbors in suspending AstraZeneca's two-shot Covid vaccine following reports of blood clots. Over half of Italy's population is back under strict lockdowns. Indonesia and the Democratic Republic of the Congo also suspended rollout.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/15/germany-italy-join-neighbors-suspending-astrazeneca-vaccine?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/15/germany-italy-join-neighbors-suspending-astrazeneca-vaccine?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 16 Mar 2021 03:01:35 -0700</pubDate>
+ </item>
+ <item>
+  <title>Biden Expected to Propose First Major Tax Hike Since 1993</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4403%2Fcorporate_taxes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And the Tax Foundation estimates that some of the proposed changes to corporate taxes would reduce US GDP by 0.8% and wages by 0.7% in the long run.    When Trump slashed the corporate rate to 21% in 2017, he wasn't the first to bat for business interests. Bumping the income tax to 39.6% for those earning $400,000+  Taxing capital gains like normal income if you earn $1+ millionIncreasing estate taxes to 45% for assets worth $1+ millionSo, if you still clip coupons, don't expect any changes. These increases largely follow Biden's campaign proposals to only tax high-earners.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/15/biden-expected-propose-first-major-tax-hike-since-1993?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>taxes</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/15/biden-expected-propose-first-major-tax-hike-since-1993?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 16 Mar 2021 03:01:35 -0700</pubDate>
+ </item>
  <item>
   <title>The UK Updates Their Inflation Basket To Reflect New Consumer Habits</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FzntF1aeUvEdKWUEEB8%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Bottom line: In total, 17 items were added to the basket while 10 items, including gold chains, canteen sandwiches, and Axminster carpets, were dropped.</description>
@@ -325,51 +370,6 @@
   <categories>ipo</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/11/south-korean-ecommerce-giant-makes-us-trading-debut</guid>
   <pubDate>Thu, 11 Mar 2021 14:17:03 -0800</pubDate>
- </item>
- <item>
-  <title>Biden Signs Stimulus Package: What's Next?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4365%2Fbiden_checklist.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Hours before, President Biden signed his $1.9 trillion Covid relief package into law, marking the first major achievement of his administration. If the $1.9 trillion Covid bill is the splint to fix a broken bone, the next item on Biden's agenda will be the workout regimen that turns the US economy into a chiseled Olympic athlete. with Biden and Co. taking a victory lap touting the Covid relief bill, don’t expect any big, new plans for at least a few weeks.  Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/11/biden-signs-stimulus-package-whats-next</link>
-  <author>Neal Freyman</author>
-  <categories>government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/11/biden-signs-stimulus-package-whats-next</guid>
-  <pubDate>Thu, 11 Mar 2021 14:17:03 -0800</pubDate>
- </item>
- <item>
-  <title>Global Food Prices Rise for Ninth Straight Month</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4364%2Fgzero_food_prices.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In February, global food prices rose 2.4% for their ninth straight month of increases.  Zoom out: The pandemic pushed an additional 13+ million Americans into food insecurity, but the situation is even worse in the world's poorest countries.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/11/global-food-prices-rise-ninth-straight-month</link>
-  <author>Alex Hickey</author>
-  <categories>food</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/11/global-food-prices-rise-ninth-straight-month</guid>
-  <pubDate>Thu, 11 Mar 2021 14:02:01 -0800</pubDate>
- </item>
- <item>
-  <title>The Fukushima Disaster: 10 Year Anniversary and the Impact on Energy</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4356%2Ffukushima.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: Some of that uneasiness around nuclear energy has spread to other countries since the disaster, including Germany.    What happened next: the worst nuclear disaster since Chernobyl in 1986. Only two (out of about 1,700) took them up on it, and the home of the mayor of one of those towns was targeted by a Molotov cocktail.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/10/fukushima-disaster-10-year-anniversary-impact-energy?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/10/fukushima-disaster-10-year-anniversary-impact-energy?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 11 Mar 2021 03:02:03 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 11</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4357%2Fgoogle_trends_map.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Morning Brew) Read: Open up a time capsule by reading our newsletter from March 12, 2020, which recapped all the craziness of the previous day.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/10/key-performance-indicators-march-11?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/10/key-performance-indicators-march-11?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 11 Mar 2021 03:02:02 -0800</pubDate>
- </item>
- <item>
-  <title>Latest Covid Relief Package Includes Support for Restaurants, Event Venues</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But it does provide billions in relief to some struggling sectors, including...   Restaurants: The bill contains a $28.6 billion “revitalization fund” that will dole out grants to cover pandemic-related revenue shortfalls.  Event venues: They received $1.25 billion in grant money, on top of the $15 billion the live entertainment industry secured in the stimulus package approved in December.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/10/latest-covid-relief-package-includes-support-restaurants-event-venues?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/10/latest-covid-relief-package-includes-support-restaurants-event-venues?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 11 Mar 2021 03:02:02 -0800</pubDate>
  </item>
 
 </channel>
