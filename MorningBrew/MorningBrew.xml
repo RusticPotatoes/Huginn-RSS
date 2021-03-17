@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/17</link>
- <lastBuildDate>Wed, 17 Mar 2021 14:38:41 -0700</lastBuildDate>
- <pubDate>Wed, 17 Mar 2021 14:38:41 -0700</pubDate>
+ <lastBuildDate>Wed, 17 Mar 2021 14:43:36 -0700</lastBuildDate>
+ <pubDate>Wed, 17 Mar 2021 14:43:36 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>High Profile Endorsement Defections: Justin Long for Intel, LeBron James for PepsiCo</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4422%2Fjustin_long_intel.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The backstory: Long is the latest pawn in Intel and Apple’s chip chess match. LeBron will be the face of Pepsi’s new morning energy drink, plus he will promote some of its other brands, and take part in the company’s social justice efforts. Now it is.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/17/high-profile-endorsement-defections-justin-long-intel-lebron-james-pepsico</link>
+  <author>Eliza Carter</author>
+  <categories>advertising</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/high-profile-endorsement-defections-justin-long-intel-lebron-james-pepsico</guid>
+  <pubDate>Wed, 17 Mar 2021 14:41:35 -0700</pubDate>
+ </item>
+ <item>
+  <title>Iceland Reopens to Non-EU Visitors</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4423%2Ficeland.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Previously, EU citizens could visit Iceland without quarantining, but now the country is opening up to those outside the bloc’s free-travel zone known as the Schengen area.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/17/iceland-reopens-noneu-visitors</link>
+  <author>Eliza Carter</author>
+  <categories>tourism</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/iceland-reopens-noneu-visitors</guid>
+  <pubDate>Wed, 17 Mar 2021 14:41:35 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: March 18</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F861%2Fpeloton_bike.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Shaan Puri on Twitter) Read: Why Clubhouse will fail. Koh said that Samsung may even skip the introductions of its new Galaxy Note phone because of the lack of chips.</description>
@@ -352,24 +370,6 @@
   <categories>food</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/12/toronto-restaurant-renames-menu-items-fool-expense-reports?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 13 Mar 2021 03:02:01 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: Stats Takeover</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2439%2Ffacebook_virtual_reality.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The rate of twin births has grown by a third since the 1980s, which the researchers attribute to a rise in fertility treatments. Babies stat: More twins are being born now than at any point in history, according to a study published yesterday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/12/key-performance-indicators-stats-takeover?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/12/key-performance-indicators-stats-takeover?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 13 Mar 2021 03:02:01 -0800</pubDate>
- </item>
- <item>
-  <title>Chewy Cofounder to Lead GameStop’s E-commerce Business</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;His next task will be to turn GameStop’s reputation from “ye olde gaming equipment pawn shop” into “Amazon for gaming.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/12/chewy-cofounder-lead-gamestops-ecommerce-business?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>stocks</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/12/chewy-cofounder-lead-gamestops-ecommerce-business?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 13 Mar 2021 03:02:00 -0800</pubDate>
  </item>
 
 </channel>
