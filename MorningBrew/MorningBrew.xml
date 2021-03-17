@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/17</link>
- <lastBuildDate>Wed, 17 Mar 2021 14:43:36 -0700</lastBuildDate>
- <pubDate>Wed, 17 Mar 2021 14:43:36 -0700</pubDate>
+ <lastBuildDate>Wed, 17 Mar 2021 14:48:41 -0700</lastBuildDate>
+ <pubDate>Wed, 17 Mar 2021 14:48:41 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Snap Buys Fit Analytics to Bolster Its Fashion and E-Commerce Aspirations</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1755%2Fsnapchat_storefront.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Adding Fit Analytics opens the door for Snap to monetize through in-app purchases and reduce its reliance on ad dollars.  The company: Berlin-based Fit Analytics uses machine learning and customer-provided info to help shoppers find the right clothing size when ordering online.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/17/snap-buys-fit-analytics-bolster-fashion-ecommerce-aspirations</link>
+  <author>Toby Howell</author>
+  <categories>e commerce</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/snap-buys-fit-analytics-bolster-fashion-ecommerce-aspirations</guid>
+  <pubDate>Wed, 17 Mar 2021 14:46:41 -0700</pubDate>
+ </item>
  <item>
   <title>High Profile Endorsement Defections: Justin Long for Intel, LeBron James for PepsiCo</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4422%2Fjustin_long_intel.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The backstory: Long is the latest pawn in Intel and Apple’s chip chess match. LeBron will be the face of Pepsi’s new morning energy drink, plus he will promote some of its other brands, and take part in the company’s social justice efforts. Now it is.</description>
@@ -361,15 +370,6 @@
   <categories>big deal</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/13/roblox-teaches-gen-alpha-economy</guid>
   <pubDate>Sat, 13 Mar 2021 08:16:59 -0800</pubDate>
- </item>
- <item>
-  <title>Toronto Restaurant Renames Menu Items to Fool Expense Reports</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3ofSBq65voKZJKrnZS%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Here’s what the menu looks like from Uber Eats:  Just don’t be the person who orders their ergonomic aluminum laptop stand well-done.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/12/toronto-restaurant-renames-menu-items-fool-expense-reports?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>food</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/12/toronto-restaurant-renames-menu-items-fool-expense-reports?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 13 Mar 2021 03:02:01 -0800</pubDate>
  </item>
 
 </channel>
