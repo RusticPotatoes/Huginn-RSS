@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/17</link>
- <lastBuildDate>Wed, 17 Mar 2021 03:03:40 -0700</lastBuildDate>
- <pubDate>Wed, 17 Mar 2021 03:03:40 -0700</pubDate>
+ <lastBuildDate>Wed, 17 Mar 2021 06:13:41 -0700</lastBuildDate>
+ <pubDate>Wed, 17 Mar 2021 06:13:41 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>5 Ways the $1.9 Trillion Stimulus Bill May Affect Your 2020 Taxes</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4409%2Ftax_season.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;So, here are the main ways the ARP may affect your taxes: If you are or were unemployed: The IRS won’t tax the first $10,200 of your benefits if you made less than $150,000 in 2020.  Here’s an example, per MarketWatch: “If you owe the maximum $17,075 for the 2020 Social Security tax portion of the SE tax, it works out that you can potentially defer up to half of that amount, or $8,537. ) was closed due to Covid-19loss of child care due to the pandemic  If you have kids: You’re getting a bigger tax credit thanks to a major expansion of the Child Tax Credit (CTC). ) The tax pros we spoke with are also still trying to understand whether two unemployed spouses who file jointly will get $20,400 of benefits tax-free at the federal level. Qualified family leave, per the IRS, includes periods in which you’re unable to work due to: care for a child if their school or “place of care” (summer camp, enrichment program, etc.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/17/5-ways-19-trillion-stimulus-bill-may-affect-2020-taxes</link>
+  <author>Devin Tomb</author>
+  <categories>taxes</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/5-ways-19-trillion-stimulus-bill-may-affect-2020-taxes</guid>
+  <pubDate>Wed, 17 Mar 2021 06:11:39 -0700</pubDate>
+ </item>
  <item>
   <title>Why ETFs Are Exploding in Popularity</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F53%2Fchart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Q from Andrew: Why have I seen so many new ETFs pop up recently? Most ETFs are like SPY—they track indexes. what exactly are ETFs?  The Brew's A: ETFs, or exchange-traded funds, are investment products that give you a way to buy and sell a basket of assets without having to buy all the components individually.</description>
@@ -361,15 +370,6 @@
   <categories>stocks</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/12/chewy-cofounder-lead-gamestops-ecommerce-business</guid>
   <pubDate>Fri, 12 Mar 2021 14:47:04 -0800</pubDate>
- </item>
- <item>
-  <title>US Hits 100 Million Vaccine Doses Administered</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;How we got here: The US ordered 300 million doses of AstraZeneca’s vaccine last year, but regulators are still waiting on data from a clinical trial to begin the authorization process. US: The country hit a milestone of 100 million vaccine doses administered yesterday, and 13.5% of all US adults are fully vaccinated (meaning two doses of Moderna or Pfizer-BioNTech, or one of J&amp;J). The debate over unused dosesA cross-border kerfuffle is brewing over millions of unused doses of AstraZeneca’s vaccine.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/12/us-hits-100-million-vaccine-doses-administered</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/12/us-hits-100-million-vaccine-doses-administered</guid>
-  <pubDate>Fri, 12 Mar 2021 14:42:08 -0800</pubDate>
  </item>
 
 </channel>
