@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/17</link>
- <lastBuildDate>Wed, 17 Mar 2021 14:33:45 -0700</lastBuildDate>
- <pubDate>Wed, 17 Mar 2021 14:33:45 -0700</pubDate>
+ <lastBuildDate>Wed, 17 Mar 2021 14:38:41 -0700</lastBuildDate>
+ <pubDate>Wed, 17 Mar 2021 14:38:41 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: March 18</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F861%2Fpeloton_bike.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Shaan Puri on Twitter) Read: Why Clubhouse will fail. Koh said that Samsung may even skip the introductions of its new Galaxy Note phone because of the lack of chips.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/17/key-performance-indicators-march-18</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/key-performance-indicators-march-18</guid>
+  <pubDate>Wed, 17 Mar 2021 14:36:40 -0700</pubDate>
+ </item>
+ <item>
+  <title>Report: Global Gasoline Consumption Has Peaked</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2204%2Fstorm_brewing_with_oil.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Ever since the Model T rolled off production lines, gasoline has been the primary fuel source to get from Point A to Point B.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/17/report-global-gasoline-consumption-peaked</link>
+  <author>Toby Howell</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/report-global-gasoline-consumption-peaked</guid>
+  <pubDate>Wed, 17 Mar 2021 14:36:40 -0700</pubDate>
+ </item>
  <item>
   <title>Fed Boosts Economic Growth Projections, but Maintains Its Easy Money Strategy</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4421%2Ffederal_reserve_chair_jer.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If the Fed said things do look better, then it’s increasingly hard to justify its current strategy of ultra-loose monetary policy, which is when the Fed uses its tools (like lowering interest rates) to juice the economy when it’s in the dumps. That’s not us trying to impress our middle school readers—it’s a direct quote from the Federal Reserve’s highly anticipated policy statement yesterday.   As the US economy continues to rebound from its Covid-induced recession, the Fed projects GDP will grow 6.5% this year, a big jump from its previous estimate of 4.2% in December.</description>
@@ -351,24 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>stocks</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/12/chewy-cofounder-lead-gamestops-ecommerce-business?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 13 Mar 2021 03:02:00 -0800</pubDate>
- </item>
- <item>
-  <title>Why Marco Rubio Supported Amazon’s Unionization Drive</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;  the Amazon workers’ votes on whether to unionize are due by the 29th. In a USA Today op-ed published yesterday, Rubio railed against the company and backed the workers currently pushing to unionize at a warehouse in Bessemer, Alabama. Rubio maintained in the op-ed that “adversarial relations between labor and management are wrong.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/12/marco-rubio-supported-amazons-unionization-drive?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>big tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/12/marco-rubio-supported-amazons-unionization-drive?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 13 Mar 2021 03:02:00 -0800</pubDate>
- </item>
- <item>
-  <title>US Hits 100 Million Vaccine Doses Administered</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;US: The country hit a milestone of 100 million vaccine doses administered yesterday, and 13.5% of all US adults are fully vaccinated (meaning two doses of Moderna or Pfizer-BioNTech, or one of J&amp;J). How we got here: The US ordered 300 million doses of AstraZeneca’s vaccine last year, but regulators are still waiting on data from a clinical trial to begin the authorization process. The debate over unused dosesA cross-border kerfuffle is brewing over millions of unused doses of AstraZeneca’s vaccine.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/12/us-hits-100-million-vaccine-doses-administered?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/12/us-hits-100-million-vaccine-doses-administered?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 13 Mar 2021 03:02:00 -0800</pubDate>
  </item>
 
