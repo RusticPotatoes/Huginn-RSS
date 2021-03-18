@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/17/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/17/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/18/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/17</link>
- <lastBuildDate>Wed, 17 Mar 2021 14:48:41 -0700</lastBuildDate>
- <pubDate>Wed, 17 Mar 2021 14:48:41 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/18</link>
+ <lastBuildDate>Thu, 18 Mar 2021 03:03:35 -0700</lastBuildDate>
+ <pubDate>Thu, 18 Mar 2021 03:03:35 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>High Profile Endorsement Defections: Justin Long for Intel, LeBron James for PepsiCo</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4422%2Fjustin_long_intel.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The backstory: Long is the latest pawn in Intel and Apple’s chip chess match. Basketball star LeBron James inked a deal with PepsiCo after working with Coca-Cola since he was 18 years old.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/17/high-profile-endorsement-defections-justin-long-intel-lebron-james-pepsico?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>advertising</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/high-profile-endorsement-defections-justin-long-intel-lebron-james-pepsico?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 18 Mar 2021 03:01:43 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 18</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F861%2Fpeloton_bike.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Speaking at his company’s annual shareholders meeting, Samsung Co-CEO Koh Dong-jin warned that the global chip shortage will ding business performance.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/17/key-performance-indicators-march-18?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/key-performance-indicators-march-18?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 18 Mar 2021 03:01:43 -0700</pubDate>
+ </item>
+ <item>
+  <title>Iceland Reopens to Non-EU Visitors</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4423%2Ficeland.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Previously, EU citizens could visit Iceland without quarantining, but now the country is opening up to those outside the bloc’s free-travel zone known as the Schengen area.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/17/iceland-reopens-noneu-visitors?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>tourism</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/iceland-reopens-noneu-visitors?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 18 Mar 2021 03:01:43 -0700</pubDate>
+ </item>
+ <item>
+  <title>Snap Buys Fit Analytics to Bolster Its Fashion and E-Commerce Aspirations</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1755%2Fsnapchat_storefront.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Adding Fit Analytics opens the door for Snap to monetize through in-app purchases and reduce its reliance on ad dollars.  The company: Berlin-based Fit Analytics uses machine learning and customer-provided info to help shoppers find the right clothing size when ordering online.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/17/snap-buys-fit-analytics-bolster-fashion-ecommerce-aspirations?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>e commerce</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/snap-buys-fit-analytics-bolster-fashion-ecommerce-aspirations?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 18 Mar 2021 03:01:43 -0700</pubDate>
+ </item>
+ <item>
+  <title>Report: Global Gasoline Consumption Has Peaked</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2204%2Fstorm_brewing_with_oil.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Ever since the Model T rolled off production lines, gasoline has been the primary fuel source to get from Point A to Point B.  One important note: The IEA does see a full recovery for global crude oil demand, which is used for everything from jet fuel to electricity generation—not just for gasoline.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/17/report-global-gasoline-consumption-peaked?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/report-global-gasoline-consumption-peaked?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 18 Mar 2021 03:01:43 -0700</pubDate>
+ </item>
+ <item>
+  <title>Fed Boosts Economic Growth Projections, but Maintains Its Easy Money Strategy</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4421%2Ffederal_reserve_chair_jer.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If the Fed said things do look better, then it’s increasingly hard to justify its current strategy of ultra-loose monetary policy, which is when the Fed uses its tools (like lowering interest rates) to juice the economy when it’s in the dumps. That’s not us trying to impress our middle school readers—it’s a direct quote from the Federal Reserve’s highly anticipated policy statement yesterday.   As the US economy continues to rebound from its Covid-induced recession, the Fed projects GDP will grow 6.5% this year, a big jump from its previous estimate of 4.2% in December.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/17/fed-boosts-economic-growth-projections-maintains-easy-money-strategy?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/fed-boosts-economic-growth-projections-maintains-easy-money-strategy?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 18 Mar 2021 03:01:43 -0700</pubDate>
+ </item>
  <item>
   <title>Snap Buys Fit Analytics to Bolster Its Fashion and E-Commerce Aspirations</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1755%2Fsnapchat_storefront.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Adding Fit Analytics opens the door for Snap to monetize through in-app purchases and reduce its reliance on ad dollars.  The company: Berlin-based Fit Analytics uses machine learning and customer-provided info to help shoppers find the right clothing size when ordering online.</description>
@@ -316,60 +370,6 @@
   <categories>investing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/14/nfts-bitcoin-spacs-snakers-many-crazes-count?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 15 Mar 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Grammys Pay Tribute to Local Music Venues</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4386%2F63rd_grammy_awards.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The ceremony also paid tribute to independent music venues hurt by the pandemic, featuring bartenders, box-office managers, and other industry workers from iconic venues like Nashville's Station Inn and NYC's Apollo Theater.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/14/grammys-pay-tribute-local-music-venues</link>
-  <author>Alex Hickey</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/14/grammys-pay-tribute-local-music-venues</guid>
-  <pubDate>Sun, 14 Mar 2021 20:46:59 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 15</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4383%2Ftopshot-india-aviation.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Kiplinger) Here's a mathematical answer. Read: How much bitcoin should you own?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/14/key-performance-indicators-march-15</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/14/key-performance-indicators-march-15</guid>
-  <pubDate>Sun, 14 Mar 2021 16:37:03 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4384%2Fgreen_chicago_river.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Everything else:St. Patrick's Day is on Wednesday. As you can see above, Chicago is ready to celebrate. Here's the bracket. The entire tournament is taking place in Indiana this year. For best picture, Nomadland, The Trial of the Chicago 7, Promising Young Woman, Minari, and Mank appear to be locks.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/14/week-ahead</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/14/week-ahead</guid>
-  <pubDate>Sun, 14 Mar 2021 16:37:03 -0700</pubDate>
- </item>
- <item>
-  <title>Stimulus Checks Begin Arriving</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F26hirHkNLj8CHOwvu%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;+ If you're eligible, use the IRS's Get My Payment tool to see when your check is coming. The IRS told H&amp;R Block that most eligible Americans will receive theirs on Wednesday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/14/stimulus-checks-begin-arriving</link>
-  <author>Alex Hickey</author>
-  <categories>stimulus</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/14/stimulus-checks-begin-arriving</guid>
-  <pubDate>Sun, 14 Mar 2021 16:37:03 -0700</pubDate>
- </item>
- <item>
-  <title>NFTs, Bitcoin, SPACs, Snakers: Too Many Crazes to Count</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1241%2Fmr_krabs.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   A short listCrypto: Last March, bitcoin was hovering just above $5,000; on Saturday, it hit an all-time high of above $61,000. The amount wagered on SPACs to fall in value has tripled since the start of the year, per the WSJ. Zoom out: No one knows exactly if/when any of these "mini-bubbles'' will pop but, at least in the SPAC world, some think it might be soon. Even NFTs were being developed as early as 2017. SPACs have been around for decades, sneaker-flipping dates back to 1985, and trading cards, well…you get the point. Plus, it’s not like any of the "crazes" described above are that new.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/14/nfts-bitcoin-spacs-snakers-many-crazes-count</link>
-  <author>Neal Freyman</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/14/nfts-bitcoin-spacs-snakers-many-crazes-count</guid>
-  <pubDate>Sun, 14 Mar 2021 16:31:55 -0700</pubDate>
- </item>
- <item>
-  <title>Roblox Teaches Gen Alpha About the Economy</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F883%2Fbloxburg.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Armor, weapons, facial expressions, wings, Sir Rich McMoneyston, III disguises, and other items that augment players’ avatarsPerks that help players in games, like a bigger duffel bag for robbing banks in the Grand Theft Auto-reminiscent Jailbreak gameAccess to games like Welcome to Bloxburg, which charges 25 Robux for entryAdvertisements for the games they create themselvesUnlike its players, Roblox’s economy has a wrinkleDevelopers who create on the Roblox platform can also get paid in Robux, which they can later exchange for USD.  So what do players spend all that virtual currency on? For $4.99, players can buy 400 Robux, and they get a Costco-level discount for buying “value packs” that can run as high as $100 or subscribing for recurring Robux installments. Virtual economies have only become more popular and varied in the years since.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/13/roblox-teaches-gen-alpha-economy</link>
-  <author>Jamie Wilde</author>
-  <categories>big deal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/13/roblox-teaches-gen-alpha-economy</guid>
-  <pubDate>Sat, 13 Mar 2021 08:16:59 -0800</pubDate>
  </item>
 
 </channel>
