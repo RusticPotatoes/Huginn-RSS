@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/19</link>
- <lastBuildDate>Fri, 19 Mar 2021 15:13:49 -0700</lastBuildDate>
- <pubDate>Fri, 19 Mar 2021 15:13:49 -0700</pubDate>
+ <lastBuildDate>Fri, 19 Mar 2021 15:38:50 -0700</lastBuildDate>
+ <pubDate>Fri, 19 Mar 2021 15:38:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>World Happiness Report Announces Good News</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxUOwG3kHDf74fReHQY%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Researchers cite a comparatively successful response to Covid and a high level of social trust as reasons why this region ranked high, because it’s definitely not the balmy weather.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/19/world-happiness-report-announces-good-news-4e02</link>
+  <author>Jamie Wilde</author>
+  <categories>international</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/world-happiness-report-announces-good-news-4e02</guid>
+  <pubDate>Fri, 19 Mar 2021 15:36:49 -0700</pubDate>
+ </item>
  <item>
   <title>Three New Hard Seltzers Are Here For Spring</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt; Zoom out: We’ll find out soon whether post-Covid life is more American Pie or apple pie, but expect hard seltzer to play a big role either way: Research company Bernstein estimates hard seltzer will make up more than 15% of the beer and cider market by 2024.</description>
@@ -361,15 +370,6 @@
   <categories>explainer</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/etfs-exploding-popularity</guid>
   <pubDate>Tue, 16 Mar 2021 15:31:42 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 17</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4405%2Fvancouver_british_columbi.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Vice) Read: A hacker got all my texts for $16. 13 EU countries have suspended the shot due to concerns over reported blood clots.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/16/key-performance-indicators-march-17</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/key-performance-indicators-march-17</guid>
-  <pubDate>Tue, 16 Mar 2021 15:26:37 -0700</pubDate>
  </item>
 
 </channel>
