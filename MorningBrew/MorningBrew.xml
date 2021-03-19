@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/19</link>
- <lastBuildDate>Fri, 19 Mar 2021 15:03:46 -0700</lastBuildDate>
- <pubDate>Fri, 19 Mar 2021 15:03:46 -0700</pubDate>
+ <lastBuildDate>Fri, 19 Mar 2021 15:13:49 -0700</lastBuildDate>
+ <pubDate>Fri, 19 Mar 2021 15:13:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Three New Hard Seltzers Are Here For Spring</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt; Zoom out: We’ll find out soon whether post-Covid life is more American Pie or apple pie, but expect hard seltzer to play a big role either way: Research company Bernstein estimates hard seltzer will make up more than 15% of the beer and cider market by 2024.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/19/three-new-hard-seltzers-spring</link>
+  <author>Jamie Wilde</author>
+  <categories>alcohol</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/three-new-hard-seltzers-spring</guid>
+  <pubDate>Fri, 19 Mar 2021 15:11:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>World Happiness Report Announces Good News</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;Researchers cite a comparatively successful response to Covid and a high level of social trust as reasons why this region ranked high, because it’s definitely not the balmy weather.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/19/world-happiness-report-announces-good-news</link>
+  <author>Jamie Wilde</author>
+  <categories>survey</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/world-happiness-report-announces-good-news</guid>
+  <pubDate>Fri, 19 Mar 2021 15:11:48 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: March 20</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FA6aHBCFqlE0Rq%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;You can also buy individual fart recordings for $85 a toot. (Hakai Magazine)  Read: Tuna’s last stand.</description>
@@ -352,24 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/key-performance-indicators-march-17</guid>
   <pubDate>Tue, 16 Mar 2021 15:26:37 -0700</pubDate>
- </item>
- <item>
-  <title>Volkswagen Outlines Plans to Beat Tesla by 2025</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4406%2Ftesla_volkswagen.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Analysts see room for Tesla and Volkswagen in the growing EV market, per Bloomberg.  And with 70 new electric models on the way this decade, Volkswagen could match Tesla EV sales as soon as 2022 and outstrip it by a margin of 300,000 come 2025, UBS predicts.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/16/volkswagen-outlines-plans-beat-tesla-2025</link>
-  <author>Alex Hickey</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/volkswagen-outlines-plans-beat-tesla-2025</guid>
-  <pubDate>Tue, 16 Mar 2021 15:21:41 -0700</pubDate>
- </item>
- <item>
-  <title>If You Work in Finance, You Might Be Back in the Office Soon</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2494%2Fgordon_gekko_wall_st.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Less than half of Manhattan's 1 million office employees are expected to return to the office by September, per the Partnership for New York City.  Then yesterday, we learned that JPMorgan is planning for summer interns in New York and London to work in-person, according to the NYT.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/16/work-finance-might-back-office-soon</link>
-  <author>Eliza Carter</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/work-finance-might-back-office-soon</guid>
-  <pubDate>Tue, 16 Mar 2021 15:16:36 -0700</pubDate>
  </item>
 
 </channel>
