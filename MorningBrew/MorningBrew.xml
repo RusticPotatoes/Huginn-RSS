@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/19</link>
- <lastBuildDate>Fri, 19 Mar 2021 05:03:53 -0700</lastBuildDate>
- <pubDate>Fri, 19 Mar 2021 05:03:53 -0700</pubDate>
+ <lastBuildDate>Fri, 19 Mar 2021 07:38:48 -0700</lastBuildDate>
+ <pubDate>Fri, 19 Mar 2021 07:38:48 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>What's the Hype Around Air Fryers?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4440%2Fair_fryer.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; A few years later, van der Weij licensed the tech to Philips, which debuted the first modern air fryer at a consumer electronics show in Berlin in 2010.  But what is an air fryer? But here’s where the genius of van der Weij comes in: Air fryers get your food nice and crispy without the oil bath. The recommendation site Wirecutter put the air fryer on its “Worst Things for Most People” list. Basically, an air fryer pummels your food with hot air circulated by a high-speed fan. The pandemic, and the millions of new home chefs it spawned, may have anointed the air fryer kitchen royalty. You encounter the Maillard reaction when you eat all kinds of delicious foods, including campfire-roasted marshmallows, seared steaks, and french fries.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/19/whats-hype-around-air-fryers</link>
+  <author>Neal Freyman</author>
+  <categories>big deal</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/whats-hype-around-air-fryers</guid>
+  <pubDate>Fri, 19 Mar 2021 07:36:47 -0700</pubDate>
+ </item>
  <item>
   <title>Super Nintendo World Opens in Osaka</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4431%2Fjapan-entertainment-ninte.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Unfortunately for stateside Nintendo fans, Orlando's version of the park is still delayed until 2025, but you can virtually tour the attractions in Osaka on YouTube.</description>
@@ -360,15 +369,6 @@
   <author>Toby Howell</author>
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/15/viacomcbs-discovery-quietly-incredible-years?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 16 Mar 2021 03:01:35 -0700</pubDate>
- </item>
- <item>
-  <title>Germany, Italy Join Neighbors in Suspending AstraZeneca Vaccine</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Yesterday, Germany, France, and Italy joined several of their neighbors in suspending AstraZeneca's two-shot Covid vaccine following reports of blood clots. Over half of Italy's population is back under strict lockdowns. Indonesia and the Democratic Republic of the Congo also suspended rollout.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/15/germany-italy-join-neighbors-suspending-astrazeneca-vaccine?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/15/germany-italy-join-neighbors-suspending-astrazeneca-vaccine?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 16 Mar 2021 03:01:35 -0700</pubDate>
  </item>
 
