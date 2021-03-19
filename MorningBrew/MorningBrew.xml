@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/19</link>
- <lastBuildDate>Fri, 19 Mar 2021 14:53:44 -0700</lastBuildDate>
- <pubDate>Fri, 19 Mar 2021 14:53:44 -0700</pubDate>
+ <lastBuildDate>Fri, 19 Mar 2021 14:58:44 -0700</lastBuildDate>
+ <pubDate>Fri, 19 Mar 2021 14:58:44 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Vaccine Tracker: March 20</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Third waves: The German health minister warned that Covid-19 cases are rising at an “exponential rate” and the pace of the vaccine rollout isn’t fast enough to prevent a third wave. we’re getting close to half a billion vaccine doses administered. Paris entered lockdown mode yesterday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/19/vaccine-tracker-march-20</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/vaccine-tracker-march-20</guid>
+  <pubDate>Fri, 19 Mar 2021 14:56:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>China Adds Restrictions on Tesla for Security Reasons</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3733%2Ftesla_with_wheel_lock.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Chinese government is putting the Technoking on notice. If you’re having déjà vu, it’s because the White House has blocked Chinese tech companies from operating in the US due to similar concerns over snooping.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/19/china-adds-restrictions-tesla-security-reasons</link>
+  <author>Neal Freyman</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/china-adds-restrictions-tesla-security-reasons</guid>
+  <pubDate>Fri, 19 Mar 2021 14:56:44 -0700</pubDate>
+ </item>
  <item>
   <title>The Business of March Madness</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4451%2Fmarch_madness.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; For schools: The NCAA has a pool of money that factors in results of the men’s tournament, dishing out one “unit” for each game a team plays until the Final Four. The women’s tournament isn’t revenue-generating, according to the NCAA.  The tournament is big moneyFor the NCAA: The D1 men’s tournament accounted for 79% of the $1.1 billion the organization brought in during the 2019 fiscal year. For context, Legal Sports Report estimated that $462.4 million was legally wagered on this year’s Super Bowl.   The women’s tournament kicks off tomorrow in a “bubble” in San Antonio.</description>
@@ -352,24 +370,6 @@
   <categories>investing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/believe-not-bitcoin-better-gold</guid>
   <pubDate>Tue, 16 Mar 2021 14:06:34 -0700</pubDate>
- </item>
- <item>
-  <title>The UK Updates Their Inflation Basket To Reflect New Consumer Habits</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FzntF1aeUvEdKWUEEB8%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Bottom line: In total, 17 items were added to the basket while 10 items, including gold chains, canteen sandwiches, and Axminster carpets, were dropped.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/15/uk-updates-inflation-basket-reflect-new-consumer-habits?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>inflation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/15/uk-updates-inflation-basket-reflect-new-consumer-habits?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 16 Mar 2021 03:01:35 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 16</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4401%2Felon_musk_awarded_with_ax.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;) its CEO and CFO to esteemed new positions, though to the relief of many Tesla investors, they'll also keep their previous titles.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/15/key-performance-indicators-march-16?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/15/key-performance-indicators-march-16?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 16 Mar 2021 03:01:35 -0700</pubDate>
  </item>
 
 </channel>
