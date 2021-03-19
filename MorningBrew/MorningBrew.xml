@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/19</link>
- <lastBuildDate>Fri, 19 Mar 2021 07:38:48 -0700</lastBuildDate>
- <pubDate>Fri, 19 Mar 2021 07:38:48 -0700</pubDate>
+ <lastBuildDate>Fri, 19 Mar 2021 14:53:44 -0700</lastBuildDate>
+ <pubDate>Fri, 19 Mar 2021 14:53:44 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Business of March Madness</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4451%2Fmarch_madness.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; For schools: The NCAA has a pool of money that factors in results of the men’s tournament, dishing out one “unit” for each game a team plays until the Final Four. The women’s tournament isn’t revenue-generating, according to the NCAA.  The tournament is big moneyFor the NCAA: The D1 men’s tournament accounted for 79% of the $1.1 billion the organization brought in during the 2019 fiscal year. For context, Legal Sports Report estimated that $462.4 million was legally wagered on this year’s Super Bowl.   The women’s tournament kicks off tomorrow in a “bubble” in San Antonio.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/19/business-march-madness</link>
+  <author>Toby Howell</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/business-march-madness</guid>
+  <pubDate>Fri, 19 Mar 2021 14:51:43 -0700</pubDate>
+ </item>
  <item>
   <title>What's the Hype Around Air Fryers?</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4440%2Fair_fryer.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; A few years later, van der Weij licensed the tech to Philips, which debuted the first modern air fryer at a consumer electronics show in Berlin in 2010.  But what is an air fryer? But here’s where the genius of van der Weij comes in: Air fryers get your food nice and crispy without the oil bath. The recommendation site Wirecutter put the air fryer on its “Worst Things for Most People” list. Basically, an air fryer pummels your food with hot air circulated by a high-speed fan. The pandemic, and the millions of new home chefs it spawned, may have anointed the air fryer kitchen royalty. You encounter the Maillard reaction when you eat all kinds of delicious foods, including campfire-roasted marshmallows, seared steaks, and french fries.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/15/key-performance-indicators-march-16?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 16 Mar 2021 03:01:35 -0700</pubDate>
- </item>
- <item>
-  <title>ViacomCBS and Discovery Are Quietly Having Incredible Years</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl0HlGVD6AsbobSTe0%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Since launching in December, Discovery+ has attracted more than 11 million subscribers, while Paramount+, ViacomCBS's streaming service, is believed to have around 8–9 million subscribers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/15/viacomcbs-discovery-quietly-incredible-years?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/15/viacomcbs-discovery-quietly-incredible-years?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 16 Mar 2021 03:01:35 -0700</pubDate>
  </item>
 
