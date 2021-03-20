@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/19/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/19/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/20/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/19</link>
- <lastBuildDate>Fri, 19 Mar 2021 15:38:50 -0700</lastBuildDate>
- <pubDate>Fri, 19 Mar 2021 15:38:50 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/20</link>
+ <lastBuildDate>Sat, 20 Mar 2021 03:03:50 -0700</lastBuildDate>
+ <pubDate>Sat, 20 Mar 2021 03:03:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Three New Hard Seltzers Are Here For Spring</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt; Zoom out: We’ll find out soon whether post-Covid life is more American Pie or apple pie, but expect hard seltzer to play a big role either way: Research company Bernstein estimates hard seltzer will make up more than 15% of the beer and cider market by 2024.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/19/three-new-hard-seltzers-spring?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>alcohol</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/three-new-hard-seltzers-spring?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 20 Mar 2021 03:01:49 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 20</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FA6aHBCFqlE0Rq%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;You can also buy individual fart recordings for $85 a toot. (Hakai Magazine)  Read: Tuna’s last stand.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/19/key-performance-indicators-march-20?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/key-performance-indicators-march-20?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 20 Mar 2021 03:01:49 -0700</pubDate>
+ </item>
+ <item>
+  <title>China Adds Restrictions on Tesla for Security Reasons</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3733%2Ftesla_with_wheel_lock.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Chinese government is putting the Technoking on notice. If you’re having déjà vu, it’s because the White House has blocked Chinese tech companies from operating in the US due to similar concerns over snooping.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/19/china-adds-restrictions-tesla-security-reasons?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/china-adds-restrictions-tesla-security-reasons?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 20 Mar 2021 03:01:49 -0700</pubDate>
+ </item>
+ <item>
+  <title>Vaccine Tracker: March 20</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Third waves: The German health minister warned that Covid-19 cases are rising at an “exponential rate” and the pace of the vaccine rollout isn’t fast enough to prevent a third wave. we’re getting close to half a billion vaccine doses administered. Paris entered lockdown mode yesterday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/19/vaccine-tracker-march-20?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/vaccine-tracker-march-20?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 20 Mar 2021 03:01:49 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Business of March Madness</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4451%2Fmarch_madness.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; For schools: The NCAA has a pool of money that factors in results of the men’s tournament, dishing out one “unit” for each game a team plays until the Final Four. The women’s tournament isn’t revenue-generating, according to the NCAA.  The tournament is big moneyFor the NCAA: The D1 men’s tournament accounted for 79% of the $1.1 billion the organization brought in during the 2019 fiscal year. For context, Legal Sports Report estimated that $462.4 million was legally wagered on this year’s Super Bowl.   The women’s tournament kicks off tomorrow in a “bubble” in San Antonio.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/19/business-march-madness?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/business-march-madness?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 20 Mar 2021 03:01:49 -0700</pubDate>
+ </item>
  <item>
   <title>World Happiness Report Announces Good News</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxUOwG3kHDf74fReHQY%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Researchers cite a comparatively successful response to Covid and a high level of social trust as reasons why this region ranked high, because it’s definitely not the balmy weather.</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/key-performance-indicators-march-17?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 17 Mar 2021 03:01:38 -0700</pubDate>
- </item>
- <item>
-  <title>If You Work in Finance, You Might Be Back in the Office Soon</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4408%2Fgordon_gekko.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Then yesterday, we learned that JPMorgan is planning for summer interns in New York and London to work in-person. Both of those are trickier to do on Zoom, which might explain why banking execs are so antsy to get back to IRL office work.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/16/work-finance-might-back-office-soon?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/work-finance-might-back-office-soon?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 17 Mar 2021 03:01:38 -0700</pubDate>
- </item>
- <item>
-  <title>Uber Agrees to Reclassify Its UK Drivers as Workers</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F507%2Fuber.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In a first for the company, Uber said it will reclassify its 70,000+ drivers in the UK as “workers.” Seems like a minor edit, but in the world of the gig economy titles matter.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/16/uber-agrees-reclassify-uk-drivers-workers?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>gig economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/uber-agrees-reclassify-uk-drivers-workers?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 17 Mar 2021 03:01:38 -0700</pubDate>
- </item>
- <item>
-  <title>Volkswagen Outlines Plans to Beat Tesla by 2025</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4406%2Ftesla_volkswagen.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Analysts see room for Tesla and Volkswagen in the growing EV market, per Bloomberg.  And with 70 new electric models on the way this decade, Volkswagen could match Tesla EV sales as soon as 2022 and outstrip it by a margin of 300,000 come 2025, UBS predicts.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/16/volkswagen-outlines-plans-beat-tesla-2025?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/volkswagen-outlines-plans-beat-tesla-2025?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 17 Mar 2021 03:01:38 -0700</pubDate>
- </item>
- <item>
-  <title>Uber Agrees to Reclassify Its UK Drivers as Workers</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F507%2Fuber.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, Uber said it will reclassify its 70,000+ drivers in the UK as “workers.” Last month, the British Supreme Court dismissed Uber’s ruled against Uber's insistence its drivers weren't workers. We hadn’t heard much from the company until yesterday’s decision.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/16/uber-agrees-reclassify-uk-drivers-workers</link>
-  <author>Neal Freyman</author>
-  <categories>gig economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/uber-agrees-reclassify-uk-drivers-workers</guid>
-  <pubDate>Tue, 16 Mar 2021 15:36:37 -0700</pubDate>
- </item>
- <item>
-  <title>Why ETFs Are Exploding in Popularity</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F53%2Fchart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; About the recent ETF boom: For years ETFs have been one of the most disruptive forces in investing, and they're only gaining steam based on the hopes of an explosive, vaccine-fueled economic recovery. Q from Andrew: Why have I seen so many new ETFs pop up recently? The first ETF launched in the US in 1993.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/16/etfs-exploding-popularity</link>
-  <author>Eliza Carter</author>
-  <categories>explainer</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/etfs-exploding-popularity</guid>
-  <pubDate>Tue, 16 Mar 2021 15:31:42 -0700</pubDate>
  </item>
 
 </channel>
