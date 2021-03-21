@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/21</link>
- <lastBuildDate>Sun, 21 Mar 2021 16:53:18 -0700</lastBuildDate>
- <pubDate>Sun, 21 Mar 2021 16:53:18 -0700</pubDate>
+ <lastBuildDate>Sun, 21 Mar 2021 16:58:17 -0700</lastBuildDate>
+ <pubDate>Sun, 21 Mar 2021 16:58:17 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: March 22</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3179%2Fhousing_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;During a virtual appearance at the China Development Forum, Elon Musk addressed reports that the Chinese government banned the use of Teslas at its facilities over fears their cameras could send sensitive information back to the US.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/21/key-performance-indicators-march-22</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/21/key-performance-indicators-march-22</guid>
+  <pubDate>Sun, 21 Mar 2021 16:56:17 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: March 22</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3870%2Fgamestop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;but will it finally show up in the data? Earth Hour, when people are encouraged to shut off lights for an hour, is also Saturday night. cuz Passover starts Saturday evening.</description>
@@ -361,15 +370,6 @@
   <categories>energy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/report-global-gasoline-consumption-peaked</guid>
   <pubDate>Wed, 17 Mar 2021 14:36:40 -0700</pubDate>
- </item>
- <item>
-  <title>Fed Boosts Economic Growth Projections, but Maintains Its Easy Money Strategy</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4421%2Ffederal_reserve_chair_jer.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If the Fed said things do look better, then it’s increasingly hard to justify its current strategy of ultra-loose monetary policy, which is when the Fed uses its tools (like lowering interest rates) to juice the economy when it’s in the dumps. That’s not us trying to impress our middle school readers—it’s a direct quote from the Federal Reserve’s highly anticipated policy statement yesterday.   As the US economy continues to rebound from its Covid-induced recession, the Fed projects GDP will grow 6.5% this year, a big jump from its previous estimate of 4.2% in December.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/17/fed-boosts-economic-growth-projections-maintains-easy-money-strategy</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/fed-boosts-economic-growth-projections-maintains-easy-money-strategy</guid>
-  <pubDate>Wed, 17 Mar 2021 14:31:41 -0700</pubDate>
  </item>
 
 </channel>
