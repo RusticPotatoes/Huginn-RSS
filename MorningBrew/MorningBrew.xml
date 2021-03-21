@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/21</link>
- <lastBuildDate>Sun, 21 Mar 2021 16:38:23 -0700</lastBuildDate>
- <pubDate>Sun, 21 Mar 2021 16:38:23 -0700</pubDate>
+ <lastBuildDate>Sun, 21 Mar 2021 16:53:18 -0700</lastBuildDate>
+ <pubDate>Sun, 21 Mar 2021 16:53:18 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: March 22</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3870%2Fgamestop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;but will it finally show up in the data? Earth Hour, when people are encouraged to shut off lights for an hour, is also Saturday night. cuz Passover starts Saturday evening.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/21/week-ahead-march-22</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/21/week-ahead-march-22</guid>
+  <pubDate>Sun, 21 Mar 2021 16:51:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Covid Causes More Calendar Chaos</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4455%2Foly-2020-tokyo-jpn-japan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Tokyo Olympics will bar international spectators from attending the event, which is set to start on July 23.    We've got too many people and too many looking to act out while there's a pandemic going on,” Mayor Dan Gelber told USA Today.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/21/covid-causes-calendar-chaos</link>
+  <author>Neal Freyman</author>
+  <categories>health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/21/covid-causes-calendar-chaos</guid>
+  <pubDate>Sun, 21 Mar 2021 16:51:17 -0700</pubDate>
+ </item>
  <item>
   <title>What This Railroad Merger Means for North American Trade</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4453%2Fcanadian_pacific_railroad.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Yesterday, railroad operator Canadian Pacific announced plans to acquire Kansas City Southern for ~$25 billion.  Zoom out: The deal is a bet that North American trade will come roaring back as economies and factories flicker back to life.</description>
@@ -352,24 +370,6 @@
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/fed-boosts-economic-growth-projections-maintains-easy-money-strategy</guid>
   <pubDate>Wed, 17 Mar 2021 14:31:41 -0700</pubDate>
- </item>
- <item>
-  <title>5 Ways the $1.9 Trillion Stimulus Bill May Affect Your 2020 Taxes</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4409%2Ftax_season.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;So, here are the main ways the ARP may affect your taxes: If you are or were unemployed: The IRS won’t tax the first $10,200 of your benefits if you made less than $150,000 in 2020.  Here’s an example, per MarketWatch: “If you owe the maximum $17,075 for the 2020 Social Security tax portion of the SE tax, it works out that you can potentially defer up to half of that amount, or $8,537. ) was closed due to Covid-19loss of child care due to the pandemic  If you have kids: You’re getting a bigger tax credit thanks to a major expansion of the Child Tax Credit (CTC). ) The tax pros we spoke with are also still trying to understand whether two unemployed spouses who file jointly will get $20,400 of benefits tax-free at the federal level. Qualified family leave, per the IRS, includes periods in which you’re unable to work due to: care for a child if their school or “place of care” (summer camp, enrichment program, etc.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/17/5-ways-19-trillion-stimulus-bill-may-affect-2020-taxes</link>
-  <author>Devin Tomb</author>
-  <categories>taxes</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/5-ways-19-trillion-stimulus-bill-may-affect-2020-taxes</guid>
-  <pubDate>Wed, 17 Mar 2021 06:11:39 -0700</pubDate>
- </item>
- <item>
-  <title>Why ETFs Are Exploding in Popularity</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F53%2Fchart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Q from Andrew: Why have I seen so many new ETFs pop up recently? Most ETFs are like SPY—they track indexes. what exactly are ETFs?  The Brew's A: ETFs, or exchange-traded funds, are investment products that give you a way to buy and sell a basket of assets without having to buy all the components individually.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/16/etfs-exploding-popularity?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>explainer</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/etfs-exploding-popularity?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 17 Mar 2021 03:01:38 -0700</pubDate>
  </item>
 
 </channel>
