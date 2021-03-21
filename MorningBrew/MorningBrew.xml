@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/20/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/21/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/20</link>
- <lastBuildDate>Sat, 20 Mar 2021 03:03:50 -0700</lastBuildDate>
- <pubDate>Sat, 20 Mar 2021 03:03:50 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/21</link>
+ <lastBuildDate>Sun, 21 Mar 2021 16:38:23 -0700</lastBuildDate>
+ <pubDate>Sun, 21 Mar 2021 16:38:23 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>What This Railroad Merger Means for North American Trade</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4453%2Fcanadian_pacific_railroad.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Yesterday, railroad operator Canadian Pacific announced plans to acquire Kansas City Southern for ~$25 billion.  Zoom out: The deal is a bet that North American trade will come roaring back as economies and factories flicker back to life.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/21/railroad-merger-means-north-american-trade</link>
+  <author>Eliza Carter</author>
+  <categories>transportation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/21/railroad-merger-means-north-american-trade</guid>
+  <pubDate>Sun, 21 Mar 2021 16:36:22 -0700</pubDate>
+ </item>
  <item>
   <title>Three New Hard Seltzers Are Here For Spring</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt; Zoom out: We’ll find out soon whether post-Covid life is more American Pie or apple pie, but expect hard seltzer to play a big role either way: Research company Bernstein estimates hard seltzer will make up more than 15% of the beer and cider market by 2024.</description>
@@ -360,15 +369,6 @@
   <author>Eliza Carter</author>
   <categories>explainer</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/etfs-exploding-popularity?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 17 Mar 2021 03:01:38 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 17</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4405%2Fvancouver_british_columbi.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Emer Cooke, the head of the EU's drug regulator, said there is no evidence that AstraZeneca's vaccine has been causing the blood clots found in 37 people who've received the vaccine across the EU and Britain. (Vice) Read: A hacker got all my texts for $16.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/16/key-performance-indicators-march-17?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/16/key-performance-indicators-march-17?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 17 Mar 2021 03:01:38 -0700</pubDate>
  </item>
 
