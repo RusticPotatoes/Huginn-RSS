@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/21/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/22/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/21</link>
- <lastBuildDate>Sun, 21 Mar 2021 17:08:21 -0700</lastBuildDate>
- <pubDate>Sun, 21 Mar 2021 17:08:21 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/22</link>
+ <lastBuildDate>Mon, 22 Mar 2021 03:03:16 -0700</lastBuildDate>
+ <pubDate>Mon, 22 Mar 2021 03:03:16 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: March 22</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3870%2Fgamestop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Everything else:Israel will hold its national elections on TuesdaySo much college basketball will be playedStart getting rid of your chametz, because Passover starts Saturday eveningEarth Hour, when people are encouraged to shut off lights for an hour, is Saturday night </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/21/week-ahead-march-22?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/21/week-ahead-march-22?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 22 Mar 2021 03:01:21 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 22</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3179%2Fhousing_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;During a virtual appearance at the China Development Forum, Elon Musk addressed reports that the Chinese government banned the use of Teslas at its facilities over fears their cameras could send sensitive information back to the US.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/21/key-performance-indicators-march-22?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/21/key-performance-indicators-march-22?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 22 Mar 2021 03:01:21 -0700</pubDate>
+ </item>
+ <item>
+  <title>Covid Causes More Calendar Chaos</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4455%2Foly-2020-tokyo-jpn-japan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Tokyo Olympics will bar international spectators from attending the event, which is set to start on July 23.    We've got too many people and too many looking to act out while there's a pandemic going on,” Mayor Dan Gelber told USA Today.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/21/covid-causes-calendar-chaos?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/21/covid-causes-calendar-chaos?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 22 Mar 2021 03:01:21 -0700</pubDate>
+ </item>
+ <item>
+  <title>What This Railroad Merger Means for North American Trade</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4453%2Fcanadian_pacific_railroad.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Yesterday, railroad operator Canadian Pacific announced plans to acquire Kansas City Southern for ~$25 billion.  Zoom out: The deal is a bet that North American trade will come roaring back as economies and factories flicker back to life.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/21/railroad-merger-means-north-american-trade?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>transportation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/21/railroad-merger-means-north-american-trade?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 22 Mar 2021 03:01:21 -0700</pubDate>
+ </item>
+ <item>
+  <title>Evanston, IL, Votes on Historic Reparations Grants to Black Residents</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4454%2Fblack_lives_matter_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;For some, that’s not close to enoughA group of Black residents argue that Evanston’s reparations program is more like Reparations Lite for its narrow focus on housing assistance and cash payments: "If we're doing reparations, let's do reparations right," said Alderwoman Cicely Fleming in a statement." Black people who lived in Evanston between 1919 and 1969 (or those whose ancestors did), as well as Black residents who can show they were subject to housing discrimination by the city government.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/21/evanston-il-votes-historic-reparations-grants-black-residents?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>social justice</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/21/evanston-il-votes-historic-reparations-grants-black-residents?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 22 Mar 2021 03:01:21 -0700</pubDate>
+ </item>
  <item>
   <title>Evanston, IL, Votes on Historic Reparations Grants to Black Residents</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4454%2Fblack_lives_matter_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;For some, that’s not close to enoughSome Black residents argue that Evanston’s reparations program is more like Reparations Lite for its narrow focus on housing assistance and cash payments: "If we're doing reparations, let's do reparations right," said Alderwoman Cicely Fleming in a statement." Black people who lived in Evanston between 1919 and 1969 (or those whose ancestors did), as well as Black residents who can show they were subject to housing discrimination by the city government.</description>
@@ -325,51 +370,6 @@
   <categories>energy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/report-global-gasoline-consumption-peaked?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 18 Mar 2021 03:01:43 -0700</pubDate>
- </item>
- <item>
-  <title>Fed Boosts Economic Growth Projections, but Maintains Its Easy Money Strategy</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4421%2Ffederal_reserve_chair_jer.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If the Fed said things do look better, then it’s increasingly hard to justify its current strategy of ultra-loose monetary policy, which is when the Fed uses its tools (like lowering interest rates) to juice the economy when it’s in the dumps. That’s not us trying to impress our middle school readers—it’s a direct quote from the Federal Reserve’s highly anticipated policy statement yesterday.   As the US economy continues to rebound from its Covid-induced recession, the Fed projects GDP will grow 6.5% this year, a big jump from its previous estimate of 4.2% in December.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/17/fed-boosts-economic-growth-projections-maintains-easy-money-strategy?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/fed-boosts-economic-growth-projections-maintains-easy-money-strategy?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 18 Mar 2021 03:01:43 -0700</pubDate>
- </item>
- <item>
-  <title>Snap Buys Fit Analytics to Bolster Its Fashion and E-Commerce Aspirations</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1755%2Fsnapchat_storefront.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Adding Fit Analytics opens the door for Snap to monetize through in-app purchases and reduce its reliance on ad dollars.  The company: Berlin-based Fit Analytics uses machine learning and customer-provided info to help shoppers find the right clothing size when ordering online.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/17/snap-buys-fit-analytics-bolster-fashion-ecommerce-aspirations</link>
-  <author>Toby Howell</author>
-  <categories>e commerce</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/snap-buys-fit-analytics-bolster-fashion-ecommerce-aspirations</guid>
-  <pubDate>Wed, 17 Mar 2021 14:46:41 -0700</pubDate>
- </item>
- <item>
-  <title>High Profile Endorsement Defections: Justin Long for Intel, LeBron James for PepsiCo</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4422%2Fjustin_long_intel.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The backstory: Long is the latest pawn in Intel and Apple’s chip chess match. LeBron will be the face of Pepsi’s new morning energy drink, plus he will promote some of its other brands, and take part in the company’s social justice efforts. Now it is.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/17/high-profile-endorsement-defections-justin-long-intel-lebron-james-pepsico</link>
-  <author>Eliza Carter</author>
-  <categories>advertising</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/high-profile-endorsement-defections-justin-long-intel-lebron-james-pepsico</guid>
-  <pubDate>Wed, 17 Mar 2021 14:41:35 -0700</pubDate>
- </item>
- <item>
-  <title>Iceland Reopens to Non-EU Visitors</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4423%2Ficeland.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Previously, EU citizens could visit Iceland without quarantining, but now the country is opening up to those outside the bloc’s free-travel zone known as the Schengen area.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/17/iceland-reopens-noneu-visitors</link>
-  <author>Eliza Carter</author>
-  <categories>tourism</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/iceland-reopens-noneu-visitors</guid>
-  <pubDate>Wed, 17 Mar 2021 14:41:35 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 18</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F861%2Fpeloton_bike.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Shaan Puri on Twitter) Read: Why Clubhouse will fail. Koh said that Samsung may even skip the introductions of its new Galaxy Note phone because of the lack of chips.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/17/key-performance-indicators-march-18</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/key-performance-indicators-march-18</guid>
-  <pubDate>Wed, 17 Mar 2021 14:36:40 -0700</pubDate>
  </item>
 
 </channel>
