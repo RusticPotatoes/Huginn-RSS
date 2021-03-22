@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/22</link>
- <lastBuildDate>Mon, 22 Mar 2021 15:08:25 -0700</lastBuildDate>
- <pubDate>Mon, 22 Mar 2021 15:08:25 -0700</pubDate>
+ <lastBuildDate>Mon, 22 Mar 2021 15:23:17 -0700</lastBuildDate>
+ <pubDate>Mon, 22 Mar 2021 15:23:17 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>News Outlets Adjust to Life After Trump</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4473%2Fold_news.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A few months into the new Biden administration, news consumption has significantly declined, according to the Washington Post. Throw in the onset of a global pandemic, more efficient ways of receiving news (Twitter, Facebook, LinkedIn), and door-busting subscription deals, and conditions were ripe for news outlets to thrive.  TV: CNN lost almost half of its primetime viewership in the key 25–54 demographic in the period between President Biden's inauguration and March 15.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/22/news-outlets-adjust-life-trump</link>
+  <author>Toby Howell</author>
+  <categories>news</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/news-outlets-adjust-life-trump</guid>
+  <pubDate>Mon, 22 Mar 2021 15:21:27 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: March 23</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fae670QCDqLpII%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(WSJ) Read: Meet the 61-year-old Dutch guy behind those crazy wellness routines adopted by athletes and entrepreneurs.</description>
@@ -361,15 +370,6 @@
   <categories>quiz</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/18/brews-weekly-news-quiz-march-19</guid>
   <pubDate>Thu, 18 Mar 2021 14:36:36 -0700</pubDate>
- </item>
- <item>
-  <title>High Profile Endorsement Defections: Justin Long for Intel, LeBron James for PepsiCo</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4422%2Fjustin_long_intel.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The backstory: Long is the latest pawn in Intel and Apple’s chip chess match. Basketball star LeBron James inked a deal with PepsiCo after working with Coca-Cola since he was 18 years old.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/17/high-profile-endorsement-defections-justin-long-intel-lebron-james-pepsico?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Eliza Carter</author>
-  <categories>advertising</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/high-profile-endorsement-defections-justin-long-intel-lebron-james-pepsico?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 18 Mar 2021 03:01:43 -0700</pubDate>
  </item>
 
 </channel>
