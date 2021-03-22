@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/21</link>
- <lastBuildDate>Sun, 21 Mar 2021 16:58:17 -0700</lastBuildDate>
- <pubDate>Sun, 21 Mar 2021 16:58:17 -0700</pubDate>
+ <lastBuildDate>Sun, 21 Mar 2021 17:08:21 -0700</lastBuildDate>
+ <pubDate>Sun, 21 Mar 2021 17:08:21 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Evanston, IL, Votes on Historic Reparations Grants to Black Residents</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4454%2Fblack_lives_matter_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;For some, that’s not close to enoughSome Black residents argue that Evanston’s reparations program is more like Reparations Lite for its narrow focus on housing assistance and cash payments: "If we're doing reparations, let's do reparations right," said Alderwoman Cicely Fleming in a statement." Black people who lived in Evanston between 1919 and 1969 (or those whose ancestors did), as well as Black residents who can show they were subject to housing discrimination by the city government.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/21/evanston-il-votes-historic-reparations-grants-black-residents</link>
+  <author>Neal Freyman</author>
+  <categories>social justice</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/21/evanston-il-votes-historic-reparations-grants-black-residents</guid>
+  <pubDate>Sun, 21 Mar 2021 17:06:20 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: March 22</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3179%2Fhousing_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;During a virtual appearance at the China Development Forum, Elon Musk addressed reports that the Chinese government banned the use of Teslas at its facilities over fears their cameras could send sensitive information back to the US.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/key-performance-indicators-march-18</guid>
-  <pubDate>Wed, 17 Mar 2021 14:36:40 -0700</pubDate>
- </item>
- <item>
-  <title>Report: Global Gasoline Consumption Has Peaked</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2204%2Fstorm_brewing_with_oil.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Ever since the Model T rolled off production lines, gasoline has been the primary fuel source to get from Point A to Point B.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/17/report-global-gasoline-consumption-peaked</link>
-  <author>Toby Howell</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/17/report-global-gasoline-consumption-peaked</guid>
   <pubDate>Wed, 17 Mar 2021 14:36:40 -0700</pubDate>
  </item>
 
