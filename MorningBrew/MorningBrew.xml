@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/22/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/23/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/22</link>
- <lastBuildDate>Mon, 22 Mar 2021 15:23:17 -0700</lastBuildDate>
- <pubDate>Mon, 22 Mar 2021 15:23:17 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/23</link>
+ <lastBuildDate>Tue, 23 Mar 2021 03:03:35 -0700</lastBuildDate>
+ <pubDate>Tue, 23 Mar 2021 03:03:35 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brands Go All-In on Covid-19 Vaccination Promos</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FN04Fkkzhf9slO%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The offer is valid until the end of 2021, so a vaccinated person could theoretically obtain a free glazed donut every day for the next 284 days.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/22/brands-go-allin-covid19-vaccination-promos?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>marketing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/brands-go-allin-covid19-vaccination-promos?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 23 Mar 2021 03:01:42 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 23</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fae670QCDqLpII%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(WSJ) Read: Meet the 61-year-old Dutch guy behind those crazy wellness routines adopted by athletes and entrepreneurs.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/22/key-performance-indicators-march-23?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/key-performance-indicators-march-23?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 23 Mar 2021 03:01:42 -0700</pubDate>
+ </item>
+ <item>
+  <title>IRS Researchers: Wealthiest 1% Didn't Disclose 21% of Their Income from IRS</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4024%2Ftax_forms.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The wealthiest 1% of US households fail to disclose 21% of their income, according to a new study by IRS researchers and economists. Zoom out: Collecting unpaid income taxes from the 1% could bring $175 billion into the Treasury annually, the study concludes.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/22/irs-researchers-wealthiest-1-didnt-disclose-21-income-irs?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>wealth</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/irs-researchers-wealthiest-1-didnt-disclose-21-income-irs?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 23 Mar 2021 03:01:42 -0700</pubDate>
+ </item>
+ <item>
+  <title>Leon Black Steps Down Over Jeffrey Epstein Ties</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4470%2Fleon_black.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  What's Apollo? Leon Black, cofounder of investment juggernaut Apollo Global Management, has stepped down as chairman following an independent investigation into his ties with Jeffrey Epstein. The firm has helped companies including Hertz, United, and Expedia weather pandemic-era financial troubles.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/22/leon-black-steps-jeffrey-epstein-ties?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/leon-black-steps-jeffrey-epstein-ties?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 23 Mar 2021 03:01:42 -0700</pubDate>
+ </item>
+ <item>
+  <title>News Outlets Adjust to Life After Trump</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4473%2Fold_news.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A few months into the new Biden administration, news consumption has significantly declined, according to the Washington Post. If you haven’t felt the itch to check Twitter 24/7, skim your preferred news site, or keep cable news humming in the background since President Trump left office, join the club. Politics consumption on major new sites dropped 28% from January to February, according to analytics company SimilarWeb, but interest in business and finance news only slightly declined over the same period.    The Washington Post is going the opposite route.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/22/news-outlets-adjust-life-trump?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Toby Howell</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/news-outlets-adjust-life-trump?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 23 Mar 2021 03:01:42 -0700</pubDate>
+ </item>
  <item>
   <title>News Outlets Adjust to Life After Trump</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4473%2Fold_news.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A few months into the new Biden administration, news consumption has significantly declined, according to the Washington Post. Throw in the onset of a global pandemic, more efficient ways of receiving news (Twitter, Facebook, LinkedIn), and door-busting subscription deals, and conditions were ripe for news outlets to thrive.  TV: CNN lost almost half of its primetime viewership in the key 25–54 demographic in the period between President Biden's inauguration and March 15.</description>
@@ -325,51 +370,6 @@
   <categories>supply chain</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/18/supply-chains-need-factory-reset</guid>
   <pubDate>Thu, 18 Mar 2021 15:01:53 -0700</pubDate>
- </item>
- <item>
-  <title>Super Nintendo World Opens in Osaka</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4431%2Fjapan-entertainment-ninte.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Unfortunately for stateside Nintendo fans, Orlando's version of the park is still delayed until 2025, but you can virtually tour the attractions in Osaka on YouTube.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/18/super-nintendo-world-opens-osaka</link>
-  <author>Jamie Wilde</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/18/super-nintendo-world-opens-osaka</guid>
-  <pubDate>Thu, 18 Mar 2021 15:01:53 -0700</pubDate>
- </item>
- <item>
-  <title>SPACs Post Record Q1 and Exceed 2020 Dealmaking Total</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4432%2Fworkaholic.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; If conditions don't improve, analysts said there's only a 35% chance they'll still be at Goldman in six months. It's advised 32 SPACs in Q1 for $9.2 billion in proceeds, according to Refinitiv data. Goldman Sachs bankers have become a little too familiar with their Zoom reflection. In the market, over 400 SPACs with $131 billion in cash are looking for companies to merge with.  Zoom out: As SPACs continue to IPO with huge valuations, analysts are still worried about market "indigestion." And the SEC recently warned investors to treat celebrities' SPACs with the same skepticism as their Proactiv commercials.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/18/spacs-post-record-q1-exceed-2020-dealmaking-total</link>
-  <author>Alex Hickey</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/18/spacs-post-record-q1-exceed-2020-dealmaking-total</guid>
-  <pubDate>Thu, 18 Mar 2021 15:01:53 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 19</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4436%2Fdrought_in_california.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Cameron Wiese)  Read: Should we bring back the World's Fair? With shipments also headed to Mexico, other countries are receiving vaccines from the US for the first time.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/18/key-performance-indicators-march-19</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/18/key-performance-indicators-march-19</guid>
-  <pubDate>Thu, 18 Mar 2021 15:01:53 -0700</pubDate>
- </item>
- <item>
-  <title>NFL Inks Huge New Media Deals</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4437%2Fthe_weeknd_meme.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s the first time a streaming service has been granted an exclusive package of NFL games.  The details: Most of the NFL’s media partners (CBS, Fox, NBC, etc. The new deals will start up in 2023.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/18/nfl-inks-huge-new-media-deals</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/18/nfl-inks-huge-new-media-deals</guid>
-  <pubDate>Thu, 18 Mar 2021 15:01:53 -0700</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: March 19</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/18/brews-weekly-news-quiz-march-19</link>
-  <author>Jamie Wilde</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/18/brews-weekly-news-quiz-march-19</guid>
-  <pubDate>Thu, 18 Mar 2021 14:36:36 -0700</pubDate>
  </item>
 
 </channel>
