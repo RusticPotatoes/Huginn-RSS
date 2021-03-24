@@ -8,9 +8,36 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/24</link>
- <lastBuildDate>Wed, 24 Mar 2021 15:03:38 -0700</lastBuildDate>
- <pubDate>Wed, 24 Mar 2021 15:03:38 -0700</pubDate>
+ <lastBuildDate>Wed, 24 Mar 2021 15:13:34 -0700</lastBuildDate>
+ <pubDate>Wed, 24 Mar 2021 15:13:34 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Suez Canal Blocked by Giant Container Ship Causes a Global Shipping Backup</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4492%2Fsuez_canal.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;On Tuesday, a gargantuan cargo ship named the Ever Given ran aground in the busy Suez Canal, blocking maritime traffic from entering or exiting the crucial shipping highway. If you're wondering how a ship that weighs 220,000 tons and is the size of the Empire State Building ended up sideways, canal officials say there were high winds from a sandstorm restricting visibility around the time the ship got stuck.  As of last night, over 100 ships are stuck at each end of the 120-mile canal, putting even more pressure on the global shipping industry that was already out of whack from the pandemic.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/24/suez-canal-blocked-giant-container-ship-causes-global-shipping-backup</link>
+  <author>Toby Howell</author>
+  <categories>logistics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/24/suez-canal-blocked-giant-container-ship-causes-global-shipping-backup</guid>
+  <pubDate>Wed, 24 Mar 2021 15:11:33 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 25</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(TJCX)  Read: How the New York Times A/B tests their headlines. Warren was wondering why the Biden administration hasn't put more scrutiny on BlackRock, which manages 180x more assets than banks deemed "too big to fail" post-financial crisis.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/24/key-performance-indicators-march-25</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/24/key-performance-indicators-march-25</guid>
+  <pubDate>Wed, 24 Mar 2021 15:11:33 -0700</pubDate>
+ </item>
+ <item>
+  <title>Gas Prices Could Pass $3 Per Gallon</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4493%2Fvacation.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Gas prices always tend to rise leading up to the summer, but the 2021 jump can be attributed to two biggies: growing demand to drive through the mountains listening to Lana's new album and oil refiners not yet refining at full speed in their refineries.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/24/gas-prices-pass-3-per-gallon</link>
+  <author>Matty Merritt</author>
+  <categories>gas</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/24/gas-prices-pass-3-per-gallon</guid>
+  <pubDate>Wed, 24 Mar 2021 15:11:33 -0700</pubDate>
+ </item>
  <item>
   <title>Slack Debuts, then Immediately Retracts, Cross-Organizational Messaging Feature</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FfDO2Nk0ImzvvW%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The backstory: In the version that debuted yesterday morning, any paid Slack user could DM any other Slack user if they had their email address. Yesterday, Slack rolled out a feature called Slack Connect that allows users to direct message people at other organizations...  </description>
@@ -343,33 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/vaccine-tracker-march-20?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 20 Mar 2021 03:01:49 -0700</pubDate>
- </item>
- <item>
-  <title>The Business of March Madness</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4451%2Fmarch_madness.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; For schools: The NCAA has a pool of money that factors in results of the men’s tournament, dishing out one “unit” for each game a team plays until the Final Four. The women’s tournament isn’t revenue-generating, according to the NCAA.  The tournament is big moneyFor the NCAA: The D1 men’s tournament accounted for 79% of the $1.1 billion the organization brought in during the 2019 fiscal year. For context, Legal Sports Report estimated that $462.4 million was legally wagered on this year’s Super Bowl.   The women’s tournament kicks off tomorrow in a “bubble” in San Antonio.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/19/business-march-madness?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/business-march-madness?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 20 Mar 2021 03:01:49 -0700</pubDate>
- </item>
- <item>
-  <title>World Happiness Report Announces Good News</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxUOwG3kHDf74fReHQY%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Researchers cite a comparatively successful response to Covid and a high level of social trust as reasons why this region ranked high, because it’s definitely not the balmy weather.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/19/world-happiness-report-announces-good-news-4e02</link>
-  <author>Jamie Wilde</author>
-  <categories>international</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/world-happiness-report-announces-good-news-4e02</guid>
-  <pubDate>Fri, 19 Mar 2021 15:36:49 -0700</pubDate>
- </item>
- <item>
-  <title>Three New Hard Seltzers Are Here For Spring</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt; Zoom out: We’ll find out soon whether post-Covid life is more American Pie or apple pie, but expect hard seltzer to play a big role either way: Research company Bernstein estimates hard seltzer will make up more than 15% of the beer and cider market by 2024.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/19/three-new-hard-seltzers-spring</link>
-  <author>Jamie Wilde</author>
-  <categories>alcohol</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/three-new-hard-seltzers-spring</guid>
-  <pubDate>Fri, 19 Mar 2021 15:11:48 -0700</pubDate>
  </item>
 
 </channel>
