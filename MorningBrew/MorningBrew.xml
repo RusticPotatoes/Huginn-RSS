@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/23/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/24/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/24/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/23</link>
- <lastBuildDate>Tue, 23 Mar 2021 15:03:36 -0700</lastBuildDate>
- <pubDate>Tue, 23 Mar 2021 15:03:36 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/24</link>
+ <lastBuildDate>Wed, 24 Mar 2021 03:03:35 -0700</lastBuildDate>
+ <pubDate>Wed, 24 Mar 2021 03:03:35 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Q&amp;A: Is Bitcoin a Store of Value?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3755%2Fbitcoin_bull.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bitcoin has been compared to gold, which is known as the ultimate example of a store of value because it's scarce and doesn't break down over time. Have another question about business and the economy?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/23/qa-bitcoin-store-value?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>explainer</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/23/qa-bitcoin-store-value?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 24 Mar 2021 03:01:35 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 24</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FQXJbPVNmO9XlYCwH0t%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Quote: "Stock markets in general and our stock price in particular have recently experienced extreme price and volume fluctuations that have often been unrelated or disproportionate to the operating performance of those companies and our company."</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/23/key-performance-indicators-march-24?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/23/key-performance-indicators-march-24?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 24 Mar 2021 03:01:35 -0700</pubDate>
+ </item>
+ <item>
+  <title>GoPuff's Value Jumps Thanks to Munchies and Lockdown</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4475%2Fgopuff.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: Food and grocery delivery seemed to explode during the pandemic, and goPuff reported that its order volume increased 400% in the first half of 2020.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/23/gopuffs-value-jumps-thanks-munchies-lockdown?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>delivery</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/23/gopuffs-value-jumps-thanks-munchies-lockdown?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 24 Mar 2021 03:01:35 -0700</pubDate>
+ </item>
+ <item>
+  <title>Citigroup Embraces Flexibility to Curb Pandemic Fatigue</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FCt2fBe0rc69nq%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; May 28 (the Friday before Memorial Day) will be a company-wide holiday called "Citi Reset Day." Fraser also sketched out a more flexible approach to work after the pandemic recedes.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/23/citigroup-embraces-flexibility-curb-pandemic-fatigue?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/23/citigroup-embraces-flexibility-curb-pandemic-fatigue?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 24 Mar 2021 03:01:35 -0700</pubDate>
+ </item>
+ <item>
+  <title>US Regulatory Panel Questions AstraZeneca Vaccine Results</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4476%2Fastrazeneca.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In the wee hours of Tuesday morning, when nothing good ever happens, a panel that oversees US clinical trial safety said AstraZeneca's vaccine results may include "outdated and potentially misleading" data. Big picture: Vaccine hesitancy, in the US and abroad, started out higher than public health officials wanted. Add this to the growing listWhile AstraZeneca's vaccine has been authorized in 70+ countries, the rollout has faced Galaxy Note 7-level challenges. AstraZeneca's vaccine is less effective than Pfizer's and Moderna's vaccines and (pending further data) potentially also Johnson &amp; Johnson's one-shot option.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/23/us-regulatory-panel-questions-astrazeneca-vaccine-results?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/23/us-regulatory-panel-questions-astrazeneca-vaccine-results?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 24 Mar 2021 03:01:35 -0700</pubDate>
+ </item>
  <item>
   <title>Q&amp;A: Is Bitcoin a Store of Value?</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3755%2Fbitcoin_bull.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bitcoin has been compared to gold, which is known as the ultimate example of a store of value because it's scarce and doesn't break down over time. Have another question about business and the economy?</description>
@@ -325,51 +370,6 @@
   <categories>games</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/brew-crossword-criss-cross</guid>
   <pubDate>Fri, 19 Mar 2021 15:01:45 -0700</pubDate>
- </item>
- <item>
-  <title>Vaccine Tracker: March 20</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Third waves: The German health minister warned that Covid-19 cases are rising at an “exponential rate” and the pace of the vaccine rollout isn’t fast enough to prevent a third wave. we’re getting close to half a billion vaccine doses administered. Paris entered lockdown mode yesterday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/19/vaccine-tracker-march-20</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/vaccine-tracker-march-20</guid>
-  <pubDate>Fri, 19 Mar 2021 14:56:44 -0700</pubDate>
- </item>
- <item>
-  <title>China Adds Restrictions on Tesla for Security Reasons</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3733%2Ftesla_with_wheel_lock.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Chinese government is putting the Technoking on notice. If you’re having déjà vu, it’s because the White House has blocked Chinese tech companies from operating in the US due to similar concerns over snooping.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/19/china-adds-restrictions-tesla-security-reasons</link>
-  <author>Neal Freyman</author>
-  <categories>geopolitics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/china-adds-restrictions-tesla-security-reasons</guid>
-  <pubDate>Fri, 19 Mar 2021 14:56:44 -0700</pubDate>
- </item>
- <item>
-  <title>The Business of March Madness</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4451%2Fmarch_madness.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; For schools: The NCAA has a pool of money that factors in results of the men’s tournament, dishing out one “unit” for each game a team plays until the Final Four. The women’s tournament isn’t revenue-generating, according to the NCAA.  The tournament is big moneyFor the NCAA: The D1 men’s tournament accounted for 79% of the $1.1 billion the organization brought in during the 2019 fiscal year. For context, Legal Sports Report estimated that $462.4 million was legally wagered on this year’s Super Bowl.   The women’s tournament kicks off tomorrow in a “bubble” in San Antonio.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/19/business-march-madness</link>
-  <author>Toby Howell</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/business-march-madness</guid>
-  <pubDate>Fri, 19 Mar 2021 14:51:43 -0700</pubDate>
- </item>
- <item>
-  <title>What's the Hype Around Air Fryers?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4440%2Fair_fryer.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; A few years later, van der Weij licensed the tech to Philips, which debuted the first modern air fryer at a consumer electronics show in Berlin in 2010.  But what is an air fryer? But here’s where the genius of van der Weij comes in: Air fryers get your food nice and crispy without the oil bath. The recommendation site Wirecutter put the air fryer on its “Worst Things for Most People” list. Basically, an air fryer pummels your food with hot air circulated by a high-speed fan. The pandemic, and the millions of new home chefs it spawned, may have anointed the air fryer kitchen royalty. You encounter the Maillard reaction when you eat all kinds of delicious foods, including campfire-roasted marshmallows, seared steaks, and french fries.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/19/whats-hype-around-air-fryers</link>
-  <author>Neal Freyman</author>
-  <categories>big deal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/whats-hype-around-air-fryers</guid>
-  <pubDate>Fri, 19 Mar 2021 07:36:47 -0700</pubDate>
- </item>
- <item>
-  <title>Super Nintendo World Opens in Osaka</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4431%2Fjapan-entertainment-ninte.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Unfortunately for stateside Nintendo fans, Orlando's version of the park is still delayed until 2025, but you can virtually tour the attractions in Osaka on YouTube.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/18/super-nintendo-world-opens-osaka?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/18/super-nintendo-world-opens-osaka?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 19 Mar 2021 05:01:52 -0700</pubDate>
  </item>
 
 </channel>
