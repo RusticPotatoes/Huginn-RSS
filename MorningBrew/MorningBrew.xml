@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/24</link>
- <lastBuildDate>Wed, 24 Mar 2021 13:23:40 -0700</lastBuildDate>
- <pubDate>Wed, 24 Mar 2021 13:23:40 -0700</pubDate>
+ <lastBuildDate>Wed, 24 Mar 2021 15:03:38 -0700</lastBuildDate>
+ <pubDate>Wed, 24 Mar 2021 15:03:38 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Slack Debuts, then Immediately Retracts, Cross-Organizational Messaging Feature</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FfDO2Nk0ImzvvW%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The backstory: In the version that debuted yesterday morning, any paid Slack user could DM any other Slack user if they had their email address. Yesterday, Slack rolled out a feature called Slack Connect that allows users to direct message people at other organizations...  </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/24/slack-debuts-immediately-retracts-crossorganizational-messaging-feature</link>
+  <author>Eliza Carter</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/24/slack-debuts-immediately-retracts-crossorganizational-messaging-feature</guid>
+  <pubDate>Wed, 24 Mar 2021 15:01:37 -0700</pubDate>
+ </item>
+ <item>
+  <title>Sponsors, Investors Distance Themselves from David Dobrik</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4491%2Fdavid_dobrik.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   On Sunday, Dobrik said he would leave Dispo and step down from the board. YouTube star and cofounder of photo sharing app Dispo David Dobrik is getting dropped by sponsors and investors over accusations of sexual harassment and assault directed at his "Vlog Squad."</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/24/sponsors-investors-distance-david-dobrik</link>
+  <author>Eliza Carter</author>
+  <categories>startup</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/24/sponsors-investors-distance-david-dobrik</guid>
+  <pubDate>Wed, 24 Mar 2021 15:01:37 -0700</pubDate>
+ </item>
  <item>
   <title>Inside Growing Calls to Boycott the 2022 Beijing Winter Olympics</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4488%2Fwinter_olypics.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
@@ -352,24 +370,6 @@
   <categories>alcohol</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/three-new-hard-seltzers-spring</guid>
   <pubDate>Fri, 19 Mar 2021 15:11:48 -0700</pubDate>
- </item>
- <item>
-  <title>World Happiness Report Announces Good News</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;Researchers cite a comparatively successful response to Covid and a high level of social trust as reasons why this region ranked high, because it’s definitely not the balmy weather.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/19/world-happiness-report-announces-good-news</link>
-  <author>Jamie Wilde</author>
-  <categories>survey</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/world-happiness-report-announces-good-news</guid>
-  <pubDate>Fri, 19 Mar 2021 15:11:48 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 20</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FA6aHBCFqlE0Rq%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;You can also buy individual fart recordings for $85 a toot. (Hakai Magazine)  Read: Tuna’s last stand.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/19/key-performance-indicators-march-20</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/19/key-performance-indicators-march-20</guid>
-  <pubDate>Fri, 19 Mar 2021 15:01:45 -0700</pubDate>
  </item>
 
 </channel>
