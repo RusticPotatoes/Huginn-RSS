@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/25</link>
- <lastBuildDate>Thu, 25 Mar 2021 14:43:39 -0700</lastBuildDate>
- <pubDate>Thu, 25 Mar 2021 14:43:39 -0700</pubDate>
+ <lastBuildDate>Thu, 25 Mar 2021 15:38:37 -0700</lastBuildDate>
+ <pubDate>Thu, 25 Mar 2021 15:38:37 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Brew’s Weekly News Quiz: March 26</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/25/brews-weekly-news-quiz-march-26</link>
+  <author>Jamie Wilde</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/25/brews-weekly-news-quiz-march-26</guid>
+  <pubDate>Thu, 25 Mar 2021 15:36:37 -0700</pubDate>
+ </item>
  <item>
   <title>Business Acronyms You Should Know: The Master Guide</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;   DOJ: The Department of Justice enforces US laws and handles federal civil and criminal cases. In business-to-business (B2B), the product is for a corporate customer.  SEC: The Securities and Exchange Commission is a federal agency that regulates securities markets (securities = financial instruments like stocks and bonds) to protect investors. US agencies and regulators  CDC: The Centers for Disease Control and Prevention; if you don't know this after a year of Covid…it is responsible for promoting public health at home and abroad, responding to infectious diseases, and researching threats to human health.   FTC: The Federal Trade Commission is responsible for enforcing consumer protection laws and civil antitrust law. ) The finance-y stuffIPO: An initial public offering is a way for companies to go from private → public and raise capital by selling shares to public investors on a stock exchange.  WHO: The World Health Organization is a UN agency focused on public health—monitoring risks, responding to emergencies, promoting universal healthcare, and setting international standards.  OECD: The Organization for Economic Co-operation and Development is an economic organization of 37 so-called "developed" nations. 19 members are part of the common currency "eurozone,." S&amp;P: Standard &amp; Poor's (now known as S&amp;P Global) is an analytics and financial data corporation. In direct-to-consumer, companies like Warby Parker send their product straight to you. But, often, the business world can feel like a jumble of insider language and acronyms. ESG: Environmental, social, and governance is a framework that measures corporations' positions on issues like human rights, diversity, employee welfare, and climate impacts. It's one of the most widely used indicators of economic health. It's goal is to coordinate prices and keep oil markets stable. UI: User experience vs. It's goal is to promote economic development and global trade. CSR: Corporate social responsibility offers a model for businesses to have a positive impact on society and remain accountable not only to shareholders, but also to the public.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/21/week-ahead-march-22?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 22 Mar 2021 03:01:21 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 22</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3179%2Fhousing_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;During a virtual appearance at the China Development Forum, Elon Musk addressed reports that the Chinese government banned the use of Teslas at its facilities over fears their cameras could send sensitive information back to the US.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/21/key-performance-indicators-march-22?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/21/key-performance-indicators-march-22?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 22 Mar 2021 03:01:21 -0700</pubDate>
  </item>
 
