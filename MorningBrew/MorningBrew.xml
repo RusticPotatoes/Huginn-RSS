@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/25</link>
- <lastBuildDate>Thu, 25 Mar 2021 03:03:35 -0700</lastBuildDate>
- <pubDate>Thu, 25 Mar 2021 03:03:35 -0700</pubDate>
+ <lastBuildDate>Thu, 25 Mar 2021 14:28:36 -0700</lastBuildDate>
+ <pubDate>Thu, 25 Mar 2021 14:28:36 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Massive Container Ship Ever Given Still Stuck in the Suez Canal</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4499%2Fever_given_ship.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  But that's like driving from New York to Philadelphia via Calgary: It adds 6,000 miles and $300,000 in fuel costs to the journey.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/25/massive-container-ship-ever-given-still-stuck-suez-canal</link>
+  <author>Neal Freyman</author>
+  <categories>shipping</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/25/massive-container-ship-ever-given-still-stuck-suez-canal</guid>
+  <pubDate>Thu, 25 Mar 2021 14:26:36 -0700</pubDate>
+ </item>
  <item>
   <title>Slack Debuts, then Immediately Retracts, Cross-Organizational Messaging Feature</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FfDO2Nk0ImzvvW%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The backstory: In the version that debuted yesterday morning, any paid Slack user could DM any other Slack user if they had their email address. Yesterday, Slack rolled out a feature called Slack Connect that allows users to direct message people at other organizations...    </description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/21/key-performance-indicators-march-22</guid>
   <pubDate>Sun, 21 Mar 2021 16:56:17 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: March 22</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3870%2Fgamestop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;but will it finally show up in the data? Earth Hour, when people are encouraged to shut off lights for an hour, is also Saturday night. cuz Passover starts Saturday evening.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/21/week-ahead-march-22</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/21/week-ahead-march-22</guid>
-  <pubDate>Sun, 21 Mar 2021 16:51:17 -0700</pubDate>
  </item>
 
 </channel>
