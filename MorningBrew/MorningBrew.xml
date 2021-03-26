@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/26</link>
- <lastBuildDate>Fri, 26 Mar 2021 11:13:32 -0700</lastBuildDate>
- <pubDate>Fri, 26 Mar 2021 11:13:32 -0700</pubDate>
+ <lastBuildDate>Fri, 26 Mar 2021 14:08:32 -0700</lastBuildDate>
+ <pubDate>Fri, 26 Mar 2021 14:08:32 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Mini: Easy Difficulty</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-easy-difficulty</link>
+  <author>Toby Howell</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-easy-difficulty</guid>
+  <pubDate>Fri, 26 Mar 2021 14:06:42 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Mini: Hard Difficulty</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>wealth</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/irs-researchers-wealthiest-1-didnt-disclose-21-income-irs?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 23 Mar 2021 03:01:42 -0700</pubDate>
- </item>
- <item>
-  <title>Leon Black Steps Down Over Jeffrey Epstein Ties</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4470%2Fleon_black.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  What's Apollo? Leon Black, cofounder of investment juggernaut Apollo Global Management, has stepped down as chairman following an independent investigation into his ties with Jeffrey Epstein. The firm has helped companies including Hertz, United, and Expedia weather pandemic-era financial troubles.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/22/leon-black-steps-jeffrey-epstein-ties?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/leon-black-steps-jeffrey-epstein-ties?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 23 Mar 2021 03:01:42 -0700</pubDate>
  </item>
 
