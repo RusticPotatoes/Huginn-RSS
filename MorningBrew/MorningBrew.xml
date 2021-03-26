@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/26</link>
- <lastBuildDate>Fri, 26 Mar 2021 14:53:38 -0700</lastBuildDate>
- <pubDate>Fri, 26 Mar 2021 14:53:38 -0700</pubDate>
+ <lastBuildDate>Fri, 26 Mar 2021 15:03:41 -0700</lastBuildDate>
+ <pubDate>Fri, 26 Mar 2021 15:03:41 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>WeWork Is Going Public Via SPAC</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4521%2Fwework.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Now, WeWork is back up to a respectable $9 billion valuation. , to make its debut in the public markets, which have been waiting for WeWork like a prom date at the bottom of the stairs since 2019.  CEO Sandeep Mathrani expects WeWork to turn a profit by the end of this year, following some belt-tightening measures he made last summer. Now, flexible office space is back in demand, and WeWork 2.0 provides just that. WeWork is going public.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/wework-going-public-via-spac</link>
+  <author>Jamie Wilde</author>
+  <categories>spac</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/wework-going-public-via-spac</guid>
+  <pubDate>Fri, 26 Mar 2021 15:01:40 -0700</pubDate>
+ </item>
  <item>
   <title>Germany Avoids “Baby Bust” With Rising Birth Rates</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4520%2Fbaby_in_hospital.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This jump in births runs counter to the current and even pre-pandemic fertility rates in the rest of Europe, the US, and other wealthy nations: There will be 300,000 fewer births this year in the US, according to estimates. No one’s totally sure, but some economists are pointing to Kurzarbeit, Germany’s state-funded safety net.</description>
@@ -361,15 +370,6 @@
   <categories>food and drink</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/23/gopuffs-value-jumps-thanks-munchies-lockdown</guid>
   <pubDate>Tue, 23 Mar 2021 14:51:39 -0700</pubDate>
- </item>
- <item>
-  <title>Citigroup Embraces Flexibility to Curb Pandemic Fatigue</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FCt2fBe0rc69nq%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; May 28 (the Friday before Memorial Day) will be a company-wide holiday called "Citi Reset Day." Fraser also sketched out a more flexible approach to work after the pandemic recedes.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/23/citigroup-embraces-flexibility-curb-pandemic-fatigue</link>
-  <author>Eliza Carter</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/23/citigroup-embraces-flexibility-curb-pandemic-fatigue</guid>
-  <pubDate>Tue, 23 Mar 2021 14:46:38 -0700</pubDate>
  </item>
 
 </channel>
