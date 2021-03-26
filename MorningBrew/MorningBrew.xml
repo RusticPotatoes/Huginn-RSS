@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/26</link>
- <lastBuildDate>Fri, 26 Mar 2021 14:48:38 -0700</lastBuildDate>
- <pubDate>Fri, 26 Mar 2021 14:48:38 -0700</pubDate>
+ <lastBuildDate>Fri, 26 Mar 2021 14:53:38 -0700</lastBuildDate>
+ <pubDate>Fri, 26 Mar 2021 14:53:38 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Germany Avoids “Baby Bust” With Rising Birth Rates</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4520%2Fbaby_in_hospital.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This jump in births runs counter to the current and even pre-pandemic fertility rates in the rest of Europe, the US, and other wealthy nations: There will be 300,000 fewer births this year in the US, according to estimates. No one’s totally sure, but some economists are pointing to Kurzarbeit, Germany’s state-funded safety net.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/germany-avoids-baby-bust-rising-birth-rates</link>
+  <author>Matty Merritt</author>
+  <categories>global</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/germany-avoids-baby-bust-rising-birth-rates</guid>
+  <pubDate>Fri, 26 Mar 2021 14:51:37 -0700</pubDate>
+ </item>
  <item>
   <title>Dominion Voting Systems Files $1.6 Billion Lawsuit Against Fox News</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F69%2Fvoting_booths.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And yesterday, lawyers for Dominion left the door open for going after individual Fox News broadcasters as well.  The lawsuit argues that Fox News leveraged its platform to defame Dominion, severely damaging its business in the process.</description>
@@ -360,15 +369,6 @@
   <author>Eliza Carter</author>
   <categories>finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/23/citigroup-embraces-flexibility-curb-pandemic-fatigue</guid>
-  <pubDate>Tue, 23 Mar 2021 14:46:38 -0700</pubDate>
- </item>
- <item>
-  <title>US Regulatory Panel Questions AstraZeneca Vaccine Results</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4476%2Fastrazeneca.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In the wee hours of Tuesday morning, when nothing good ever happens, a panel that oversees US clinical trial safety said AstraZeneca's vaccine results may include "outdated and potentially misleading" data. Big picture: Vaccine hesitancy, in the US and abroad, started out higher than public health officials wanted. Add this to the growing listWhile AstraZeneca's vaccine has been approved in 70+ countries, the rollout has faced Galaxy Note 7-level challenges.  The statement arrived hours after the drugmaker announced its two-shot vaccine was 79% effective in US trials.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/23/us-regulatory-panel-questions-astrazeneca-vaccine-results</link>
-  <author>Alex Hickey</author>
-  <categories>pharma</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/23/us-regulatory-panel-questions-astrazeneca-vaccine-results</guid>
   <pubDate>Tue, 23 Mar 2021 14:46:38 -0700</pubDate>
  </item>
 
