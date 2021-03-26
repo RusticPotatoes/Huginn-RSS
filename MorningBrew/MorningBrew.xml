@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/26</link>
- <lastBuildDate>Fri, 26 Mar 2021 03:03:37 -0700</lastBuildDate>
- <pubDate>Fri, 26 Mar 2021 03:03:37 -0700</pubDate>
+ <lastBuildDate>Fri, 26 Mar 2021 11:13:32 -0700</lastBuildDate>
+ <pubDate>Fri, 26 Mar 2021 11:13:32 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Mini: Hard Difficulty</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-hard-difficulty</link>
+  <author>Neal Freyman</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-hard-difficulty</guid>
+  <pubDate>Fri, 26 Mar 2021 11:11:41 -0700</pubDate>
+ </item>
+ <item>
+  <title>Brew Mini: Medium Difficulty</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-medium-difficulty</link>
+  <author>Neal Freyman</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-medium-difficulty</guid>
+  <pubDate>Fri, 26 Mar 2021 11:11:41 -0700</pubDate>
+ </item>
  <item>
   <title>Bank of England Reveals New £50 Banknote Honoring Alan Turing</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4503%2Fnew_bofe_banknote.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The banknote includes an image of Turing, one of his quotes, and lots of nerdy Easter eggs such as a string of ticker tape displaying Turing's birthday in binary code.   In his work solving Enigma, he came up with the "Turing bombe," a precursor to the modern computer.</description>
@@ -352,24 +370,6 @@
   <categories>finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/leon-black-steps-jeffrey-epstein-ties?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 23 Mar 2021 03:01:42 -0700</pubDate>
- </item>
- <item>
-  <title>News Outlets Adjust to Life After Trump</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4473%2Fold_news.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A few months into the new Biden administration, news consumption has significantly declined, according to the Washington Post. If you haven’t felt the itch to check Twitter 24/7, skim your preferred news site, or keep cable news humming in the background since President Trump left office, join the club. Politics consumption on major new sites dropped 28% from January to February, according to analytics company SimilarWeb, but interest in business and finance news only slightly declined over the same period.    The Washington Post is going the opposite route.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/22/news-outlets-adjust-life-trump?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/news-outlets-adjust-life-trump?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 23 Mar 2021 03:01:42 -0700</pubDate>
- </item>
- <item>
-  <title>News Outlets Adjust to Life After Trump</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4473%2Fold_news.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A few months into the new Biden administration, news consumption has significantly declined, according to the Washington Post. Throw in the onset of a global pandemic, more efficient ways of receiving news (Twitter, Facebook, LinkedIn), and door-busting subscription deals, and conditions were ripe for news outlets to thrive.  TV: CNN lost almost half of its primetime viewership in the key 25–54 demographic in the period between President Biden's inauguration and March 15.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/22/news-outlets-adjust-life-trump</link>
-  <author>Toby Howell</author>
-  <categories>news</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/news-outlets-adjust-life-trump</guid>
-  <pubDate>Mon, 22 Mar 2021 15:21:27 -0700</pubDate>
  </item>
 
 </channel>
