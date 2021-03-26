@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/26</link>
- <lastBuildDate>Fri, 26 Mar 2021 14:08:32 -0700</lastBuildDate>
- <pubDate>Fri, 26 Mar 2021 14:08:32 -0700</pubDate>
+ <lastBuildDate>Fri, 26 Mar 2021 14:38:35 -0700</lastBuildDate>
+ <pubDate>Fri, 26 Mar 2021 14:38:35 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Vaccine Tracker: March 27</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4519%2Fvaccine_map.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At the current rate, the US would hit President Biden’s new goal of 200 million shots administered in his first 100 days. Moderna said earlier this month it had started testing its vaccine on kids.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/vaccine-tracker-march-27</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/vaccine-tracker-march-27</guid>
+  <pubDate>Fri, 26 Mar 2021 14:36:35 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 27</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1105%2Fstreaming.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Guernica)  Read: Your Saturday deep dive into the underworld of finch smuggling. The ship will probably remain stuck in the canal, blocking all traffic, until at least next week.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/key-performance-indicators-march-27</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/key-performance-indicators-march-27</guid>
+  <pubDate>Fri, 26 Mar 2021 14:36:35 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Mini: Easy Difficulty</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -351,24 +369,6 @@
   <author>Toby Howell</author>
   <categories>marketing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/brands-go-allin-covid19-vaccination-promos?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 23 Mar 2021 03:01:42 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 23</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fae670QCDqLpII%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(WSJ) Read: Meet the 61-year-old Dutch guy behind those crazy wellness routines adopted by athletes and entrepreneurs.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/22/key-performance-indicators-march-23?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/key-performance-indicators-march-23?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 23 Mar 2021 03:01:42 -0700</pubDate>
- </item>
- <item>
-  <title>IRS Researchers: Wealthiest 1% Didn't Disclose 21% of Their Income from IRS</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4024%2Ftax_forms.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The wealthiest 1% of US households fail to disclose 21% of their income, according to a new study by IRS researchers and economists. Zoom out: Collecting unpaid income taxes from the 1% could bring $175 billion into the Treasury annually, the study concludes.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/22/irs-researchers-wealthiest-1-didnt-disclose-21-income-irs?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>wealth</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/irs-researchers-wealthiest-1-didnt-disclose-21-income-irs?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 23 Mar 2021 03:01:42 -0700</pubDate>
  </item>
 
