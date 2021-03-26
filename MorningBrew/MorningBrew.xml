@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/25/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/26/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/26/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/25</link>
- <lastBuildDate>Thu, 25 Mar 2021 15:38:37 -0700</lastBuildDate>
- <pubDate>Thu, 25 Mar 2021 15:38:37 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/26</link>
+ <lastBuildDate>Fri, 26 Mar 2021 03:03:37 -0700</lastBuildDate>
+ <pubDate>Fri, 26 Mar 2021 03:03:37 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Bank of England Reveals New £50 Banknote Honoring Alan Turing</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4503%2Fnew_bofe_banknote.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The banknote includes an image of Turing, one of his quotes, and lots of nerdy Easter eggs such as a string of ticker tape displaying Turing's birthday in binary code.   In his work solving Enigma, he came up with the "Turing bombe," a precursor to the modern computer.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/25/bank-england-reveals-new-50-banknote-honoring-alan-turing?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Eliza Carter</author>
+  <categories>currency</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/25/bank-england-reveals-new-50-banknote-honoring-alan-turing?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 26 Mar 2021 03:01:36 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FJrGH6KjBHJk38Y4nwm%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Engelsberg Ideas)  Read: The geopolitical fight to come over green energy.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/25/key-performance-indicators?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/25/key-performance-indicators?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 26 Mar 2021 03:01:36 -0700</pubDate>
+ </item>
+ <item>
+  <title>Darden Restaurants is Raising Wages as a Sign of Sales</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FpKzAHJQlKqwiQ%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At one point during the pandemic, same-store sales at Darden restaurants dropped 75%. Darden Restaurants, the parent company of Olive Garden, said hourly workers will make at least $10/hour in wages + tips combined starting Monday. now. Then vs.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/25/darden-restaurants-raising-wages-sign-sales?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>restaurants</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/25/darden-restaurants-raising-wages-sign-sales?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 26 Mar 2021 03:01:36 -0700</pubDate>
+ </item>
+ <item>
+  <title>Massive Container Ship Ever Given Still Stuck in the Suez Canal</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4499%2Fever_given_ship.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  But that's like driving from New York to Philadelphia via Calgary: It adds 6,000 miles and $300,000 in fuel costs to the journey.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/25/massive-container-ship-ever-given-still-stuck-suez-canal?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>shipping</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/25/massive-container-ship-ever-given-still-stuck-suez-canal?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 26 Mar 2021 03:01:36 -0700</pubDate>
+ </item>
+ <item>
+  <title>H&amp;M, Nike Face Backlash in China</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4504%2Fh_m.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Ex.: Last September, H&amp;M released a statement saying it was concerned about allegations of forced labor in Xinjiang, a Chinese territory that produces an estimated 20% of the world’s cotton. State media outlets called out other apparel brands, including Nike and Adidas, that've made statements about boycotting Xinjiang cotton. And celebrities including Wang Yibo and Victoria Song are dropping H&amp;M and/or Nike endorsements.   On Tuesday, a human rights group coalition sent a letter to Airbnb asking it to pull out, questioning the company's commitment to "social responsibility."</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/25/hm-nike-face-backlash-china-calling-xinjiang-labor-concerns?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/25/hm-nike-face-backlash-china-calling-xinjiang-labor-concerns?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 26 Mar 2021 03:01:36 -0700</pubDate>
+ </item>
  <item>
   <title>The Brew’s Weekly News Quiz: March 26</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -325,51 +370,6 @@
   <categories>news</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/news-outlets-adjust-life-trump</guid>
   <pubDate>Mon, 22 Mar 2021 15:21:27 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 23</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fae670QCDqLpII%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(WSJ) Read: Meet the 61-year-old Dutch guy behind those crazy wellness routines adopted by athletes and entrepreneurs.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/22/key-performance-indicators-march-23</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/key-performance-indicators-march-23</guid>
-  <pubDate>Mon, 22 Mar 2021 15:06:24 -0700</pubDate>
- </item>
- <item>
-  <title>Leon Black Steps Down Over Jeffrey Epstein Ties</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4470%2Fleon_black.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  What's Apollo? Leon Black, cofounder of investment juggernaut Apollo Global Management, has stepped down as chairman following an independent investigation into his ties with Jeffrey Epstein. The firm has helped companies including Hertz, United, and Expedia weather pandemic-era financial troubles. With an 18% stake, he's still Apollo's largest shareholder and plans to return.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/22/leon-black-steps-jeffrey-epstein-ties</link>
-  <author>Alex Hickey</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/leon-black-steps-jeffrey-epstein-ties</guid>
-  <pubDate>Mon, 22 Mar 2021 14:51:19 -0700</pubDate>
- </item>
- <item>
-  <title>IRS Researchers: Wealthiest 1% Didn't Disclose 21% of Their Income from IRS</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4024%2Ftax_forms.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The wealthiest 1% of US households fail to disclose 21% of their income, according to a new study by IRS researchers and economists. But other income streams can slip by the agency's auditors using "sophisticated" strategies including...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/22/irs-researchers-wealthiest-1-didnt-disclose-21-income-irs</link>
-  <author>Alex Hickey</author>
-  <categories>wealth</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/irs-researchers-wealthiest-1-didnt-disclose-21-income-irs</guid>
-  <pubDate>Mon, 22 Mar 2021 14:51:18 -0700</pubDate>
- </item>
- <item>
-  <title>Brands Go All-In on Covid-19 Vaccination Promos</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FN04Fkkzhf9slO%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Uber and Lyft have been providing free and discounted rides to and from vaccine sites. The offer is valid until the end of 2021, so a vaccinated person could theoretically obtain a free glazed donut every day for the next 284 days.   </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/22/brands-go-allin-covid19-vaccination-promos</link>
-  <author>Toby Howell</author>
-  <categories>marketing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/brands-go-allin-covid19-vaccination-promos</guid>
-  <pubDate>Mon, 22 Mar 2021 14:51:18 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: March 22</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3870%2Fgamestop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Everything else:Israel will hold its national elections on TuesdaySo much college basketball will be playedStart getting rid of your chametz, because Passover starts Saturday eveningEarth Hour, when people are encouraged to shut off lights for an hour, is Saturday night </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/21/week-ahead-march-22?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/21/week-ahead-march-22?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 22 Mar 2021 03:01:21 -0700</pubDate>
  </item>
 
 </channel>
