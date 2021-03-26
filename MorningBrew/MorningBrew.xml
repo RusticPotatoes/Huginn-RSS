@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/26</link>
- <lastBuildDate>Fri, 26 Mar 2021 14:38:35 -0700</lastBuildDate>
- <pubDate>Fri, 26 Mar 2021 14:38:35 -0700</pubDate>
+ <lastBuildDate>Fri, 26 Mar 2021 14:48:38 -0700</lastBuildDate>
+ <pubDate>Fri, 26 Mar 2021 14:48:38 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Dominion Voting Systems Files $1.6 Billion Lawsuit Against Fox News</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F69%2Fvoting_booths.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And yesterday, lawyers for Dominion left the door open for going after individual Fox News broadcasters as well.  The lawsuit argues that Fox News leveraged its platform to defame Dominion, severely damaging its business in the process.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/dominion-voting-systems-files-16-billion-lawsuit-fox-news</link>
+  <author>Toby Howell</author>
+  <categories>election</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/dominion-voting-systems-files-16-billion-lawsuit-fox-news</guid>
+  <pubDate>Fri, 26 Mar 2021 14:46:37 -0700</pubDate>
+ </item>
  <item>
   <title>Vaccine Tracker: March 27</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4519%2Fvaccine_map.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At the current rate, the US would hit President Biden’s new goal of 200 million shots administered in his first 100 days. Moderna said earlier this month it had started testing its vaccine on kids.</description>
@@ -361,15 +370,6 @@
   <categories>pharma</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/23/us-regulatory-panel-questions-astrazeneca-vaccine-results</guid>
   <pubDate>Tue, 23 Mar 2021 14:46:38 -0700</pubDate>
- </item>
- <item>
-  <title>Brands Go All-In on Covid-19 Vaccination Promos</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FN04Fkkzhf9slO%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The offer is valid until the end of 2021, so a vaccinated person could theoretically obtain a free glazed donut every day for the next 284 days.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/22/brands-go-allin-covid19-vaccination-promos?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Toby Howell</author>
-  <categories>marketing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/22/brands-go-allin-covid19-vaccination-promos?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 23 Mar 2021 03:01:42 -0700</pubDate>
  </item>
 
 </channel>
