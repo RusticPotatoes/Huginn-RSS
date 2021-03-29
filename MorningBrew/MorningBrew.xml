@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/27/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/27/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/29/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/29/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/27</link>
- <lastBuildDate>Sat, 27 Mar 2021 10:18:41 -0700</lastBuildDate>
- <pubDate>Sat, 27 Mar 2021 10:18:41 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/29</link>
+ <lastBuildDate>Mon, 29 Mar 2021 03:03:15 -0700</lastBuildDate>
+ <pubDate>Mon, 29 Mar 2021 03:03:15 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: March 29</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1179%2Fgeorge_floyd_memorial.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Sports: The men’s and women’s college basketball tournaments roll on this week, and MLB’s Opening Day is Thursday. Jobs report: The Labor Department will drop employment numbers for March this Friday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/28/week-ahead-march-29?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/week-ahead-march-29?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 29 Mar 2021 03:01:14 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 29</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4526%2Fthe_office.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(NYT Magazine) Read: An excellent discussion on genomic sequencing.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/28/key-performance-indicators-march-29?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/key-performance-indicators-march-29?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 29 Mar 2021 03:01:14 -0700</pubDate>
+ </item>
+ <item>
+  <title>Spain Holds Rock Concert for 5,000 People in Covid Test</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4523%2Fspanish_concert.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  The concert was a government-sanctioned test to determine whether events in controlled settings could restart again without contributing to the spread of the coronavirus. Zoom out: Organizers said it was the biggest commercial event held in Europe since the pandemic began.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/28/spain-holds-rock-concert-5000-people-covid-test?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>music</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/spain-holds-rock-concert-5000-people-covid-test?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 29 Mar 2021 03:01:14 -0700</pubDate>
+ </item>
+ <item>
+  <title>Wall Street Mystery Swirls Over Massive Block Trades</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxThtavoJ6AX69jbG2A%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A block trade is when huge amounts of shares trade hands, typically through negotiation outside of the open market to keep stock prices stable. Basically, what allegedly happened is that Archegos's lenders forced it to sell more than $20 billion worth of shares on Friday. In Saturday’s Brew, we noted that shares in Discovery and ViacomCBS had plunged on Friday following analyst downgrades.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/28/wall-street-mystery-swirls-massive-block-trades?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/wall-street-mystery-swirls-massive-block-trades?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 29 Mar 2021 03:01:14 -0700</pubDate>
+ </item>
+ <item>
+  <title>Ever Given, the Ship Stuck in the Suez Canal, Has Been Partially Refloated</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4525%2Fship_stuck_in_suez_canal.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: If the Ever Given can fully break free today and allow traffic to pass, the shipping industry can avoid the worst scarring, according to the NYT. You can get deep about it.  The Ever Given, a mind-bogglingly huge container ship that’s been blocking the Suez Canal for almost a week, holding up an estimated $9.6 billion in goods a day, is way less stuck than it used to be.   But that hasn’t stopped everyone from having a little fun at the ship’s expense—okay, a lot of fun. The moon.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/28/ever-given-still-stuck-suez-canal-salvagers-eye-progress?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>shipping</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/ever-given-still-stuck-suez-canal-salvagers-eye-progress?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 29 Mar 2021 03:01:14 -0700</pubDate>
+ </item>
  <item>
   <title>Germany Avoids “Baby Bust” With Rising Birth Rates</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4520%2Fbaby_in_hospital.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This jump in births runs counter to the current and even pre-pandemic fertility rates in the rest of Europe, the US, and other wealthy nations: There will be 300,000 fewer births this year in the US, according to estimates. No one’s totally sure, but some economists are pointing to Kurzarbeit, Germany’s state-funded safety net.</description>
