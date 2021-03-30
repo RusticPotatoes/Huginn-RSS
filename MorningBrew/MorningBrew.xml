@@ -1,16 +1,259 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/29/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/29/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/03/30/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/03/30/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/29</link>
- <lastBuildDate>Mon, 29 Mar 2021 03:03:15 -0700</lastBuildDate>
- <pubDate>Mon, 29 Mar 2021 03:03:15 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/03/30</link>
+ <lastBuildDate>Tue, 30 Mar 2021 13:56:21 -0700</lastBuildDate>
+ <pubDate>Tue, 30 Mar 2021 13:56:21 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FJrGH6KjBHJk38Y4nwm%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Engelsberg Ideas)  Read: The geopolitical fight to come over green energy.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/25/key-performance-indicators</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/25/key-performance-indicators</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:20 -0700</pubDate>
+ </item>
+ <item>
+  <title>Massive Container Ship Ever Given Still Stuck in the Suez Canal</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4499%2Fever_given_ship.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  But that's like driving from New York to Philadelphia via Calgary: It adds 6,000 miles and $300,000 in fuel costs to the journey.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/25/massive-container-ship-ever-given-still-stuck-suez-canal</link>
+  <author>Neal Freyman</author>
+  <categories>shipping</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/25/massive-container-ship-ever-given-still-stuck-suez-canal</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:20 -0700</pubDate>
+ </item>
+ <item>
+  <title>Bank of England Reveals New £50 Banknote Honoring Alan Turing</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4503%2Fnew_bofe_banknote.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The banknote includes an image of Turing, one of his quotes, and lots of nerdy Easter eggs such as a string of ticker tape displaying Turing's birthday in binary code.   In his work solving Enigma, he came up with the "Turing bombe," a precursor to the modern computer.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/25/bank-england-reveals-new-50-banknote-honoring-alan-turing</link>
+  <author>Eliza Carter</author>
+  <categories>currency</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/25/bank-england-reveals-new-50-banknote-honoring-alan-turing</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:20 -0700</pubDate>
+ </item>
+ <item>
+  <title>H&amp;M, Nike Face Backlash in China</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4504%2Fh_m.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Ex.: Last September, H&amp;M released a statement saying it was concerned about allegations of forced labor in Xinjiang, a Chinese territory that produces an estimated 20% of the world’s cotton. State media outlets called out other apparel brands, including Nike and Adidas, that've made statements about boycotting Xinjiang cotton. And celebrities including Wang Yibo and Victoria Song are dropping H&amp;M and/or Nike endorsements.   On Tuesday, a human rights group coalition sent a letter to Airbnb asking it to pull out, questioning the company's commitment to "social responsibility."</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/25/hm-nike-face-backlash-china-calling-xinjiang-labor-concerns</link>
+  <author>Alex Hickey</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/25/hm-nike-face-backlash-china-calling-xinjiang-labor-concerns</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:20 -0700</pubDate>
+ </item>
+ <item>
+  <title>Darden Restaurants is Raising Wages as a Sign of Sales</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FpKzAHJQlKqwiQ%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At one point during the pandemic, same-store sales at Darden restaurants dropped 75%. Darden Restaurants, the parent company of Olive Garden, said hourly workers will make at least $10/hour in wages + tips combined starting Monday. now. Then vs.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/25/darden-restaurants-raising-wages-sign-sales</link>
+  <author>Matty Merritt</author>
+  <categories>restaurants</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/25/darden-restaurants-raising-wages-sign-sales</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:20 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Brew’s Weekly News Quiz: March 26</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/25/brews-weekly-news-quiz-march-26</link>
+  <author>Jamie Wilde</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/25/brews-weekly-news-quiz-march-26</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Brew Mini: Hard Difficulty</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-hard-difficulty</link>
+  <author>Neal Freyman</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-hard-difficulty</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Brew Mini: Medium Difficulty</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-medium-difficulty</link>
+  <author>Neal Freyman</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-medium-difficulty</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Light Roast Is Dead, Long Live Sunday Edition</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fugair49WE2di0%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It will add a bunch of fresh sections to the Brew’s current lineup, including:A work advice columnAnalysis of a juicy news topicZillow surfingMeme contestInterviews with really cool peopleWhereas our daily newsletter is tied to the business news cycle like a tongue to a pole in winter, Sunday Edition will be free to roam and explore more general interest topics with a grounding in business. Sunday Edition will be available for everyone, which allows us to devote more resources to this newsletter and provide readers with top-tier content. But in the meantime, I want to share the basic structure of the new newsletter, give Light Roast a proper send-off, and explain why we decided to make the change.  Light Roast provided a fantastic space for us writers to connect with Brew readers on a more personal level, one that we will certainly miss. We are replacing Light Roast with a new reward.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/light-roast-dead-long-live-sunday-edition</link>
+  <author>Toby Howell</author>
+  <categories>big deal</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/light-roast-dead-long-live-sunday-edition</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Vaccine Tracker: March 27</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4519%2Fvaccine_map.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At the current rate, the US would hit President Biden’s new goal of 200 million shots administered in his first 100 days. Moderna said earlier this month it had started testing its vaccine on kids.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/vaccine-tracker-march-27</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/vaccine-tracker-march-27</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Brew Mini: Easy Difficulty</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-easy-difficulty</link>
+  <author>Toby Howell</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-easy-difficulty</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>WeWork Is Going Public Via SPAC</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4521%2Fwework.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Now, WeWork is back up to a respectable $9 billion valuation. , to make its debut in the public markets, which have been waiting for WeWork like a prom date at the bottom of the stairs since 2019.  CEO Sandeep Mathrani expects WeWork to turn a profit by the end of this year, following some belt-tightening measures he made last summer. Now, flexible office space is back in demand, and WeWork 2.0 provides just that. WeWork is going public.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/wework-going-public-via-spac</link>
+  <author>Jamie Wilde</author>
+  <categories>spac</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/wework-going-public-via-spac</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Germany Avoids “Baby Bust” With Rising Birth Rates</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4520%2Fbaby_in_hospital.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This jump in births runs counter to the current and even pre-pandemic fertility rates in the rest of Europe, the US, and other wealthy nations: There will be 300,000 fewer births this year in the US, according to estimates. No one’s totally sure, but some economists are pointing to Kurzarbeit, Germany’s state-funded safety net.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/germany-avoids-baby-bust-rising-birth-rates</link>
+  <author>Matty Merritt</author>
+  <categories>demographics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/germany-avoids-baby-bust-rising-birth-rates</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Dominion Voting Systems Files $1.6 Billion Lawsuit Against Fox News</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F69%2Fvoting_booths.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And yesterday, lawyers for Dominion left the door open for going after individual Fox News broadcasters as well. Dominion Voting Systems ditched the Hawaiian shirt and khakis yesterday, instead filing a $1.6 billion lawsuit against Fox News.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/dominion-voting-systems-files-16-billion-lawsuit-fox-news</link>
+  <author>Toby Howell</author>
+  <categories>election</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/dominion-voting-systems-files-16-billion-lawsuit-fox-news</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 27</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1105%2Fstreaming.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Guernica)  Read: Your Saturday deep dive into the underworld of finch smuggling. The ship will probably remain stuck in the canal, blocking all traffic, until at least next week.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/26/key-performance-indicators-march-27</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/key-performance-indicators-march-27</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Spain Holds Rock Concert for 5,000 People in Covid Test</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4523%2Fspanish_concert.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  The concert was a government-sanctioned test to determine whether events in controlled settings could restart again without contributing to the spread of the coronavirus. Zoom out: Organizers said it was the biggest commercial event held in Europe since the pandemic began.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/28/spain-holds-rock-concert-5000-people-covid-test</link>
+  <author>Neal Freyman</author>
+  <categories>music</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/spain-holds-rock-concert-5000-people-covid-test</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Ever Given, the Ship Stuck in the Suez Canal, Has Been Partially Refloated</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4525%2Fship_stuck_in_suez_canal.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: If the Ever Given can fully break free today and allow traffic to pass, the shipping industry can avoid the worst scarring, according to the NYT. You can get deep about it.  The Ever Given, a mind-bogglingly huge container ship that’s been blocking the Suez Canal for almost a week, holding up an estimated $9.6 billion in goods a day, is way less stuck than it used to be.   But that hasn’t stopped everyone from having a little fun at the ship’s expense—okay, a lot of fun. The moon.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/28/ever-given-still-stuck-suez-canal-salvagers-eye-progress</link>
+  <author>Neal Freyman</author>
+  <categories>shipping</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/ever-given-still-stuck-suez-canal-salvagers-eye-progress</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 29</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4526%2Fthe_office.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(NYT Magazine) Read: An excellent discussion on genomic sequencing.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/28/key-performance-indicators-march-29</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/key-performance-indicators-march-29</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Week Ahead: March 29</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1179%2Fgeorge_floyd_memorial.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Sports: The men’s and women’s college basketball tournaments roll on this week, and MLB’s Opening Day is Thursday. Jobs report: The Labor Department will drop employment numbers for March this Friday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/28/week-ahead-march-29</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/week-ahead-march-29</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>Wall Street Mystery Swirls Over Massive Block Trades</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxThtavoJ6AX69jbG2A%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A block trade is when huge amounts of shares trade hands, typically through negotiation outside of the open market to keep stock prices stable. Basically, what allegedly happened is that Archegos's lenders forced it to sell more than $20 billion worth of shares on Friday. In Saturday’s Brew, we noted that shares in Discovery and ViacomCBS had plunged on Friday following analyst downgrades.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/28/wall-street-mystery-swirls-massive-block-trades</link>
+  <author>Neal Freyman</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/wall-street-mystery-swirls-massive-block-trades</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: March 30</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4546%2Ffrance-demo-drug-cannabis.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Atlantic)  Read: How mRNA technology could change the world.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/29/key-performance-indicators-march-30</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/29/key-performance-indicators-march-30</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>Suez Canal is Cleared, but Blocks Effects Will Still Be Felt</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4547%2Fever_given.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Zoom out: The clog blocked more than 10% of global shipping traffic and brought up lots of talk about the fragility of global supply chains.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/29/suez-canal-cleared-blocks-effects-will-still-felt</link>
+  <author>Matty Merritt</author>
+  <categories>shipping</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/29/suez-canal-cleared-blocks-effects-will-still-felt</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>Lil Nas X and MSCHF Sneaker Collab is Making Everyone Mad</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4548%2Fsatan_shoes.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: Lil Nas X timed the sneaker drop with his most recent music video release for “Montero (Call Me By Your Name),” the steamiest take on going to H-E-L-L we’ve ever seen.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/29/lil-nas-x-mschf-sneaker-collab-making-everyone-mad</link>
+  <author>Matty Merritt</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/29/lil-nas-x-mschf-sneaker-collab-making-everyone-mad</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>Why Morning Brew Added Bitcoin to the Markets Section</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F938%2Fbitcoin_bull.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;We think our Markets section will be more relevant to readers with bitcoin in it. It's simply a recognition that finance, just like anything else, is changing, and our newsletter should reflect that. Perhaps you just took a tequila shot out of happiness. In their place, we added 1) bitcoin and 2) a "flex" spot, which will allow us to showcase any security—whether it's a tech stock, oil, or dogecoin—that made an interesting move the previous day.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/29/morning-brew-added-bitcoin-markets-section</link>
+  <author>Neal Freyman</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/29/morning-brew-added-bitcoin-markets-section</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>US Vaccine Progress Faces Off With Rising Caseloads</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3379%2Fline_to_get_covid_shots.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Onto the better newsOver one-third of adults (about 95 million people) have received at least one shot, according to the CDC. A lab leak was determined to be "extremely unlikely." In a draft report obtained by the AP, WHO researchers investigating the coronavirus said it most likely jumped from bats to another critter to humans. the latest installment in Covid-19: Origin Story.  + While we're here... Yesterday, Biden pleaded with state and local leaders to maintain or reinstate mask mandates as the rollout continues.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/29/us-vaccine-progress-faces-off-rising-caseloads</link>
+  <author>Alex Hickey</author>
+  <categories>public health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/29/us-vaccine-progress-faces-off-rising-caseloads</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>NFTs: Frequently Asked Questions</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FVypJYbpuh7ZtK%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And yes, you can make money off of an NFT by buying and reselling it for more.  An NFT is “a type of cryptographic token,” Emerging Tech Brew writer Ryan Duffy explains, but NFTs are different from cryptocurrencies because they’re not interchangeable.   When a digital asset goes on sale, you’re randomly chosen to buy it. Can I make money on it? One reason to buy an NFT is for its emotional value, which isn’t so different from physical objects... They buy it for the way it makes them feel. The same can be true for a GIF, image, video, or other digital asset.  On Top Shot for instance, you register to join a waitlist that can be thousands of NBA fans long. Defining the blockchain is a whole ‘nother can of worms that you can read about here.  How do you buy an NFT?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/24/nft-frequently-asked-questions</link>
+  <author>Jamie Wilde</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/nft-frequently-asked-questions</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>Business Acronyms You Should Know: The Master Guide</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;   DOJ: The Department of Justice enforces US laws and handles federal civil and criminal cases. In business-to-business (B2B), the product is for a corporate customer.  SEC: The Securities and Exchange Commission is a federal agency that regulates securities markets (securities = financial instruments like stocks and bonds) to protect investors. US agencies and regulatorsCDC: The Centers for Disease Control and Prevention; if you don't know this after a year of Covid…it is responsible for promoting public health at home and abroad, responding to infectious diseases, and researching threats to human health.   FTC: The Federal Trade Commission is responsible for enforcing consumer protection laws and civil antitrust law. ) The finance-y stuffIPO: An initial public offering is a way for companies to go from private → public and raise capital by selling shares to public investors on a stock exchange.  WHO: The World Health Organization is a UN agency focused on public health—monitoring risks, responding to emergencies, promoting universal healthcare, and setting international standards.  OECD: The Organization for Economic Co-operation and Development is an economic organization of 37 so-called "developed" nations. S&amp;P: Standard &amp; Poor's (now known as S&amp;P Global) is an analytics and financial data corporation. 19 members are part of the common currency "eurozone,." In direct-to-consumer, companies like Warby Parker send their product straight to you. But, often, the business world can feel like a jumble of insider language and acronyms. ESG: Environmental, social, and governance is a framework that measures corporations' positions on issues like human rights, diversity, employee welfare, and climate impacts. It's one of the most widely used indicators of economic health. It's goal is to coordinate prices and keep oil markets stable. UI: User experience vs. It's goal is to promote economic development and global trade. CSR: Corporate social responsibility offers a model for businesses to have a positive impact on society and remain accountable not only to shareholders, but also to the public.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/02/16/business-acronyms-know-f0b5</link>
+  <author>Alex Hickey</author>
+  <categories>business</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/16/business-acronyms-know-f0b5</guid>
+  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: March 29</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1179%2Fgeorge_floyd_memorial.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Sports: The men’s and women’s college basketball tournaments roll on this week, and MLB’s Opening Day is Thursday. Jobs report: The Labor Department will drop employment numbers for March this Friday.</description>
