@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/30</link>
- <lastBuildDate>Tue, 30 Mar 2021 14:58:19 -0700</lastBuildDate>
- <pubDate>Tue, 30 Mar 2021 14:58:19 -0700</pubDate>
+ <lastBuildDate>Tue, 30 Mar 2021 15:18:15 -0700</lastBuildDate>
+ <pubDate>Tue, 30 Mar 2021 15:18:15 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: March 31</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2801%2Fgoogle_song.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Cut)  Read: The therapy-app fantasy. The US and 13 other countries have also bashed the report, which concluded that bat → another animal → humans was the likeliest cause of the initial outbreak.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/30/key-performance-indicators-march-31</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/30/key-performance-indicators-march-31</guid>
+  <pubDate>Tue, 30 Mar 2021 15:16:15 -0700</pubDate>
+ </item>
  <item>
   <title>Reader Q&amp;A: What Is Financial Leverage?</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F14rfBl2RMAHtCM%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The idea is to borrow money to make purchases that, over time, can make you far more money than your initial capital could.  In the financial world, investors use the term "leverage" to refer to debt that's used to fund transactions. But while leverage can increase your reward, it can also increase risk, which is where the story of this hedge fund, Archegos Capital Management, comes in.  </description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/vaccine-tracker-march-27?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 27 Mar 2021 10:16:41 -0700</pubDate>
- </item>
- <item>
-  <title>WeWork Is Going Public Via SPAC</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4521%2Fwework.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Now, WeWork is back up to a respectable $9 billion valuation. , to make its debut in the public markets, which have been waiting for WeWork like a prom date at the bottom of the stairs since 2019.  CEO Sandeep Mathrani expects WeWork to turn a profit by the end of this year, following some belt-tightening measures he made last summer. Now, flexible office space is back in demand, and WeWork 2.0 provides just that. WeWork is going public.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/26/wework-going-public-via-spac?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>spac</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/wework-going-public-via-spac?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 27 Mar 2021 10:16:41 -0700</pubDate>
  </item>
 
