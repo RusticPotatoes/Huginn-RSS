@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/31</link>
- <lastBuildDate>Wed, 31 Mar 2021 15:28:14 -0700</lastBuildDate>
- <pubDate>Wed, 31 Mar 2021 15:28:14 -0700</pubDate>
+ <lastBuildDate>Wed, 31 Mar 2021 15:33:18 -0700</lastBuildDate>
+ <pubDate>Wed, 31 Mar 2021 15:33:18 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>New York Becomes the 15th State to Legalize Marijuana</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2503%2Fbig_weed_nugget.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;New York’s cannabis economy is expected to become the second-biggest US market (just after Cali), generating billions in sales and $350 million in annual tax revenue once it fully lights up. Yesterday, NY Gov. Andrew Cuomo signed legislation legalizing the recreational use of marijuana by adults, making New York the 15th state to do so.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/31/new-york-becomes-15th-state-legalize-marijuana</link>
+  <author>Jamie Wilde</author>
+  <categories>marijuana</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/new-york-becomes-15th-state-legalize-marijuana</guid>
+  <pubDate>Wed, 31 Mar 2021 15:31:14 -0700</pubDate>
+ </item>
+ <item>
+  <title>Deliveroo Under-delivers In Its Stock Market Debut</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1306%2Ftakeout.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Why the under-delivery?   Following a landmark court ruling, Uber recently said its UK drivers will receive a minimum wage and benefits, a concession that could set a precedent for the rest of the gig economy.  Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/31/deliveroo-underdelivers-stock-market-debut</link>
+  <author>Jamie Wilde</author>
+  <categories>delivery</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/deliveroo-underdelivers-stock-market-debut</guid>
+  <pubDate>Wed, 31 Mar 2021 15:31:14 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: April 1</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F825%2Famazon.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(MEL Magazine) Read: So when did people start working out? Time to put this story to bed...</description>
@@ -351,24 +369,6 @@
   <author>Matty Merritt</author>
   <categories>shipping</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/29/suez-canal-cleared-blocks-effects-will-still-felt</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
- </item>
- <item>
-  <title>Lil Nas X and MSCHF Sneaker Collab is Making Everyone Mad</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4548%2Fsatan_shoes.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: Lil Nas X timed the sneaker drop with his most recent music video release for “Montero (Call Me By Your Name),” the steamiest take on going to H-E-L-L we’ve ever seen.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/29/lil-nas-x-mschf-sneaker-collab-making-everyone-mad</link>
-  <author>Matty Merritt</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/29/lil-nas-x-mschf-sneaker-collab-making-everyone-mad</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
- </item>
- <item>
-  <title>Why Morning Brew Added Bitcoin to the Markets Section</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F938%2Fbitcoin_bull.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;We think our Markets section will be more relevant to readers with bitcoin in it. It's simply a recognition that finance, just like anything else, is changing, and our newsletter should reflect that. Perhaps you just took a tequila shot out of happiness. In their place, we added 1) bitcoin and 2) a "flex" spot, which will allow us to showcase any security—whether it's a tech stock, oil, or dogecoin—that made an interesting move the previous day.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/29/morning-brew-added-bitcoin-markets-section</link>
-  <author>Neal Freyman</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/29/morning-brew-added-bitcoin-markets-section</guid>
   <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
  </item>
 
