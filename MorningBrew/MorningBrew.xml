@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/31</link>
- <lastBuildDate>Wed, 31 Mar 2021 14:58:16 -0700</lastBuildDate>
- <pubDate>Wed, 31 Mar 2021 14:58:16 -0700</pubDate>
+ <lastBuildDate>Wed, 31 Mar 2021 15:28:14 -0700</lastBuildDate>
+ <pubDate>Wed, 31 Mar 2021 15:28:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: April 1</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F825%2Famazon.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(MEL Magazine) Read: So when did people start working out? Time to put this story to bed...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/31/key-performance-indicators-april-1</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/key-performance-indicators-april-1</guid>
+  <pubDate>Wed, 31 Mar 2021 15:26:14 -0700</pubDate>
+ </item>
  <item>
   <title>72 Black Executives Join the Fight to Protect Voting</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4579%2Fearly_voting_starts_in_ge.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  “The entire rationale for this bill was based on a lie,” Delta boss Ed Bastian wrote in an internal memo.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>markets</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/29/morning-brew-added-bitcoin-markets-section</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
- </item>
- <item>
-  <title>US Vaccine Progress Faces Off With Rising Caseloads</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3379%2Fline_to_get_covid_shots.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Onto the better newsOver one-third of adults (about 95 million people) have received at least one shot, according to the CDC. A lab leak was determined to be "extremely unlikely." In a draft report obtained by the AP, WHO researchers investigating the coronavirus said it most likely jumped from bats to another critter to humans. the latest installment in Covid-19: Origin Story.  + While we're here... Yesterday, Biden pleaded with state and local leaders to maintain or reinstate mask mandates as the rollout continues.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/29/us-vaccine-progress-faces-off-rising-caseloads</link>
-  <author>Alex Hickey</author>
-  <categories>public health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/29/us-vaccine-progress-faces-off-rising-caseloads</guid>
   <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
  </item>
 
