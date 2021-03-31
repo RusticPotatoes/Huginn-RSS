@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/31</link>
- <lastBuildDate>Wed, 31 Mar 2021 10:13:15 -0700</lastBuildDate>
- <pubDate>Wed, 31 Mar 2021 10:13:15 -0700</pubDate>
+ <lastBuildDate>Wed, 31 Mar 2021 10:48:22 -0700</lastBuildDate>
+ <pubDate>Wed, 31 Mar 2021 10:48:22 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Brew’s Quarterly News Quiz: Q1 2021</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/31/brews-quarterly-news-quiz-q1-2021</link>
+  <author>Jamie Wilde</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/brews-quarterly-news-quiz-q1-2021</guid>
+  <pubDate>Wed, 31 Mar 2021 10:46:21 -0700</pubDate>
+ </item>
  <item>
   <title>Morning Brew's 10 Most Popular Articles From the 1st Quarter</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FWoWm8YzFQJg5i%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Business acronyms you should know  Here are Morning Brew's 10 most popular articles from this quarter. What's the hype around air fryers? The growing pet food industry9.</description>
@@ -361,15 +370,6 @@
   <categories>business</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/16/business-acronyms-know-f0b5</guid>
   <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: March 29</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1179%2Fgeorge_floyd_memorial.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Sports: The men’s and women’s college basketball tournaments roll on this week, and MLB’s Opening Day is Thursday. Jobs report: The Labor Department will drop employment numbers for March this Friday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/28/week-ahead-march-29?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/week-ahead-march-29?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 29 Mar 2021 03:01:14 -0700</pubDate>
  </item>
 
 </channel>
