@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/31</link>
- <lastBuildDate>Wed, 31 Mar 2021 03:03:15 -0700</lastBuildDate>
- <pubDate>Wed, 31 Mar 2021 03:03:15 -0700</pubDate>
+ <lastBuildDate>Wed, 31 Mar 2021 10:13:15 -0700</lastBuildDate>
+ <pubDate>Wed, 31 Mar 2021 10:13:15 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Morning Brew's 10 Most Popular Articles From the 1st Quarter</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FWoWm8YzFQJg5i%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Business acronyms you should know  Here are Morning Brew's 10 most popular articles from this quarter. What's the hype around air fryers? The growing pet food industry9.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/31/morning-brews-10-popular-articles-1st-quarter</link>
+  <author>Jamie Wilde</author>
+  <categories>long reads</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/morning-brews-10-popular-articles-1st-quarter</guid>
+  <pubDate>Wed, 31 Mar 2021 10:11:14 -0700</pubDate>
+ </item>
+ <item>
+  <title>Morning Brew Writers Pick the Top Business News Story of Q1</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4567%2Fgamestop_stock_falls_more.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;To me, that's what made GameStop mania the biggest story of the quarter—the broader financial world was forced to acknowledge the power of social media users to move markets. It feels like we're in the early stages of so many emerging crypto applications and I'm excited for what's to come.   I'm hopeful that, as the rollout continues, businesses will be able to operate at full throttle and we can tentatively start seeing what this hyped New Normal thing is all about. The US has done a really good job—as of Tuesday, about 15% of Americans are fully vaccinated and we're on pace to administer 200 million shots in Biden's first 100 days.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/31/morning-brew-writers-pick-top-business-news-story-q1</link>
+  <author>Alex Hickey</author>
+  <categories>analysis</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/morning-brew-writers-pick-top-business-news-story-q1</guid>
+  <pubDate>Wed, 31 Mar 2021 10:11:14 -0700</pubDate>
+ </item>
  <item>
   <title>Reader Q&amp;A: What Is Financial Leverage?</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F14rfBl2RMAHtCM%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The idea is to borrow money to make purchases that, over time, can make you far more money than your initial capital could.  In the financial world, investors use the term "leverage" to refer to debt that's used to fund transactions. But while leverage can increase your reward, it can also increase risk, which is where the story of this hedge fund, Archegos Capital Management, comes in.  </description>
@@ -351,24 +369,6 @@
   <author>Neal Freyman</author>
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/week-ahead-march-29?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 29 Mar 2021 03:01:14 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 29</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4526%2Fthe_office.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(NYT Magazine) Read: An excellent discussion on genomic sequencing.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/28/key-performance-indicators-march-29?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/key-performance-indicators-march-29?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 29 Mar 2021 03:01:14 -0700</pubDate>
- </item>
- <item>
-  <title>Spain Holds Rock Concert for 5,000 People in Covid Test</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4523%2Fspanish_concert.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  The concert was a government-sanctioned test to determine whether events in controlled settings could restart again without contributing to the spread of the coronavirus. Zoom out: Organizers said it was the biggest commercial event held in Europe since the pandemic began.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/28/spain-holds-rock-concert-5000-people-covid-test?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>music</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/spain-holds-rock-concert-5000-people-covid-test?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 29 Mar 2021 03:01:14 -0700</pubDate>
  </item>
 
