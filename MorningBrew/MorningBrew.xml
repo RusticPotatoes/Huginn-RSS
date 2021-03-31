@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/03/31</link>
- <lastBuildDate>Wed, 31 Mar 2021 14:53:13 -0700</lastBuildDate>
- <pubDate>Wed, 31 Mar 2021 14:53:13 -0700</pubDate>
+ <lastBuildDate>Wed, 31 Mar 2021 14:58:16 -0700</lastBuildDate>
+ <pubDate>Wed, 31 Mar 2021 14:58:16 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>72 Black Executives Join the Fight to Protect Voting</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4579%2Fearly_voting_starts_in_ge.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  “The entire rationale for this bill was based on a lie,” Delta boss Ed Bastian wrote in an internal memo.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/31/72-black-executives-join-fight-protect-voting</link>
+  <author>Matty Merritt</author>
+  <categories>voting</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/72-black-executives-join-fight-protect-voting</guid>
+  <pubDate>Wed, 31 Mar 2021 14:56:15 -0700</pubDate>
+ </item>
  <item>
   <title>Biden Releases $2.3 Trillion Infrastructure Plan to Boost US Competitiveness and Combat Climate Change</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F781%2F1_train_in_nyc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Biden will introduce Part 2 of his economic spending proposal in the next few weeks, called the American Family Plan. To help pay for it, Biden wants to bump up the corporate tax from 21% to 28% and close other tax loopholes. For the climate, the plan “would be the most far-reaching federal investment to date in programs that would help curb greenhouse gas emissions,” writes Axios. $400 billion to caregiving efforts for the elderly and those with disabilities.  $650 billion to improve your life at home, including investments in high-speed broadband and the electric grid.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>public health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/29/us-vaccine-progress-faces-off-rising-caseloads</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
- </item>
- <item>
-  <title>NFTs: Frequently Asked Questions</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FVypJYbpuh7ZtK%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And yes, you can make money off of an NFT by buying and reselling it for more.  An NFT is “a type of cryptographic token,” Emerging Tech Brew writer Ryan Duffy explains, but NFTs are different from cryptocurrencies because they’re not interchangeable.   When a digital asset goes on sale, you’re randomly chosen to buy it. Can I make money on it? One reason to buy an NFT is for its emotional value, which isn’t so different from physical objects... They buy it for the way it makes them feel. The same can be true for a GIF, image, video, or other digital asset.  On Top Shot for instance, you register to join a waitlist that can be thousands of NBA fans long. Defining the blockchain is a whole ‘nother can of worms that you can read about here.  How do you buy an NFT?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/24/nft-frequently-asked-questions</link>
-  <author>Jamie Wilde</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/24/nft-frequently-asked-questions</guid>
   <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
  </item>
 
