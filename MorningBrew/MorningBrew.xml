@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/01</link>
- <lastBuildDate>Thu, 01 Apr 2021 03:03:21 -0700</lastBuildDate>
- <pubDate>Thu, 01 Apr 2021 03:03:21 -0700</pubDate>
+ <lastBuildDate>Thu, 01 Apr 2021 14:48:14 -0700</lastBuildDate>
+ <pubDate>Thu, 01 Apr 2021 14:48:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Brew’s Weekly News Quiz: April 2</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/01/brews-weekly-news-quiz-april-2</link>
+  <author>Jamie Wilde</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/01/brews-weekly-news-quiz-april-2</guid>
+  <pubDate>Thu, 01 Apr 2021 14:46:14 -0700</pubDate>
+ </item>
  <item>
   <title>Deliveroo Under-delivers In Its Stock Market Debut</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1306%2Ftakeout.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Why the under-delivery?   Following a landmark court ruling, Uber recently said its UK drivers will receive a minimum wage and benefits, a concession that could set a precedent for the rest of the gig economy.  Looking ahead...</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>music</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/spain-holds-rock-concert-5000-people-covid-test</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
- </item>
- <item>
-  <title>Ever Given, the Ship Stuck in the Suez Canal, Has Been Partially Refloated</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4525%2Fship_stuck_in_suez_canal.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: If the Ever Given can fully break free today and allow traffic to pass, the shipping industry can avoid the worst scarring, according to the NYT. You can get deep about it.  The Ever Given, a mind-bogglingly huge container ship that’s been blocking the Suez Canal for almost a week, holding up an estimated $9.6 billion in goods a day, is way less stuck than it used to be.   But that hasn’t stopped everyone from having a little fun at the ship’s expense—okay, a lot of fun. The moon.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/28/ever-given-still-stuck-suez-canal-salvagers-eye-progress</link>
-  <author>Neal Freyman</author>
-  <categories>shipping</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/ever-given-still-stuck-suez-canal-salvagers-eye-progress</guid>
   <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
  </item>
 
