@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/03/31/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/03/31/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/01/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/03/31</link>
- <lastBuildDate>Wed, 31 Mar 2021 15:33:18 -0700</lastBuildDate>
- <pubDate>Wed, 31 Mar 2021 15:33:18 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/01</link>
+ <lastBuildDate>Thu, 01 Apr 2021 03:03:21 -0700</lastBuildDate>
+ <pubDate>Thu, 01 Apr 2021 03:03:21 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Deliveroo Under-delivers In Its Stock Market Debut</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1306%2Ftakeout.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Why the under-delivery?   Following a landmark court ruling, Uber recently said its UK drivers will receive a minimum wage and benefits, a concession that could set a precedent for the rest of the gig economy.  Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/31/deliveroo-underdelivers-stock-market-debut?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>delivery</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/deliveroo-underdelivers-stock-market-debut?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 01 Apr 2021 03:01:21 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 1</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F825%2Famazon.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(MEL Magazine) Read: When did people start working out? Time to put this story to bed...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/31/key-performance-indicators-april-1?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/key-performance-indicators-april-1?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 01 Apr 2021 03:01:21 -0700</pubDate>
+ </item>
+ <item>
+  <title>New York Becomes the 15th State to Legalize Marijuana</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2503%2Fbig_weed_nugget.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Two takeaways from NY’s Marijuana Regulation and Taxation Act1. New York’s cannabis economy is expected to become the second-biggest US market (just after Cali), generating billions in sales and $350 million in annual tax revenue once it fully lights up. Looking ahead... 2.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/31/new-york-becomes-15th-state-legalize-marijuana?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>cannabis</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/new-york-becomes-15th-state-legalize-marijuana?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 01 Apr 2021 03:01:21 -0700</pubDate>
+ </item>
+ <item>
+  <title>72 Black Executives Join the Fight to Protect Voting</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4579%2Fearly_voting_starts_in_ge.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Kenneth Chenault, former CEO of American Express, and Kenneth Frazier, CEO of pharma giant Merck, spearheaded a letter signed by 72 Black executives to oppose restrictive voting bills across the US, specifically the one passed in Georgia last Thursday. Civil rights activists took specific aim at Georgia-based companies that they felt were staying too quiet.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/31/72-black-executives-join-fight-protect-voting?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>civil rights</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/72-black-executives-join-fight-protect-voting?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 01 Apr 2021 03:01:20 -0700</pubDate>
+ </item>
+ <item>
+  <title>Biden Releases $2.3 Trillion Infrastructure Plan to Boost US Competitiveness and Combat Climate Change</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F781%2F1_train_in_nyc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Biden will introduce Part 2 of his economic spending proposal in the next few weeks, called the American Family Plan. To help pay for it, Biden wants to bump up the corporate tax from 21% to 28% and close other tax loopholes. For the climate, the plan “would be the most far-reaching federal investment to date in programs that would help curb greenhouse gas emissions,” writes Axios. $400 billion to caregiving efforts for the elderly and those with disabilities.  $650 billion to improve your life at home, like investments in high-speed broadband and the electric grid.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/03/31/biden-releases-23-trillion-infrastructure-plan-boost-us-competitiveness-combat-climate-change?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/biden-releases-23-trillion-infrastructure-plan-boost-us-competitiveness-combat-climate-change?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 01 Apr 2021 03:01:20 -0700</pubDate>
+ </item>
  <item>
   <title>New York Becomes the 15th State to Legalize Marijuana</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2503%2Fbig_weed_nugget.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;New York’s cannabis economy is expected to become the second-biggest US market (just after Cali), generating billions in sales and $350 million in annual tax revenue once it fully lights up. Yesterday, NY Gov. Andrew Cuomo signed legislation legalizing the recreational use of marijuana by adults, making New York the 15th state to do so.</description>
@@ -325,51 +370,6 @@
   <categories>shipping</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/ever-given-still-stuck-suez-canal-salvagers-eye-progress</guid>
   <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 29</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4526%2Fthe_office.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(NYT Magazine) Read: An excellent discussion on genomic sequencing.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/28/key-performance-indicators-march-29</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/key-performance-indicators-march-29</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: March 29</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1179%2Fgeorge_floyd_memorial.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Sports: The men’s and women’s college basketball tournaments roll on this week, and MLB’s Opening Day is Thursday. Jobs report: The Labor Department will drop employment numbers for March this Friday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/28/week-ahead-march-29</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/week-ahead-march-29</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
- </item>
- <item>
-  <title>Wall Street Mystery Swirls Over Massive Block Trades</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxThtavoJ6AX69jbG2A%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A block trade is when huge amounts of shares trade hands, typically through negotiation outside of the open market to keep stock prices stable. Basically, what allegedly happened is that Archegos's lenders forced it to sell more than $20 billion worth of shares on Friday. In Saturday’s Brew, we noted that shares in Discovery and ViacomCBS had plunged on Friday following analyst downgrades.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/28/wall-street-mystery-swirls-massive-block-trades</link>
-  <author>Neal Freyman</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/wall-street-mystery-swirls-massive-block-trades</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 30</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4546%2Ffrance-demo-drug-cannabis.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Atlantic)  Read: How mRNA technology could change the world.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/29/key-performance-indicators-march-30</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/29/key-performance-indicators-march-30</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
- </item>
- <item>
-  <title>Suez Canal is Cleared, but Blocks Effects Will Still Be Felt</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4547%2Fever_given.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Zoom out: The clog blocked more than 10% of global shipping traffic and brought up lots of talk about the fragility of global supply chains.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/29/suez-canal-cleared-blocks-effects-will-still-felt</link>
-  <author>Matty Merritt</author>
-  <categories>shipping</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/29/suez-canal-cleared-blocks-effects-will-still-felt</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:18 -0700</pubDate>
  </item>
 
 </channel>
