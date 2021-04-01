@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/01</link>
- <lastBuildDate>Thu, 01 Apr 2021 14:48:14 -0700</lastBuildDate>
- <pubDate>Thu, 01 Apr 2021 14:48:14 -0700</pubDate>
+ <lastBuildDate>Thu, 01 Apr 2021 14:58:16 -0700</lastBuildDate>
+ <pubDate>Thu, 01 Apr 2021 14:58:16 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Three Visions of a Rail Future in the US</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2887%2Fjoe_biden_amtrak.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Alfred Twu 3. This next map, created by graphic designer Alfred Twu in 2013, envisions a Captain America-style, high-speed rail network across the US. It's not considered realistic.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/01/three-visions-rail-future-us</link>
+  <author>Neal Freyman</author>
+  <categories>transportation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/01/three-visions-rail-future-us</guid>
+  <pubDate>Thu, 01 Apr 2021 14:56:16 -0700</pubDate>
+ </item>
  <item>
   <title>The Brew’s Weekly News Quiz: April 2</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/key-performance-indicators-march-27</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
- </item>
- <item>
-  <title>Spain Holds Rock Concert for 5,000 People in Covid Test</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4523%2Fspanish_concert.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  The concert was a government-sanctioned test to determine whether events in controlled settings could restart again without contributing to the spread of the coronavirus. Zoom out: Organizers said it was the biggest commercial event held in Europe since the pandemic began.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/28/spain-holds-rock-concert-5000-people-covid-test</link>
-  <author>Neal Freyman</author>
-  <categories>music</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/28/spain-holds-rock-concert-5000-people-covid-test</guid>
   <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
  </item>
 
