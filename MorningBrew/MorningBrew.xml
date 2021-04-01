@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/01</link>
- <lastBuildDate>Thu, 01 Apr 2021 14:58:16 -0700</lastBuildDate>
- <pubDate>Thu, 01 Apr 2021 14:58:16 -0700</pubDate>
+ <lastBuildDate>Thu, 01 Apr 2021 15:18:13 -0700</lastBuildDate>
+ <pubDate>Thu, 01 Apr 2021 15:18:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Goldman Sachs, Google, and Amazon Prepare for Return to Office</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4597%2Fwfh.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Microsoft itself is already allowing some workers back, with part-time remote as the new standard.  Citigroup CEO Jane Fraser also plans on 3 days/week in the office for most employees after the pandemic.  Goldman Sachs told summer interns they're headed to TriBeCa.Wells Fargo told employees it's eyeing a return after Labor Day.Amazon said it's bringing Seattle HQ employees back in time for sweater weather. Moretti argues the pull of industries in certain cities, packed bars, and Shawarma Guys is too strong for most people to work remote full-time in the long run.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/01/goldman-sachs-google-amazon-prepare-return-office</link>
+  <author>Alex Hickey</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/01/goldman-sachs-google-amazon-prepare-return-office</guid>
+  <pubDate>Thu, 01 Apr 2021 15:16:13 -0700</pubDate>
+ </item>
  <item>
   <title>Three Visions of a Rail Future in the US</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2887%2Fjoe_biden_amtrak.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Alfred Twu 3. This next map, created by graphic designer Alfred Twu in 2013, envisions a Captain America-style, high-speed rail network across the US. It's not considered realistic.</description>
@@ -360,15 +369,6 @@
   <author>Toby Howell</author>
   <categories>election</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/dominion-voting-systems-files-16-billion-lawsuit-fox-news</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 27</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1105%2Fstreaming.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Guernica)  Read: Your Saturday deep dive into the underworld of finch smuggling. The ship will probably remain stuck in the canal, blocking all traffic, until at least next week.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/26/key-performance-indicators-march-27</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/key-performance-indicators-march-27</guid>
   <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
  </item>
 
