@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/01</link>
- <lastBuildDate>Thu, 01 Apr 2021 15:18:13 -0700</lastBuildDate>
- <pubDate>Thu, 01 Apr 2021 15:18:13 -0700</pubDate>
+ <lastBuildDate>Thu, 01 Apr 2021 15:23:13 -0700</lastBuildDate>
+ <pubDate>Thu, 01 Apr 2021 15:23:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Budget Airlines Signify a Boom for Industry</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxUOxeZc41DVT2l9laU%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Frontier Airlines raised $570 million in an IPO yesterday, becoming the second budget airline (after Sun Country) to go public this year. US airports have recorded nearly three weeks of 1+ million daily passengers, and American Airlines said spring bookings are at 90% of 2019 levels.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/01/budget-airlines-signify-boom-industry</link>
+  <author>Matty Merritt</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/01/budget-airlines-signify-boom-industry</guid>
+  <pubDate>Thu, 01 Apr 2021 15:21:13 -0700</pubDate>
+ </item>
  <item>
   <title>Goldman Sachs, Google, and Amazon Prepare for Return to Office</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4597%2Fwfh.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Microsoft itself is already allowing some workers back, with part-time remote as the new standard.  Citigroup CEO Jane Fraser also plans on 3 days/week in the office for most employees after the pandemic.  Goldman Sachs told summer interns they're headed to TriBeCa.Wells Fargo told employees it's eyeing a return after Labor Day.Amazon said it's bringing Seattle HQ employees back in time for sweater weather. Moretti argues the pull of industries in certain cities, packed bars, and Shawarma Guys is too strong for most people to work remote full-time in the long run.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>demographics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/germany-avoids-baby-bust-rising-birth-rates</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
- </item>
- <item>
-  <title>Dominion Voting Systems Files $1.6 Billion Lawsuit Against Fox News</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F69%2Fvoting_booths.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And yesterday, lawyers for Dominion left the door open for going after individual Fox News broadcasters as well. Dominion Voting Systems ditched the Hawaiian shirt and khakis yesterday, instead filing a $1.6 billion lawsuit against Fox News.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/26/dominion-voting-systems-files-16-billion-lawsuit-fox-news</link>
-  <author>Toby Howell</author>
-  <categories>election</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/dominion-voting-systems-files-16-billion-lawsuit-fox-news</guid>
   <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
  </item>
 
