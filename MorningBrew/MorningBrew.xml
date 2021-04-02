@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/01/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/02/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/01</link>
- <lastBuildDate>Thu, 01 Apr 2021 15:28:14 -0700</lastBuildDate>
- <pubDate>Thu, 01 Apr 2021 15:28:14 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/02</link>
+ <lastBuildDate>Fri, 02 Apr 2021 04:03:16 -0700</lastBuildDate>
+ <pubDate>Fri, 02 Apr 2021 04:03:16 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Three Visions of a Rail Future in the US</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2887%2Fjoe_biden_amtrak.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This next map, created by graphic designer Alfred Twu in 2013, envisions a Captain America-style, high-speed rail network across the US. Queaugie It's not considered realistic.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/01/three-visions-rail-future-us?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>transportation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/01/three-visions-rail-future-us?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 02 Apr 2021 04:01:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 2</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FUQnKf9uzu9oNJ8UEOJ%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Not Fun at Parties) com about the Ever Given explains what it was like to run a viral website.  Read: The guy who created istheshipstillstuck.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/01/key-performance-indicators-april-2?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/01/key-performance-indicators-april-2?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 02 Apr 2021 04:01:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>'Godzilla vs. Kong' Opened With a Boom, Netflix Bought 'Knives Out' Series</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4603%2Fkong_vs_godzilla.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;As more streaming services crowd consumers, Netflix has realized more seasons of Love is Blind just isn't enough to grow its subscriber base and sealed one of the biggest deals ever for the rights to a movie series.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/01/godzilla-vs-kong-opened-boom-netflix-bought-knives-series?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>movies</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/01/godzilla-vs-kong-opened-boom-netflix-bought-knives-series?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 02 Apr 2021 04:01:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>Budget Airlines Signify a Boom for Industry</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxUOxeZc41DVT2l9laU%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Frontier Airlines raised $570 million in an IPO yesterday, becoming the second budget airline (after Sun Country) to go public this year. US airports have recorded nearly three weeks of 1+ million daily passengers, and American Airlines said spring bookings are at 90% of 2019 levels.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/01/budget-airlines-signify-boom-industry?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/01/budget-airlines-signify-boom-industry?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 02 Apr 2021 04:01:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>Goldman Sachs, Google, and Amazon Prepare for Return to Office</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4597%2Fwfh.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Microsoft itself is already allowing some workers back, with part-time remote as the new standard.  Citigroup CEO Jane Fraser also plans on 3 days/week in the office for most employees after the pandemic.  Goldman Sachs told summer interns they're headed to TriBeCa.Wells Fargo told employees it's eyeing a return after Labor Day.Amazon said it's bringing Seattle HQ employees back in time for sweater weather. Moretti argues the pull of certain industries, packed bars, and Shawarma Guys is too strong for most people to work remote full-time in the long run.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/01/goldman-sachs-google-amazon-prepare-return-office?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/01/goldman-sachs-google-amazon-prepare-return-office?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 02 Apr 2021 04:01:15 -0700</pubDate>
+ </item>
  <item>
   <title>'Godzilla vs. Kong' Opened With a Boom, Netflix Bought 'Knives Out' Series</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4603%2Fkong_vs_godzilla.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;As more streaming services crowd consumers, Netflix has realized more seasons of Love is Blind just isn't enough to grow its subscriber base and sealed one of the biggest deals ever for the rights to a movie series.</description>
@@ -324,51 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>quiz</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/25/brews-weekly-news-quiz-march-26</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Mini: Hard Difficulty</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-hard-difficulty</link>
-  <author>Neal Freyman</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-hard-difficulty</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Mini: Medium Difficulty</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-medium-difficulty</link>
-  <author>Neal Freyman</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-medium-difficulty</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
- </item>
- <item>
-  <title>Light Roast Is Dead, Long Live Sunday Edition</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fugair49WE2di0%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It will add a bunch of fresh sections to the Brew’s current lineup, including:A work advice columnAnalysis of a juicy news topicZillow surfingMeme contestInterviews with really cool peopleWhereas our daily newsletter is tied to the business news cycle like a tongue to a pole in winter, Sunday Edition will be free to roam and explore more general interest topics with a grounding in business. Sunday Edition will be available for everyone, which allows us to devote more resources to this newsletter and provide readers with top-tier content. But in the meantime, I want to share the basic structure of the new newsletter, give Light Roast a proper send-off, and explain why we decided to make the change.  Light Roast provided a fantastic space for us writers to connect with Brew readers on a more personal level, one that we will certainly miss. We are replacing Light Roast with a new reward.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/26/light-roast-dead-long-live-sunday-edition</link>
-  <author>Toby Howell</author>
-  <categories>big deal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/light-roast-dead-long-live-sunday-edition</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
- </item>
- <item>
-  <title>Vaccine Tracker: March 27</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4519%2Fvaccine_map.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At the current rate, the US would hit President Biden’s new goal of 200 million shots administered in his first 100 days. Moderna said earlier this month it had started testing its vaccine on kids.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/26/vaccine-tracker-march-27</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/vaccine-tracker-march-27</guid>
-  <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Mini: Easy Difficulty</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-easy-difficulty</link>
-  <author>Toby Howell</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/26/brew-mini-easy-difficulty</guid>
   <pubDate>Tue, 30 Mar 2021 13:54:19 -0700</pubDate>
  </item>
 
