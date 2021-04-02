@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/02</link>
- <lastBuildDate>Fri, 02 Apr 2021 14:58:15 -0700</lastBuildDate>
- <pubDate>Fri, 02 Apr 2021 14:58:15 -0700</pubDate>
+ <lastBuildDate>Fri, 02 Apr 2021 15:03:15 -0700</lastBuildDate>
+ <pubDate>Fri, 02 Apr 2021 15:03:15 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>MLB Moves Its All-Star Game From Georgia Over Voting Rights Law</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4622%2Fmlb_opening_day_postponed.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Major League Baseball announced it was moving its All-Star Game and the 2021 draft out of Georgia due to the state’s new restrictive voting law.   We’ll see if others will follow.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/02/mlb-moves-allstar-game-georgia-voting-rights-law</link>
+  <author>Neal Freyman</author>
+  <categories>civil rights</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/mlb-moves-allstar-game-georgia-voting-rights-law</guid>
+  <pubDate>Fri, 02 Apr 2021 15:01:15 -0700</pubDate>
+ </item>
  <item>
   <title>Vaccine Tracker: April 3</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;In the US…the latest numbers from the White House: more than 100 million Americans (almost a third of the population) have received their first dose of a coronavirus vaccine, and yesterday the US administered 3.975 million doses, a new daily record.</description>
@@ -361,15 +370,6 @@
   <categories>creator economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/30/cameo-becomes-unicorn</guid>
   <pubDate>Tue, 30 Mar 2021 15:21:15 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: March 31</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2801%2Fgoogle_song.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Cut)  Read: The therapy-app fantasy. The US and 13 other countries have also bashed the report, which concluded that bat → another animal → humans was the likeliest cause of the initial outbreak.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/30/key-performance-indicators-march-31</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/30/key-performance-indicators-march-31</guid>
-  <pubDate>Tue, 30 Mar 2021 15:16:15 -0700</pubDate>
  </item>
 
 </channel>
