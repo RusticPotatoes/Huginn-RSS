@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/02</link>
- <lastBuildDate>Fri, 02 Apr 2021 14:38:21 -0700</lastBuildDate>
- <pubDate>Fri, 02 Apr 2021 14:38:21 -0700</pubDate>
+ <lastBuildDate>Fri, 02 Apr 2021 14:48:13 -0700</lastBuildDate>
+ <pubDate>Fri, 02 Apr 2021 14:48:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>New Data Found M&amp;A Boomed During Q1</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxT9DPIlGnuHpr2yObu%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Private equity deals worldwide rose 116% from last year, making this PE’s strongest Q1 ever EVER. Mergers and acquisitions did gangbusters last quarter, breaking all-time Q1 records for global M&amp;A and private equity-backed deals, according to Refinitiv. Looking ahead.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/02/new-data-found-ma-boomed-q1</link>
+  <author>Matty Merritt</author>
+  <categories>manda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/new-data-found-ma-boomed-q1</guid>
+  <pubDate>Fri, 02 Apr 2021 14:46:12 -0700</pubDate>
+ </item>
  <item>
   <title>HYBE Acquires Scooter Braun’s Ithaca Holdings for $1 Billion</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FibpyzXXfbiy1UkGRRO%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;HYBE acquired Ithaca Holdings for about $1 billion yesterday, but unless you own some turntables, you might want a refresher on who these two audio giants are:HYBE is a South Korean music company formerly named Big Hit Entertainment. It’s unclear exactly what that’ll look like, but if BTS’s rabid “Army” fan club backs it, it’ll be big.</description>
@@ -361,15 +370,6 @@
   <categories>work</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/30/amazon-unionization-vote-heres-watch</guid>
   <pubDate>Tue, 30 Mar 2021 14:51:16 -0700</pubDate>
- </item>
- <item>
-  <title>US Home Prices Hit 7-Year High</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F106%2Fhousing_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Some experts think rising mortgage rates could cool the market. But as the pool of would-be buyers has grown, supply's gotten tighter than a Lower East Side kitchen: In February, available homes fell nearly a third to just over 1 million.   </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/30/us-home-prices-hit-7year-high</link>
-  <author>Alex Hickey</author>
-  <categories>real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/30/us-home-prices-hit-7year-high</guid>
-  <pubDate>Tue, 30 Mar 2021 14:46:16 -0700</pubDate>
  </item>
 
 </channel>
