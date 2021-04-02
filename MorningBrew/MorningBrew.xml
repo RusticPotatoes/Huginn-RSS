@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/02</link>
- <lastBuildDate>Fri, 02 Apr 2021 14:48:13 -0700</lastBuildDate>
- <pubDate>Fri, 02 Apr 2021 14:48:13 -0700</pubDate>
+ <lastBuildDate>Fri, 02 Apr 2021 14:58:15 -0700</lastBuildDate>
+ <pubDate>Fri, 02 Apr 2021 14:58:15 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Vaccine Tracker: April 3</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;In the US…the latest numbers from the White House: more than 100 million Americans (almost a third of the population) have received their first dose of a coronavirus vaccine, and yesterday the US administered 3.975 million doses, a new daily record.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/02/vaccine-tracker-april-3</link>
+  <author>Jamie Wilde</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/vaccine-tracker-april-3</guid>
+  <pubDate>Fri, 02 Apr 2021 14:56:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>US Hiring Surges in March With Bigger Rebound in Sight</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4621%2Fyou_re_hired_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The economy basically just raised a $1.9 trillion Series E in the form of Biden’s stimulus plan.  The biggest winners: Leisure and hospitality = 280,000 jobs added.   Of the 20+ million jobs lost in March and April of 2020, 8.4 million jobs have yet to be recovered.   The economy added 916,000 jobs in March, the biggest gain since last August and way up from the 468,000 added in February.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/02/us-hiring-surges-march-bigger-rebound-sight</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/us-hiring-surges-march-bigger-rebound-sight</guid>
+  <pubDate>Fri, 02 Apr 2021 14:56:15 -0700</pubDate>
+ </item>
  <item>
   <title>New Data Found M&amp;A Boomed During Q1</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxT9DPIlGnuHpr2yObu%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Private equity deals worldwide rose 116% from last year, making this PE’s strongest Q1 ever EVER. Mergers and acquisitions did gangbusters last quarter, breaking all-time Q1 records for global M&amp;A and private equity-backed deals, according to Refinitiv. Looking ahead.</description>
@@ -352,24 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/30/key-performance-indicators-march-31</guid>
   <pubDate>Tue, 30 Mar 2021 15:16:15 -0700</pubDate>
- </item>
- <item>
-  <title>Reader Q&amp;A: What Is Financial Leverage?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F14rfBl2RMAHtCM%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The idea is to borrow money to make purchases that, over time, can make you far more money than your initial capital could.  In the financial world, investors use the term "leverage" to refer to debt that's used to fund transactions. But while leverage can increase your reward, it can also increase risk, which is where the story of this hedge fund, Archegos Capital Management, comes in.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/30/reader-qa-financial-leverage</link>
-  <author>Neal Freyman</author>
-  <categories>explainer</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/30/reader-qa-financial-leverage</guid>
-  <pubDate>Tue, 30 Mar 2021 14:56:18 -0700</pubDate>
- </item>
- <item>
-  <title>Amazon Unionization Vote: Here's What to Watch</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F825%2Famazon.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  There's a close race to follow in Bessemer, AL, that decides whether or not 6,000 Amazon warehouse workers unionize. Union organizers may bring up Amazon's anti-union messaging campaign at the warehouse, which even followed workers into the bathroom. Plus, workers already get healthcare, vision, and dental benefits without paying union dues.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/30/amazon-unionization-vote-heres-watch</link>
-  <author>Alex Hickey</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/30/amazon-unionization-vote-heres-watch</guid>
-  <pubDate>Tue, 30 Mar 2021 14:51:16 -0700</pubDate>
  </item>
 
 </channel>
