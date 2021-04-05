@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/05</link>
- <lastBuildDate>Mon, 05 Apr 2021 14:53:48 -0700</lastBuildDate>
- <pubDate>Mon, 05 Apr 2021 14:53:48 -0700</pubDate>
+ <lastBuildDate>Mon, 05 Apr 2021 14:58:52 -0700</lastBuildDate>
+ <pubDate>Mon, 05 Apr 2021 14:58:52 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Google Wins in Decades-Long Battle with Oracle</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F858%2Fsupreme_court.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The ruling handed Google a W in its decade-long copyright battle with Oracle over the origins of one of the most important software programs used today.  Expect future battles.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/05/google-wins-decadeslong-battle-oracle</link>
+  <author>Matty Merritt</author>
+  <categories>copyright</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/05/google-wins-decadeslong-battle-oracle</guid>
+  <pubDate>Mon, 05 Apr 2021 14:56:52 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: April 6</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4641%2Fgenesis_drones_in_the_air.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(MIT Tech Review) Read: How beauty filters took over social media and changed the way young girls see themselves.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>movies</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/01/godzilla-vs-kong-opened-boom-netflix-bought-knives-series</guid>
-  <pubDate>Thu, 01 Apr 2021 15:26:13 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 2</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FUQnKf9uzu9oNJ8UEOJ%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Not Fun at Parties) com about the Ever Given explains what it was like to run a viral website.  Read: The guy who created istheshipstillstuck.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/01/key-performance-indicators-april-2</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/01/key-performance-indicators-april-2</guid>
   <pubDate>Thu, 01 Apr 2021 15:26:13 -0700</pubDate>
  </item>
 
