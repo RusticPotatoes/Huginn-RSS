@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/04/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/05/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/04</link>
- <lastBuildDate>Sun, 04 Apr 2021 17:13:49 -0700</lastBuildDate>
- <pubDate>Sun, 04 Apr 2021 17:13:49 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/05</link>
+ <lastBuildDate>Mon, 05 Apr 2021 03:03:45 -0700</lastBuildDate>
+ <pubDate>Mon, 05 Apr 2021 03:03:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: April 5</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4626%2Fmlb_opening_day_postponed.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Stanford won the women’s title in another wild game last night. Georgia bill: After MLB said it’s moving the All-Star Game out of Atlanta due to the state’s new voting rights bill, everyone’s wondering...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/04/week-ahead-april-5?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/week-ahead-april-5?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 05 Apr 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 5</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4628%2Fjapanese_cherry_blossoms.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s going to make US housing permanently more expensive.” (BBC)  Read: The real reason humans are the dominant species.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/04/key-performance-indicators-april-5?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/key-performance-indicators-april-5?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 05 Apr 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>How Archegos Capital Lost $8 Billion in 10 Days</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxUOwGpwX0H5RLKNlio%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; But he was still able to manage his own money, and manage it well he did. Hwang grew his own business 900% over seven years using complex financial tools called swaps.   It was the “biggest single-firm meltdown since the financial crisis,” per the WSJ, and it’s causing introspection in finance about the ability of private family offices to cause market havoc.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/04/archegos-capital-lost-8-billion-10-days?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>wealth</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/archegos-capital-lost-8-billion-10-days?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 05 Apr 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Amazon Apologizes For Denying Delivery Drivers Have to Pee in Bottles</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4627%2Fus-it-politics-labor-amaz.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In the last few weeks, Amazon execs have sparred with Senators Bernie Sanders and Elizabeth Warren, two of Amazon’s biggest bashers.  The backstory: A little over a week ago, Pocan tweeted that Amazon wasn’t a “progressive workplace” because its workers had to urinate in bottles. Turns out, Pocan did.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/04/amazon-apologies-denying-delivery-drivers-pee-bottles?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>delivery</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/amazon-apologies-denying-delivery-drivers-pee-bottles?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 05 Apr 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Pandemic-Era Investing Trends Like SPACs Stumble Into Spring</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FsIIhZliB2McAo%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  one index that measures SPAC performance has entered a bear market, and SPAC pioneer Chamath Palihapitiya recently admitted, “The SPAC market has taken a real beating.” How it’s going…after gaining almost 150% in January, an index that tracks meme stocks hasn’t budged during the past two months, according to Bloomberg. average prices for NFTs have tumbled 70% since their February high, per the NFT marketplace tracker nonfungible. as we've seen with the resurgence of bitcoin following its 2018 collapse, just because interest in an investment class dies down now doesn’t mean its star won’t shine again. Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/04/pandemicera-investing-trends-like-spacs-stumble-spring?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>investing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/pandemicera-investing-trends-like-spacs-stumble-spring?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 05 Apr 2021 03:01:54 -0700</pubDate>
+ </item>
  <item>
   <title>Pandemic-Era Investing Trends Like SPACs Stumble Into Spring</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4445%2Fpizza_hut.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;one index that measures SPAC performance has entered a bear market, and SPAC pioneer Chamath Palihapitiya recently admitted, “The SPAC market has taken a real beating.” average prices for NFTs have tumbled 70% since their February high, per the NFT marketplace tracker nonfungible. How it’s going…an index that tracks meme stocks hasn’t budged during the past two months after gaining almost 150% in January, according to Bloomberg. as the acute public health threat of Covid-19 fades over the next few months, it'll be interesting to review the extent to which recent investing behaviors were driven purely by the inability to participate in other activities. Looking ahead...</description>
@@ -325,51 +370,6 @@
   <categories>delivery</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/deliveroo-underdelivers-stock-market-debut?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 01 Apr 2021 03:01:21 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 1</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F825%2Famazon.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(MEL Magazine) Read: When did people start working out? Time to put this story to bed...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/31/key-performance-indicators-april-1?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/key-performance-indicators-april-1?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 01 Apr 2021 03:01:21 -0700</pubDate>
- </item>
- <item>
-  <title>New York Becomes the 15th State to Legalize Marijuana</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2503%2Fbig_weed_nugget.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Two takeaways from NY’s Marijuana Regulation and Taxation Act1. New York’s cannabis economy is expected to become the second-biggest US market (just after Cali), generating billions in sales and $350 million in annual tax revenue once it fully lights up. Looking ahead... 2.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/31/new-york-becomes-15th-state-legalize-marijuana?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>cannabis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/new-york-becomes-15th-state-legalize-marijuana?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 01 Apr 2021 03:01:21 -0700</pubDate>
- </item>
- <item>
-  <title>72 Black Executives Join the Fight to Protect Voting</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4579%2Fearly_voting_starts_in_ge.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Kenneth Chenault, former CEO of American Express, and Kenneth Frazier, CEO of pharma giant Merck, spearheaded a letter signed by 72 Black executives to oppose restrictive voting bills across the US, specifically the one passed in Georgia last Thursday. Civil rights activists took specific aim at Georgia-based companies that they felt were staying too quiet.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/31/72-black-executives-join-fight-protect-voting?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>civil rights</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/72-black-executives-join-fight-protect-voting?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 01 Apr 2021 03:01:20 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Releases $2.3 Trillion Infrastructure Plan to Boost US Competitiveness and Combat Climate Change</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F781%2F1_train_in_nyc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Biden will introduce Part 2 of his economic spending proposal in the next few weeks, called the American Family Plan. To help pay for it, Biden wants to bump up the corporate tax from 21% to 28% and close other tax loopholes. For the climate, the plan “would be the most far-reaching federal investment to date in programs that would help curb greenhouse gas emissions,” writes Axios. $400 billion to caregiving efforts for the elderly and those with disabilities.  $650 billion to improve your life at home, like investments in high-speed broadband and the electric grid.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/31/biden-releases-23-trillion-infrastructure-plan-boost-us-competitiveness-combat-climate-change?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/biden-releases-23-trillion-infrastructure-plan-boost-us-competitiveness-combat-climate-change?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 01 Apr 2021 03:01:20 -0700</pubDate>
- </item>
- <item>
-  <title>New York Becomes the 15th State to Legalize Marijuana</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2503%2Fbig_weed_nugget.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;New York’s cannabis economy is expected to become the second-biggest US market (just after Cali), generating billions in sales and $350 million in annual tax revenue once it fully lights up. Yesterday, NY Gov. Andrew Cuomo signed legislation legalizing the recreational use of marijuana by adults, making New York the 15th state to do so.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/31/new-york-becomes-15th-state-legalize-marijuana</link>
-  <author>Jamie Wilde</author>
-  <categories>marijuana</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/new-york-becomes-15th-state-legalize-marijuana</guid>
-  <pubDate>Wed, 31 Mar 2021 15:31:14 -0700</pubDate>
  </item>
 
 </channel>
