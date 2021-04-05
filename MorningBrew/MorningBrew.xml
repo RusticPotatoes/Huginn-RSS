@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/04</link>
- <lastBuildDate>Sun, 04 Apr 2021 17:03:50 -0700</lastBuildDate>
- <pubDate>Sun, 04 Apr 2021 17:03:50 -0700</pubDate>
+ <lastBuildDate>Sun, 04 Apr 2021 17:08:50 -0700</lastBuildDate>
+ <pubDate>Sun, 04 Apr 2021 17:08:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>How Archegos Capital Lost $8 Billion in 10 Days</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxUOwGpwX0H5RLKNlio%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; But he was still able to manage his own money, and manage it well he did. Hwang grew his own business 900% over seven years using complex financial tools called swaps.   It was the “biggest single-firm meltdown since the financial crisis,” per the WSJ, and it’s causing introspection in finance about the ability of private family offices to cause market havoc.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/04/archegos-capital-lost-8-billion-10-days</link>
+  <author>Neal Freyman</author>
+  <categories>wealth</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/archegos-capital-lost-8-billion-10-days</guid>
+  <pubDate>Sun, 04 Apr 2021 17:06:47 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: April 5</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4628%2Fjapanese_cherry_blossoms.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s going to make US housing permanently more expensive.” (BBC)  Read: The real reason humans are the dominant species.</description>
@@ -361,15 +370,6 @@
   <categories>delivery</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/deliveroo-underdelivers-stock-market-debut</guid>
   <pubDate>Wed, 31 Mar 2021 15:31:14 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 1</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F825%2Famazon.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(MEL Magazine) Read: So when did people start working out? Time to put this story to bed...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/31/key-performance-indicators-april-1</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/key-performance-indicators-april-1</guid>
-  <pubDate>Wed, 31 Mar 2021 15:26:14 -0700</pubDate>
  </item>
 
 </channel>
