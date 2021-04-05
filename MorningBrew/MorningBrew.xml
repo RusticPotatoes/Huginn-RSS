@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/03/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/04/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/03</link>
- <lastBuildDate>Sat, 03 Apr 2021 03:03:15 -0700</lastBuildDate>
- <pubDate>Sat, 03 Apr 2021 03:03:15 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/04</link>
+ <lastBuildDate>Sun, 04 Apr 2021 17:03:50 -0700</lastBuildDate>
+ <pubDate>Sun, 04 Apr 2021 17:03:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: April 5</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4628%2Fjapanese_cherry_blossoms.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s going to make US housing permanently more expensive.” (BBC)  Read: The real reason humans are the dominant species.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/04/key-performance-indicators-april-5</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/key-performance-indicators-april-5</guid>
+  <pubDate>Sun, 04 Apr 2021 17:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Week Ahead: April 5</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4626%2Fmlb_opening_day_postponed.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Georgia bill: After MLB said it’s moving the All-Star Game out of Atlanta due to the state’s new voting rights bill, everyone’s wondering...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/04/week-ahead-april-5</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/week-ahead-april-5</guid>
+  <pubDate>Sun, 04 Apr 2021 17:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Amazon Apologizes For Denying Delivery Drivers Have to Pee in Bottles</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4627%2Fus-it-politics-labor-amaz.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The backstory: A little over a week ago, Pocan tweeted that Amazon wasn’t a “progressive workplace” because its workers had to urinate in bottles. Things might be a little tense in the Amazon boardroom right now as it waits for the results of ~6,000 votes on whether warehouse workers in Alabama will unionize.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/04/amazon-apologies-denying-delivery-drivers-pee-bottles</link>
+  <author>Matty Merritt</author>
+  <categories>delivery</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/amazon-apologies-denying-delivery-drivers-pee-bottles</guid>
+  <pubDate>Sun, 04 Apr 2021 17:01:48 -0700</pubDate>
+ </item>
  <item>
   <title>HYBE Acquires Scooter Braun’s Ithaca Holdings for $1 Billion</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FibpyzXXfbiy1UkGRRO%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;HYBE acquired Ithaca Holdings for about $1 billion yesterday, but unless you own some turntables, you might want a refresher on who these two audio giants are:HYBE is a South Korean music company formerly named Big Hit Entertainment. It’s unclear exactly what that’ll look like, but if BTS’s rabid “Army” fan club backs it, it’ll be big.</description>
@@ -343,33 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/key-performance-indicators-april-1</guid>
   <pubDate>Wed, 31 Mar 2021 15:26:14 -0700</pubDate>
- </item>
- <item>
-  <title>72 Black Executives Join the Fight to Protect Voting</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4579%2Fearly_voting_starts_in_ge.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  “The entire rationale for this bill was based on a lie,” Delta boss Ed Bastian wrote in an internal memo.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/31/72-black-executives-join-fight-protect-voting</link>
-  <author>Matty Merritt</author>
-  <categories>voting</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/72-black-executives-join-fight-protect-voting</guid>
-  <pubDate>Wed, 31 Mar 2021 14:56:15 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Releases $2.3 Trillion Infrastructure Plan to Boost US Competitiveness and Combat Climate Change</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F781%2F1_train_in_nyc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Biden will introduce Part 2 of his economic spending proposal in the next few weeks, called the American Family Plan. To help pay for it, Biden wants to bump up the corporate tax from 21% to 28% and close other tax loopholes. For the climate, the plan “would be the most far-reaching federal investment to date in programs that would help curb greenhouse gas emissions,” writes Axios. $400 billion to caregiving efforts for the elderly and those with disabilities.  $650 billion to improve your life at home, including investments in high-speed broadband and the electric grid.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/31/biden-releases-23-trillion-infrastructure-plan-boost-us-competitiveness-combat-climate-change</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/biden-releases-23-trillion-infrastructure-plan-boost-us-competitiveness-combat-climate-change</guid>
-  <pubDate>Wed, 31 Mar 2021 14:51:22 -0700</pubDate>
- </item>
- <item>
-  <title>The Brew’s Quarterly News Quiz: Q1 2021</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/03/31/brews-quarterly-news-quiz-q1-2021</link>
-  <author>Jamie Wilde</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/03/31/brews-quarterly-news-quiz-q1-2021</guid>
-  <pubDate>Wed, 31 Mar 2021 10:46:21 -0700</pubDate>
  </item>
 
 </channel>
