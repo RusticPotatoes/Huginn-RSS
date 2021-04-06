@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/05/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/06/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/06/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/05</link>
- <lastBuildDate>Mon, 05 Apr 2021 14:58:52 -0700</lastBuildDate>
- <pubDate>Mon, 05 Apr 2021 14:58:52 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/06</link>
+ <lastBuildDate>Tue, 06 Apr 2021 14:43:52 -0700</lastBuildDate>
+ <pubDate>Tue, 06 Apr 2021 14:43:52 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>US Companies Having Trouble Finding Qualified Workers</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4646%2Fhiring_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Manufacturing: Factory activity in the US hit its highest level in 37 years in March, but it would've been higher had there been enough qualified workers to helm production lines. First, the headline stat: US job openings surged to a two-year high in February, the Labor Department said yesterday. Applebee’s is paying $3,000 for manager referrals after the first six months.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/06/us-companies-trouble-finding-qualified-workers</link>
+  <author>Neal Freyman</author>
+  <categories>jobs</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/us-companies-trouble-finding-qualified-workers</guid>
+  <pubDate>Tue, 06 Apr 2021 14:41:51 -0700</pubDate>
+ </item>
+ <item>
+  <title>Credit Suisse Announces Cost-Cutting Measures in Wake of Scandal</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4647%2Fcredit_suisse.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After March's collapse of Archegos Capital Management cost Credit Suisse almost $4.7 billion, yesterday the bank announced it's pulling executive board bonuses, suspending buybacks, cutting its dividend, and letting its top investment banker and chief risk officer go.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/06/credit-suisse-announces-costcutting-measures-wake-scandal</link>
+  <author>Alex Hickey</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/credit-suisse-announces-costcutting-measures-wake-scandal</guid>
+  <pubDate>Tue, 06 Apr 2021 14:41:51 -0700</pubDate>
+ </item>
  <item>
   <title>Google Wins in Decades-Long Battle with Oracle</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F858%2Fsupreme_court.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The ruling handed Google a W in its decade-long copyright battle with Oracle over the origins of one of the most important software programs used today.  Expect future battles.</description>
@@ -352,24 +370,6 @@
   <categories>travel</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/01/budget-airlines-signify-boom-industry?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 02 Apr 2021 04:01:15 -0700</pubDate>
- </item>
- <item>
-  <title>Goldman Sachs, Google, and Amazon Prepare for Return to Office</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4597%2Fwfh.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Microsoft itself is already allowing some workers back, with part-time remote as the new standard.  Citigroup CEO Jane Fraser also plans on 3 days/week in the office for most employees after the pandemic.  Goldman Sachs told summer interns they're headed to TriBeCa.Wells Fargo told employees it's eyeing a return after Labor Day.Amazon said it's bringing Seattle HQ employees back in time for sweater weather. Moretti argues the pull of certain industries, packed bars, and Shawarma Guys is too strong for most people to work remote full-time in the long run.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/01/goldman-sachs-google-amazon-prepare-return-office?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/01/goldman-sachs-google-amazon-prepare-return-office?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 02 Apr 2021 04:01:15 -0700</pubDate>
- </item>
- <item>
-  <title>'Godzilla vs. Kong' Opened With a Boom, Netflix Bought 'Knives Out' Series</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4603%2Fkong_vs_godzilla.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;As more streaming services crowd consumers, Netflix has realized more seasons of Love is Blind just isn't enough to grow its subscriber base and sealed one of the biggest deals ever for the rights to a movie series.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/01/godzilla-vs-kong-opened-boom-netflix-bought-knives-series</link>
-  <author>Matty Merritt</author>
-  <categories>movies</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/01/godzilla-vs-kong-opened-boom-netflix-bought-knives-series</guid>
-  <pubDate>Thu, 01 Apr 2021 15:26:13 -0700</pubDate>
  </item>
 
 </channel>
