@@ -8,9 +8,45 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/07</link>
- <lastBuildDate>Wed, 07 Apr 2021 03:03:49 -0700</lastBuildDate>
- <pubDate>Wed, 07 Apr 2021 03:03:49 -0700</pubDate>
+ <lastBuildDate>Wed, 07 Apr 2021 14:38:52 -0700</lastBuildDate>
+ <pubDate>Wed, 07 Apr 2021 14:38:52 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Uber to Invest $250 Million to Bring Back Drivers</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4658%2Fuber_cash.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Uber focused most of its energy on beefing up food delivery service and Lyft focused on being the second app you open when Uber seems too expensive, but neither could make up for absent airport drop-offs: They lost a combined $8.5 billion last year. In Q1 2021, the number of drivers logging onto the Uber app each day was down ~40% over last year, per Apptopia.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/07/uber-invest-250-million-bring-back-drivers</link>
+  <author>Matty Merritt</author>
+  <categories>rideshare</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/uber-invest-250-million-bring-back-drivers</guid>
+  <pubDate>Wed, 07 Apr 2021 14:36:51 -0700</pubDate>
+ </item>
+ <item>
+  <title>Global Venture Funding Hits Record High in 2021’s First Quarter</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4659%2Fcrunchbase_venture_capital_chart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;CryptoBlockchain startups raised more money last quarter than in all of 2020, per CB Insights.  Lots of Lady Rainicorns rode that investment boom: Approximately two startups joined the Crunchbase Private Unicorn Board per working day in Q1. com, and Dapper Labs, which runs the NFT platforms NBA Top Shot and CryptoKitties.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/07/global-venture-funding-hits-record-high-2021s-first-quarter</link>
+  <author>Jamie Wilde</author>
+  <categories>vc</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/global-venture-funding-hits-record-high-2021s-first-quarter</guid>
+  <pubDate>Wed, 07 Apr 2021 14:36:51 -0700</pubDate>
+ </item>
+ <item>
+  <title>Twitch Expands User Moderation Beyond Its Platform</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4660%2Fparis_games_week_2019_p.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Twitch isn’t the first platform to break down the walls ofn its content garden.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/07/twitch-expands-user-moderation-beyond-platform</link>
+  <author>Jamie Wilde</author>
+  <categories>moderation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/twitch-expands-user-moderation-beyond-platform</guid>
+  <pubDate>Wed, 07 Apr 2021 14:36:51 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Great Corporate Tax Negotiation Has Begun</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4661%2Finfrastructure_meme.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Finance ministers said they could elbow bump on a plan as early as July.  She said that the government’s investments in infrastructure will add 1.6% to US GDP by 2024.  Not everyone loves hiking Sen. Joe Manchin, a moderate Democrat who wields a lot of power in the Senate, said he doesn’t support raising the corporate tax rate above 25%.  Zoom out: While all this is going on in the US, momentum is building for a global minimum corporate tax rate, which would eliminate companies’ HQ-hopping to the most attractive tax location.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/07/great-corporate-tax-negotiation-begun</link>
+  <author>Neal Freyman</author>
+  <categories>taxes</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/great-corporate-tax-negotiation-begun</guid>
+  <pubDate>Wed, 07 Apr 2021 14:36:51 -0700</pubDate>
+ </item>
  <item>
   <title>Honeywell and Will.i.am Release “Xupermask”</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4651%2Fhoneywell_will_i_am_xupermask.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;We asked on Twitter. would you rock this $299 Daft Punk x Blade Runner look?  But more importantly...</description>
@@ -334,42 +370,6 @@
   <categories>games</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/brew-crossword-infrastructure-week</guid>
   <pubDate>Fri, 02 Apr 2021 15:16:18 -0700</pubDate>
- </item>
- <item>
-  <title>MLB Moves Its All-Star Game From Georgia Over Voting Rights Law</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4622%2Fmlb_opening_day_postponed.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Major League Baseball announced it was moving its All-Star Game and the 2021 draft out of Georgia due to the state’s new restrictive voting law.   We’ll see if others will follow.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/mlb-moves-allstar-game-georgia-voting-rights-law</link>
-  <author>Neal Freyman</author>
-  <categories>civil rights</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/mlb-moves-allstar-game-georgia-voting-rights-law</guid>
-  <pubDate>Fri, 02 Apr 2021 15:01:15 -0700</pubDate>
- </item>
- <item>
-  <title>Vaccine Tracker: April 3</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;In the US…the latest numbers from the White House: more than 100 million Americans (almost a third of the population) have received their first dose of a coronavirus vaccine, and yesterday the US administered 3.975 million doses, a new daily record.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/vaccine-tracker-april-3</link>
-  <author>Jamie Wilde</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/vaccine-tracker-april-3</guid>
-  <pubDate>Fri, 02 Apr 2021 14:56:15 -0700</pubDate>
- </item>
- <item>
-  <title>US Hiring Surges in March With Bigger Rebound in Sight</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4621%2Fyou_re_hired_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The economy basically just raised a $1.9 trillion Series E in the form of Biden’s stimulus plan.  The biggest winners: Leisure and hospitality = 280,000 jobs added.   Of the 20+ million jobs lost in March and April of 2020, 8.4 million jobs have yet to be recovered.   The economy added 916,000 jobs in March, the biggest gain since last August and way up from the 468,000 added in February.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/us-hiring-surges-march-bigger-rebound-sight</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/us-hiring-surges-march-bigger-rebound-sight</guid>
-  <pubDate>Fri, 02 Apr 2021 14:56:15 -0700</pubDate>
- </item>
- <item>
-  <title>New Data Found M&amp;A Boomed During Q1</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxT9DPIlGnuHpr2yObu%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Private equity deals worldwide rose 116% from last year, making this PE’s strongest Q1 ever EVER. Mergers and acquisitions did gangbusters last quarter, breaking all-time Q1 records for global M&amp;A and private equity-backed deals, according to Refinitiv. Looking ahead.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/new-data-found-ma-boomed-q1</link>
-  <author>Matty Merritt</author>
-  <categories>manda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/new-data-found-ma-boomed-q1</guid>
-  <pubDate>Fri, 02 Apr 2021 14:46:12 -0700</pubDate>
  </item>
 
 </channel>
