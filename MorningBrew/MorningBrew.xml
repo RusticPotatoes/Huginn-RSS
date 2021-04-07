@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/06/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/06/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/07/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/06</link>
- <lastBuildDate>Tue, 06 Apr 2021 15:03:49 -0700</lastBuildDate>
- <pubDate>Tue, 06 Apr 2021 15:03:49 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/07</link>
+ <lastBuildDate>Wed, 07 Apr 2021 03:03:49 -0700</lastBuildDate>
+ <pubDate>Wed, 07 Apr 2021 03:03:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Honeywell and Will.i.am Release “Xupermask”</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4651%2Fhoneywell_will_i_am_xupermask.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;We asked on Twitter. would you rock this $299 Daft Punk x Blade Runner look?  But more importantly...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/06/honeywell-william-release-xupermask?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/honeywell-william-release-xupermask?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 07 Apr 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>The TL;DR of Georgia's Voting Law</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3606%2Fgeorgia_peach.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The US has a long history of suppressing voting access for Black and minority populations, and critics say this law continues that practice. More access in some cases: The GA law guarantees a minimum # of drop boxes for mail ballots per county, expands early voting in most small counties, and adds more resources to polling places where lines get long. Have another question?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/06/tldr-georgias-voting-law?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>qanda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/tldr-georgias-voting-law?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 07 Apr 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 7</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4649%2Frangers_baseball_stadium.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Now, they're fighting back: Yesterday, small biz organizations introduced Small Business Rising, a coalition that's calling on lawmakers to break up Amazon's retail business from its marketplace business. (Morning Brew)</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/06/key-performance-indicators-april-7?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/key-performance-indicators-april-7?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 07 Apr 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Topps Is Taking Its Baseball Cards and Soon-to-Be NFTs Public</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4650%2Ftopps_goes_public.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It owns Bazooka candy and a gift cards business, and it recently announced it’s expanding into NFTs. Eisner calls adding this digital collectible component to its physical offerings "the icing on the cake."  It's more than a bet on baseball cardsTopps has its hands in other pockets, and it's pulling up more gold than lint.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/06/topps-taking-baseball-cards-soontobe-nfts-public?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>spac</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/topps-taking-baseball-cards-soontobe-nfts-public?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 07 Apr 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Credit Suisse Announces Cost-Cutting Measures in Wake of Scandal</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4647%2Fcredit_suisse.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After March's collapse of Archegos Capital Management cost Credit Suisse almost $4.7 billion, the bank announced yesterday it's pulling executive board bonuses, suspending buybacks, cutting its dividend, and letting its top investment banker and chief risk officer go.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/06/credit-suisse-announces-costcutting-measures-wake-scandal?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/credit-suisse-announces-costcutting-measures-wake-scandal?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 07 Apr 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>US Companies Having Trouble Finding Qualified Workers</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4646%2Fhiring_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Manufacturing: Factory activity in the US hit its highest level in 37 years in March, but it would've been higher had there been enough qualified workers to helm production lines. First, the headline stat: US job openings surged to a two-year high in February, the Labor Department said yesterday. Applebee’s is paying $3,000 for manager referrals after the first six months.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/06/us-companies-trouble-finding-qualified-workers?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>jobs</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/us-companies-trouble-finding-qualified-workers?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 07 Apr 2021 03:01:48 -0700</pubDate>
+ </item>
  <item>
   <title>Topps Is Taking Its Baseball Cards and Soon-to-Be NFTs Public</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4650%2Ftopps_goes_public.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It owns Bazooka candy and a gift cards business, and it recently announced it’s expanding NFTs. Eisner calls adding this digital collectible component to its physical offerings "the icing on the cake."  It's more than a bet on baseball cardsTopps has its hands in other pockets, and it's pulling up more gold than lint.</description>
@@ -316,60 +370,6 @@
   <categories>manda</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/new-data-found-ma-boomed-q1</guid>
   <pubDate>Fri, 02 Apr 2021 14:46:12 -0700</pubDate>
- </item>
- <item>
-  <title>HYBE Acquires Scooter Braun’s Ithaca Holdings for $1 Billion</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FibpyzXXfbiy1UkGRRO%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;HYBE acquired Ithaca Holdings for about $1 billion yesterday, but unless you own some turntables, you might want a refresher on who these two audio giants are:HYBE is a South Korean music company formerly named Big Hit Entertainment. It’s unclear exactly what that’ll look like, but if BTS’s rabid “Army” fan club backs it, it’ll be big.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/hybe-acquires-scooter-brauns-ithaca-holdings-1-billion</link>
-  <author>Jamie Wilde</author>
-  <categories>music</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/hybe-acquires-scooter-brauns-ithaca-holdings-1-billion</guid>
-  <pubDate>Fri, 02 Apr 2021 14:36:21 -0700</pubDate>
- </item>
- <item>
-  <title>Robert Downey Jr. on His New Sustainability Venture: "I Never Learned Anything While I Was Talking."</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4615%2Frobert_downey_jr.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s a rut that’s so easy to get stuck in. For us [at Footprint], it’s not about being better or smarter. Are you in it because you got stuck and have a lot of shareholders and I’m the halo you’re missing? So I look at the character of the women and men of the team of that company. I’m just reading The Sympathizer. But it’s a starting point to get into the habit of seeing if our ideations on how to do things a little differently, and be part of that bridging between the consumer and the titans of industry and string-pulling politicians. You don’t get an education if you press a space bar, you know? I know that when it comes to the things that keep showing up, I’m real big on refusing the call. It’s just a different feeling. So for me, it was really about the people I met [in service of Footprint Coalition’s mission]. It’s about happening into a moment, a group, an inspiration that was going to hit anyway. You have a year like this, my brother, where our disgust response has gone up—where the powers that be say that something is really scary and you should go hide and we’ll tell you what to do next.   I very seldom know what’s going on. It’s the only spot I’ve ever really felt comfortable in my skin. I find myself in this odd position where I have some leverage; I can get anybody on the phone. I’m in a service industry and we work weekends. It’s like speed-dating at a high level, and sometimes at a low level. A little bit of an existential crisis always helps when you’re looking for a sea change. But my interest was always split between my call sheet and everything else in one bucket. I tend to balk at those firewalls—that doesn’t feel like me. There’s so much overdue inclusivity flooding into what felt like these imaginary bright lines that a smaller group of people had drawn. But it’s hard to turn an ocean liner on a dime. Now I’ve changed. Why turn the page entirely? I quickly realized you have to follow your gut and get cool, smart, influencers around you and see how you can be part of the solution. I’m just playing catch up. It’s crazy because you gotta show up for this. For me, interest over time promotes excellence. I have to thank all the people who are thought-leading this crisis correctly and putting me in a position where I have very little option but to engage. I don’t think [individuals] are that smart. “Is this [sustainability startup] one of those bro games?” Those people are doing that [work]. I always like that. There is not even a Spock-chess version of a capital E-easy beginner answer. What’s your anticipated return on investment? I think there are a lot of people who think they’re the smartest person they’ve ever met. There are four billion soccer kids and one ball.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/robert-downey-jr-talks-businessman-irl</link>
-  <author>Andrew Nusca</author>
-  <categories>qanda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/robert-downey-jr-talks-businessman-irl</guid>
-  <pubDate>Fri, 02 Apr 2021 14:26:18 -0700</pubDate>
- </item>
- <item>
-  <title>Open House</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FM3MOLpsVHVak8Lvkl1%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Scroll to the bottom of the newsletter for the answer.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/open-house</link>
-  <author>Matty Merritt</author>
-  <categories>real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/open-house</guid>
-  <pubDate>Fri, 02 Apr 2021 13:31:19 -0700</pubDate>
- </item>
- <item>
-  <title>What Everyone's Arguing About: $$$ for College Athletes</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4616%2Fcollege_basketball.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The backstoryFor more than a century, the NCAA has governed one of the most cherished traditions in America: college sports. There are now college sports video games.  If that makes you go 🤔, then you'd probably be interested in the crucial Supreme Court case over college athlete compensation that kicked off last Wednesday. Nick Saban, the Alabama football coach, will make $9.5 million this year.   They are: Fans enjoy the product specifically because the athletes are amateurs, not paid professionals.  The other sideThe NCAA uses a few different arguments to defend its amateurism model. Athletes are paid in the form of a free college education that might cost others more than $60k a year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/everyones-arguing-college-athletes</link>
-  <author>Neal Freyman</author>
-  <categories>analysis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/everyones-arguing-college-athletes</guid>
-  <pubDate>Fri, 02 Apr 2021 13:26:18 -0700</pubDate>
- </item>
- <item>
-  <title>Meme Battle: April 4</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4606%2Fenvious_squidward.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; This week's meme is a classic we hooked from all the way down in Bikini Bottom.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/meme-battle-april-4</link>
-  <author>Jamie Wilde</author>
-  <categories>contest</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/meme-battle-april-4</guid>
-  <pubDate>Fri, 02 Apr 2021 13:26:17 -0700</pubDate>
- </item>
- <item>
-  <title>Kate Noel, Head of People Ops at Morning Brew, Shares Advice with Readers</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4613%2Fkate_s_column.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It's the happy medium that shows you take this interview seriously but also that you are cool enough to hire and be part of all the virtual company events to come. Can I wait until the morning to email her back?  My manager has a tendency to email me at 7–8pm, but I've been trying to keep a healthy work-life balance, which means closing my work laptop at 5:30pm.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/kate-noel-head-people-ops-morning-brew-shares-advice-readers</link>
-  <author>Neal Freyman</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/kate-noel-head-people-ops-morning-brew-shares-advice-readers</guid>
-  <pubDate>Fri, 02 Apr 2021 13:26:16 -0700</pubDate>
  </item>
 
 </channel>
