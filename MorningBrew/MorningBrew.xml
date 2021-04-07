@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/07</link>
- <lastBuildDate>Wed, 07 Apr 2021 14:38:52 -0700</lastBuildDate>
- <pubDate>Wed, 07 Apr 2021 14:38:52 -0700</pubDate>
+ <lastBuildDate>Wed, 07 Apr 2021 14:43:52 -0700</lastBuildDate>
+ <pubDate>Wed, 07 Apr 2021 14:43:52 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: April 8</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2277%2Fjoe_rogan_podcast_spotify.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New York Times)  Read: “Evidence is mounting that a tiny subatomic particle is being influenced by forms of matter and energy that are not yet known to science but which may nevertheless affect the nature and evolution of the universe.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/07/key-performance-indicators-april-8</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/key-performance-indicators-april-8</guid>
+  <pubDate>Wed, 07 Apr 2021 14:41:51 -0700</pubDate>
+ </item>
  <item>
   <title>Uber to Invest $250 Million to Bring Back Drivers</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4658%2Fuber_cash.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Uber focused most of its energy on beefing up food delivery service and Lyft focused on being the second app you open when Uber seems too expensive, but neither could make up for absent airport drop-offs: They lost a combined $8.5 billion last year. In Q1 2021, the number of drivers logging onto the Uber app each day was down ~40% over last year, per Apptopia.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/key-performance-indicators-april-2</guid>
   <pubDate>Fri, 02 Apr 2021 15:31:22 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Crossword: Infrastructure Week</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2397%2Fcrossword.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/brew-crossword-infrastructure-week</link>
-  <author>Toby Howell</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/brew-crossword-infrastructure-week</guid>
-  <pubDate>Fri, 02 Apr 2021 15:16:18 -0700</pubDate>
  </item>
 
 </channel>
