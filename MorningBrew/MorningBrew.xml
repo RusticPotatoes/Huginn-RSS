@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/07/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/08/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/07</link>
- <lastBuildDate>Wed, 07 Apr 2021 14:43:52 -0700</lastBuildDate>
- <pubDate>Wed, 07 Apr 2021 14:43:52 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/08</link>
+ <lastBuildDate>Thu, 08 Apr 2021 03:03:53 -0700</lastBuildDate>
+ <pubDate>Thu, 08 Apr 2021 03:03:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Global Venture Funding Hits Record High in 2021’s First Quarter</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4659%2Fcrunchbase_venture_capital_chart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;CryptoBlockchain startups raised more money last quarter than in all of 2020, per CB Insights.  Lots of Lady Rainicorns rode that investment boom: Approximately two startups joined the Crunchbase Private Unicorn Board per working day in Q1. com, and Dapper Labs, which runs the NFT platforms NBA Top Shot and CryptoKitties.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/07/global-venture-funding-hits-record-high-2021s-first-quarter?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>venture capital</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/global-venture-funding-hits-record-high-2021s-first-quarter?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 08 Apr 2021 03:01:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 8</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2277%2Fjoe_rogan_podcast_spotify.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New York Times)  Read: “Evidence is mounting that a tiny subatomic particle is being influenced by forms of matter and energy that are not yet known to science but which may nevertheless affect the nature and evolution of the universe.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/07/key-performance-indicators-april-8?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/key-performance-indicators-april-8?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 08 Apr 2021 03:01:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Twitch Expands User Moderation Beyond Its Platform</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4660%2Fparis_games_week_2019_p.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Twitch wants to know what its streamers are up to when they’re not playing Warzone at 4am.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/07/twitch-expands-user-moderation-beyond-platform?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/twitch-expands-user-moderation-beyond-platform?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 08 Apr 2021 03:01:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Uber to Invest $250 Million to Bring Back Drivers</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4658%2Fuber_cash.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Uber focused most of its energy beefing up food delivery service and Lyft focused on being the second app you open when Uber seems too expensive, but neither could make up for vanishing airport drop-offs: They lost a combined $8.5 billion last year. In Q1 2021, the number of drivers logging onto the Uber app each day was down ~40% over last year, per Apptopia.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/07/uber-invest-250-million-bring-back-drivers?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>rideshare</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/uber-invest-250-million-bring-back-drivers?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 08 Apr 2021 03:01:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Great Corporate Tax Negotiation Has Begun</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4661%2Finfrastructure_meme.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; She said that the government’s investments in infrastructure will add 1.6% to US GDP by 2024.  Not everyone loves hiking Sen. Joe Manchin, a moderate Democrat who wields a lot of power in the Senate, said he doesn’t support raising the corporate tax rate above 25%. Finance ministers said they could elbow bump on a plan as early as July.  Zoom out: While all this is going on in the US, momentum is building for a global minimum corporate tax rate, which would eliminate companies’ HQ-hopping to the most attractive tax location.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/07/great-corporate-tax-negotiation-begun?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>taxes</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/great-corporate-tax-negotiation-begun?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 08 Apr 2021 03:01:52 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: April 8</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2277%2Fjoe_rogan_podcast_spotify.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New York Times)  Read: “Evidence is mounting that a tiny subatomic particle is being influenced by forms of matter and energy that are not yet known to science but which may nevertheless affect the nature and evolution of the universe.”</description>
@@ -325,51 +370,6 @@
   <categories>manda</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/new-data-found-ma-boomed-q1?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 03 Apr 2021 03:01:14 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 2</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3683%2Fgm_brightdrop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Andrew Wilkinson)  Read: This is a story about how I lost $10,000,000 by doing something stupid.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/key-performance-indicators-april-2?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/key-performance-indicators-april-2?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 03 Apr 2021 03:01:14 -0700</pubDate>
- </item>
- <item>
-  <title>Vaccine Tracker: April 3</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;In the US…the latest numbers from the White House: More than 100 million Americans (almost a third of the population) have received their first dose of a coronavirus vaccine, and yesterday the US administered 3.975 million doses, a new daily record.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/vaccine-tracker-april-3?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/vaccine-tracker-april-3?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 03 Apr 2021 03:01:14 -0700</pubDate>
- </item>
- <item>
-  <title>MLB Moves Its All-Star Game From Georgia Over Voting Rights Law</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4622%2Fmlb_opening_day_postponed.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Major League Baseball announced it was moving its All-Star Game and the 2021 draft out of Georgia due to the state’s new restrictive voting law.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/mlb-moves-allstar-game-georgia-voting-rights-law?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>civil rights</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/mlb-moves-allstar-game-georgia-voting-rights-law?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 03 Apr 2021 03:01:14 -0700</pubDate>
- </item>
- <item>
-  <title>US Hiring Surges in March With Bigger Rebound in Sight</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4621%2Fyou_re_hired_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The economy basically just raised a $1.9 trillion Series E in the form of Biden’s stimulus plan.    The biggest winners: Leisure and hospitality = 280,000 jobs added. The $2.3 trillion infrastructure proposal he introduced this week, literally called the American Jobs Plan, would create 13.5 million jobs by the end of his first term, as opposed to 11.4 million without the plan, per Moody’s Analytics. The March jobs report, released yesterday by the Labor Department, was like being on a 12-hour flight next to a crying baby when the captain says, “We have begun our descent.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/us-hiring-surges-march-bigger-rebound-sight?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/us-hiring-surges-march-bigger-rebound-sight?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 03 Apr 2021 03:01:14 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 2</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3683%2Fgm_brightdrop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Andrew Wilkinson)  Read: This is a story about how I lost $10,000,000 by doing something stupid.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/key-performance-indicators-april-2</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/key-performance-indicators-april-2</guid>
-  <pubDate>Fri, 02 Apr 2021 15:31:22 -0700</pubDate>
  </item>
 
 </channel>
