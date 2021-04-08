@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/08</link>
- <lastBuildDate>Thu, 08 Apr 2021 14:53:45 -0700</lastBuildDate>
- <pubDate>Thu, 08 Apr 2021 14:53:45 -0700</pubDate>
+ <lastBuildDate>Thu, 08 Apr 2021 14:58:45 -0700</lastBuildDate>
+ <pubDate>Thu, 08 Apr 2021 14:58:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Brew’s Weekly News Quiz: April 9</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/08/brews-weekly-news-quiz-april-9</link>
+  <author>Jamie Wilde</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/brews-weekly-news-quiz-april-9</guid>
+  <pubDate>Thu, 08 Apr 2021 14:56:54 -0700</pubDate>
+ </item>
  <item>
   <title>Costco Food Courts Slowly Return to Normal Operation</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4668%2Fcostco.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It's one of the most famous perks that helps sell customers on the annual membership fee.  Zoom out: Costco's bargain food-court eats have a cult following that makes In-n-Out's not-so-secret secret menu jealous.</description>
@@ -361,15 +370,6 @@
   <categories>investing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/pandemicera-investing-trends-like-spacs-stumble-spring</guid>
   <pubDate>Sun, 04 Apr 2021 17:11:47 -0700</pubDate>
- </item>
- <item>
-  <title>How Archegos Capital Lost $8 Billion in 10 Days</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxUOwGpwX0H5RLKNlio%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; But he was still able to manage his own money, and manage it well he did. Hwang grew his own business 900% over seven years using complex financial tools called swaps.   It was the “biggest single-firm meltdown since the financial crisis,” per the WSJ, and it’s causing introspection in finance about the ability of private family offices to cause market havoc.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/04/archegos-capital-lost-8-billion-10-days</link>
-  <author>Neal Freyman</author>
-  <categories>wealth</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/archegos-capital-lost-8-billion-10-days</guid>
-  <pubDate>Sun, 04 Apr 2021 17:06:47 -0700</pubDate>
  </item>
 
 </channel>
