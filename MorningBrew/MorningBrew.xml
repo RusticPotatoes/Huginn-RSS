@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/08</link>
- <lastBuildDate>Thu, 08 Apr 2021 03:03:53 -0700</lastBuildDate>
- <pubDate>Thu, 08 Apr 2021 03:03:53 -0700</pubDate>
+ <lastBuildDate>Thu, 08 Apr 2021 14:33:47 -0700</lastBuildDate>
+ <pubDate>Thu, 08 Apr 2021 14:33:47 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Biden Announces Executive Actions on Gun Control</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4670%2Fpresident_biden_delivers.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: Biden wants to prioritize the Covid-19 response and his infrastructure bill, but gun control has re-emerged as a policy focus following mass shootings in Atlanta, Boulder, and, most recently, Rock Hill, SC.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/08/biden-announces-executive-actions-gun-control</link>
+  <author>Neal Freyman</author>
+  <categories>regulation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/biden-announces-executive-actions-gun-control</guid>
+  <pubDate>Thu, 08 Apr 2021 14:31:46 -0700</pubDate>
+ </item>
  <item>
   <title>Global Venture Funding Hits Record High in 2021’s First Quarter</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4659%2Fcrunchbase_venture_capital_chart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;CryptoBlockchain startups raised more money last quarter than in all of 2020, per CB Insights.  Lots of Lady Rainicorns rode that investment boom: Approximately two startups joined the Crunchbase Private Unicorn Board per working day in Q1. com, and Dapper Labs, which runs the NFT platforms NBA Top Shot and CryptoKitties.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>music</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/hybe-acquires-scooter-brauns-ithaca-holdings-1-billion?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 03 Apr 2021 03:01:14 -0700</pubDate>
- </item>
- <item>
-  <title>New Data Found M&amp;A Boomed During Q1</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxT9DPIlGnuHpr2yObu%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Mergers and acquisitions did gangbusters last quarter, breaking all-time Q1 records for global M&amp;A and private equity-backed deals, according to Refinitiv.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/02/new-data-found-ma-boomed-q1?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>manda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/02/new-data-found-ma-boomed-q1?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 03 Apr 2021 03:01:14 -0700</pubDate>
  </item>
 
