@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/08</link>
- <lastBuildDate>Thu, 08 Apr 2021 14:43:50 -0700</lastBuildDate>
- <pubDate>Thu, 08 Apr 2021 14:43:50 -0700</pubDate>
+ <lastBuildDate>Thu, 08 Apr 2021 14:53:45 -0700</lastBuildDate>
+ <pubDate>Thu, 08 Apr 2021 14:53:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Costco Food Courts Slowly Return to Normal Operation</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4668%2Fcostco.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It's one of the most famous perks that helps sell customers on the annual membership fee.  Zoom out: Costco's bargain food-court eats have a cult following that makes In-n-Out's not-so-secret secret menu jealous.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/08/costco-food-courts-slowly-return-normal-operation</link>
+  <author>Alex Hickey</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/costco-food-courts-slowly-return-normal-operation</guid>
+  <pubDate>Thu, 08 Apr 2021 14:51:54 -0700</pubDate>
+ </item>
  <item>
   <title>Luxury Brands See Sales Boom Despite Pandemic</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4667%2Frolls_royce_gold.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Even in a year of economic struggle for many, there are 660 more billionaires than there were a year ago, and 86% of billionaires got richer over the last year, moving the total wealth of all billionaires in the world jump $5 trillion, according to Forbes's annual list of people least likely to know what a Baja Blast is.</description>
@@ -361,15 +370,6 @@
   <categories>wealth</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/archegos-capital-lost-8-billion-10-days</guid>
   <pubDate>Sun, 04 Apr 2021 17:06:47 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 5</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4628%2Fjapanese_cherry_blossoms.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s going to make US housing permanently more expensive.” (BBC)  Read: The real reason humans are the dominant species.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/04/key-performance-indicators-april-5</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/key-performance-indicators-april-5</guid>
-  <pubDate>Sun, 04 Apr 2021 17:01:48 -0700</pubDate>
  </item>
 
 </channel>
