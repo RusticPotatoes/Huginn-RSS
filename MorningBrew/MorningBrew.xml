@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/09</link>
- <lastBuildDate>Fri, 09 Apr 2021 14:58:48 -0700</lastBuildDate>
- <pubDate>Fri, 09 Apr 2021 14:58:48 -0700</pubDate>
+ <lastBuildDate>Fri, 09 Apr 2021 15:43:45 -0700</lastBuildDate>
+ <pubDate>Fri, 09 Apr 2021 15:43:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>New York Raises Income Taxes on Super Wealthy, Raising Concerns Among Corporations</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F8hYypG9y61uLFBElHR%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;    This week, state lawmakers passed a budget that raises the personal income tax on individuals making over $1 million and introduces two new brackets for those making more than $5 million and $25 million. That’s not a record some New Yorkers want to break250 business executives have sent a letter to state lawmakers arguing that higher taxes would “jeopardize New York’s recovery from the economic crisis inflicted by Covid-19” by sending high-net-worth people fleeing.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/09/new-york-raises-income-taxes-super-wealthy-raising-concerns-among-corporations</link>
+  <author>Neal Freyman</author>
+  <categories>taxes</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/new-york-raises-income-taxes-super-wealthy-raising-concerns-among-corporations</guid>
+  <pubDate>Fri, 09 Apr 2021 15:41:45 -0700</pubDate>
+ </item>
  <item>
   <title>The Biden Administration Releases Their $1.52 trillion Budget Proposal</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4692%2Fbudget_scale.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Other highlights:$3 billion for immigration—an issue Biden recently caught flak for and handed over to VP Kamala Harris$2.7 billion for Amtrak, with most of that going to pay for better delay excuses23% increase in health spending and a record 40% increase for educationBottom line: Biden will have trouble passing this proposed budget because of a measly 1.7% increase to defense spending that already has GOP lawmakers grumbling.</description>
@@ -361,15 +370,6 @@
   <categories>qanda</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/tldr-georgias-voting-law</guid>
   <pubDate>Tue, 06 Apr 2021 14:46:52 -0700</pubDate>
- </item>
- <item>
-  <title>US Companies Having Trouble Finding Qualified Workers</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4646%2Fhiring_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Manufacturing: Factory activity in the US hit its highest level in 37 years in March, but it would've been higher had there been enough qualified workers to helm production lines. First, the headline stat: US job openings surged to a two-year high in February, the Labor Department said yesterday. Applebee’s is paying $3,000 for manager referrals after the first six months.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/06/us-companies-trouble-finding-qualified-workers</link>
-  <author>Neal Freyman</author>
-  <categories>jobs</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/us-companies-trouble-finding-qualified-workers</guid>
-  <pubDate>Tue, 06 Apr 2021 14:41:51 -0700</pubDate>
  </item>
 
 </channel>
