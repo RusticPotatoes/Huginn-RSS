@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/09</link>
- <lastBuildDate>Fri, 09 Apr 2021 14:03:45 -0700</lastBuildDate>
- <pubDate>Fri, 09 Apr 2021 14:03:45 -0700</pubDate>
+ <lastBuildDate>Fri, 09 Apr 2021 14:13:49 -0700</lastBuildDate>
+ <pubDate>Fri, 09 Apr 2021 14:13:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Big Ballot Showdown at the Arctic Circle</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4675%2Fgreenland_ballot.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;When Greenland pops up in the news, it means one of three things: a) global warming is getting worse, b) someone wants to buy it, or c) a dramatic election was just held over a rare earths mining project with implications for US national security. Expect the battle over Greenland, and within Greenland itself, to heat up in the next few years.  For the US: With China controlling over 70% of rare earth mining, the US is eyeing Greenland’s reserves (about 10% of the world’s rare earths) as a way to become less reliant on China for these critical raw materials. But like _____, there’s so much potential, and that’s what this election was all about. A lot is at stake For Greenland and for the US, China, Russia, or anyone else that considers themselves a global superpower.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/09/big-ballot-showdown-arctic-circle</link>
+  <author>Neal Freyman</author>
+  <categories>analysis</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/big-ballot-showdown-arctic-circle</guid>
+  <pubDate>Fri, 09 Apr 2021 14:11:49 -0700</pubDate>
+ </item>
  <item>
   <title>Open House</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;Amenities include:5 beds, 4 bathsA pool surrounded by giant oak trees for secret pool parties (nothing weird, just secret)3 fireplacesA master bedroom with a sitting area, perfect for resting before a long night of sleepingHow much do you think it costs?</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/05/store-closures-dropped-last-year-many-retailers-arent-red-yet</guid>
-  <pubDate>Mon, 05 Apr 2021 14:51:47 -0700</pubDate>
- </item>
- <item>
-  <title>LG Shutters Smartphone Business</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FHjaC2MQZaQYlVzFHEO%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Sunday night, South Korean electronics maker LG said it's powering down its 12-year-old smartphone business to focus on more profitable areas, like smart home devices and electric vehicle parts. LG joins the growing ranks of failed smartphone makers, from Big Tech titans (Facebook, Amazon, Microsoft) to legacy tech companies (Dell, HP, Toshiba, Ericsson) to phone manufacturers now in their second life (Blackberry, Nokia, Motorola). Once the world's third-largest smartphone maker, last year LG shipped just 23 million phones to Samsung's 256 million.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/05/lg-shutters-smartphone-business</link>
-  <author>Alex Hickey</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/05/lg-shutters-smartphone-business</guid>
   <pubDate>Mon, 05 Apr 2021 14:51:47 -0700</pubDate>
  </item>
 
