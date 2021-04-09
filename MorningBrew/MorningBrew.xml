@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/09</link>
- <lastBuildDate>Fri, 09 Apr 2021 14:53:49 -0700</lastBuildDate>
- <pubDate>Fri, 09 Apr 2021 14:53:49 -0700</pubDate>
+ <lastBuildDate>Fri, 09 Apr 2021 14:58:48 -0700</lastBuildDate>
+ <pubDate>Fri, 09 Apr 2021 14:58:48 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Biden Administration Releases Their $1.52 trillion Budget Proposal</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4692%2Fbudget_scale.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Other highlights:$3 billion for immigration—an issue Biden recently caught flak for and handed over to VP Kamala Harris$2.7 billion for Amtrak, with most of that going to pay for better delay excuses23% increase in health spending and a record 40% increase for educationBottom line: Biden will have trouble passing this proposed budget because of a measly 1.7% increase to defense spending that already has GOP lawmakers grumbling.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/09/biden-administration-releases-152-trillion-budget-proposal</link>
+  <author>Matty Merritt</author>
+  <categories>budget</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/biden-administration-releases-152-trillion-budget-proposal</guid>
+  <pubDate>Fri, 09 Apr 2021 14:56:48 -0700</pubDate>
+ </item>
  <item>
   <title>Video Shows Elon Musk’s Neuralink-Chipped Monkey Play Pong With His Mind</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fhzfkg5FowsBvA4iplA%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Musk tweeted that later versions of this device could enable paraplegics to walk again.  Here’s the play-by-play: The monkey (ironically named Pager) moves his joystick to play the Pong game displayed on the screen. The Neuralink device analyzes Pager’s movements and begins to predict them.  Looking ahead...</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>jobs</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/us-companies-trouble-finding-qualified-workers</guid>
-  <pubDate>Tue, 06 Apr 2021 14:41:51 -0700</pubDate>
- </item>
- <item>
-  <title>Credit Suisse Announces Cost-Cutting Measures in Wake of Scandal</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4647%2Fcredit_suisse.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After March's collapse of Archegos Capital Management cost Credit Suisse almost $4.7 billion, yesterday the bank announced it's pulling executive board bonuses, suspending buybacks, cutting its dividend, and letting its top investment banker and chief risk officer go.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/06/credit-suisse-announces-costcutting-measures-wake-scandal</link>
-  <author>Alex Hickey</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/credit-suisse-announces-costcutting-measures-wake-scandal</guid>
   <pubDate>Tue, 06 Apr 2021 14:41:51 -0700</pubDate>
  </item>
 
