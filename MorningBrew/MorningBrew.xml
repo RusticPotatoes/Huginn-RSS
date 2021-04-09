@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/09</link>
- <lastBuildDate>Fri, 09 Apr 2021 15:43:45 -0700</lastBuildDate>
- <pubDate>Fri, 09 Apr 2021 15:43:45 -0700</pubDate>
+ <lastBuildDate>Fri, 09 Apr 2021 15:53:48 -0700</lastBuildDate>
+ <pubDate>Fri, 09 Apr 2021 15:53:48 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: April 10</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F290%2Fnyse_trader.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Defector)</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/09/key-performance-indicators-april-10</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/key-performance-indicators-april-10</guid>
+  <pubDate>Fri, 09 Apr 2021 15:51:47 -0700</pubDate>
+ </item>
  <item>
   <title>New York Raises Income Taxes on Super Wealthy, Raising Concerns Among Corporations</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F8hYypG9y61uLFBElHR%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;    This week, state lawmakers passed a budget that raises the personal income tax on individuals making over $1 million and introduces two new brackets for those making more than $5 million and $25 million. That’s not a record some New Yorkers want to break250 business executives have sent a letter to state lawmakers arguing that higher taxes would “jeopardize New York’s recovery from the economic crisis inflicted by Covid-19” by sending high-net-worth people fleeing.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/key-performance-indicators-april-7</guid>
-  <pubDate>Tue, 06 Apr 2021 14:46:52 -0700</pubDate>
- </item>
- <item>
-  <title>The TL;DR of Georgia's Voting Law</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3606%2Fgeorgia_peach.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The US has a long history of suppressing voting access for Black and minority populations, and critics say this law continues that practice. More access in some cases: The GA law guarantees a minimum # of drop boxes for mail ballots per county, expands early voting in most small counties, and adds more resources to polling places where lines get long.  Have another question?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/06/tldr-georgias-voting-law</link>
-  <author>Neal Freyman</author>
-  <categories>qanda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/tldr-georgias-voting-law</guid>
   <pubDate>Tue, 06 Apr 2021 14:46:52 -0700</pubDate>
  </item>
 
