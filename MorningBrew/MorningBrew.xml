@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/08/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/09/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/08</link>
- <lastBuildDate>Thu, 08 Apr 2021 18:08:52 -0700</lastBuildDate>
- <pubDate>Thu, 08 Apr 2021 18:08:52 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/09</link>
+ <lastBuildDate>Fri, 09 Apr 2021 03:04:03 -0700</lastBuildDate>
+ <pubDate>Fri, 09 Apr 2021 03:04:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: April 9</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl0X9Z3f6D41QKrnOf0%2Fsource.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At a virtual roundtable Wednesday, billionaire investor and crypto bull Peter Thiel said he considers bitcoin a potential threat to the supremacy of the US dollar. (The Cut)</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/08/key-performance-indicators-april-9?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/key-performance-indicators-april-9?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 09 Apr 2021 03:01:51 -0700</pubDate>
+ </item>
+ <item>
+  <title>CDC, Cruise Lines Spar Over Reopening</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F829%2Fcruise_line.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; But to bring customers back, per CDC rules, cruise lines will have to... Carnival, Norwegian, and Royal Caribbean lost almost $7 billion last year. Norwegian, the first major US cruise line to publish reopening plans, said it will require them. Recommend vaccinations for everyone.  Run simulated voyages to rehearse safety procedures.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/08/cdc-cruise-lines-spar-reopening?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/cdc-cruise-lines-spar-reopening?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 09 Apr 2021 03:01:51 -0700</pubDate>
+ </item>
+ <item>
+  <title>Biden Announces Executive Actions on Gun Control</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4670%2Fpresident_biden_delivers.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: Biden wants to prioritize the Covid-19 response and his infrastructure bill, but gun control has re-emerged as a policy focus following mass shootings in Atlanta, Boulder, and, most recently, Rock Hill, SC.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/08/biden-announces-executive-actions-gun-control?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>regulation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/biden-announces-executive-actions-gun-control?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 09 Apr 2021 03:01:51 -0700</pubDate>
+ </item>
+ <item>
+  <title>Amazon Leads Union 2:1 With About Half the Votes Counted</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4671%2Funion_push_at_amazon_ware.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But for now, it appears as though Amazon may have dodged a labor organizing threat that would have rippled across the e-commerce industry.   As execs at Sears and Barnes &amp; Noble can tell you, it’s virtually impossible to beat Amazon—and organizers trying to form the company’s first union at a US facility are finding that out. a legal battle could push off a conclusive result for weeks. NFL players and actors took up the cause as a civil rights issue, since most of the workers at the Bessemer facility are Black. Democrats including President Biden and Sen. Bernie Sanders voiced support, and so did some Republicans, like Sen. Marco Rubio. but by app.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/08/amazon-leads-union-21-half-votes-counted?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>labor</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/amazon-leads-union-21-half-votes-counted?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 09 Apr 2021 03:01:51 -0700</pubDate>
+ </item>
+ <item>
+  <title>Luxury Brands See Sales Boom Despite Pandemic</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4667%2Frolls_royce_gold.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: Even in a year of economic struggle for many, there are 660 more billionaires than there were a year ago.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/08/luxury-brands-see-sales-boom-despite-pandemic?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>luxury</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/luxury-brands-see-sales-boom-despite-pandemic?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 09 Apr 2021 03:01:51 -0700</pubDate>
+ </item>
  <item>
   <title>Amazon Leads Union 2:1 With About Half the Votes Counted</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4671%2Funion_push_at_amazon_ware.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But for now, it appears as though Amazon may have dodged a labor organizing threat that would have rippled across the e-commerce industry.   As execs at Sears and Barnes &amp; Noble can tell you, it’s virtually impossible to beat Amazon—and organizers trying to form the company’s first union at a US facility are finding that out. a legal battle could push off a conclusive result for weeks. NFL players and actors took up the cause as a civil rights issue, since most of the workers at the Bessemer facility are Black. Democrats including President Biden and Sen. Bernie Sanders voiced support, and so did some Republicans, like Sen. Marco Rubio. but by app.</description>
@@ -325,51 +370,6 @@
   <categories>government</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/05/treasury-sec-yellen-calls-global-minimum-tax-rate-corporations</guid>
   <pubDate>Mon, 05 Apr 2021 14:51:47 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: April 5</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4626%2Fmlb_opening_day_postponed.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Stanford won the women’s title in another wild game last night. Georgia bill: After MLB said it’s moving the All-Star Game out of Atlanta due to the state’s new voting rights bill, everyone’s wondering...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/04/week-ahead-april-5?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/week-ahead-april-5?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 05 Apr 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 5</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4628%2Fjapanese_cherry_blossoms.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s going to make US housing permanently more expensive.” (BBC)  Read: The real reason humans are the dominant species.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/04/key-performance-indicators-april-5?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/key-performance-indicators-april-5?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 05 Apr 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>How Archegos Capital Lost $8 Billion in 10 Days</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxUOwGpwX0H5RLKNlio%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; But he was still able to manage his own money, and manage it well he did. Hwang grew his own business 900% over seven years using complex financial tools called swaps.   It was the “biggest single-firm meltdown since the financial crisis,” per the WSJ, and it’s causing introspection in finance about the ability of private family offices to cause market havoc.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/04/archegos-capital-lost-8-billion-10-days?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>wealth</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/archegos-capital-lost-8-billion-10-days?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 05 Apr 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Amazon Apologizes For Denying Delivery Drivers Have to Pee in Bottles</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4627%2Fus-it-politics-labor-amaz.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In the last few weeks, Amazon execs have sparred with Senators Bernie Sanders and Elizabeth Warren, two of Amazon’s biggest bashers.  The backstory: A little over a week ago, Pocan tweeted that Amazon wasn’t a “progressive workplace” because its workers had to urinate in bottles. Turns out, Pocan did.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/04/amazon-apologies-denying-delivery-drivers-pee-bottles?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>delivery</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/amazon-apologies-denying-delivery-drivers-pee-bottles?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 05 Apr 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Pandemic-Era Investing Trends Like SPACs Stumble Into Spring</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FsIIhZliB2McAo%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  one index that measures SPAC performance has entered a bear market, and SPAC pioneer Chamath Palihapitiya recently admitted, “The SPAC market has taken a real beating.” How it’s going…after gaining almost 150% in January, an index that tracks meme stocks hasn’t budged during the past two months, according to Bloomberg. average prices for NFTs have tumbled 70% since their February high, per the NFT marketplace tracker nonfungible. as we've seen with the resurgence of bitcoin following its 2018 collapse, just because interest in an investment class dies down now doesn’t mean its star won’t shine again. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/04/pandemicera-investing-trends-like-spacs-stumble-spring?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/04/pandemicera-investing-trends-like-spacs-stumble-spring?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 05 Apr 2021 03:01:54 -0700</pubDate>
  </item>
 
 </channel>
