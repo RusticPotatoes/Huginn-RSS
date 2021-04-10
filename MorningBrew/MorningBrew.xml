@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/09</link>
- <lastBuildDate>Fri, 09 Apr 2021 16:53:46 -0700</lastBuildDate>
- <pubDate>Fri, 09 Apr 2021 16:53:46 -0700</pubDate>
+ <lastBuildDate>Fri, 09 Apr 2021 17:53:53 -0700</lastBuildDate>
+ <pubDate>Fri, 09 Apr 2021 17:53:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Mini: Hard</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/10/brew-mini-hard</link>
+  <author>Neal Freyman</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/10/brew-mini-hard</guid>
+  <pubDate>Fri, 09 Apr 2021 17:51:52 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Mini: Easy</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>spac</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/topps-taking-baseball-cards-soontobe-nfts-public</guid>
-  <pubDate>Tue, 06 Apr 2021 15:01:49 -0700</pubDate>
- </item>
- <item>
-  <title>Honeywell and Will.i.am Release “Xupermask”</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4651%2Fhoneywell_will_i_am_xupermask.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;We asked on Twitter. would you rock this $299 Daft Punk x Blade Runner look?  But more importantly...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/06/honeywell-william-release-xupermask</link>
-  <author>Jamie Wilde</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/honeywell-william-release-xupermask</guid>
   <pubDate>Tue, 06 Apr 2021 15:01:49 -0700</pubDate>
  </item>
 
