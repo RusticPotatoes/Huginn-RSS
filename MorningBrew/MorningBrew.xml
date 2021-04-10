@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/09</link>
- <lastBuildDate>Fri, 09 Apr 2021 17:53:53 -0700</lastBuildDate>
- <pubDate>Fri, 09 Apr 2021 17:53:53 -0700</pubDate>
+ <lastBuildDate>Fri, 09 Apr 2021 18:08:49 -0700</lastBuildDate>
+ <pubDate>Fri, 09 Apr 2021 18:08:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Mini: Medium Difficulty</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/10/brew-mini-medium-difficulty</link>
+  <author>Neal Freyman</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/10/brew-mini-medium-difficulty</guid>
+  <pubDate>Fri, 09 Apr 2021 18:06:48 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Mini: Hard</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -361,15 +370,6 @@
   <categories>jobs</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/us-companies-trouble-finding-qualified-workers?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 07 Apr 2021 03:01:48 -0700</pubDate>
- </item>
- <item>
-  <title>Topps Is Taking Its Baseball Cards and Soon-to-Be NFTs Public</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4650%2Ftopps_goes_public.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It owns Bazooka candy and a gift cards business, and it recently announced it’s expanding NFTs. Eisner calls adding this digital collectible component to its physical offerings "the icing on the cake."  It's more than a bet on baseball cardsTopps has its hands in other pockets, and it's pulling up more gold than lint.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/06/topps-taking-baseball-cards-soontobe-nfts-public</link>
-  <author>Jamie Wilde</author>
-  <categories>spac</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/topps-taking-baseball-cards-soontobe-nfts-public</guid>
-  <pubDate>Tue, 06 Apr 2021 15:01:49 -0700</pubDate>
  </item>
 
 </channel>
