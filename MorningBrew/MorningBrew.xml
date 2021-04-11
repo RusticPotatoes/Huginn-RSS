@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/09/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/11/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/11/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/09</link>
- <lastBuildDate>Fri, 09 Apr 2021 18:08:49 -0700</lastBuildDate>
- <pubDate>Fri, 09 Apr 2021 18:08:49 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/11</link>
+ <lastBuildDate>Sun, 11 Apr 2021 16:28:48 -0700</lastBuildDate>
+ <pubDate>Sun, 11 Apr 2021 16:28:48 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Company Execs Meet at White House Over Chip Shortage</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FQ4MKucytzKYJ4elFhG%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Sony said the chip shortage is the reason why there are so few PS5’s available.  Senior execs from almost 20 companies are heading to the White House today to discuss the current chip shortage and to ensure more supply chain chaos doesn’t break out in the future.  But it’s a big problemThe chip shortage has affected “virtually every major car company in recent months,” according to the WSJ, forcing automakers to halt production of their most popular cars. Those will take years and hundreds of billions worth of investments to resolve.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/11/company-execs-meet-white-house-chip-shortage</link>
+  <author>Neal Freyman</author>
+  <categories>supply chain</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/company-execs-meet-white-house-chip-shortage</guid>
+  <pubDate>Sun, 11 Apr 2021 16:26:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Recapping the Busy Weekend in Sports Biz</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4695%2Fucf_football_player.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;    The Timberwolves are getting new owners: Fresh off losing a bidding war for the NY Mets, baseball star-turned-businessman Alex Rodriguez is teaming up with e-commerce legend Marc Lore to buy the NBA’s Minnesota Timberwolves and the WNBA’s Minnesota Lynx.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/11/recapping-busy-weekend-sports-biz</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/recapping-busy-weekend-sports-biz</guid>
+  <pubDate>Sun, 11 Apr 2021 16:26:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>CEOs Made More Than Ever In The Pandemic</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FLdOyjZ7io5Msw%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Case in point: Paycom CEO Chad RichisonHe’s the newly crowned highest-paid CEO in the S&amp;P 500 with a total compensation of $211 million in 2020.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/11/ceos-made-ever-pandemic</link>
+  <author>Jamie Wilde</author>
+  <categories>ceos</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/ceos-made-ever-pandemic</guid>
+  <pubDate>Sun, 11 Apr 2021 16:26:47 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Mini: Medium Difficulty</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -342,33 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/key-performance-indicators-april-7?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 07 Apr 2021 03:01:48 -0700</pubDate>
- </item>
- <item>
-  <title>Topps Is Taking Its Baseball Cards and Soon-to-Be NFTs Public</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4650%2Ftopps_goes_public.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It owns Bazooka candy and a gift cards business, and it recently announced it’s expanding into NFTs. Eisner calls adding this digital collectible component to its physical offerings "the icing on the cake."  It's more than a bet on baseball cardsTopps has its hands in other pockets, and it's pulling up more gold than lint.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/06/topps-taking-baseball-cards-soontobe-nfts-public?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>spac</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/topps-taking-baseball-cards-soontobe-nfts-public?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 07 Apr 2021 03:01:48 -0700</pubDate>
- </item>
- <item>
-  <title>Credit Suisse Announces Cost-Cutting Measures in Wake of Scandal</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4647%2Fcredit_suisse.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After March's collapse of Archegos Capital Management cost Credit Suisse almost $4.7 billion, the bank announced yesterday it's pulling executive board bonuses, suspending buybacks, cutting its dividend, and letting its top investment banker and chief risk officer go.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/06/credit-suisse-announces-costcutting-measures-wake-scandal?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/credit-suisse-announces-costcutting-measures-wake-scandal?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 07 Apr 2021 03:01:48 -0700</pubDate>
- </item>
- <item>
-  <title>US Companies Having Trouble Finding Qualified Workers</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4646%2Fhiring_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Manufacturing: Factory activity in the US hit its highest level in 37 years in March, but it would've been higher had there been enough qualified workers to helm production lines. First, the headline stat: US job openings surged to a two-year high in February, the Labor Department said yesterday. Applebee’s is paying $3,000 for manager referrals after the first six months.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/06/us-companies-trouble-finding-qualified-workers?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>jobs</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/us-companies-trouble-finding-qualified-workers?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 07 Apr 2021 03:01:48 -0700</pubDate>
  </item>
 
