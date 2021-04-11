@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/11</link>
- <lastBuildDate>Sun, 11 Apr 2021 16:33:48 -0700</lastBuildDate>
- <pubDate>Sun, 11 Apr 2021 16:33:48 -0700</pubDate>
+ <lastBuildDate>Sun, 11 Apr 2021 16:38:48 -0700</lastBuildDate>
+ <pubDate>Sun, 11 Apr 2021 16:38:48 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: April 12</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FL2g5zJPeatTxFuoPNT%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Quote: Chinese vaccines “don’t have very high protection rates.” (The Atlantic)   Read: America is about to go Botox wild.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/11/key-performance-indicators-april-12</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/key-performance-indicators-april-12</guid>
+  <pubDate>Sun, 11 Apr 2021 16:36:48 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: April 12</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3457%2Fcoinbase_ipo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Economic data: The biggest report of the week is Tuesday’s Consumer Price Index, which will reveal how worried we should actually be about inflation.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/honeywell-william-release-xupermask?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 07 Apr 2021 03:01:48 -0700</pubDate>
- </item>
- <item>
-  <title>The TL;DR of Georgia's Voting Law</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3606%2Fgeorgia_peach.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The US has a long history of suppressing voting access for Black and minority populations, and critics say this law continues that practice. More access in some cases: The GA law guarantees a minimum # of drop boxes for mail ballots per county, expands early voting in most small counties, and adds more resources to polling places where lines get long. Have another question?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/06/tldr-georgias-voting-law?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>qanda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/tldr-georgias-voting-law?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 07 Apr 2021 03:01:48 -0700</pubDate>
  </item>
 
