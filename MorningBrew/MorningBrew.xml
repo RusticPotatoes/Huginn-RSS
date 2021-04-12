@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/11/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/11/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/12/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/11</link>
- <lastBuildDate>Sun, 11 Apr 2021 16:38:48 -0700</lastBuildDate>
- <pubDate>Sun, 11 Apr 2021 16:38:48 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/12</link>
+ <lastBuildDate>Mon, 12 Apr 2021 03:03:45 -0700</lastBuildDate>
+ <pubDate>Mon, 12 Apr 2021 03:03:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: April 12</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3457%2Fcoinbase_ipo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Economic data: The biggest report of the week is Tuesday’s Consumer Price Index, which will reveal how worried we should actually be about inflation.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/11/week-ahead-april-12?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/week-ahead-april-12?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 12 Apr 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 12</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FL2g5zJPeatTxFuoPNT%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Quote: Chinese vaccines “don’t have very high protection rates.” (The Atlantic)   Read: America is about to go Botox wild.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/11/key-performance-indicators-april-12?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/key-performance-indicators-april-12?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 12 Apr 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Recapping the Busy Weekend in Sports Biz</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4695%2Fucf_football_player.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Japan is very into golf—it has as many courses as the UK + Ireland combined. Golf history: With his victory at the Masters, Hideki Matsuyama became the first male Japanese golfer to win a major tournament. he’s selling it for $1.5 billion.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/11/recapping-busy-weekend-sports-biz?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/recapping-busy-weekend-sports-biz?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 12 Apr 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>CEOs Made More Than Ever In The Pandemic</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FLdOyjZ7io5Msw%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Case in point: Paycom CEO Chad RichisonHe’s the newly crowned highest-paid CEO in the S&amp;P 500 with a total compensation of $211 million in 2020.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/11/ceos-made-ever-pandemic?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>c suite</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/ceos-made-ever-pandemic?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 12 Apr 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Company Execs Meet at White House Over Chip Shortage</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FQ4MKucytzKYJ4elFhG%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Sony said the chip shortage is the reason why there are so few PS5s available.  Senior execs from almost 20 companies are heading to the White House today to discuss the current chip shortage and ensure more supply chain chaos doesn’t break out in the future.  But it’s a big problemThe chip shortage has affected “virtually every major car company in recent months,” according to the WSJ, forcing automakers to halt production of their most popular cars. Those will take years and hundreds of billions worth of investments to resolve.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/11/company-execs-meet-white-house-chip-shortage?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>supply chain</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/company-execs-meet-white-house-chip-shortage?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 12 Apr 2021 03:01:54 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: April 12</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FL2g5zJPeatTxFuoPNT%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Quote: Chinese vaccines “don’t have very high protection rates.” (The Atlantic)   Read: America is about to go Botox wild.</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/key-performance-indicators-april-8</guid>
   <pubDate>Wed, 07 Apr 2021 14:41:51 -0700</pubDate>
- </item>
- <item>
-  <title>Uber to Invest $250 Million to Bring Back Drivers</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4658%2Fuber_cash.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Uber focused most of its energy on beefing up food delivery service and Lyft focused on being the second app you open when Uber seems too expensive, but neither could make up for absent airport drop-offs: They lost a combined $8.5 billion last year. In Q1 2021, the number of drivers logging onto the Uber app each day was down ~40% over last year, per Apptopia.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/07/uber-invest-250-million-bring-back-drivers</link>
-  <author>Matty Merritt</author>
-  <categories>rideshare</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/uber-invest-250-million-bring-back-drivers</guid>
-  <pubDate>Wed, 07 Apr 2021 14:36:51 -0700</pubDate>
- </item>
- <item>
-  <title>Global Venture Funding Hits Record High in 2021’s First Quarter</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4659%2Fcrunchbase_venture_capital_chart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;CryptoBlockchain startups raised more money last quarter than in all of 2020, per CB Insights.  Lots of Lady Rainicorns rode that investment boom: Approximately two startups joined the Crunchbase Private Unicorn Board per working day in Q1. com, and Dapper Labs, which runs the NFT platforms NBA Top Shot and CryptoKitties.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/07/global-venture-funding-hits-record-high-2021s-first-quarter</link>
-  <author>Jamie Wilde</author>
-  <categories>vc</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/global-venture-funding-hits-record-high-2021s-first-quarter</guid>
-  <pubDate>Wed, 07 Apr 2021 14:36:51 -0700</pubDate>
- </item>
- <item>
-  <title>Twitch Expands User Moderation Beyond Its Platform</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4660%2Fparis_games_week_2019_p.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Twitch isn’t the first platform to break down the walls ofn its content garden.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/07/twitch-expands-user-moderation-beyond-platform</link>
-  <author>Jamie Wilde</author>
-  <categories>moderation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/twitch-expands-user-moderation-beyond-platform</guid>
-  <pubDate>Wed, 07 Apr 2021 14:36:51 -0700</pubDate>
- </item>
- <item>
-  <title>The Great Corporate Tax Negotiation Has Begun</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4661%2Finfrastructure_meme.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Finance ministers said they could elbow bump on a plan as early as July.  She said that the government’s investments in infrastructure will add 1.6% to US GDP by 2024.  Not everyone loves hiking Sen. Joe Manchin, a moderate Democrat who wields a lot of power in the Senate, said he doesn’t support raising the corporate tax rate above 25%.  Zoom out: While all this is going on in the US, momentum is building for a global minimum corporate tax rate, which would eliminate companies’ HQ-hopping to the most attractive tax location.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/07/great-corporate-tax-negotiation-begun</link>
-  <author>Neal Freyman</author>
-  <categories>taxes</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/great-corporate-tax-negotiation-begun</guid>
-  <pubDate>Wed, 07 Apr 2021 14:36:51 -0700</pubDate>
- </item>
- <item>
-  <title>Honeywell and Will.i.am Release “Xupermask”</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4651%2Fhoneywell_will_i_am_xupermask.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;We asked on Twitter. would you rock this $299 Daft Punk x Blade Runner look?  But more importantly...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/06/honeywell-william-release-xupermask?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/06/honeywell-william-release-xupermask?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 07 Apr 2021 03:01:48 -0700</pubDate>
  </item>
 
 </channel>
