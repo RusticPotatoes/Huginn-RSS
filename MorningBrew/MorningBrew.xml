@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/13</link>
- <lastBuildDate>Tue, 13 Apr 2021 03:03:46 -0700</lastBuildDate>
- <pubDate>Tue, 13 Apr 2021 03:03:46 -0700</pubDate>
+ <lastBuildDate>Tue, 13 Apr 2021 14:48:49 -0700</lastBuildDate>
+ <pubDate>Tue, 13 Apr 2021 14:48:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Consumer Prices Rise More Than Expected in March</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4715%2Fgas_pump_with_dollar_bills.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A big annual increase in prices simply doesn't tell us much when the point of comparison is so abnormal. That's a recipe for a price bump. Some economists are concerned that too much stimulus will cause an overheated economy.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/13/consumer-prices-rise-expected-march</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/consumer-prices-rise-expected-march</guid>
+  <pubDate>Tue, 13 Apr 2021 14:46:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>US Regulators Recommend Pause for Johnson &amp; Johnson Vaccine</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fa93jwI0wkWTQs%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; To-date, J&amp;J has accounted for &lt;5% of all US shots administered. Yesterday, Johnson &amp; Johnson joined millions of disappointed students on dreaded waitlists after the CDC and FDA recommended pausing its single-dose Covid vaccine while they investigate reports of rare blood clots. While all J&amp;J shots administered through federal channels are paused, state vaccine programs can make their own decisions.  The agencies say this is out of an "abundance of caution" while they determine if the vaccine caused rare blood clots and low platelet counts in six women shortly after their vaccination.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/13/us-regulators-recommend-pause-johnson-johnson-vaccine</link>
+  <author>Alex Hickey</author>
+  <categories>public health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/us-regulators-recommend-pause-johnson-johnson-vaccine</guid>
+  <pubDate>Tue, 13 Apr 2021 14:46:48 -0700</pubDate>
+ </item>
  <item>
   <title>Domino's Partners with Nuro to Deliver Pizza via Driverless Vehicle</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FOjJbbiCtMzFiywYIgB%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Chipotle invested in Nuro's $500 million Series C funding round last month and the company was just approved at the end of last year to begin testing on public roads in California. From a sales and drunk on High Life POV, Domino's pizza is the top pizza chain in the country.</description>
@@ -352,24 +370,6 @@
   <categories>labor</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/amazon-leads-union-21-half-votes-counted</guid>
   <pubDate>Thu, 08 Apr 2021 18:06:51 -0700</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: April 9</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/08/brews-weekly-news-quiz-april-9</link>
-  <author>Jamie Wilde</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/brews-weekly-news-quiz-april-9</guid>
-  <pubDate>Thu, 08 Apr 2021 14:56:54 -0700</pubDate>
- </item>
- <item>
-  <title>Costco Food Courts Slowly Return to Normal Operation</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4668%2Fcostco.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It's one of the most famous perks that helps sell customers on the annual membership fee.  Zoom out: Costco's bargain food-court eats have a cult following that makes In-n-Out's not-so-secret secret menu jealous.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/08/costco-food-courts-slowly-return-normal-operation</link>
-  <author>Alex Hickey</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/costco-food-courts-slowly-return-normal-operation</guid>
-  <pubDate>Thu, 08 Apr 2021 14:51:54 -0700</pubDate>
  </item>
 
 </channel>
