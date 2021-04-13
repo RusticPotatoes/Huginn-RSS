@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/12/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/13/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/12</link>
- <lastBuildDate>Mon, 12 Apr 2021 14:53:52 -0700</lastBuildDate>
- <pubDate>Mon, 12 Apr 2021 14:53:52 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/13</link>
+ <lastBuildDate>Tue, 13 Apr 2021 03:03:46 -0700</lastBuildDate>
+ <pubDate>Tue, 13 Apr 2021 03:03:46 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Domino's Partners with Nuro to Deliver Pizza via Driverless Vehicle</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FOjJbbiCtMzFiywYIgB%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Chipotle invested in Nuro's $500 million Series C funding round last month and the company was just approved at the end of last year to begin testing on public roads in California. From a sales and drunk on High Life POV, Domino's pizza is the top pizza chain in the country.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/12/dominos-partners-nuro-deliver-pizza-via-driverless-vehicle?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>delivery</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/12/dominos-partners-nuro-deliver-pizza-via-driverless-vehicle?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 13 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F179%2Fharvard_university.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Dror Poleg)  Read: The future of work is a pyramid scheme, where every person sells his favorite person to the next person. Yesterday, Uber said total monthly bookings, which include ride-hailing and food delivery, hit record levels in March.  Khosrowshahi is high on the company's trajectory.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/12/key-performance-indicators?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/12/key-performance-indicators?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 13 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>Ant Group Forced to Undergo Major Restructuring</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3603%2Fjack_ma.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  It wasn't clear exactly why proceedings stopped but, the month before the planned offering, Jack Ma, the billionaire controlling shareholder of Ant and cofounder of Ant's sister company, Alibaba, criticized Chinese officials in a high-profile speech.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/12/ant-group-forced-undergo-major-restructuring?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>fintech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/12/ant-group-forced-undergo-major-restructuring?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 13 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>Will Smith's Upcoming Movie Pulls out of Georgia Over New Voting Law</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4711%2Fwill_smith.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Will Smith and director Antoine Fuqua announced yesterday they would pull production of their upcoming film out of Georgia because of the state's new controversial voting law.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/12/will-smiths-upcoming-movie-pulls-georgia-new-voting-law?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>film and tv</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/12/will-smiths-upcoming-movie-pulls-georgia-new-voting-law?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 13 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>Microsoft to Buy Speech Tech Company Nuance for $16B</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4713%2Fmicrosoft_microphone.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Big picture: Microsoft worked on speech tech for years, but has had less success in the consumer market than Amazon or Google.    With Nuance, Microsoft scores a big list of healthcare clients + lots of speech data, which is important for building and fine-tuning those AI systems.  In the US, over half of physicians and three-quarters of hospitals use Nuance software.  This year, it reportedly dangled over $50 billion in front of Pinterest and is in talks to buy Discord for $10+ billion. The Nuance acquisition could catapult it ahead. er, nuance of human language.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/12/microsoft-buy-speech-tech-company-nuance-16b?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/12/microsoft-buy-speech-tech-company-nuance-16b?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 13 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
  <item>
   <title>Ant Group Forced to Undergo Major Restructuring</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3603%2Fjack_ma.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  It wasn't clear exactly why proceedings stopped but, the month before the planned offering, Jack Ma, the billionaire controlling shareholder of Ant and cofounder of Ant's sister company, Alibaba, criticized Chinese officials in a high-profile speech.</description>
@@ -325,51 +370,6 @@
   <categories>retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/costco-food-courts-slowly-return-normal-operation</guid>
   <pubDate>Thu, 08 Apr 2021 14:51:54 -0700</pubDate>
- </item>
- <item>
-  <title>Luxury Brands See Sales Boom Despite Pandemic</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4667%2Frolls_royce_gold.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Even in a year of economic struggle for many, there are 660 more billionaires than there were a year ago, and 86% of billionaires got richer over the last year, moving the total wealth of all billionaires in the world jump $5 trillion, according to Forbes's annual list of people least likely to know what a Baja Blast is.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/08/luxury-brands-see-sales-boom-despite-pandemic</link>
-  <author>Matty Merritt</author>
-  <categories>luxury brands</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/luxury-brands-see-sales-boom-despite-pandemic</guid>
-  <pubDate>Thu, 08 Apr 2021 14:41:50 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 9</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl0X9Z3f6D41QKrnOf0%2Fsource.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At a virtual roundtable Wednesday, billionaire investor and crypto bull Peter Thiel said he considers bitcoin a potential threat to the supremacy of the US dollar. (The Cut)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/08/key-performance-indicators-april-9</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/key-performance-indicators-april-9</guid>
-  <pubDate>Thu, 08 Apr 2021 14:41:50 -0700</pubDate>
- </item>
- <item>
-  <title>CDC, Cruise Lines Spar Over Reopening</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F829%2Fcruise_line.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; But to bring customers back, cruise lines will have to... Carnival, Norwegian, and Royal Caribbean lost almost $7 billion last year. Norwegian, the first major US cruise line to publish reopening plans, said it will require them.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/08/cdc-cruise-lines-spar-reopening</link>
-  <author>Alex Hickey</author>
-  <categories>travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/cdc-cruise-lines-spar-reopening</guid>
-  <pubDate>Thu, 08 Apr 2021 14:41:49 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Announces Executive Actions on Gun Control</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4670%2Fpresident_biden_delivers.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: Biden wants to prioritize the Covid-19 response and his infrastructure bill, but gun control has re-emerged as a policy focus following mass shootings in Atlanta, Boulder, and, most recently, Rock Hill, SC.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/08/biden-announces-executive-actions-gun-control</link>
-  <author>Neal Freyman</author>
-  <categories>regulation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/biden-announces-executive-actions-gun-control</guid>
-  <pubDate>Thu, 08 Apr 2021 14:31:46 -0700</pubDate>
- </item>
- <item>
-  <title>Global Venture Funding Hits Record High in 2021’s First Quarter</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4659%2Fcrunchbase_venture_capital_chart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;CryptoBlockchain startups raised more money last quarter than in all of 2020, per CB Insights.  Lots of Lady Rainicorns rode that investment boom: Approximately two startups joined the Crunchbase Private Unicorn Board per working day in Q1. com, and Dapper Labs, which runs the NFT platforms NBA Top Shot and CryptoKitties.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/07/global-venture-funding-hits-record-high-2021s-first-quarter?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>venture capital</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/07/global-venture-funding-hits-record-high-2021s-first-quarter?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 08 Apr 2021 03:01:52 -0700</pubDate>
  </item>
 
 </channel>
