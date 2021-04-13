@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/13</link>
- <lastBuildDate>Tue, 13 Apr 2021 14:48:49 -0700</lastBuildDate>
- <pubDate>Tue, 13 Apr 2021 14:48:49 -0700</pubDate>
+ <lastBuildDate>Tue, 13 Apr 2021 14:53:55 -0700</lastBuildDate>
+ <pubDate>Tue, 13 Apr 2021 14:53:55 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Q&amp;A: What Are Company Earnings, Why do They Affect Stocks?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2483%2Fstocks_going_down.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Question from Reha in Boston: How does a company's quarterly earnings report affect its stock price? But an earnings report can also show metrics like revenue, subscriber counts (in the case of companies like Netflix), and predictions for future performance, aka "guidance." Then, execs usually host a conference call to parse the data in front of analysts and whichever media interns drew the short stick."</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/13/qa-company-earnings-affect-stocks</link>
+  <author>Alex Hickey</author>
+  <categories>explainer</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/qa-company-earnings-affect-stocks</guid>
+  <pubDate>Tue, 13 Apr 2021 14:51:54 -0700</pubDate>
+ </item>
  <item>
   <title>Consumer Prices Rise More Than Expected in March</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4715%2Fgas_pump_with_dollar_bills.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A big annual increase in prices simply doesn't tell us much when the point of comparison is so abnormal. That's a recipe for a price bump. Some economists are concerned that too much stimulus will cause an overheated economy.</description>
@@ -361,15 +370,6 @@
   <categories>luxury</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/luxury-brands-see-sales-boom-despite-pandemic?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 09 Apr 2021 03:01:51 -0700</pubDate>
- </item>
- <item>
-  <title>Amazon Leads Union 2:1 With About Half the Votes Counted</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4671%2Funion_push_at_amazon_ware.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But for now, it appears as though Amazon may have dodged a labor organizing threat that would have rippled across the e-commerce industry.   As execs at Sears and Barnes &amp; Noble can tell you, it’s virtually impossible to beat Amazon—and organizers trying to form the company’s first union at a US facility are finding that out. a legal battle could push off a conclusive result for weeks. NFL players and actors took up the cause as a civil rights issue, since most of the workers at the Bessemer facility are Black. Democrats including President Biden and Sen. Bernie Sanders voiced support, and so did some Republicans, like Sen. Marco Rubio. but by app.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/08/amazon-leads-union-21-half-votes-counted</link>
-  <author>Neal Freyman</author>
-  <categories>labor</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/amazon-leads-union-21-half-votes-counted</guid>
-  <pubDate>Thu, 08 Apr 2021 18:06:51 -0700</pubDate>
  </item>
 
 </channel>
