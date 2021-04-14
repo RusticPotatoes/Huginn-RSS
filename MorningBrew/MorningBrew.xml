@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/14</link>
- <lastBuildDate>Wed, 14 Apr 2021 14:43:45 -0700</lastBuildDate>
- <pubDate>Wed, 14 Apr 2021 14:43:45 -0700</pubDate>
+ <lastBuildDate>Wed, 14 Apr 2021 14:53:49 -0700</lastBuildDate>
+ <pubDate>Wed, 14 Apr 2021 14:53:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Hundreds of Companies and CEOs Sign Pro-Voting Access Letter</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4731%2Fnyt_ad.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Former American Express CEO Kenneth Chenault and Merck CEO Kenneth Frazier, two high-profile Black corporate leaders, led the effort. They did, however, all put out their own statements on the issue preceding the passage of Georgia’s controversial law.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/14/hundreds-companies-ceos-sign-provoting-access-letter</link>
+  <author>Jamie Wilde</author>
+  <categories>voting rights</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/14/hundreds-companies-ceos-sign-provoting-access-letter</guid>
+  <pubDate>Wed, 14 Apr 2021 14:51:48 -0700</pubDate>
+ </item>
  <item>
   <title>Bernard L. Madoff Dies at 82 in Prison After Largest Ponzi Scheme in History</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4730%2Fbernie_madoff.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Madoff orchestrated the biggest investment fraud in US history, costing his investors a total of $64.8 billion and earning him a 150-year prison sentence. Zoom out: While Madoff claimed he was the sole organizer, more than a dozen people, including his brother Peter Madoff, were convicted of federal crimes.  At 22, Madoff started his investment company in 1960.</description>
@@ -361,15 +370,6 @@
   <categories>taxes</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/new-york-raises-income-taxes-super-wealthy-raising-concerns-among-corporations</guid>
   <pubDate>Fri, 09 Apr 2021 15:41:45 -0700</pubDate>
- </item>
- <item>
-  <title>The Biden Administration Releases Their $1.52 trillion Budget Proposal</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4692%2Fbudget_scale.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Other highlights:$3 billion for immigration—an issue Biden recently caught flak for and handed over to VP Kamala Harris$2.7 billion for Amtrak, with most of that going to pay for better delay excuses23% increase in health spending and a record 40% increase for educationBottom line: Biden will have trouble passing this proposed budget because of a measly 1.7% increase to defense spending that already has GOP lawmakers grumbling.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/09/biden-administration-releases-152-trillion-budget-proposal</link>
-  <author>Matty Merritt</author>
-  <categories>budget</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/biden-administration-releases-152-trillion-budget-proposal</guid>
-  <pubDate>Fri, 09 Apr 2021 14:56:48 -0700</pubDate>
  </item>
 
 </channel>
