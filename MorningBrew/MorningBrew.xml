@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/13/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/14/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/13</link>
- <lastBuildDate>Tue, 13 Apr 2021 14:58:52 -0700</lastBuildDate>
- <pubDate>Tue, 13 Apr 2021 14:58:52 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/14</link>
+ <lastBuildDate>Wed, 14 Apr 2021 03:03:51 -0700</lastBuildDate>
+ <pubDate>Wed, 14 Apr 2021 03:03:51 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Q&amp;A: What Are Company Earnings, Why do They Affect Stocks?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2483%2Fstocks_going_down.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Question from Reha in Boston: How does a company's quarterly earnings report affect its stock price? But an earnings report can also show metrics like revenue, subscriber counts (in the case of companies like Netflix), and predictions for future performance, aka "guidance." Then, execs usually host a conference call to parse the data in front of analysts and whichever media interns drew the short stick."</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/13/qa-company-earnings-affect-stocks?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>explainer</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/qa-company-earnings-affect-stocks?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 14 Apr 2021 03:01:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Boba Supply Chain Is Drying Up</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FdlljxrM1mmHPx9qqgJ%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; It's a lot to chew on: Big-time boba shop Boba Guys posted an Instagram video explaining that 99% of US boba is imported from overseas. The slurpable little tapioca balls are the latest victim of a pandemic-strapped supply chain, reports the SF Chronicle.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/13/boba-supply-chain-drying?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>supply chain</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/boba-supply-chain-drying?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 14 Apr 2021 03:01:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 14</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4714%2Fcountry_landscape.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Emerging Tech Brew) Read: Your definitive guide to autonomous vehicles. The main culprits: wealthy Americans and large corporations.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/13/key-performance-indicators-april-14?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/key-performance-indicators-april-14?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 14 Apr 2021 03:01:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>Consumer Prices Rise More Than Expected in March</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4715%2Fgas_pump_with_dollar_bills.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;US consumer prices increased the most in nearly nine years in March: 0.6% over the prior month and 2.6% over last year. Some economists are concerned that too much stimulus will cause an overheated economy.   Looking ahead…the Fed expects a temporary bump in prices that will smooth out once supply chains figure their Suez out.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/13/consumer-prices-rise-expected-march?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/consumer-prices-rise-expected-march?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 14 Apr 2021 03:01:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>Grab Set To Become The Biggest SPAC Merger to Date</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4716%2Fsingapore-toyota-grab-tra.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Through the deal, Grab will raise $4 billion to tap the pandemic-driven influx of ~40 million Southeast Asians estimated to have gotten online for the first time in 2020.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/13/grab-set-become-biggest-spac-merger-date?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>spac</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/grab-set-become-biggest-spac-merger-date?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 14 Apr 2021 03:01:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>US Regulators Recommend Pause for Johnson &amp; Johnson Vaccine</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fa93jwI0wkWTQs%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, Johnson &amp; Johnson joined millions of disappointed students on dreaded waitlists after the CDC and FDA recommended pausing its single-dose Covid vaccine while they investigate reports of rare blood clots. the CDC committee that makes recommendations on immunization practices meets today to discuss when J&amp;J's one shot gets a second shot.  The agencies say this is out of an "abundance of caution" while they determine if the vaccine caused rare blood clots and low platelet counts in six women shortly after their vaccinations.  To-date, J&amp;J has accounted for &lt;5% of all US shots administered.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/13/us-regulators-recommend-pause-johnson-johnson-vaccine?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>public health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/us-regulators-recommend-pause-johnson-johnson-vaccine?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 14 Apr 2021 03:01:50 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: April 14</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4714%2Fcountry_landscape.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Emerging Tech Brew) Read: Your definitive guide to autonomous vehicles. The main culprits: wealthy Americans and large corporations.</description>
@@ -316,60 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/vaccine-tracker-april-10</guid>
   <pubDate>Fri, 09 Apr 2021 14:51:49 -0700</pubDate>
- </item>
- <item>
-  <title>Death of Two Notable Public Figures Friday Sparks Messages of Remembrance</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4691%2Fobituary.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Prince Philip, husband of Queen Elizabeth II, was the longest-serving royal spouse in British history. We lost two public figures yesterday: DMX and Prince Philip. He was 99 when he died yesterday at Windsor Castle. The Duke of Edinburgh. He was regarded as one of the biggest hip hop stars in the late 1990s and early 2000s.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/09/death-two-notable-public-figures-friday-sparks-messages-remembrance</link>
-  <author>Matty Merritt</author>
-  <categories>obituary</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/death-two-notable-public-figures-friday-sparks-messages-remembrance</guid>
-  <pubDate>Fri, 09 Apr 2021 14:51:49 -0700</pubDate>
- </item>
- <item>
-  <title>Ask HR: Can I Eat During Zoom Meetings?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Not for nothing, you could probably get away with keeping your video off during a larger group meeting to eat food. During Covid, I've helped Morning Brew host trivia nights, socially distanced picnics, a virtual drag show, a magic show, and a virtual escape room, just to name a few. But if you feel nervous about eating your sushi on camera, then you might want to wait until after the awkward goodbye waves at the end of your meeting. Do you have any ideas for non-cringe virtual activities?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/09/ask-hr-can-eat-zoom-meetings</link>
-  <author>Neal Freyman</author>
-  <categories>work life</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/ask-hr-can-eat-zoom-meetings</guid>
-  <pubDate>Fri, 09 Apr 2021 14:36:46 -0700</pubDate>
- </item>
- <item>
-  <title>The Big Ballot Showdown at the Arctic Circle</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4675%2Fgreenland_ballot.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;When Greenland pops up in the news, it means one of three things: a) global warming is getting worse, b) someone wants to buy it, or c) a dramatic election was just held over a rare earths mining project with implications for US national security. Expect the battle over Greenland, and within Greenland itself, to heat up in the next few years.  For the US: With China controlling over 70% of rare earth mining, the US is eyeing Greenland’s reserves (about 10% of the world’s rare earths) as a way to become less reliant on China for these critical raw materials. But like _____, there’s so much potential, and that’s what this election was all about. A lot is at stake For Greenland and for the US, China, Russia, or anyone else that considers themselves a global superpower.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/09/big-ballot-showdown-arctic-circle</link>
-  <author>Neal Freyman</author>
-  <categories>analysis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/big-ballot-showdown-arctic-circle</guid>
-  <pubDate>Fri, 09 Apr 2021 14:11:49 -0700</pubDate>
- </item>
- <item>
-  <title>Open House</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;Amenities include:5 beds, 4 bathsA pool surrounded by giant oak trees for secret pool parties (nothing weird, just secret)3 fireplacesA master bedroom with a sitting area, perfect for resting before a long night of sleepingHow much do you think it costs?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/09/open-house</link>
-  <author>Matty Merritt</author>
-  <categories>real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/open-house</guid>
-  <pubDate>Fri, 09 Apr 2021 14:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 9</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl0X9Z3f6D41QKrnOf0%2Fsource.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At a virtual roundtable Wednesday, billionaire investor and crypto bull Peter Thiel said he considers bitcoin a potential threat to the supremacy of the US dollar. (The Cut)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/08/key-performance-indicators-april-9?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/key-performance-indicators-april-9?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 09 Apr 2021 03:01:51 -0700</pubDate>
- </item>
- <item>
-  <title>CDC, Cruise Lines Spar Over Reopening</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F829%2Fcruise_line.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; But to bring customers back, per CDC rules, cruise lines will have to... Carnival, Norwegian, and Royal Caribbean lost almost $7 billion last year. Norwegian, the first major US cruise line to publish reopening plans, said it will require them. Recommend vaccinations for everyone.  Run simulated voyages to rehearse safety procedures.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/08/cdc-cruise-lines-spar-reopening?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/08/cdc-cruise-lines-spar-reopening?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 09 Apr 2021 03:01:51 -0700</pubDate>
  </item>
 
 </channel>
