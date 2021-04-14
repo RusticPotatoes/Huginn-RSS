@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/14</link>
- <lastBuildDate>Wed, 14 Apr 2021 13:18:48 -0700</lastBuildDate>
- <pubDate>Wed, 14 Apr 2021 13:18:48 -0700</pubDate>
+ <lastBuildDate>Wed, 14 Apr 2021 14:43:45 -0700</lastBuildDate>
+ <pubDate>Wed, 14 Apr 2021 14:43:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Bernard L. Madoff Dies at 82 in Prison After Largest Ponzi Scheme in History</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4730%2Fbernie_madoff.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Madoff orchestrated the biggest investment fraud in US history, costing his investors a total of $64.8 billion and earning him a 150-year prison sentence. Zoom out: While Madoff claimed he was the sole organizer, more than a dozen people, including his brother Peter Madoff, were convicted of federal crimes.  At 22, Madoff started his investment company in 1960.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/14/bernard-l-madoff-dies-82-prison-largest-ponzi-scheme-history</link>
+  <author>Matty Merritt</author>
+  <categories>obituary</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/14/bernard-l-madoff-dies-82-prison-largest-ponzi-scheme-history</guid>
+  <pubDate>Wed, 14 Apr 2021 14:41:45 -0700</pubDate>
+ </item>
  <item>
   <title>How Forbes 30 Under 30’s Phillip Aubrey Does His Taxes </title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4729%2Fphillip_aubrey.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; MB: Can you tell us one do or don’t?  PA: A lot of people, especially on the startup side, tend to think whatever money they raise they can use all willy nilly.  MB: Before we bring it back to taxes, what’s one thing you learned while working with Alexis? Then we swapped cards so no one had their own, and anyone who wanted to take money out of their account had to go back to the group and ask the group to release their funds.    PA: QuickBooks makes it very easy for us to categorize expenses, so when we hand things over to our accountant, it’s not difficult to understand where money went and is going.  MB: What’s tough about it?  MB: I know this is supposed to be a tax interview but I have to ask, you were working for Alexis Ohanian’s Initialized Capital before you left to run Yunit full-time.  PA: Even being able to answer some of the questions that our tax professional is asking to make sure they’re doing the paperwork correctly. Over a two-year period, not one person took money out of their account. The biggest benefit is we can very easily share ownership or sell shares of the company, whereas most other incorporation types don’t make that easy. The next stage is to make the app publicly available and allow people to start their own savings groups. He discussed the importance of keeping personal and business money separate, the power of using community to reach your financial goals, and the ups and downs of creating the world he wants to see.  PA: Alexis is a dreamer, and I love it. For example, keeping personal money separate from business money.  PA: My goal was to go out and raise venture money because I knew that I wanted to scale the business, and 99% of venture-backed businesses are a Delaware C-corp, which we are as well.  PA: It came a few years ago, when a partner was fired at a company where I worked.  PA: We are doing our private beta now, which is very exciting because I’m getting some great feedback. It shocked me because I didn’t know at the time that partners could be fired. And yet, no one was managing their money well.  MB: So how is Yunit structured as a business, and why did you decide to incorporate that way? So I reached out to that same person and asked him to help us out with our taxes.  Phillip Aubrey: Yunit is a mobile app that makes it easy for friends and family to save money together. You learn quickly what you can and cannot do.</description>
@@ -361,15 +370,6 @@
   <categories>budget</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/biden-administration-releases-152-trillion-budget-proposal</guid>
   <pubDate>Fri, 09 Apr 2021 14:56:48 -0700</pubDate>
- </item>
- <item>
-  <title>Video Shows Elon Musk’s Neuralink-Chipped Monkey Play Pong With His Mind</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fhzfkg5FowsBvA4iplA%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Musk tweeted that later versions of this device could enable paraplegics to walk again.  Here’s the play-by-play: The monkey (ironically named Pager) moves his joystick to play the Pong game displayed on the screen. The Neuralink device analyzes Pager’s movements and begins to predict them.  Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/09/video-shows-elon-musks-neuralinkchipped-monkey-play-pong-mind</link>
-  <author>Jamie Wilde</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/video-shows-elon-musks-neuralinkchipped-monkey-play-pong-mind</guid>
-  <pubDate>Fri, 09 Apr 2021 14:51:49 -0700</pubDate>
  </item>
 
 </channel>
