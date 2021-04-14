@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/14</link>
- <lastBuildDate>Wed, 14 Apr 2021 14:53:49 -0700</lastBuildDate>
- <pubDate>Wed, 14 Apr 2021 14:53:49 -0700</pubDate>
+ <lastBuildDate>Wed, 14 Apr 2021 14:58:46 -0700</lastBuildDate>
+ <pubDate>Wed, 14 Apr 2021 14:58:46 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>American Airlines Expects Summer Travel to Heat Up</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;To prepare, American Airlines is adding 150 new routes, both within the US and to international weekend destinations including Mexico and the Caribbean.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/14/american-airlines-expects-summer-travel-heat</link>
+  <author>Jamie Wilde</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/14/american-airlines-expects-summer-travel-heat</guid>
+  <pubDate>Wed, 14 Apr 2021 14:56:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>Coinbase Goes Public in Landmark Moment for Crypto</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4733%2Fcoinbase_going_public.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And like bitcoin, Coinbase is in many ways nontraditional. Coinbase will look to transition more of its client base from freshman pledges to institutional investors.  As the price of bitcoin shot up, so did Coinbase’s fortunes. Here’s why:It’s the first major crypto company to go public in the US. Yesterday, Coinbase, a cryptocurrency exchange, went public on the Nasdaq, a stock exchange. With a valuation of around $86 billion when trading closed yesterday, it’s bigger than exchanges like the New York Stock Exchange and Nasdaq.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/14/coinbase-goes-public-landmark-moment-crypto</link>
+  <author>Neal Freyman</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/14/coinbase-goes-public-landmark-moment-crypto</guid>
+  <pubDate>Wed, 14 Apr 2021 14:56:45 -0700</pubDate>
+ </item>
  <item>
   <title>Hundreds of Companies and CEOs Sign Pro-Voting Access Letter</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4731%2Fnyt_ad.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Former American Express CEO Kenneth Chenault and Merck CEO Kenneth Frazier, two high-profile Black corporate leaders, led the effort. They did, however, all put out their own statements on the issue preceding the passage of Georgia’s controversial law.</description>
@@ -352,24 +370,6 @@
   <categories>games</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/brew-mini-easy</guid>
   <pubDate>Fri, 09 Apr 2021 16:51:45 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 10</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F290%2Fnyse_trader.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Defector)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/09/key-performance-indicators-april-10</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/key-performance-indicators-april-10</guid>
-  <pubDate>Fri, 09 Apr 2021 15:51:47 -0700</pubDate>
- </item>
- <item>
-  <title>New York Raises Income Taxes on Super Wealthy, Raising Concerns Among Corporations</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F8hYypG9y61uLFBElHR%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;    This week, state lawmakers passed a budget that raises the personal income tax on individuals making over $1 million and introduces two new brackets for those making more than $5 million and $25 million. That’s not a record some New Yorkers want to break250 business executives have sent a letter to state lawmakers arguing that higher taxes would “jeopardize New York’s recovery from the economic crisis inflicted by Covid-19” by sending high-net-worth people fleeing.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/09/new-york-raises-income-taxes-super-wealthy-raising-concerns-among-corporations</link>
-  <author>Neal Freyman</author>
-  <categories>taxes</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/new-york-raises-income-taxes-super-wealthy-raising-concerns-among-corporations</guid>
-  <pubDate>Fri, 09 Apr 2021 15:41:45 -0700</pubDate>
  </item>
 
 </channel>
