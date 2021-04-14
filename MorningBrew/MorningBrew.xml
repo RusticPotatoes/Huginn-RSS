@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/14</link>
- <lastBuildDate>Wed, 14 Apr 2021 14:58:46 -0700</lastBuildDate>
- <pubDate>Wed, 14 Apr 2021 14:58:46 -0700</pubDate>
+ <lastBuildDate>Wed, 14 Apr 2021 15:03:45 -0700</lastBuildDate>
+ <pubDate>Wed, 14 Apr 2021 15:03:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: April 15</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4735%2Fbhutan_vaccinations.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(GQ) Read: The redemption of Justin Bieber.  President Biden said yesterday that he’ll withdraw all remaining US troops from Afghanistan by September 11, the 20-year anniversary of the 9/11 attacks.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/14/key-performance-indicators-april-15</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/14/key-performance-indicators-april-15</guid>
+  <pubDate>Wed, 14 Apr 2021 15:01:54 -0700</pubDate>
+ </item>
  <item>
   <title>American Airlines Expects Summer Travel to Heat Up</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;To prepare, American Airlines is adding 150 new routes, both within the US and to international weekend destinations including Mexico and the Caribbean.</description>
@@ -361,15 +370,6 @@
   <categories>games</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/10/brew-mini-hard</guid>
   <pubDate>Fri, 09 Apr 2021 17:51:52 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Mini: Easy</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/09/brew-mini-easy</link>
-  <author>Neal Freyman</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/09/brew-mini-easy</guid>
-  <pubDate>Fri, 09 Apr 2021 16:51:45 -0700</pubDate>
  </item>
 
 </channel>
