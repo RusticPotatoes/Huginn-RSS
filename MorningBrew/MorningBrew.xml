@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/15</link>
- <lastBuildDate>Thu, 15 Apr 2021 14:48:51 -0700</lastBuildDate>
- <pubDate>Thu, 15 Apr 2021 14:48:51 -0700</pubDate>
+ <lastBuildDate>Thu, 15 Apr 2021 14:53:51 -0700</lastBuildDate>
+ <pubDate>Thu, 15 Apr 2021 14:53:51 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Brew’s Weekly News Quiz: April 16</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/15/brews-weekly-news-quiz-april-16</link>
+  <author>Jamie Wilde</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/brews-weekly-news-quiz-april-16</guid>
+  <pubDate>Thu, 15 Apr 2021 14:51:50 -0700</pubDate>
+ </item>
  <item>
   <title>Mercedes-Benz Reveals Its First Electric Sedan</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4742%2Feqs_mercedes.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If EVs are the future of driving, luxury brands need to get it in gear. Its two-tone paint job is cool, but the most interesting part of the EQS is what it means for other legacy car companies trying to transition away from combustion engines. Zoom out. Hot stone seat massagers. Automatic doors.</description>
@@ -361,15 +370,6 @@
   <categories>supply chain</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/company-execs-meet-white-house-chip-shortage?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 12 Apr 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 12</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FL2g5zJPeatTxFuoPNT%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Quote: Chinese vaccines “don’t have very high protection rates.” (The Atlantic)   Read: America is about to go Botox wild.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/11/key-performance-indicators-april-12</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/key-performance-indicators-april-12</guid>
-  <pubDate>Sun, 11 Apr 2021 16:36:48 -0700</pubDate>
  </item>
 
 </channel>
