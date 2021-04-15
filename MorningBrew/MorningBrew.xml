@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/14/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/15/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/14</link>
- <lastBuildDate>Wed, 14 Apr 2021 16:43:50 -0700</lastBuildDate>
- <pubDate>Wed, 14 Apr 2021 16:43:50 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/15</link>
+ <lastBuildDate>Thu, 15 Apr 2021 14:38:49 -0700</lastBuildDate>
+ <pubDate>Thu, 15 Apr 2021 14:38:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Lumber Prices Hit All-Time High</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;While the job can include lots of Vitamin D and flannel, low pay and the difficult, sometimes dangerous work required has pinched manpower. Astronomical lumber prices have added $24,000 to the cost of a typical single-family home and $9,000 per apartment, according to the National Association of Home Builders.   Lumber prices have soared during the pandemic.  Lumber prices kept rising during the winter months, so homebuilders and lumber yards delayed their purchases, hoping prices would come down.  Labor.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/15/lumber-prices-hit-alltime-high</link>
+  <author>Alex Hickey</author>
+  <categories>real estate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/lumber-prices-hit-alltime-high</guid>
+  <pubDate>Thu, 15 Apr 2021 14:36:49 -0700</pubDate>
+ </item>
  <item>
   <title>Traditional IPO vs SPAC: Everything You Need to Know About Taking Your Company Public</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F931%2Fstock_exchange.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;For a company to go public via a SPAC, a SPAC has to want to take that company public. But with 400+ SPACs strolling around with a box of donuts begging new companies to join them for a “new kind of worship,” companies have a lot of opportunities to, um, SPAC it up. Coinbase, the crypto exchange, used a direct listing to go public Wednesday. A reverse merger is when a private company merges with any public company—it doesn’t have to be a shell company—and goes public in the process. A SPAC raises money through the IPO process, and then merges with a private company and takes it public. In a Dutch auction, the company decides the number of shares, but not how much they will cost.  Why would a company want to go public in the first place? A SPAC is formed before it even knows what it wants to do with its life. A private company goes public without any of the underwriting hullabaloo. SPACs might feel like a hot new craze, but they aren’t new. Reverse mergers were popular in the ’80s for pretty much the same reason SPACs are popular right now, but the SEC cracked down in 2011 when it issued a fraud warning about reverse mergers and suspended trading for more than 800 companies. There are other ways to take your company public. But have no fear, someone somewhere will come up with something new... In a direct listing, the company goes public by bypassing investment banks that buy up a lot of initial shares and decide its opening price. They have become increasingly popular because they help companies go public a lot quicker (a few weeks to months) and less time = fewer fees.</description>
@@ -361,15 +370,6 @@
   <categories>ceos</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/ceos-made-ever-pandemic</guid>
   <pubDate>Sun, 11 Apr 2021 16:26:47 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Mini: Medium Difficulty</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/10/brew-mini-medium-difficulty</link>
-  <author>Neal Freyman</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/10/brew-mini-medium-difficulty</guid>
-  <pubDate>Fri, 09 Apr 2021 18:06:48 -0700</pubDate>
  </item>
 
 </channel>
