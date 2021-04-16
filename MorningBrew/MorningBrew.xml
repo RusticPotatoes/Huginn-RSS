@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/16</link>
- <lastBuildDate>Fri, 16 Apr 2021 14:48:53 -0700</lastBuildDate>
- <pubDate>Fri, 16 Apr 2021 14:48:53 -0700</pubDate>
+ <lastBuildDate>Fri, 16 Apr 2021 14:58:46 -0700</lastBuildDate>
+ <pubDate>Fri, 16 Apr 2021 14:58:46 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Vaccine Tracker: April 17</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;More headlinesWorking the back channels: After US officials paused the rollout of J&amp;J’s vaccine, the company reached out to other vaccine makers Pfizer, Moderna, and AstraZeneca about creating an “informal alliance” to address concerns over vaccine safety, reports the WSJ.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/16/vaccine-tracker-april-17</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/vaccine-tracker-april-17</guid>
+  <pubDate>Fri, 16 Apr 2021 14:56:45 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: April 18</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4761%2Flotr_meme.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Michael Reeves)  Watch: How to teach a robot to pee beer. It was the first time the NY Phil had played to an indoor crowd in exactly 400 days.</description>
@@ -361,15 +370,6 @@
   <categories>public health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/us-regulators-recommend-pause-johnson-johnson-vaccine</guid>
   <pubDate>Tue, 13 Apr 2021 14:46:48 -0700</pubDate>
- </item>
- <item>
-  <title>Domino's Partners with Nuro to Deliver Pizza via Driverless Vehicle</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FOjJbbiCtMzFiywYIgB%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Chipotle invested in Nuro's $500 million Series C funding round last month and the company was just approved at the end of last year to begin testing on public roads in California. From a sales and drunk on High Life POV, Domino's pizza is the top pizza chain in the country.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/12/dominos-partners-nuro-deliver-pizza-via-driverless-vehicle?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>delivery</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/12/dominos-partners-nuro-deliver-pizza-via-driverless-vehicle?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 13 Apr 2021 03:01:45 -0700</pubDate>
  </item>
 
 </channel>
