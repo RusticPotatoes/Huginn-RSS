@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/15/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/16/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/15</link>
- <lastBuildDate>Thu, 15 Apr 2021 14:53:51 -0700</lastBuildDate>
- <pubDate>Thu, 15 Apr 2021 14:53:51 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/16</link>
+ <lastBuildDate>Fri, 16 Apr 2021 03:03:51 -0700</lastBuildDate>
+ <pubDate>Fri, 16 Apr 2021 03:03:51 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Mercedes-Benz Reveals Its First Electric Sedan</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FbkJgNKL2rRBPEuoDsj%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If EVs are the future of driving, luxury brands need to get it in gear. Its two-tone paint job is cool, but the most interesting part of the EQS is what it means for other legacy car companies trying to transition away from combustion engines. Zoom out. Hot stone seat massagers. Automatic doors.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/15/mercedesbenz-reveals-first-electric-sedan?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/mercedesbenz-reveals-first-electric-sedan?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 16 Apr 2021 03:01:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 16</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1098%2Fstonks_meme.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Valley of Dunning–Kruger)  Read: How Tiger Global is disrupting venture capital.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/15/key-performance-indicators-april-16?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/key-performance-indicators-april-16?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 16 Apr 2021 03:01:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>Google's New Feature, Timelapse, Offers Users A View into the Last Four Decades</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FHvDRW8Dpi30dsckqQI%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;How it came to be: Google partnered with organizations including NASA and the US Geological Survey's Landsat program to collect images from 1984–2020 of every location on Earth—yes, even Nebraska. Google didn't create it just to hurt you.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/15/googles-new-feature-timelapse-offers-users-view-last-four-decades?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/googles-new-feature-timelapse-offers-users-view-last-four-decades?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 16 Apr 2021 03:01:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>Jeff Bezos Pens Final Shareholder Letter as CEO of Amazon</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F376%2Fjeff_bezos_smiling.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; And reflections on those employees accounted for most of what Bezos wrote.  In his final letter before he steps down as CEO, published yesterday, Bezos noted $45 billion in revenue for Amazon Web Services alone, 200 million Amazon Prime members, and 1.3 million employees globally.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/15/jeff-bezos-pens-final-shareholder-letter-ceo-amazon?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>c suite</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/jeff-bezos-pens-final-shareholder-letter-ceo-amazon?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 16 Apr 2021 03:01:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>Lumber Prices Hit All-Time High</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;While the job can include lots of Vitamin D and flannel, low pay and the difficult, sometimes dangerous work required has pinched manpower. Astronomical lumber prices have added $24,000 to the cost of a typical single-family home and $9,000 per apartment, according to the National Association of Home Builders.   Lumber prices have soared during the pandemic.  Lumber prices kept rising during the winter months, so homebuilders and lumber yards delayed their purchases, hoping prices would come down.  Labor.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/15/lumber-prices-hit-alltime-high?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>real estate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/lumber-prices-hit-alltime-high?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 16 Apr 2021 03:01:50 -0700</pubDate>
+ </item>
  <item>
   <title>The Brew’s Weekly News Quiz: April 16</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -325,51 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/12/microsoft-buy-speech-tech-company-nuance-16b</guid>
   <pubDate>Mon, 12 Apr 2021 14:36:47 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: April 12</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3457%2Fcoinbase_ipo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Economic data: The biggest report of the week is Tuesday’s Consumer Price Index, which will reveal how worried we should actually be about inflation.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/11/week-ahead-april-12?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/week-ahead-april-12?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 12 Apr 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 12</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FL2g5zJPeatTxFuoPNT%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Quote: Chinese vaccines “don’t have very high protection rates.” (The Atlantic)   Read: America is about to go Botox wild.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/11/key-performance-indicators-april-12?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/key-performance-indicators-april-12?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 12 Apr 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Recapping the Busy Weekend in Sports Biz</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4695%2Fucf_football_player.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Japan is very into golf—it has as many courses as the UK + Ireland combined. Golf history: With his victory at the Masters, Hideki Matsuyama became the first male Japanese golfer to win a major tournament. he’s selling it for $1.5 billion.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/11/recapping-busy-weekend-sports-biz?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/recapping-busy-weekend-sports-biz?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 12 Apr 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>CEOs Made More Than Ever In The Pandemic</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FLdOyjZ7io5Msw%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Case in point: Paycom CEO Chad RichisonHe’s the newly crowned highest-paid CEO in the S&amp;P 500 with a total compensation of $211 million in 2020.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/11/ceos-made-ever-pandemic?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>c suite</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/ceos-made-ever-pandemic?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 12 Apr 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Company Execs Meet at White House Over Chip Shortage</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FQ4MKucytzKYJ4elFhG%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Sony said the chip shortage is the reason why there are so few PS5s available.  Senior execs from almost 20 companies are heading to the White House today to discuss the current chip shortage and ensure more supply chain chaos doesn’t break out in the future.  But it’s a big problemThe chip shortage has affected “virtually every major car company in recent months,” according to the WSJ, forcing automakers to halt production of their most popular cars. Those will take years and hundreds of billions worth of investments to resolve.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/11/company-execs-meet-white-house-chip-shortage?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>supply chain</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/11/company-execs-meet-white-house-chip-shortage?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 12 Apr 2021 03:01:54 -0700</pubDate>
  </item>
 
 </channel>
