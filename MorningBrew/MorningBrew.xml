@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/16</link>
- <lastBuildDate>Fri, 16 Apr 2021 14:58:46 -0700</lastBuildDate>
- <pubDate>Fri, 16 Apr 2021 14:58:46 -0700</pubDate>
+ <lastBuildDate>Fri, 16 Apr 2021 15:03:47 -0700</lastBuildDate>
+ <pubDate>Fri, 16 Apr 2021 15:03:47 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Ocado Looks to Autonomous Vehicles with Investment in Oxbotica</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3ocuUmdYQNo8hyx4vx%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Logistics currently account for ~10% of the total cost of grocery delivery, so even though investing in autonomous vehicles is expensive and a regulatory nightmare, companies are betting on the long-term payout—especially as online grocery shopping has become way more popular during the pandemic.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/16/ocado-looks-autonomous-vehicles-investment-oxbotica</link>
+  <author>Matty Merritt</author>
+  <categories>grocery</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/ocado-looks-autonomous-vehicles-investment-oxbotica</guid>
+  <pubDate>Fri, 16 Apr 2021 15:01:46 -0700</pubDate>
+ </item>
  <item>
   <title>Vaccine Tracker: April 17</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;More headlinesWorking the back channels: After US officials paused the rollout of J&amp;J’s vaccine, the company reached out to other vaccine makers Pfizer, Moderna, and AstraZeneca about creating an “informal alliance” to address concerns over vaccine safety, reports the WSJ.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/consumer-prices-rise-expected-march</guid>
-  <pubDate>Tue, 13 Apr 2021 14:46:48 -0700</pubDate>
- </item>
- <item>
-  <title>US Regulators Recommend Pause for Johnson &amp; Johnson Vaccine</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fa93jwI0wkWTQs%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; To-date, J&amp;J has accounted for &lt;5% of all US shots administered. Yesterday, Johnson &amp; Johnson joined millions of disappointed students on dreaded waitlists after the CDC and FDA recommended pausing its single-dose Covid vaccine while they investigate reports of rare blood clots. While all J&amp;J shots administered through federal channels are paused, state vaccine programs can make their own decisions.  The agencies say this is out of an "abundance of caution" while they determine if the vaccine caused rare blood clots and low platelet counts in six women shortly after their vaccination.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/13/us-regulators-recommend-pause-johnson-johnson-vaccine</link>
-  <author>Alex Hickey</author>
-  <categories>public health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/us-regulators-recommend-pause-johnson-johnson-vaccine</guid>
   <pubDate>Tue, 13 Apr 2021 14:46:48 -0700</pubDate>
  </item>
 
