@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/16</link>
- <lastBuildDate>Fri, 16 Apr 2021 12:23:45 -0700</lastBuildDate>
- <pubDate>Fri, 16 Apr 2021 12:23:45 -0700</pubDate>
+ <lastBuildDate>Fri, 16 Apr 2021 13:08:45 -0700</lastBuildDate>
+ <pubDate>Fri, 16 Apr 2021 13:08:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Should the Government Have Paused the J&amp;J Vaccine?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Finally, US health regulators, by seeking to avoid a credibility crisis, may have just invited one in.    On Monday, the CDC and FDA recommended pausing Johnson &amp; Johnson's single-dose Covid vaccine while they investigate reports of rare blood clots.  A YouGov poll found that the perception of safety of the J&amp;J vaccine dropped 15 percentage points after officials suspended it.  Instilling confidence in vaccines is their No. 1 priority, and right now... 538's Nate Silver, one of the top critics of the government's decision, suggested that regulators could have said they're monitoring the situation and not paused vaccinations, or could have stopped giving J&amp;J to young women, who appear to be most at risk of developing the rare blood clots.  The argument against a pauseAgencies said they paused the rollout out of an "abundance of caution."</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/16/government-paused-jj-vaccine</link>
+  <author>Neal Freyman</author>
+  <categories>analysis</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/government-paused-jj-vaccine</guid>
+  <pubDate>Fri, 16 Apr 2021 13:06:54 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Crossword: Corporate World</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>film and tv</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/12/will-smiths-upcoming-movie-pulls-georgia-new-voting-law</guid>
-  <pubDate>Mon, 12 Apr 2021 14:46:51 -0700</pubDate>
- </item>
- <item>
-  <title>Domino's Partners with Nuro to Deliver Pizza via Driverless Vehicle</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FOjJbbiCtMzFiywYIgB%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Chipotle invested in Nuro's $500 million Series C funding round last month and the company was just approved at the end of last year to begin testing on public roads in California.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/12/dominos-partners-nuro-deliver-pizza-via-driverless-vehicle</link>
-  <author>Matty Merritt</author>
-  <categories>delivery</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/12/dominos-partners-nuro-deliver-pizza-via-driverless-vehicle</guid>
   <pubDate>Mon, 12 Apr 2021 14:46:51 -0700</pubDate>
  </item>
 
