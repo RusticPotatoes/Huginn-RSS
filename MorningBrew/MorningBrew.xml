@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/16</link>
- <lastBuildDate>Fri, 16 Apr 2021 13:13:45 -0700</lastBuildDate>
- <pubDate>Fri, 16 Apr 2021 13:13:45 -0700</pubDate>
+ <lastBuildDate>Fri, 16 Apr 2021 13:48:50 -0700</lastBuildDate>
+ <pubDate>Fri, 16 Apr 2021 13:48:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Icebreakers With...Bridget Connelly</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4757%2Fbridget_connelly.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;I was recently thinking about rereading it.   Luna Bay was "born in Chicago" and is the first woman-founded-and-led hard kombucha brand on the market. So I love making a ginger lemon mezcal Booch-a-Rita. What's your favorite flavor of Luna Bay? What song would you say describes Luna Bay? We are really fortunate that we have amazing distributors that are empowering us and really want to support [women-led] brands. It wasn't until she found herself in San Diego, a hub for hard kombucha and craft beer, that she had the idea to start Luna Bay Booch and enlisted her business partner and childhood friend, Claire Ridge, to help. At first, I would take that personally because I did sign up for this.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/16/icebreakers-withbridget-connelly</link>
+  <author>Matty Merritt</author>
+  <categories>qanda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/icebreakers-withbridget-connelly</guid>
+  <pubDate>Fri, 16 Apr 2021 13:46:49 -0700</pubDate>
+ </item>
  <item>
   <title>Make It Work: Chasing Down Receipts </title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;I would also assume that before you can take a single day off you would have to make that request to your manager. Your manager has to make a judgment every time a direct report makes a PTO request. When an employee requests time off, the request must always honor the company's general PTO policy. Each week, Morning Brew's Head of People Ops Kate Noel answers reader-submitted questions about work in 2021. —AnonymousI don't think that you "should" feel guilty about requesting time off with just three months under your belt.</description>
@@ -361,15 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/12/microsoft-buy-speech-tech-company-nuance-16b?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 13 Apr 2021 03:01:45 -0700</pubDate>
- </item>
- <item>
-  <title>Ant Group Forced to Undergo Major Restructuring</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3603%2Fjack_ma.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  It wasn't clear exactly why proceedings stopped but, the month before the planned offering, Jack Ma, the billionaire controlling shareholder of Ant and cofounder of Ant's sister company, Alibaba, criticized Chinese officials in a high-profile speech.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/12/ant-group-forced-undergo-major-restructuring</link>
-  <author>Neal Freyman</author>
-  <categories>fintech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/12/ant-group-forced-undergo-major-restructuring</guid>
-  <pubDate>Mon, 12 Apr 2021 14:51:51 -0700</pubDate>
  </item>
 
 </channel>
