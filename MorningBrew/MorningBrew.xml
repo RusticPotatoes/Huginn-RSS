@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/16</link>
- <lastBuildDate>Fri, 16 Apr 2021 12:13:52 -0700</lastBuildDate>
- <pubDate>Fri, 16 Apr 2021 12:13:52 -0700</pubDate>
+ <lastBuildDate>Fri, 16 Apr 2021 12:23:45 -0700</lastBuildDate>
+ <pubDate>Fri, 16 Apr 2021 12:23:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Crossword: Corporate World</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/16/brew-crossword-corporate-world</link>
+  <author>Toby Howell</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/brew-crossword-corporate-world</guid>
+  <pubDate>Fri, 16 Apr 2021 12:21:54 -0700</pubDate>
+ </item>
  <item>
   <title>Stock Watch: Masks </title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3985%2Fmask_chains.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>delivery</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/12/dominos-partners-nuro-deliver-pizza-via-driverless-vehicle</guid>
-  <pubDate>Mon, 12 Apr 2021 14:46:51 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F179%2Fharvard_university.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Dror Poleg)  Read: The future of work is a pyramid scheme, where every person sells his favorite person to the next person. Yesterday, Uber said total monthly bookings, which include ride-hailing and food delivery, hit their highest levels ever in March.  Khosrowshahi is feeling high on the company's trajectory.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/12/key-performance-indicators</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/12/key-performance-indicators</guid>
   <pubDate>Mon, 12 Apr 2021 14:46:51 -0700</pubDate>
  </item>
 
