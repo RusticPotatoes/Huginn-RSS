@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/16/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/17/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/17/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/16</link>
- <lastBuildDate>Fri, 16 Apr 2021 15:03:47 -0700</lastBuildDate>
- <pubDate>Fri, 16 Apr 2021 15:03:47 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/17</link>
+ <lastBuildDate>Sat, 17 Apr 2021 03:03:45 -0700</lastBuildDate>
+ <pubDate>Sat, 17 Apr 2021 03:03:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Ocado Looks to Autonomous Vehicles with Investment in Oxbotica</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3ocuUmdYQNo8hyx4vx%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Logistics currently account for ~10% of the total cost of grocery delivery, so even though investing in autonomous vehicles is an expensive regulatory nightmare, companies are betting on the long-term payout—especially as online grocery shopping has become more popular during the pandemic.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/16/ocado-looks-autonomous-vehicles-investment-oxbotica?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>grocery</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/ocado-looks-autonomous-vehicles-investment-oxbotica?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 17 Apr 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 18</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4761%2Flotr_meme.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Michael Reeves)  Watch: How to teach a robot to pee beer. It was the first time the NY Phil had played to an indoor crowd in exactly 400 days.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/16/key-performance-indicators-april-18?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/key-performance-indicators-april-18?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 17 Apr 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Apple Music Claims to Pay Artists Twice as Much as Spotify</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4766%2Fpenny_music_notes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Plus, Spotify has more streamers who listen to more songs, so while Apple may pay more per stream, it doesn’t pay more in total. The answer has to do with how the music biz operates: Streaming services pay rights holders (typically, record labels), instead of sending artists a direct deposit.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/16/apple-music-claims-pay-artists-twice-much-spotify?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>music</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/apple-music-claims-pay-artists-twice-much-spotify?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 17 Apr 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Vaccine Tracker: April 17</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Around the world…vaccine makers hit a major milestone this week: 1 billion doses have been produced. In the US…more than 200 million doses have been administered, per the Biden administration.  Stay tuned for a Sunday Edition deep dive into why the FDA and CDC paused J&amp;J’s vaccine.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/16/vaccine-tracker-april-17?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/vaccine-tracker-april-17?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 17 Apr 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>From Delis and Dogecoin, Market Mania Continues to Vex Wall Street</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4762%2Fhometown_deli_in_nj.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This is about more than pastrami, as amazing as it might be Einhorn’s larger point was that “quasi-anarchy” is breaking out in the stock market, and regulators are MIA.   Einhorn trashed Musk and celeb investor Chamath Palihapitiya for “destabilizing” the stock market back in January with their tweets and TV appearances in which they egged on retail traders.   As of last night, Dogecoin’s market cap was nearly $50 billion, more than Ford’s and eBay's. Dogecoin’s ascent has been powered by a rabid online community led by Tesla CEO Elon Musk, who frequently publishes memes about dogecoin on his Twitter account.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/16/delis-dogecoin-market-mania-continues-vex-wall-street?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/delis-dogecoin-market-mania-continues-vex-wall-street?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 17 Apr 2021 03:01:54 -0700</pubDate>
+ </item>
  <item>
   <title>Ocado Looks to Autonomous Vehicles with Investment in Oxbotica</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3ocuUmdYQNo8hyx4vx%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Logistics currently account for ~10% of the total cost of grocery delivery, so even though investing in autonomous vehicles is expensive and a regulatory nightmare, companies are betting on the long-term payout—especially as online grocery shopping has become way more popular during the pandemic.</description>
@@ -325,51 +370,6 @@
   <categories>public health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/us-regulators-recommend-pause-johnson-johnson-vaccine?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 14 Apr 2021 03:01:50 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 14</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4714%2Fcountry_landscape.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Emerging Tech Brew) Read: Your definitive guide to autonomous vehicles. The main culprits: wealthy Americans and large corporations.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/13/key-performance-indicators-april-14</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/key-performance-indicators-april-14</guid>
-  <pubDate>Tue, 13 Apr 2021 14:56:51 -0700</pubDate>
- </item>
- <item>
-  <title>Grab Set To Become The Biggest SPAC Merger to Date</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4716%2Fsingapore-toyota-grab-tra.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Through the deal, Grab will raise $4 billion to tap the pandemic-driven influx of ~40 million Southeast Asians estimated to have gotten online for the first time in 2020.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/13/grab-set-become-biggest-spac-merger-date</link>
-  <author>Jamie Wilde</author>
-  <categories>spac</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/grab-set-become-biggest-spac-merger-date</guid>
-  <pubDate>Tue, 13 Apr 2021 14:56:51 -0700</pubDate>
- </item>
- <item>
-  <title>The Boba Supply Chain Is Drying Up</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FdlljxrM1mmHPx9qqgJ%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; It's a lot to chew on: Big-time boba shop Boba Guys posted an Instagram video explaining that 99% of US boba is imported from overseas. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/13/boba-supply-chain-drying</link>
-  <author>Jamie Wilde</author>
-  <categories>supply chain</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/boba-supply-chain-drying</guid>
-  <pubDate>Tue, 13 Apr 2021 14:56:51 -0700</pubDate>
- </item>
- <item>
-  <title>Q&amp;A: What Are Company Earnings, Why do They Affect Stocks?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2483%2Fstocks_going_down.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Question from Reha in Boston: How does a company's quarterly earnings report affect its stock price? But an earnings report can also show metrics like revenue, subscriber counts (in the case of companies like Netflix), and predictions for future performance, aka "guidance." Then, execs usually host a conference call to parse the data in front of analysts and whichever media interns drew the short stick."</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/13/qa-company-earnings-affect-stocks</link>
-  <author>Alex Hickey</author>
-  <categories>explainer</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/qa-company-earnings-affect-stocks</guid>
-  <pubDate>Tue, 13 Apr 2021 14:51:54 -0700</pubDate>
- </item>
- <item>
-  <title>Consumer Prices Rise More Than Expected in March</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4715%2Fgas_pump_with_dollar_bills.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A big annual increase in prices simply doesn't tell us much when the point of comparison is so abnormal. That's a recipe for a price bump. Some economists are concerned that too much stimulus will cause an overheated economy.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/13/consumer-prices-rise-expected-march</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/consumer-prices-rise-expected-march</guid>
-  <pubDate>Tue, 13 Apr 2021 14:46:48 -0700</pubDate>
  </item>
 
 </channel>
