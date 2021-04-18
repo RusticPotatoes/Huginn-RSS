@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/17/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/17/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/18/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/17</link>
- <lastBuildDate>Sat, 17 Apr 2021 03:03:45 -0700</lastBuildDate>
- <pubDate>Sat, 17 Apr 2021 03:03:45 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/18</link>
+ <lastBuildDate>Sun, 18 Apr 2021 16:28:53 -0700</lastBuildDate>
+ <pubDate>Sun, 18 Apr 2021 16:28:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Fed Report Shows 200k Additional Business Closures During Covid</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2192%2Fsmall_businesses_in_a_row.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Business exits are typically higher among firms with five or fewer workers, and the majority of the US' 26 million small businesses are sole proprietorships.  Important distinction: An estimated 130,000 of those "excess" closures were firm exits, i.e., an entire business going under (as opposed to businesses closing one of their locations). If requests for pandemic aid were granted, they were less likely than white-owned businesses to get the amount requested.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/18/fed-report-shows-200k-additional-business-closures-covid</link>
+  <author>Alex Hickey</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/fed-report-shows-200k-additional-business-closures-covid</guid>
+  <pubDate>Sun, 18 Apr 2021 16:26:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 19</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4733%2Fcoinbase_going_public.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Popular Information) others didn't. Read: Some businesses kept their promise to withhold PAC donations from lawmakers who voted to overturn election results...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/18/key-performance-indicators-april-19</link>
+  <author>Alex Hickey</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/key-performance-indicators-april-19</guid>
+  <pubDate>Sun, 18 Apr 2021 16:26:51 -0700</pubDate>
+ </item>
  <item>
   <title>Ocado Looks to Autonomous Vehicles with Investment in Oxbotica</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3ocuUmdYQNo8hyx4vx%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Logistics currently account for ~10% of the total cost of grocery delivery, so even though investing in autonomous vehicles is an expensive regulatory nightmare, companies are betting on the long-term payout—especially as online grocery shopping has become more popular during the pandemic.</description>
@@ -351,24 +369,6 @@
   <author>Neal Freyman</author>
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/consumer-prices-rise-expected-march?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 14 Apr 2021 03:01:50 -0700</pubDate>
- </item>
- <item>
-  <title>Grab Set To Become The Biggest SPAC Merger to Date</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4716%2Fsingapore-toyota-grab-tra.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Through the deal, Grab will raise $4 billion to tap the pandemic-driven influx of ~40 million Southeast Asians estimated to have gotten online for the first time in 2020.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/13/grab-set-become-biggest-spac-merger-date?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>spac</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/grab-set-become-biggest-spac-merger-date?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 14 Apr 2021 03:01:50 -0700</pubDate>
- </item>
- <item>
-  <title>US Regulators Recommend Pause for Johnson &amp; Johnson Vaccine</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fa93jwI0wkWTQs%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, Johnson &amp; Johnson joined millions of disappointed students on dreaded waitlists after the CDC and FDA recommended pausing its single-dose Covid vaccine while they investigate reports of rare blood clots. the CDC committee that makes recommendations on immunization practices meets today to discuss when J&amp;J's one shot gets a second shot.  The agencies say this is out of an "abundance of caution" while they determine if the vaccine caused rare blood clots and low platelet counts in six women shortly after their vaccinations.  To-date, J&amp;J has accounted for &lt;5% of all US shots administered.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/13/us-regulators-recommend-pause-johnson-johnson-vaccine?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>public health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/13/us-regulators-recommend-pause-johnson-johnson-vaccine?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 14 Apr 2021 03:01:50 -0700</pubDate>
  </item>
 
