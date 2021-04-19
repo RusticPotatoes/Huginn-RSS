@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/18/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/19/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/19/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/18</link>
- <lastBuildDate>Sun, 18 Apr 2021 16:58:45 -0700</lastBuildDate>
- <pubDate>Sun, 18 Apr 2021 16:58:45 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/19</link>
+ <lastBuildDate>Mon, 19 Apr 2021 03:03:53 -0700</lastBuildDate>
+ <pubDate>Mon, 19 Apr 2021 03:03:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: April 19</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4209%2Ffda_johnson_johnson_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Earthy things: Earth Day is Thursday, and so is the release date of a new PBS documentary on activist Greta Thunberg.   4/20 (Tuesday). Big banks have set a high bar.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/18/week-ahead-april-19?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/week-ahead-april-19?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 19 Apr 2021 03:01:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 19</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4733%2Fcoinbase_going_public.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Popular Information) others didn't. Read: Some businesses kept their promise to withhold PAC donations from lawmakers who voted to overturn election results...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/18/key-performance-indicators-april-19?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/key-performance-indicators-april-19?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 19 Apr 2021 03:01:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Safety Agency Warns of Peloton's Treadmill for Small Children and Pets</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2354%2Fpeloton_tread_image.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Peloton is in a war of words with US regulators over the safety of one of its core products.  Zoom out: Peloton's biggest problem last year was making enough equipment to fulfill elevated demand for its connected fitness products.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/18/safety-agency-warns-pelotons-treadmill-small-children-pets?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>fitness</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/safety-agency-warns-pelotons-treadmill-small-children-pets?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 19 Apr 2021 03:01:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>US and China Put out Joint Statement on Climate</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FYmr4ufcSAtJ4Y%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But in a joint statement Saturday, the world's two largest economies said they'd work together to combat climate change.  If you're looking for specifics, this is not the statement for you.  Zoom out: Compared to his predecessor, President Biden is taking a U-turn with an aggressive plan to tackle climate change.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/18/us-china-put-joint-statement-climate?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/us-china-put-joint-statement-climate?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 19 Apr 2021 03:01:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Twelve Elite European Soccer Clubs Try to Form Super League</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4769%2Fjuventus_v_us_sassuolo_-.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, a group of 12 elite European soccer clubs unveiled a breakaway competition called the Super League, a plan that could lead to the biggest shakeup in the sport since Zlatan Ibrahimović brought back the man bun.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/18/twelve-elite-european-soccer-clubs-try-form-super-league?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/twelve-elite-european-soccer-clubs-try-form-super-league?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 19 Apr 2021 03:01:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Fed Report Shows 200k Additional Business Closures During Covid</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2192%2Fsmall_businesses_in_a_row.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Business exits are typically higher among firms with five or fewer workers, and the majority of the US' 26 million small businesses are sole proprietorships.  Fewer than 200,000 business establishments closed from March 2020 to February 2021 on top of the roughly 600,000 businesses that typically turnover in a given year, according to a new Federal Reserve report. If requests for pandemic aid were granted, they were less likely than white-owned businesses to get the amount requested.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/18/fed-report-shows-200k-additional-business-closures-covid?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/fed-report-shows-200k-additional-business-closures-covid?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 19 Apr 2021 03:01:51 -0700</pubDate>
+ </item>
  <item>
   <title>Twelve Elite European Soccer Clubs Try to Form Super League</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4769%2Fjuventus_v_us_sassuolo_-.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, a group of 12 European elite soccer clubs unveiled a breakaway competition called the Super League, a plan that would lead to the biggest shakeup in the sport since Zlatan Ibrahimović brought back the man bun.  </description>
@@ -316,60 +370,6 @@
   <categories>ipo</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/14/traditional-ipo-vs-spac-everything-need-know-taking-company-public</guid>
   <pubDate>Wed, 14 Apr 2021 16:41:50 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 15</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4735%2Fbhutan_vaccinations.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(GQ) Read: The redemption of Justin Bieber.  President Biden said yesterday that he’ll withdraw all remaining US troops from Afghanistan by September 11, the 20-year anniversary of the 9/11 attacks.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/14/key-performance-indicators-april-15</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/14/key-performance-indicators-april-15</guid>
-  <pubDate>Wed, 14 Apr 2021 15:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>American Airlines Expects Summer Travel to Heat Up</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;To prepare, American Airlines is adding 150 new routes, both within the US and to international weekend destinations including Mexico and the Caribbean.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/14/american-airlines-expects-summer-travel-heat</link>
-  <author>Jamie Wilde</author>
-  <categories>travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/14/american-airlines-expects-summer-travel-heat</guid>
-  <pubDate>Wed, 14 Apr 2021 14:56:45 -0700</pubDate>
- </item>
- <item>
-  <title>Coinbase Goes Public in Landmark Moment for Crypto</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4733%2Fcoinbase_going_public.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And like bitcoin, Coinbase is in many ways nontraditional. Coinbase will look to transition more of its client base from freshman pledges to institutional investors.  As the price of bitcoin shot up, so did Coinbase’s fortunes. Here’s why:It’s the first major crypto company to go public in the US. Yesterday, Coinbase, a cryptocurrency exchange, went public on the Nasdaq, a stock exchange. With a valuation of around $86 billion when trading closed yesterday, it’s bigger than exchanges like the New York Stock Exchange and Nasdaq.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/14/coinbase-goes-public-landmark-moment-crypto</link>
-  <author>Neal Freyman</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/14/coinbase-goes-public-landmark-moment-crypto</guid>
-  <pubDate>Wed, 14 Apr 2021 14:56:45 -0700</pubDate>
- </item>
- <item>
-  <title>Hundreds of Companies and CEOs Sign Pro-Voting Access Letter</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4731%2Fnyt_ad.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Former American Express CEO Kenneth Chenault and Merck CEO Kenneth Frazier, two high-profile Black corporate leaders, led the effort. They did, however, all put out their own statements on the issue preceding the passage of Georgia’s controversial law.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/14/hundreds-companies-ceos-sign-provoting-access-letter</link>
-  <author>Jamie Wilde</author>
-  <categories>voting rights</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/14/hundreds-companies-ceos-sign-provoting-access-letter</guid>
-  <pubDate>Wed, 14 Apr 2021 14:51:48 -0700</pubDate>
- </item>
- <item>
-  <title>Bernard L. Madoff Dies at 82 in Prison After Largest Ponzi Scheme in History</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4730%2Fbernie_madoff.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Madoff orchestrated the biggest investment fraud in US history, costing his investors a total of $64.8 billion and earning him a 150-year prison sentence. Zoom out: While Madoff claimed he was the sole organizer, more than a dozen people, including his brother Peter Madoff, were convicted of federal crimes.  At 22, Madoff started his investment company in 1960.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/14/bernard-l-madoff-dies-82-prison-largest-ponzi-scheme-history</link>
-  <author>Matty Merritt</author>
-  <categories>obituary</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/14/bernard-l-madoff-dies-82-prison-largest-ponzi-scheme-history</guid>
-  <pubDate>Wed, 14 Apr 2021 14:41:45 -0700</pubDate>
- </item>
- <item>
-  <title>How Forbes 30 Under 30’s Phillip Aubrey Does His Taxes </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4729%2Fphillip_aubrey.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; MB: Can you tell us one do or don’t?  PA: A lot of people, especially on the startup side, tend to think whatever money they raise they can use all willy nilly.  MB: Before we bring it back to taxes, what’s one thing you learned while working with Alexis? Then we swapped cards so no one had their own, and anyone who wanted to take money out of their account had to go back to the group and ask the group to release their funds.    PA: QuickBooks makes it very easy for us to categorize expenses, so when we hand things over to our accountant, it’s not difficult to understand where money went and is going.  MB: What’s tough about it?  MB: I know this is supposed to be a tax interview but I have to ask, you were working for Alexis Ohanian’s Initialized Capital before you left to run Yunit full-time.  PA: Even being able to answer some of the questions that our tax professional is asking to make sure they’re doing the paperwork correctly. Over a two-year period, not one person took money out of their account. The biggest benefit is we can very easily share ownership or sell shares of the company, whereas most other incorporation types don’t make that easy. The next stage is to make the app publicly available and allow people to start their own savings groups. He discussed the importance of keeping personal and business money separate, the power of using community to reach your financial goals, and the ups and downs of creating the world he wants to see.  PA: Alexis is a dreamer, and I love it. For example, keeping personal money separate from business money.  PA: My goal was to go out and raise venture money because I knew that I wanted to scale the business, and 99% of venture-backed businesses are a Delaware C-corp, which we are as well.  PA: It came a few years ago, when a partner was fired at a company where I worked.  PA: We are doing our private beta now, which is very exciting because I’m getting some great feedback. It shocked me because I didn’t know at the time that partners could be fired. And yet, no one was managing their money well.  MB: So how is Yunit structured as a business, and why did you decide to incorporate that way? So I reached out to that same person and asked him to help us out with our taxes.  Phillip Aubrey: Yunit is a mobile app that makes it easy for friends and family to save money together. You learn quickly what you can and cannot do.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/14/forbes-30-30s-phillip-aubrey-taxes</link>
-  <author>Devin Tomb</author>
-  <categories>taxes</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/14/forbes-30-30s-phillip-aubrey-taxes</guid>
-  <pubDate>Wed, 14 Apr 2021 13:16:47 -0700</pubDate>
  </item>
 
 </channel>
