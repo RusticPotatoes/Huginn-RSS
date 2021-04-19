@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/19</link>
- <lastBuildDate>Mon, 19 Apr 2021 03:03:53 -0700</lastBuildDate>
- <pubDate>Mon, 19 Apr 2021 03:03:53 -0700</pubDate>
+ <lastBuildDate>Mon, 19 Apr 2021 14:38:50 -0700</lastBuildDate>
+ <pubDate>Mon, 19 Apr 2021 14:38:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Pew: 91% of US Adults Now Support Legalized Marijuana in Some Form</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3946%2Fnug_rocket.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Canada legalized recreational cannabis in 2018, and Mexico could follow soon. This month, New Mexico became the 17th state to allow recreational use. Even the South is cracking; starting in July, Virginia will allow recreational use. Tightly regulated distribution with restrictions on marketing, slow rollouts in some provinces, and less demand than expected have hurt. But success isn't a sure bet. Legalization can bring big economic opportunity: The US marijuana industry already supports 300,000+ full-time jobs—more than the number of dentists in the country. And a lack of federal standards has led to inconsistency around testing, labeling, and marketing.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/19/pew-91-us-adults-now-support-legalized-marijuana-form</link>
+  <author>Alex Hickey</author>
+  <categories>cannabis</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/19/pew-91-us-adults-now-support-legalized-marijuana-form</guid>
+  <pubDate>Mon, 19 Apr 2021 14:36:49 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: April 19</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4209%2Ffda_johnson_johnson_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Earthy things: Earth Day is Thursday, and so is the release date of a new PBS documentary on activist Greta Thunberg.   4/20 (Tuesday). Big banks have set a high bar.</description>
@@ -361,15 +370,6 @@
   <categories>real estate</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/lumber-prices-hit-alltime-high</guid>
   <pubDate>Thu, 15 Apr 2021 14:36:49 -0700</pubDate>
- </item>
- <item>
-  <title>Traditional IPO vs SPAC: Everything You Need to Know About Taking Your Company Public</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F931%2Fstock_exchange.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;For a company to go public via a SPAC, a SPAC has to want to take that company public. But with 400+ SPACs strolling around with a box of donuts begging new companies to join them for a “new kind of worship,” companies have a lot of opportunities to, um, SPAC it up. Coinbase, the crypto exchange, used a direct listing to go public Wednesday. A reverse merger is when a private company merges with any public company—it doesn’t have to be a shell company—and goes public in the process. A SPAC raises money through the IPO process, and then merges with a private company and takes it public. In a Dutch auction, the company decides the number of shares, but not how much they will cost.  Why would a company want to go public in the first place? A SPAC is formed before it even knows what it wants to do with its life. A private company goes public without any of the underwriting hullabaloo. SPACs might feel like a hot new craze, but they aren’t new. Reverse mergers were popular in the ’80s for pretty much the same reason SPACs are popular right now, but the SEC cracked down in 2011 when it issued a fraud warning about reverse mergers and suspended trading for more than 800 companies. There are other ways to take your company public. But have no fear, someone somewhere will come up with something new... In a direct listing, the company goes public by bypassing investment banks that buy up a lot of initial shares and decide its opening price. They have become increasingly popular because they help companies go public a lot quicker (a few weeks to months) and less time = fewer fees.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/14/traditional-ipo-vs-spac-everything-need-know-taking-company-public</link>
-  <author>Matty Merritt</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/14/traditional-ipo-vs-spac-everything-need-know-taking-company-public</guid>
-  <pubDate>Wed, 14 Apr 2021 16:41:50 -0700</pubDate>
  </item>
 
 </channel>
