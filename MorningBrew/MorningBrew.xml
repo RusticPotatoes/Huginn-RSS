@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/19</link>
- <lastBuildDate>Mon, 19 Apr 2021 14:38:50 -0700</lastBuildDate>
- <pubDate>Mon, 19 Apr 2021 14:38:50 -0700</pubDate>
+ <lastBuildDate>Mon, 19 Apr 2021 14:48:54 -0700</lastBuildDate>
+ <pubDate>Mon, 19 Apr 2021 14:48:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Facebook Reveals Its Big Push Into Audio</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4790%2Ffb_audio_copycat.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;New features include rooms for hosting live audio discussions, a feed of short audio clips similar to Instagram's Reels, and tools for podcasters."</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/19/facebook-reveals-big-push-audio</link>
+  <author>Neal Freyman</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/19/facebook-reveals-big-push-audio</guid>
+  <pubDate>Mon, 19 Apr 2021 14:46:53 -0700</pubDate>
+ </item>
  <item>
   <title>Pew: 91% of US Adults Now Support Legalized Marijuana in Some Form</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3946%2Fnug_rocket.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Canada legalized recreational cannabis in 2018, and Mexico could follow soon. This month, New Mexico became the 17th state to allow recreational use. Even the South is cracking; starting in July, Virginia will allow recreational use. Tightly regulated distribution with restrictions on marketing, slow rollouts in some provinces, and less demand than expected have hurt. But success isn't a sure bet. Legalization can bring big economic opportunity: The US marijuana industry already supports 300,000+ full-time jobs—more than the number of dentists in the country. And a lack of federal standards has led to inconsistency around testing, labeling, and marketing.</description>
@@ -361,15 +370,6 @@
   <categories>environment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/googles-new-feature-timelapse-offers-users-view-last-four-decades</guid>
   <pubDate>Thu, 15 Apr 2021 14:41:50 -0700</pubDate>
- </item>
- <item>
-  <title>Lumber Prices Hit All-Time High</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;While the job can include lots of Vitamin D and flannel, low pay and the difficult, sometimes dangerous work required has pinched manpower. Astronomical lumber prices have added $24,000 to the cost of a typical single-family home and $9,000 per apartment, according to the National Association of Home Builders.   Lumber prices have soared during the pandemic.  Lumber prices kept rising during the winter months, so homebuilders and lumber yards delayed their purchases, hoping prices would come down.  Labor.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/15/lumber-prices-hit-alltime-high</link>
-  <author>Alex Hickey</author>
-  <categories>real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/lumber-prices-hit-alltime-high</guid>
-  <pubDate>Thu, 15 Apr 2021 14:36:49 -0700</pubDate>
  </item>
 
 </channel>
