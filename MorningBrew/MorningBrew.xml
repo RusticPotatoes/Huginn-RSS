@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/19/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/19/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/20/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/19</link>
- <lastBuildDate>Mon, 19 Apr 2021 14:48:54 -0700</lastBuildDate>
- <pubDate>Mon, 19 Apr 2021 14:48:54 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/20</link>
+ <lastBuildDate>Tue, 20 Apr 2021 03:03:46 -0700</lastBuildDate>
+ <pubDate>Tue, 20 Apr 2021 03:03:46 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Ingenuity Helicopter's Flight Called a 'Wright Brothers Moment'</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FgA2u7fje5dWoDcNery%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Ingenuity had to fly completely on its own with no direct contact from its handling team on Earth. But first, a few more test flights over the next two weeks.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/19/ingenuity-helicopters-flight-called-wright-brothers-moment?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/19/ingenuity-helicopters-flight-called-wright-brothers-moment?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 20 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 20</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4786%2Fcrowded_bus_station_in_new_delhi.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker)  Read: Hollywood mega-agent Ari Emanuel's second act. The legal battle over the future of European fútbol has begun.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/19/key-performance-indicators-april-20?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/19/key-performance-indicators-april-20?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 20 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>McDonald's Announces BTS Meal as Next Collab in Famous Orders Program</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FKcPXEpqf9aAyrfGGUH%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;McDonald's announced a new partnership with Grammy-nominated K-pop sensations BTS as part of its Famous Orders program. The Korean boyband has 34.5 million Twitter followers, 31.8 million TikTok followers, and was the top-selling act of 2020 globally, beating out artists like Taylor Swift and Drake.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/19/mcdonalds-announces-bts-meal-next-collab-famous-orders-program?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>marketing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/19/mcdonalds-announces-bts-meal-next-collab-famous-orders-program?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 20 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>Facebook Reveals Its Big Push Into Audio</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4790%2Ffb_audio_copycat.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;New features include rooms for hosting live audio discussions, a feed of short audio clips similar to Instagram's Reels, and tools for podcasters."</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/19/facebook-reveals-big-push-audio?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/19/facebook-reveals-big-push-audio?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 20 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>Pew: 91% of US Adults Now Support Legalized Marijuana in Some Form</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3946%2Fnug_rocket.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Canada legalized recreational cannabis in 2018, and Mexico could follow soon. Legalization can bring big economic opportunity: The US marijuana industry already supports 300,000+ full-time jobs—more than the number of dentists in the country. Bottom line: "Legalization will eventually win, and the vast majority of states, if not all, will soon join the ranks of the legalizers," Vox writes.  In their latest survey, Pew found that 60% of US adults now support legalized recreational and medical use and an additional 31% back medical marijuana. And a lack of federal standards has led to inconsistency around testing, labeling, and marketing.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/19/pew-91-us-adults-now-support-legalized-marijuana-form?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>cannabis</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/19/pew-91-us-adults-now-support-legalized-marijuana-form?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 20 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
  <item>
   <title>Facebook Reveals Its Big Push Into Audio</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4790%2Ffb_audio_copycat.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;New features include rooms for hosting live audio discussions, a feed of short audio clips similar to Instagram's Reels, and tools for podcasters."</description>
@@ -325,51 +370,6 @@
   <categories>real estate</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/lumber-prices-hit-alltime-high?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 16 Apr 2021 03:01:50 -0700</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: April 16</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/15/brews-weekly-news-quiz-april-16</link>
-  <author>Jamie Wilde</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/brews-weekly-news-quiz-april-16</guid>
-  <pubDate>Thu, 15 Apr 2021 14:51:50 -0700</pubDate>
- </item>
- <item>
-  <title>Mercedes-Benz Reveals Its First Electric Sedan</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4742%2Feqs_mercedes.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If EVs are the future of driving, luxury brands need to get it in gear. Its two-tone paint job is cool, but the most interesting part of the EQS is what it means for other legacy car companies trying to transition away from combustion engines. Zoom out. Hot stone seat massagers. Automatic doors.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/15/mercedesbenz-reveals-first-electric-sedan</link>
-  <author>Matty Merritt</author>
-  <categories>electric vehicles</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/mercedesbenz-reveals-first-electric-sedan</guid>
-  <pubDate>Thu, 15 Apr 2021 14:46:50 -0700</pubDate>
- </item>
- <item>
-  <title>Jeff Bezos Pens Final Shareholder Letter as CEO of Amazon</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F376%2Fjeff_bezos_smiling.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; And reflections on those employees accounted for most of what Bezos wrote.  In his final letter before he steps down as CEO, published yesterday, Bezos noted $45 billion in revenue for Amazon Web Services alone, 200 million Amazon Prime members, and 1.3 million employees globally.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/15/jeff-bezos-pens-final-shareholder-letter-ceo-amazon</link>
-  <author>Neal Freyman</author>
-  <categories>c suite</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/jeff-bezos-pens-final-shareholder-letter-ceo-amazon</guid>
-  <pubDate>Thu, 15 Apr 2021 14:41:50 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 16</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1098%2Fstonks_meme.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Valley of Dunning–Kruger)  Read: How Tiger Global is disrupting venture capital.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/15/key-performance-indicators-april-16</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/key-performance-indicators-april-16</guid>
-  <pubDate>Thu, 15 Apr 2021 14:41:50 -0700</pubDate>
- </item>
- <item>
-  <title>Google's New Feature, Timelapse, Offers Users A View into the Last Four Decades</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FHvDRW8Dpi30dsckqQI%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;How it came to be: Google partnered with organizations including NASA and the US Geological Survey's Landsat program to collect images from 1984–2020 of every location on Earth—yes, even Nebraska. Google didn't create it just to hurt you.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/15/googles-new-feature-timelapse-offers-users-view-last-four-decades</link>
-  <author>Matty Merritt</author>
-  <categories>environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/googles-new-feature-timelapse-offers-users-view-last-four-decades</guid>
-  <pubDate>Thu, 15 Apr 2021 14:41:50 -0700</pubDate>
  </item>
 
 </channel>
