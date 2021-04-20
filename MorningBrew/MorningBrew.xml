@@ -8,9 +8,45 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/20</link>
- <lastBuildDate>Tue, 20 Apr 2021 14:53:50 -0700</lastBuildDate>
- <pubDate>Tue, 20 Apr 2021 14:53:50 -0700</pubDate>
+ <lastBuildDate>Tue, 20 Apr 2021 14:58:53 -0700</lastBuildDate>
+ <pubDate>Tue, 20 Apr 2021 14:58:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Reader Q&amp;A: The Difference Between SPACs, IPOs, and Direct Listings</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F931%2Fstock_exchange.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At a high level…IPOs are a 6–12 month journey where a company works with investment banks and underwriters, who buy a bunch of shares and then sell them to investors in the public market during the actual IPO. Question from too many of you to count: What's the difference between an IPO, a special purpose acquisition company (SPAC), and a direct listing?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/20/reader-qa-difference-spacs-ipos-direct-listings</link>
+  <author>Alex Hickey</author>
+  <categories>explainer</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/reader-qa-difference-spacs-ipos-direct-listings</guid>
+  <pubDate>Tue, 20 Apr 2021 14:56:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 21</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F95%2Fmike_bloomberg_speaks_at_a_podium.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Black people account for 6.8% of Goldman's total US workforce. (Slate) Read: Really though, what jeans are in style now?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/20/key-performance-indicators-april-21</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/key-performance-indicators-april-21</guid>
+  <pubDate>Tue, 20 Apr 2021 14:56:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Netflix Announces Disappointing Streamer Growth in 2021</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4797%2Fnetflix_still_watching.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Netflix predicted that in Q2 only 1 million net new subscribers will join the service—that would make it the worst quarter for subscriber growth on record. Netflix remains the majority of viewers’ No. 1 choice of stream-and-chill service, and up to 92% of viewers that signed up for competing streaming services also have Netflix. Of course, last year was special: In prime position to benefit from pandemic lockdowns, Netflix managed to increase its subscriber base to 204 million and bump up the price on its standard streaming plan by $1 and its premium tier by $2. Looking ahead... 2.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/20/netflix-announces-disappointing-streamer-growth-2021</link>
+  <author>Jamie Wilde</author>
+  <categories>streaming</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/netflix-announces-disappointing-streamer-growth-2021</guid>
+  <pubDate>Tue, 20 Apr 2021 14:56:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Super League In Doubt After Manchester City Backs Out</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fvbsp5XVPggdc4%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   “It is not sport if the relationship between the effort and reward doesn't exist,” Manchester City manager Pep Guardiola said yesterday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/20/super-league-doubt-manchester-city-backs</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/super-league-doubt-manchester-city-backs</guid>
+  <pubDate>Tue, 20 Apr 2021 14:56:52 -0700</pubDate>
+ </item>
  <item>
   <title>Apple Announces Devices with Custom M1 Chips at Special Event</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4793%2Fapple_imac.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Apple Card features for families, including shared credit lines Podcast subscriptions, in a swipe at SpotifyUpdated Apple TV box with a new remote and, most importantly, a trailer for Ted Lasso season 2Investors weren't blown away, and shares fell about 2% after the event.</description>
@@ -334,42 +370,6 @@
   <categories>analysis</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/government-paused-jj-vaccine</guid>
   <pubDate>Fri, 16 Apr 2021 13:06:54 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Crossword: Corporate World</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/16/brew-crossword-corporate-world</link>
-  <author>Toby Howell</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/brew-crossword-corporate-world</guid>
-  <pubDate>Fri, 16 Apr 2021 12:21:54 -0700</pubDate>
- </item>
- <item>
-  <title>Stock Watch: Masks </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3985%2Fmask_chains.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/16/stock-watch-masks</link>
-  <author>Neal Freyman</author>
-  <categories>culture</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/stock-watch-masks</guid>
-  <pubDate>Fri, 16 Apr 2021 12:11:51 -0700</pubDate>
- </item>
- <item>
-  <title>Mercedes-Benz Reveals Its First Electric Sedan</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FbkJgNKL2rRBPEuoDsj%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If EVs are the future of driving, luxury brands need to get it in gear. Its two-tone paint job is cool, but the most interesting part of the EQS is what it means for other legacy car companies trying to transition away from combustion engines. Zoom out. Hot stone seat massagers. Automatic doors.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/15/mercedesbenz-reveals-first-electric-sedan?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/mercedesbenz-reveals-first-electric-sedan?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 16 Apr 2021 03:01:50 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 16</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1098%2Fstonks_meme.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Valley of Dunning–Kruger)  Read: How Tiger Global is disrupting venture capital.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/15/key-performance-indicators-april-16?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/key-performance-indicators-april-16?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 16 Apr 2021 03:01:50 -0700</pubDate>
  </item>
 
 </channel>
