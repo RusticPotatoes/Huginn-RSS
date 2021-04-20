@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/20</link>
- <lastBuildDate>Tue, 20 Apr 2021 14:48:49 -0700</lastBuildDate>
- <pubDate>Tue, 20 Apr 2021 14:48:49 -0700</pubDate>
+ <lastBuildDate>Tue, 20 Apr 2021 14:53:50 -0700</lastBuildDate>
+ <pubDate>Tue, 20 Apr 2021 14:53:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Apple Announces Devices with Custom M1 Chips at Special Event</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4793%2Fapple_imac.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Apple Card features for families, including shared credit lines Podcast subscriptions, in a swipe at SpotifyUpdated Apple TV box with a new remote and, most importantly, a trailer for Ted Lasso season 2Investors weren't blown away, and shares fell about 2% after the event.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/20/apple-announces-devices-custom-m1-chips-special-event</link>
+  <author>Alex Hickey</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/apple-announces-devices-custom-m1-chips-special-event</guid>
+  <pubDate>Tue, 20 Apr 2021 14:51:49 -0700</pubDate>
+ </item>
+ <item>
+  <title>NYT Analysis Shows Migration Patterns Pre-Pandemic Stayed Mostly the Same</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4796%2Fsan_gorgonio_pass_wind_fa.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;According to the NYT's Upshot, which analyzed 30 million change-of-address requests in 2020, "Migration patterns during the pandemic have looked a lot like migration patterns before it."  Bottom line: This analysis highlights the "stickiness" of pre-pandemic migration patterns."</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/20/nyt-analysis-shows-migration-patterns-prepandemic-stayed-mostly</link>
+  <author>Neal Freyman</author>
+  <categories>geography</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/nyt-analysis-shows-migration-patterns-prepandemic-stayed-mostly</guid>
+  <pubDate>Tue, 20 Apr 2021 14:51:49 -0700</pubDate>
+ </item>
  <item>
   <title>Microsoft Researchers Measure Stress of Back-to-Back Meetings</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4205%2Fzoom_sadness.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Back-to-back meetings without breaks cause a measurable buildup in the brain of beta waves, which are associated with stress, according to a new study from Microsoft's Human Factors Lab. Even short breaks can help the brain "reset" and improve focus during meetings.  </description>
@@ -351,24 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/key-performance-indicators-april-16?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 16 Apr 2021 03:01:50 -0700</pubDate>
- </item>
- <item>
-  <title>Google's New Feature, Timelapse, Offers Users A View into the Last Four Decades</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FHvDRW8Dpi30dsckqQI%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;How it came to be: Google partnered with organizations including NASA and the US Geological Survey's Landsat program to collect images from 1984–2020 of every location on Earth—yes, even Nebraska. Google didn't create it just to hurt you.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/15/googles-new-feature-timelapse-offers-users-view-last-four-decades?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/googles-new-feature-timelapse-offers-users-view-last-four-decades?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 16 Apr 2021 03:01:50 -0700</pubDate>
- </item>
- <item>
-  <title>Jeff Bezos Pens Final Shareholder Letter as CEO of Amazon</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F376%2Fjeff_bezos_smiling.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; And reflections on those employees accounted for most of what Bezos wrote.  In his final letter before he steps down as CEO, published yesterday, Bezos noted $45 billion in revenue for Amazon Web Services alone, 200 million Amazon Prime members, and 1.3 million employees globally.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/15/jeff-bezos-pens-final-shareholder-letter-ceo-amazon?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>c suite</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/jeff-bezos-pens-final-shareholder-letter-ceo-amazon?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 16 Apr 2021 03:01:50 -0700</pubDate>
  </item>
 
