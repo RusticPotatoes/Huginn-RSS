@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/20</link>
- <lastBuildDate>Tue, 20 Apr 2021 03:03:46 -0700</lastBuildDate>
- <pubDate>Tue, 20 Apr 2021 03:03:46 -0700</pubDate>
+ <lastBuildDate>Tue, 20 Apr 2021 14:48:49 -0700</lastBuildDate>
+ <pubDate>Tue, 20 Apr 2021 14:48:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Microsoft Researchers Measure Stress of Back-to-Back Meetings</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4205%2Fzoom_sadness.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Back-to-back meetings without breaks cause a measurable buildup in the brain of beta waves, which are associated with stress, according to a new study from Microsoft's Human Factors Lab. Even short breaks can help the brain "reset" and improve focus during meetings.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/20/microsoft-researchers-measure-stress-backtoback-meetings</link>
+  <author>Alex Hickey</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/microsoft-researchers-measure-stress-backtoback-meetings</guid>
+  <pubDate>Tue, 20 Apr 2021 14:46:48 -0700</pubDate>
+ </item>
  <item>
   <title>The Ingenuity Helicopter's Flight Called a 'Wright Brothers Moment'</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FgA2u7fje5dWoDcNery%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Ingenuity had to fly completely on its own with no direct contact from its handling team on Earth. But first, a few more test flights over the next two weeks.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>c suite</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/jeff-bezos-pens-final-shareholder-letter-ceo-amazon?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 16 Apr 2021 03:01:50 -0700</pubDate>
- </item>
- <item>
-  <title>Lumber Prices Hit All-Time High</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;While the job can include lots of Vitamin D and flannel, low pay and the difficult, sometimes dangerous work required has pinched manpower. Astronomical lumber prices have added $24,000 to the cost of a typical single-family home and $9,000 per apartment, according to the National Association of Home Builders.   Lumber prices have soared during the pandemic.  Lumber prices kept rising during the winter months, so homebuilders and lumber yards delayed their purchases, hoping prices would come down.  Labor.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/15/lumber-prices-hit-alltime-high?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/15/lumber-prices-hit-alltime-high?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 16 Apr 2021 03:01:50 -0700</pubDate>
  </item>
 
