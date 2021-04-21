@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/21</link>
- <lastBuildDate>Wed, 21 Apr 2021 11:33:47 -0700</lastBuildDate>
- <pubDate>Wed, 21 Apr 2021 11:33:47 -0700</pubDate>
+ <lastBuildDate>Wed, 21 Apr 2021 14:38:47 -0700</lastBuildDate>
+ <pubDate>Wed, 21 Apr 2021 14:38:47 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>President Biden Holds Virtual Climate Summit With 40 World Leaders</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F0Av9l0VIc01y1isrDw%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Leaders are expected to announce their own commitments that match, exceed, or Wizard Chess-counter Biden’s proposal.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/21/president-biden-holds-virtual-climate-summit-40-world-leaders</link>
+  <author>Jamie Wilde</author>
+  <categories>environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/21/president-biden-holds-virtual-climate-summit-40-world-leaders</guid>
+  <pubDate>Wed, 21 Apr 2021 14:36:46 -0700</pubDate>
+ </item>
+ <item>
+  <title>Amazon Announces New Salon, Furniture Assembly Service, and Palm-Reading Payment</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4808%2Famazon_salon_ar.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Amazon is reportedly planning to launch a new furniture assembly service to try and one-up Wayfair and loosen their grip on the housewares retail space. Now, its new contactless payment method will expand from Amazon Go and Amazon Books stores to seven Whole Foods locations in the Seattle area. Use your palm to pay.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/21/amazon-announces-new-salon-furniture-assembly-service-palmreading-payment</link>
+  <author>Matty Merritt</author>
+  <categories>amazon</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/21/amazon-announces-new-salon-furniture-assembly-service-palmreading-payment</guid>
+  <pubDate>Wed, 21 Apr 2021 14:36:46 -0700</pubDate>
+ </item>
  <item>
   <title>Microsoft Study Shows Need for Breaks in Between Video Meetings</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4205%2Fzoom_sadness.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Back-to-back meetings without breaks cause a measurable buildup in the brain of beta waves, which are associated with stress, according to a new study from Microsoft's Human Factors Lab. Even short breaks can help the brain "reset" and improve focus during meetings.</description>
@@ -352,24 +370,6 @@
   <categories>markets</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/delis-dogecoin-market-mania-continues-vex-wall-street?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 17 Apr 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Ocado Looks to Autonomous Vehicles with Investment in Oxbotica</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3ocuUmdYQNo8hyx4vx%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Logistics currently account for ~10% of the total cost of grocery delivery, so even though investing in autonomous vehicles is expensive and a regulatory nightmare, companies are betting on the long-term payout—especially as online grocery shopping has become way more popular during the pandemic.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/16/ocado-looks-autonomous-vehicles-investment-oxbotica</link>
-  <author>Matty Merritt</author>
-  <categories>grocery</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/ocado-looks-autonomous-vehicles-investment-oxbotica</guid>
-  <pubDate>Fri, 16 Apr 2021 15:01:46 -0700</pubDate>
- </item>
- <item>
-  <title>Vaccine Tracker: April 17</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;More headlinesWorking the back channels: After US officials paused the rollout of J&amp;J’s vaccine, the company reached out to other vaccine makers Pfizer, Moderna, and AstraZeneca about creating an “informal alliance” to address concerns over vaccine safety, reports the WSJ.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/16/vaccine-tracker-april-17</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/vaccine-tracker-april-17</guid>
-  <pubDate>Fri, 16 Apr 2021 14:56:45 -0700</pubDate>
  </item>
 
 </channel>
