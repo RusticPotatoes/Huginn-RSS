@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/21</link>
- <lastBuildDate>Wed, 21 Apr 2021 03:03:46 -0700</lastBuildDate>
- <pubDate>Wed, 21 Apr 2021 03:03:46 -0700</pubDate>
+ <lastBuildDate>Wed, 21 Apr 2021 11:33:47 -0700</lastBuildDate>
+ <pubDate>Wed, 21 Apr 2021 11:33:47 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Microsoft Study Shows Need for Breaks in Between Video Meetings</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4205%2Fzoom_sadness.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Back-to-back meetings without breaks cause a measurable buildup in the brain of beta waves, which are associated with stress, according to a new study from Microsoft's Human Factors Lab. Even short breaks can help the brain "reset" and improve focus during meetings.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/21/microsoft-study-shows-need-breaks-video-meetings</link>
+  <author>Alex Hickey</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/21/microsoft-study-shows-need-breaks-video-meetings</guid>
+  <pubDate>Wed, 21 Apr 2021 11:31:50 -0700</pubDate>
+ </item>
  <item>
   <title>Reader Q&amp;A: The Difference Between SPACs, IPOs, and Direct Listings</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F931%2Fstock_exchange.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The details can get hard to remember, so take this explainer and bookmark it. At a high level…IPOs are a 6–12 month journey where a company works with investment banks and underwriters, who buy a bunch of shares and then sell them to investors in the public market during the actual IPO.</description>
@@ -361,15 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/vaccine-tracker-april-17</guid>
   <pubDate>Fri, 16 Apr 2021 14:56:45 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 18</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4761%2Flotr_meme.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Michael Reeves)  Watch: How to teach a robot to pee beer. It was the first time the NY Phil had played to an indoor crowd in exactly 400 days.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/16/key-performance-indicators-april-18</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/key-performance-indicators-april-18</guid>
-  <pubDate>Fri, 16 Apr 2021 14:46:53 -0700</pubDate>
  </item>
 
 </channel>
