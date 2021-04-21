@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/20/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/21/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/20</link>
- <lastBuildDate>Tue, 20 Apr 2021 14:58:53 -0700</lastBuildDate>
- <pubDate>Tue, 20 Apr 2021 14:58:53 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/21</link>
+ <lastBuildDate>Wed, 21 Apr 2021 03:03:46 -0700</lastBuildDate>
+ <pubDate>Wed, 21 Apr 2021 03:03:46 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Reader Q&amp;A: The Difference Between SPACs, IPOs, and Direct Listings</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F931%2Fstock_exchange.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The details can get hard to remember, so take this explainer and bookmark it. At a high level…IPOs are a 6–12 month journey where a company works with investment banks and underwriters, who buy a bunch of shares and then sell them to investors in the public market during the actual IPO.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/20/reader-qa-difference-spacs-ipos-direct-listings?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>explainer</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/reader-qa-difference-spacs-ipos-direct-listings?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 21 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 21</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F95%2Fmike_bloomberg_speaks_at_a_podium.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Black people account for 6.8% of Goldman's total US workforce. (Slate) Read: Really though, what jeans are in style now?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/20/key-performance-indicators-april-21?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/key-performance-indicators-april-21?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 21 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>NYT Analysis Shows Migration Patterns Pre-Pandemic Stayed Mostly the Same</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4796%2Fsan_gorgonio_pass_wind_fa.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;According to the NYT's Upshot, which analyzed 30 million change-of-address requests in 2020, "Migration patterns during the pandemic have looked a lot like migration patterns before it."  Bottom line: This analysis highlights the stickiness of pre-pandemic migration patterns."</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/20/nyt-analysis-shows-migration-patterns-prepandemic-stayed-mostly?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>geography</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/nyt-analysis-shows-migration-patterns-prepandemic-stayed-mostly?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 21 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>Apple Announces Devices with Custom M1 Chips at Special Event</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4793%2Fapple_imac.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Apple Card features for families, including shared credit lines Podcast subscriptions, in a swipe at SpotifyUpdated Apple TV box with a new remote and, most importantly, a trailer for Ted Lasso season 2Investors weren't blown away, and shares fell about 2% after the event.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/20/apple-announces-devices-custom-m1-chips-special-event?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/apple-announces-devices-custom-m1-chips-special-event?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 21 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>Super League In Doubt After Manchester City Backs Out</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fvbsp5XVPggdc4%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; All six English Premier League clubs that had initially signed onto the Super League, including Manchester City and Liverpool, said they're backing out yesterday after feeling the heat from supporters.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/20/super-league-doubt-manchester-city-backs?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/super-league-doubt-manchester-city-backs?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 21 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>Netflix Announces Disappointing Streamer Growth in 2021</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4797%2Fnetflix_still_watching.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Netflix remains the majority of viewers’ No. 1 choice of stream-and-chill service, and up to 92% of viewers that signed up for competing streaming services also have Netflix. Netflix predicted that in Q2 only 1 million net new subscribers will join the service—that would make it the worst quarter for subscriber growth on record. Of course, last year was special: In prime position to benefit from pandemic lockdowns, Netflix managed to increase its subscriber base to 204 million and bump up the price on its standard streaming plan by $1 and its premium tier by $2. Looking ahead... 2.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/20/netflix-announces-disappointing-streamer-growth-2021?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>streaming</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/netflix-announces-disappointing-streamer-growth-2021?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 21 Apr 2021 03:01:45 -0700</pubDate>
+ </item>
  <item>
   <title>Reader Q&amp;A: The Difference Between SPACs, IPOs, and Direct Listings</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F931%2Fstock_exchange.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At a high level…IPOs are a 6–12 month journey where a company works with investment banks and underwriters, who buy a bunch of shares and then sell them to investors in the public market during the actual IPO. Question from too many of you to count: What's the difference between an IPO, a special purpose acquisition company (SPAC), and a direct listing?</description>
@@ -316,60 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/key-performance-indicators-april-18</guid>
   <pubDate>Fri, 16 Apr 2021 14:46:53 -0700</pubDate>
- </item>
- <item>
-  <title>Apple Music Claims to Pay Artists Twice as Much as Spotify</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4766%2Fpenny_music_notes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Plus, Spotify has more streamers who listen to more songs, so while Apple may pay more per stream, it doesn’t pay more in total. The answer has to do with how the music biz operates: Streaming services pay rights holders (typically, record labels), instead of sending artists a direct deposit.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/16/apple-music-claims-pay-artists-twice-much-spotify</link>
-  <author>Jamie Wilde</author>
-  <categories>music</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/apple-music-claims-pay-artists-twice-much-spotify</guid>
-  <pubDate>Fri, 16 Apr 2021 14:46:53 -0700</pubDate>
- </item>
- <item>
-  <title>From Delis and Dogecoin, Market Mania Continues to Vex Wall Street</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4762%2Fhometown_deli_in_nj.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This is about more than pastrami, as amazing as it might be Einhorn’s larger point was that “quasi-anarchy” is breaking out in the stock market, and regulators are MIA.   Einhorn trashed Musk and celeb investor Chamath Palihapitiya for “destabilizing” the stock market back in January with their tweets and TV appearances in which they egged on retail traders. We’ll see whether Wall Street’s top cop, newly confirmed SEC Chair Gary Gensler, will try to put the doge on a leash. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/16/delis-dogecoin-market-mania-continues-vex-wall-street</link>
-  <author>Neal Freyman</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/delis-dogecoin-market-mania-continues-vex-wall-street</guid>
-  <pubDate>Fri, 16 Apr 2021 14:41:51 -0700</pubDate>
- </item>
- <item>
-  <title>Open House</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FYUb3o4Ydpv7C1lCcQx%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Other highlights include:3 beds, 6 bathsA slew of custom-painted doors Unobstructed views of that famous Columbus skylineA curved tray ceiling with a “rotating light color wheel”How much is it being listed for?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/16/open-house</link>
-  <author>Matty Merritt</author>
-  <categories>real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/open-house</guid>
-  <pubDate>Fri, 16 Apr 2021 13:51:49 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers With...Bridget Connelly</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4757%2Fbridget_connelly.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;I was recently thinking about rereading it.   Luna Bay was "born in Chicago" and is the first woman-founded-and-led hard kombucha brand on the market. So I love making a ginger lemon mezcal Booch-a-Rita. What's your favorite flavor of Luna Bay? What song would you say describes Luna Bay? We are really fortunate that we have amazing distributors that are empowering us and really want to support [women-led] brands. It wasn't until she found herself in San Diego, a hub for hard kombucha and craft beer, that she had the idea to start Luna Bay Booch and enlisted her business partner and childhood friend, Claire Ridge, to help. At first, I would take that personally because I did sign up for this.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/16/icebreakers-withbridget-connelly</link>
-  <author>Matty Merritt</author>
-  <categories>qanda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/icebreakers-withbridget-connelly</guid>
-  <pubDate>Fri, 16 Apr 2021 13:46:49 -0700</pubDate>
- </item>
- <item>
-  <title>Make It Work: Chasing Down Receipts </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;I would also assume that before you can take a single day off you would have to make that request to your manager. Your manager has to make a judgment every time a direct report makes a PTO request. When an employee requests time off, the request must always honor the company's general PTO policy. Each week, Morning Brew's Head of People Ops Kate Noel answers reader-submitted questions about work in 2021. —AnonymousI don't think that you "should" feel guilty about requesting time off with just three months under your belt.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/16/make-work-chasing-receipts</link>
-  <author>Neal Freyman</author>
-  <categories>work life</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/make-work-chasing-receipts</guid>
-  <pubDate>Fri, 16 Apr 2021 13:11:55 -0700</pubDate>
- </item>
- <item>
-  <title>Should the Government Have Paused the J&amp;J Vaccine?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Finally, US health regulators, by seeking to avoid a credibility crisis, may have just invited one in.    On Monday, the CDC and FDA recommended pausing Johnson &amp; Johnson's single-dose Covid vaccine while they investigate reports of rare blood clots.  A YouGov poll found that the perception of safety of the J&amp;J vaccine dropped 15 percentage points after officials suspended it.  Instilling confidence in vaccines is their No. 1 priority, and right now... 538's Nate Silver, one of the top critics of the government's decision, suggested that regulators could have said they're monitoring the situation and not paused vaccinations, or could have stopped giving J&amp;J to young women, who appear to be most at risk of developing the rare blood clots.  The argument against a pauseAgencies said they paused the rollout out of an "abundance of caution."</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/16/government-paused-jj-vaccine</link>
-  <author>Neal Freyman</author>
-  <categories>analysis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/16/government-paused-jj-vaccine</guid>
-  <pubDate>Fri, 16 Apr 2021 13:06:54 -0700</pubDate>
  </item>
 
 </channel>
