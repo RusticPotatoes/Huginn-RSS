@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/22</link>
- <lastBuildDate>Thu, 22 Apr 2021 14:28:50 -0700</lastBuildDate>
- <pubDate>Thu, 22 Apr 2021 14:28:50 -0700</pubDate>
+ <lastBuildDate>Thu, 22 Apr 2021 14:33:46 -0700</lastBuildDate>
+ <pubDate>Thu, 22 Apr 2021 14:33:46 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Tesla Struggles with More Upsets in China This Week</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3733%2Ftesla_with_wheel_lock.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But the company's cavalier attitude and inability to keep up with auto repairs as sales grow rapidly have rubbed some Chinese regulators the wrong way. In March, Tesla cars were banned from military complexes in China over fears their cameras would be used to spy on the government.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/22/tesla-struggles-upsets-china-week</link>
+  <author>Matty Merritt</author>
+  <categories>ev</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/tesla-struggles-upsets-china-week</guid>
+  <pubDate>Thu, 22 Apr 2021 14:31:45 -0700</pubDate>
+ </item>
  <item>
   <title>Supreme Court Limits FTC's Ability to Recoup Ill-Gotten Gains</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F858%2Fsupreme_court.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Justices said the FTC needs to ask Congress to grant those powers back, which acting FTC Chair Rebecca Slaughter did earlier this week.  For decades, the FTC has used a provision called Section 13(b) to recoup billions of dollars and (at times) pay back consumers.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>geopolitics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/us-china-put-joint-statement-climate?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 19 Apr 2021 03:01:52 -0700</pubDate>
- </item>
- <item>
-  <title>Twelve Elite European Soccer Clubs Try to Form Super League</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4769%2Fjuventus_v_us_sassuolo_-.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, a group of 12 elite European soccer clubs unveiled a breakaway competition called the Super League, a plan that could lead to the biggest shakeup in the sport since Zlatan Ibrahimović brought back the man bun.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/18/twelve-elite-european-soccer-clubs-try-form-super-league?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/twelve-elite-european-soccer-clubs-try-form-super-league?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 19 Apr 2021 03:01:52 -0700</pubDate>
  </item>
 
