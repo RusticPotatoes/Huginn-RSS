@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/22</link>
- <lastBuildDate>Thu, 22 Apr 2021 14:23:46 -0700</lastBuildDate>
- <pubDate>Thu, 22 Apr 2021 14:23:46 -0700</pubDate>
+ <lastBuildDate>Thu, 22 Apr 2021 14:28:50 -0700</lastBuildDate>
+ <pubDate>Thu, 22 Apr 2021 14:28:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Supreme Court Limits FTC's Ability to Recoup Ill-Gotten Gains</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F858%2Fsupreme_court.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Justices said the FTC needs to ask Congress to grant those powers back, which acting FTC Chair Rebecca Slaughter did earlier this week.  For decades, the FTC has used a provision called Section 13(b) to recoup billions of dollars and (at times) pay back consumers.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/22/supreme-court-limits-ftcs-ability-recoup-illgotten-gains</link>
+  <author>Alex Hickey</author>
+  <categories>legal</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/supreme-court-limits-ftcs-ability-recoup-illgotten-gains</guid>
+  <pubDate>Thu, 22 Apr 2021 14:26:49 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 23</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4603%2Fkong_vs_godzilla.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Stat: 2.8 million people in the US subscribed to HBO Max in Q1; Netflix added just 450,000 subs across the US and Canada in the same period. (NYT)</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/22/key-performance-indicators-april-23</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/key-performance-indicators-april-23</guid>
+  <pubDate>Thu, 22 Apr 2021 14:26:49 -0700</pubDate>
+ </item>
  <item>
   <title>Biden Will Propose Nearly Doubling Capital Gains Tax</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4828%2Fdiamond_hands.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;President Biden will soon propose nearly doubling the capital gains tax for wealthy people to 39.6%, according to Bloomberg.  To pay for the first plan, which includes spending on bridges and broadband, Biden wants to hike taxes on corporations. Critics of the current capital gains system say, "So you're telling me this rich investor is paying less in taxes on their stock sales than a middle-class worker pays on her income? To pay for his second proposal, which includes spending on childcare and paid leave for workers, he wants to hike taxes on wealthy investors.</description>
@@ -352,24 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/twelve-elite-european-soccer-clubs-try-form-super-league?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 19 Apr 2021 03:01:52 -0700</pubDate>
- </item>
- <item>
-  <title>Fed Report Shows 200k Additional Business Closures During Covid</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2192%2Fsmall_businesses_in_a_row.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Business exits are typically higher among firms with five or fewer workers, and the majority of the US' 26 million small businesses are sole proprietorships.  Fewer than 200,000 business establishments closed from March 2020 to February 2021 on top of the roughly 600,000 businesses that typically turnover in a given year, according to a new Federal Reserve report. If requests for pandemic aid were granted, they were less likely than white-owned businesses to get the amount requested.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/18/fed-report-shows-200k-additional-business-closures-covid?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/fed-report-shows-200k-additional-business-closures-covid?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 19 Apr 2021 03:01:51 -0700</pubDate>
- </item>
- <item>
-  <title>Twelve Elite European Soccer Clubs Try to Form Super League</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4769%2Fjuventus_v_us_sassuolo_-.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, a group of 12 European elite soccer clubs unveiled a breakaway competition called the Super League, a plan that would lead to the biggest shakeup in the sport since Zlatan Ibrahimović brought back the man bun.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/18/twelve-elite-european-soccer-clubs-try-form-super-league</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/twelve-elite-european-soccer-clubs-try-form-super-league</guid>
-  <pubDate>Sun, 18 Apr 2021 16:56:55 -0700</pubDate>
  </item>
 
 </channel>
