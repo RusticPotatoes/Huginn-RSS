@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/22</link>
- <lastBuildDate>Thu, 22 Apr 2021 14:33:46 -0700</lastBuildDate>
- <pubDate>Thu, 22 Apr 2021 14:33:46 -0700</pubDate>
+ <lastBuildDate>Thu, 22 Apr 2021 14:53:47 -0700</lastBuildDate>
+ <pubDate>Thu, 22 Apr 2021 14:53:47 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Brew’s Weekly News Quiz: April 23</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/22/brews-weekly-news-quiz-april-23</link>
+  <author>Jamie Wilde</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/brews-weekly-news-quiz-april-23</guid>
+  <pubDate>Thu, 22 Apr 2021 14:51:46 -0700</pubDate>
+ </item>
  <item>
   <title>Tesla Struggles with More Upsets in China This Week</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3733%2Ftesla_with_wheel_lock.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But the company's cavalier attitude and inability to keep up with auto repairs as sales grow rapidly have rubbed some Chinese regulators the wrong way. In March, Tesla cars were banned from military complexes in China over fears their cameras would be used to spy on the government.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>fitness</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/safety-agency-warns-pelotons-treadmill-small-children-pets?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 19 Apr 2021 03:01:52 -0700</pubDate>
- </item>
- <item>
-  <title>US and China Put out Joint Statement on Climate</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FYmr4ufcSAtJ4Y%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But in a joint statement Saturday, the world's two largest economies said they'd work together to combat climate change.  If you're looking for specifics, this is not the statement for you.  Zoom out: Compared to his predecessor, President Biden is taking a U-turn with an aggressive plan to tackle climate change.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/18/us-china-put-joint-statement-climate?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>geopolitics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/us-china-put-joint-statement-climate?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 19 Apr 2021 03:01:52 -0700</pubDate>
  </item>
 
