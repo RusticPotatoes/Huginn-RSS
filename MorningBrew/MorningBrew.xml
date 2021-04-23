@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/23</link>
- <lastBuildDate>Fri, 23 Apr 2021 14:33:49 -0700</lastBuildDate>
- <pubDate>Fri, 23 Apr 2021 14:33:49 -0700</pubDate>
+ <lastBuildDate>Fri, 23 Apr 2021 14:43:53 -0700</lastBuildDate>
+ <pubDate>Fri, 23 Apr 2021 14:43:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: April 24</title>
+  <description>&lt;img src='https://media.giphy.com/media/HeBjzG7RXozoF4tn6z/giphy.gif'&gt;&lt;br/&gt;(Devon Zuegel) Read: Thoughts on moving to Miami. The bank faced a barrage of criticism on social media for bankrolling the breakaway soccer league with $4.2 billion in financing.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/23/key-performance-indicators-april-24</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/key-performance-indicators-april-24</guid>
+  <pubDate>Fri, 23 Apr 2021 14:41:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Simone Biles Vaults from Nike to Athleta </title>
+  <description>&lt;img src='https://media.giphy.com/media/urNnB16e8aXaTZdWCI/giphy.gif'&gt;&lt;br/&gt;Simone Biles, the most decorated gymnast of all time, is leaving Nike for Athleta in a move that highlights the changing landscape of athlete sponsorships.  It’s easy to see what Athleta offers Felix and Biles: a company “truly for women by women,” said the gymnast. Over on the Nike partnerships team, it’s been an interesting weekOn Monday, Complex Magazine reported that the estate of Kobe Bryant, the NBA legend who died in a helicopter crash last January, did not renew its sneaker deal with Nike.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/23/simone-biles-vaults-nike-athleta</link>
+  <author>Neal Freyman</author>
+  <categories>apparel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/simone-biles-vaults-nike-athleta</guid>
+  <pubDate>Fri, 23 Apr 2021 14:41:52 -0700</pubDate>
+ </item>
  <item>
   <title>Vaccine Tracker</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;US is consulting but not committing: The CDC is providing “technical assistance” to India to help manage the country’s brutal second wave, but President Biden said that the US won’t be sharing any vaccines right now, despite stockpiling AstraZeneca shots that aren’t yet authorized in the US.</description>
@@ -352,24 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/apple-announces-devices-custom-m1-chips-special-event</guid>
   <pubDate>Tue, 20 Apr 2021 14:51:49 -0700</pubDate>
- </item>
- <item>
-  <title>NYT Analysis Shows Migration Patterns Pre-Pandemic Stayed Mostly the Same</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4796%2Fsan_gorgonio_pass_wind_fa.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;According to the NYT's Upshot, which analyzed 30 million change-of-address requests in 2020, "Migration patterns during the pandemic have looked a lot like migration patterns before it."  Bottom line: This analysis highlights the "stickiness" of pre-pandemic migration patterns."</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/20/nyt-analysis-shows-migration-patterns-prepandemic-stayed-mostly</link>
-  <author>Neal Freyman</author>
-  <categories>geography</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/nyt-analysis-shows-migration-patterns-prepandemic-stayed-mostly</guid>
-  <pubDate>Tue, 20 Apr 2021 14:51:49 -0700</pubDate>
- </item>
- <item>
-  <title>Microsoft Researchers Measure Stress of Back-to-Back Meetings</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4205%2Fzoom_sadness.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Back-to-back meetings without breaks cause a measurable buildup in the brain of beta waves, which are associated with stress, according to a new study from Microsoft's Human Factors Lab. Even short breaks can help the brain "reset" and improve focus during meetings.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/20/microsoft-researchers-measure-stress-backtoback-meetings</link>
-  <author>Alex Hickey</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/microsoft-researchers-measure-stress-backtoback-meetings</guid>
-  <pubDate>Tue, 20 Apr 2021 14:46:48 -0700</pubDate>
  </item>
 
 </channel>
