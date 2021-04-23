@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/23</link>
- <lastBuildDate>Fri, 23 Apr 2021 15:08:47 -0700</lastBuildDate>
- <pubDate>Fri, 23 Apr 2021 15:08:47 -0700</pubDate>
+ <lastBuildDate>Fri, 23 Apr 2021 15:13:50 -0700</lastBuildDate>
+ <pubDate>Fri, 23 Apr 2021 15:13:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Vaccine Tracker: April 24</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; US is consulting but not committing: The CDC is providing “technical assistance” to India to help manage the country’s brutal second wave, but President Biden said that the US won’t be sharing any vaccines right now, despite stockpiling AstraZeneca shots that aren’t yet authorized in the US.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/23/vaccine-tracker-april-24</link>
+  <author>Matty Merritt</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/vaccine-tracker-april-24</guid>
+  <pubDate>Fri, 23 Apr 2021 15:11:50 -0700</pubDate>
+ </item>
  <item>
   <title>Italian Man Skips Work for 15 Years, Still Gets Paid</title>
   <description>&lt;img src='https://media.giphy.com/media/l2YWrtthgz6PzBmFi/giphy.gif'&gt;&lt;br/&gt;  Scumace could face charges of abuse of office, forgery, and aggravated extortion, but he’ll go down in Italian history as the “king of absentees.” Slacking off as a public sector worker is a rampant-enough problem in Italy that Italians call perpetrators a name that roughly translates to “timecard weasels.”</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>streaming</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/netflix-announces-disappointing-streamer-growth-2021</guid>
-  <pubDate>Tue, 20 Apr 2021 14:56:52 -0700</pubDate>
- </item>
- <item>
-  <title>Super League In Doubt After Manchester City Backs Out</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fvbsp5XVPggdc4%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   “It is not sport if the relationship between the effort and reward doesn't exist,” Manchester City manager Pep Guardiola said yesterday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/20/super-league-doubt-manchester-city-backs</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/super-league-doubt-manchester-city-backs</guid>
   <pubDate>Tue, 20 Apr 2021 14:56:52 -0700</pubDate>
  </item>
 
