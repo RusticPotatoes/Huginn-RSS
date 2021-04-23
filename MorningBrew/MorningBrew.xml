@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/22/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/23/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/22</link>
- <lastBuildDate>Thu, 22 Apr 2021 14:53:47 -0700</lastBuildDate>
- <pubDate>Thu, 22 Apr 2021 14:53:47 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/23</link>
+ <lastBuildDate>Fri, 23 Apr 2021 03:03:53 -0700</lastBuildDate>
+ <pubDate>Fri, 23 Apr 2021 03:03:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: April 23</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4603%2Fkong_vs_godzilla.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(NYT)  Read: There's a name for the blah you're feeling: languishing.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/22/key-performance-indicators-april-23?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/key-performance-indicators-april-23?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 23 Apr 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Tesla Struggles with More Upsets in China This Week</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3733%2Ftesla_with_wheel_lock.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But the company's cavalier attitude and inability to keep up with auto repairs as sales grow rapidly have rubbed some Chinese regulators the wrong way. In March, Tesla cars were banned from military complexes in China over fears their cameras would be used to spy on the government.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/22/tesla-struggles-upsets-china-week?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>ev</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/tesla-struggles-upsets-china-week?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 23 Apr 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Supreme Court Limits FTC's Ability to Recoup Ill-Gotten Gains</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F858%2Fsupreme_court.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Justices said the FTC needs to ask Congress to grant those powers back, which acting FTC Chair Rebecca Slaughter did earlier this week.  For decades, the FTC has used a provision called Section 13(b) to recoup billions of dollars and (at times) pay back consumers.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/22/supreme-court-limits-ftcs-ability-recoup-illgotten-gains?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>legal</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/supreme-court-limits-ftcs-ability-recoup-illgotten-gains?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 23 Apr 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Biden Will Propose Nearly Doubling Capital Gains Tax</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4828%2Fdiamond_hands.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;President Biden will soon propose nearly doubling the capital gains tax for wealthy people to 39.6%, according to Bloomberg.  To pay for the first plan, which includes spending on bridges and broadband, Biden wants to hike taxes on corporations. Critics of the current capital gains system say, "So you're telling me this rich investor is paying less in taxes on their stock sales than a middle-class worker pays on their income? To pay for his second proposal, which includes spending on childcare and paid leave for workers, he wants to hike taxes on wealthy investors.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/22/biden-will-propose-nearly-doubling-capital-gains-tax?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>taxes</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/biden-will-propose-nearly-doubling-capital-gains-tax?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 23 Apr 2021 03:02:03 -0700</pubDate>
+ </item>
  <item>
   <title>The Brew’s Weekly News Quiz: April 23</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -334,42 +370,6 @@
   <categories>social media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/19/facebook-reveals-big-push-audio</guid>
   <pubDate>Mon, 19 Apr 2021 14:46:53 -0700</pubDate>
- </item>
- <item>
-  <title>Pew: 91% of US Adults Now Support Legalized Marijuana in Some Form</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3946%2Fnug_rocket.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Canada legalized recreational cannabis in 2018, and Mexico could follow soon. This month, New Mexico became the 17th state to allow recreational use. Even the South is cracking; starting in July, Virginia will allow recreational use. Tightly regulated distribution with restrictions on marketing, slow rollouts in some provinces, and less demand than expected have hurt. But success isn't a sure bet. Legalization can bring big economic opportunity: The US marijuana industry already supports 300,000+ full-time jobs—more than the number of dentists in the country. And a lack of federal standards has led to inconsistency around testing, labeling, and marketing.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/19/pew-91-us-adults-now-support-legalized-marijuana-form</link>
-  <author>Alex Hickey</author>
-  <categories>cannabis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/19/pew-91-us-adults-now-support-legalized-marijuana-form</guid>
-  <pubDate>Mon, 19 Apr 2021 14:36:49 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: April 19</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4209%2Ffda_johnson_johnson_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Earthy things: Earth Day is Thursday, and so is the release date of a new PBS documentary on activist Greta Thunberg.   4/20 (Tuesday). Big banks have set a high bar.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/18/week-ahead-april-19?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/week-ahead-april-19?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 19 Apr 2021 03:01:52 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 19</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4733%2Fcoinbase_going_public.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Popular Information) others didn't. Read: Some businesses kept their promise to withhold PAC donations from lawmakers who voted to overturn election results...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/18/key-performance-indicators-april-19?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/key-performance-indicators-april-19?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 19 Apr 2021 03:01:52 -0700</pubDate>
- </item>
- <item>
-  <title>Safety Agency Warns of Peloton's Treadmill for Small Children and Pets</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2354%2Fpeloton_tread_image.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Peloton is in a war of words with US regulators over the safety of one of its core products.  Zoom out: Peloton's biggest problem last year was making enough equipment to fulfill elevated demand for its connected fitness products.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/18/safety-agency-warns-pelotons-treadmill-small-children-pets?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>fitness</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/18/safety-agency-warns-pelotons-treadmill-small-children-pets?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 19 Apr 2021 03:01:52 -0700</pubDate>
  </item>
 
 </channel>
