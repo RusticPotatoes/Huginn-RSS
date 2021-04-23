@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/23</link>
- <lastBuildDate>Fri, 23 Apr 2021 14:43:53 -0700</lastBuildDate>
- <pubDate>Fri, 23 Apr 2021 14:43:53 -0700</pubDate>
+ <lastBuildDate>Fri, 23 Apr 2021 15:08:47 -0700</lastBuildDate>
+ <pubDate>Fri, 23 Apr 2021 15:08:47 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Italian Man Skips Work for 15 Years, Still Gets Paid</title>
+  <description>&lt;img src='https://media.giphy.com/media/l2YWrtthgz6PzBmFi/giphy.gif'&gt;&lt;br/&gt;  Scumace could face charges of abuse of office, forgery, and aggravated extortion, but he’ll go down in Italian history as the “king of absentees.” Slacking off as a public sector worker is a rampant-enough problem in Italy that Italians call perpetrators a name that roughly translates to “timecard weasels.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/23/italian-man-skips-work-15-years-still-gets-paid</link>
+  <author>Jamie Wilde</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/italian-man-skips-work-15-years-still-gets-paid</guid>
+  <pubDate>Fri, 23 Apr 2021 15:06:46 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: April 24</title>
   <description>&lt;img src='https://media.giphy.com/media/HeBjzG7RXozoF4tn6z/giphy.gif'&gt;&lt;br/&gt;(Devon Zuegel) Read: Thoughts on moving to Miami. The bank faced a barrage of criticism on social media for bankrolling the breakaway soccer league with $4.2 billion in financing.</description>
@@ -361,15 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/super-league-doubt-manchester-city-backs</guid>
   <pubDate>Tue, 20 Apr 2021 14:56:52 -0700</pubDate>
- </item>
- <item>
-  <title>Apple Announces Devices with Custom M1 Chips at Special Event</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4793%2Fapple_imac.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Apple Card features for families, including shared credit lines Podcast subscriptions, in a swipe at SpotifyUpdated Apple TV box with a new remote and, most importantly, a trailer for Ted Lasso season 2Investors weren't blown away, and shares fell about 2% after the event.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/20/apple-announces-devices-custom-m1-chips-special-event</link>
-  <author>Alex Hickey</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/apple-announces-devices-custom-m1-chips-special-event</guid>
-  <pubDate>Tue, 20 Apr 2021 14:51:49 -0700</pubDate>
  </item>
 
 </channel>
