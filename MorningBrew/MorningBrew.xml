@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/23</link>
- <lastBuildDate>Fri, 23 Apr 2021 13:08:50 -0700</lastBuildDate>
- <pubDate>Fri, 23 Apr 2021 13:08:50 -0700</pubDate>
+ <lastBuildDate>Fri, 23 Apr 2021 13:33:54 -0700</lastBuildDate>
+ <pubDate>Fri, 23 Apr 2021 13:33:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Make it Work: Freedom of Curls</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; As a Black professional myself, I have had my own share of anxiety when looking for jobs. Yes, I know that you reaaally want to land a job.   I'm a Black woman and entrepreneur, but given the past year's difficulties, I'm contemplating going back to the workforce. I switch my hairstyle probably every two months and absolutely no one makes weird comments or makes it a point of discussion at the beginning of Zoom meetings.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/23/make-work-freedom-curls</link>
+  <author>Neal Freyman</author>
+  <categories>work life</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/make-work-freedom-curls</guid>
+  <pubDate>Fri, 23 Apr 2021 13:31:54 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Crossword: Beverage</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>marketing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/19/mcdonalds-announces-bts-meal-next-collab-famous-orders-program?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 20 Apr 2021 03:01:45 -0700</pubDate>
- </item>
- <item>
-  <title>Facebook Reveals Its Big Push Into Audio</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4790%2Ffb_audio_copycat.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;New features include rooms for hosting live audio discussions, a feed of short audio clips similar to Instagram's Reels, and tools for podcasters."</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/19/facebook-reveals-big-push-audio?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>social media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/19/facebook-reveals-big-push-audio?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 20 Apr 2021 03:01:45 -0700</pubDate>
  </item>
 
