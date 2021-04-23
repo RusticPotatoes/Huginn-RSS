@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/23</link>
- <lastBuildDate>Fri, 23 Apr 2021 14:28:45 -0700</lastBuildDate>
- <pubDate>Fri, 23 Apr 2021 14:28:45 -0700</pubDate>
+ <lastBuildDate>Fri, 23 Apr 2021 14:33:49 -0700</lastBuildDate>
+ <pubDate>Fri, 23 Apr 2021 14:33:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Vaccine Tracker</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;US is consulting but not committing: The CDC is providing “technical assistance” to India to help manage the country’s brutal second wave, but President Biden said that the US won’t be sharing any vaccines right now, despite stockpiling AstraZeneca shots that aren’t yet authorized in the US.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/23/vaccine-tracker</link>
+  <author>Matty Merritt</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/vaccine-tracker</guid>
+  <pubDate>Fri, 23 Apr 2021 14:31:48 -0700</pubDate>
+ </item>
  <item>
   <title>SpaceX’s Second Launch with NASA Reaches Orbit</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4849%2Fspacex_crew-2_launch.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Other interesting mission facts:SpaceX has sent 10 astronauts to space in under a year. A lot of rad names there, but what you really need to know is the Crew-2 mission is SpaceX’s second operational crew launch since partnering with NASA and its third to date.</description>
@@ -361,15 +370,6 @@
   <categories>work</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/microsoft-researchers-measure-stress-backtoback-meetings</guid>
   <pubDate>Tue, 20 Apr 2021 14:46:48 -0700</pubDate>
- </item>
- <item>
-  <title>The Ingenuity Helicopter's Flight Called a 'Wright Brothers Moment'</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FgA2u7fje5dWoDcNery%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Ingenuity had to fly completely on its own with no direct contact from its handling team on Earth. But first, a few more test flights over the next two weeks.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/19/ingenuity-helicopters-flight-called-wright-brothers-moment?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/19/ingenuity-helicopters-flight-called-wright-brothers-moment?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 20 Apr 2021 03:01:45 -0700</pubDate>
  </item>
 
 </channel>
