@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/23/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/24/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/24/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/23</link>
- <lastBuildDate>Fri, 23 Apr 2021 15:13:50 -0700</lastBuildDate>
- <pubDate>Fri, 23 Apr 2021 15:13:50 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/24</link>
+ <lastBuildDate>Sat, 24 Apr 2021 03:03:54 -0700</lastBuildDate>
+ <pubDate>Sat, 24 Apr 2021 03:03:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Italian Man Skips Work for 15 Years, Still Gets Paid</title>
+  <description>&lt;img src='https://media.giphy.com/media/l2YWrtthgz6PzBmFi/giphy.gif'&gt;&lt;br/&gt;  Scumace could face charges of abuse of office, forgery, and aggravated extortion, but he’ll go down in Italian history as the “king of absentees.” Slacking off as a public sector worker is a rampant-enough problem in Italy that Italians call perpetrators a name that roughly translates to “timecard weasels.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/23/italian-man-skips-work-15-years-still-gets-paid?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/italian-man-skips-work-15-years-still-gets-paid?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 24 Apr 2021 03:01:53 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 24</title>
+  <description>&lt;img src='https://media.giphy.com/media/HeBjzG7RXozoF4tn6z/giphy.gif'&gt;&lt;br/&gt;(Devon Zuegel) Read: Thoughts on moving to Miami. The bank faced a barrage of criticism on social media for bankrolling the breakaway soccer league with $4.2 billion in financing.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/23/key-performance-indicators-april-24?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/key-performance-indicators-april-24?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 24 Apr 2021 03:01:53 -0700</pubDate>
+ </item>
+ <item>
+  <title>SpaceX’s Second Launch with NASA Reaches Orbit</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4849%2Fspacex_crew-2_launch.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Other interesting mission facts:SpaceX has sent 10 astronauts to space in under a year. A lot of rad names there, but what you really need to know is the Crew-2 mission is SpaceX’s second operational crew launch since partnering with NASA and its third to date.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/23/spacexs-second-launch-nasa-reaches-orbit?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/spacexs-second-launch-nasa-reaches-orbit?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 24 Apr 2021 03:01:53 -0700</pubDate>
+ </item>
+ <item>
+  <title>Vaccine Tracker: April 24</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; US is consulting but not committing: The CDC is providing “technical assistance” to India to help manage the country’s brutal second wave, but President Biden said that the US won’t be sharing any vaccines right now, despite stockpiling AstraZeneca shots that aren’t yet authorized in the US.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/23/vaccine-tracker-april-24?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/vaccine-tracker-april-24?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 24 Apr 2021 03:01:53 -0700</pubDate>
+ </item>
+ <item>
+  <title>Simone Biles Vaults from Nike to Athleta </title>
+  <description>&lt;img src='https://media.giphy.com/media/urNnB16e8aXaTZdWCI/giphy.gif'&gt;&lt;br/&gt; It’s easy to see what Athleta offers Felix and Biles: a company “truly for women by women,” said the gymnast. Simone Biles, the most decorated gymnast of all time, is leaving Nike for Athleta in a move that highlights the changing landscape of athlete sponsorships. Over on the Nike partnerships team, it’s been an interesting weekOn Monday, Complex Magazine reported that the estate of Kobe Bryant, the NBA legend who died in a helicopter crash last January, did not renew its sneaker deal with Nike.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/23/simone-biles-vaults-nike-athleta?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>apparel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/simone-biles-vaults-nike-athleta?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 24 Apr 2021 03:01:53 -0700</pubDate>
+ </item>
  <item>
   <title>Vaccine Tracker: April 24</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; US is consulting but not committing: The CDC is providing “technical assistance” to India to help manage the country’s brutal second wave, but President Biden said that the US won’t be sharing any vaccines right now, despite stockpiling AstraZeneca shots that aren’t yet authorized in the US.</description>
@@ -325,51 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/apple-announces-devices-custom-m1-chips-special-event?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 21 Apr 2021 03:01:45 -0700</pubDate>
- </item>
- <item>
-  <title>Super League In Doubt After Manchester City Backs Out</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fvbsp5XVPggdc4%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; All six English Premier League clubs that had initially signed onto the Super League, including Manchester City and Liverpool, said they're backing out yesterday after feeling the heat from supporters.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/20/super-league-doubt-manchester-city-backs?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/super-league-doubt-manchester-city-backs?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 21 Apr 2021 03:01:45 -0700</pubDate>
- </item>
- <item>
-  <title>Netflix Announces Disappointing Streamer Growth in 2021</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4797%2Fnetflix_still_watching.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Netflix remains the majority of viewers’ No. 1 choice of stream-and-chill service, and up to 92% of viewers that signed up for competing streaming services also have Netflix. Netflix predicted that in Q2 only 1 million net new subscribers will join the service—that would make it the worst quarter for subscriber growth on record. Of course, last year was special: In prime position to benefit from pandemic lockdowns, Netflix managed to increase its subscriber base to 204 million and bump up the price on its standard streaming plan by $1 and its premium tier by $2. Looking ahead... 2.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/20/netflix-announces-disappointing-streamer-growth-2021?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>streaming</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/netflix-announces-disappointing-streamer-growth-2021?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 21 Apr 2021 03:01:45 -0700</pubDate>
- </item>
- <item>
-  <title>Reader Q&amp;A: The Difference Between SPACs, IPOs, and Direct Listings</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F931%2Fstock_exchange.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At a high level…IPOs are a 6–12 month journey where a company works with investment banks and underwriters, who buy a bunch of shares and then sell them to investors in the public market during the actual IPO. Question from too many of you to count: What's the difference between an IPO, a special purpose acquisition company (SPAC), and a direct listing?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/20/reader-qa-difference-spacs-ipos-direct-listings</link>
-  <author>Alex Hickey</author>
-  <categories>explainer</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/reader-qa-difference-spacs-ipos-direct-listings</guid>
-  <pubDate>Tue, 20 Apr 2021 14:56:52 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 21</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F95%2Fmike_bloomberg_speaks_at_a_podium.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Black people account for 6.8% of Goldman's total US workforce. (Slate) Read: Really though, what jeans are in style now?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/20/key-performance-indicators-april-21</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/key-performance-indicators-april-21</guid>
-  <pubDate>Tue, 20 Apr 2021 14:56:52 -0700</pubDate>
- </item>
- <item>
-  <title>Netflix Announces Disappointing Streamer Growth in 2021</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4797%2Fnetflix_still_watching.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Netflix predicted that in Q2 only 1 million net new subscribers will join the service—that would make it the worst quarter for subscriber growth on record. Netflix remains the majority of viewers’ No. 1 choice of stream-and-chill service, and up to 92% of viewers that signed up for competing streaming services also have Netflix. Of course, last year was special: In prime position to benefit from pandemic lockdowns, Netflix managed to increase its subscriber base to 204 million and bump up the price on its standard streaming plan by $1 and its premium tier by $2. Looking ahead... 2.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/20/netflix-announces-disappointing-streamer-growth-2021</link>
-  <author>Jamie Wilde</author>
-  <categories>streaming</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/netflix-announces-disappointing-streamer-growth-2021</guid>
-  <pubDate>Tue, 20 Apr 2021 14:56:52 -0700</pubDate>
  </item>
 
 </channel>
