@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/24/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/24/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/25/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/24</link>
- <lastBuildDate>Sat, 24 Apr 2021 03:03:54 -0700</lastBuildDate>
- <pubDate>Sat, 24 Apr 2021 03:03:54 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/25</link>
+ <lastBuildDate>Sun, 25 Apr 2021 02:49:10 -0700</lastBuildDate>
+ <pubDate>Sun, 25 Apr 2021 02:49:10 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Icebreakers with... Cameo CEO Steven Galanis</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4838%2Fsteven_galanis.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;I collect a lot now—this even predates Cameo and I think it's one of the reasons I got into it. You started Cameo while still working at LinkedIn. What was the "aha" moment when you knew you were ready to go full-time?  I think people can blow up on Cameo and become sensations there. My brain chemistry changed that day, and I just knew I had to go and pursue this. So I would probably love to be one of the 300 Spartans that fought. I don't think we can take you from zero to one, but I think we could take you from one to 10. If you could live in the setting of any book or movie, what would it be? I grew up as a hockey player.  And the answer was no.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/25/icebreakers-cameo-ceo-steven-galanis-7e88</link>
+  <author>Alex Hickey</author>
+  <categories>qanda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/25/icebreakers-cameo-ceo-steven-galanis-7e88</guid>
+  <pubDate>Sun, 25 Apr 2021 02:46:53 -0700</pubDate>
+ </item>
  <item>
   <title>Italian Man Skips Work for 15 Years, Still Gets Paid</title>
   <description>&lt;img src='https://media.giphy.com/media/l2YWrtthgz6PzBmFi/giphy.gif'&gt;&lt;br/&gt;  Scumace could face charges of abuse of office, forgery, and aggravated extortion, but he’ll go down in Italian history as the “king of absentees.” Slacking off as a public sector worker is a rampant-enough problem in Italy that Italians call perpetrators a name that roughly translates to “timecard weasels.”</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>geography</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/nyt-analysis-shows-migration-patterns-prepandemic-stayed-mostly?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 21 Apr 2021 03:01:45 -0700</pubDate>
- </item>
- <item>
-  <title>Apple Announces Devices with Custom M1 Chips at Special Event</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4793%2Fapple_imac.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Apple Card features for families, including shared credit lines Podcast subscriptions, in a swipe at SpotifyUpdated Apple TV box with a new remote and, most importantly, a trailer for Ted Lasso season 2Investors weren't blown away, and shares fell about 2% after the event.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/20/apple-announces-devices-custom-m1-chips-special-event?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/apple-announces-devices-custom-m1-chips-special-event?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 21 Apr 2021 03:01:45 -0700</pubDate>
  </item>
 
