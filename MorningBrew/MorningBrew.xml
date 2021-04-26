@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/25/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/26/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/26/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/25</link>
- <lastBuildDate>Sun, 25 Apr 2021 20:43:50 -0700</lastBuildDate>
- <pubDate>Sun, 25 Apr 2021 20:43:50 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/26</link>
+ <lastBuildDate>Mon, 26 Apr 2021 03:03:49 -0700</lastBuildDate>
+ <pubDate>Mon, 26 Apr 2021 03:03:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Packed Week Ahead: April 26</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3782%2Fbiden_inaugurated.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Friday is Biden’s 100th day in office. And good news, everyone: Commissioner Roger Goodell has been fully vaccinated and can hug the players who attend, per Adam Schefter. Highlights include Tesla, Microsoft, Alphabet, Apple, Boeing, Facebook, Amazon, McDonald’s, and Twitter.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/25/packed-week-ahead-april-26?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/25/packed-week-ahead-april-26?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 26 Apr 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 26</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4854%2Fnew_zealand_concert.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(City Journal)  Read: How bitcoin, Ethereum, and other technologies could point the way to new systems of governance.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/25/key-performance-indicators-april-26?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/25/key-performance-indicators-april-26?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 26 Apr 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Nomadland Wins Big in (Hopefully) Final Pandemic-era Oscars</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4859%2Foscars_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Last night, the 93rd Academy Awards gave us an awkward moment to nearly rival Adele Dazeem or the La La Land/Moonlight mixup. Mia Neal and Jamika Wilson became the first Black women to win an Oscar for makeup and hairstyling for their work in Ma Rainey’s Black Bottom. It won Best Picture and Chloé Zhao became the first woman of color to win Best Director.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/26/nomadland-wins-big-hopefully-final-pandemicera-oscars?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/nomadland-wins-big-hopefully-final-pandemicera-oscars?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 26 Apr 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>US Pledges to Help India During Brutal Second Wave</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4856%2Findian_hospital.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After taking a mostly “not my problem” approach to India’s brutal second wave of the coronavirus, yesterday the US said help was on the way.  One action the US has not taken is to send India the AstraZeneca vaccines it had stockpiled.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/25/us-pledges-help-india-brutal-second-wave?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/25/us-pledges-help-india-brutal-second-wave?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 26 Apr 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Apple's New Software Update Means Big Changes to Ad Tracking</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3463%2Ffacebook_and_apple.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Apple’s aggressive privacy measures are putting competitors on the back foot, but they could also invite even more antitrust scrutiny to its dominance of the app economy.  It’s called App Tracking TransparencyWith this new feature, apps will be required to ask for your permission to track your activity across the internet. Sound like a business you know? That data is crucial to advertisers who want to use your internet history to show you ads you’re more likely to click on.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/25/apples-new-software-update-means-big-changes-ad-tracking?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>advertising</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/25/apples-new-software-update-means-big-changes-ad-tracking?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 26 Apr 2021 03:01:48 -0700</pubDate>
+ </item>
  <item>
   <title>Nomadland Wins Big in (Hopefully) Final Pandemic-era Oscars</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4859%2Foscars_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It won Best Picture and Chloé Zhao became the first woman of color to win Best Director. for their work in Ma Rainey’s Black Bottom. The Oscars opened with an NFT honoring the late actor Chadwick Boseman. Nomadland had a big night. Padres instead.</description>
@@ -325,51 +370,6 @@
   <categories>environment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/21/president-biden-holds-virtual-climate-summit-40-world-leaders?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 22 Apr 2021 03:01:52 -0700</pubDate>
- </item>
- <item>
-  <title>Amazon Announces New Salon, Furniture Assembly Service, and Palm-Reading Payment</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4808%2Famazon_salon_ar.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Amazon is reportedly planning to launch a new furniture assembly service to try and one-up Wayfair and loosen its grip on the housewares retail space. Now, its new contactless payment method will expand from Amazon Go and Amazon Books stores to seven Whole Foods locations in the Seattle area. Use your palm to pay.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/21/amazon-announces-new-salon-furniture-assembly-service-palmreading-payment?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>amazon</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/21/amazon-announces-new-salon-furniture-assembly-service-palmreading-payment?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 22 Apr 2021 03:01:52 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Administration Confronts Less Demand for Vaccines</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4816%2Fvaccine_dartboard.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; According to a new report from the Kaiser Family Foundation, in just a few weeks the US will reach a “tipping point” on vaccine enthusiasm where the supply of doses will exceed the number of people who want to get jabbed.  Some experts think that vaccine hesitancy levels are so high that the US will never fully achieve herd immunity against Covid-19. Former FDA Commissioner Scott Gottlieb estimates that only 150 million Americans (less than half the population) will get a vaccine.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/21/biden-administration-confronts-less-demand-vaccines?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/21/biden-administration-confronts-less-demand-vaccines?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 22 Apr 2021 03:01:52 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 22</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4814%2Findia_logs_world_s_highes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(John Burn-Murdoch) Read: A deep dive into the situation. —Ramanan Laxminarayan, director of New Delhi’s Center for Disease Dynamics, Economics, and Policy to CNN.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/21/key-performance-indicators-april-22</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/21/key-performance-indicators-april-22</guid>
-  <pubDate>Wed, 21 Apr 2021 14:41:50 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Administration Confronts Less Demand for Vaccines</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4816%2Fvaccine_dartboard.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; According to a new report from the Kaiser Family Foundation, in just a few weeks the US will reach a “tipping point” on vaccine enthusiasm where the supply of doses will exceed the number of people who want to get jabbed. Former FDA Commissioner Scott Gottlieb estimates that only 150 million Americans (less than half the population) will get a vaccine.  Some experts think that vaccine hesitancy levels are so high that the US will never fully achieve herd immunity against the coronavirus.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/21/biden-administration-confronts-less-demand-vaccines</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/21/biden-administration-confronts-less-demand-vaccines</guid>
-  <pubDate>Wed, 21 Apr 2021 14:41:50 -0700</pubDate>
- </item>
- <item>
-  <title>President Biden Holds Virtual Climate Summit With 40 World Leaders</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F0Av9l0VIc01y1isrDw%2Fgiphy.gif&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Leaders are expected to announce their own commitments that match, exceed, or Wizard Chess-counter Biden’s proposal.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/21/president-biden-holds-virtual-climate-summit-40-world-leaders</link>
-  <author>Jamie Wilde</author>
-  <categories>environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/21/president-biden-holds-virtual-climate-summit-40-world-leaders</guid>
-  <pubDate>Wed, 21 Apr 2021 14:36:46 -0700</pubDate>
  </item>
 
 </channel>
