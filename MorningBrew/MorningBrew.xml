@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/25</link>
- <lastBuildDate>Sun, 25 Apr 2021 17:48:46 -0700</lastBuildDate>
- <pubDate>Sun, 25 Apr 2021 17:48:46 -0700</pubDate>
+ <lastBuildDate>Sun, 25 Apr 2021 17:53:47 -0700</lastBuildDate>
+ <pubDate>Sun, 25 Apr 2021 17:53:47 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: April 26</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4854%2Fnew_zealand_concert.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(City Journal)  Read: How bitcoin, Ethereum, and other technologies could point the way to new systems of governance.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/25/key-performance-indicators-april-26</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/25/key-performance-indicators-april-26</guid>
+  <pubDate>Sun, 25 Apr 2021 17:51:46 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Packed Week Ahead: April 26</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3782%2Fbiden_inaugurated.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Friday is Biden’s 100th day in office. And good news, everyone: Commissioner Roger Goodell has been fully vaccinated and can hug the players who attend, per Adam Schefter. Highlights include Tesla, Microsoft, Alphabet, Apple, Boeing, Facebook, Amazon, McDonald’s, and Twitter.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/25/packed-week-ahead-april-26</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/25/packed-week-ahead-april-26</guid>
+  <pubDate>Sun, 25 Apr 2021 17:51:46 -0700</pubDate>
+ </item>
  <item>
   <title>Apple's New Software Update Means Big Changes to Ad Tracking</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3463%2Ffacebook_and_apple.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Apple’s aggressive privacy measures are putting competitors on the back foot, but they could also invite even more antitrust scrutiny to its dominance of the app economy.  It’s called App Tracking TransparencyWith this new feature, apps will be required to ask for your permission to track your behavior across the internet. Whether Facebook’s ad businesses will be dinged as much as it says they will is unclear, but other apps like Snap and Bumble have warned that Apple’s moves could be harmful. Sound like a business you know?</description>
@@ -352,24 +370,6 @@
   <categories>work</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/21/microsoft-study-shows-need-breaks-video-meetings</guid>
   <pubDate>Wed, 21 Apr 2021 11:31:50 -0700</pubDate>
- </item>
- <item>
-  <title>Reader Q&amp;A: The Difference Between SPACs, IPOs, and Direct Listings</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F931%2Fstock_exchange.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The details can get hard to remember, so take this explainer and bookmark it. At a high level…IPOs are a 6–12 month journey where a company works with investment banks and underwriters, who buy a bunch of shares and then sell them to investors in the public market during the actual IPO.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/20/reader-qa-difference-spacs-ipos-direct-listings?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>explainer</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/reader-qa-difference-spacs-ipos-direct-listings?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 21 Apr 2021 03:01:45 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 21</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F95%2Fmike_bloomberg_speaks_at_a_podium.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Black people account for 6.8% of Goldman's total US workforce. (Slate) Read: Really though, what jeans are in style now?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/20/key-performance-indicators-april-21?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/key-performance-indicators-april-21?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 21 Apr 2021 03:01:45 -0700</pubDate>
  </item>
 
 </channel>
