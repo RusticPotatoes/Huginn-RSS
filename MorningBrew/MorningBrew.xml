@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/25</link>
- <lastBuildDate>Sun, 25 Apr 2021 02:49:10 -0700</lastBuildDate>
- <pubDate>Sun, 25 Apr 2021 02:49:10 -0700</pubDate>
+ <lastBuildDate>Sun, 25 Apr 2021 17:48:46 -0700</lastBuildDate>
+ <pubDate>Sun, 25 Apr 2021 17:48:46 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Apple's New Software Update Means Big Changes to Ad Tracking</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3463%2Ffacebook_and_apple.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Apple’s aggressive privacy measures are putting competitors on the back foot, but they could also invite even more antitrust scrutiny to its dominance of the app economy.  It’s called App Tracking TransparencyWith this new feature, apps will be required to ask for your permission to track your behavior across the internet. Whether Facebook’s ad businesses will be dinged as much as it says they will is unclear, but other apps like Snap and Bumble have warned that Apple’s moves could be harmful. Sound like a business you know?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/25/apples-new-software-update-means-big-changes-ad-tracking</link>
+  <author>Neal Freyman</author>
+  <categories>advertising</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/25/apples-new-software-update-means-big-changes-ad-tracking</guid>
+  <pubDate>Sun, 25 Apr 2021 17:46:45 -0700</pubDate>
+ </item>
  <item>
   <title>Icebreakers with... Cameo CEO Steven Galanis</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4838%2Fsteven_galanis.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;I collect a lot now—this even predates Cameo and I think it's one of the reasons I got into it. You started Cameo while still working at LinkedIn. What was the "aha" moment when you knew you were ready to go full-time?  I think people can blow up on Cameo and become sensations there. My brain chemistry changed that day, and I just knew I had to go and pursue this. So I would probably love to be one of the 300 Spartans that fought. I don't think we can take you from zero to one, but I think we could take you from one to 10. If you could live in the setting of any book or movie, what would it be? I grew up as a hockey player.  And the answer was no.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/key-performance-indicators-april-21?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 21 Apr 2021 03:01:45 -0700</pubDate>
- </item>
- <item>
-  <title>NYT Analysis Shows Migration Patterns Pre-Pandemic Stayed Mostly the Same</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4796%2Fsan_gorgonio_pass_wind_fa.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;According to the NYT's Upshot, which analyzed 30 million change-of-address requests in 2020, "Migration patterns during the pandemic have looked a lot like migration patterns before it."  Bottom line: This analysis highlights the stickiness of pre-pandemic migration patterns."</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/20/nyt-analysis-shows-migration-patterns-prepandemic-stayed-mostly?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>geography</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/20/nyt-analysis-shows-migration-patterns-prepandemic-stayed-mostly?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 21 Apr 2021 03:01:45 -0700</pubDate>
  </item>
 
