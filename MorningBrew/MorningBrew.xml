@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/26</link>
- <lastBuildDate>Mon, 26 Apr 2021 14:33:47 -0700</lastBuildDate>
- <pubDate>Mon, 26 Apr 2021 14:33:47 -0700</pubDate>
+ <lastBuildDate>Mon, 26 Apr 2021 14:43:50 -0700</lastBuildDate>
+ <pubDate>Mon, 26 Apr 2021 14:43:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Telsa Posts Record Quarterly Profit</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4875%2Ftesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The incident was plastered across Chinese social media, embarrassing Tesla in this crucial market for EVs. Crashes: Tesla is facing more than two dozen investigations from federal safety officials into whether its advanced driver-assist system, Autopilot, played a role in recent crashes.   Last week, a protestor jumped on the roof of a Tesla at the Shanghai Auto Show to protest the company's handling of a crash that injured her parents. But if there's one thing we know about Tesla...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/26/telsa-posts-record-quarterly-profit</link>
+  <author>Neal Freyman</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/telsa-posts-record-quarterly-profit</guid>
+  <pubDate>Mon, 26 Apr 2021 14:41:49 -0700</pubDate>
+ </item>
  <item>
   <title>US to Send 60M AstraZeneca Vaccines to Foreign Countries</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Now that it has millions of shots to spare, the US is getting back to being a geopolitical busybody, which includes countering China's and Russia's growing influence in lower-income countries from their own vaccine diplomacy efforts.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>travel</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/21/pictures-australia-new-zealand-open-travel-bubble?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 22 Apr 2021 03:01:52 -0700</pubDate>
- </item>
- <item>
-  <title>Microsoft Study Shows Need for Breaks in Between Video Meetings</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4205%2Fzoom_sadness.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Back-to-back meetings without breaks cause a measurable buildup in the brain of stress-related beta waves, according to a new study from Microsoft's Human Factors Lab. Even short breaks can help the brain "reset" and improve focus during meetings.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/21/microsoft-study-shows-need-breaks-video-meetings?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/21/microsoft-study-shows-need-breaks-video-meetings?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 22 Apr 2021 03:01:52 -0700</pubDate>
  </item>
 
