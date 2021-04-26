@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/25</link>
- <lastBuildDate>Sun, 25 Apr 2021 18:23:50 -0700</lastBuildDate>
- <pubDate>Sun, 25 Apr 2021 18:23:50 -0700</pubDate>
+ <lastBuildDate>Sun, 25 Apr 2021 20:43:50 -0700</lastBuildDate>
+ <pubDate>Sun, 25 Apr 2021 20:43:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Nomadland Wins Big in (Hopefully) Final Pandemic-era Oscars</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4859%2Foscars_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It won Best Picture and Chloé Zhao became the first woman of color to win Best Director. for their work in Ma Rainey’s Black Bottom. The Oscars opened with an NFT honoring the late actor Chadwick Boseman. Nomadland had a big night. Padres instead.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/26/nomadland-wins-big-hopefully-final-pandemicera-oscars</link>
+  <author>Matty Merritt</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/nomadland-wins-big-hopefully-final-pandemicera-oscars</guid>
+  <pubDate>Sun, 25 Apr 2021 20:41:49 -0700</pubDate>
+ </item>
  <item>
   <title>US Pledges to Help India During Brutal Second Wave</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4856%2Findian_hospital.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After taking a mostly “not my problem” approach to India’s brutal second wave of the coronavirus, yesterday the US said help was on the way.  One point of action the US has not taken is to send the AstraZeneca vaccines it had stockpiled to India.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>environment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/21/president-biden-holds-virtual-climate-summit-40-world-leaders</guid>
-  <pubDate>Wed, 21 Apr 2021 14:36:46 -0700</pubDate>
- </item>
- <item>
-  <title>Amazon Announces New Salon, Furniture Assembly Service, and Palm-Reading Payment</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4808%2Famazon_salon_ar.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Amazon is reportedly planning to launch a new furniture assembly service to try and one-up Wayfair and loosen their grip on the housewares retail space. Now, its new contactless payment method will expand from Amazon Go and Amazon Books stores to seven Whole Foods locations in the Seattle area. Use your palm to pay.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/21/amazon-announces-new-salon-furniture-assembly-service-palmreading-payment</link>
-  <author>Matty Merritt</author>
-  <categories>amazon</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/21/amazon-announces-new-salon-furniture-assembly-service-palmreading-payment</guid>
   <pubDate>Wed, 21 Apr 2021 14:36:46 -0700</pubDate>
  </item>
 
