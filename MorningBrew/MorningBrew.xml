@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/27</link>
- <lastBuildDate>Tue, 27 Apr 2021 15:08:50 -0700</lastBuildDate>
- <pubDate>Tue, 27 Apr 2021 15:08:50 -0700</pubDate>
+ <lastBuildDate>Tue, 27 Apr 2021 15:38:49 -0700</lastBuildDate>
+ <pubDate>Tue, 27 Apr 2021 15:38:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The CDC Updates Its Mask-Wearing Guidelines</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4883%2Fcovid_mask_guidelines.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The agency said that fully vaccinated folks can do the following activities sans masks:Dine outside with non-roommatesGo on walks, hikes, or bike rides alone or with household membersAttend small, outdoor events, even if some attendees haven't been vaccinated yetWhy now?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/27/cdc-updates-maskwearing-guidelines</link>
+  <author>Jamie Wilde</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/cdc-updates-maskwearing-guidelines</guid>
+  <pubDate>Tue, 27 Apr 2021 15:36:48 -0700</pubDate>
+ </item>
  <item>
   <title>Apple, Spotify Unveil New Podcast Subscription Products</title>
   <description>&lt;img src='https://media.giphy.com/media/woP6OeVP8kBgh3MUMy/giphy.gif'&gt;&lt;br/&gt;The Swedish streamer now has 2.2+ million podcasts and is expected to pass Apple in US pod listeners this year. Apple's plan: For $19.99/year, podcasters can access features to turn their shows into subscription offerings. NPR just revealed paid subscriptions for ad-free podcasts, accessible through both Apple and Spotify. Apple takes a 30% cut of revenues the first year and 15% the following years. Spotify's plan: a new ad marketplace that makes it easier for podcasters to find advertisers and allows for the distribution of premium podcasts on other platforms.  So will you pay?</description>
@@ -361,15 +370,6 @@
   <categories>space</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/spacexs-second-launch-nasa-reaches-orbit</guid>
   <pubDate>Fri, 23 Apr 2021 14:26:54 -0700</pubDate>
- </item>
- <item>
-  <title>The $0 Budget Movie That Topped the Pandemic Box Office</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3303%2Ftv_movie_theater.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  No one attended the movie besides Nilsson and Tabach, but after three screenings of Unsubscribe, they managed to pay enough money to themselves for the movie to top the box office. Perhaps no image captures the preposterousness of the last year for movie theaters than the box office chart for June 10, 2020.  One thing's for sure: As charming a story as it is, if a movie like Unsubscribe tops the box office again something will have gone very, very wrong. Hollywood bulls say to look at the recent box office success of Godzilla vs.   Box Office Mojo On that day, a Wednesday, a movie called Unsubscribe topped the US charts with $25,488 in gross earnings, beating out several other movies that were shown at drive-ins. if you had one shot...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/23/0-budget-movie-topped-pandemic-box-office</link>
-  <author>Neal Freyman</author>
-  <categories>analysis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/0-budget-movie-topped-pandemic-box-office</guid>
-  <pubDate>Fri, 23 Apr 2021 13:46:49 -0700</pubDate>
  </item>
 
 </channel>
