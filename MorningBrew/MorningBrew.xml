@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/27</link>
- <lastBuildDate>Tue, 27 Apr 2021 03:03:50 -0700</lastBuildDate>
- <pubDate>Tue, 27 Apr 2021 03:03:50 -0700</pubDate>
+ <lastBuildDate>Tue, 27 Apr 2021 14:23:51 -0700</lastBuildDate>
+ <pubDate>Tue, 27 Apr 2021 14:23:51 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Reader Q&amp;A: Getting Real About Real Estate </title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yes, prices are rising at an astonishing pace, but there are good reasons for that: housing inventory hit a record low this year, demand is so furious builders can’t keep up, and low mortgage rates are attracting new buyers into the marketplace. Q: Will the housing market crash like it did in 2008?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/27/reader-qa-getting-real-real-estate</link>
+  <author>Neal Freyman</author>
+  <categories>qanda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/reader-qa-getting-real-real-estate</guid>
+  <pubDate>Tue, 27 Apr 2021 14:21:49 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: April 27</title>
   <description>&lt;img src='https://media.giphy.com/media/XcodfWs5E7Gdx2pKmZ/giphy.gif'&gt;&lt;br/&gt;(NYT) Read: How Mark Zuckerberg and Tim Cook became foes. CEO Jonathan Karp has already pushed back against employee objections to publishing a book by former VP Mike Pence, saying, "We come to work each day to publish, not cancel."</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/key-performance-indicators-april-23?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 23 Apr 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Tesla Struggles with More Upsets in China This Week</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3733%2Ftesla_with_wheel_lock.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But the company's cavalier attitude and inability to keep up with auto repairs as sales grow rapidly have rubbed some Chinese regulators the wrong way. In March, Tesla cars were banned from military complexes in China over fears their cameras would be used to spy on the government.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/22/tesla-struggles-upsets-china-week?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>ev</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/tesla-struggles-upsets-china-week?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 23 Apr 2021 03:02:03 -0700</pubDate>
  </item>
 
