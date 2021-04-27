@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/27</link>
- <lastBuildDate>Tue, 27 Apr 2021 14:23:51 -0700</lastBuildDate>
- <pubDate>Tue, 27 Apr 2021 14:23:51 -0700</pubDate>
+ <lastBuildDate>Tue, 27 Apr 2021 14:43:45 -0700</lastBuildDate>
+ <pubDate>Tue, 27 Apr 2021 14:43:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Companies Post Strong Quarters With Pandemic Waning in the US</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3141%2Fgoogle_suite.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Starbucks: US same-store sales have returned to pre-pandemic levels. While traffic is down by 10%, the average order has increased 21% (it's hard to resist that nitro cold brew). The tech company recorded its biggest quarterly jump in PC shipments in more than 20 years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/27/companies-post-strong-quarters-pandemic-waning-us</link>
+  <author>Neal Freyman</author>
+  <categories>earnings</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/companies-post-strong-quarters-pandemic-waning-us</guid>
+  <pubDate>Tue, 27 Apr 2021 14:41:54 -0700</pubDate>
+ </item>
  <item>
   <title>Reader Q&amp;A: Getting Real About Real Estate </title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yes, prices are rising at an astonishing pace, but there are good reasons for that: housing inventory hit a record low this year, demand is so furious builders can’t keep up, and low mortgage rates are attracting new buyers into the marketplace. Q: Will the housing market crash like it did in 2008?</description>
@@ -361,15 +370,6 @@
   <categories>taxes</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/5-things-know-rideshare-driver-taxes</guid>
   <pubDate>Fri, 23 Apr 2021 06:26:56 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 23</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4603%2Fkong_vs_godzilla.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(NYT)  Read: There's a name for the blah you're feeling: languishing.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/22/key-performance-indicators-april-23?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/key-performance-indicators-april-23?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 23 Apr 2021 03:02:03 -0700</pubDate>
  </item>
 
 </channel>
