@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/26/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/26/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/27/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/27/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/26</link>
- <lastBuildDate>Mon, 26 Apr 2021 15:08:46 -0700</lastBuildDate>
- <pubDate>Mon, 26 Apr 2021 15:08:46 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/27</link>
+ <lastBuildDate>Tue, 27 Apr 2021 03:03:50 -0700</lastBuildDate>
+ <pubDate>Tue, 27 Apr 2021 03:03:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: April 27</title>
+  <description>&lt;img src='https://media.giphy.com/media/XcodfWs5E7Gdx2pKmZ/giphy.gif'&gt;&lt;br/&gt;(NYT) Read: How Mark Zuckerberg and Tim Cook became foes. CEO Jonathan Karp has already pushed back against employee objections to publishing a book by former VP Mike Pence, saying, "We come to work each day to publish, not cancel."</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/26/key-performance-indicators-april-27?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/key-performance-indicators-april-27?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 27 Apr 2021 03:01:49 -0700</pubDate>
+ </item>
+ <item>
+  <title>MindMed Becomes the US’ Second Public Psychedelics Company</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4878%2Fmindmed_graphic.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  “Therapists are going to be a key component of making this whole new approach work,” Rahn said.  Bottom line: Don’t expect to cure your anxiety by taking MindMed’s meds in the woods with friends. In November, Oregon became the first state to legalize the medical use of psilocybin, and other jurisdictions are moving in that direction.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/26/mindmed-becomes-us-second-public-psychedelics-company?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>healthcare</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/mindmed-becomes-us-second-public-psychedelics-company?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 27 Apr 2021 03:01:49 -0700</pubDate>
+ </item>
+ <item>
+  <title>OnlyFans Grows Revenue 553% During Pandemic</title>
+  <description>&lt;img src='https://media.giphy.com/media/h78olApnfhKOT8TD3A/giphy.gif'&gt;&lt;br/&gt;The London-based platform offers sex workers, fitness influencers, and celebrities like rapper Cardi B an avenue to connect directly with fans and get paid via subscription services plus tips. Its user base grew from less than 20 million to more than 120 million.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/26/onlyfans-grew-revenue-553-pandemic?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/onlyfans-grew-revenue-553-pandemic?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 27 Apr 2021 03:01:49 -0700</pubDate>
+ </item>
+ <item>
+  <title>US to Send 60M AstraZeneca Vaccines to Foreign Countries</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Now that it has millions of shots to spare, the US is getting back to being a geopolitical busybody, which includes countering China's and Russia's growing influence in lower-income countries from their own vaccine diplomacy efforts.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/26/us-send-60m-astrazeneca-vaccines-foreign-countries?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>public health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/us-send-60m-astrazeneca-vaccines-foreign-countries?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 27 Apr 2021 03:01:49 -0700</pubDate>
+ </item>
+ <item>
+  <title>Telsa Posts Record Quarterly Profit</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4875%2Ftesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The incident was plastered across Chinese social media, embarrassing Tesla in this crucial market for EVs. Crashes: Tesla is facing more than two dozen investigations from federal safety officials into whether its advanced driver-assist system, Autopilot, played a role in recent crashes.   But if there's one thing we know about Tesla... Last week, a woman jumped on the roof of a Tesla at the Shanghai Auto Show to protest the company's handling of a crash that injured her parents. Tesla posted a record profit of $438 million and grew revenue 74% annually last quarter.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/26/telsa-posts-record-quarterly-profit?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/telsa-posts-record-quarterly-profit?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 27 Apr 2021 03:01:49 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: April 27</title>
   <description>&lt;img src='https://media.giphy.com/media/XcodfWs5E7Gdx2pKmZ/giphy.gif'&gt;&lt;br/&gt;(NYT) Read: How Mark Zuckerberg and Tim Cook became foes. CEO Jonathan Karp has already pushed back against employee objections to publishing a book by former VP Mike Pence, saying, "We come to work each day to publish, not cancel."</description>
@@ -325,51 +370,6 @@
   <categories>ev</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/tesla-struggles-upsets-china-week?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 23 Apr 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Supreme Court Limits FTC's Ability to Recoup Ill-Gotten Gains</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F858%2Fsupreme_court.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Justices said the FTC needs to ask Congress to grant those powers back, which acting FTC Chair Rebecca Slaughter did earlier this week.  For decades, the FTC has used a provision called Section 13(b) to recoup billions of dollars and (at times) pay back consumers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/22/supreme-court-limits-ftcs-ability-recoup-illgotten-gains?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>legal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/supreme-court-limits-ftcs-ability-recoup-illgotten-gains?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 23 Apr 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Will Propose Nearly Doubling Capital Gains Tax</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4828%2Fdiamond_hands.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;President Biden will soon propose nearly doubling the capital gains tax for wealthy people to 39.6%, according to Bloomberg.  To pay for the first plan, which includes spending on bridges and broadband, Biden wants to hike taxes on corporations. Critics of the current capital gains system say, "So you're telling me this rich investor is paying less in taxes on their stock sales than a middle-class worker pays on their income? To pay for his second proposal, which includes spending on childcare and paid leave for workers, he wants to hike taxes on wealthy investors.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/22/biden-will-propose-nearly-doubling-capital-gains-tax?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>taxes</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/biden-will-propose-nearly-doubling-capital-gains-tax?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 23 Apr 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: April 23</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/22/brews-weekly-news-quiz-april-23</link>
-  <author>Jamie Wilde</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/brews-weekly-news-quiz-april-23</guid>
-  <pubDate>Thu, 22 Apr 2021 14:51:46 -0700</pubDate>
- </item>
- <item>
-  <title>Tesla Struggles with More Upsets in China This Week</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3733%2Ftesla_with_wheel_lock.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But the company's cavalier attitude and inability to keep up with auto repairs as sales grow rapidly have rubbed some Chinese regulators the wrong way. In March, Tesla cars were banned from military complexes in China over fears their cameras would be used to spy on the government.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/22/tesla-struggles-upsets-china-week</link>
-  <author>Matty Merritt</author>
-  <categories>ev</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/tesla-struggles-upsets-china-week</guid>
-  <pubDate>Thu, 22 Apr 2021 14:31:45 -0700</pubDate>
- </item>
- <item>
-  <title>Supreme Court Limits FTC's Ability to Recoup Ill-Gotten Gains</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F858%2Fsupreme_court.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Justices said the FTC needs to ask Congress to grant those powers back, which acting FTC Chair Rebecca Slaughter did earlier this week.  For decades, the FTC has used a provision called Section 13(b) to recoup billions of dollars and (at times) pay back consumers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/22/supreme-court-limits-ftcs-ability-recoup-illgotten-gains</link>
-  <author>Alex Hickey</author>
-  <categories>legal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/22/supreme-court-limits-ftcs-ability-recoup-illgotten-gains</guid>
-  <pubDate>Thu, 22 Apr 2021 14:26:49 -0700</pubDate>
  </item>
 
 </channel>
