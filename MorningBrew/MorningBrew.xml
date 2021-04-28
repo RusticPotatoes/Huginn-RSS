@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/27/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/27/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/28/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/28/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/27</link>
- <lastBuildDate>Tue, 27 Apr 2021 15:38:49 -0700</lastBuildDate>
- <pubDate>Tue, 27 Apr 2021 15:38:49 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/28</link>
+ <lastBuildDate>Wed, 28 Apr 2021 03:03:48 -0700</lastBuildDate>
+ <pubDate>Wed, 28 Apr 2021 03:03:48 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Reader Q&amp;A: Getting Real About Real Estate </title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Q: "Will the housing market crash like it did in 2008?" But do expect an affordability crisis if we don’t build more homes.  In conclusion, don’t expect a Big Short 2. The typical credit score for mortgage borrowers in the second half of last year was 786, a record high.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/27/reader-qa-getting-real-real-estate?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>explainer</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/reader-qa-getting-real-real-estate?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 28 Apr 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>Teen Banking Apps Secure More Funding</title>
+  <description>&lt;img src='https://media.giphy.com/media/xUOwG5vBijIVzXyoxy/giphy.gif'&gt;&lt;br/&gt; How are Current and Step different? Yesterday, two such apps, Current and Step, announced new funding rounds of $220 million and $100 million, respectively. Step has 1.5 million, but has only been around for six months.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/27/teen-banking-apps-secure-funding?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>banking</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/teen-banking-apps-secure-funding?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 28 Apr 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 28</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4649%2Frangers_baseball_stadium.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Not Boring) Read: Who disrupts the disruptors?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/27/key-performance-indicators-april-28?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/key-performance-indicators-april-28?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 28 Apr 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>Companies Post Strong Quarters With Pandemic Waning in the US</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2567%2Fgoogle_fitbit_watch.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Starbucks: US same-store sales have returned to pre-pandemic levels. While traffic is down by 10%, the average order has increased 21% (it's hard to resist that nitro cold brew). The tech company recorded its biggest quarterly jump in PC shipments in more than 20 years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/27/companies-post-strong-quarters-pandemic-waning-us?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>earnings</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/companies-post-strong-quarters-pandemic-waning-us?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 28 Apr 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>The CDC Updates Its Mask-Wearing Guidelines</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4883%2Fcovid_mask_guidelines.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The agency said that fully vaccinated folks can do the following activities sans masks:Dine outside with non-roommatesGo on walks, hikes, or bike rides alone or with household membersAttend small, outdoor events, even if some attendees haven't been vaccinated yetWhy now?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/27/cdc-updates-maskwearing-guidelines?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/cdc-updates-maskwearing-guidelines?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 28 Apr 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>Apple, Spotify Unveil New Podcast Subscription Products</title>
+  <description>&lt;img src='https://media.giphy.com/media/woP6OeVP8kBgh3MUMy/giphy.gif'&gt;&lt;br/&gt;The Swedish streamer now has 2.2+ million podcasts and is expected to pass Apple in US pod listeners this year. Apple's plan: For $19.99/year, podcasters can access features to turn their shows into subscription offerings. NPR just revealed paid subscriptions for ad-free podcasts, accessible through both Apple and Spotify. Spotify's plan: a new ad marketplace that makes it easier for podcasters to find advertisers and the ability to distribute premium podcasts on other platforms.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/27/apple-spotify-unveil-new-podcast-subscription-products?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/apple-spotify-unveil-new-podcast-subscription-products?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 28 Apr 2021 03:01:47 -0700</pubDate>
+ </item>
  <item>
   <title>The CDC Updates Its Mask-Wearing Guidelines</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4883%2Fcovid_mask_guidelines.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The agency said that fully vaccinated folks can do the following activities sans masks:Dine outside with non-roommatesGo on walks, hikes, or bike rides alone or with household membersAttend small, outdoor events, even if some attendees haven't been vaccinated yetWhy now?</description>
@@ -316,60 +370,6 @@
   <categories>apparel</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/simone-biles-vaults-nike-athleta?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 24 Apr 2021 03:01:53 -0700</pubDate>
- </item>
- <item>
-  <title>Vaccine Tracker: April 24</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; US is consulting but not committing: The CDC is providing “technical assistance” to India to help manage the country’s brutal second wave, but President Biden said that the US won’t be sharing any vaccines right now, despite stockpiling AstraZeneca shots that aren’t yet authorized in the US.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/23/vaccine-tracker-april-24</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/vaccine-tracker-april-24</guid>
-  <pubDate>Fri, 23 Apr 2021 15:11:50 -0700</pubDate>
- </item>
- <item>
-  <title>Italian Man Skips Work for 15 Years, Still Gets Paid</title>
-  <description>&lt;img src='https://media.giphy.com/media/l2YWrtthgz6PzBmFi/giphy.gif'&gt;&lt;br/&gt;  Scumace could face charges of abuse of office, forgery, and aggravated extortion, but he’ll go down in Italian history as the “king of absentees.” Slacking off as a public sector worker is a rampant-enough problem in Italy that Italians call perpetrators a name that roughly translates to “timecard weasels.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/23/italian-man-skips-work-15-years-still-gets-paid</link>
-  <author>Jamie Wilde</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/italian-man-skips-work-15-years-still-gets-paid</guid>
-  <pubDate>Fri, 23 Apr 2021 15:06:46 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 24</title>
-  <description>&lt;img src='https://media.giphy.com/media/HeBjzG7RXozoF4tn6z/giphy.gif'&gt;&lt;br/&gt;(Devon Zuegel) Read: Thoughts on moving to Miami. The bank faced a barrage of criticism on social media for bankrolling the breakaway soccer league with $4.2 billion in financing.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/23/key-performance-indicators-april-24</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/key-performance-indicators-april-24</guid>
-  <pubDate>Fri, 23 Apr 2021 14:41:52 -0700</pubDate>
- </item>
- <item>
-  <title>Simone Biles Vaults from Nike to Athleta </title>
-  <description>&lt;img src='https://media.giphy.com/media/urNnB16e8aXaTZdWCI/giphy.gif'&gt;&lt;br/&gt;Simone Biles, the most decorated gymnast of all time, is leaving Nike for Athleta in a move that highlights the changing landscape of athlete sponsorships.  It’s easy to see what Athleta offers Felix and Biles: a company “truly for women by women,” said the gymnast. Over on the Nike partnerships team, it’s been an interesting weekOn Monday, Complex Magazine reported that the estate of Kobe Bryant, the NBA legend who died in a helicopter crash last January, did not renew its sneaker deal with Nike.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/23/simone-biles-vaults-nike-athleta</link>
-  <author>Neal Freyman</author>
-  <categories>apparel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/simone-biles-vaults-nike-athleta</guid>
-  <pubDate>Fri, 23 Apr 2021 14:41:52 -0700</pubDate>
- </item>
- <item>
-  <title>Vaccine Tracker</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;US is consulting but not committing: The CDC is providing “technical assistance” to India to help manage the country’s brutal second wave, but President Biden said that the US won’t be sharing any vaccines right now, despite stockpiling AstraZeneca shots that aren’t yet authorized in the US.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/23/vaccine-tracker</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/vaccine-tracker</guid>
-  <pubDate>Fri, 23 Apr 2021 14:31:48 -0700</pubDate>
- </item>
- <item>
-  <title>SpaceX’s Second Launch with NASA Reaches Orbit</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4849%2Fspacex_crew-2_launch.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Other interesting mission facts:SpaceX has sent 10 astronauts to space in under a year. A lot of rad names there, but what you really need to know is the Crew-2 mission is SpaceX’s second operational crew launch since partnering with NASA and its third to date.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/23/spacexs-second-launch-nasa-reaches-orbit</link>
-  <author>Matty Merritt</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/23/spacexs-second-launch-nasa-reaches-orbit</guid>
-  <pubDate>Fri, 23 Apr 2021 14:26:54 -0700</pubDate>
  </item>
 
 </channel>
