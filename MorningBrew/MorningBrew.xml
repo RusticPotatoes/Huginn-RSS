@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/29</link>
- <lastBuildDate>Thu, 29 Apr 2021 14:33:46 -0700</lastBuildDate>
- <pubDate>Thu, 29 Apr 2021 14:33:46 -0700</pubDate>
+ <lastBuildDate>Thu, 29 Apr 2021 14:38:48 -0700</lastBuildDate>
+ <pubDate>Thu, 29 Apr 2021 14:38:48 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Top NFL Draft Pick, Trevor Lawrence, Puts Signing Bonus in Crypto</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4908%2Fcfp_semifinal_at_the_alls.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Lawrence joins a couple other NFL players who are dabbling in bitcoin. Lawrence has partnered with Blockfolio, a crypto investment app, to invest his estimated $22,630,055 signing bonus in bitcoin, ether, and yes, dogecoin. Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/29/top-nfl-draft-pick-trevor-lawrence-puts-signing-bonus-crypto</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/top-nfl-draft-pick-trevor-lawrence-puts-signing-bonus-crypto</guid>
+  <pubDate>Thu, 29 Apr 2021 14:36:47 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: April 30</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4905%2Fwoman_in_a_shop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Quote: "We are looking at it but in a lot of cases gig workers should be classified as employees... (The Drift) Read: Nomadland, my mother, and the frontier’s broken promise.</description>
@@ -361,15 +370,6 @@
   <categories>marketing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/four-tips-tricks-better-b2b-ads</guid>
   <pubDate>Mon, 26 Apr 2021 09:21:51 -0700</pubDate>
- </item>
- <item>
-  <title>The Packed Week Ahead: April 26</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3782%2Fbiden_inaugurated.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Friday is Biden’s 100th day in office. And good news, everyone: Commissioner Roger Goodell has been fully vaccinated and can hug the players who attend, per Adam Schefter. Highlights include Tesla, Microsoft, Alphabet, Apple, Boeing, Facebook, Amazon, McDonald’s, and Twitter.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/25/packed-week-ahead-april-26?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/25/packed-week-ahead-april-26?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 26 Apr 2021 03:01:48 -0700</pubDate>
  </item>
 
 </channel>
