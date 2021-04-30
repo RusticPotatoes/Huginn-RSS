@@ -8,9 +8,45 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/30</link>
- <lastBuildDate>Fri, 30 Apr 2021 15:24:01 -0700</lastBuildDate>
- <pubDate>Fri, 30 Apr 2021 15:24:01 -0700</pubDate>
+ <lastBuildDate>Fri, 30 Apr 2021 15:28:57 -0700</lastBuildDate>
+ <pubDate>Fri, 30 Apr 2021 15:28:57 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Over 100 College Campuses Will Require Covid Vaccinations to Return to Campus</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F979%2Fcollege_campus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;BUT, and this is a big but, because the three US vaccines were all given Emergency Use Authorization by the FDA as opposed to full approval, there’s no legal precedent on whether they can be mandated.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/30/100-college-campuses-will-require-covid-vaccinations-return-campus</link>
+  <author>Matty Merritt</author>
+  <categories>education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/100-college-campuses-will-require-covid-vaccinations-return-campus</guid>
+  <pubDate>Fri, 30 Apr 2021 15:26:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Five Guys, Their Favorite Horse, and a Kentucky Derby Dream</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4917%2Fhot_rod_charlie.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After their first two horses, they found Hot Rod Charlie, the horse that currently has the fourth-best odds to win the Kentucky Derby today. In this story, there are five protagonists.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/30/five-guys-favorite-horse-kentucky-derby-dream</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/five-guys-favorite-horse-kentucky-derby-dream</guid>
+  <pubDate>Fri, 30 Apr 2021 15:26:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Vaccine Tracker: May 1</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;more than half of US adults have received at least one dose, but the slowdown is real: The US is averaging 2.6 million vaccinations per day compared to the peak of 3.4 million on April 13. 174 countries, including the US, have administered more than 1.1 billion shots in total.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/30/vaccine-tracker-may-1</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/vaccine-tracker-may-1</guid>
+  <pubDate>Fri, 30 Apr 2021 15:26:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Apple’s AirTags Go On Sale</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4930%2Fapple_airtag.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;However, AirTags were created using Apple’s AR-building software platform, ARKit, and the tech company’s shown interest in the space before: Just open your Measure app for an early example. Yesterday, the EU issued antitrust charges against Apple over its App Store practices. And Apple finds your dog differently than Tile does...  Zoom out: Apple hasn’t commented on the augmented reality possibilities of AirTags.  For one, if second-gen iPod Shuffles taught us anything, it’s that sometimes Apple’s smallest, simplest products change our lives the most.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/30/apples-airtags-go-sale</link>
+  <author>Jamie Wilde</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/apples-airtags-go-sale</guid>
+  <pubDate>Fri, 30 Apr 2021 15:26:55 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 1</title>
   <description>&lt;img src='https://media.giphy.com/media/piO6cmvxIK0A05MNkY/giphy.gif'&gt;&lt;br/&gt;(New York Times) Read: What is “Cheugy”?</description>
@@ -334,42 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/key-performance-indicators-april-28</guid>
   <pubDate>Tue, 27 Apr 2021 15:06:47 -0700</pubDate>
- </item>
- <item>
-  <title>Business Acronyms You Should Know: The Master Guide</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;   DOJ: The Department of Justice enforces US laws and handles federal civil and criminal cases. In business-to-business (B2B), the product is for a corporate customer.  SEC: The Securities and Exchange Commission is a federal agency that regulates securities markets (securities = financial instruments like stocks and bonds) to protect investors. US agencies and regulatorsCDC: The Centers for Disease Control and Prevention; if you don't know this after a year of Covid…it is responsible for promoting public health at home and abroad, responding to infectious diseases, and researching threats to human health.   FTC: The Federal Trade Commission is responsible for enforcing consumer protection laws and civil antitrust law. ) The finance-y stuffIPO: An initial public offering is a way for companies to go from private → public and raise capital by selling shares to public investors on a stock exchange.  WHO: The World Health Organization is a UN agency focused on public health—monitoring risks, responding to emergencies, promoting universal healthcare, and setting international standards.  OECD: The Organization for Economic Co-operation and Development is an economic organization of 37 so-called "developed" nations. S&amp;P: Standard &amp; Poor's (now known as S&amp;P Global) is an analytics and financial data corporation. 19 members are part of the common currency "eurozone,." In direct-to-consumer, companies like Warby Parker send their product straight to you. But, often, the business world can feel like a jumble of insider language and acronyms. ESG: Environmental, social, and governance is a framework that measures corporations' positions on issues like human rights, diversity, employee welfare, and climate impacts. It's one of the most widely used indicators of economic health. It's goal is to coordinate prices and keep oil markets stable. UI: User experience vs. It's goal is to promote economic development and global trade. CSR: Corporate social responsibility offers a model for businesses to have a positive impact on society and remain accountable not only to shareholders, but also to the public.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/02/16/business-acronyms-know-f0b5</link>
-  <author>Alex Hickey</author>
-  <categories>business</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/02/16/business-acronyms-know-f0b5</guid>
-  <pubDate>Tue, 27 Apr 2021 14:46:46 -0700</pubDate>
- </item>
- <item>
-  <title>Companies Post Strong Quarters With Pandemic Waning in the US</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3141%2Fgoogle_suite.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Starbucks: US same-store sales have returned to pre-pandemic levels. While traffic is down by 10%, the average order has increased 21% (it's hard to resist that nitro cold brew). The tech company recorded its biggest quarterly jump in PC shipments in more than 20 years.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/27/companies-post-strong-quarters-pandemic-waning-us</link>
-  <author>Neal Freyman</author>
-  <categories>earnings</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/companies-post-strong-quarters-pandemic-waning-us</guid>
-  <pubDate>Tue, 27 Apr 2021 14:41:54 -0700</pubDate>
- </item>
- <item>
-  <title>Reader Q&amp;A: Getting Real About Real Estate </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yes, prices are rising at an astonishing pace, but there are good reasons for that: housing inventory hit a record low this year, demand is so furious builders can’t keep up, and low mortgage rates are attracting new buyers into the marketplace. Q: Will the housing market crash like it did in 2008?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/27/reader-qa-getting-real-real-estate</link>
-  <author>Neal Freyman</author>
-  <categories>qanda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/reader-qa-getting-real-real-estate</guid>
-  <pubDate>Tue, 27 Apr 2021 14:21:49 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 27</title>
-  <description>&lt;img src='https://media.giphy.com/media/XcodfWs5E7Gdx2pKmZ/giphy.gif'&gt;&lt;br/&gt;(NYT) Read: How Mark Zuckerberg and Tim Cook became foes. CEO Jonathan Karp has already pushed back against employee objections to publishing a book by former VP Mike Pence, saying, "We come to work each day to publish, not cancel."</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/26/key-performance-indicators-april-27?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/key-performance-indicators-april-27?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 27 Apr 2021 03:01:49 -0700</pubDate>
  </item>
 
 </channel>
