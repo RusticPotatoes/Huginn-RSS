@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/29/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/29/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/04/30/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/04/30/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/29</link>
- <lastBuildDate>Thu, 29 Apr 2021 14:38:48 -0700</lastBuildDate>
- <pubDate>Thu, 29 Apr 2021 14:38:48 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/04/30</link>
+ <lastBuildDate>Fri, 30 Apr 2021 13:04:03 -0700</lastBuildDate>
+ <pubDate>Fri, 30 Apr 2021 13:04:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Top NFL Draft Pick, Trevor Lawrence, Puts Signing Bonus in Crypto</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4908%2Fcfp_semifinal_at_the_alls.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Lawrence joins a couple other NFL players who are dabbling in bitcoin. Lawrence has partnered with Blockfolio, a crypto investment app, to invest his estimated $22,630,055 signing bonus in bitcoin, ether, and yes, dogecoin. Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/29/top-nfl-draft-pick-trevor-lawrence-puts-signing-bonus-crypto?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/top-nfl-draft-pick-trevor-lawrence-puts-signing-bonus-crypto?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 30 Apr 2021 13:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: April 30</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4905%2Fwoman_in_a_shop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Quote: "We are looking at it but in a lot of cases gig workers should be classified as employees... (The Drift) Read: Nomadland, my mother, and the frontier’s broken promise.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/29/key-performance-indicators-april-30?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/key-performance-indicators-april-30?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 30 Apr 2021 13:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>FDA Ensures Menthol Ban Wouldn’t Target Individuals</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4907%2Ffda_moves_to_ban_menthol.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Black health experts have been working to get menthol-flavored tobacco products banned for over a decade, citing tobacco companies’ aggressive marketing campaigns targeted at Black smokers.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/29/fda-ensures-menthol-ban-wouldnt-target-individuals?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>regulation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/fda-ensures-menthol-ban-wouldnt-target-individuals?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 30 Apr 2021 13:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Stock Market Surges Under Biden</title>
+  <description>&lt;img src='https://media.giphy.com/media/HaahbhwKTo2e39NMpF/giphy.gif'&gt;&lt;br/&gt;After Biden, it’s…JFK (1961): 9.27% gain for the S&amp;P in 100 daysGeorge H.W. Bush (1989): 7.93%Donald Trump (2017): 5.32%Average since 1929: 3.8%Zoom out: The occupant of the White House is just one factor among many that determines stock market performance, and the economic recovery from Covid-19 was well underway before Biden was elected.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/29/stock-market-surges-biden?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/stock-market-surges-biden?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 30 Apr 2021 13:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>The US Economy Is Almost Back to Full Strength</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4904%2Fsmiley_face.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Heck, even cruises could restart by mid-July, the CDC said yesterday. Zoom out: While the situation in the US is highly encouraging, in India it’s only getting worse.  Now, the US economy is less than 1% off its pre-Covid peak. Full reopenings are coming. Yesterday, NYC Mayor Bill de Blasio said the city will “fully reopen” for business July 1, just 14 months after the city was paralyzed by an initial Covid-19 wave. Halfway through earnings season, S&amp;P 500 companies have reported the strongest earnings growth in more than a decade. Covid cases are falling.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/29/us-economy-almost-back-full-strength?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/us-economy-almost-back-full-strength?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 30 Apr 2021 13:02:03 -0700</pubDate>
+ </item>
  <item>
   <title>Top NFL Draft Pick, Trevor Lawrence, Puts Signing Bonus in Crypto</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4908%2Fcfp_semifinal_at_the_alls.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Lawrence joins a couple other NFL players who are dabbling in bitcoin. Lawrence has partnered with Blockfolio, a crypto investment app, to invest his estimated $22,630,055 signing bonus in bitcoin, ether, and yes, dogecoin. Looking ahead...</description>
@@ -325,51 +370,6 @@
   <categories>healthcare</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/mindmed-becomes-us-second-public-psychedelics-company</guid>
   <pubDate>Mon, 26 Apr 2021 15:01:45 -0700</pubDate>
- </item>
- <item>
-  <title>OnlyFans Grows Revenue 553% During Pandemic</title>
-  <description>&lt;img src='https://media.giphy.com/media/h78olApnfhKOT8TD3A/giphy.gif'&gt;&lt;br/&gt;The London-based platform offers sex workers, fitness influencers, and celebrities like rapper Cardi B an avenue to connect directly with fans and get paid via subscription services plus tips. Its user base grew from less than 20 million to more than 120 million.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/26/onlyfans-grew-revenue-553-pandemic</link>
-  <author>Matty Merritt</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/onlyfans-grew-revenue-553-pandemic</guid>
-  <pubDate>Mon, 26 Apr 2021 14:46:50 -0700</pubDate>
- </item>
- <item>
-  <title>Oscars Viewership Dropped to Record Lows This Year</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4877%2Foscar_viewership.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;We'll get there.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/26/oscars-viewership-dropped-record-lows-year</link>
-  <author>Matty Merritt</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/oscars-viewership-dropped-record-lows-year</guid>
-  <pubDate>Mon, 26 Apr 2021 14:46:50 -0700</pubDate>
- </item>
- <item>
-  <title>Telsa Posts Record Quarterly Profit</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4875%2Ftesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The incident was plastered across Chinese social media, embarrassing Tesla in this crucial market for EVs. Crashes: Tesla is facing more than two dozen investigations from federal safety officials into whether its advanced driver-assist system, Autopilot, played a role in recent crashes.   Last week, a protestor jumped on the roof of a Tesla at the Shanghai Auto Show to protest the company's handling of a crash that injured her parents. But if there's one thing we know about Tesla...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/26/telsa-posts-record-quarterly-profit</link>
-  <author>Neal Freyman</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/telsa-posts-record-quarterly-profit</guid>
-  <pubDate>Mon, 26 Apr 2021 14:41:49 -0700</pubDate>
- </item>
- <item>
-  <title>US to Send 60M AstraZeneca Vaccines to Foreign Countries</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Now that it has millions of shots to spare, the US is getting back to being a geopolitical busybody, which includes countering China's and Russia's growing influence in lower-income countries from their own vaccine diplomacy efforts.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/26/us-send-60m-astrazeneca-vaccines-foreign-countries</link>
-  <author>Alex Hickey</author>
-  <categories>public health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/us-send-60m-astrazeneca-vaccines-foreign-countries</guid>
-  <pubDate>Mon, 26 Apr 2021 14:31:46 -0700</pubDate>
- </item>
- <item>
-  <title>Four Tips and Tricks to Better B2B Ads</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4866%2Fbranding_masters.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Avoid Coming Off Like a Jargon Junkie Biz and brand jargon are like a ghost pepper hot sauce—a little can go a long way.  That being said, we firmly believe that a niche jargon-plug used in an unexpected way can be just the thing you need to get that giggle and drive engagement.  AKA: make sure your brand reaches your target audience where they spend the most time.  Make sure you’re using places like your website and LinkedIn to establish who you are and allow you to iterate on your branding as things change.  On LinkedIn, for example, you can combine multiple criteria to create sophisticated targeting and use video or Led Gen Form retargeting to make your marketing pop—just saying. But as too many people know (not us, we’re perfect) ads often stand out in a not so good way.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/26/four-tips-tricks-better-b2b-ads</link>
-  <author>Morning Brew</author>
-  <categories>marketing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/four-tips-tricks-better-b2b-ads</guid>
-  <pubDate>Mon, 26 Apr 2021 09:21:51 -0700</pubDate>
  </item>
 
 </channel>
