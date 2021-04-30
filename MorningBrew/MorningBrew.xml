@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/30</link>
- <lastBuildDate>Fri, 30 Apr 2021 14:14:53 -0700</lastBuildDate>
- <pubDate>Fri, 30 Apr 2021 14:14:53 -0700</pubDate>
+ <lastBuildDate>Fri, 30 Apr 2021 14:18:53 -0700</lastBuildDate>
+ <pubDate>Fri, 30 Apr 2021 14:18:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Make It Work: How Do I Overcome Imposter Syndrome? </title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Ask Kate for advice here. Q: How do you know when it’s time to leave a job? How often do you believe this to be true?" If it's because of a lack of skills, I try to do the work to gain those qualifications. Each week, Morning Brew's Head of People Ops Kate Noel answers reader-submitted questions about work in 2021. Often, we talk to ourselves in a way that we wouldn't tolerate from anyone else. Be kind to yourself and work on creating a healthy mental dialogue about any mistakes you make.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/30/make-work-overcome-imposter-syndrome</link>
+  <author>Neal Freyman</author>
+  <categories>work life</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/make-work-overcome-imposter-syndrome</guid>
+  <pubDate>Fri, 30 Apr 2021 14:17:12 -0700</pubDate>
+ </item>
  <item>
   <title>Icebreakers With...Andrew Ross Sorkin</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4914%2Fandrew_ross_sorkin.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;I work 80+ hours a week and I've always done it because I love it.  What is the dumbest thing you made your parents buy for you as a kid? I convinced my father, based on my track record of making money trading cards, to invest in a case of Fleer Ultra baseball cards. It isn't that he is intimidating as a person; it is that he is so smart and deep on so many different topics. So I'm going to try to figure out how to do a lot more of my work with my family within reach and to be more strategic about travel, work dinners, etc.  You can only do one: writing for the New York Times, TV anchoring, or producing (co-creating Billions for Showtime, developing a GameStop film for HBO). We still have the cards if anyone wants to buy them.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>public health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/us-send-60m-astrazeneca-vaccines-foreign-countries?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 27 Apr 2021 03:01:49 -0700</pubDate>
- </item>
- <item>
-  <title>Telsa Posts Record Quarterly Profit</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4875%2Ftesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The incident was plastered across Chinese social media, embarrassing Tesla in this crucial market for EVs. Crashes: Tesla is facing more than two dozen investigations from federal safety officials into whether its advanced driver-assist system, Autopilot, played a role in recent crashes.   But if there's one thing we know about Tesla... Last week, a woman jumped on the roof of a Tesla at the Shanghai Auto Show to protest the company's handling of a crash that injured her parents. Tesla posted a record profit of $438 million and grew revenue 74% annually last quarter.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/26/telsa-posts-record-quarterly-profit?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/telsa-posts-record-quarterly-profit?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 27 Apr 2021 03:01:49 -0700</pubDate>
  </item>
 
