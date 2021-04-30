@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/04/30</link>
- <lastBuildDate>Fri, 30 Apr 2021 14:33:59 -0700</lastBuildDate>
- <pubDate>Fri, 30 Apr 2021 14:33:59 -0700</pubDate>
+ <lastBuildDate>Fri, 30 Apr 2021 15:24:01 -0700</lastBuildDate>
+ <pubDate>Fri, 30 Apr 2021 15:24:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: May 1</title>
+  <description>&lt;img src='https://media.giphy.com/media/piO6cmvxIK0A05MNkY/giphy.gif'&gt;&lt;br/&gt;(New York Times) Read: What is “Cheugy”?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/30/key-performance-indicators-may-1</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/key-performance-indicators-may-1</guid>
+  <pubDate>Fri, 30 Apr 2021 15:21:59 -0700</pubDate>
+ </item>
  <item>
   <title>Basecamp Joins Coinbase in Banning Social or Political Talk at Work</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2574%2Fworkplace_politics.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; You can imagine the conversations on Election Day… Tyler Denk on Twitter After Fried announced Basecamp's new policy, Armstrong tweeted: "Another mission focused company 👏 it takes courage in these times." And we're done with it on our company Basecamp account where the work happens." Zoom out: While they haven't gone as far as Coinbase or Basecamp, other tech companies have put up guardrails around what employees can or cannot talk about in internal chats. Some tech leaders, like Facebook cofounder and current Asana CEO Dustin Moskovitz, said instead of pushing uncomfortable issues to the sidelines, companies should "actively create spaces for these conversations." In 2019, Google discouraged employees from talking politics in company forums.  But very few expected when, on Monday, Fried posted a blog on the company website in which he banned "societal and political discussions" from Basecamp's internal chats.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/key-performance-indicators-april-27?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 27 Apr 2021 03:01:49 -0700</pubDate>
- </item>
- <item>
-  <title>MindMed Becomes the US’ Second Public Psychedelics Company</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4878%2Fmindmed_graphic.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  “Therapists are going to be a key component of making this whole new approach work,” Rahn said.  Bottom line: Don’t expect to cure your anxiety by taking MindMed’s meds in the woods with friends. In November, Oregon became the first state to legalize the medical use of psilocybin, and other jurisdictions are moving in that direction.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/26/mindmed-becomes-us-second-public-psychedelics-company?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>healthcare</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/26/mindmed-becomes-us-second-public-psychedelics-company?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 27 Apr 2021 03:01:49 -0700</pubDate>
  </item>
 
