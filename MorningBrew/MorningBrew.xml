@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/04/30/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/04/30/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/01/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/04/30</link>
- <lastBuildDate>Fri, 30 Apr 2021 15:34:02 -0700</lastBuildDate>
- <pubDate>Fri, 30 Apr 2021 15:34:02 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/01</link>
+ <lastBuildDate>Sat, 01 May 2021 03:04:01 -0700</lastBuildDate>
+ <pubDate>Sat, 01 May 2021 03:04:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Five Guys, Their Favorite Horse, and a Kentucky Derby Dream</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4917%2Fhot_rod_charlie.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After their first two horses, they found Hot Rod Charlie, the horse that currently has the fourth-best odds to win the Kentucky Derby today. In this story, there are five protagonists.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/30/five-guys-favorite-horse-kentucky-derby-dream?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/five-guys-favorite-horse-kentucky-derby-dream?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 01 May 2021 03:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 1</title>
+  <description>&lt;img src='https://media.giphy.com/media/piO6cmvxIK0A05MNkY/giphy.gif'&gt;&lt;br/&gt;(New York Times) Read: What is “Cheugy”?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/30/key-performance-indicators-may-1?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/key-performance-indicators-may-1?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 01 May 2021 03:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>Soccer Clubs Go Silent on Social Media to Raise Awareness Over Online Harassment</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4927%2Fleicester_city_v_liverpoo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The most powerful stakeholders in English soccer will black out their social media accounts to raise awareness over racism and harassment online.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/30/soccer-clubs-go-silent-social-media-raise-awareness-online-harassment?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/soccer-clubs-go-silent-social-media-raise-awareness-online-harassment?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 01 May 2021 03:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>Vaccine Tracker: May 1</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;more than half of US adults have received at least one dose, but the slowdown is real: The US is averaging 2.6 million vaccinations per day compared to the peak of 3.4 million on April 13. 174 countries, including the US, have administered more than 1.1 billion shots in total.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/30/vaccine-tracker-may-1?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/vaccine-tracker-may-1?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 01 May 2021 03:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>Apple’s AirTags Go On Sale</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4930%2Fapple_airtag.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;However, AirTags were created using Apple’s AR-building software platform, ARKit, and the tech company’s shown interest in the space before: Just open your Measure app for an early example. Yesterday, the EU issued antitrust charges against Apple over its App Store practices. And Apple finds your dog differently than Tile does... While Tile finds devices using Bluetooth signals, each AirTag is equipped with an ultra-wideband chip that allows owners to track them down with much more precision than Bluetooth can.  Zoom out: Apple hasn’t commented on the augmented reality possibilities of AirTags.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/04/30/apples-airtags-go-sale?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/apples-airtags-go-sale?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 01 May 2021 03:02:00 -0700</pubDate>
+ </item>
  <item>
   <title>Soccer Clubs Go Silent on Social Media to Raise Awareness Over Online Harassment</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4927%2Fleicester_city_v_liverpoo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The most powerful stakeholders in English soccer will black out their social media accounts to raise awareness over racism and harassment online.</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/key-performance-indicators-april-28?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 28 Apr 2021 03:01:47 -0700</pubDate>
- </item>
- <item>
-  <title>Companies Post Strong Quarters With Pandemic Waning in the US</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2567%2Fgoogle_fitbit_watch.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Starbucks: US same-store sales have returned to pre-pandemic levels. While traffic is down by 10%, the average order has increased 21% (it's hard to resist that nitro cold brew). The tech company recorded its biggest quarterly jump in PC shipments in more than 20 years.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/27/companies-post-strong-quarters-pandemic-waning-us?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>earnings</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/companies-post-strong-quarters-pandemic-waning-us?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 28 Apr 2021 03:01:47 -0700</pubDate>
- </item>
- <item>
-  <title>The CDC Updates Its Mask-Wearing Guidelines</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4883%2Fcovid_mask_guidelines.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The agency said that fully vaccinated folks can do the following activities sans masks:Dine outside with non-roommatesGo on walks, hikes, or bike rides alone or with household membersAttend small, outdoor events, even if some attendees haven't been vaccinated yetWhy now?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/27/cdc-updates-maskwearing-guidelines?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/cdc-updates-maskwearing-guidelines?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 28 Apr 2021 03:01:47 -0700</pubDate>
- </item>
- <item>
-  <title>Apple, Spotify Unveil New Podcast Subscription Products</title>
-  <description>&lt;img src='https://media.giphy.com/media/woP6OeVP8kBgh3MUMy/giphy.gif'&gt;&lt;br/&gt;The Swedish streamer now has 2.2+ million podcasts and is expected to pass Apple in US pod listeners this year. Apple's plan: For $19.99/year, podcasters can access features to turn their shows into subscription offerings. NPR just revealed paid subscriptions for ad-free podcasts, accessible through both Apple and Spotify. Spotify's plan: a new ad marketplace that makes it easier for podcasters to find advertisers and the ability to distribute premium podcasts on other platforms.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/27/apple-spotify-unveil-new-podcast-subscription-products?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/apple-spotify-unveil-new-podcast-subscription-products?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 28 Apr 2021 03:01:47 -0700</pubDate>
- </item>
- <item>
-  <title>The CDC Updates Its Mask-Wearing Guidelines</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4883%2Fcovid_mask_guidelines.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The agency said that fully vaccinated folks can do the following activities sans masks:Dine outside with non-roommatesGo on walks, hikes, or bike rides alone or with household membersAttend small, outdoor events, even if some attendees haven't been vaccinated yetWhy now?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/27/cdc-updates-maskwearing-guidelines</link>
-  <author>Jamie Wilde</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/cdc-updates-maskwearing-guidelines</guid>
-  <pubDate>Tue, 27 Apr 2021 15:36:48 -0700</pubDate>
- </item>
- <item>
-  <title>Apple, Spotify Unveil New Podcast Subscription Products</title>
-  <description>&lt;img src='https://media.giphy.com/media/woP6OeVP8kBgh3MUMy/giphy.gif'&gt;&lt;br/&gt;The Swedish streamer now has 2.2+ million podcasts and is expected to pass Apple in US pod listeners this year. Apple's plan: For $19.99/year, podcasters can access features to turn their shows into subscription offerings. NPR just revealed paid subscriptions for ad-free podcasts, accessible through both Apple and Spotify. Apple takes a 30% cut of revenues the first year and 15% the following years. Spotify's plan: a new ad marketplace that makes it easier for podcasters to find advertisers and allows for the distribution of premium podcasts on other platforms.  So will you pay?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/27/apple-spotify-unveil-new-podcast-subscription-products</link>
-  <author>Alex Hickey</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/apple-spotify-unveil-new-podcast-subscription-products</guid>
-  <pubDate>Tue, 27 Apr 2021 15:06:47 -0700</pubDate>
  </item>
 
 </channel>
