@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/01/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/02/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/01</link>
- <lastBuildDate>Sat, 01 May 2021 03:04:01 -0700</lastBuildDate>
- <pubDate>Sat, 01 May 2021 03:04:01 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/02</link>
+ <lastBuildDate>Sun, 02 May 2021 14:08:53 -0700</lastBuildDate>
+ <pubDate>Sun, 02 May 2021 14:08:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Over 100 College Campuses Will Require Covid Vaccinations to Return to Campus</title>
+  <description>&lt;img src='https://media.giphy.com/media/xTiTnHRBrb8wbSof28/giphy.gif'&gt;&lt;br/&gt;But before they head to campus, they'll need to add one more thing to the packing list: Over 100 US colleges and universities will require students to be vaccinated against Covid-19.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/02/100-college-campuses-will-require-covid-vaccinations-return-campus</link>
+  <author>Matty Merritt</author>
+  <categories>education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/100-college-campuses-will-require-covid-vaccinations-return-campus</guid>
+  <pubDate>Sun, 02 May 2021 14:07:03 -0700</pubDate>
+ </item>
  <item>
   <title>Five Guys, Their Favorite Horse, and a Kentucky Derby Dream</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4917%2Fhot_rod_charlie.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After their first two horses, they found Hot Rod Charlie, the horse that currently has the fourth-best odds to win the Kentucky Derby today. In this story, there are five protagonists.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>banking</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/teen-banking-apps-secure-funding?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 28 Apr 2021 03:01:47 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 28</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4649%2Frangers_baseball_stadium.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Not Boring) Read: Who disrupts the disruptors?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/27/key-performance-indicators-april-28?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/key-performance-indicators-april-28?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 28 Apr 2021 03:01:47 -0700</pubDate>
  </item>
 
