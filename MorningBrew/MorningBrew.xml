@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/02</link>
- <lastBuildDate>Sun, 02 May 2021 16:23:59 -0700</lastBuildDate>
- <pubDate>Sun, 02 May 2021 16:23:59 -0700</pubDate>
+ <lastBuildDate>Sun, 02 May 2021 16:28:53 -0700</lastBuildDate>
+ <pubDate>Sun, 02 May 2021 16:28:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: May 3</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4932%2Fjeans_zipper.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Motherboard)  Read: On a lighter note, the Pokémon card market is nuts right now.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/02/key-performance-indicators-may-3</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/key-performance-indicators-may-3</guid>
+  <pubDate>Sun, 02 May 2021 16:27:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Week Ahead: May 3</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4934%2Fcinco_de_mayo_celebrations.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Today is World Press Freedom Day, Wednesday is Cinco de Mayo, Mother’s Day is next Sunday, and May the Fourth, aka Star Wars Day, is on Tuesday. Economic data: The April jobs report will drop on Friday.   Got any sketch ideas?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/02/week-ahead-may-3</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/week-ahead-may-3</guid>
+  <pubDate>Sun, 02 May 2021 16:27:02 -0700</pubDate>
+ </item>
  <item>
   <title>Warren Buffett and Charlie Munger Take on Bitcoin, Robinhood at Annual Meeting</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4933%2Fwarren_buffett_chairman.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Buffett called Apple an “extraordinary business,” and it still remains the company’s largest stock holding. and then there’s Berkshire Hathaway CEO Warren Buffett and his longtime business partner Charlie Munger. Buffett said SPACs have made it even harder for Berkshire to strike a deal at an attractive price.  Robinhood: Buffett said Robinhood’s platform for retail investors was “taking advantage of the gambling instincts of society, and it isn’t admirable.</description>
@@ -352,24 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/28/key-performance-indicators-april-29</guid>
   <pubDate>Wed, 28 Apr 2021 14:06:50 -0700</pubDate>
- </item>
- <item>
-  <title>Tractor Supply Credits Strong Q1 Earnings to Millennials Moving to Suburban and Rural Areas</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4894%2Fegg_house.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Tractor Supply, the rural US retailer famous for carrying everything except tractors, said that half of the 11 million chickens it sold in 2020 were to new customers. as big cities that emptied out at the start of the pandemic open back up, Tractor Supply isn’t worried about young people ditching the simple life.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/28/tractor-supply-credits-strong-q1-earnings-millennials-moving-suburban-rural-areas</link>
-  <author>Matty Merritt</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/28/tractor-supply-credits-strong-q1-earnings-millennials-moving-suburban-rural-areas</guid>
-  <pubDate>Wed, 28 Apr 2021 14:06:50 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Lays Out American Families Plan in Primetime Address</title>
-  <description>&lt;img src='https://media.giphy.com/media/xUOwGhdl13FVkoWpb2/giphy.gif'&gt;&lt;br/&gt; Big picture: Taken with the president’s two other spending proposals, the American Families Plan represents his administration’s view that the federal government can and should play a significant role in shaping the US economy. Biden’s plan includes a) bumping up the top income tax rate from 37% to 39.6% b) nearly doubling the capital gains tax for wealthy investors, and c) giving more resources to the IRS to crack down on tax avoiders.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/28/biden-lays-american-families-plan-primetime-address</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/28/biden-lays-american-families-plan-primetime-address</guid>
-  <pubDate>Wed, 28 Apr 2021 13:56:50 -0700</pubDate>
  </item>
 
 </channel>
