@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/02</link>
- <lastBuildDate>Sun, 02 May 2021 14:08:53 -0700</lastBuildDate>
- <pubDate>Sun, 02 May 2021 14:08:53 -0700</pubDate>
+ <lastBuildDate>Sun, 02 May 2021 16:23:59 -0700</lastBuildDate>
+ <pubDate>Sun, 02 May 2021 16:23:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Warren Buffett and Charlie Munger Take on Bitcoin, Robinhood at Annual Meeting</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4933%2Fwarren_buffett_chairman.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Buffett called Apple an “extraordinary business,” and it still remains the company’s largest stock holding. and then there’s Berkshire Hathaway CEO Warren Buffett and his longtime business partner Charlie Munger. Buffett said SPACs have made it even harder for Berkshire to strike a deal at an attractive price.  Robinhood: Buffett said Robinhood’s platform for retail investors was “taking advantage of the gambling instincts of society, and it isn’t admirable.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/02/warren-buffett-charlie-munger-take-bitcoin-robinhood-annual-meeting</link>
+  <author>Neal Freyman</author>
+  <categories>investing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/warren-buffett-charlie-munger-take-bitcoin-robinhood-annual-meeting</guid>
+  <pubDate>Sun, 02 May 2021 16:21:58 -0700</pubDate>
+ </item>
+ <item>
+  <title>App Store on Trial</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3291%2Fapple_award.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Epic knew Apple would boot Fortnite off its App Store (which it did), and then Epic hit Apple and Google with lawsuits and unleashed a 1984-style hype video. Does Apple have an illegal monopoly over app distribution?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/02/app-store-trial</link>
+  <author>Neal Freyman</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/app-store-trial</guid>
+  <pubDate>Sun, 02 May 2021 16:21:58 -0700</pubDate>
+ </item>
  <item>
   <title>Over 100 College Campuses Will Require Covid Vaccinations to Return to Campus</title>
   <description>&lt;img src='https://media.giphy.com/media/xTiTnHRBrb8wbSof28/giphy.gif'&gt;&lt;br/&gt;But before they head to campus, they'll need to add one more thing to the packing list: Over 100 US colleges and universities will require students to be vaccinated against Covid-19.</description>
@@ -352,24 +370,6 @@
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/28/biden-lays-american-families-plan-primetime-address</guid>
   <pubDate>Wed, 28 Apr 2021 13:56:50 -0700</pubDate>
- </item>
- <item>
-  <title>Reader Q&amp;A: Getting Real About Real Estate </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Q: "Will the housing market crash like it did in 2008?" But do expect an affordability crisis if we don’t build more homes.  In conclusion, don’t expect a Big Short 2. The typical credit score for mortgage borrowers in the second half of last year was 786, a record high.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/27/reader-qa-getting-real-real-estate?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>explainer</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/reader-qa-getting-real-real-estate?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 28 Apr 2021 03:01:47 -0700</pubDate>
- </item>
- <item>
-  <title>Teen Banking Apps Secure More Funding</title>
-  <description>&lt;img src='https://media.giphy.com/media/xUOwG5vBijIVzXyoxy/giphy.gif'&gt;&lt;br/&gt; How are Current and Step different? Yesterday, two such apps, Current and Step, announced new funding rounds of $220 million and $100 million, respectively. Step has 1.5 million, but has only been around for six months.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/27/teen-banking-apps-secure-funding?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>banking</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/27/teen-banking-apps-secure-funding?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 28 Apr 2021 03:01:47 -0700</pubDate>
  </item>
 
 </channel>
