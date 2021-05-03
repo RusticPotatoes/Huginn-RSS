@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/03</link>
- <lastBuildDate>Mon, 03 May 2021 14:43:58 -0700</lastBuildDate>
- <pubDate>Mon, 03 May 2021 14:43:58 -0700</pubDate>
+ <lastBuildDate>Mon, 03 May 2021 14:48:54 -0700</lastBuildDate>
+ <pubDate>Mon, 03 May 2021 14:48:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: May 4</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4937%2Fether_price_chart.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: The first major interview with one of the most revered comedy writers of all time.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/03/key-performance-indicators-may-4</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/key-performance-indicators-may-4</guid>
+  <pubDate>Mon, 03 May 2021 14:46:54 -0700</pubDate>
+ </item>
  <item>
   <title>Tyson Enters Plant-Based Meat Race</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F833%2Fburger.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Table stakes are risingBeyond Meat commands 22% of the alternative meat market, and up 'til now its biggest fights were 1) getting you to try a bite ~just for fun~ and 2) plant-based meat rival Impossible Foods.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/28/tractor-supply-credits-strong-q1-earnings-millennials-moving-suburban-rural-areas?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 29 Apr 2021 03:01:49 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 29</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4893%2Flinkedin.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s more annual ad revenue than Snap or Pinterest. He said young people should “absolutely” get vaccinated. (The Guardian)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/28/key-performance-indicators-april-29?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/28/key-performance-indicators-april-29?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 29 Apr 2021 03:01:49 -0700</pubDate>
  </item>
 
