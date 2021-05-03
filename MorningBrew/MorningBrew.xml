@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/03</link>
- <lastBuildDate>Mon, 03 May 2021 03:03:54 -0700</lastBuildDate>
- <pubDate>Mon, 03 May 2021 03:03:54 -0700</pubDate>
+ <lastBuildDate>Mon, 03 May 2021 14:43:58 -0700</lastBuildDate>
+ <pubDate>Mon, 03 May 2021 14:43:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Tyson Enters Plant-Based Meat Race</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F833%2Fburger.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Table stakes are risingBeyond Meat commands 22% of the alternative meat market, and up 'til now its biggest fights were 1) getting you to try a bite ~just for fun~ and 2) plant-based meat rival Impossible Foods.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/03/tyson-enters-plantbased-meat-race</link>
+  <author>Alex Hickey</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/tyson-enters-plantbased-meat-race</guid>
+  <pubDate>Mon, 03 May 2021 14:41:57 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: May 3</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4934%2Fcinco_de_mayo_celebrations.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Today is World Press Freedom Day, Wednesday is Cinco de Mayo, Mother’s Day is next Sunday, and May the Fourth, aka Star Wars Day, is on Tuesday. Economic data: The April jobs report will drop on Friday.   Got any sketch ideas?</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/28/key-performance-indicators-april-29?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 29 Apr 2021 03:01:49 -0700</pubDate>
- </item>
- <item>
-  <title>Samsung Heirs Agree to Pay The Biggest Inheritance Tax Ever</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4896%2Fjay_y_lee_samsung_s_vice_chairman.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Samsung heirs said they’ll pay approximately one Cave of Wonders in inheritance tax following the death of Samsung chairman and family head Lee Kun-hee last year. And the family scandals didn’t stop there: Lee Kun-hee’s son Lee Jae-yong (above) served one year behind bars for bribery. ever.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/28/samsung-heirs-agree-pay-biggest-inheritance-tax-ever?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/28/samsung-heirs-agree-pay-biggest-inheritance-tax-ever?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 29 Apr 2021 03:01:49 -0700</pubDate>
  </item>
 
