@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/03</link>
- <lastBuildDate>Mon, 03 May 2021 14:48:54 -0700</lastBuildDate>
- <pubDate>Mon, 03 May 2021 14:48:54 -0700</pubDate>
+ <lastBuildDate>Mon, 03 May 2021 14:54:01 -0700</lastBuildDate>
+ <pubDate>Mon, 03 May 2021 14:54:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Verizon Sells AOL and Yahoo to Apollo Global Management</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4951%2Faol.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, Verizon set what seems to be its final away message in its media industry ambitions, announcing a deal to sell AOL and Yahoo for $5 billion to Apollo Global Management, the private equity giant recently in the spotlight after cofounder Leon Black stepped down as chairman in March.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/03/verizon-sells-aol-yahoo-apollo-global-management</link>
+  <author>Neal Freyman</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/verizon-sells-aol-yahoo-apollo-global-management</guid>
+  <pubDate>Mon, 03 May 2021 14:52:00 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 4</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4937%2Fether_price_chart.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: The first major interview with one of the most revered comedy writers of all time.</description>
@@ -361,15 +370,6 @@
   <categories>markets</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/stock-market-surges-biden</guid>
   <pubDate>Thu, 29 Apr 2021 14:26:49 -0700</pubDate>
- </item>
- <item>
-  <title>Tractor Supply Credits Strong Q1 Earnings to Millennials Moving to Suburban and Rural Areas</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4894%2Fegg_house.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Tractor Supply, the rural US retailer famous for carrying everything except tractors, said that half of the 11 million chickens it sold in 2020 were to new customers. as big cities that emptied out at the start of the pandemic open back up, Tractor Supply isn’t worried about young people ditching the simple life.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/28/tractor-supply-credits-strong-q1-earnings-millennials-moving-suburban-rural-areas?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/28/tractor-supply-credits-strong-q1-earnings-millennials-moving-suburban-rural-areas?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 29 Apr 2021 03:01:49 -0700</pubDate>
  </item>
 
 </channel>
