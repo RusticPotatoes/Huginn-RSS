@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/03</link>
- <lastBuildDate>Mon, 03 May 2021 15:03:56 -0700</lastBuildDate>
- <pubDate>Mon, 03 May 2021 15:03:56 -0700</pubDate>
+ <lastBuildDate>Mon, 03 May 2021 15:09:03 -0700</lastBuildDate>
+ <pubDate>Mon, 03 May 2021 15:09:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Bill and Melinda Gates to Divorce After 27 Years</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4953%2Fthe_robin_hood_foundation.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;With a net worth of about $130 billion, Bill Gates is the fourth-richest person in the world. The two met at Microsoft, which Bill founded, in 1987, got married seven years later, and in 2000 launched the Bill and Melinda Gates Foundation, which, according to some accounts, is the largest private foundation in the world, with more than $51 billion in assets.   Zoom out: Bill and Melinda are the second Seattle-area billionaire couple to get divorced in recent years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/03/bill-melinda-gates-divorce-27-years</link>
+  <author>Neal Freyman</author>
+  <categories>wealth</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/bill-melinda-gates-divorce-27-years</guid>
+  <pubDate>Mon, 03 May 2021 15:07:02 -0700</pubDate>
+ </item>
  <item>
   <title>EPA Announces New Rule to Limit Earth-Warming Chemical</title>
   <description>&lt;img src='https://media.giphy.com/media/xT1Ra4u2P2vWp0790Q/giphy.gif'&gt;&lt;br/&gt;That's why yesterday the EPA proposed a new rule that would limit the production and importation of hydrofluorocarbons (HFCs), chemicals used in air conditioning and refrigeration, by 85% over the next 15 years. HFCs are the mall smoothies of chemicals.</description>
@@ -361,15 +370,6 @@
   <categories>regulation</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/fda-ensures-menthol-ban-wouldnt-target-individuals</guid>
   <pubDate>Thu, 29 Apr 2021 14:31:46 -0700</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: April 30</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/29/brews-weekly-news-quiz-april-30</link>
-  <author>Jamie Wilde</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/brews-weekly-news-quiz-april-30</guid>
-  <pubDate>Thu, 29 Apr 2021 14:26:49 -0700</pubDate>
  </item>
 
 </channel>
