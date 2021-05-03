@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/03</link>
- <lastBuildDate>Mon, 03 May 2021 14:58:57 -0700</lastBuildDate>
- <pubDate>Mon, 03 May 2021 14:58:57 -0700</pubDate>
+ <lastBuildDate>Mon, 03 May 2021 15:03:56 -0700</lastBuildDate>
+ <pubDate>Mon, 03 May 2021 15:03:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>EPA Announces New Rule to Limit Earth-Warming Chemical</title>
+  <description>&lt;img src='https://media.giphy.com/media/xT1Ra4u2P2vWp0790Q/giphy.gif'&gt;&lt;br/&gt;That's why yesterday the EPA proposed a new rule that would limit the production and importation of hydrofluorocarbons (HFCs), chemicals used in air conditioning and refrigeration, by 85% over the next 15 years. HFCs are the mall smoothies of chemicals.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/03/epa-announces-new-rule-limit-earthwarming-chemical</link>
+  <author>Matty Merritt</author>
+  <categories>climate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/epa-announces-new-rule-limit-earthwarming-chemical</guid>
+  <pubDate>Mon, 03 May 2021 15:01:55 -0700</pubDate>
+ </item>
  <item>
   <title>The Imperial Banking System: Too Far Way to Fail </title>
   <description>&lt;img src='https://media.giphy.com/media/l3fZID6Z1JGasRtfi/giphy.gif'&gt;&lt;br/&gt;A massive government project, the second Death Star, has just been destroyed by the Rebel Alliance, and the Galactic economy was set to enter a depression of “astronomical proportions.”</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>quiz</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/brews-weekly-news-quiz-april-30</guid>
-  <pubDate>Thu, 29 Apr 2021 14:26:49 -0700</pubDate>
- </item>
- <item>
-  <title>The US Economy Is Almost Back to Full Strength</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4904%2Fsmiley_face.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Heck, even cruises could restart by mid-July, the CDC said yesterday. Zoom out: While the situation in the US is highly encouraging, in India it’s only getting worse.  Now, the US economy is less than 1% off its pre-Covid peak. Full reopenings are coming. Yesterday, NYC Mayor Bill de Blasio said the city will “fully reopen” for business July 1, just 14 months after the city was paralyzed by an initial Covid-19 wave. Halfway through earnings season, S&amp;P 500 companies have reported the strongest earnings growth in more than a decade. Covid cases are falling.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/29/us-economy-almost-back-full-strength</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/us-economy-almost-back-full-strength</guid>
   <pubDate>Thu, 29 Apr 2021 14:26:49 -0700</pubDate>
  </item>
 
