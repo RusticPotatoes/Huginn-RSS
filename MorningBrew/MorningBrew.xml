@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/03</link>
- <lastBuildDate>Mon, 03 May 2021 14:54:01 -0700</lastBuildDate>
- <pubDate>Mon, 03 May 2021 14:54:01 -0700</pubDate>
+ <lastBuildDate>Mon, 03 May 2021 14:58:57 -0700</lastBuildDate>
+ <pubDate>Mon, 03 May 2021 14:58:57 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Imperial Banking System: Too Far Way to Fail </title>
+  <description>&lt;img src='https://media.giphy.com/media/l3fZID6Z1JGasRtfi/giphy.gif'&gt;&lt;br/&gt;A massive government project, the second Death Star, has just been destroyed by the Rebel Alliance, and the Galactic economy was set to enter a depression of “astronomical proportions.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/03/imperial-banking-system-far-way-fail</link>
+  <author>Jamie Wilde</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/imperial-banking-system-far-way-fail</guid>
+  <pubDate>Mon, 03 May 2021 14:56:56 -0700</pubDate>
+ </item>
  <item>
   <title>Verizon Sells AOL and Yahoo to Apollo Global Management</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4951%2Faol.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, Verizon set what seems to be its final away message in its media industry ambitions, announcing a deal to sell AOL and Yahoo for $5 billion to Apollo Global Management, the private equity giant recently in the spotlight after cofounder Leon Black stepped down as chairman in March.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/us-economy-almost-back-full-strength</guid>
-  <pubDate>Thu, 29 Apr 2021 14:26:49 -0700</pubDate>
- </item>
- <item>
-  <title>Stock Market Surges Under Biden</title>
-  <description>&lt;img src='https://media.giphy.com/media/HaahbhwKTo2e39NMpF/giphy.gif'&gt;&lt;br/&gt;After Biden, it’s…JFK (1961): 9.27% gain for the S&amp;P in 100 daysGeorge H.W. Bush (1989): 7.93%Donald Trump (2017): 5.32%Average since 1929: 3.8%Zoom out: The occupant of the White House is just one factor among many that determines stock market performance, and the economic recovery from Covid-19 was well underway before Biden was elected.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/29/stock-market-surges-biden</link>
-  <author>Neal Freyman</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/stock-market-surges-biden</guid>
   <pubDate>Thu, 29 Apr 2021 14:26:49 -0700</pubDate>
  </item>
 
