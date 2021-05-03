@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/02/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/03/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/02</link>
- <lastBuildDate>Sun, 02 May 2021 16:28:53 -0700</lastBuildDate>
- <pubDate>Sun, 02 May 2021 16:28:53 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/03</link>
+ <lastBuildDate>Mon, 03 May 2021 03:03:54 -0700</lastBuildDate>
+ <pubDate>Mon, 03 May 2021 03:03:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: May 3</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4934%2Fcinco_de_mayo_celebrations.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Today is World Press Freedom Day, Wednesday is Cinco de Mayo, Mother’s Day is next Sunday, and May the Fourth, aka Star Wars Day, is on Tuesday. Economic data: The April jobs report will drop on Friday.   Got any sketch ideas?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/02/week-ahead-may-3?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/week-ahead-may-3?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 03 May 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 3</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4932%2Fjeans_zipper.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Motherboard)  Read: On a lighter note, the Pokémon card market is nuts right now.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/02/key-performance-indicators-may-3?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/key-performance-indicators-may-3?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 03 May 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Over 100 College Campuses Will Require Covid Vaccinations to Return to Campus</title>
+  <description>&lt;img src='https://media.giphy.com/media/xTiTnHRBrb8wbSof28/giphy.gif'&gt;&lt;br/&gt;But before they head to campus, they'll need to add one more thing to the packing list: Over 100 US colleges and universities will require students to be vaccinated against Covid-19.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/02/100-college-campuses-will-require-covid-vaccinations-return-campus?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/100-college-campuses-will-require-covid-vaccinations-return-campus?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 03 May 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>App Store on Trial</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3291%2Fapple_award.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Epic knew Apple would boot Fortnite off its App Store (which it did), and then Epic hit Apple and Google with lawsuits and unleashed a 1984-style hype video. Does Apple have an illegal monopoly over app distribution?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/02/app-store-trial?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/app-store-trial?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 03 May 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Warren Buffett and Charlie Munger Take on Bitcoin, Robinhood at Annual Meeting</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4933%2Fwarren_buffett_chairman.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Buffett called Apple an “extraordinary business,” and it still remains the company’s largest stock holding. and then there’s Berkshire Hathaway CEO Warren Buffett and his longtime business partner Charlie Munger. Buffett said SPACs have made it even harder for Berkshire to strike a deal at an attractive price. But since the start of the pandemic, the S&amp;P 500 has doubled up Berkshire Hathway’s stock gain, raising concerns that Buffett and Co. are out of touch with the new, tech-driven economy. As for his decision to pull out of the airline sector early in the pandemic, Buffett is perfectly comfortable with that.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/02/warren-buffett-charlie-munger-take-bitcoin-robinhood-annual-meeting?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>investing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/warren-buffett-charlie-munger-take-bitcoin-robinhood-annual-meeting?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 03 May 2021 03:02:03 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 3</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4932%2Fjeans_zipper.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Motherboard)  Read: On a lighter note, the Pokémon card market is nuts right now.</description>
@@ -325,51 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/28/samsung-heirs-agree-pay-biggest-inheritance-tax-ever?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 29 Apr 2021 03:01:49 -0700</pubDate>
- </item>
- <item>
-  <title>Ethereum Hits Record High</title>
-  <description>&lt;img src='https://media.giphy.com/media/lKXEBR8m1jWso/giphy.gif'&gt;&lt;br/&gt;Ethereum is the blockchain network that conducts transactions using ether, the name of its cryptocurrency. Run exchanges, take out loans, send ether to family and friends, and more. Right now, one bitcoin = more than 20 ether.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/28/ethereum-hits-record-high?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>cryptocurrency</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/28/ethereum-hits-record-high?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 29 Apr 2021 03:01:49 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Lays Out American Families Plan in Primetime Address</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4897%2Fbiden_congress_speech.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Taken with the president’s two other spending proposals, the American Families Plan represents his administration’s view that the federal government can and should play a significant role in shaping the US economy. Biden’s plan includes a) bumping up the top income tax rate from 37% to 39.6% b) nearly doubling the capital gains tax for wealthy investors, and c) giving more resources to the IRS to crack down on tax avoiders. Here’s a quick review of the other two bills: The American Rescue Plan: This was the $1.9 trillion Covid-19 relief bill Congress passed in March.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/28/biden-lays-american-families-plan-primetime-address?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/28/biden-lays-american-families-plan-primetime-address?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 29 Apr 2021 03:01:49 -0700</pubDate>
- </item>
- <item>
-  <title>Samsung Heirs Agree to Pay The Biggest Inheritance Tax Ever</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4896%2Fjay_y_lee_samsung_s_vice_chairman.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Samsung heirs said they’ll pay approximately one Cave of Wonders in inheritance tax following the death of Samsung chairman and family head Lee Kun-hee last year. And the family scandals didn’t stop there: Lee Kun-hee’s son Lee Jae-yong served one year behind bars for bribery. ever.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/28/samsung-heirs-agree-pay-biggest-inheritance-tax-ever</link>
-  <author>Jamie Wilde</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/28/samsung-heirs-agree-pay-biggest-inheritance-tax-ever</guid>
-  <pubDate>Wed, 28 Apr 2021 14:21:49 -0700</pubDate>
- </item>
- <item>
-  <title>Ethereum Hits Record High</title>
-  <description>&lt;img src='https://media.giphy.com/media/lKXEBR8m1jWso/giphy.gif'&gt;&lt;br/&gt;Ethereum is the blockchain network that conducts transactions using ether, the name of its cryptocurrency. Run exchanges, take out loans, send ether to family and friends, and more. Right now, one bitcoin = more than 20 ether.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/28/ethereum-hits-record-high</link>
-  <author>Jamie Wilde</author>
-  <categories>cryptocurrency</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/28/ethereum-hits-record-high</guid>
-  <pubDate>Wed, 28 Apr 2021 14:21:49 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 29</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4893%2Flinkedin.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s more annual ad revenue than Snap or Pinterest. He said young people should “absolutely” get vaccinated. (The Guardian)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/28/key-performance-indicators-april-29</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/28/key-performance-indicators-april-29</guid>
-  <pubDate>Wed, 28 Apr 2021 14:06:50 -0700</pubDate>
  </item>
 
 </channel>
