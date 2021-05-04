@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/04</link>
- <lastBuildDate>Tue, 04 May 2021 14:53:55 -0700</lastBuildDate>
- <pubDate>Tue, 04 May 2021 14:53:55 -0700</pubDate>
+ <lastBuildDate>Tue, 04 May 2021 14:58:56 -0700</lastBuildDate>
+ <pubDate>Tue, 04 May 2021 14:58:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Tiger Global Management Is Eating the VC World</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4958%2Ftiger_global_management.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s a New York-based “crossover” fund, meaning it invests in both private and public companies. During the pandemic, Tiger went on a dealmaking run for the ages that’s culminating in a new $10 billion fund, the largest ever raised by an independent fund manager for minority tech investments. But whereas SoftBank went deep in a few moonshot startups, Tiger is going wide, throwing money at founders before other investors swoop in. What is Tiger? It owned ~10% of Coinbase before its public debut.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/04/tiger-global-management-eating-vc-world</link>
+  <author>Neal Freyman</author>
+  <categories>venture capital</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/tiger-global-management-eating-vc-world</guid>
+  <pubDate>Tue, 04 May 2021 14:56:56 -0700</pubDate>
+ </item>
  <item>
   <title>Pandora Pledges to Use Only Lab-grown Diamonds</title>
   <description>&lt;img src='https://media.giphy.com/media/QORyMrsxuazL8onufV/giphy.gif'&gt;&lt;br/&gt; Zoom out: Featured in only 50,000 of its 85 million products, diamonds aren’t Pandora’s crown jewel. Price: Man-made diamonds are up to 10x cheaper than mined ones. That hasn’t been proven, but Pandora claims it’ll make its diamonds using only renewable energy by next year.</description>
@@ -361,15 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/apples-airtags-go-sale</guid>
   <pubDate>Fri, 30 Apr 2021 15:26:55 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 1</title>
-  <description>&lt;img src='https://media.giphy.com/media/piO6cmvxIK0A05MNkY/giphy.gif'&gt;&lt;br/&gt;(New York Times) Read: What is “Cheugy”?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/30/key-performance-indicators-may-1</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/key-performance-indicators-may-1</guid>
-  <pubDate>Fri, 30 Apr 2021 15:21:59 -0700</pubDate>
  </item>
 
 </channel>
