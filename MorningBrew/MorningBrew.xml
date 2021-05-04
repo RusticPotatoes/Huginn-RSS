@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/03/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/04/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/03</link>
- <lastBuildDate>Mon, 03 May 2021 15:09:03 -0700</lastBuildDate>
- <pubDate>Mon, 03 May 2021 15:09:03 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/04</link>
+ <lastBuildDate>Tue, 04 May 2021 03:03:55 -0700</lastBuildDate>
+ <pubDate>Tue, 04 May 2021 03:03:55 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Tyson Enters Plant-Based Meat Race</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F833%2Fburger.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Table stakes are risingBeyond Meat commands 22% of the alternative meat market, and up 'til now its biggest fights were 1) getting you to try a bite ~just for fun~ and 2) plant-based meat rival Impossible Foods.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/03/tyson-enters-plantbased-meat-race?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/tyson-enters-plantbased-meat-race?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 04 May 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 4</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4937%2Fether_price_chart.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: The first major interview with one of the most revered comedy writers of all time.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/03/key-performance-indicators-may-4?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/key-performance-indicators-may-4?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 04 May 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>EPA Announces New Rule to Limit Earth-Warming Chemical</title>
+  <description>&lt;img src='https://media.giphy.com/media/xT1Ra4u2P2vWp0790Q/giphy.gif'&gt;&lt;br/&gt;That's why yesterday the EPA proposed a new rule that would limit the production and importation of hydrofluorocarbons (HFCs), chemicals used in air conditioning and refrigeration, by 85% over the next 15 years. HFCs are the mall smoothies of chemicals.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/03/epa-announces-new-rule-limit-earthwarming-chemical?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>climate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/epa-announces-new-rule-limit-earthwarming-chemical?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 04 May 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Verizon Sells AOL and Yahoo to Apollo Global Management</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4951%2Faol.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, Verizon set what seems to be its final away message in its media industry ambitions, announcing a deal to sell AOL and Yahoo for $5 billion to Apollo Global Management, the private equity giant recently in the spotlight after Leon Black stepped down as chairman in March.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/03/verizon-sells-aol-yahoo-apollo-global-management?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/verizon-sells-aol-yahoo-apollo-global-management?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 04 May 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Bill and Melinda Gates to Divorce After 27 Years</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4953%2Fthe_robin_hood_foundation.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The two met in 1987 at Microsoft, which Bill cofounded, got married seven years later, and in 2000 launched the Bill and Melinda Gates Foundation. With a net worth of about $145 billion, Bill Gates is the fourth-richest person in the world. In a joint statement, Bill and Melinda said they will "continue our work together at the foundation, but we no longer believe we can grow together as a couple in this next phase of our lives." Zoom out: Bill and Melinda are the second Seattle-area power couple to get divorced in recent years. More questions than answers.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/03/bill-melinda-gates-divorce-27-years?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>wealth</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/bill-melinda-gates-divorce-27-years?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 04 May 2021 03:01:54 -0700</pubDate>
+ </item>
  <item>
   <title>Bill and Melinda Gates to Divorce After 27 Years</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4953%2Fthe_robin_hood_foundation.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;With a net worth of about $130 billion, Bill Gates is the fourth-richest person in the world. The two met at Microsoft, which Bill founded, in 1987, got married seven years later, and in 2000 launched the Bill and Melinda Gates Foundation, which, according to some accounts, is the largest private foundation in the world, with more than $51 billion in assets.   Zoom out: Bill and Melinda are the second Seattle-area billionaire couple to get divorced in recent years.</description>
@@ -325,51 +370,6 @@
   <categories>regulation</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/fda-ensures-menthol-ban-wouldnt-target-individuals?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 30 Apr 2021 13:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Stock Market Surges Under Biden</title>
-  <description>&lt;img src='https://media.giphy.com/media/HaahbhwKTo2e39NMpF/giphy.gif'&gt;&lt;br/&gt;After Biden, it’s…JFK (1961): 9.27% gain for the S&amp;P in 100 daysGeorge H.W. Bush (1989): 7.93%Donald Trump (2017): 5.32%Average since 1929: 3.8%Zoom out: The occupant of the White House is just one factor among many that determines stock market performance, and the economic recovery from Covid-19 was well underway before Biden was elected.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/29/stock-market-surges-biden?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/stock-market-surges-biden?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 30 Apr 2021 13:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>The US Economy Is Almost Back to Full Strength</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4904%2Fsmiley_face.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Heck, even cruises could restart by mid-July, the CDC said yesterday. Zoom out: While the situation in the US is highly encouraging, in India it’s only getting worse.  Now, the US economy is less than 1% off its pre-Covid peak. Full reopenings are coming. Yesterday, NYC Mayor Bill de Blasio said the city will “fully reopen” for business July 1, just 14 months after the city was paralyzed by an initial Covid-19 wave. Halfway through earnings season, S&amp;P 500 companies have reported the strongest earnings growth in more than a decade. Covid cases are falling.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/29/us-economy-almost-back-full-strength?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/us-economy-almost-back-full-strength?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 30 Apr 2021 13:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Top NFL Draft Pick, Trevor Lawrence, Puts Signing Bonus in Crypto</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4908%2Fcfp_semifinal_at_the_alls.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Lawrence joins a couple other NFL players who are dabbling in bitcoin. Lawrence has partnered with Blockfolio, a crypto investment app, to invest his estimated $22,630,055 signing bonus in bitcoin, ether, and yes, dogecoin. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/29/top-nfl-draft-pick-trevor-lawrence-puts-signing-bonus-crypto</link>
-  <author>Matty Merritt</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/top-nfl-draft-pick-trevor-lawrence-puts-signing-bonus-crypto</guid>
-  <pubDate>Thu, 29 Apr 2021 14:36:47 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: April 30</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4905%2Fwoman_in_a_shop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Quote: "We are looking at it but in a lot of cases gig workers should be classified as employees... (The Drift) Read: Nomadland, my mother, and the frontier’s broken promise.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/29/key-performance-indicators-april-30</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/key-performance-indicators-april-30</guid>
-  <pubDate>Thu, 29 Apr 2021 14:31:46 -0700</pubDate>
- </item>
- <item>
-  <title>FDA Ensures Menthol Ban Wouldn’t Target Individuals</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4907%2Ffda_moves_to_ban_menthol.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Black health experts have been working to get menthol-flavored tobacco products banned for over a decade, citing tobacco companies’ aggressive marketing campaigns targeted at Black smokers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/29/fda-ensures-menthol-ban-wouldnt-target-individuals</link>
-  <author>Matty Merritt</author>
-  <categories>regulation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/fda-ensures-menthol-ban-wouldnt-target-individuals</guid>
-  <pubDate>Thu, 29 Apr 2021 14:31:46 -0700</pubDate>
  </item>
 
 </channel>
