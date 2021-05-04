@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/04</link>
- <lastBuildDate>Tue, 04 May 2021 03:03:55 -0700</lastBuildDate>
- <pubDate>Tue, 04 May 2021 03:03:55 -0700</pubDate>
+ <lastBuildDate>Tue, 04 May 2021 08:14:01 -0700</lastBuildDate>
+ <pubDate>Tue, 04 May 2021 08:14:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Upfront About Newfronts: A Q&amp;A with Tubi Chief Content Officer, Adam Lewinson</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4949%2Ftubi_newfronts.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;We just announced that we’ll be launching Tubi Originals with more than 140 hours of content designed specifically with Tubi viewers in mind. As you look at the content and streaming landscape, where do you think the next great innovation will be?  I think not only for 2021, but for next year as well, streaming is poised to take center stage at Upfronts. While we of course highlight the premium content that brings in our viewers and keeps them engaged, we also discuss ways in which Tubi can help maximize a brand’s ability to measure and manage ads—including our Advanced Frequency Management tool which reduces ad repetition, our Certified Measurement Program which helps brands better measure the effectiveness of their advertising spend, and our Content Intelligence which gives brands insights to better inform their campaign creative and targeting. With the largest library of any streaming service—over 30,000 titles and growing—we have a robust collection of movies and TV shows across every genre.   When you think about places where you can innovate better than your peers, what comes to mind?  It’s Upfronts season, and everyone is jockeying for attention. That said, consumers are only willing to pay for so many subscription streaming services, especially as new players have entered the market, so AVOD will likely become a much larger focus of the conversation in the next few years. Two different areas come to mind to me—the first is our ad tech.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/03/upfront-newfronts-qa-tubi-chief-content-officer-adam-lewinson</link>
+  <author>Morning Brew</author>
+  <categories>marketing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/upfront-newfronts-qa-tubi-chief-content-officer-adam-lewinson</guid>
+  <pubDate>Tue, 04 May 2021 08:12:00 -0700</pubDate>
+ </item>
  <item>
   <title>Tyson Enters Plant-Based Meat Race</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F833%2Fburger.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Table stakes are risingBeyond Meat commands 22% of the alternative meat market, and up 'til now its biggest fights were 1) getting you to try a bite ~just for fun~ and 2) plant-based meat rival Impossible Foods.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/key-performance-indicators-april-30?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 30 Apr 2021 13:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>FDA Ensures Menthol Ban Wouldn’t Target Individuals</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4907%2Ffda_moves_to_ban_menthol.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Black health experts have been working to get menthol-flavored tobacco products banned for over a decade, citing tobacco companies’ aggressive marketing campaigns targeted at Black smokers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/29/fda-ensures-menthol-ban-wouldnt-target-individuals?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>regulation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/fda-ensures-menthol-ban-wouldnt-target-individuals?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 30 Apr 2021 13:02:03 -0700</pubDate>
  </item>
 
 </channel>
