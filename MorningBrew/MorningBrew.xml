@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/04</link>
- <lastBuildDate>Tue, 04 May 2021 08:53:54 -0700</lastBuildDate>
- <pubDate>Tue, 04 May 2021 08:53:54 -0700</pubDate>
+ <lastBuildDate>Tue, 04 May 2021 11:44:01 -0700</lastBuildDate>
+ <pubDate>Tue, 04 May 2021 11:44:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>How to Write a Cover Letter and Not Hate the Process</title>
+  <description>&lt;img src='https://media.giphy.com/media/l1J9O9elEvuRjMyXu/giphy.gif'&gt;&lt;br/&gt;A cover letter is often the first time a hiring manager gets the chance to “meet” you, so don’t waste it. Always thank people for their time and, while this might be controversial, “best” is the best way to sign off (besides “love,” but unfortunately that’s not appropriate for a job application. Identify the company’s mission, look at the way it talks about itself, and reference it in your cover letter. = I know how to write for a specific audience(I’m a fan of hyperlinking in cover letters and resumes. I can offer a unique perspective coming from the legal sphere, for example, I can help Morning Brew never get sued. Here’s a copy of my cover letter for Morning Brew:“My name is Mattison Merritt and I’m a writer, comedian, and social media manager currently living in Chicago. = I’m good at time managementProve that you did your research“I want to join the Morning Brew team as a writer to help make business news more accessible and engaging.” Maybe humor isn’t the way to go, but adding a little personality to your cover letter can make you stand out. Be funny sometimes, be interesting alwaysI had four clever bits in my cover letter and each of them helped illustrate, but not distract from, the point I was trying to make about myself or my experience. Here are a few lines from my cover letter where I hit the job qualifications without just listing a bunch of buzzwords:“I’ve worked at the American Bar Association for two years now, within the first year I was promoted twice in part because I wanted to create projects that would allow me to research legal topics I was interested in.” So here’s a rundown of how I used my cover letter to land the best job I’ve ever had—besides being a camp counselor, of course.  Here’s one example: “I can offer a unique perspective coming from the legal sphere, for example, I can help Morning Brew never get sued.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/04/write-cover-letter-not-hate-process</link>
+  <author>Matty Merritt</author>
+  <categories>career</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/write-cover-letter-not-hate-process</guid>
+  <pubDate>Tue, 04 May 2021 11:41:58 -0700</pubDate>
+ </item>
  <item>
   <title>C-corp vs. Pass-through Taxes: What’s the Difference?</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;For tax purposes, businesses are either pass-through entities or C corporations. You’re taxed on your entire share of business profits, regardless of whether they sit in your business or personal bank account. If you’re paying attention, you might have caught that dividends are taxed twice: once at the entity level and again on our personal tax returns. Business profits are passed through to owners, who pay taxes based on individual tax rates. I’ll owe tax on $40,000, and you’ll owe tax on the remaining $60,000. One of them is how you want your business to be taxed.  Multiple business structures are subject to pass-through taxation. Pass-through entities are businesses that pay income taxes solely on their owners’ individual tax returns. In general, solo entrepreneurs and small businesses opt for pass-through taxation since there’s less paperwork and red tape, while medium and large companies often favor C-corp tax treatment. It’s called a pass-through because the business doesn’t pay an entity-level income tax. And, you can change your business structure or tax status as your business’s needs evolve. On my tax return, I report my $40,000 salary and my share of the dividend, which is $2,000. Let’s see how that works if our phone case business is a C-corp. What is C-corp taxation?  Notice how our tax liabilities don’t take into account how much money we moved from business coffers into our personal bank accounts? C-corps report income and pay taxes on Form 1120.</description>
@@ -361,15 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/hot-rod-charlie-five-best-human-friends-big-kentucky-derby-dreams</guid>
   <pubDate>Fri, 30 Apr 2021 13:07:55 -0700</pubDate>
- </item>
- <item>
-  <title>Top NFL Draft Pick, Trevor Lawrence, Puts Signing Bonus in Crypto</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4908%2Fcfp_semifinal_at_the_alls.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Lawrence joins a couple other NFL players who are dabbling in bitcoin. Lawrence has partnered with Blockfolio, a crypto investment app, to invest his estimated $22,630,055 signing bonus in bitcoin, ether, and yes, dogecoin. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/29/top-nfl-draft-pick-trevor-lawrence-puts-signing-bonus-crypto?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/29/top-nfl-draft-pick-trevor-lawrence-puts-signing-bonus-crypto?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 30 Apr 2021 13:02:04 -0700</pubDate>
  </item>
 
 </channel>
