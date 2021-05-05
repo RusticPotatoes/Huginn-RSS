@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/05</link>
- <lastBuildDate>Wed, 05 May 2021 14:48:58 -0700</lastBuildDate>
- <pubDate>Wed, 05 May 2021 14:48:58 -0700</pubDate>
+ <lastBuildDate>Wed, 05 May 2021 15:09:01 -0700</lastBuildDate>
+ <pubDate>Wed, 05 May 2021 15:09:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Facebook Bans Trump For Six More Months</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4980%2Fthumbs_down_facebook.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Facebook handed the Oversight Board the Draw 25 card that is deciding Trump’s ban, and the Oversight Board slapped down a Reverse: It has tasked Facebook with clearing up its convoluted rules around handling prominent users like Trump. The reason social media platforms can go the latter route without fear of being sued by disgruntled users boils down to a piece of legislation: Section 230, which is looking a little weathered 25 years after being introduced.  Facebook, Twitter, Snapchat, and Twitch all indefinitely kicked Trump off their platforms in the weeks following the riots.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/05/facebook-bans-trump-six-months</link>
+  <author>Jamie Wilde</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/facebook-bans-trump-six-months</guid>
+  <pubDate>Wed, 05 May 2021 15:07:00 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 6</title>
   <description>&lt;img src='https://media.giphy.com/media/qGPehqYF1XFRKRIE2A/giphy.gif'&gt;&lt;br/&gt;(Businessweek) Read: The untold story of how Jeff Bezos beat the tabloids. Nearly 20% of renters are behind on their payments as of January.</description>
@@ -361,15 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/app-store-trial</guid>
   <pubDate>Sun, 02 May 2021 16:21:58 -0700</pubDate>
- </item>
- <item>
-  <title>Over 100 College Campuses Will Require Covid Vaccinations to Return to Campus</title>
-  <description>&lt;img src='https://media.giphy.com/media/xTiTnHRBrb8wbSof28/giphy.gif'&gt;&lt;br/&gt;But before they head to campus, they'll need to add one more thing to the packing list: Over 100 US colleges and universities will require students to be vaccinated against Covid-19.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/02/100-college-campuses-will-require-covid-vaccinations-return-campus</link>
-  <author>Matty Merritt</author>
-  <categories>education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/100-college-campuses-will-require-covid-vaccinations-return-campus</guid>
-  <pubDate>Sun, 02 May 2021 14:07:03 -0700</pubDate>
  </item>
 
 </channel>
