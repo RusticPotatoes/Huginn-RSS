@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/05</link>
- <lastBuildDate>Wed, 05 May 2021 03:03:58 -0700</lastBuildDate>
- <pubDate>Wed, 05 May 2021 03:03:58 -0700</pubDate>
+ <lastBuildDate>Wed, 05 May 2021 14:29:01 -0700</lastBuildDate>
+ <pubDate>Wed, 05 May 2021 14:29:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Jessica Alba's Honest Company IPOs at $2.7 billion valuation</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4976%2Fjessica_alba.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Alba's second actThe Honest Company, known for its eco-friendly and nontoxic household and baby products, launched in 2012 and grew rapidly.  But unlike Honey, Alba's company got better with age. In 2017, the company recalled baby powder and wipes.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/05/jessica-albas-honest-company-ipos-27-billion-valuation</link>
+  <author>Alex Hickey</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/jessica-albas-honest-company-ipos-27-billion-valuation</guid>
+  <pubDate>Wed, 05 May 2021 14:27:00 -0700</pubDate>
+ </item>
  <item>
   <title>Domino’s Brings Back Its Villainous Mascot</title>
   <description>&lt;img src='https://media.giphy.com/media/l2JdVSpxDFSc41Tqw/giphy.gif'&gt;&lt;br/&gt;  Fun fact: The name Noid is a nod to “Dominoid,” a nickname for the chain’s employees.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/soccer-clubs-go-silent-social-media-raise-awareness-online-harassment?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 01 May 2021 03:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>Vaccine Tracker: May 1</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;more than half of US adults have received at least one dose, but the slowdown is real: The US is averaging 2.6 million vaccinations per day compared to the peak of 3.4 million on April 13. 174 countries, including the US, have administered more than 1.1 billion shots in total.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/30/vaccine-tracker-may-1?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/vaccine-tracker-may-1?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 01 May 2021 03:02:00 -0700</pubDate>
  </item>
 
