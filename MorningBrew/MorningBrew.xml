@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/04/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/05/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/04</link>
- <lastBuildDate>Tue, 04 May 2021 14:58:56 -0700</lastBuildDate>
- <pubDate>Tue, 04 May 2021 14:58:56 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/05</link>
+ <lastBuildDate>Wed, 05 May 2021 03:03:58 -0700</lastBuildDate>
+ <pubDate>Wed, 05 May 2021 03:03:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Domino’s Brings Back Its Villainous Mascot</title>
+  <description>&lt;img src='https://media.giphy.com/media/l2JdVSpxDFSc41Tqw/giphy.gif'&gt;&lt;br/&gt;  Fun fact: The name Noid is a nod to “Dominoid,” a nickname for the chain’s employees.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/04/dominos-brings-back-villainous-mascot?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>marketing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/dominos-brings-back-villainous-mascot?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 05 May 2021 03:01:57 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 5</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4959%2Fjackson_state_football_player.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Morning Brew) Read: Practical tips for writing better cover letters from Matty Merritt.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/04/key-performance-indicators-may-5?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/key-performance-indicators-may-5?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 05 May 2021 03:01:57 -0700</pubDate>
+ </item>
+ <item>
+  <title>Pandora Pledges to Use Only Lab-grown Diamonds</title>
+  <description>&lt;img src='https://media.giphy.com/media/nKux8GJ0lTEMU0jI3d/giphy.gif'&gt;&lt;br/&gt; Zoom out: Featured in only 50,000 of its 85 million products, diamonds aren’t Pandora’s crown jewel. Price: Man-made diamonds are up to 10x cheaper than mined ones. That hasn’t been proven, but Pandora claims it’ll make its diamonds using only renewable energy by next year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/04/pandora-pledges-use-labgrown-diamonds?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/pandora-pledges-use-labgrown-diamonds?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 05 May 2021 03:01:57 -0700</pubDate>
+ </item>
+ <item>
+  <title>JPMorgan Chase, Goldman Sachs, Other Big Banks Announce Plans to Bring Back Staff This Summer</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4205%2Fzoom_sadness.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;JPMorgan wants 50% of its staff back in the office (at least part-time) by July. Goldman Sachs executives revealed a plan to get US staff back at their NYC desks by June 14 and UK staff back at their Hogwarts desks by June 21.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/04/jpmorgan-chase-goldman-sachs-big-banks-announce-plans-bring-back-staff-summer?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/jpmorgan-chase-goldman-sachs-big-banks-announce-plans-bring-back-staff-summer?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 05 May 2021 03:01:57 -0700</pubDate>
+ </item>
+ <item>
+  <title>Pfizer Reports $3.5 Billion in Q1 Earnings Thanks to Covid Vaccine</title>
+  <description>&lt;img src='https://media.giphy.com/media/1Sn2FDoXLeSApgVF8b/giphy.gif'&gt;&lt;br/&gt;It’s expected to get authorization for 12-15-year-olds next week. In September, it will ask the FDA for emergency use authorization for kids age 2–11. Pfizer is strapping on its JanSport and heading to elementary school. Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/04/pfizer-reports-35-billion-q1-earnings-thanks-covid-vaccine?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/pfizer-reports-35-billion-q1-earnings-thanks-covid-vaccine?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 05 May 2021 03:01:57 -0700</pubDate>
+ </item>
+ <item>
+  <title>Tiger Global Management Is Eating the VC World</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4958%2Ftiger_global_management.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s a New York-based “crossover” fund, meaning it invests in both private and public companies. During the pandemic, Tiger went on a dealmaking run for the ages that’s culminating in a new $10 billion fund, the largest ever raised by an independent fund manager for minority tech investments. But whereas SoftBank went deep in a few moonshot startups, Tiger is going wide, throwing money at founders before other investors swoop in. What is Tiger? It owned ~10% of Coinbase before its public debut.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/04/tiger-global-management-eating-vc-world?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>venture capital</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/tiger-global-management-eating-vc-world?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 05 May 2021 03:01:57 -0700</pubDate>
+ </item>
  <item>
   <title>Tiger Global Management Is Eating the VC World</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4958%2Ftiger_global_management.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s a New York-based “crossover” fund, meaning it invests in both private and public companies. During the pandemic, Tiger went on a dealmaking run for the ages that’s culminating in a new $10 billion fund, the largest ever raised by an independent fund manager for minority tech investments. But whereas SoftBank went deep in a few moonshot startups, Tiger is going wide, throwing money at founders before other investors swoop in. What is Tiger? It owned ~10% of Coinbase before its public debut.</description>
@@ -316,60 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/vaccine-tracker-may-1?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 01 May 2021 03:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>Apple’s AirTags Go On Sale</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4930%2Fapple_airtag.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;However, AirTags were created using Apple’s AR-building software platform, ARKit, and the tech company’s shown interest in the space before: Just open your Measure app for an early example. Yesterday, the EU issued antitrust charges against Apple over its App Store practices. And Apple finds your dog differently than Tile does... While Tile finds devices using Bluetooth signals, each AirTag is equipped with an ultra-wideband chip that allows owners to track them down with much more precision than Bluetooth can.  Zoom out: Apple hasn’t commented on the augmented reality possibilities of AirTags.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/30/apples-airtags-go-sale?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/apples-airtags-go-sale?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 01 May 2021 03:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>Soccer Clubs Go Silent on Social Media to Raise Awareness Over Online Harassment</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4927%2Fleicester_city_v_liverpoo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The most powerful stakeholders in English soccer will black out their social media accounts to raise awareness over racism and harassment online.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/30/soccer-clubs-go-silent-social-media-raise-awareness-online-harassment</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/soccer-clubs-go-silent-social-media-raise-awareness-online-harassment</guid>
-  <pubDate>Fri, 30 Apr 2021 15:32:01 -0700</pubDate>
- </item>
- <item>
-  <title>Over 100 College Campuses Will Require Covid Vaccinations to Return to Campus</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F979%2Fcollege_campus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;BUT, and this is a big but, because the three US vaccines were all given Emergency Use Authorization by the FDA as opposed to full approval, there’s no legal precedent on whether they can be mandated.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/30/100-college-campuses-will-require-covid-vaccinations-return-campus</link>
-  <author>Matty Merritt</author>
-  <categories>education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/100-college-campuses-will-require-covid-vaccinations-return-campus</guid>
-  <pubDate>Fri, 30 Apr 2021 15:26:55 -0700</pubDate>
- </item>
- <item>
-  <title>Five Guys, Their Favorite Horse, and a Kentucky Derby Dream</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4917%2Fhot_rod_charlie.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After their first two horses, they found Hot Rod Charlie, the horse that currently has the fourth-best odds to win the Kentucky Derby today. In this story, there are five protagonists.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/30/five-guys-favorite-horse-kentucky-derby-dream</link>
-  <author>Matty Merritt</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/five-guys-favorite-horse-kentucky-derby-dream</guid>
-  <pubDate>Fri, 30 Apr 2021 15:26:55 -0700</pubDate>
- </item>
- <item>
-  <title>Vaccine Tracker: May 1</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;more than half of US adults have received at least one dose, but the slowdown is real: The US is averaging 2.6 million vaccinations per day compared to the peak of 3.4 million on April 13. 174 countries, including the US, have administered more than 1.1 billion shots in total.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/30/vaccine-tracker-may-1</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/vaccine-tracker-may-1</guid>
-  <pubDate>Fri, 30 Apr 2021 15:26:55 -0700</pubDate>
- </item>
- <item>
-  <title>Apple’s AirTags Go On Sale</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4930%2Fapple_airtag.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;However, AirTags were created using Apple’s AR-building software platform, ARKit, and the tech company’s shown interest in the space before: Just open your Measure app for an early example. Yesterday, the EU issued antitrust charges against Apple over its App Store practices. And Apple finds your dog differently than Tile does...  Zoom out: Apple hasn’t commented on the augmented reality possibilities of AirTags.  For one, if second-gen iPod Shuffles taught us anything, it’s that sometimes Apple’s smallest, simplest products change our lives the most.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/30/apples-airtags-go-sale</link>
-  <author>Jamie Wilde</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/apples-airtags-go-sale</guid>
-  <pubDate>Fri, 30 Apr 2021 15:26:55 -0700</pubDate>
  </item>
 
 </channel>
