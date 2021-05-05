@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/05</link>
- <lastBuildDate>Wed, 05 May 2021 14:33:54 -0700</lastBuildDate>
- <pubDate>Wed, 05 May 2021 14:33:54 -0700</pubDate>
+ <lastBuildDate>Wed, 05 May 2021 14:38:54 -0700</lastBuildDate>
+ <pubDate>Wed, 05 May 2021 14:38:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Peloton Recalls Treadmills Over Safety Concerns</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2354%2Fpeloton_tread_image.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Outside of the misery they're supposed to inflict, Peloton's Tread and higher-end Tread+ have been the subject of recent safety complaints. Yesterday, Peloton recalled its treadmills due to safety concerns and apologized for not doing so sooner. Time to find a new clothes hanger other than your $4,300 Peloton treadmill.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/05/peloton-recalls-treadmills-safety-concerns</link>
+  <author>Alex Hickey</author>
+  <categories>fitness</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/peloton-recalls-treadmills-safety-concerns</guid>
+  <pubDate>Wed, 05 May 2021 14:36:54 -0700</pubDate>
+ </item>
  <item>
   <title>Broadway Set to Reopen September 14</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4973%2Fhamilton_on_broadway.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Yesterday, NY Gov. Andrew Cuomo said that tickets for full-capacity shows will go on sale today. Headliners include Billie Eilish, Post Malone, A$AP ROCKY, and J Balvin.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/five-guys-favorite-horse-kentucky-derby-dream?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 01 May 2021 03:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 1</title>
-  <description>&lt;img src='https://media.giphy.com/media/piO6cmvxIK0A05MNkY/giphy.gif'&gt;&lt;br/&gt;(New York Times) Read: What is “Cheugy”?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/30/key-performance-indicators-may-1?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/key-performance-indicators-may-1?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 01 May 2021 03:02:00 -0700</pubDate>
  </item>
 
