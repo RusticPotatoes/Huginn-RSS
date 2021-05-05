@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/05</link>
- <lastBuildDate>Wed, 05 May 2021 14:29:01 -0700</lastBuildDate>
- <pubDate>Wed, 05 May 2021 14:29:01 -0700</pubDate>
+ <lastBuildDate>Wed, 05 May 2021 14:33:54 -0700</lastBuildDate>
+ <pubDate>Wed, 05 May 2021 14:33:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Broadway Set to Reopen September 14</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4973%2Fhamilton_on_broadway.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Yesterday, NY Gov. Andrew Cuomo said that tickets for full-capacity shows will go on sale today. Headliners include Billie Eilish, Post Malone, A$AP ROCKY, and J Balvin.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/05/broadway-set-reopen-september-14</link>
+  <author>Neal Freyman</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/broadway-set-reopen-september-14</guid>
+  <pubDate>Wed, 05 May 2021 14:31:53 -0700</pubDate>
+ </item>
  <item>
   <title>Jessica Alba's Honest Company IPOs at $2.7 billion valuation</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4976%2Fjessica_alba.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Alba's second actThe Honest Company, known for its eco-friendly and nontoxic household and baby products, launched in 2012 and grew rapidly.  But unlike Honey, Alba's company got better with age. In 2017, the company recalled baby powder and wipes.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/key-performance-indicators-may-1?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 01 May 2021 03:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>Soccer Clubs Go Silent on Social Media to Raise Awareness Over Online Harassment</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4927%2Fleicester_city_v_liverpoo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The most powerful stakeholders in English soccer will black out their social media accounts to raise awareness over racism and harassment online.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/04/30/soccer-clubs-go-silent-social-media-raise-awareness-online-harassment?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/04/30/soccer-clubs-go-silent-social-media-raise-awareness-online-harassment?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 01 May 2021 03:02:00 -0700</pubDate>
  </item>
 
