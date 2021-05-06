@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/06</link>
- <lastBuildDate>Thu, 06 May 2021 14:33:58 -0700</lastBuildDate>
- <pubDate>Thu, 06 May 2021 14:33:58 -0700</pubDate>
+ <lastBuildDate>Thu, 06 May 2021 14:38:59 -0700</lastBuildDate>
+ <pubDate>Thu, 06 May 2021 14:38:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>David Swensen, Legendary Yale Endowment Chief, Died Wednesday</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4990%2Fdavid_swensen.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Known for laying the groundwork for the modern venture capital and private equity industries, Swensen made Yale's endowment office the hottest place on campus. David Swensen, the chief of Yale's endowment fund, died Wednesday evening at 67 after a nine-year battle with cancer.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/06/david-swensen-legendary-yale-endowment-chief-died-wednesday</link>
+  <author>Matty Merritt</author>
+  <categories>obituary</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/david-swensen-legendary-yale-endowment-chief-died-wednesday</guid>
+  <pubDate>Thu, 06 May 2021 14:36:58 -0700</pubDate>
+ </item>
  <item>
   <title>EU to Discuss Waiving Covid Vaccine Patent Protections</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Or the WTO could go halfway with a partial waiver, particularly if the US and EU want to keep mRNA tech out of China's hands. Moderna already said it won't enforce patent rights on its mRNA vaccine, but is willing to license the technology. In this case, a waiver would allow third parties to manufacture and sell the Covid vaccines patented by companies including Pfizer, Moderna, and Johnson &amp; Johnson. And its vaccine uses pretty established technology. Pfizer's CEO opposes a waiver.</description>
@@ -361,15 +370,6 @@
   <categories>food</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/tyson-enters-plantbased-meat-race</guid>
   <pubDate>Mon, 03 May 2021 14:41:57 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: May 3</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4934%2Fcinco_de_mayo_celebrations.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Today is World Press Freedom Day, Wednesday is Cinco de Mayo, Mother’s Day is next Sunday, and May the Fourth, aka Star Wars Day, is on Tuesday. Economic data: The April jobs report will drop on Friday.   Got any sketch ideas?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/02/week-ahead-may-3?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/week-ahead-may-3?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 03 May 2021 03:02:03 -0700</pubDate>
  </item>
 
 </channel>
