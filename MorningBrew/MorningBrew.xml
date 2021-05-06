@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/06</link>
- <lastBuildDate>Thu, 06 May 2021 03:03:54 -0700</lastBuildDate>
- <pubDate>Thu, 06 May 2021 03:03:54 -0700</pubDate>
+ <lastBuildDate>Thu, 06 May 2021 14:14:02 -0700</lastBuildDate>
+ <pubDate>Thu, 06 May 2021 14:14:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: May 7</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4988%2Fa_factory_in_china.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Read: Gen Z is bringing emo back, but it's not just a bunch of white dudes. Bloomberg columnist Matt Levine writing about, you guessed it, dogecoin.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/06/key-performance-indicators-may-7</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/key-performance-indicators-may-7</guid>
+  <pubDate>Thu, 06 May 2021 14:12:01 -0700</pubDate>
+ </item>
  <item>
   <title>Facebook Bans Trump For Six More Months</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4980%2Fthumbs_down_facebook.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Facebook handed the Oversight Board the Draw 25 card that is deciding Trump’s ban, and the Oversight Board slapped down a Reverse: It has tasked Facebook with clearing up its convoluted rules around handling prominent users like Trump. The reason social media platforms can go the latter route without fear of being sued by disgruntled users boils down to a piece of legislation: Section 230, which is looking a little weathered 25 years after being introduced. Co-chairman Michael McConnell said Facebook must restore Trump’s account, ban him permanently, or put a time limit on his suspension.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>education</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/100-college-campuses-will-require-covid-vaccinations-return-campus?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 03 May 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>App Store on Trial</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3291%2Fapple_award.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Epic knew Apple would boot Fortnite off its App Store (which it did), and then Epic hit Apple and Google with lawsuits and unleashed a 1984-style hype video. Does Apple have an illegal monopoly over app distribution?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/02/app-store-trial?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/app-store-trial?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 03 May 2021 03:02:03 -0700</pubDate>
  </item>
 
