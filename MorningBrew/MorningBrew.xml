@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/06</link>
- <lastBuildDate>Thu, 06 May 2021 14:38:59 -0700</lastBuildDate>
- <pubDate>Thu, 06 May 2021 14:38:59 -0700</pubDate>
+ <lastBuildDate>Thu, 06 May 2021 15:09:02 -0700</lastBuildDate>
+ <pubDate>Thu, 06 May 2021 15:09:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Brew’s Weekly News Quiz: May 7</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/06/brews-weekly-news-quiz-may-7</link>
+  <author>Jamie Wilde</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/brews-weekly-news-quiz-may-7</guid>
+  <pubDate>Thu, 06 May 2021 15:07:01 -0700</pubDate>
+ </item>
  <item>
   <title>David Swensen, Legendary Yale Endowment Chief, Died Wednesday</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4990%2Fdavid_swensen.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Known for laying the groundwork for the modern venture capital and private equity industries, Swensen made Yale's endowment office the hottest place on campus. David Swensen, the chief of Yale's endowment fund, died Wednesday evening at 67 after a nine-year battle with cancer.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/key-performance-indicators-may-4</guid>
   <pubDate>Mon, 03 May 2021 14:46:54 -0700</pubDate>
- </item>
- <item>
-  <title>Tyson Enters Plant-Based Meat Race</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F833%2Fburger.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Table stakes are risingBeyond Meat commands 22% of the alternative meat market, and up 'til now its biggest fights were 1) getting you to try a bite ~just for fun~ and 2) plant-based meat rival Impossible Foods.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/03/tyson-enters-plantbased-meat-race</link>
-  <author>Alex Hickey</author>
-  <categories>food</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/tyson-enters-plantbased-meat-race</guid>
-  <pubDate>Mon, 03 May 2021 14:41:57 -0700</pubDate>
  </item>
 
 </channel>
