@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/05/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/06/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/06/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/05</link>
- <lastBuildDate>Wed, 05 May 2021 15:09:01 -0700</lastBuildDate>
- <pubDate>Wed, 05 May 2021 15:09:01 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/06</link>
+ <lastBuildDate>Thu, 06 May 2021 03:03:54 -0700</lastBuildDate>
+ <pubDate>Thu, 06 May 2021 03:03:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Facebook Bans Trump For Six More Months</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4980%2Fthumbs_down_facebook.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Facebook handed the Oversight Board the Draw 25 card that is deciding Trump’s ban, and the Oversight Board slapped down a Reverse: It has tasked Facebook with clearing up its convoluted rules around handling prominent users like Trump. The reason social media platforms can go the latter route without fear of being sued by disgruntled users boils down to a piece of legislation: Section 230, which is looking a little weathered 25 years after being introduced. Co-chairman Michael McConnell said Facebook must restore Trump’s account, ban him permanently, or put a time limit on his suspension.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/05/facebook-bans-trump-six-months?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/facebook-bans-trump-six-months?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 06 May 2021 03:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Broadway Set to Reopen September 14</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4973%2Fhamilton_on_broadway.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Yesterday, NY Gov. Andrew Cuomo said that tickets for full-capacity shows will go on sale today. Headliners include Billie Eilish, Post Malone, A$AP ROCKY, and J Balvin.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/05/broadway-set-reopen-september-14?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/broadway-set-reopen-september-14?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 06 May 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 6</title>
+  <description>&lt;img src='https://media.giphy.com/media/qGPehqYF1XFRKRIE2A/giphy.gif'&gt;&lt;br/&gt;(Businessweek) Read: The untold story of how Jeff Bezos beat the tabloids. Nearly 20% of renters are behind on their payments as of January.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/05/key-performance-indicators-may-6?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/key-performance-indicators-may-6?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 06 May 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Jessica Alba's Honest Company IPOs at $2.7 billion valuation</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4979%2Fthe_honest_company_rings.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Alba's second actThe Honest Company, known for its eco-friendly and nontoxic household and baby products, launched in 2012 and grew rapidly.  But unlike Honey, Alba's company got better with age. In 2017, the company recalled baby powder and wipes.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/05/jessica-albas-honest-company-ipos-27-billion-valuation?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/jessica-albas-honest-company-ipos-27-billion-valuation?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 06 May 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Peloton Recalls Treadmills Over Safety Concerns</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2354%2Fpeloton_tread_image.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Outside of the misery they're supposed to inflict, Peloton's Tread and higher-end Tread+ have been the subject of recent safety complaints. Yesterday, Peloton recalled its treadmills due to safety concerns and apologized for not doing so sooner. Time to find a new clothes hanger other than your $4,300 Peloton treadmill.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/05/peloton-recalls-treadmills-safety-concerns?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>fitness</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/peloton-recalls-treadmills-safety-concerns?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 06 May 2021 03:02:03 -0700</pubDate>
+ </item>
  <item>
   <title>Facebook Bans Trump For Six More Months</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4980%2Fthumbs_down_facebook.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Facebook handed the Oversight Board the Draw 25 card that is deciding Trump’s ban, and the Oversight Board slapped down a Reverse: It has tasked Facebook with clearing up its convoluted rules around handling prominent users like Trump. The reason social media platforms can go the latter route without fear of being sued by disgruntled users boils down to a piece of legislation: Section 230, which is looking a little weathered 25 years after being introduced.  Facebook, Twitter, Snapchat, and Twitch all indefinitely kicked Trump off their platforms in the weeks following the riots.</description>
@@ -325,51 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/app-store-trial?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 03 May 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Warren Buffett and Charlie Munger Take on Bitcoin, Robinhood at Annual Meeting</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4933%2Fwarren_buffett_chairman.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Buffett called Apple an “extraordinary business,” and it still remains the company’s largest stock holding. and then there’s Berkshire Hathaway CEO Warren Buffett and his longtime business partner Charlie Munger. Buffett said SPACs have made it even harder for Berkshire to strike a deal at an attractive price. But since the start of the pandemic, the S&amp;P 500 has doubled up Berkshire Hathway’s stock gain, raising concerns that Buffett and Co. are out of touch with the new, tech-driven economy. As for his decision to pull out of the airline sector early in the pandemic, Buffett is perfectly comfortable with that.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/02/warren-buffett-charlie-munger-take-bitcoin-robinhood-annual-meeting?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/warren-buffett-charlie-munger-take-bitcoin-robinhood-annual-meeting?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 03 May 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 3</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4932%2Fjeans_zipper.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Motherboard)  Read: On a lighter note, the Pokémon card market is nuts right now.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/02/key-performance-indicators-may-3</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/key-performance-indicators-may-3</guid>
-  <pubDate>Sun, 02 May 2021 16:27:03 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: May 3</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4934%2Fcinco_de_mayo_celebrations.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Today is World Press Freedom Day, Wednesday is Cinco de Mayo, Mother’s Day is next Sunday, and May the Fourth, aka Star Wars Day, is on Tuesday. Economic data: The April jobs report will drop on Friday.   Got any sketch ideas?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/02/week-ahead-may-3</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/week-ahead-may-3</guid>
-  <pubDate>Sun, 02 May 2021 16:27:02 -0700</pubDate>
- </item>
- <item>
-  <title>Warren Buffett and Charlie Munger Take on Bitcoin, Robinhood at Annual Meeting</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4933%2Fwarren_buffett_chairman.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Buffett called Apple an “extraordinary business,” and it still remains the company’s largest stock holding. and then there’s Berkshire Hathaway CEO Warren Buffett and his longtime business partner Charlie Munger. Buffett said SPACs have made it even harder for Berkshire to strike a deal at an attractive price.  Robinhood: Buffett said Robinhood’s platform for retail investors was “taking advantage of the gambling instincts of society, and it isn’t admirable.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/02/warren-buffett-charlie-munger-take-bitcoin-robinhood-annual-meeting</link>
-  <author>Neal Freyman</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/warren-buffett-charlie-munger-take-bitcoin-robinhood-annual-meeting</guid>
-  <pubDate>Sun, 02 May 2021 16:21:58 -0700</pubDate>
- </item>
- <item>
-  <title>App Store on Trial</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3291%2Fapple_award.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Epic knew Apple would boot Fortnite off its App Store (which it did), and then Epic hit Apple and Google with lawsuits and unleashed a 1984-style hype video. Does Apple have an illegal monopoly over app distribution?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/02/app-store-trial</link>
-  <author>Neal Freyman</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/app-store-trial</guid>
-  <pubDate>Sun, 02 May 2021 16:21:58 -0700</pubDate>
  </item>
 
 </channel>
