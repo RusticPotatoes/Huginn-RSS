@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/06</link>
- <lastBuildDate>Thu, 06 May 2021 14:28:57 -0700</lastBuildDate>
- <pubDate>Thu, 06 May 2021 14:28:57 -0700</pubDate>
+ <lastBuildDate>Thu, 06 May 2021 14:33:58 -0700</lastBuildDate>
+ <pubDate>Thu, 06 May 2021 14:33:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>EU to Discuss Waiving Covid Vaccine Patent Protections</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Or the WTO could go halfway with a partial waiver, particularly if the US and EU want to keep mRNA tech out of China's hands. Moderna already said it won't enforce patent rights on its mRNA vaccine, but is willing to license the technology. In this case, a waiver would allow third parties to manufacture and sell the Covid vaccines patented by companies including Pfizer, Moderna, and Johnson &amp; Johnson. And its vaccine uses pretty established technology. Pfizer's CEO opposes a waiver.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/06/eu-discuss-waiving-covid-vaccine-patent-protections</link>
+  <author>Alex Hickey</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/eu-discuss-waiving-covid-vaccine-patent-protections</guid>
+  <pubDate>Thu, 06 May 2021 14:31:57 -0700</pubDate>
+ </item>
  <item>
   <title>Gensler Talks GameStop, Robinhood, and All Things Stonks</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3870%2Fgamestop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Gamification of investing: Gensler said that features on popular investing apps that simulate a "gamelike" atmosphere could lead to lower returns for the average trader (more trades = worse outcomes, per some studies).</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/week-ahead-may-3?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 03 May 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 3</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4932%2Fjeans_zipper.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Motherboard)  Read: On a lighter note, the Pokémon card market is nuts right now.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/02/key-performance-indicators-may-3?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/02/key-performance-indicators-may-3?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 03 May 2021 03:02:03 -0700</pubDate>
  </item>
 
