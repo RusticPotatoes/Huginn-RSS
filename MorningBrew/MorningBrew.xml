@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/07</link>
- <lastBuildDate>Fri, 07 May 2021 12:34:01 -0700</lastBuildDate>
- <pubDate>Fri, 07 May 2021 12:34:01 -0700</pubDate>
+ <lastBuildDate>Fri, 07 May 2021 12:43:55 -0700</lastBuildDate>
+ <pubDate>Fri, 07 May 2021 12:43:55 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Meme Battle: Not Your Grandfather's Pie Chart</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5010%2Fmeme_contest_winner.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;We'll pick a new memelord in next week's Sunday Edition and provide you with another meme template to meme-ify.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/07/meme-battle-not-grandfathers-pie-chart</link>
+  <author>Neal Freyman</author>
+  <categories>contest</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/meme-battle-not-grandfathers-pie-chart</guid>
+  <pubDate>Fri, 07 May 2021 12:41:54 -0700</pubDate>
+ </item>
  <item>
   <title>Icebreakers with...Carlos Watson</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4992%2Fcarlos_watson.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Next weekend, you can catch Watson asking more famous people questions at this year’s virtual OZY Fest, but for now, we ask the questions... You’ve interviewed lots of famous people in your career, what’s your favorite question to ask? And I love to ask people what their karaoke song is. I wish someone would always ask me, “What are your favorite books?” I’m looking forward to the sun, more of it. I love to ask people the most interesting thing they've ever learned about love—it's a really good insight especially from people like Wynton Marsalis and Ava DuVernay. What is a question that you wish people would ask you? I'm looking forward to seeing my buddy José at the YMCA. I'm looking forward to playing pickup basketball.</description>
@@ -361,15 +370,6 @@
   <categories>career</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/write-cover-letter-not-hate-process</guid>
   <pubDate>Tue, 04 May 2021 11:41:58 -0700</pubDate>
- </item>
- <item>
-  <title>C-corp vs. Pass-through Taxes: What’s the Difference?</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;For tax purposes, businesses are either pass-through entities or C corporations. You’re taxed on your entire share of business profits, regardless of whether they sit in your business or personal bank account. If you’re paying attention, you might have caught that dividends are taxed twice: once at the entity level and again on our personal tax returns. Business profits are passed through to owners, who pay taxes based on individual tax rates. I’ll owe tax on $40,000, and you’ll owe tax on the remaining $60,000. One of them is how you want your business to be taxed.  Multiple business structures are subject to pass-through taxation. Pass-through entities are businesses that pay income taxes solely on their owners’ individual tax returns. In general, solo entrepreneurs and small businesses opt for pass-through taxation since there’s less paperwork and red tape, while medium and large companies often favor C-corp tax treatment. It’s called a pass-through because the business doesn’t pay an entity-level income tax. And, you can change your business structure or tax status as your business’s needs evolve. On my tax return, I report my $40,000 salary and my share of the dividend, which is $2,000. Let’s see how that works if our phone case business is a C-corp. What is C-corp taxation?  Notice how our tax liabilities don’t take into account how much money we moved from business coffers into our personal bank accounts? C-corps report income and pay taxes on Form 1120.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/03/ccorp-vs-passthrough-taxes-whats-difference</link>
-  <author>Ryan Lasker</author>
-  <categories>taxes</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/ccorp-vs-passthrough-taxes-whats-difference</guid>
-  <pubDate>Tue, 04 May 2021 08:52:04 -0700</pubDate>
  </item>
 
 </channel>
