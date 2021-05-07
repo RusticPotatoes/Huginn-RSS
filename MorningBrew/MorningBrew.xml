@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/07</link>
- <lastBuildDate>Fri, 07 May 2021 14:23:59 -0700</lastBuildDate>
- <pubDate>Fri, 07 May 2021 14:23:59 -0700</pubDate>
+ <lastBuildDate>Fri, 07 May 2021 14:38:55 -0700</lastBuildDate>
+ <pubDate>Fri, 07 May 2021 14:38:55 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Vaccine Tracker: May 8</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The latest headlinesGetting the green light: The WHO authorized China’s Sinopharm vaccine for emergency use, the sixth vaccine to have gotten a stamp of approval from the organization.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/07/vaccine-tracker-may-8</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/vaccine-tracker-may-8</guid>
+  <pubDate>Fri, 07 May 2021 14:36:54 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 8</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5016%2Fcarl_banks_teams_with_p.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Harvard Business Review)  Read: How much energy does bitcoin actually consume?</description>
@@ -361,15 +370,6 @@
   <categories>marketing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/dominos-brings-back-villainous-mascot</guid>
   <pubDate>Tue, 04 May 2021 14:51:54 -0700</pubDate>
- </item>
- <item>
-  <title>Pfizer Reports $3.5 Billion in Q1 Earnings Thanks to Covid Vaccine</title>
-  <description>&lt;img src='https://media.giphy.com/media/1Sn2FDoXLeSApgVF8b/giphy.gif'&gt;&lt;br/&gt;It’s expected to get authorization for teens 12–15 next week. In September, it will ask the FDA for emergency use authorization for kids age 2–11. Pfizer is strapping on its stained JanSport and heading to elementary school. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/04/pfizer-reports-35-billion-q1-earnings-thanks-covid-vaccine</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/pfizer-reports-35-billion-q1-earnings-thanks-covid-vaccine</guid>
-  <pubDate>Tue, 04 May 2021 14:47:02 -0700</pubDate>
  </item>
 
 </channel>
