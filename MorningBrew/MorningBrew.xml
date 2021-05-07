@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/07</link>
- <lastBuildDate>Fri, 07 May 2021 11:58:55 -0700</lastBuildDate>
- <pubDate>Fri, 07 May 2021 11:58:55 -0700</pubDate>
+ <lastBuildDate>Fri, 07 May 2021 12:09:08 -0700</lastBuildDate>
+ <pubDate>Fri, 07 May 2021 12:09:08 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Mini: Hard</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/07/brew-mini-hard</link>
+  <author>Neal Freyman</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/brew-mini-hard</guid>
+  <pubDate>Fri, 07 May 2021 12:07:02 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Mini: Medium</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/key-performance-indicators-may-4?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 04 May 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>EPA Announces New Rule to Limit Earth-Warming Chemical</title>
-  <description>&lt;img src='https://media.giphy.com/media/xT1Ra4u2P2vWp0790Q/giphy.gif'&gt;&lt;br/&gt;That's why yesterday the EPA proposed a new rule that would limit the production and importation of hydrofluorocarbons (HFCs), chemicals used in air conditioning and refrigeration, by 85% over the next 15 years. HFCs are the mall smoothies of chemicals.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/03/epa-announces-new-rule-limit-earthwarming-chemical?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>climate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/epa-announces-new-rule-limit-earthwarming-chemical?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 04 May 2021 03:01:54 -0700</pubDate>
  </item>
 
