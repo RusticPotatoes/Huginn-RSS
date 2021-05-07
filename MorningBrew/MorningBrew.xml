@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/06/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/06/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/07/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/06</link>
- <lastBuildDate>Thu, 06 May 2021 15:09:02 -0700</lastBuildDate>
- <pubDate>Thu, 06 May 2021 15:09:02 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/07</link>
+ <lastBuildDate>Fri, 07 May 2021 03:03:55 -0700</lastBuildDate>
+ <pubDate>Fri, 07 May 2021 03:03:55 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: May 7</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4988%2Fa_factory_in_china.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Read: Gen Z is bringing emo back, but it's not just a bunch of white dudes. Bloomberg columnist Matt Levine writing about, you guessed it, dogecoin.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/06/key-performance-indicators-may-7?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/key-performance-indicators-may-7?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 07 May 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>David Swensen, Legendary Yale Endowment Chief, Died Wednesday</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4990%2Fdavid_swensen.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Known for laying the groundwork for the modern venture capital- and private equity industries, Swensen made Yale's endowment office the hottest place on campus. David Swensen, the chief of Yale's endowment fund, died Wednesday evening at 67 after a nine-year battle with cancer.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/06/david-swensen-legendary-yale-endowment-chief-died-wednesday?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>obituary</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/david-swensen-legendary-yale-endowment-chief-died-wednesday?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 07 May 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Gensler Talks GameStop, Robinhood, and All Things Stonks</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3870%2Fgamestop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Gamification of investing: Gensler said that features on popular investing apps that simulate a "gamelike" atmosphere could lead to lower returns for the average trader (more trades = worse outcomes, per some studies).</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/06/gensler-talks-gamestop-robinhood-things-stonks?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>regulation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/gensler-talks-gamestop-robinhood-things-stonks?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 07 May 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>EU to Discuss Waiving Covid Vaccine Patent Protections</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Or the WTO could go halfway with a partial waiver, particularly if the US and EU want to keep mRNA tech out of China's hands. Moderna already said it won't enforce patent rights on its mRNA vaccine, but is willing to license the technology. In this case, a waiver would allow third parties to manufacture and sell the Covid vaccines patented by companies including Pfizer, Moderna, and Johnson &amp; Johnson. And its vaccine uses pretty established technology. Pfizer's CEO opposes a waiver.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/06/eu-discuss-waiving-covid-vaccine-patent-protections?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/eu-discuss-waiving-covid-vaccine-patent-protections?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 07 May 2021 03:01:54 -0700</pubDate>
+ </item>
  <item>
   <title>The Brew’s Weekly News Quiz: May 7</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -334,42 +370,6 @@
   <categories>wealth</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/bill-melinda-gates-divorce-27-years</guid>
   <pubDate>Mon, 03 May 2021 15:07:02 -0700</pubDate>
- </item>
- <item>
-  <title>EPA Announces New Rule to Limit Earth-Warming Chemical</title>
-  <description>&lt;img src='https://media.giphy.com/media/xT1Ra4u2P2vWp0790Q/giphy.gif'&gt;&lt;br/&gt;That's why yesterday the EPA proposed a new rule that would limit the production and importation of hydrofluorocarbons (HFCs), chemicals used in air conditioning and refrigeration, by 85% over the next 15 years. HFCs are the mall smoothies of chemicals.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/03/epa-announces-new-rule-limit-earthwarming-chemical</link>
-  <author>Matty Merritt</author>
-  <categories>climate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/epa-announces-new-rule-limit-earthwarming-chemical</guid>
-  <pubDate>Mon, 03 May 2021 15:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>The Imperial Banking System: Too Far Way to Fail </title>
-  <description>&lt;img src='https://media.giphy.com/media/l3fZID6Z1JGasRtfi/giphy.gif'&gt;&lt;br/&gt;A massive government project, the second Death Star, has just been destroyed by the Rebel Alliance, and the Galactic economy was set to enter a depression of “astronomical proportions.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/03/imperial-banking-system-far-way-fail</link>
-  <author>Jamie Wilde</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/imperial-banking-system-far-way-fail</guid>
-  <pubDate>Mon, 03 May 2021 14:56:56 -0700</pubDate>
- </item>
- <item>
-  <title>Verizon Sells AOL and Yahoo to Apollo Global Management</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4951%2Faol.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, Verizon set what seems to be its final away message in its media industry ambitions, announcing a deal to sell AOL and Yahoo for $5 billion to Apollo Global Management, the private equity giant recently in the spotlight after cofounder Leon Black stepped down as chairman in March.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/03/verizon-sells-aol-yahoo-apollo-global-management</link>
-  <author>Neal Freyman</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/verizon-sells-aol-yahoo-apollo-global-management</guid>
-  <pubDate>Mon, 03 May 2021 14:52:00 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 4</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4937%2Fether_price_chart.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: The first major interview with one of the most revered comedy writers of all time.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/03/key-performance-indicators-may-4</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/03/key-performance-indicators-may-4</guid>
-  <pubDate>Mon, 03 May 2021 14:46:54 -0700</pubDate>
  </item>
 
 </channel>
