@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/07/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/08/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/07</link>
- <lastBuildDate>Fri, 07 May 2021 14:48:56 -0700</lastBuildDate>
- <pubDate>Fri, 07 May 2021 14:48:56 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/08</link>
+ <lastBuildDate>Sat, 08 May 2021 03:03:56 -0700</lastBuildDate>
+ <pubDate>Sat, 08 May 2021 03:03:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Elon Musk Hosts SNL Even Though His Whole Life Feels Like an Episode of SNL</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5020%2Fmusk_on_snl.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s SNL’s duty to give us interviews with everyone involved in this incident. All played by Melissa Villaseñor. Someone in the audience, Franz, and of course the truck itself. and it shattered. When he had a Tesla designer named Franz throw a metal ball at a Cybertruck window... When he released a song about Harambe.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/07/elon-musk-hosts-snl-even-though-whole-life-feels-like-episode-snl?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/elon-musk-hosts-snl-even-though-whole-life-feels-like-episode-snl?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 08 May 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 8</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5016%2Fcarl_banks_teams_with_p.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Harvard Business Review)  Read: How much energy does bitcoin actually consume?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/07/key-performance-indicators-may-8?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/key-performance-indicators-may-8?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 08 May 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Odds of Rocket Fragments Falling on You This Weekend are Low...But Not Zero</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5021%2Flaunch_of_chinese_rocket.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;’ You only get to complain if it actually crashes.” There’s only a small chance of it hurting a person, but with some close calls like a huge piece of SpaceX’s Falcon 9 rocket ending up on a Washington farm in April, experts are calling the actions of China’s space program irresponsible.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/07/odds-rocket-fragments-falling-weekend-lowbut-not-zero?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/odds-rocket-fragments-falling-weekend-lowbut-not-zero?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 08 May 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Vaccine Tracker: May 8</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The latest headlinesGetting the green light: The WHO authorized China’s Sinopharm vaccine for emergency use, the sixth vaccine to have gotten a stamp of approval from the organization.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/07/vaccine-tracker-may-8?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/vaccine-tracker-may-8?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 08 May 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>April Jobs Report Is a Big Whiff for the US Economy</title>
+  <description>&lt;img src='https://media.giphy.com/media/l2R04CaebgtebcxvG/giphy.gif'&gt;&lt;br/&gt;Skills mismatch: Perhaps the people looking for jobs don’t have the experience necessary to fill the types of jobs that are open.  Whereas economists had forecasted upwards of 1 million jobs added in April...   Covid reasons: Despite a blazing vaccination rollout in the US, many people might still fear getting infected with the virus at work. After the jobs report was released, the US Chamber of Commerce asked lawmakers to end the extra benefits. economists hope this jobs report was just a bizarre one-off, like Michael Jordan playing baseball.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/07/april-jobs-report-big-whiff-us-economy?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/april-jobs-report-big-whiff-us-economy?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 08 May 2021 03:01:55 -0700</pubDate>
+ </item>
  <item>
   <title>The Odds of Rocket Fragments Falling on You This Weekend are Low...But Not Zero</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5021%2Flaunch_of_chinese_rocket.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;’ You only get to complain if it actually crashes.” There’s only a small chance of it hurting a person, but with some close calls like a huge piece of SpaceX’s Falcon 9 rocket ending up on a Washington farm in April, experts are calling the actions of China’s space program irresponsible.</description>
@@ -325,51 +370,6 @@
   <categories>retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/pandora-pledges-use-labgrown-diamonds?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 05 May 2021 03:01:57 -0700</pubDate>
- </item>
- <item>
-  <title>JPMorgan Chase, Goldman Sachs, Other Big Banks Announce Plans to Bring Back Staff This Summer</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4205%2Fzoom_sadness.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;JPMorgan wants 50% of its staff back in the office (at least part-time) by July. Goldman Sachs executives revealed a plan to get US staff back at their NYC desks by June 14 and UK staff back at their Hogwarts desks by June 21.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/04/jpmorgan-chase-goldman-sachs-big-banks-announce-plans-bring-back-staff-summer?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/jpmorgan-chase-goldman-sachs-big-banks-announce-plans-bring-back-staff-summer?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 05 May 2021 03:01:57 -0700</pubDate>
- </item>
- <item>
-  <title>Pfizer Reports $3.5 Billion in Q1 Earnings Thanks to Covid Vaccine</title>
-  <description>&lt;img src='https://media.giphy.com/media/1Sn2FDoXLeSApgVF8b/giphy.gif'&gt;&lt;br/&gt;It’s expected to get authorization for 12-15-year-olds next week. In September, it will ask the FDA for emergency use authorization for kids age 2–11. Pfizer is strapping on its JanSport and heading to elementary school. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/04/pfizer-reports-35-billion-q1-earnings-thanks-covid-vaccine?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/pfizer-reports-35-billion-q1-earnings-thanks-covid-vaccine?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 05 May 2021 03:01:57 -0700</pubDate>
- </item>
- <item>
-  <title>Tiger Global Management Is Eating the VC World</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4958%2Ftiger_global_management.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s a New York-based “crossover” fund, meaning it invests in both private and public companies. During the pandemic, Tiger went on a dealmaking run for the ages that’s culminating in a new $10 billion fund, the largest ever raised by an independent fund manager for minority tech investments. But whereas SoftBank went deep in a few moonshot startups, Tiger is going wide, throwing money at founders before other investors swoop in. What is Tiger? It owned ~10% of Coinbase before its public debut.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/04/tiger-global-management-eating-vc-world?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>venture capital</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/tiger-global-management-eating-vc-world?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 05 May 2021 03:01:57 -0700</pubDate>
- </item>
- <item>
-  <title>Tiger Global Management Is Eating the VC World</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4958%2Ftiger_global_management.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s a New York-based “crossover” fund, meaning it invests in both private and public companies. During the pandemic, Tiger went on a dealmaking run for the ages that’s culminating in a new $10 billion fund, the largest ever raised by an independent fund manager for minority tech investments. But whereas SoftBank went deep in a few moonshot startups, Tiger is going wide, throwing money at founders before other investors swoop in. What is Tiger? It owned ~10% of Coinbase before its public debut.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/04/tiger-global-management-eating-vc-world</link>
-  <author>Neal Freyman</author>
-  <categories>venture capital</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/tiger-global-management-eating-vc-world</guid>
-  <pubDate>Tue, 04 May 2021 14:56:56 -0700</pubDate>
- </item>
- <item>
-  <title>Pandora Pledges to Use Only Lab-grown Diamonds</title>
-  <description>&lt;img src='https://media.giphy.com/media/QORyMrsxuazL8onufV/giphy.gif'&gt;&lt;br/&gt; Zoom out: Featured in only 50,000 of its 85 million products, diamonds aren’t Pandora’s crown jewel. Price: Man-made diamonds are up to 10x cheaper than mined ones. That hasn’t been proven, but Pandora claims it’ll make its diamonds using only renewable energy by next year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/04/pandora-pledges-use-labgrown-diamonds</link>
-  <author>Jamie Wilde</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/pandora-pledges-use-labgrown-diamonds</guid>
-  <pubDate>Tue, 04 May 2021 14:51:54 -0700</pubDate>
  </item>
 
 </channel>
