@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/09</link>
- <lastBuildDate>Sun, 09 May 2021 16:49:02 -0700</lastBuildDate>
- <pubDate>Sun, 09 May 2021 16:49:02 -0700</pubDate>
+ <lastBuildDate>Sun, 09 May 2021 16:53:56 -0700</lastBuildDate>
+ <pubDate>Sun, 09 May 2021 16:53:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: May 10</title>
+  <description>&lt;img src='https://media.giphy.com/media/XUojAIMYIIOQ9tpx2s/giphy.gif'&gt;&lt;br/&gt;(New York Times)  Read: Online cheating charges upend Dartmouth medical school. That is exactly what companies like Facebook were worried about.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/09/key-performance-indicators-may-10</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/09/key-performance-indicators-may-10</guid>
+  <pubDate>Sun, 09 May 2021 16:51:55 -0700</pubDate>
+ </item>
  <item>
   <title>Cyberattack Forces Major East Coast Pipeline to Shut Down</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5024%2Foil_pipeline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The pipeline is the main source of diesel, gasoline, and jet fuel for the East Coast. Colonial shut down the pipeline Friday as a precaution. Last week, Department of Homeland Security Secretary Alejandro Mayorkas called ransomware one of his “most significant priorities right now,” and the administration has launched an initiative to help critical infrastructure like electric utilities and water districts protect against attacks. cybersecurity poses a major challenge for the Biden administration. Looking ahead...</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>marketing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/dominos-brings-back-villainous-mascot?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 05 May 2021 03:01:57 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 5</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4959%2Fjackson_state_football_player.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Morning Brew) Read: Practical tips for writing better cover letters from Matty Merritt.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/04/key-performance-indicators-may-5?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/key-performance-indicators-may-5?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 05 May 2021 03:01:57 -0700</pubDate>
  </item>
 
