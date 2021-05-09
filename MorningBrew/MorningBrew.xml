@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/08/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/09/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/08</link>
- <lastBuildDate>Sat, 08 May 2021 03:03:56 -0700</lastBuildDate>
- <pubDate>Sat, 08 May 2021 03:03:56 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/09</link>
+ <lastBuildDate>Sun, 09 May 2021 16:49:02 -0700</lastBuildDate>
+ <pubDate>Sun, 09 May 2021 16:49:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Cyberattack Forces Major East Coast Pipeline to Shut Down</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5024%2Foil_pipeline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The pipeline is the main source of diesel, gasoline, and jet fuel for the East Coast. Colonial shut down the pipeline Friday as a precaution. Last week, Department of Homeland Security Secretary Alejandro Mayorkas called ransomware one of his “most significant priorities right now,” and the administration has launched an initiative to help critical infrastructure like electric utilities and water districts protect against attacks. cybersecurity poses a major challenge for the Biden administration. Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/09/cyberattack-forces-major-east-coast-pipeline-shut</link>
+  <author>Neal Freyman</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/09/cyberattack-forces-major-east-coast-pipeline-shut</guid>
+  <pubDate>Sun, 09 May 2021 16:47:01 -0700</pubDate>
+ </item>
  <item>
   <title>Elon Musk Hosts SNL Even Though His Whole Life Feels Like an Episode of SNL</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5020%2Fmusk_on_snl.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s SNL’s duty to give us interviews with everyone involved in this incident. All played by Melissa Villaseñor. Someone in the audience, Franz, and of course the truck itself. and it shattered. When he had a Tesla designer named Franz throw a metal ball at a Cybertruck window... When he released a song about Harambe.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/key-performance-indicators-may-5?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 05 May 2021 03:01:57 -0700</pubDate>
- </item>
- <item>
-  <title>Pandora Pledges to Use Only Lab-grown Diamonds</title>
-  <description>&lt;img src='https://media.giphy.com/media/nKux8GJ0lTEMU0jI3d/giphy.gif'&gt;&lt;br/&gt; Zoom out: Featured in only 50,000 of its 85 million products, diamonds aren’t Pandora’s crown jewel. Price: Man-made diamonds are up to 10x cheaper than mined ones. That hasn’t been proven, but Pandora claims it’ll make its diamonds using only renewable energy by next year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/04/pandora-pledges-use-labgrown-diamonds?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/pandora-pledges-use-labgrown-diamonds?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 05 May 2021 03:01:57 -0700</pubDate>
  </item>
 
