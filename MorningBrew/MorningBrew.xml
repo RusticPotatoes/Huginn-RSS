@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/09</link>
- <lastBuildDate>Sun, 09 May 2021 16:53:56 -0700</lastBuildDate>
- <pubDate>Sun, 09 May 2021 16:53:56 -0700</pubDate>
+ <lastBuildDate>Sun, 09 May 2021 17:13:59 -0700</lastBuildDate>
+ <pubDate>Sun, 09 May 2021 17:13:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: May 10</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5026%2Fny_stock_exchange_re-open.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Tomorrow is “Eat What You Want Day,” apparently.  Eid al-Fitr begins at sundown on Wednesday, marking the end of the holy month of Ramadan. but will Medina Spirit be there? Everything else:The Preakness is on Saturday...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/09/week-ahead-may-10</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/09/week-ahead-may-10</guid>
+  <pubDate>Sun, 09 May 2021 17:11:58 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 10</title>
   <description>&lt;img src='https://media.giphy.com/media/XUojAIMYIIOQ9tpx2s/giphy.gif'&gt;&lt;br/&gt;(New York Times)  Read: Online cheating charges upend Dartmouth medical school. That is exactly what companies like Facebook were worried about.</description>
@@ -361,15 +370,6 @@
   <categories>retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/jessica-albas-honest-company-ipos-27-billion-valuation</guid>
   <pubDate>Wed, 05 May 2021 14:27:00 -0700</pubDate>
- </item>
- <item>
-  <title>Domino’s Brings Back Its Villainous Mascot</title>
-  <description>&lt;img src='https://media.giphy.com/media/l2JdVSpxDFSc41Tqw/giphy.gif'&gt;&lt;br/&gt;  Fun fact: The name Noid is a nod to “Dominoid,” a nickname for the chain’s employees.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/04/dominos-brings-back-villainous-mascot?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>marketing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/04/dominos-brings-back-villainous-mascot?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 05 May 2021 03:01:57 -0700</pubDate>
  </item>
 
 </channel>
