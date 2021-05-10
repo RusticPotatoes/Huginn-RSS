@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/09</link>
- <lastBuildDate>Sun, 09 May 2021 17:13:59 -0700</lastBuildDate>
- <pubDate>Sun, 09 May 2021 17:13:59 -0700</pubDate>
+ <lastBuildDate>Sun, 09 May 2021 17:53:58 -0700</lastBuildDate>
+ <pubDate>Sun, 09 May 2021 17:53:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Kentucky Derby’s Winning Colt Failed Its Drug Test</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5028%2Fhorse_racing_may_01_kent.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The industry will try to address the issue with the Horseracing Integrity and Safety Act, which will go into effect in July of next year. But Baffert seems baffled: “There are problems in racing, but it's not Bob Baffert.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/10/kentucky-derbys-winning-colt-failed-drug-test</link>
+  <author>Jamie Wilde</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/kentucky-derbys-winning-colt-failed-drug-test</guid>
+  <pubDate>Sun, 09 May 2021 17:51:57 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: May 10</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5026%2Fny_stock_exchange_re-open.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Tomorrow is “Eat What You Want Day,” apparently.  Eid al-Fitr begins at sundown on Wednesday, marking the end of the holy month of Ramadan. but will Medina Spirit be there? Everything else:The Preakness is on Saturday...</description>
@@ -361,15 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/broadway-set-reopen-september-14</guid>
   <pubDate>Wed, 05 May 2021 14:31:53 -0700</pubDate>
- </item>
- <item>
-  <title>Jessica Alba's Honest Company IPOs at $2.7 billion valuation</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4976%2Fjessica_alba.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Alba's second actThe Honest Company, known for its eco-friendly and nontoxic household and baby products, launched in 2012 and grew rapidly.  But unlike Honey, Alba's company got better with age. In 2017, the company recalled baby powder and wipes.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/05/jessica-albas-honest-company-ipos-27-billion-valuation</link>
-  <author>Alex Hickey</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/jessica-albas-honest-company-ipos-27-billion-valuation</guid>
-  <pubDate>Wed, 05 May 2021 14:27:00 -0700</pubDate>
  </item>
 
 </channel>
