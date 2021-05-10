@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/10</link>
- <lastBuildDate>Mon, 10 May 2021 14:58:58 -0700</lastBuildDate>
- <pubDate>Mon, 10 May 2021 14:58:58 -0700</pubDate>
+ <lastBuildDate>Mon, 10 May 2021 15:04:00 -0700</lastBuildDate>
+ <pubDate>Mon, 10 May 2021 15:04:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: May 11</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5042%2Folympics.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker)  Read: A juicy profile of Robinhood and its promise to democratize investing.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/10/key-performance-indicators-may-11</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/key-performance-indicators-may-11</guid>
+  <pubDate>Mon, 10 May 2021 15:01:59 -0700</pubDate>
+ </item>
  <item>
   <title>DarkSide, the Group Behind the Colonial Pipeline Hack, Speaks Out</title>
   <description>&lt;img src='https://media.giphy.com/media/3oEjHGnY8oB4BHVTP2/giphy.gif'&gt;&lt;br/&gt;But if the shutdown takes longer to resolve, GasBuddy analysts predict gas prices rising more than a few cents. so far.  Crude prices rose about 1% yesterday, so price impacts are still minimal... In the interim, the government relaxed rules so more oil can be driven up the East Coast in tankers.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/key-performance-indicators-may-7</guid>
   <pubDate>Thu, 06 May 2021 14:12:01 -0700</pubDate>
- </item>
- <item>
-  <title>Facebook Bans Trump For Six More Months</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4980%2Fthumbs_down_facebook.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Facebook handed the Oversight Board the Draw 25 card that is deciding Trump’s ban, and the Oversight Board slapped down a Reverse: It has tasked Facebook with clearing up its convoluted rules around handling prominent users like Trump. The reason social media platforms can go the latter route without fear of being sued by disgruntled users boils down to a piece of legislation: Section 230, which is looking a little weathered 25 years after being introduced. Co-chairman Michael McConnell said Facebook must restore Trump’s account, ban him permanently, or put a time limit on his suspension.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/05/facebook-bans-trump-six-months?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>social media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/facebook-bans-trump-six-months?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 06 May 2021 03:02:04 -0700</pubDate>
  </item>
 
 </channel>
