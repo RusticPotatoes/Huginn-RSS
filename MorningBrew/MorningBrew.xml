@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/09/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/10/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/09</link>
- <lastBuildDate>Sun, 09 May 2021 17:53:58 -0700</lastBuildDate>
- <pubDate>Sun, 09 May 2021 17:53:58 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/10</link>
+ <lastBuildDate>Mon, 10 May 2021 03:03:55 -0700</lastBuildDate>
+ <pubDate>Mon, 10 May 2021 03:03:55 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: May 10</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5026%2Fny_stock_exchange_re-open.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Tomorrow is “Eat What You Want Day,” apparently.  Eid al-Fitr begins at sundown on Wednesday, marking the end of the holy month of Ramadan. but will Medina Spirit be there? Everything else:The Preakness is on Saturday...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/09/week-ahead-may-10?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/09/week-ahead-may-10?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 10 May 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 10</title>
+  <description>&lt;img src='https://media.giphy.com/media/XUojAIMYIIOQ9tpx2s/giphy.gif'&gt;&lt;br/&gt;(New York Times)  Read: Online cheating charges upend Dartmouth medical school. That is exactly what companies like Facebook were worried about.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/09/key-performance-indicators-may-10?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/09/key-performance-indicators-may-10?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 10 May 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Kentucky Derby’s Winning Colt Failed Its Drug Test</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5028%2Fhorse_racing_may_01_kent.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The industry will try to address the issue with the Horseracing Integrity and Safety Act, which will go into effect in July of next year. But Baffert seems baffled: “There are problems in racing, but it's not Bob Baffert. I don't believe in conspiracy theories, but why is it happening to me?"</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/10/kentucky-derbys-winning-colt-failed-drug-test?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/kentucky-derbys-winning-colt-failed-drug-test?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 10 May 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>From Cheese to Ubers, Prices Are Rising</title>
+  <description>&lt;img src='https://media.giphy.com/media/u7c0J0dmV0ZJm/giphy.gif'&gt;&lt;br/&gt; Commodities: Prices of copper, steel, and Catan fan-favorite resource lumber have all soared to record highs, causing a corresponding price increase in end products, like houses. Rideshare: If you thought an Uber/Lyft to Malibu was expensive before the pandemic...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/10/cheese-ubers-prices-rising-5547?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/cheese-ubers-prices-rising-5547?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 10 May 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Cyberattack Forces Major East Coast Pipeline to Shut Down</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5024%2Foil_pipeline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The pipeline is the main source of diesel, gasoline, and jet fuel for the East Coast. Colonial shut down the pipeline Friday as a precaution. Last week, Department of Homeland Security Secretary Alejandro Mayorkas called ransomware one of his “most significant priorities right now,” and the administration has launched an initiative to help critical infrastructure like electric utilities and water districts protect against attacks. cybersecurity poses a major challenge for the Biden administration. Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/09/cyberattack-forces-major-east-coast-pipeline-shut?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/09/cyberattack-forces-major-east-coast-pipeline-shut?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 10 May 2021 03:01:54 -0700</pubDate>
+ </item>
  <item>
   <title>The Kentucky Derby’s Winning Colt Failed Its Drug Test</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5028%2Fhorse_racing_may_01_kent.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The industry will try to address the issue with the Horseracing Integrity and Safety Act, which will go into effect in July of next year. But Baffert seems baffled: “There are problems in racing, but it's not Bob Baffert.</description>
@@ -325,51 +370,6 @@
   <categories>retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/jessica-albas-honest-company-ipos-27-billion-valuation?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 06 May 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Peloton Recalls Treadmills Over Safety Concerns</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2354%2Fpeloton_tread_image.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Outside of the misery they're supposed to inflict, Peloton's Tread and higher-end Tread+ have been the subject of recent safety complaints. Yesterday, Peloton recalled its treadmills due to safety concerns and apologized for not doing so sooner. Time to find a new clothes hanger other than your $4,300 Peloton treadmill.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/05/peloton-recalls-treadmills-safety-concerns?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>fitness</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/peloton-recalls-treadmills-safety-concerns?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 06 May 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Facebook Bans Trump For Six More Months</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4980%2Fthumbs_down_facebook.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Facebook handed the Oversight Board the Draw 25 card that is deciding Trump’s ban, and the Oversight Board slapped down a Reverse: It has tasked Facebook with clearing up its convoluted rules around handling prominent users like Trump. The reason social media platforms can go the latter route without fear of being sued by disgruntled users boils down to a piece of legislation: Section 230, which is looking a little weathered 25 years after being introduced.  Facebook, Twitter, Snapchat, and Twitch all indefinitely kicked Trump off their platforms in the weeks following the riots.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/05/facebook-bans-trump-six-months</link>
-  <author>Jamie Wilde</author>
-  <categories>social media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/facebook-bans-trump-six-months</guid>
-  <pubDate>Wed, 05 May 2021 15:07:00 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 6</title>
-  <description>&lt;img src='https://media.giphy.com/media/qGPehqYF1XFRKRIE2A/giphy.gif'&gt;&lt;br/&gt;(Businessweek) Read: The untold story of how Jeff Bezos beat the tabloids. Nearly 20% of renters are behind on their payments as of January.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/05/key-performance-indicators-may-6</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/key-performance-indicators-may-6</guid>
-  <pubDate>Wed, 05 May 2021 14:46:57 -0700</pubDate>
- </item>
- <item>
-  <title>Peloton Recalls Treadmills Over Safety Concerns</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2354%2Fpeloton_tread_image.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Outside of the misery they're supposed to inflict, Peloton's Tread and higher-end Tread+ have been the subject of recent safety complaints. Yesterday, Peloton recalled its treadmills due to safety concerns and apologized for not doing so sooner. Time to find a new clothes hanger other than your $4,300 Peloton treadmill.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/05/peloton-recalls-treadmills-safety-concerns</link>
-  <author>Alex Hickey</author>
-  <categories>fitness</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/peloton-recalls-treadmills-safety-concerns</guid>
-  <pubDate>Wed, 05 May 2021 14:36:54 -0700</pubDate>
- </item>
- <item>
-  <title>Broadway Set to Reopen September 14</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4973%2Fhamilton_on_broadway.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Yesterday, NY Gov. Andrew Cuomo said that tickets for full-capacity shows will go on sale today. Headliners include Billie Eilish, Post Malone, A$AP ROCKY, and J Balvin.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/05/broadway-set-reopen-september-14</link>
-  <author>Neal Freyman</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/05/broadway-set-reopen-september-14</guid>
-  <pubDate>Wed, 05 May 2021 14:31:53 -0700</pubDate>
  </item>
 
 </channel>
