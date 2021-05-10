@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/10</link>
- <lastBuildDate>Mon, 10 May 2021 15:04:00 -0700</lastBuildDate>
- <pubDate>Mon, 10 May 2021 15:04:00 -0700</pubDate>
+ <lastBuildDate>Mon, 10 May 2021 15:13:53 -0700</lastBuildDate>
+ <pubDate>Mon, 10 May 2021 15:13:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Restaurants Struggling to Hire Staff as Lockdowns Lift</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5043%2Fwe_re_hiring.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Restaurants have elevated sanitation requirements, plenty of food supply chain issues, and an average annual salary of only $21,470 to serve brunch crowds that have been locked inside for a year. demand for eating out will only increase over the summer, so restaurant chains are raising pay and even finding creative methods to recruit workers. It appears that the restaurant industry in particular just isn't all that attractive for people looking for work.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/10/restaurants-struggling-hire-staff-lockdowns-lift</link>
+  <author>Matty Merritt</author>
+  <categories>restaurants</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/restaurants-struggling-hire-staff-lockdowns-lift</guid>
+  <pubDate>Mon, 10 May 2021 15:12:03 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 11</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5042%2Folympics.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker)  Read: A juicy profile of Robinhood and its promise to democratize investing.</description>
@@ -361,15 +370,6 @@
   <categories>regulation</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/gensler-talks-gamestop-robinhood-things-stonks</guid>
   <pubDate>Thu, 06 May 2021 14:26:56 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 7</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4988%2Fa_factory_in_china.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Read: Gen Z is bringing emo back, but it's not just a bunch of white dudes. Bloomberg columnist Matt Levine writing about, you guessed it, dogecoin.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/06/key-performance-indicators-may-7</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/key-performance-indicators-may-7</guid>
-  <pubDate>Thu, 06 May 2021 14:12:01 -0700</pubDate>
  </item>
 
 </channel>
