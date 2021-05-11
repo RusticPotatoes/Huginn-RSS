@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/10/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/11/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/11/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/10</link>
- <lastBuildDate>Mon, 10 May 2021 17:38:59 -0700</lastBuildDate>
- <pubDate>Mon, 10 May 2021 17:38:59 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/11</link>
+ <lastBuildDate>Tue, 11 May 2021 03:04:00 -0700</lastBuildDate>
+ <pubDate>Tue, 11 May 2021 03:04:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>NBC Says it Won't Air Golden Globes in 2022</title>
+  <description>&lt;img src='https://media.giphy.com/media/cDiPRArTjzmcUp0vR2/giphy.gif'&gt;&lt;br/&gt;The context: The HFPA, an 87-member organization that votes on TV and movie awards, was the focus of a February report in the LA Times that found the group had zero Black members and was doing sketchy things, like flying to lavish parties for Emily in Paris—a series that received two Golden Globe nominations despite low critical approval.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/10/nbc-says-wont-air-golden-globes-2022?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/nbc-says-wont-air-golden-globes-2022?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 11 May 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 11</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5042%2Folympics.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker)  Read: A juicy profile of Robinhood and its promise to democratize investing.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/10/key-performance-indicators-may-11?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/key-performance-indicators-may-11?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 11 May 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Attorneys General Ask Facebook to Drop Plans for Instagram for Kids</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1607%2Finstagram_on_puase_influencers.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, a group of 44 attorneys general asked Facebook CEO Mark Zuckerberg to ditch plans to develop an Instagram platform for children younger than 13, the current age cutoff for FB services. Bottom line: Just because you can make a product for kids doesn't mean you should."</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/10/attorneys-general-ask-facebook-drop-plans-instagram-kids?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/attorneys-general-ask-facebook-drop-plans-instagram-kids?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 11 May 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>DarkSide, the Group Behind the Colonial Pipeline Hack, Speaks Out</title>
+  <description>&lt;img src='https://media.giphy.com/media/3oEjHGnY8oB4BHVTP2/giphy.gif'&gt;&lt;br/&gt; Can't fix a pipeline problem overnightYesterday, the pipeline's operator, Colonial, said it's hoping to bring the full system back online by the end of the week. But if the shutdown takes longer than expected to resolve, GasBuddy analysts predict gas prices could rise more than a few cents. so far.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/10/darkside-group-behind-colonial-pipeline-hack-speaks?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/darkside-group-behind-colonial-pipeline-hack-speaks?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 11 May 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Restaurants Struggling to Hire Staff as Lockdowns Lift</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5043%2Fwe_re_hiring.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Restaurants have elevated sanitation requirements, plenty of food supply chain issues, and an average annual salary of only $21,470 to serve brunch crowds that have been locked inside for a year. demand for eating out will only increase over the summer, so restaurant chains are raising pay and finding other creative methods to recruit workers. It appears that the restaurant industry in particular just isn't all that attractive for people looking for work.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/10/restaurants-struggling-hire-staff-lockdowns-lift?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>restaurants</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/restaurants-struggling-hire-staff-lockdowns-lift?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 11 May 2021 03:01:59 -0700</pubDate>
+ </item>
  <item>
   <title>From Cheese to Ubers, Prices Are Rising</title>
   <description>&lt;img src='https://media.giphy.com/media/u7c0J0dmV0ZJm/giphy.gif'&gt;&lt;br/&gt;Commodities: Prices of copper, steel, and Catan fan-favorite resource lumber have all soared to record highs, causing a corresponding price increase in end products, like houses. Rideshare: If you thought an Uber/Lyft to Malibu was expensive before the pandemic...</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/key-performance-indicators-may-7?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 07 May 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>David Swensen, Legendary Yale Endowment Chief, Died Wednesday</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4990%2Fdavid_swensen.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Known for laying the groundwork for the modern venture capital- and private equity industries, Swensen made Yale's endowment office the hottest place on campus. David Swensen, the chief of Yale's endowment fund, died Wednesday evening at 67 after a nine-year battle with cancer.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/06/david-swensen-legendary-yale-endowment-chief-died-wednesday?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>obituary</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/david-swensen-legendary-yale-endowment-chief-died-wednesday?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 07 May 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Gensler Talks GameStop, Robinhood, and All Things Stonks</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3870%2Fgamestop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Gamification of investing: Gensler said that features on popular investing apps that simulate a "gamelike" atmosphere could lead to lower returns for the average trader (more trades = worse outcomes, per some studies).</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/06/gensler-talks-gamestop-robinhood-things-stonks?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>regulation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/gensler-talks-gamestop-robinhood-things-stonks?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 07 May 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>EU to Discuss Waiving Covid Vaccine Patent Protections</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Or the WTO could go halfway with a partial waiver, particularly if the US and EU want to keep mRNA tech out of China's hands. Moderna already said it won't enforce patent rights on its mRNA vaccine, but is willing to license the technology. In this case, a waiver would allow third parties to manufacture and sell the Covid vaccines patented by companies including Pfizer, Moderna, and Johnson &amp; Johnson. And its vaccine uses pretty established technology. Pfizer's CEO opposes a waiver.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/06/eu-discuss-waiving-covid-vaccine-patent-protections?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>pharma</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/eu-discuss-waiving-covid-vaccine-patent-protections?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 07 May 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: May 7</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/06/brews-weekly-news-quiz-may-7</link>
-  <author>Jamie Wilde</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/brews-weekly-news-quiz-may-7</guid>
-  <pubDate>Thu, 06 May 2021 15:07:01 -0700</pubDate>
- </item>
- <item>
-  <title>David Swensen, Legendary Yale Endowment Chief, Died Wednesday</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4990%2Fdavid_swensen.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Known for laying the groundwork for the modern venture capital and private equity industries, Swensen made Yale's endowment office the hottest place on campus. David Swensen, the chief of Yale's endowment fund, died Wednesday evening at 67 after a nine-year battle with cancer.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/06/david-swensen-legendary-yale-endowment-chief-died-wednesday</link>
-  <author>Matty Merritt</author>
-  <categories>obituary</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/david-swensen-legendary-yale-endowment-chief-died-wednesday</guid>
-  <pubDate>Thu, 06 May 2021 14:36:58 -0700</pubDate>
  </item>
 
 </channel>
