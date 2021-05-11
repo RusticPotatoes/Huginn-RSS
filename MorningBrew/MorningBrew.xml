@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/11</link>
- <lastBuildDate>Tue, 11 May 2021 03:04:00 -0700</lastBuildDate>
- <pubDate>Tue, 11 May 2021 03:04:00 -0700</pubDate>
+ <lastBuildDate>Tue, 11 May 2021 14:29:02 -0700</lastBuildDate>
+ <pubDate>Tue, 11 May 2021 14:29:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: May 12</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4646%2Fhiring_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Eater)  Read: Your last favorite gross viral food videos are all connected to one guy. FWIW, fellow mayoral candidate Shaun Donovan, who was the former Secretary of Housing and Urban Development, guessed $100,000.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/11/key-performance-indicators-may-12</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/11/key-performance-indicators-may-12</guid>
+  <pubDate>Tue, 11 May 2021 14:27:01 -0700</pubDate>
+ </item>
  <item>
   <title>NBC Says it Won't Air Golden Globes in 2022</title>
   <description>&lt;img src='https://media.giphy.com/media/cDiPRArTjzmcUp0vR2/giphy.gif'&gt;&lt;br/&gt;The context: The HFPA, an 87-member organization that votes on TV and movie awards, was the focus of a February report in the LA Times that found the group had zero Black members and was doing sketchy things, like flying to lavish parties for Emily in Paris—a series that received two Golden Globe nominations despite low critical approval.</description>
@@ -361,15 +370,6 @@
   <categories>taxes</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/everything-need-know-cryptocurrency-taxes</guid>
   <pubDate>Fri, 07 May 2021 06:47:00 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 7</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4988%2Fa_factory_in_china.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Read: Gen Z is bringing emo back, but it's not just a bunch of white dudes. Bloomberg columnist Matt Levine writing about, you guessed it, dogecoin.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/06/key-performance-indicators-may-7?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/key-performance-indicators-may-7?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 07 May 2021 03:01:55 -0700</pubDate>
  </item>
 
 </channel>
