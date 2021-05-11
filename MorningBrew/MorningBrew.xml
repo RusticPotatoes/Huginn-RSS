@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/11</link>
- <lastBuildDate>Tue, 11 May 2021 14:29:02 -0700</lastBuildDate>
- <pubDate>Tue, 11 May 2021 14:29:02 -0700</pubDate>
+ <lastBuildDate>Tue, 11 May 2021 14:38:54 -0700</lastBuildDate>
+ <pubDate>Tue, 11 May 2021 14:38:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Gambling Revenue Soars in Q1 to Hit Record</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1221%2Flas_vegas.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Las Vegas is back, if you trust all the lines out the door at McCarran International Airport. US commercial casinos raked in $11.1 billion last quarter, according to the American Gaming Association, matching their best quarter ever.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/11/gambling-revenue-soars-q1-hit-record</link>
+  <author>Neal Freyman</author>
+  <categories>gambling</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/11/gambling-revenue-soars-q1-hit-record</guid>
+  <pubDate>Tue, 11 May 2021 14:36:54 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 12</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4646%2Fhiring_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Eater)  Read: Your last favorite gross viral food videos are all connected to one guy. FWIW, fellow mayoral candidate Shaun Donovan, who was the former Secretary of Housing and Urban Development, guessed $100,000.</description>
@@ -361,15 +370,6 @@
   <categories>games</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/brew-mini-easy-difficulty</guid>
   <pubDate>Fri, 07 May 2021 11:52:01 -0700</pubDate>
- </item>
- <item>
-  <title>Everything You Need to Know About Cryptocurrency and Taxes</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt; Checking out with crypto can trigger a tax billSo you know how investing in your favorite digital coin can affect your taxes, but have you considered what happens when you use crypto to pay for a coffee…or car? Jordan Bass, a tax attorney and founder of Taxing Cryptocurrency, said the IRS isn’t easing off its crackdown on virtual currency taxation. Tax software or a crypto tax professional can help you make sense of it. The IRS really, really wants you to know that cryptocurrency transactions are taxable. In other words, you don’t have to think about taxes on cryptocurrency until you exchange or sell it. Though we call it a “currency,” the IRS doesn’t treat crypto like yen or euros. The campaign’s goal is to snuff out taxpayers who aren’t following the crypto tax rules. In 2019, the IRS sent letters to more than 10,000 taxpayers who potentially owed back taxes on unreported virtual currency transactions. “I think we're only going to see a step up in enforcement, specifically because of what we're seeing in the decentralized finance world,” Bass said. Noticing that taxpayers still weren’t reporting their digital money moves, the IRS sued crypto exchange Coinbase and partially won to collect user data. The IRS will ask for a slice of your $45,000 proceeds, which is called a capital gain. The IRS published its first official guidance on virtual currency taxability in 2014.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/07/everything-need-know-cryptocurrency-taxes</link>
-  <author>Ryan Lasker</author>
-  <categories>taxes</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/everything-need-know-cryptocurrency-taxes</guid>
-  <pubDate>Fri, 07 May 2021 06:47:00 -0700</pubDate>
  </item>
 
 </channel>
