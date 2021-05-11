@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/10</link>
- <lastBuildDate>Mon, 10 May 2021 15:18:56 -0700</lastBuildDate>
- <pubDate>Mon, 10 May 2021 15:18:56 -0700</pubDate>
+ <lastBuildDate>Mon, 10 May 2021 17:38:59 -0700</lastBuildDate>
+ <pubDate>Mon, 10 May 2021 17:38:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>From Cheese to Ubers, Prices Are Rising</title>
+  <description>&lt;img src='https://media.giphy.com/media/u7c0J0dmV0ZJm/giphy.gif'&gt;&lt;br/&gt;Commodities: Prices of copper, steel, and Catan fan-favorite resource lumber have all soared to record highs, causing a corresponding price increase in end products, like houses. Rideshare: If you thought an Uber/Lyft to Malibu was expensive before the pandemic...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/10/cheese-ubers-prices-rising</link>
+  <author>Jamie Wilde</author>
+  <categories>prices</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/cheese-ubers-prices-rising</guid>
+  <pubDate>Mon, 10 May 2021 17:36:58 -0700</pubDate>
+ </item>
  <item>
   <title>NBC Says it Won't Air Golden Globes in 2022</title>
   <description>&lt;img src='https://media.giphy.com/media/cDiPRArTjzmcUp0vR2/giphy.gif'&gt;&lt;br/&gt;The context: The HFPA, an 87-member organization that votes on TV and movie awards, was the focus of a February report in the LA Times that found the group had zero Black members and was doing sketchy things, like flying to lavish parties for Emily in Paris—a series that received two Golden Globe nominations despite low critic approval across the board.</description>
@@ -361,15 +370,6 @@
   <categories>obituary</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/david-swensen-legendary-yale-endowment-chief-died-wednesday</guid>
   <pubDate>Thu, 06 May 2021 14:36:58 -0700</pubDate>
- </item>
- <item>
-  <title>EU to Discuss Waiving Covid Vaccine Patent Protections</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Or the WTO could go halfway with a partial waiver, particularly if the US and EU want to keep mRNA tech out of China's hands. Moderna already said it won't enforce patent rights on its mRNA vaccine, but is willing to license the technology. In this case, a waiver would allow third parties to manufacture and sell the Covid vaccines patented by companies including Pfizer, Moderna, and Johnson &amp; Johnson. And its vaccine uses pretty established technology. Pfizer's CEO opposes a waiver.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/06/eu-discuss-waiving-covid-vaccine-patent-protections</link>
-  <author>Alex Hickey</author>
-  <categories>pharma</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/06/eu-discuss-waiving-covid-vaccine-patent-protections</guid>
-  <pubDate>Thu, 06 May 2021 14:31:57 -0700</pubDate>
  </item>
 
 </channel>
