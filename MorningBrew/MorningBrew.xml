@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/11</link>
- <lastBuildDate>Tue, 11 May 2021 14:43:56 -0700</lastBuildDate>
- <pubDate>Tue, 11 May 2021 14:43:56 -0700</pubDate>
+ <lastBuildDate>Tue, 11 May 2021 14:48:56 -0700</lastBuildDate>
+ <pubDate>Tue, 11 May 2021 14:48:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Gas Shortages Are Here</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5050%2Fgas_buddy_tweet.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: Gas prices are at their highest level since 2014, per AAA.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/11/gas-shortages</link>
+  <author>Neal Freyman</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/11/gas-shortages</guid>
+  <pubDate>Tue, 11 May 2021 14:46:55 -0700</pubDate>
+ </item>
  <item>
   <title>New Cryptocurrency Trading Platform Bullish Takes on Decentralized Finance</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5049%2Fbullish_cryptocurrency.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The other reason's a bit simpler…Crypto is the new Snack Pack puddingTrading on big-time crypto exchanges surged from less than $100 billion in April 2020 to $1.7 trillion last month, per data from The Block Crypto. The market ballooned from about $15 billion at the start of the year to $65 billion currently, per JPMorgan.  Bullish will run on Block. Meet Bullish Global, which will open later this year with $10 billion of crypto assets pre-loaded and ready to trade, including 164,000 bitcoins.</description>
@@ -361,15 +370,6 @@
   <categories>crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/meet-jasyn-prolifiq-dogecoin-millionaire</guid>
   <pubDate>Fri, 07 May 2021 12:32:00 -0700</pubDate>
- </item>
- <item>
-  <title>Make It Work: When You're Doing Two Jobs at Once</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  —Earl  Don't know but shoutout to my mama and 'em.  “I have a very strong urge to quit my job to pursue something I’m actually interested in but am scared to quit. Also, let them know if this kind of work is something you might be interested in continuing. I also hope that you knowing that you’re planning your exit helps with whatever it is you’re feeling about your current role. Ask Kate for advice here.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/07/make-work-youre-two-jobs</link>
-  <author>Neal Freyman</author>
-  <categories>work life</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/make-work-youre-two-jobs</guid>
-  <pubDate>Fri, 07 May 2021 12:31:59 -0700</pubDate>
  </item>
 
 </channel>
