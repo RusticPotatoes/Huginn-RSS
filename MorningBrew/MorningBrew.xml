@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/11/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/11/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/12/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/11</link>
- <lastBuildDate>Tue, 11 May 2021 14:48:56 -0700</lastBuildDate>
- <pubDate>Tue, 11 May 2021 14:48:56 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/12</link>
+ <lastBuildDate>Wed, 12 May 2021 03:04:01 -0700</lastBuildDate>
+ <pubDate>Wed, 12 May 2021 03:04:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Reader Q&amp;A: Is Inflation Bad for Stocks?</title>
+  <description>&lt;img src='https://media.giphy.com/media/zntF1aeUvEdKWUEEB8/giphy.gif'&gt;&lt;br/&gt;Brew's A: Prices on everything from cereal to ride-hailing services are rising right now, and some investors are getting antsy about inflation, or the rate at which the prices of goods and services rise.  At its last reading in April, the consumer price index (CPI), an indicator of the cost for a "basket" of typical consumer goods and services, was up 2.6% over the preceding 12 months.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/11/reader-qa-inflation-bad-stocks?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>explainer</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/11/reader-qa-inflation-bad-stocks?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 12 May 2021 03:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 12</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4646%2Fhiring_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Eater)  Read: Your least favorite gross viral food videos are all connected to one guy. FWIW, fellow mayoral candidate Shaun Donovan, who was the former Secretary of Housing and Urban Development, guessed $100,000.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/11/key-performance-indicators-may-12?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/11/key-performance-indicators-may-12?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 12 May 2021 03:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>YouTube Shorts Sets Up $100M Creators Fund</title>
+  <description>&lt;img src='https://media.giphy.com/media/l0X9Z3f6D41QKrnOf0/source.gif'&gt;&lt;br/&gt;To support its short-form video product, Shorts, YouTube is setting up a $100 million fund to lure creators away from other platforms, such as TikTok. OK, mostly from TikTok. Shorts? And TikTok recently expanded its fund for US creators to $1 billion over three years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/11/youtube-shorts-sets-100m-creators-fund?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/11/youtube-shorts-sets-100m-creators-fund?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 12 May 2021 03:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Gas Shortages Are Here</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5051%2Fgasoline_shortages.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: Gas prices are at their highest level since 2014, per AAA.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/11/gas-shortages?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/11/gas-shortages?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 12 May 2021 03:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>New Cryptocurrency Trading Platform Bullish Takes on Decentralized Finance</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5049%2Fbullish_cryptocurrency.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;one's own blockchain to cut out the market makers, which traditionally execute a transaction and profit on the difference between the price you paid and how much they actually made the trade for, aka the "spread." The other reason's a bit simpler…Crypto is the new Snack Pack puddingTrading on big-time crypto exchanges surged from less than $100 billion in April 2020 to $1.7 trillion last month, per data from The Block Crypto. The market ballooned from about $15 billion at the start of the year to $65 billion currently, per JPMorgan.  Bullish will run on Block.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/11/new-cryptocurrency-trading-platform-bullish-takes-decentralized-finance?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>cryptocurrency</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/11/new-cryptocurrency-trading-platform-bullish-takes-decentralized-finance?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 12 May 2021 03:02:00 -0700</pubDate>
+ </item>
  <item>
   <title>The Gas Shortages Are Here</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5050%2Fgas_buddy_tweet.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: Gas prices are at their highest level since 2014, per AAA.</description>
@@ -325,51 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/elon-musk-hosts-snl-even-though-whole-life-feels-like-episode-snl</guid>
   <pubDate>Fri, 07 May 2021 14:41:55 -0700</pubDate>
- </item>
- <item>
-  <title>Vaccine Tracker: May 8</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The latest headlinesGetting the green light: The WHO authorized China’s Sinopharm vaccine for emergency use, the sixth vaccine to have gotten a stamp of approval from the organization.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/07/vaccine-tracker-may-8</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/vaccine-tracker-may-8</guid>
-  <pubDate>Fri, 07 May 2021 14:36:54 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 8</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5016%2Fcarl_banks_teams_with_p.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Harvard Business Review)  Read: How much energy does bitcoin actually consume?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/07/key-performance-indicators-may-8</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/key-performance-indicators-may-8</guid>
-  <pubDate>Fri, 07 May 2021 14:21:58 -0700</pubDate>
- </item>
- <item>
-  <title>Meme Battle: Not Your Grandfather's Pie Chart</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5010%2Fmeme_contest_winner.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;We'll pick a new memelord in next week's Sunday Edition and provide you with another meme template to meme-ify.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/07/meme-battle-not-grandfathers-pie-chart</link>
-  <author>Neal Freyman</author>
-  <categories>contest</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/meme-battle-not-grandfathers-pie-chart</guid>
-  <pubDate>Fri, 07 May 2021 12:41:54 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers with...Carlos Watson</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4992%2Fcarlos_watson.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Next weekend, you can catch Watson asking more famous people questions at this year’s virtual OZY Fest, but for now, we ask the questions... You’ve interviewed lots of famous people in your career, what’s your favorite question to ask? And I love to ask people what their karaoke song is. I wish someone would always ask me, “What are your favorite books?” I’m looking forward to the sun, more of it. I love to ask people the most interesting thing they've ever learned about love—it's a really good insight especially from people like Wynton Marsalis and Ava DuVernay. What is a question that you wish people would ask you? I'm looking forward to seeing my buddy José at the YMCA. I'm looking forward to playing pickup basketball.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/07/icebreakers-withcarlos-watson</link>
-  <author>Matty Merritt</author>
-  <categories>qanda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/icebreakers-withcarlos-watson</guid>
-  <pubDate>Fri, 07 May 2021 12:32:00 -0700</pubDate>
- </item>
- <item>
-  <title>Meet Jasyn Prolifiq, the Dogecoin Millionaire</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4975%2Fjasyn_prolifiq.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;thedogecoinmillionaire. Prolifiq remains bullish about the crypto, but he’s also preparing a content side hustle for life whether dogecoin goes to the moon or burns up before it reaches orbit.  February 7: By 6:59pm ET dogecoin hit $0.08.   Prolifiq first got into investing a few years ago when he bought his first Tesla stock. In February, Elon Musk said that people should not be putting their life savings into cryptocurrency. April 15: Dogecoin hit $0.29 and Prolifiq became a paper millionaire. Prolifiq said he invested ~$180,000 into the meme stock when it was less than $0.05 on February 5, and on April 15, exactly 69 days later—an important number in the doge community because of... “I’m just a dude,” Jasyn Prolifiq said. May 5: Prolifiq’s holdings rose to $2.7 million when dogecoin hit $0.65, up 13,960.31% YTD and close to its all-time high of $0.69, per CoinDesk. He’s already bought the web domain www.  So what about the guy who did?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/07/meet-jasyn-prolifiq-dogecoin-millionaire</link>
-  <author>Matty Merritt</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/meet-jasyn-prolifiq-dogecoin-millionaire</guid>
-  <pubDate>Fri, 07 May 2021 12:32:00 -0700</pubDate>
  </item>
 
 </channel>
