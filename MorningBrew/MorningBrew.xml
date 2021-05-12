@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/12</link>
- <lastBuildDate>Wed, 12 May 2021 14:28:54 -0700</lastBuildDate>
- <pubDate>Wed, 12 May 2021 14:28:54 -0700</pubDate>
+ <lastBuildDate>Wed, 12 May 2021 14:34:00 -0700</lastBuildDate>
+ <pubDate>Wed, 12 May 2021 14:34:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Bill Ackman’s Pershing Square Snaps Up 6% of Domino’s</title>
+  <description>&lt;img src='https://media.giphy.com/media/Q73Bb4tlFNtJlmagIk/giphy.gif'&gt;&lt;br/&gt;  Zoom out: This pizza party has been rocking for years.  Ackman said that he’s had his eye on Domino’s for a while, specifically watching how the company does its own delivery in the DoorDash-era.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/12/bill-ackmans-pershing-square-snaps-6-dominos</link>
+  <author>Jamie Wilde</author>
+  <categories>restaurant</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/12/bill-ackmans-pershing-square-snaps-6-dominos</guid>
+  <pubDate>Wed, 12 May 2021 14:31:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 13</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5061%2Fsoftbank_ceo_masayoshi_so.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Those who are least engaged are very comfortable working from home.” (Vice) It’s not like he has anything riding on the office market…Read: How the personal computer broke the human body.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/12/key-performance-indicators-may-13</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/12/key-performance-indicators-may-13</guid>
+  <pubDate>Wed, 12 May 2021 14:31:59 -0700</pubDate>
+ </item>
  <item>
   <title>Inflation Is Rising Because the Economy Is Weird</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5060%2Finflation_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Is this rapid inflation growth temporary? Which brings us to the question raging among economists.  So, many officials are betting that once the economy irons out the wrinkles, price growth will settle down to more typical levels. US consumer prices rose 4.2% in April from a year ago, up from the 2.6% gain in March and more than economists expected. May’s numbers will better help policymakers understand whether inflation is less “transitory” than it appears to be. “This number was well above what I and outside forecasters expected.”</description>
@@ -352,24 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/vaccine-tracker-may-8?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 08 May 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>April Jobs Report Is a Big Whiff for the US Economy</title>
-  <description>&lt;img src='https://media.giphy.com/media/l2R04CaebgtebcxvG/giphy.gif'&gt;&lt;br/&gt;Skills mismatch: Perhaps the people looking for jobs don’t have the experience necessary to fill the types of jobs that are open.  Whereas economists had forecasted upwards of 1 million jobs added in April...   Covid reasons: Despite a blazing vaccination rollout in the US, many people might still fear getting infected with the virus at work. After the jobs report was released, the US Chamber of Commerce asked lawmakers to end the extra benefits. economists hope this jobs report was just a bizarre one-off, like Michael Jordan playing baseball.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/07/april-jobs-report-big-whiff-us-economy?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/april-jobs-report-big-whiff-us-economy?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 08 May 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>The Odds of Rocket Fragments Falling on You This Weekend are Low...But Not Zero</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5021%2Flaunch_of_chinese_rocket.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;’ You only get to complain if it actually crashes.” There’s only a small chance of it hurting a person, but with some close calls like a huge piece of SpaceX’s Falcon 9 rocket ending up on a Washington farm in April, experts are calling the actions of China’s space program irresponsible.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/07/odds-rocket-fragments-falling-weekend-lowbut-not-zero</link>
-  <author>Matty Merritt</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/odds-rocket-fragments-falling-weekend-lowbut-not-zero</guid>
-  <pubDate>Fri, 07 May 2021 14:46:56 -0700</pubDate>
  </item>
 
 </channel>
