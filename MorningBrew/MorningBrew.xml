@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/12</link>
- <lastBuildDate>Wed, 12 May 2021 03:04:01 -0700</lastBuildDate>
- <pubDate>Wed, 12 May 2021 03:04:01 -0700</pubDate>
+ <lastBuildDate>Wed, 12 May 2021 09:08:54 -0700</lastBuildDate>
+ <pubDate>Wed, 12 May 2021 09:08:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>US Gambling Revenue Booms in Q1 to Match Record</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1221%2Flas_vegas.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Las Vegas is back, if you trust all the lines out the door at McCarran International Airport. US commercial casinos raked in $11.1 billion last quarter, according to the American Gaming Association, matching their best quarter ever.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/12/us-gambling-revenue-booms-q1-match-record</link>
+  <author>Neal Freyman</author>
+  <categories>gambling</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/12/us-gambling-revenue-booms-q1-match-record</guid>
+  <pubDate>Wed, 12 May 2021 09:06:53 -0700</pubDate>
+ </item>
  <item>
   <title>Reader Q&amp;A: Is Inflation Bad for Stocks?</title>
   <description>&lt;img src='https://media.giphy.com/media/zntF1aeUvEdKWUEEB8/giphy.gif'&gt;&lt;br/&gt;Brew's A: Prices on everything from cereal to ride-hailing services are rising right now, and some investors are getting antsy about inflation, or the rate at which the prices of goods and services rise.  At its last reading in April, the consumer price index (CPI), an indicator of the cost for a "basket" of typical consumer goods and services, was up 2.6% over the preceding 12 months.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/april-jobs-report-big-whiff-us-economy</guid>
-  <pubDate>Fri, 07 May 2021 14:41:55 -0700</pubDate>
- </item>
- <item>
-  <title>Elon Musk Hosts SNL Even Though His Whole Life Feels Like an Episode of SNL</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5020%2Fmusk_on_snl.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s SNL’s duty to give us interviews with everyone involved in this incident. All played by Melissa Villaseñor. Someone in the audience, Franz, and of course the truck itself. and it shattered. When he had a Tesla designer named Franz throw a metal ball at a Cybertruck window... When he released a song about Harambe.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/07/elon-musk-hosts-snl-even-though-whole-life-feels-like-episode-snl</link>
-  <author>Matty Merritt</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/elon-musk-hosts-snl-even-though-whole-life-feels-like-episode-snl</guid>
   <pubDate>Fri, 07 May 2021 14:41:55 -0700</pubDate>
  </item>
 
