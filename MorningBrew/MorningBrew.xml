@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/12</link>
- <lastBuildDate>Wed, 12 May 2021 14:34:00 -0700</lastBuildDate>
- <pubDate>Wed, 12 May 2021 14:34:00 -0700</pubDate>
+ <lastBuildDate>Wed, 12 May 2021 14:39:00 -0700</lastBuildDate>
+ <pubDate>Wed, 12 May 2021 14:39:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Ark Invest Dumps Virgin Galactic Shares</title>
+  <description>&lt;img src='https://media.giphy.com/media/3osxY9xCBxlndni2XK/giphy.gif'&gt;&lt;br/&gt;Virgin Galactic was once Lord of the SPACs. In 2019, Palihapitya took Richard Branson’s space flight company public in a SPAC deal before they were cool.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/12/ark-invest-dumps-virgin-galactic-shares</link>
+  <author>Matty Merritt</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/12/ark-invest-dumps-virgin-galactic-shares</guid>
+  <pubDate>Wed, 12 May 2021 14:36:59 -0700</pubDate>
+ </item>
  <item>
   <title>Bill Ackman’s Pershing Square Snaps Up 6% of Domino’s</title>
   <description>&lt;img src='https://media.giphy.com/media/Q73Bb4tlFNtJlmagIk/giphy.gif'&gt;&lt;br/&gt;  Zoom out: This pizza party has been rocking for years.  Ackman said that he’s had his eye on Domino’s for a while, specifically watching how the company does its own delivery in the DoorDash-era.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>space</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/odds-rocket-fragments-falling-weekend-lowbut-not-zero?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 08 May 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>Vaccine Tracker: May 8</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The latest headlinesGetting the green light: The WHO authorized China’s Sinopharm vaccine for emergency use, the sixth vaccine to have gotten a stamp of approval from the organization.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/07/vaccine-tracker-may-8?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/vaccine-tracker-may-8?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 08 May 2021 03:01:55 -0700</pubDate>
  </item>
 
