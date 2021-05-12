@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/12</link>
- <lastBuildDate>Wed, 12 May 2021 09:08:54 -0700</lastBuildDate>
- <pubDate>Wed, 12 May 2021 09:08:54 -0700</pubDate>
+ <lastBuildDate>Wed, 12 May 2021 14:28:54 -0700</lastBuildDate>
+ <pubDate>Wed, 12 May 2021 14:28:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Inflation Is Rising Because the Economy Is Weird</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5060%2Finflation_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Is this rapid inflation growth temporary? Which brings us to the question raging among economists.  So, many officials are betting that once the economy irons out the wrinkles, price growth will settle down to more typical levels. US consumer prices rose 4.2% in April from a year ago, up from the 2.6% gain in March and more than economists expected. May’s numbers will better help policymakers understand whether inflation is less “transitory” than it appears to be. “This number was well above what I and outside forecasters expected.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/12/inflation-rising-economy-weird</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/12/inflation-rising-economy-weird</guid>
+  <pubDate>Wed, 12 May 2021 14:27:03 -0700</pubDate>
+ </item>
  <item>
   <title>US Gambling Revenue Booms in Q1 to Match Record</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1221%2Flas_vegas.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Las Vegas is back, if you trust all the lines out the door at McCarran International Airport. US commercial casinos raked in $11.1 billion last quarter, according to the American Gaming Association, matching their best quarter ever.</description>
@@ -361,15 +370,6 @@
   <categories>space</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/odds-rocket-fragments-falling-weekend-lowbut-not-zero</guid>
   <pubDate>Fri, 07 May 2021 14:46:56 -0700</pubDate>
- </item>
- <item>
-  <title>April Jobs Report Is a Big Whiff for the US Economy</title>
-  <description>&lt;img src='https://media.giphy.com/media/l2R04CaebgtebcxvG/giphy.gif'&gt;&lt;br/&gt;Skills mismatch: Perhaps the people looking for jobs don’t have the experience necessary to fill the types of jobs that are open.  Whereas economists had forecasted upwards of 1 million jobs added in April...   Covid reasons: Despite a blazing vaccination rollout in the US, many people might still fear getting infected with the virus at work. After the jobs report was released, the US Chamber of Commerce asked lawmakers to end the extra benefits. What we do know is that there is no shortage of jobs in certain industries like retail, manufacturing, and construction.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/07/april-jobs-report-big-whiff-us-economy</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/april-jobs-report-big-whiff-us-economy</guid>
-  <pubDate>Fri, 07 May 2021 14:41:55 -0700</pubDate>
  </item>
 
 </channel>
