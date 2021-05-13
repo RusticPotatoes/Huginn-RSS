@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/12/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/13/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/12</link>
- <lastBuildDate>Wed, 12 May 2021 17:24:03 -0700</lastBuildDate>
- <pubDate>Wed, 12 May 2021 17:24:03 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/13</link>
+ <lastBuildDate>Thu, 13 May 2021 03:03:53 -0700</lastBuildDate>
+ <pubDate>Thu, 13 May 2021 03:03:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Ark Invest Dumps Virgin Galactic Shares</title>
+  <description>&lt;img src='https://media.giphy.com/media/3osxY9xCBxlndni2XK/giphy.gif'&gt;&lt;br/&gt;Virgin Galactic was once Lord of the SPACs. In 2019, Palihapitya took Richard Branson’s space flight company public in a SPAC deal before they were cool. Some of Virgin Galactic’s biggest boosters are looking for an escape pod.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/12/ark-invest-dumps-virgin-galactic-shares?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/12/ark-invest-dumps-virgin-galactic-shares?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 13 May 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 13</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5061%2Fsoftbank_ceo_masayoshi_so.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Those who are least engaged are very comfortable working from home.” (Vice) It’s not like he has anything riding on the office market…Read: How the personal computer broke the human body.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/12/key-performance-indicators-may-13?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/12/key-performance-indicators-may-13?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 13 May 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Bill Ackman’s Pershing Square Snaps Up 6% of Domino’s</title>
+  <description>&lt;img src='https://media.giphy.com/media/Q73Bb4tlFNtJlmagIk/giphy.gif'&gt;&lt;br/&gt;  Zoom out: This pizza party has been rocking for years.  Ackman said that he’s had his eye on Domino’s for a while, specifically watching how the company does its own delivery in the DoorDash-era.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/12/bill-ackmans-pershing-square-snaps-6-dominos?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>restaurant</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/12/bill-ackmans-pershing-square-snaps-6-dominos?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 13 May 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Musk Says Tesla Will Suspend Bitcoin Payments for Its Cars</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5064%2Felon_musk_awarded_with_ax.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;    Zoom out: Tesla still has more than $1 billion in bitcoin holdings and Musk said he wouldn't sell any more. Maybe he was too busy rehearsing for SNL?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/13/musk-says-tesla-will-suspend-bitcoin-payments-cars?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/musk-says-tesla-will-suspend-bitcoin-payments-cars?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 13 May 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Inflation Is Rising Because the Economy Is Weird</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5060%2Finflation_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Is this rapid inflation growth temporary? Which brings us to the question raging among economists.  So, many officials are betting that once the economy irons out the wrinkles, price growth will settle down to more typical levels. US consumer prices rose 4.2% in April from a year ago, up from the 2.6% gain in March and more than economists expected. When goodbye hugs make a comeback and the rate of inflation hits its highest level in almost 13 years. “This number was well above what I and outside forecasters expected.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/12/inflation-rising-economy-weird?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/12/inflation-rising-economy-weird?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 13 May 2021 03:02:02 -0700</pubDate>
+ </item>
  <item>
   <title>Musk Says Tesla Will Suspend Bitcoin Payments for Its Cars</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5063%2Felon_bitcoin_tweet.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;    Zoom out: Tesla still has more than $1 billion in bitcoin holdings and Musk said he wouldn't sell any more. Maybe he was too busy rehearsing for SNL?</description>
@@ -325,51 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/kentucky-derbys-winning-colt-failed-drug-test</guid>
   <pubDate>Sun, 09 May 2021 17:51:57 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: May 10</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5026%2Fny_stock_exchange_re-open.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Tomorrow is “Eat What You Want Day,” apparently.  Eid al-Fitr begins at sundown on Wednesday, marking the end of the holy month of Ramadan. but will Medina Spirit be there? Everything else:The Preakness is on Saturday...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/09/week-ahead-may-10</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/09/week-ahead-may-10</guid>
-  <pubDate>Sun, 09 May 2021 17:11:58 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 10</title>
-  <description>&lt;img src='https://media.giphy.com/media/XUojAIMYIIOQ9tpx2s/giphy.gif'&gt;&lt;br/&gt;(New York Times)  Read: Online cheating charges upend Dartmouth medical school. That is exactly what companies like Facebook were worried about.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/09/key-performance-indicators-may-10</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/09/key-performance-indicators-may-10</guid>
-  <pubDate>Sun, 09 May 2021 16:51:55 -0700</pubDate>
- </item>
- <item>
-  <title>Cyberattack Forces Major East Coast Pipeline to Shut Down</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5024%2Foil_pipeline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The pipeline is the main source of diesel, gasoline, and jet fuel for the East Coast. Colonial shut down the pipeline Friday as a precaution. Last week, Department of Homeland Security Secretary Alejandro Mayorkas called ransomware one of his “most significant priorities right now,” and the administration has launched an initiative to help critical infrastructure like electric utilities and water districts protect against attacks. cybersecurity poses a major challenge for the Biden administration. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/09/cyberattack-forces-major-east-coast-pipeline-shut</link>
-  <author>Neal Freyman</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/09/cyberattack-forces-major-east-coast-pipeline-shut</guid>
-  <pubDate>Sun, 09 May 2021 16:47:01 -0700</pubDate>
- </item>
- <item>
-  <title>Elon Musk Hosts SNL Even Though His Whole Life Feels Like an Episode of SNL</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5020%2Fmusk_on_snl.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s SNL’s duty to give us interviews with everyone involved in this incident. All played by Melissa Villaseñor. Someone in the audience, Franz, and of course the truck itself. and it shattered. When he had a Tesla designer named Franz throw a metal ball at a Cybertruck window... When he released a song about Harambe.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/07/elon-musk-hosts-snl-even-though-whole-life-feels-like-episode-snl?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/elon-musk-hosts-snl-even-though-whole-life-feels-like-episode-snl?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 08 May 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 8</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5016%2Fcarl_banks_teams_with_p.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Harvard Business Review)  Read: How much energy does bitcoin actually consume?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/07/key-performance-indicators-may-8?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/key-performance-indicators-may-8?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 08 May 2021 03:01:55 -0700</pubDate>
  </item>
 
 </channel>
