@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/13</link>
- <lastBuildDate>Thu, 13 May 2021 03:03:53 -0700</lastBuildDate>
- <pubDate>Thu, 13 May 2021 03:03:53 -0700</pubDate>
+ <lastBuildDate>Thu, 13 May 2021 13:13:59 -0700</lastBuildDate>
+ <pubDate>Thu, 13 May 2021 13:13:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>US Gambling Revenue Booms in Q1, Matching Records</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1221%2Flas_vegas.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Las Vegas is back, if you trust all the lines out the door at McCarran International Airport. US commercial casinos raked in $11.1 billion last quarter, according to the American Gaming Association, matching their best quarter ever. And both traditional and new-ish sectors of the US gambling industry are seeing the benefits. What happened?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/13/us-gambling-revenue-booms-q1-matching-records</link>
+  <author>Neal Freyman</author>
+  <categories>gambling</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/us-gambling-revenue-booms-q1-matching-records</guid>
+  <pubDate>Thu, 13 May 2021 13:11:58 -0700</pubDate>
+ </item>
  <item>
   <title>Ark Invest Dumps Virgin Galactic Shares</title>
   <description>&lt;img src='https://media.giphy.com/media/3osxY9xCBxlndni2XK/giphy.gif'&gt;&lt;br/&gt;Virgin Galactic was once Lord of the SPACs. In 2019, Palihapitya took Richard Branson’s space flight company public in a SPAC deal before they were cool. Some of Virgin Galactic’s biggest boosters are looking for an escape pod.</description>
@@ -361,15 +370,6 @@
   <categories>energy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/09/cyberattack-forces-major-east-coast-pipeline-shut?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 10 May 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>The Kentucky Derby’s Winning Colt Failed Its Drug Test</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5028%2Fhorse_racing_may_01_kent.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The industry will try to address the issue with the Horseracing Integrity and Safety Act, which will go into effect in July of next year. But Baffert seems baffled: “There are problems in racing, but it's not Bob Baffert.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/10/kentucky-derbys-winning-colt-failed-drug-test</link>
-  <author>Jamie Wilde</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/kentucky-derbys-winning-colt-failed-drug-test</guid>
-  <pubDate>Sun, 09 May 2021 17:51:57 -0700</pubDate>
  </item>
 
 </channel>
