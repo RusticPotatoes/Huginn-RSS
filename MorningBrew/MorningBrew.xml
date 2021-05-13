@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/13</link>
- <lastBuildDate>Thu, 13 May 2021 13:13:59 -0700</lastBuildDate>
- <pubDate>Thu, 13 May 2021 13:13:59 -0700</pubDate>
+ <lastBuildDate>Thu, 13 May 2021 14:24:03 -0700</lastBuildDate>
+ <pubDate>Thu, 13 May 2021 14:24:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>JPMorgan, Wells Fargo, and More to Offer Credit Cards for Consumers Without Credit</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1113%2Fchained_up_credit_card.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: For decades, a credit score was the golden ticket to a credit card. Later this year, JPMorgan Chase, US Bancorp, and Wells Fargo will join several other banks in a pilot program offering credit cards to people without credit scores, the WSJ reported.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/13/jpmorgan-wells-fargo-offer-credit-cards-consumers-without-credit</link>
+  <author>Alex Hickey</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/jpmorgan-wells-fargo-offer-credit-cards-consumers-without-credit</guid>
+  <pubDate>Thu, 13 May 2021 14:22:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>CDC Says Fully Vaccinated People Can Ditch Masks in Most Settings</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3985%2Fmask_chains.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Health-care settings, buses/trains, and airplanes are all spaces you'll still have to mask up regardless of vaccine status, but the announcement is sure to push the US even further toward a full-scale reopening.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/13/cdc-says-fully-vaccinated-people-can-ditch-masks-settings</link>
+  <author>Matty Merritt</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/cdc-says-fully-vaccinated-people-can-ditch-masks-settings</guid>
+  <pubDate>Thu, 13 May 2021 14:22:02 -0700</pubDate>
+ </item>
  <item>
   <title>US Gambling Revenue Booms in Q1, Matching Records</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1221%2Flas_vegas.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Las Vegas is back, if you trust all the lines out the door at McCarran International Airport. US commercial casinos raked in $11.1 billion last quarter, according to the American Gaming Association, matching their best quarter ever. And both traditional and new-ish sectors of the US gambling industry are seeing the benefits. What happened?</description>
@@ -351,24 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/kentucky-derbys-winning-colt-failed-drug-test?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 10 May 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>From Cheese to Ubers, Prices Are Rising</title>
-  <description>&lt;img src='https://media.giphy.com/media/u7c0J0dmV0ZJm/giphy.gif'&gt;&lt;br/&gt; Commodities: Prices of copper, steel, and Catan fan-favorite resource lumber have all soared to record highs, causing a corresponding price increase in end products, like houses. Rideshare: If you thought an Uber/Lyft to Malibu was expensive before the pandemic...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/10/cheese-ubers-prices-rising-5547?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/cheese-ubers-prices-rising-5547?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 10 May 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Cyberattack Forces Major East Coast Pipeline to Shut Down</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5024%2Foil_pipeline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The pipeline is the main source of diesel, gasoline, and jet fuel for the East Coast. Colonial shut down the pipeline Friday as a precaution. Last week, Department of Homeland Security Secretary Alejandro Mayorkas called ransomware one of his “most significant priorities right now,” and the administration has launched an initiative to help critical infrastructure like electric utilities and water districts protect against attacks. cybersecurity poses a major challenge for the Biden administration. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/09/cyberattack-forces-major-east-coast-pipeline-shut?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/09/cyberattack-forces-major-east-coast-pipeline-shut?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 10 May 2021 03:01:54 -0700</pubDate>
  </item>
 
