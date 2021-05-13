@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/12</link>
- <lastBuildDate>Wed, 12 May 2021 14:39:00 -0700</lastBuildDate>
- <pubDate>Wed, 12 May 2021 14:39:00 -0700</pubDate>
+ <lastBuildDate>Wed, 12 May 2021 17:24:03 -0700</lastBuildDate>
+ <pubDate>Wed, 12 May 2021 17:24:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Musk Says Tesla Will Suspend Bitcoin Payments for Its Cars</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5063%2Felon_bitcoin_tweet.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;    Zoom out: Tesla still has more than $1 billion in bitcoin holdings and Musk said he wouldn't sell any more. Maybe he was too busy rehearsing for SNL?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/13/musk-says-tesla-will-suspend-bitcoin-payments-cars</link>
+  <author>Neal Freyman</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/musk-says-tesla-will-suspend-bitcoin-payments-cars</guid>
+  <pubDate>Wed, 12 May 2021 17:22:02 -0700</pubDate>
+ </item>
  <item>
   <title>Ark Invest Dumps Virgin Galactic Shares</title>
   <description>&lt;img src='https://media.giphy.com/media/3osxY9xCBxlndni2XK/giphy.gif'&gt;&lt;br/&gt;Virgin Galactic was once Lord of the SPACs. In 2019, Palihapitya took Richard Branson’s space flight company public in a SPAC deal before they were cool.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/key-performance-indicators-may-8?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 08 May 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>The Odds of Rocket Fragments Falling on You This Weekend are Low...But Not Zero</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5021%2Flaunch_of_chinese_rocket.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;’ You only get to complain if it actually crashes.” There’s only a small chance of it hurting a person, but with some close calls like a huge piece of SpaceX’s Falcon 9 rocket ending up on a Washington farm in April, experts are calling the actions of China’s space program irresponsible.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/07/odds-rocket-fragments-falling-weekend-lowbut-not-zero?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/07/odds-rocket-fragments-falling-weekend-lowbut-not-zero?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 08 May 2021 03:01:55 -0700</pubDate>
  </item>
 
