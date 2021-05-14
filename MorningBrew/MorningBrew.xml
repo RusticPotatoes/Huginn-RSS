@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/13/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/14/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/13</link>
- <lastBuildDate>Thu, 13 May 2021 14:28:55 -0700</lastBuildDate>
- <pubDate>Thu, 13 May 2021 14:28:55 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/14</link>
+ <lastBuildDate>Fri, 14 May 2021 03:03:54 -0700</lastBuildDate>
+ <pubDate>Fri, 14 May 2021 03:03:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>US Gambling Revenue Booms in Q1, Matching Records</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1221%2Flas_vegas.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Las Vegas is back, if you trust all the lines out the door at McCarran International Airport. US commercial casinos raked in $11.1 billion last quarter, according to the American Gaming Association, matching their best quarter ever. And both traditional and new-ish sectors of the US gambling industry are seeing the benefits. What happened?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/13/us-gambling-revenue-booms-q1-matching-records?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>gambling</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/us-gambling-revenue-booms-q1-matching-records?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 14 May 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 14</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5070%2Fwnba_scene.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Check out their pieces on Korean adoptees being brought together by Facebook or fact-checking Modi's India. It's a big trend in the country for couples to gift each other "stock gift cards" in companies like Tesla, Apple, Amazon, and Disney.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/13/key-performance-indicators-may-14?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/key-performance-indicators-may-14?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 14 May 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>JPMorgan, Wells Fargo, and More to Offer Credit Cards for Consumers Without Credit</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1113%2Fchained_up_credit_card.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;While there's no shortage of finance startups hawking credit-building apps to consumers as young as 13, a massive banking gap persists among adults: The creators of the FICO score estimate that 53 million US adults lack traditional credit scores. Big picture: For decades, a credit score was the golden ticket to a credit card.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/13/jpmorgan-wells-fargo-offer-credit-cards-consumers-without-credit?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/jpmorgan-wells-fargo-offer-credit-cards-consumers-without-credit?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 14 May 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>CDC Says Fully Vaccinated People Can Ditch Masks in Most Settings</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3985%2Fmask_chains.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Health-care settings, buses/trains, and airplanes are all spaces you'll still have to mask up regardless of vaccine status, but the announcement is sure to push the US even further toward a full-scale reopening.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/13/cdc-says-fully-vaccinated-people-can-ditch-masks-settings?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/cdc-says-fully-vaccinated-people-can-ditch-masks-settings?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 14 May 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>2020's Biggest IPOs Are Getting Smacked in the Markets</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2416%2Fsnowflake_ipo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Renaissance IPO ETF, which holds a number of public companies that IPOed within the last two years, has fallen nearly 30% from its peak in February.   Some of the biggest companies to IPO in 2020 and early 2021 are finding the public markets to be less inviting than a middle school boy’s treehouse.  Bumble: Shares in the dating company dipped below their initial price of $43 yesterday after reporting a mixed bag of earnings this week.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/13/2020s-biggest-ipos-getting-smacked-markets?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/2020s-biggest-ipos-getting-smacked-markets?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 14 May 2021 03:02:03 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 14</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5070%2Fwnba_scene.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Check out their pieces on Korean adoptees being brought together by Facebook or fact-checking Modi's India. It's a big trend in the country for couples to gift each other "stock gift cards" in companies like Tesla, Apple, Amazon, and Disney.</description>
@@ -325,51 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/nbc-says-wont-air-golden-globes-2022</guid>
   <pubDate>Mon, 10 May 2021 15:16:56 -0700</pubDate>
- </item>
- <item>
-  <title>Restaurants Struggling to Hire Staff as Lockdowns Lift</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5043%2Fwe_re_hiring.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Restaurants have elevated sanitation requirements, plenty of food supply chain issues, and an average annual salary of only $21,470 to serve brunch crowds that have been locked inside for a year. demand for eating out will only increase over the summer, so restaurant chains are raising pay and even finding creative methods to recruit workers. It appears that the restaurant industry in particular just isn't all that attractive for people looking for work.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/10/restaurants-struggling-hire-staff-lockdowns-lift</link>
-  <author>Matty Merritt</author>
-  <categories>restaurants</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/restaurants-struggling-hire-staff-lockdowns-lift</guid>
-  <pubDate>Mon, 10 May 2021 15:12:03 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 11</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5042%2Folympics.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker)  Read: A juicy profile of Robinhood and its promise to democratize investing.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/10/key-performance-indicators-may-11</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/key-performance-indicators-may-11</guid>
-  <pubDate>Mon, 10 May 2021 15:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>DarkSide, the Group Behind the Colonial Pipeline Hack, Speaks Out</title>
-  <description>&lt;img src='https://media.giphy.com/media/3oEjHGnY8oB4BHVTP2/giphy.gif'&gt;&lt;br/&gt;But if the shutdown takes longer to resolve, GasBuddy analysts predict gas prices rising more than a few cents. so far.  Crude prices rose about 1% yesterday, so price impacts are still minimal... In the interim, the government relaxed rules so more oil can be driven up the East Coast in tankers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/10/darkside-group-behind-colonial-pipeline-hack-speaks</link>
-  <author>Alex Hickey</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/darkside-group-behind-colonial-pipeline-hack-speaks</guid>
-  <pubDate>Mon, 10 May 2021 14:56:57 -0700</pubDate>
- </item>
- <item>
-  <title>Attorneys General Ask Facebook to Drop Plans for Instagram for Kids</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1607%2Finstagram_on_puase_influencers.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, a group of 44 attorneys general asked Facebook CEO Mark Zuckerberg to ditch plans to develop an Instagram platform for children younger than 13, the current age cutoff for FB services. Bottom line: Some concerned adults think that just because you can make a product for kids doesn't mean you should."</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/10/attorneys-general-ask-facebook-drop-plans-instagram-kids</link>
-  <author>Alex Hickey</author>
-  <categories>social media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/attorneys-general-ask-facebook-drop-plans-instagram-kids</guid>
-  <pubDate>Mon, 10 May 2021 14:56:57 -0700</pubDate>
- </item>
- <item>
-  <title>Will Crypto Rule the World?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5044%2Fcrypto_future.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  The world is truly crypto’s oyster. And while we don’t recommend a doge tat, we do recommend boning up on crypto, even knowing how volatile it is. Not only have cryptos checked that box, they’ve become major players in the $$$ world—aka finance.  And you’ve probably heard a thing or two about NFTs, a blockchain-based way to claim exclusive ownership of a piece of art, video clip, GIF, or even a newspaper column. The promise of DeFi is a financial system that’s more efficient, more tech-driven, and—dare we say it? decentralized finance, or DeFi. Why are those people so hyped? The idea of DeFi is pretty revolutionary.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/10/will-crypto-rule-world</link>
-  <author>Morning Brew</author>
-  <categories>marketing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/will-crypto-rule-world</guid>
-  <pubDate>Mon, 10 May 2021 14:26:54 -0700</pubDate>
  </item>
 
 </channel>
