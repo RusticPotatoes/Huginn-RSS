@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/14</link>
- <lastBuildDate>Fri, 14 May 2021 15:13:58 -0700</lastBuildDate>
- <pubDate>Fri, 14 May 2021 15:13:58 -0700</pubDate>
+ <lastBuildDate>Fri, 14 May 2021 15:18:58 -0700</lastBuildDate>
+ <pubDate>Fri, 14 May 2021 15:18:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: May 15</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5091%2Fthe_robin_hood_foundation.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Index) Read: Why the hybrid workforce of the future depends on the ‘Geriatric Millennial.” Musk’s tweets around bitcoin and dogecoin this week drove dramatic swings in prices.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/14/key-performance-indicators-may-15</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/14/key-performance-indicators-may-15</guid>
+  <pubDate>Fri, 14 May 2021 15:16:57 -0700</pubDate>
+ </item>
  <item>
   <title>Target Pauses In-Store Trading Card Sales</title>
   <description>&lt;img src='https://media.giphy.com/media/U97tnnWYeiNyp166tu/giphy.gif'&gt;&lt;br/&gt;The chain is pulling Pokémon, MLB, NFL, and NBA trading cards off shelves after card-seeking customers have gotten increasingly unruly.</description>
@@ -361,15 +370,6 @@
   <categories>energy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/11/gas-shortages</guid>
   <pubDate>Tue, 11 May 2021 14:46:55 -0700</pubDate>
- </item>
- <item>
-  <title>New Cryptocurrency Trading Platform Bullish Takes on Decentralized Finance</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5049%2Fbullish_cryptocurrency.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The other reason's a bit simpler…Crypto is the new Snack Pack puddingTrading on big-time crypto exchanges surged from less than $100 billion in April 2020 to $1.7 trillion last month, per data from The Block Crypto. The market ballooned from about $15 billion at the start of the year to $65 billion currently, per JPMorgan.  Bullish will run on Block. Meet Bullish Global, which will open later this year with $10 billion of crypto assets pre-loaded and ready to trade, including 164,000 bitcoins.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/11/new-cryptocurrency-trading-platform-bullish-takes-decentralized-finance</link>
-  <author>Jamie Wilde</author>
-  <categories>defi</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/11/new-cryptocurrency-trading-platform-bullish-takes-decentralized-finance</guid>
-  <pubDate>Tue, 11 May 2021 14:41:55 -0700</pubDate>
  </item>
 
 </channel>
