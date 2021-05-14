@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/14</link>
- <lastBuildDate>Fri, 14 May 2021 13:24:01 -0700</lastBuildDate>
- <pubDate>Fri, 14 May 2021 13:24:01 -0700</pubDate>
+ <lastBuildDate>Fri, 14 May 2021 13:33:54 -0700</lastBuildDate>
+ <pubDate>Fri, 14 May 2021 13:33:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Morning Brew's Meme Battle: May 16</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5084%2Funo_card_meme.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  This week's challenge: You can find the new meme template here for next Sunday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/14/morning-brews-meme-battle-may-16</link>
+  <author>Jamie Wilde</author>
+  <categories>meme contest</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/14/morning-brews-meme-battle-may-16</guid>
+  <pubDate>Fri, 14 May 2021 13:31:53 -0700</pubDate>
+ </item>
  <item>
   <title>Make It Work: How to Leave a Company Gracefully</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Any scorched-earth actions will follow a person to future jobs. Ask Kate for advice here. I just read your response to the person looking at changing jobs. —AshleyA: Hi Ashley, I’m sorry that your experience at work has turned into a sour one. Do you have any advice on how to have that conversation gracefully? Notices longer than two weeks is an awesome look on you, too (side note: I would recommend a minimum of three weeks if you’re at the Director level or higher). And please please give your employer a two-week notice, meaning 10 full business days, at minimum. Oh!</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/key-performance-indicators-may-11?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 11 May 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Attorneys General Ask Facebook to Drop Plans for Instagram for Kids</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1607%2Finstagram_on_puase_influencers.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, a group of 44 attorneys general asked Facebook CEO Mark Zuckerberg to ditch plans to develop an Instagram platform for children younger than 13, the current age cutoff for FB services. Bottom line: Just because you can make a product for kids doesn't mean you should."</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/10/attorneys-general-ask-facebook-drop-plans-instagram-kids?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>social media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/10/attorneys-general-ask-facebook-drop-plans-instagram-kids?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 11 May 2021 03:01:59 -0700</pubDate>
  </item>
 
