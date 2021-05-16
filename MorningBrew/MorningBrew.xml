@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/15/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/16/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/15</link>
- <lastBuildDate>Sat, 15 May 2021 03:03:56 -0700</lastBuildDate>
- <pubDate>Sat, 15 May 2021 03:03:56 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/16</link>
+ <lastBuildDate>Sun, 16 May 2021 05:14:02 -0700</lastBuildDate>
+ <pubDate>Sun, 16 May 2021 05:14:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Black Investors Trade Their Way Through the Pandemic</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5083%2Frobinhood_black_wall_street.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  29% of young Black Americans became first-time investors in 2020, compared to 16% of white Americans.  Because when you look at the types of people who have typically invested in stocks, Black Americans are less represented. According to the Ariel-Schwab Black Investor Survey, 63% of Black Americans under the age of 40 are now participating in the stock market, the same share as white Americans.  Here’s the lesser-known story: That surge in individual trading was led by a historic rise in the number of Black investors getting into the stock market. For Ross and Mac, it’s not surprising that cryptocurrency, with its promise to bypass entrenched financial institutions, is particularly enticing to Black investors.  For Ross and other Black Americans who grew up in disadvantaged communities (Ross is the first person in his family to graduate from high school), more access to the stock market via mobile apps means an unprecedented opportunity to grow wealth and participate in a financial system that at one point seemed so distant.  On the audio app Clubhouse, Ross Mac runs a weekly chat called Black Wealth Matters, which aims to help build “generational wealth in the Black community.”  Not having any money invested in the stock market can dramatically harm your ability to build wealth down the road. Mac, a former Wall Street analyst and financial literacy teacher, says that the pandemic has created a rush of excitement around stocks and investing among Black Americans. )Did the proliferation of no-fee trading apps contribute to the wave of new Black investors that emerged over the last year? It’s a very easy thing for us to get and understand because as a people we’ve been shut out,” Ross said.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/15/black-investors-trade-way-pandemic</link>
+  <author>Neal Freyman</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/15/black-investors-trade-way-pandemic</guid>
+  <pubDate>Sun, 16 May 2021 05:12:01 -0700</pubDate>
+ </item>
  <item>
   <title>Fantasy Investing Competition Update</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5087%2Fleaderboard.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Bottom line: The average return among all 10,000 players was -1.51%, so if you had just sat on your initial capital and didn’t make a single trade, you’d be in pretty good shape. The most creative strategy, however, goes to writer Matty Merritt, who tripled down on her Nebraska roots with a portfolio made exclusively from corn.</description>
@@ -361,15 +370,6 @@
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/12/inflation-rising-economy-weird</guid>
   <pubDate>Wed, 12 May 2021 14:27:03 -0700</pubDate>
- </item>
- <item>
-  <title>US Gambling Revenue Booms in Q1 to Match Record</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1221%2Flas_vegas.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Las Vegas is back, if you trust all the lines out the door at McCarran International Airport. US commercial casinos raked in $11.1 billion last quarter, according to the American Gaming Association, matching their best quarter ever.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/12/us-gambling-revenue-booms-q1-match-record</link>
-  <author>Neal Freyman</author>
-  <categories>gambling</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/12/us-gambling-revenue-booms-q1-match-record</guid>
-  <pubDate>Wed, 12 May 2021 09:06:53 -0700</pubDate>
  </item>
 
 </channel>
