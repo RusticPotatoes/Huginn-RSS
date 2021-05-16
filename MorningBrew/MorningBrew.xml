@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/16</link>
- <lastBuildDate>Sun, 16 May 2021 16:43:53 -0700</lastBuildDate>
- <pubDate>Sun, 16 May 2021 16:43:53 -0700</pubDate>
+ <lastBuildDate>Sun, 16 May 2021 16:48:53 -0700</lastBuildDate>
+ <pubDate>Sun, 16 May 2021 16:48:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Covid Updates From Around the World</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Meanwhile, the Canadian government has started to discuss reopening the border with the US, which has been closed since March 2020.  North America: The one-week average of new cases hit its lowest level since June.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/16/covid-updates-around-world</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/16/covid-updates-around-world</guid>
+  <pubDate>Sun, 16 May 2021 16:47:02 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 17</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(InsideHook) Read: Why are non-alcoholic spirits so expensive?</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/musk-says-tesla-will-suspend-bitcoin-payments-cars?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 13 May 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Inflation Is Rising Because the Economy Is Weird</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5060%2Finflation_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Is this rapid inflation growth temporary? Which brings us to the question raging among economists.  So, many officials are betting that once the economy irons out the wrinkles, price growth will settle down to more typical levels. US consumer prices rose 4.2% in April from a year ago, up from the 2.6% gain in March and more than economists expected. When goodbye hugs make a comeback and the rate of inflation hits its highest level in almost 13 years. “This number was well above what I and outside forecasters expected.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/12/inflation-rising-economy-weird?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/12/inflation-rising-economy-weird?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 13 May 2021 03:02:02 -0700</pubDate>
  </item>
 
