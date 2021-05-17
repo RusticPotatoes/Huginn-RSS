@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/17</link>
- <lastBuildDate>Mon, 17 May 2021 14:38:58 -0700</lastBuildDate>
- <pubDate>Mon, 17 May 2021 14:38:58 -0700</pubDate>
+ <lastBuildDate>Mon, 17 May 2021 14:48:54 -0700</lastBuildDate>
+ <pubDate>Mon, 17 May 2021 14:48:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>New Study Finds Overworking Causes Hundreds of Thousands of Death Every Year</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4590%2Fworking_at_messy_desk_late_at_night.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That 2016 part. If you needed a final push to close your laptop while the sun is still out, let this be it: People who work 55+ hours a week have a 35% higher risk of stroke and 17% higher risk of dying from heart disease, says the WHO. Bottom line.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/17/new-study-finds-overworking-causes-hundreds-thousands-death-every-year</link>
+  <author>Matty Merritt</author>
+  <categories>health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/new-study-finds-overworking-causes-hundreds-thousands-death-every-year</guid>
+  <pubDate>Mon, 17 May 2021 14:47:02 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 18</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F155%2Fhorse_racing.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Letters from Home &amp; Away) Read: The harmful consequences of more, more, more on the internet.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>markets</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/2020s-biggest-ipos-getting-smacked-markets</guid>
-  <pubDate>Thu, 13 May 2021 14:26:54 -0700</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: May 14</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/13/brews-weekly-news-quiz-may-14</link>
-  <author>Jamie Wilde</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/brews-weekly-news-quiz-may-14</guid>
   <pubDate>Thu, 13 May 2021 14:26:54 -0700</pubDate>
  </item>
 
