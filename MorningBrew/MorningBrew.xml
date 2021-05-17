@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/16/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/17/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/17/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/16</link>
- <lastBuildDate>Sun, 16 May 2021 16:48:53 -0700</lastBuildDate>
- <pubDate>Sun, 16 May 2021 16:48:53 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/17</link>
+ <lastBuildDate>Mon, 17 May 2021 03:03:56 -0700</lastBuildDate>
+ <pubDate>Mon, 17 May 2021 03:03:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: May 17</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5094%2Fsweden-music-abba.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;We'll find out from a few reports this week, including housing starts on Tuesday and existing home sales on Friday. Sixers all the wayyyyyyyyyy.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/16/week-ahead-may-17?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/16/week-ahead-may-17?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 17 May 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 17</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(InsideHook) Read: Why are non-alcoholic spirits so expensive?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/16/key-performance-indicators-may-17?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/16/key-performance-indicators-may-17?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 17 May 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Covid Updates From Around the World</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; North America: The one-week average of new cases in the US hit its lowest level since June. Southeast Asia: Despite early successes at taming the coronavirus, Singapore and Taiwan are clamping down aggressively to combat new outbreaks.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/16/covid-updates-around-world?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/16/covid-updates-around-world?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 17 May 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Checking in on Biden's Tax Proposals</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4403%2Fcorporate_taxes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The White House has also proposed sending $80 billion to the IRS to fund audits and recoup the estimated $1 trillion in taxes that doesn't get collected annually. Biden proposed raising income taxes on individuals earning $400k/year to 39.6% and hitting capital gains at the same rate for individuals earning $1+ million/year.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/16/checking-bidens-tax-proposals?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>taxes</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/16/checking-bidens-tax-proposals?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 17 May 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>AT&amp;T's WarnerMedia, Discovery Discuss Merger</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5093%2Fat_t.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; While AT&amp;T has funneled resources into production for HBO Max, it's gotten rid of some other media assets.  It's a U-turn for AT&amp;TWarnerMedia was created just three years ago through AT&amp;T's $85 billion acquisition of Time Warner. WarnerMedia is home to storied brands including CNN, Cartoon Network, Warner Bros. AT&amp;T is preparing to spin off its entertainment business, WarnerMedia, and merge it with competitor Discovery, Bloomberg reported yesterday.   Verizon recently sold its media assets to Apollo Global Management for $5 billion.  So why's AT&amp;T changing course now?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/16/atts-warnermedia-discovery-discuss-merger?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/16/atts-warnermedia-discovery-discuss-merger?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 17 May 2021 03:01:54 -0700</pubDate>
+ </item>
  <item>
   <title>Covid Updates From Around the World</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Meanwhile, the Canadian government has started to discuss reopening the border with the US, which has been closed since March 2020.  North America: The one-week average of new cases hit its lowest level since June.</description>
@@ -325,51 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/cdc-says-fully-vaccinated-people-can-ditch-masks-settings</guid>
   <pubDate>Thu, 13 May 2021 14:22:02 -0700</pubDate>
- </item>
- <item>
-  <title>US Gambling Revenue Booms in Q1, Matching Records</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1221%2Flas_vegas.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Las Vegas is back, if you trust all the lines out the door at McCarran International Airport. US commercial casinos raked in $11.1 billion last quarter, according to the American Gaming Association, matching their best quarter ever. And both traditional and new-ish sectors of the US gambling industry are seeing the benefits. What happened?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/13/us-gambling-revenue-booms-q1-matching-records</link>
-  <author>Neal Freyman</author>
-  <categories>gambling</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/us-gambling-revenue-booms-q1-matching-records</guid>
-  <pubDate>Thu, 13 May 2021 13:11:58 -0700</pubDate>
- </item>
- <item>
-  <title>Ark Invest Dumps Virgin Galactic Shares</title>
-  <description>&lt;img src='https://media.giphy.com/media/3osxY9xCBxlndni2XK/giphy.gif'&gt;&lt;br/&gt;Virgin Galactic was once Lord of the SPACs. In 2019, Palihapitya took Richard Branson’s space flight company public in a SPAC deal before they were cool. Some of Virgin Galactic’s biggest boosters are looking for an escape pod.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/12/ark-invest-dumps-virgin-galactic-shares?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/12/ark-invest-dumps-virgin-galactic-shares?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 13 May 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 13</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5061%2Fsoftbank_ceo_masayoshi_so.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Those who are least engaged are very comfortable working from home.” (Vice) It’s not like he has anything riding on the office market…Read: How the personal computer broke the human body.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/12/key-performance-indicators-may-13?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/12/key-performance-indicators-may-13?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 13 May 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Bill Ackman’s Pershing Square Snaps Up 6% of Domino’s</title>
-  <description>&lt;img src='https://media.giphy.com/media/Q73Bb4tlFNtJlmagIk/giphy.gif'&gt;&lt;br/&gt;  Zoom out: This pizza party has been rocking for years.  Ackman said that he’s had his eye on Domino’s for a while, specifically watching how the company does its own delivery in the DoorDash-era.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/12/bill-ackmans-pershing-square-snaps-6-dominos?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>restaurant</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/12/bill-ackmans-pershing-square-snaps-6-dominos?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 13 May 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Musk Says Tesla Will Suspend Bitcoin Payments for Its Cars</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5064%2Felon_musk_awarded_with_ax.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;    Zoom out: Tesla still has more than $1 billion in bitcoin holdings and Musk said he wouldn't sell any more. Maybe he was too busy rehearsing for SNL?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/13/musk-says-tesla-will-suspend-bitcoin-payments-cars?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/musk-says-tesla-will-suspend-bitcoin-payments-cars?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 13 May 2021 03:02:02 -0700</pubDate>
  </item>
 
 </channel>
