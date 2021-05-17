@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/17</link>
- <lastBuildDate>Mon, 17 May 2021 14:54:02 -0700</lastBuildDate>
- <pubDate>Mon, 17 May 2021 14:54:02 -0700</pubDate>
+ <lastBuildDate>Mon, 17 May 2021 14:59:00 -0700</lastBuildDate>
+ <pubDate>Mon, 17 May 2021 14:59:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Are Elon Musk's Crypto Tweets Legal?</title>
+  <description>&lt;img src='https://media.giphy.com/media/I9Pt41RvhSjeXOJaAu/giphy.gif'&gt;&lt;br/&gt; While Tesla's initial embrace of bitcoin was a major stamp of legitimacy for the crypto, the CEO's comments are now fueling critics' argument that cryptocurrency is too volatile." This past weekend, they fell after he replied to a tweet implying that Tesla may have sold its bitcoin holdings (Musk later said Tesla didn't). then tanked 17% this month when Musk tweeted that Tesla was changing course. Tesla lawyers now vet any tweets containing any information "material to the company." Bitcoin prices rose over 15% in February when Tesla said it would take the cryptocurrency as payment...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/17/elon-musks-crypto-tweets-legal</link>
+  <author>Alex Hickey</author>
+  <categories>cryptocurrency</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/elon-musks-crypto-tweets-legal</guid>
+  <pubDate>Mon, 17 May 2021 14:56:56 -0700</pubDate>
+ </item>
  <item>
   <title>NYC Subways Now Open 24/7 After Year of Late Night Closure</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5114%2Fwall_street_station.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Public transit systems in cities such as Chicago, DC, and LA were also hard-hit during the pandemic. MTA officials rang the NYSE bell yesterday to celebrate the opening, and rolled out its #TakeTheTrain campaign on Sunday to encourage riders to ditch Uber.</description>
@@ -361,15 +370,6 @@
   <categories>markets</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/2020s-biggest-ipos-getting-smacked-markets?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 14 May 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 14</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5070%2Fwnba_scene.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Check out their pieces on Korean adoptees being brought together by Facebook or fact-checking Modi's India. It's a big trend in the country for couples to gift each other "stock gift cards" in companies like Tesla, Apple, Amazon, and Disney.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/13/key-performance-indicators-may-14</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/key-performance-indicators-may-14</guid>
-  <pubDate>Thu, 13 May 2021 14:26:54 -0700</pubDate>
  </item>
 
 </channel>
