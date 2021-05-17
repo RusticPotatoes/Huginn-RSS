@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/17</link>
- <lastBuildDate>Mon, 17 May 2021 14:48:54 -0700</lastBuildDate>
- <pubDate>Mon, 17 May 2021 14:48:54 -0700</pubDate>
+ <lastBuildDate>Mon, 17 May 2021 14:54:02 -0700</lastBuildDate>
+ <pubDate>Mon, 17 May 2021 14:54:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>NYC Subways Now Open 24/7 After Year of Late Night Closure</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5114%2Fwall_street_station.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Public transit systems in cities such as Chicago, DC, and LA were also hard-hit during the pandemic. MTA officials rang the NYSE bell yesterday to celebrate the opening, and rolled out its #TakeTheTrain campaign on Sunday to encourage riders to ditch Uber.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/17/nyc-subways-now-open-247-year-late-night-closure</link>
+  <author>Matty Merritt</author>
+  <categories>transportation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/nyc-subways-now-open-247-year-late-night-closure</guid>
+  <pubDate>Mon, 17 May 2021 14:52:00 -0700</pubDate>
+ </item>
  <item>
   <title>New Study Finds Overworking Causes Hundreds of Thousands of Death Every Year</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4590%2Fworking_at_messy_desk_late_at_night.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That 2016 part. If you needed a final push to close your laptop while the sun is still out, let this be it: People who work 55+ hours a week have a 35% higher risk of stroke and 17% higher risk of dying from heart disease, says the WHO. Bottom line.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/key-performance-indicators-may-14</guid>
-  <pubDate>Thu, 13 May 2021 14:26:54 -0700</pubDate>
- </item>
- <item>
-  <title>2020's Biggest IPOs Are Getting Smacked in the Markets</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2416%2Fsnowflake_ipo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Some of the biggest companies to IPO in 2020 and early 2021 are finding the public markets to be less inviting than a middle school boy’s treehouse. com and mortgage insurer Enact Holdings recently delayed their IPOs because of market volatility. The Renaissance IPO ETF, which holds a number of recently public companies such as Pinterest, Coinbase, Roblox, and Slack, has fallen nearly 30% from its peak in February.  But the drooping share prices of freshly public companies is enough to spook some private firms from taking the IPO plunge.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/13/2020s-biggest-ipos-getting-smacked-markets</link>
-  <author>Neal Freyman</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/2020s-biggest-ipos-getting-smacked-markets</guid>
   <pubDate>Thu, 13 May 2021 14:26:54 -0700</pubDate>
  </item>
 
