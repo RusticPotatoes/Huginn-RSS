@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/17/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/17/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/18/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/17</link>
- <lastBuildDate>Mon, 17 May 2021 14:59:00 -0700</lastBuildDate>
- <pubDate>Mon, 17 May 2021 14:59:00 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/18</link>
+ <lastBuildDate>Tue, 18 May 2021 03:04:00 -0700</lastBuildDate>
+ <pubDate>Tue, 18 May 2021 03:04:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>NYC Subways Now Open 24/7 After Year of Late Night Closure</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5114%2Fwall_street_station.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Public transit systems in cities such as Chicago, DC, and LA were also hit hard during the pandemic.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/17/nyc-subways-now-open-247-year-late-night-closure?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>transportation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/nyc-subways-now-open-247-year-late-night-closure?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 18 May 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 18</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F155%2Fhorse_racing.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Letters from Home &amp; Away) Read: The harmful consequences of more, more, more on the internet.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/17/key-performance-indicators-may-18?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/key-performance-indicators-may-18?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 18 May 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>New Study Finds Overworking Causes Hundreds of Thousands of Death Every Year</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4590%2Fworking_at_messy_desk_late_at_night.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That 2016 part. Bottom line: If you needed a final push to close your laptop while the sun is still out, let this be it: People who work 55+ hours a week have a 35% higher risk of stroke and 17% higher risk of dying from heart disease, says the WHO.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/17/new-study-finds-overworking-causes-hundreds-thousands-death-every-year?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/new-study-finds-overworking-causes-hundreds-thousands-death-every-year?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 18 May 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Are Elon Musk's Crypto Tweets Legal?</title>
+  <description>&lt;img src='https://media.giphy.com/media/I9Pt41RvhSjeXOJaAu/giphy.gif'&gt;&lt;br/&gt; While Tesla's initial embrace of bitcoin was a major stamp of legitimacy for the crypto, the CEO's comments are now fueling critics' argument that cryptocurrency is too volatile." This past weekend, they fell after he replied to a tweet implying that Tesla may have sold its bitcoin holdings (Musk later said Tesla didn't). Tesla lawyers now vet any tweets containing any information "material to the company." then tanked 17% this month when Musk tweeted that Tesla was changing course. Elon Musk impersonators have scammed investors out of $2+ million worth of cryptocurrency in the last six months, according to the Federal Trade Commission.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/17/elon-musks-crypto-tweets-legal?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/elon-musks-crypto-tweets-legal?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 18 May 2021 03:01:59 -0700</pubDate>
+ </item>
  <item>
   <title>Are Elon Musk's Crypto Tweets Legal?</title>
   <description>&lt;img src='https://media.giphy.com/media/I9Pt41RvhSjeXOJaAu/giphy.gif'&gt;&lt;br/&gt; While Tesla's initial embrace of bitcoin was a major stamp of legitimacy for the crypto, the CEO's comments are now fueling critics' argument that cryptocurrency is too volatile." This past weekend, they fell after he replied to a tweet implying that Tesla may have sold its bitcoin holdings (Musk later said Tesla didn't). then tanked 17% this month when Musk tweeted that Tesla was changing course. Tesla lawyers now vet any tweets containing any information "material to the company." Bitcoin prices rose over 15% in February when Tesla said it would take the cryptocurrency as payment...</description>
@@ -333,42 +369,6 @@
   <author>Neal Freyman</author>
   <categories>gambling</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/us-gambling-revenue-booms-q1-matching-records?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 14 May 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 14</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5070%2Fwnba_scene.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Check out their pieces on Korean adoptees being brought together by Facebook or fact-checking Modi's India. It's a big trend in the country for couples to gift each other "stock gift cards" in companies like Tesla, Apple, Amazon, and Disney.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/13/key-performance-indicators-may-14?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/key-performance-indicators-may-14?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 14 May 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>JPMorgan, Wells Fargo, and More to Offer Credit Cards for Consumers Without Credit</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1113%2Fchained_up_credit_card.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;While there's no shortage of finance startups hawking credit-building apps to consumers as young as 13, a massive banking gap persists among adults: The creators of the FICO score estimate that 53 million US adults lack traditional credit scores. Big picture: For decades, a credit score was the golden ticket to a credit card.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/13/jpmorgan-wells-fargo-offer-credit-cards-consumers-without-credit?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/jpmorgan-wells-fargo-offer-credit-cards-consumers-without-credit?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 14 May 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>CDC Says Fully Vaccinated People Can Ditch Masks in Most Settings</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3985%2Fmask_chains.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Health-care settings, buses/trains, and airplanes are all spaces you'll still have to mask up regardless of vaccine status, but the announcement is sure to push the US even further toward a full-scale reopening.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/13/cdc-says-fully-vaccinated-people-can-ditch-masks-settings?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/cdc-says-fully-vaccinated-people-can-ditch-masks-settings?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 14 May 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>2020's Biggest IPOs Are Getting Smacked in the Markets</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2416%2Fsnowflake_ipo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Renaissance IPO ETF, which holds a number of public companies that IPOed within the last two years, has fallen nearly 30% from its peak in February.   Some of the biggest companies to IPO in 2020 and early 2021 are finding the public markets to be less inviting than a middle school boy’s treehouse.  Bumble: Shares in the dating company dipped below their initial price of $43 yesterday after reporting a mixed bag of earnings this week.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/13/2020s-biggest-ipos-getting-smacked-markets?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/13/2020s-biggest-ipos-getting-smacked-markets?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 14 May 2021 03:02:03 -0700</pubDate>
  </item>
 
