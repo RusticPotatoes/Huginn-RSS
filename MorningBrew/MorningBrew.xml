@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/19</link>
- <lastBuildDate>Wed, 19 May 2021 10:49:00 -0700</lastBuildDate>
- <pubDate>Wed, 19 May 2021 10:49:00 -0700</pubDate>
+ <lastBuildDate>Wed, 19 May 2021 14:38:57 -0700</lastBuildDate>
+ <pubDate>Wed, 19 May 2021 14:38:57 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: May 20</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5142%2Fblue_origin_flight_experience.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(ProPublica) Read: Hundreds of PPP loans went to fake farms in absurd places.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/19/key-performance-indicators-may-20</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/19/key-performance-indicators-may-20</guid>
+  <pubDate>Wed, 19 May 2021 14:36:56 -0700</pubDate>
+ </item>
  <item>
   <title>Why Banking With Greenwood Is About More Than the Money</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5135%2Fgreenwood.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In March, Greenwood raised a $40 million Series A from Truist Bank, Bank of America, and JPMorgan Chase, and most recently, Greenwood partnered with Mastercard to create its first debit card and other educational resources for customers. Greenwood Financial’s founders were inspired by the prosperity of the Greenwood District. Greenwood’s fully digital platform allows people to bank with them from all over the country, specifically in areas that have been shunned by traditional banks, known as bank deserts. But it’s not just about making Greenwood’s services accessible; its users have to trust it, which means reframing the fraught relationship between the US financial institutions and Black Americans. And Greenwood, we're making the Black version of that movie.” As of last June, only 0.2% of all banks regulated by the FDIC were Black-owned, and the number of Black-owned banks has been cut in half since 2001. In the early 1900s, the Greenwood District of Tusla, Oklahoma—often referred to as Black Wall Street—was home to a thriving Black business community.  “You can get Apple Pay and Google Pay, you can get a savings account, a spending account, and you can go to the ATM. The digital banking platform is designed specifically for Black and Latino customers who have historically been denied access to credit and other financial services at much higher rates than white customers. Giddins mentions Italian-American Amadeo Giannini who founded Bank of America, at the time called “Bank of Italy,” in 1904 as a way to provide loans to immigrants who were denied by major financial institutions.</description>
@@ -361,15 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/14/cdcs-new-guidelines-causing-confusion-businesses?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 15 May 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 15</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5091%2Fthe_robin_hood_foundation.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Index) Read: Why the hybrid workforce of the future depends on the ‘Geriatric Millennial.” Musk’s tweets around bitcoin and dogecoin this week drove dramatic swings in prices.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/14/key-performance-indicators-may-15</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/14/key-performance-indicators-may-15</guid>
-  <pubDate>Fri, 14 May 2021 15:16:57 -0700</pubDate>
  </item>
 
 </channel>
