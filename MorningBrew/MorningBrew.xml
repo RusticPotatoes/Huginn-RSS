@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/18/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/19/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/19/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/18</link>
- <lastBuildDate>Tue, 18 May 2021 15:49:02 -0700</lastBuildDate>
- <pubDate>Tue, 18 May 2021 15:49:02 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/19</link>
+ <lastBuildDate>Wed, 19 May 2021 03:03:56 -0700</lastBuildDate>
+ <pubDate>Wed, 19 May 2021 03:03:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Amazon Reportedly Negotiating $9B Acquisition of MGM Studios</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5126%2Fmgm_bezos.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;AT&amp;T's WarnerMedia just confirmed that it’s merging with Discovery into a $120+ billion entertainment giant next year.  Zoom out: News of a potential MGM acquisition comes against the backdrop of an increasingly competitive streaming landscape.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/18/amazon-reportedly-negotiating-9b-acquisition-mgm-studios?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/amazon-reportedly-negotiating-9b-acquisition-mgm-studios?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 19 May 2021 03:01:56 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 19</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5115%2Ffull_restaurant.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Eater) Read: How a NYC restaurant loses money on a $14 sandwich.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/18/key-performance-indicators-may-19?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/key-performance-indicators-may-19?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 19 May 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Google Announces Slate of New Features</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5128%2Fgoogle_photos.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; On Google Search, you'll be able to... In Google Photos... Big picture: Parent Alphabet may have scaled back some moonshot projects, but it continues to use Google's cash-cow advertising unit to invest in futuristic services that range from practical to pie-in-the-sky.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/18/google-announces-slate-new-features?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/google-announces-slate-new-features?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 19 May 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Teens Can Now Trade Stocks With Fidelity</title>
+  <description>&lt;img src='https://media.giphy.com/media/E1xgKbLawJOYo/giphy.gif'&gt;&lt;br/&gt;when teens with Fidelity Youth Accounts turn 18, their account switches into Fidelity's standard brokerage offering for grown-ups.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/18/teens-can-now-trade-stocks-fidelity?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>stocks</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/teens-can-now-trade-stocks-fidelity?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 19 May 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>IEA Sets out 400+ Step Plan to Reach 2050 Climate Goals</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3858%2Fsustainability.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; So the IEA went full Leslie Knope and released 400+ milestones for governments, including... And, based on existing national targets, the IEA estimates that by 2050 there will still be 22 billion tons of CO2 emissions. In a halftime speech for the ages, the International Energy Agency released a major report yesterday urging countries to go out there and score their 2050 climate goals. The gameplanSome countries have taken big steps—Denmark pledged an end to new fossil fuel exploration, the UK is phasing out new sales of gas-powered vehicles.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/18/iea-sets-400-step-plan-reach-2050-climate-goals?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/iea-sets-400-step-plan-reach-2050-climate-goals?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 19 May 2021 03:01:55 -0700</pubDate>
+ </item>
  <item>
   <title>Google Announces Slate of New Features</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5128%2Fgoogle_photos.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; On Google Search, you'll be able to...  But wait, there's more: Google plans to drop a few billi on building the first-ever commercial-grade quantum computer by 2029.</description>
@@ -325,51 +370,6 @@
   <categories>collectibles</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/14/target-pauses-instore-trading-card-sales</guid>
   <pubDate>Fri, 14 May 2021 15:11:57 -0700</pubDate>
- </item>
- <item>
-  <title>The Group that Hacked the Colonial Pipeline, DarkSide, Shuts Down</title>
-  <description>&lt;img src='https://media.giphy.com/media/3o6EhGvKschtbrRjX2/giphy.gif'&gt;&lt;br/&gt;The criminal group DarkSide told its hacker-workers it’s shutting down. It managed to do both: Following the ransomware attack, Colonial, the pipeline operator, paid DarkSide $5 million. In a sign that the country still hasn’t recovered from DarkSide’s attack, Washington, DC, was crunched for gas yesterday. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/14/group-hacked-colonial-pipeline-darkside-shuts</link>
-  <author>Jamie Wilde</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/14/group-hacked-colonial-pipeline-darkside-shuts</guid>
-  <pubDate>Fri, 14 May 2021 15:11:57 -0700</pubDate>
- </item>
- <item>
-  <title>Vaccine Tracker: May 15</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;the head of the WHO isn’t happy about the US giving vaccines to kids.   Damn Yankees: Eight members in the NY Yankees organization have tested positive for Covid-19 despite being fully vaccinated.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/14/vaccine-tracker-may-15</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/14/vaccine-tracker-may-15</guid>
-  <pubDate>Fri, 14 May 2021 15:11:57 -0700</pubDate>
- </item>
- <item>
-  <title>CDC’s New Guidelines Causing Confusion for Businesses</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5085%2Fno_facemasks_cdc_guidelines.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The “mask police” assignment just got tougherPeople will still have to wear masks to patronize businesses that require them, shifting more responsibility onto workers who’ve spent more than a year on the mask beat. the CDC said masks are still advised on planes, but it will be looking at updating those guidelines along with those for daycares, summer camps, and schools. But responses have been all over the board:Yesterday, Walmart said that fully vaccinated customers and employees won’t need to wear masks unless required by local laws.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/14/cdcs-new-guidelines-causing-confusion-businesses</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/14/cdcs-new-guidelines-causing-confusion-businesses</guid>
-  <pubDate>Fri, 14 May 2021 15:06:55 -0700</pubDate>
- </item>
- <item>
-  <title>Fantasy Investing Competition Update</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5087%2Fleaderboard.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Twitter Bottom line: The average return among all 10,000 players was -1.51%, so if you had just sat on your initial capital and didn’t make a single trade, you’d be in a pretty good position. The most creative strategy, however, goes to writer Matty Merrit, who tripled down on her Nebraska roots with a portfolio made solely from corn.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/14/fantasy-investing-competition-update</link>
-  <author>Toby Howell</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/14/fantasy-investing-competition-update</guid>
-  <pubDate>Fri, 14 May 2021 15:06:55 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Crossword</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/14/brew-crossword</link>
-  <author>Toby Howell</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/14/brew-crossword</guid>
-  <pubDate>Fri, 14 May 2021 15:01:54 -0700</pubDate>
  </item>
 
 </channel>
