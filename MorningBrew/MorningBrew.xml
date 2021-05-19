@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/19</link>
- <lastBuildDate>Wed, 19 May 2021 14:59:03 -0700</lastBuildDate>
- <pubDate>Wed, 19 May 2021 14:59:03 -0700</pubDate>
+ <lastBuildDate>Wed, 19 May 2021 15:08:56 -0700</lastBuildDate>
+ <pubDate>Wed, 19 May 2021 15:08:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>F-150 Lightning: A Lot Riding on Ford’s First All-Electric Truck</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5147%2Fus-politics-biden.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In an extravagant event last night, Ford officially unveiled its all-electric F-150 Lightning. Since many Americans may view EVs as the domain of the Berkeley crowd, Ford hopes that an electric version of the ubiquitous F-150 could change perceptions.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/19/f150-lightning-lot-riding-fords-first-allelectric-truck</link>
+  <author>Matty Merritt</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/19/f150-lightning-lot-riding-fords-first-allelectric-truck</guid>
+  <pubDate>Wed, 19 May 2021 15:06:55 -0700</pubDate>
+ </item>
  <item>
   <title>Cryptocurrencies Including Bitcoin, Ethereum Plunge In Value</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5146%2Fcoal_hands.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;PwC’s global head of crypto Henri Arslanian: “I would not be surprised to see other regulators and policymakers do the same [as the Chinese restrictions] over the coming weeks as they warn investors over the risks of speculative trading or crypto market volatility.”  Some other reasons investors could be hopping off the crypto coaster: New investors in the space may have learned Monday that the IRS treats cryptocurrency as property, not currency, and taxes it as such. But yesterday, amid the market chaos, Musk confirmed his overall support for bitcoin with a tweet: “Tesla has 💎 🙌” On a crazy day for crypto, everyone had something to sayLet’s pass the mic...</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>collectibles</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/14/target-pauses-instore-trading-card-sales?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 15 May 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>Vaccine Tracker: May 15</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;the head of the WHO would rather the US not do that.   The incident shows that, while the vaccines have been proven to be highly effective against the coronavirus, “breakthrough” cases can still occur.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/14/vaccine-tracker-may-15?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/14/vaccine-tracker-may-15?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 15 May 2021 03:01:55 -0700</pubDate>
  </item>
 
