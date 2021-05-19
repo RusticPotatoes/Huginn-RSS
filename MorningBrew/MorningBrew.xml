@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/19</link>
- <lastBuildDate>Wed, 19 May 2021 15:08:56 -0700</lastBuildDate>
- <pubDate>Wed, 19 May 2021 15:08:56 -0700</pubDate>
+ <lastBuildDate>Wed, 19 May 2021 15:13:57 -0700</lastBuildDate>
+ <pubDate>Wed, 19 May 2021 15:13:57 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Air Travel Already Surging Before EU’s Reopening Announcement</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1093%2Fplane.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Back stateside: While some American travelers are waiting for the final EU approval that will likely come later this month or next before booking international flights, US domestic travel has already taken off. United added 400 new domestic and international flights to July’s schedule to prepare for the expected surge in summer travels.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/19/air-travel-already-surging-eus-reopening-announcement</link>
+  <author>Matty Merritt</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/19/air-travel-already-surging-eus-reopening-announcement</guid>
+  <pubDate>Wed, 19 May 2021 15:11:56 -0700</pubDate>
+ </item>
  <item>
   <title>F-150 Lightning: A Lot Riding on Ford’s First All-Electric Truck</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5147%2Fus-politics-biden.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In an extravagant event last night, Ford officially unveiled its all-electric F-150 Lightning. Since many Americans may view EVs as the domain of the Berkeley crowd, Ford hopes that an electric version of the ubiquitous F-150 could change perceptions.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/14/key-performance-indicators-may-15?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 15 May 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>Target Pauses In-Store Trading Card Sales</title>
-  <description>&lt;img src='https://media.giphy.com/media/U97tnnWYeiNyp166tu/giphy.gif'&gt;&lt;br/&gt;The chain is pulling Pokémon, MLB, NFL, and NBA trading cards off shelves after card-seeking customers have gotten increasingly unruly.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/14/target-pauses-instore-trading-card-sales?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>collectibles</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/14/target-pauses-instore-trading-card-sales?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 15 May 2021 03:01:55 -0700</pubDate>
  </item>
 
