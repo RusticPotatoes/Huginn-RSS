@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/21</link>
- <lastBuildDate>Fri, 21 May 2021 14:44:00 -0700</lastBuildDate>
- <pubDate>Fri, 21 May 2021 14:44:00 -0700</pubDate>
+ <lastBuildDate>Fri, 21 May 2021 15:04:00 -0700</lastBuildDate>
+ <pubDate>Fri, 21 May 2021 15:04:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: May 22</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Morning Brew) Read: In the final installment of our series on Black Wall Street, we collected a list of resources to help you learn more about the Tulsa Race Massacre of 1921.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/21/key-performance-indicators-may-22</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/key-performance-indicators-may-22</guid>
+  <pubDate>Fri, 21 May 2021 15:01:59 -0700</pubDate>
+ </item>
  <item>
   <title>Tribune’s Shareholders Approve Sale to Alden</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5176%2Fchicago_tribune.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;When the deal is finalized, Alden will take Tribune private and become the second-largest newspaper owner in the country.</description>
@@ -361,15 +370,6 @@
   <categories>crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/elon-musks-crypto-tweets-legal?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 18 May 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Are Elon Musk's Crypto Tweets Legal?</title>
-  <description>&lt;img src='https://media.giphy.com/media/I9Pt41RvhSjeXOJaAu/giphy.gif'&gt;&lt;br/&gt; While Tesla's initial embrace of bitcoin was a major stamp of legitimacy for the crypto, the CEO's comments are now fueling critics' argument that cryptocurrency is too volatile." This past weekend, they fell after he replied to a tweet implying that Tesla may have sold its bitcoin holdings (Musk later said Tesla didn't). then tanked 17% this month when Musk tweeted that Tesla was changing course. Tesla lawyers now vet any tweets containing any information "material to the company." Bitcoin prices rose over 15% in February when Tesla said it would take the cryptocurrency as payment...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/17/elon-musks-crypto-tweets-legal</link>
-  <author>Alex Hickey</author>
-  <categories>cryptocurrency</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/elon-musks-crypto-tweets-legal</guid>
-  <pubDate>Mon, 17 May 2021 14:56:56 -0700</pubDate>
  </item>
 
 </channel>
