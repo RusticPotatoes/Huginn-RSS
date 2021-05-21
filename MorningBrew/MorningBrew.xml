@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/21</link>
- <lastBuildDate>Fri, 21 May 2021 03:04:00 -0700</lastBuildDate>
- <pubDate>Fri, 21 May 2021 03:04:00 -0700</pubDate>
+ <lastBuildDate>Fri, 21 May 2021 12:08:59 -0700</lastBuildDate>
+ <pubDate>Fri, 21 May 2021 12:08:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Crossword: Cover Your Bases</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/21/brew-crossword-cover-bases</link>
+  <author>Toby Howell</author>
+  <categories>brew crossword cover your bases</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/brew-crossword-cover-bases</guid>
+  <pubDate>Fri, 21 May 2021 12:06:58 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 21</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5158%2Fequinox_gym.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(ByteDance) The Fed will release a report this summer on the viability of CBDCs.Read: A thought-provoking letter from the founder of ByteDance about why he's stepping down as CEO.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/16/covid-updates-around-world?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 17 May 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>Checking in on Biden's Tax Proposals</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4403%2Fcorporate_taxes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The White House has also proposed sending $80 billion to the IRS to fund audits and recoup the estimated $1 trillion in taxes that doesn't get collected annually. Biden proposed raising income taxes on individuals earning $400k/year to 39.6% and hitting capital gains at the same rate for individuals earning $1+ million/year.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/16/checking-bidens-tax-proposals?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>taxes</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/16/checking-bidens-tax-proposals?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 17 May 2021 03:01:55 -0700</pubDate>
  </item>
 
