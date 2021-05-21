@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/21</link>
- <lastBuildDate>Fri, 21 May 2021 15:04:00 -0700</lastBuildDate>
- <pubDate>Fri, 21 May 2021 15:04:00 -0700</pubDate>
+ <lastBuildDate>Fri, 21 May 2021 15:18:55 -0700</lastBuildDate>
+ <pubDate>Fri, 21 May 2021 15:18:55 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Tulsa Race Massacre: Learn More About What Happened</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5081%2Fblack_wall_street_main_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Nia Clark’s Dreams of Black Wall Street series offers a deep dive into the riots, but also reflects on the massacre’s legacy, including Greenwood’s continued economic struggles, racial tensions, and the unsolved mystery of where the bodies are buried. It runs through everything from national and local factors that precipitated the event to the massacre itself to the aftermath. Go deeper on what happened May 31 and June 1Read: In 1921, journalist Walter White, who would later become the NAACP director, was sent to Tulsa to write about what happened for The Nation.  ABC’s Soul of a Nation shares the stories of survivors and looks at how the city is still working to heal those wounds.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/21/tulsa-race-massacre-learn-happened</link>
+  <author>Alex Hickey</author>
+  <categories>black wall street</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/tulsa-race-massacre-learn-happened</guid>
+  <pubDate>Fri, 21 May 2021 15:16:54 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 22</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Morning Brew) Read: In the final installment of our series on Black Wall Street, we collected a list of resources to help you learn more about the Tulsa Race Massacre of 1921.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/new-study-finds-overworking-causes-hundreds-thousands-death-every-year?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 18 May 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Are Elon Musk's Crypto Tweets Legal?</title>
-  <description>&lt;img src='https://media.giphy.com/media/I9Pt41RvhSjeXOJaAu/giphy.gif'&gt;&lt;br/&gt; While Tesla's initial embrace of bitcoin was a major stamp of legitimacy for the crypto, the CEO's comments are now fueling critics' argument that cryptocurrency is too volatile." This past weekend, they fell after he replied to a tweet implying that Tesla may have sold its bitcoin holdings (Musk later said Tesla didn't). Tesla lawyers now vet any tweets containing any information "material to the company." then tanked 17% this month when Musk tweeted that Tesla was changing course. Elon Musk impersonators have scammed investors out of $2+ million worth of cryptocurrency in the last six months, according to the Federal Trade Commission.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/17/elon-musks-crypto-tweets-legal?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/elon-musks-crypto-tweets-legal?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 18 May 2021 03:01:59 -0700</pubDate>
  </item>
 
