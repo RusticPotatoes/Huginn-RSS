@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/20/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/21/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/20</link>
- <lastBuildDate>Thu, 20 May 2021 21:08:59 -0700</lastBuildDate>
- <pubDate>Thu, 20 May 2021 21:08:59 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/21</link>
+ <lastBuildDate>Fri, 21 May 2021 03:04:00 -0700</lastBuildDate>
+ <pubDate>Fri, 21 May 2021 03:04:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: May 21</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5158%2Fequinox_gym.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(ByteDance) The Fed will release a report this summer on the viability of CBDCs.Read: A thought-provoking letter from the founder of ByteDance about why he's stepping down as CEO.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/20/key-performance-indicators-may-21?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/20/key-performance-indicators-may-21?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 21 May 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Billionaire Barry Diller's $260 Million Island Opens this Weekend</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5157%2Flittle_island.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If you can't find us this weekend, check the 2.4-acre floating Little Island, which opens today on New York City's west side.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/20/billionaire-barry-dillers-260-million-island-opens-weekend?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>architecture</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/20/billionaire-barry-dillers-260-million-island-opens-weekend?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 21 May 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Robinhood Now Offering IPO Shares</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2127%2Frobinhood_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The guinea pig: Figs, a maker of medical scrubs, became the first company to offer IPO shares on Robinhood when it went public yesterday, reserving 1% of its 22.5 million shares for Robinhood users. Companies popped an average of 36% on their first day of trading in 2020, per Dealogic.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/20/robinhood-now-offering-ipo-shares?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>investing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/20/robinhood-now-offering-ipo-shares?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 21 May 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Oatly IPOs at $12B valuation</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5156%2Foatly.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But the company didn't become a household name until Petersson took over as CEO in 2014, refreshing Oatly's visual identity and reframing its marketing around oat milk's health and environmental benefits. Yesterday, shares in Oatly, the world's biggest oat milk maker, soared 19% in its IPO, valuing the company at a trenta-sized $12 billion. In the oat department alone, Oatly's got competition from Califia Farms, Chobani, Planet Oat, Pacific, and Danone's legacy alternative milk brands, Alpro and Silk. oat milk? But oat milk is still second fiddle to almond milk. Their bet is paying off.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/20/oatly-ipos-12b-valuation?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>food and bev</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/20/oatly-ipos-12b-valuation?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 21 May 2021 03:01:58 -0700</pubDate>
+ </item>
  <item>
   <title>In finance, 'people of color are shut out before they ever get in'</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5144%2Fblack_businesswoman.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;There just aren't that many people of color in finance, even in New York City. Now we in finance are starting to pay attention to diversity. There are more of us now—maybe because banks realized sitting in a room with only 15 white men was a bad look. People of color are shut out before they ever get in. Do I talk to the seven people of color who work in finance? It's just you, the only woman on the floor and one of the few people of color on the floor. When Wells Fargo's CEO says he can't find qualified people of color when I personally have them reaching out to me on LinkedIn every day? I had friends of color from college who happened to be in the finance industry In speaking to my friends of color in different parts of the finance industry, our experiences were analogous. I think the finance industry wants to change. Maybe there aren't seven Black people anymore, but eight. You feel like you work harder than your coworkers with no recognition." I had a friend of color in my cohort and we were among the only people who got the job based on our interviews and credentials, and not who our family was, or who knew someone. We're hardly giving those same chances to people of color. Just to get me in the stadium, essentially. It's so hard to get your foot in the door. You're not seeing the fruits of your labor. In 2015 I received a new manager who happened to be a white man. Sure, there were one or two other Black men, but trying to fit into the culture—the culture of white people, to be frank—was difficult. There was one woman at my bank, more senior, who I could talk to as a kind of mentor. You can see the change particularly when there are industry happy hours and events. But it can be a hard few months or years. I don't know. I'm sure my story is not unique for people of color in finance.</description>
@@ -334,42 +370,6 @@
   <categories>taxes</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/16/checking-bidens-tax-proposals?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 17 May 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>AT&amp;T's WarnerMedia, Discovery Discuss Merger</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5093%2Fat_t.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; While AT&amp;T has funneled resources into production for HBO Max, it's gotten rid of some other media assets.  It's a U-turn for AT&amp;TWarnerMedia was created just three years ago through AT&amp;T's $85 billion acquisition of Time Warner. WarnerMedia is home to storied brands including CNN, Cartoon Network, Warner Bros. AT&amp;T is preparing to spin off its entertainment business, WarnerMedia, and merge it with competitor Discovery, Bloomberg reported yesterday.   Verizon recently sold its media assets to Apollo Global Management for $5 billion.  So why's AT&amp;T changing course now?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/16/atts-warnermedia-discovery-discuss-merger?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/16/atts-warnermedia-discovery-discuss-merger?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 17 May 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Covid Updates From Around the World</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Meanwhile, the Canadian government has started to discuss reopening the border with the US, which has been closed since March 2020.  North America: The one-week average of new cases hit its lowest level since June.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/16/covid-updates-around-world</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/16/covid-updates-around-world</guid>
-  <pubDate>Sun, 16 May 2021 16:47:02 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 17</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(InsideHook) Read: Why are non-alcoholic spirits so expensive?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/16/key-performance-indicators-may-17</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/16/key-performance-indicators-may-17</guid>
-  <pubDate>Sun, 16 May 2021 16:42:03 -0700</pubDate>
- </item>
- <item>
-  <title>Checking in on Biden's Tax Proposals</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4403%2Fcorporate_taxes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;So the White House has also proposed sending $80 billion to the IRS to fund audits and recoup the estimated $1 trillion in taxes that doesn't get collected annually. Ready to talk about the potential tax changes for next year?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/16/checking-bidens-tax-proposals</link>
-  <author>Alex Hickey</author>
-  <categories>taxes</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/16/checking-bidens-tax-proposals</guid>
-  <pubDate>Sun, 16 May 2021 16:42:03 -0700</pubDate>
  </item>
 
 </channel>
