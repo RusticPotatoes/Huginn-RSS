@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/21</link>
- <lastBuildDate>Fri, 21 May 2021 13:38:59 -0700</lastBuildDate>
- <pubDate>Fri, 21 May 2021 13:38:59 -0700</pubDate>
+ <lastBuildDate>Fri, 21 May 2021 14:38:56 -0700</lastBuildDate>
+ <pubDate>Fri, 21 May 2021 14:38:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Your Epic Sports Weekend Primer</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5170%2Fpga_championship.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Golf Keyur Khamar/PGA TOUR via Getty Images The PGA Championship is entering the third round at the stunning-but-gusty Ocean Course at Kiawah Island in South Carolina.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/21/epic-sports-weekend-primer</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/epic-sports-weekend-primer</guid>
+  <pubDate>Fri, 21 May 2021 14:36:56 -0700</pubDate>
+ </item>
+ <item>
+  <title>Vaccine Tracker: May 22</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Use vaccines as an aphrodisiac: In partnership with the White House, popular dating apps including Hinge, Tinder, OkCupid, and Bumble will soon introduce features that allow users to a) broadcast they’ve been vaccinated and b) find other vaccinated singles who are down to dose-si-do.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/21/vaccine-tracker-may-22</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/vaccine-tracker-may-22</guid>
+  <pubDate>Fri, 21 May 2021 14:36:55 -0700</pubDate>
+ </item>
  <item>
   <title>Make It Work: Recruiting Takeover </title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;When you apply and are asked about your current company/role, my suggestion would be to reference notable companies, brands, or clients you work with along with the less-recognizable name of the smaller company you work for. is a question I get asked in every interview.  You can always check the Glassdoor profile of a company you’re applying to, but take it with a grain of salt since reviews on there can sometimes be really old. Everyone says working for a small company/startup leads to valuable skills, but many recruiters may not recognize the company's name.</description>
@@ -352,24 +370,6 @@
   <categories>transportation</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/nyc-subways-now-open-247-year-late-night-closure</guid>
   <pubDate>Mon, 17 May 2021 14:52:00 -0700</pubDate>
- </item>
- <item>
-  <title>New Study Finds Overworking Causes Hundreds of Thousands of Death Every Year</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4590%2Fworking_at_messy_desk_late_at_night.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That 2016 part. If you needed a final push to close your laptop while the sun is still out, let this be it: People who work 55+ hours a week have a 35% higher risk of stroke and 17% higher risk of dying from heart disease, says the WHO. Bottom line.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/17/new-study-finds-overworking-causes-hundreds-thousands-death-every-year</link>
-  <author>Matty Merritt</author>
-  <categories>health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/new-study-finds-overworking-causes-hundreds-thousands-death-every-year</guid>
-  <pubDate>Mon, 17 May 2021 14:47:02 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 18</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F155%2Fhorse_racing.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Letters from Home &amp; Away) Read: The harmful consequences of more, more, more on the internet.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/17/key-performance-indicators-may-18</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/key-performance-indicators-may-18</guid>
-  <pubDate>Mon, 17 May 2021 14:36:55 -0700</pubDate>
  </item>
 
 </channel>
