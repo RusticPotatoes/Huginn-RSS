@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/21</link>
- <lastBuildDate>Fri, 21 May 2021 12:08:59 -0700</lastBuildDate>
- <pubDate>Fri, 21 May 2021 12:08:59 -0700</pubDate>
+ <lastBuildDate>Fri, 21 May 2021 13:33:56 -0700</lastBuildDate>
+ <pubDate>Fri, 21 May 2021 13:33:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Icebreakers With...Aparicio Giddins</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5166%2Faparicio_giddins.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The book that I read in college that made me want to start a bank was Rich Dad, Poor Dad.What's a song that can always pump you up? Aparicio Giddins is the president and chief technology officer of Greenwood Financial, a new banking platform for Black and Latino customers. What new ways of doing things will you keep from this past year? I want to make sure that I continue getting outdoors because it really is beautiful out there. This interview was lightly edited and condensed for clarity. It's a shame I've been stuck in a concrete building for the last 20 years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/21/icebreakers-withaparicio-giddins</link>
+  <author>Matty Merritt</author>
+  <categories>qanda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/icebreakers-withaparicio-giddins</guid>
+  <pubDate>Fri, 21 May 2021 13:31:56 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Crossword: Cover Your Bases</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/16/key-performance-indicators-may-17?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 17 May 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>Covid Updates From Around the World</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3150%2Fcovid-19_vaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; North America: The one-week average of new cases in the US hit its lowest level since June. Southeast Asia: Despite early successes at taming the coronavirus, Singapore and Taiwan are clamping down aggressively to combat new outbreaks.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/16/covid-updates-around-world?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/16/covid-updates-around-world?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 17 May 2021 03:01:55 -0700</pubDate>
  </item>
 
