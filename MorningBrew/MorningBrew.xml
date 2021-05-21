@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/21</link>
- <lastBuildDate>Fri, 21 May 2021 15:18:55 -0700</lastBuildDate>
- <pubDate>Fri, 21 May 2021 15:18:55 -0700</pubDate>
+ <lastBuildDate>Fri, 21 May 2021 15:23:55 -0700</lastBuildDate>
+ <pubDate>Fri, 21 May 2021 15:23:55 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Trial Between Epic Games and Apple Is Over</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5179%2Fepic_games_apple.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But even if it ends up defeating Epic, this trial has perma-flipped flashlight mode onto Apple’s App Store. Cook also argued that Apple does not closely track the App Store’s profit and loss; in other words, the company’s bean-counting doesn’t interfere with the App Store’s integrity as a marketplace for users to discover apps.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/21/trial-epic-games-apple</link>
+  <author>Jamie Wilde</author>
+  <categories>antitrust</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/trial-epic-games-apple</guid>
+  <pubDate>Fri, 21 May 2021 15:21:54 -0700</pubDate>
+ </item>
  <item>
   <title>Tulsa Race Massacre: Learn More About What Happened</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5081%2Fblack_wall_street_main_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Nia Clark’s Dreams of Black Wall Street series offers a deep dive into the riots, but also reflects on the massacre’s legacy, including Greenwood’s continued economic struggles, racial tensions, and the unsolved mystery of where the bodies are buried. It runs through everything from national and local factors that precipitated the event to the massacre itself to the aftermath. Go deeper on what happened May 31 and June 1Read: In 1921, journalist Walter White, who would later become the NAACP director, was sent to Tulsa to write about what happened for The Nation.  ABC’s Soul of a Nation shares the stories of survivors and looks at how the city is still working to heal those wounds.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/key-performance-indicators-may-18?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 18 May 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>New Study Finds Overworking Causes Hundreds of Thousands of Death Every Year</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4590%2Fworking_at_messy_desk_late_at_night.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That 2016 part. Bottom line: If you needed a final push to close your laptop while the sun is still out, let this be it: People who work 55+ hours a week have a 35% higher risk of stroke and 17% higher risk of dying from heart disease, says the WHO.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/17/new-study-finds-overworking-causes-hundreds-thousands-death-every-year?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/new-study-finds-overworking-causes-hundreds-thousands-death-every-year?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 18 May 2021 03:01:59 -0700</pubDate>
  </item>
 
