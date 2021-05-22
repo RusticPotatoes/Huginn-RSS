@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/21/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/22/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/21</link>
- <lastBuildDate>Fri, 21 May 2021 15:23:55 -0700</lastBuildDate>
- <pubDate>Fri, 21 May 2021 15:23:55 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/22</link>
+ <lastBuildDate>Sat, 22 May 2021 03:03:53 -0700</lastBuildDate>
+ <pubDate>Sat, 22 May 2021 03:03:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Your Epic Sports Weekend Primer</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5170%2Fpga_championship.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Golf Keyur Khamar/PGA TOUR via Getty Images The PGA Championship is entering the third round at the stunning-but-gusty Ocean Course at Kiawah Island in South Carolina.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/21/epic-sports-weekend-primer?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/epic-sports-weekend-primer?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 22 May 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 22</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Morning Brew) Read: In the final installment of our series on Black Wall Street, we collected a list of resources to help you learn more about the Tulsa Race Massacre of 1921.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/21/key-performance-indicators-may-22?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/key-performance-indicators-may-22?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 22 May 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Tribune’s Shareholders Approve Sale to Alden</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5176%2Fchicago_tribune.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Despite loads of opposition, shareholders voted yesterday to approve the sale of Tribune Publishing and its legendary newspaper chain—including the Chicago Tribune, Baltimore Sun, and a number of other local dailies—to Alden Global Capital for $633 million.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/21/tribunes-shareholders-approve-sale-alden?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/tribunes-shareholders-approve-sale-alden?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 22 May 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Vaccine Tracker: May 22</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Use vaccines as an aphrodisiac: In partnership with the White House, popular dating apps including Hinge, Tinder, OkCupid, and Bumble will soon introduce features that allow users to a) broadcast they’ve been vaccinated and b) find other vaccinated singles who are down to dose-si-do.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/21/vaccine-tracker-may-22?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/vaccine-tracker-may-22?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 22 May 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Trial Between Epic Games and Apple Is Over</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5179%2Fepic_games_apple.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But even if it ends up defeating Epic, this trial has perma-flipped flashlight mode onto Apple’s App Store. Cook also argued that Apple does not closely track the App Store’s profit and loss; in other words, the company’s bean-counting doesn’t interfere with the App Store’s integrity as a marketplace for users to discover apps.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/21/trial-epic-games-apple?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>antitrust</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/trial-epic-games-apple?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 22 May 2021 03:02:02 -0700</pubDate>
+ </item>
  <item>
   <title>The Trial Between Epic Games and Apple Is Over</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5179%2Fepic_games_apple.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But even if it ends up defeating Epic, this trial has perma-flipped flashlight mode onto Apple’s App Store. Cook also argued that Apple does not closely track the App Store’s profit and loss; in other words, the company’s bean-counting doesn’t interfere with the App Store’s integrity as a marketplace for users to discover apps.</description>
@@ -325,51 +370,6 @@
   <categories>environment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/iea-sets-400-step-plan-reach-2050-climate-goals</guid>
   <pubDate>Tue, 18 May 2021 15:37:00 -0700</pubDate>
- </item>
- <item>
-  <title>Amazon Reportedly Negotiating $9B Acquisition of MGM Studios</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5126%2Fmgm_bezos.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Amazon accordingly upped spending on TV, movies, and music 40% last year, including a jaw-dropping $465 million for the first season of a new Lord of the Rings series. AT&amp;T's WarnerMedia  just confirmed that it’s merging with Discovery into a $120+ billion entertainment giant next year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/18/amazon-reportedly-negotiating-9b-acquisition-mgm-studios</link>
-  <author>Alex Hickey</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/amazon-reportedly-negotiating-9b-acquisition-mgm-studios</guid>
-  <pubDate>Tue, 18 May 2021 15:37:00 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 19</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5115%2Ffull_restaurant.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s how Quality Bistro cofounder Michael Stillman described his restaurant’s outdoor dining setup to Eater New York.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/18/key-performance-indicators-may-19</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/key-performance-indicators-may-19</guid>
-  <pubDate>Tue, 18 May 2021 15:31:59 -0700</pubDate>
- </item>
- <item>
-  <title>8 Charts that Explore Racial Disparities in the Banking Industry</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5081%2Fblack_wall_street_main_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Let's break it down by genderWhile there were more than 2x the number of Black women working in financial services at the professional level than Black men in 2018, their representation at the top was lower: 1.4% of executive/senior officials are Black men compared to 1.3% of Black women. Francis Scialabba But at the tippy top, &lt;4% of the top managers identified as Black at most big banks. The presence of fewer Black banks can have an impact on local communities, the Urban Institute writes: "As technology has allowed larger banks to deepen their market penetration without the need for physical branches, physical community bank branches are often the last defense between a community and banking isolation. Francis Scialabba That lack of capital has been a big constraint on many Black banks' abilities to lend and expand. Black banks are a small piece of the pieWhile the dollar value of assets held by all MDIs increased more than 3.5x over the last two decades, the share held by Black banks has fallen to &lt;2% the total. At the end of 2020, there were just 20 Black banks. you know the drillThe average share of Black employees classified at the first/mid level at those same banks was 6.9%.  On average, Black workers accounted for 7.9% of professional workers. You can find the remaining 20 Black banks... Francis Scialabba Black banks typically practice relationship banking: a more consultative approach that involves getting to know a customer and their needs and offering a variety of products and services. Across their total employee base, four—JPMorgan, Bank of America, PNC, and Capital One—had a 13% or greater share of Black employees (similar to the population at large, in which Black Americans were last estimated at 13.4%). Black banks have a longevity and capital problem. Wall Street's not the only streetOne way the US government has tried to narrow the racial wealth gap is by supporting Black-owned banks. Wall Street has a diversity problem.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/18/8-charts-explore-racial-disparities-banking-industry</link>
-  <author>Alex Hickey</author>
-  <categories>black wall street</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/8-charts-explore-racial-disparities-banking-industry</guid>
-  <pubDate>Tue, 18 May 2021 15:17:04 -0700</pubDate>
- </item>
- <item>
-  <title>NYC Subways Now Open 24/7 After Year of Late Night Closure</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5114%2Fwall_street_station.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Public transit systems in cities such as Chicago, DC, and LA were also hit hard during the pandemic.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/17/nyc-subways-now-open-247-year-late-night-closure?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>transportation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/nyc-subways-now-open-247-year-late-night-closure?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 18 May 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 18</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F155%2Fhorse_racing.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Letters from Home &amp; Away) Read: The harmful consequences of more, more, more on the internet.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/17/key-performance-indicators-may-18?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/17/key-performance-indicators-may-18?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 18 May 2021 03:01:59 -0700</pubDate>
  </item>
 
 </channel>
