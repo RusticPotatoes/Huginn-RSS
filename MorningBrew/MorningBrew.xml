@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/23</link>
- <lastBuildDate>Sun, 23 May 2021 16:49:02 -0700</lastBuildDate>
- <pubDate>Sun, 23 May 2021 16:49:02 -0700</pubDate>
+ <lastBuildDate>Sun, 23 May 2021 16:53:58 -0700</lastBuildDate>
+ <pubDate>Sun, 23 May 2021 16:53:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: May 24</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2735%2Fgrand_tetons_wy.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;apparently were we the only people not in Jackson Hole last month? (Luke Burgis) It controls you and it is taking you where it wants to take you." You look up to it.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/23/key-performance-indicators-may-24</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/23/key-performance-indicators-may-24</guid>
+  <pubDate>Sun, 23 May 2021 16:51:57 -0700</pubDate>
+ </item>
+ <item>
+  <title>Yuang Longping, Credited With Saving Millions from Hunger Through Rice Innovations, Dies at 90</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5181%2Fyuan_longping.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Now, one-fifth of all rice comes from hybrid rice species, according to the World Food Prize website.  Yuan’s breakthroughs turned him into a national hero in China and within the international agriculture community.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/23/yuang-longping-credited-saving-millions-hunger-rice-innovations-dies-90</link>
+  <author>Neal Freyman</author>
+  <categories>agriculture</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/23/yuang-longping-credited-saving-millions-hunger-rice-innovations-dies-90</guid>
+  <pubDate>Sun, 23 May 2021 16:51:56 -0700</pubDate>
+ </item>
  <item>
   <title>The Summer Movie Season Kicks Off</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5180%2Fvin_diesel.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After a debacle of a year in 2020 due to the pandemic, the lucrative summer movie season unofficially kicks off this year with A Quiet Place Part II and Cruella, which will hit US theaters Memorial Day weekend.   When F9 hits the US box office on June 25 its performance, plus the success of the previously mentioned blockbusters, will help us learn more about the state of the theater industry. At least that’s what the movie theater industry is hoping. Last summer, theaters grossed $176 million, a 96% decrease from 2019.</description>
@@ -352,24 +370,6 @@
   <categories>stocks</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/teens-can-now-trade-stocks-fidelity?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 19 May 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>IEA Sets out 400+ Step Plan to Reach 2050 Climate Goals</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3858%2Fsustainability.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; So the IEA went full Leslie Knope and released 400+ milestones for governments, including... And, based on existing national targets, the IEA estimates that by 2050 there will still be 22 billion tons of CO2 emissions. In a halftime speech for the ages, the International Energy Agency released a major report yesterday urging countries to go out there and score their 2050 climate goals. The gameplanSome countries have taken big steps—Denmark pledged an end to new fossil fuel exploration, the UK is phasing out new sales of gas-powered vehicles.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/18/iea-sets-400-step-plan-reach-2050-climate-goals?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/iea-sets-400-step-plan-reach-2050-climate-goals?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 19 May 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>Google Announces Slate of New Features</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5128%2Fgoogle_photos.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; On Google Search, you'll be able to...  But wait, there's more: Google plans to drop a few billi on building the first-ever commercial-grade quantum computer by 2029.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/18/google-announces-slate-new-features</link>
-  <author>Jamie Wilde</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/google-announces-slate-new-features</guid>
-  <pubDate>Tue, 18 May 2021 15:47:01 -0700</pubDate>
  </item>
 
 </channel>
