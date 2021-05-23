@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/22/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/23/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/22</link>
- <lastBuildDate>Sat, 22 May 2021 03:03:53 -0700</lastBuildDate>
- <pubDate>Sat, 22 May 2021 03:03:53 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/23</link>
+ <lastBuildDate>Sun, 23 May 2021 16:49:02 -0700</lastBuildDate>
+ <pubDate>Sun, 23 May 2021 16:49:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Summer Movie Season Kicks Off</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5180%2Fvin_diesel.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After a debacle of a year in 2020 due to the pandemic, the lucrative summer movie season unofficially kicks off this year with A Quiet Place Part II and Cruella, which will hit US theaters Memorial Day weekend.   When F9 hits the US box office on June 25 its performance, plus the success of the previously mentioned blockbusters, will help us learn more about the state of the theater industry. At least that’s what the movie theater industry is hoping. Last summer, theaters grossed $176 million, a 96% decrease from 2019.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/23/summer-movie-season-kicks-off</link>
+  <author>Neal Freyman</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/23/summer-movie-season-kicks-off</guid>
+  <pubDate>Sun, 23 May 2021 16:47:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>Ryainair Plane Forced to Divert to Minsk by Belarusian Leader, Journalist Arrested</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5182%2Fryanair_plane.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   European leaders were stunned and outraged by Lukashenko’s move. European Commission President Ursula von der Leyen said officials will discuss taking action in response to the “outrageous and illegal behavior” of the Belarusian regime.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/23/ryainair-plane-forced-divert-minsk-belarusian-leader-journalist-arrested</link>
+  <author>Neal Freyman</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/23/ryainair-plane-forced-divert-minsk-belarusian-leader-journalist-arrested</guid>
+  <pubDate>Sun, 23 May 2021 16:47:00 -0700</pubDate>
+ </item>
  <item>
   <title>Your Epic Sports Weekend Primer</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5170%2Fpga_championship.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Golf Keyur Khamar/PGA TOUR via Getty Images The PGA Championship is entering the third round at the stunning-but-gusty Ocean Course at Kiawah Island in South Carolina.</description>
@@ -352,24 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/google-announces-slate-new-features</guid>
   <pubDate>Tue, 18 May 2021 15:47:01 -0700</pubDate>
- </item>
- <item>
-  <title>Teens Can Now Trade Stocks With Fidelity</title>
-  <description>&lt;img src='https://media.giphy.com/media/E1xgKbLawJOYo/giphy.gif'&gt;&lt;br/&gt;), because Fidelity just launched trading accounts for 13–17-year-olds. when teens with Fidelity Youth Accounts turn 18, their account switches into Fidelity's standard brokerage offering for grown-ups. Looking ahead... Sheeeeeeesh Gen Z Brew readers (did we use that right?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/18/teens-can-now-trade-stocks-fidelity</link>
-  <author>Jamie Wilde</author>
-  <categories>stocks</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/teens-can-now-trade-stocks-fidelity</guid>
-  <pubDate>Tue, 18 May 2021 15:42:01 -0700</pubDate>
- </item>
- <item>
-  <title>IEA Sets out 400+ Step Plan to Reach 2050 Climate Goals</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3858%2Fsustainability.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And, based on existing national targets, the IEA estimates that by 2050 there will still be 22 billion tons of CO2 emissions.  So the IEA went full Leslie Knope and released 400+ milestones for governments to reach, including... In a halftime speech for the ages, the International Energy Agency released a major report yesterday urging countries to go out there and score their 2050 climate goals. The gameplanSome countries have taken big steps—Denmark pledged an end to new fossil fuel exploration, the UK is phasing out new sales of gas-powered vehicles.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/18/iea-sets-400-step-plan-reach-2050-climate-goals</link>
-  <author>Alex Hickey</author>
-  <categories>environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/iea-sets-400-step-plan-reach-2050-climate-goals</guid>
-  <pubDate>Tue, 18 May 2021 15:37:00 -0700</pubDate>
  </item>
 
 </channel>
