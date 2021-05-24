@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/24</link>
- <lastBuildDate>Mon, 24 May 2021 03:03:55 -0700</lastBuildDate>
- <pubDate>Mon, 24 May 2021 03:03:55 -0700</pubDate>
+ <lastBuildDate>Mon, 24 May 2021 13:58:53 -0700</lastBuildDate>
+ <pubDate>Mon, 24 May 2021 13:58:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Mini</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/24/brew-mini</link>
+  <author>Neal Freyman</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/brew-mini</guid>
+  <pubDate>Mon, 24 May 2021 13:57:03 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: May 24</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1179%2Fgeorge_floyd_memorial.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Tuesday is National Wine Day. Remember, it’s perfectly okay to order the second-cheapest wine on the menu. The Champions League final in soccer is on Saturday. Everything else: The Friends reunion episode airs on HBO Max on Thursday.</description>
@@ -361,15 +370,6 @@
   <categories>cryptocurrency</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/19/cryptocurrencies-including-bitcoin-ethereum-plunge-value</guid>
   <pubDate>Wed, 19 May 2021 14:57:02 -0700</pubDate>
- </item>
- <item>
-  <title>Internet Explorer Gets Edged Out</title>
-  <description>&lt;img src='https://media.giphy.com/media/5eM89KnL1E0v1VGdpt/giphy.gif'&gt;&lt;br/&gt;In 2013, Google Chrome overtook Internet Explorer as the most popular browser in the US and hasn’t looked back. According to NetMarketShare, Chrome owns 69% of the market, Edge 7.8%, Firefox 7.5%, and Internet Explorer 5.2%.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/19/internet-explorer-gets-edged</link>
-  <author>Neal Freyman</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/19/internet-explorer-gets-edged</guid>
-  <pubDate>Wed, 19 May 2021 14:41:57 -0700</pubDate>
  </item>
 
 </channel>
