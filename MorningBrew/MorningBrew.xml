@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/24</link>
- <lastBuildDate>Mon, 24 May 2021 14:59:00 -0700</lastBuildDate>
- <pubDate>Mon, 24 May 2021 14:59:00 -0700</pubDate>
+ <lastBuildDate>Mon, 24 May 2021 15:04:01 -0700</lastBuildDate>
+ <pubDate>Mon, 24 May 2021 15:04:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Merrill Lynch Bans Cold-Calling for Trainees</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5200%2Flinkedin_wolf_of_wall_street.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Merrill executives said fewer than 2% of people even answer a cold call.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/24/merrill-lynch-bans-coldcalling-trainees</link>
+  <author>Matty Merritt</author>
+  <categories>banking</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/merrill-lynch-bans-coldcalling-trainees</guid>
+  <pubDate>Mon, 24 May 2021 15:02:01 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 25</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4079%2Fgolden_gate_bridge.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Vimeo)  Watch: A history of the NRA and its outsized influence on national politics.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>architecture</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/20/billionaire-barry-dillers-260-million-island-opens-weekend</guid>
-  <pubDate>Thu, 20 May 2021 14:16:54 -0700</pubDate>
- </item>
- <item>
-  <title>Robinhood Now Offering IPO Shares</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2127%2Frobinhood_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The guinea pig: Figs, a maker of medical scrubs, became the first company to offer IPO shares on Robinhood when it went public yesterday, reserving 1% of its 22.5 million shares for Robinhood users. Companies popped an average of 36% on their first day of trading in 2020, per Dealogic.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/20/robinhood-now-offering-ipo-shares</link>
-  <author>Matty Merritt</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/20/robinhood-now-offering-ipo-shares</guid>
   <pubDate>Thu, 20 May 2021 14:16:54 -0700</pubDate>
  </item>
 
