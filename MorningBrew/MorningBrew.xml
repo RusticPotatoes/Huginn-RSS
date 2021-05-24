@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/24</link>
- <lastBuildDate>Mon, 24 May 2021 13:58:53 -0700</lastBuildDate>
- <pubDate>Mon, 24 May 2021 13:58:53 -0700</pubDate>
+ <lastBuildDate>Mon, 24 May 2021 14:53:56 -0700</lastBuildDate>
+ <pubDate>Mon, 24 May 2021 14:53:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>New York City Public School System To Be Fully Reopened in the Fall</title>
+  <description>&lt;img src='https://media.giphy.com/media/FMiD54OqYdnW0/giphy.gif'&gt;&lt;br/&gt;After the abysmal April jobs report, President Biden and some economists argued that greater childcare burdens placed on parents prevented them from getting back to work. Mayor Bill de Blasio announced yesterday that the NYC public school system, the nation’s largest, will fully reopen in September with no remote options.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/24/new-york-city-public-school-system-fully-reopened-fall</link>
+  <author>Matty Merritt</author>
+  <categories>education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/new-york-city-public-school-system-fully-reopened-fall</guid>
+  <pubDate>Mon, 24 May 2021 14:51:55 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Mini</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -361,15 +370,6 @@
   <categories>auto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/19/f150-lightning-lot-riding-fords-first-allelectric-truck</guid>
   <pubDate>Wed, 19 May 2021 15:06:55 -0700</pubDate>
- </item>
- <item>
-  <title>Cryptocurrencies Including Bitcoin, Ethereum Plunge In Value</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5146%2Fcoal_hands.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;PwC’s global head of crypto Henri Arslanian: “I would not be surprised to see other regulators and policymakers do the same [as the Chinese restrictions] over the coming weeks as they warn investors over the risks of speculative trading or crypto market volatility.”  Some other reasons investors could be hopping off the crypto coaster: New investors in the space may have learned Monday that the IRS treats cryptocurrency as property, not currency, and taxes it as such. But yesterday, amid the market chaos, Musk confirmed his overall support for bitcoin with a tweet: “Tesla has 💎 🙌” On a crazy day for crypto, everyone had something to sayLet’s pass the mic...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/19/cryptocurrencies-including-bitcoin-ethereum-plunge-value</link>
-  <author>Jamie Wilde</author>
-  <categories>cryptocurrency</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/19/cryptocurrencies-including-bitcoin-ethereum-plunge-value</guid>
-  <pubDate>Wed, 19 May 2021 14:57:02 -0700</pubDate>
  </item>
 
 </channel>
