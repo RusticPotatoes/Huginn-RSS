@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/23</link>
- <lastBuildDate>Sun, 23 May 2021 16:53:58 -0700</lastBuildDate>
- <pubDate>Sun, 23 May 2021 16:53:58 -0700</pubDate>
+ <lastBuildDate>Sun, 23 May 2021 16:59:01 -0700</lastBuildDate>
+ <pubDate>Sun, 23 May 2021 16:59:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: May 24</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1179%2Fgeorge_floyd_memorial.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Tuesday is National Wine Day. Remember, it’s perfectly okay to order the second-cheapest wine on the menu. The Champions League final in soccer is on Saturday. Everything else: The Friends reunion episode airs on HBO Max on Thursday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/23/week-ahead-may-24</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/23/week-ahead-may-24</guid>
+  <pubDate>Sun, 23 May 2021 16:57:00 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 24</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2735%2Fgrand_tetons_wy.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;apparently were we the only people not in Jackson Hole last month? (Luke Burgis) It controls you and it is taking you where it wants to take you." You look up to it.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/google-announces-slate-new-features?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 19 May 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>Teens Can Now Trade Stocks With Fidelity</title>
-  <description>&lt;img src='https://media.giphy.com/media/E1xgKbLawJOYo/giphy.gif'&gt;&lt;br/&gt;when teens with Fidelity Youth Accounts turn 18, their account switches into Fidelity's standard brokerage offering for grown-ups.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/18/teens-can-now-trade-stocks-fidelity?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>stocks</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/18/teens-can-now-trade-stocks-fidelity?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 19 May 2021 03:01:55 -0700</pubDate>
  </item>
 
