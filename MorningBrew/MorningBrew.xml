@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/24/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/24/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/25/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/24</link>
- <lastBuildDate>Mon, 24 May 2021 15:04:01 -0700</lastBuildDate>
- <pubDate>Mon, 24 May 2021 15:04:01 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/25</link>
+ <lastBuildDate>Tue, 25 May 2021 03:04:00 -0700</lastBuildDate>
+ <pubDate>Tue, 25 May 2021 03:04:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Merrill Lynch Bans Cold-Calling for Trainees</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5200%2Flinkedin_wolf_of_wall_street.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Merrill executives said fewer than 2% of people even answer a cold call.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/24/merrill-lynch-bans-coldcalling-trainees?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>banking</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/merrill-lynch-bans-coldcalling-trainees?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 25 May 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 25</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4079%2Fgolden_gate_bridge.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Vimeo)  Watch: A history of the NRA and its outsized influence on national politics.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/24/key-performance-indicators-may-25?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/key-performance-indicators-may-25?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 25 May 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Airbnb Unveils New Tools, Features for Hosts and Guests</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F508%2Fairbnb.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: Chesky admitted that Airbnb hasn’t been doing enough to help hosts, many of whom the company angered at the start of the pandemic when it allowed guests to cancel bookings and receive a full refund.   In Q1, Airbnb reported 64+ million booked nights and experiences, up 13% annually.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/24/airbnb-unveils-new-tools-features-hosts-guests?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/airbnb-unveils-new-tools-features-hosts-guests?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 25 May 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>New York City Public School System To Be Fully Reopened in the Fall</title>
+  <description>&lt;img src='https://media.giphy.com/media/FMiD54OqYdnW0/giphy.gif'&gt;&lt;br/&gt;After the abysmal April jobs report, President Biden and some economists argued that greater childcare burdens placed on parents prevented them from getting back to work. Mayor Bill de Blasio announced yesterday that the NYC public school system, the nation’s largest, will fully reopen in September with no remote options.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/24/new-york-city-public-school-system-fully-reopened-fall?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/new-york-city-public-school-system-fully-reopened-fall?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 25 May 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Corporate America Scrabbles for CDOs Amid Diversity Push</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1423%2Fempty_conference_room.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In the five years leading up to September 2020, the number of people with the title “head of diversity” rose 107%, “director of diversity” 75%, and “chief diversity officer” 68%, according to LinkedIn.Good luck holding onTurnover among top diversity execs is fairly high. CDOs have been busyDiversity and inclusion hiring spiked last June following global Black Lives Matter protests. For many C-suites, George Floyd’s murder elevated diversity and inclusion to the top of the agenda.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/24/corporate-america-scrabbles-cdos-amid-diversity-push?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>dei</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/corporate-america-scrabbles-cdos-amid-diversity-push?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 25 May 2021 03:01:59 -0700</pubDate>
+ </item>
  <item>
   <title>Merrill Lynch Bans Cold-Calling for Trainees</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5200%2Flinkedin_wolf_of_wall_street.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Merrill executives said fewer than 2% of people even answer a cold call.</description>
@@ -325,51 +370,6 @@
   <categories>investing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/20/robinhood-now-offering-ipo-shares?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 21 May 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Oatly IPOs at $12B valuation</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5156%2Foatly.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But the company didn't become a household name until Petersson took over as CEO in 2014, refreshing Oatly's visual identity and reframing its marketing around oat milk's health and environmental benefits. Yesterday, shares in Oatly, the world's biggest oat milk maker, soared 19% in its IPO, valuing the company at a trenta-sized $12 billion. In the oat department alone, Oatly's got competition from Califia Farms, Chobani, Planet Oat, Pacific, and Danone's legacy alternative milk brands, Alpro and Silk. oat milk? But oat milk is still second fiddle to almond milk. Their bet is paying off.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/20/oatly-ipos-12b-valuation?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>food and bev</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/20/oatly-ipos-12b-valuation?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 21 May 2021 03:01:58 -0700</pubDate>
- </item>
- <item>
-  <title>In finance, 'people of color are shut out before they ever get in'</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5144%2Fblack_businesswoman.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;There just aren't that many people of color in finance, even in New York City. Now we in finance are starting to pay attention to diversity. There are more of us now—maybe because banks realized sitting in a room with only 15 white men was a bad look. People of color are shut out before they ever get in. Do I talk to the seven people of color who work in finance? It's just you, the only woman on the floor and one of the few people of color on the floor. When Wells Fargo's CEO says he can't find qualified people of color when I personally have them reaching out to me on LinkedIn every day? I had friends of color from college who happened to be in the finance industry In speaking to my friends of color in different parts of the finance industry, our experiences were analogous. I think the finance industry wants to change. Maybe there aren't seven Black people anymore, but eight. You feel like you work harder than your coworkers with no recognition." I had a friend of color in my cohort and we were among the only people who got the job based on our interviews and credentials, and not who our family was, or who knew someone. We're hardly giving those same chances to people of color. Just to get me in the stadium, essentially. It's so hard to get your foot in the door. You're not seeing the fruits of your labor. In 2015 I received a new manager who happened to be a white man. Sure, there were one or two other Black men, but trying to fit into the culture—the culture of white people, to be frank—was difficult. There was one woman at my bank, more senior, who I could talk to as a kind of mentor. You can see the change particularly when there are industry happy hours and events. But it can be a hard few months or years. I don't know. I'm sure my story is not unique for people of color in finance.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/21/finance-people-color-shut-ever-get</link>
-  <author>Sandrine Maurice</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/finance-people-color-shut-ever-get</guid>
-  <pubDate>Thu, 20 May 2021 21:06:59 -0700</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: May 21</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/20/brews-weekly-news-quiz-may-21</link>
-  <author>Jamie Wilde</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/20/brews-weekly-news-quiz-may-21</guid>
-  <pubDate>Thu, 20 May 2021 14:41:54 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 21</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5158%2Fequinox_gym.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(ByteDance) The Fed will release a report this summer on the viability of CBDCs.Read: A thought-provoking letter from the founder of ByteDance about why he's stepping down as CEO.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/20/key-performance-indicators-may-21</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/20/key-performance-indicators-may-21</guid>
-  <pubDate>Thu, 20 May 2021 14:16:54 -0700</pubDate>
- </item>
- <item>
-  <title>Billionaire Barry Diller's $260 Million Island Opens this Weekend</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5157%2Flittle_island.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If you can't find us this weekend, check the 2.4-acre floating Little Island, which opens today on New York City's west side. + Doesn't it also kinda look like the Cracker Barrel peg game? The relocation of the Whitney Museum in 2015, the High Line park, and Google's expansion in Chelsea have dramatically changed the area in the last decade.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/20/billionaire-barry-dillers-260-million-island-opens-weekend</link>
-  <author>Matty Merritt</author>
-  <categories>architecture</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/20/billionaire-barry-dillers-260-million-island-opens-weekend</guid>
-  <pubDate>Thu, 20 May 2021 14:16:54 -0700</pubDate>
  </item>
 
 </channel>
