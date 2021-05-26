@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/25/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/26/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/26/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/25</link>
- <lastBuildDate>Tue, 25 May 2021 14:44:01 -0700</lastBuildDate>
- <pubDate>Tue, 25 May 2021 14:44:01 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/26</link>
+ <lastBuildDate>Wed, 26 May 2021 10:59:00 -0700</lastBuildDate>
+ <pubDate>Wed, 26 May 2021 10:59:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Mini: Spacing Out</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/26/brew-mini-spacing</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/brew-mini-spacing</guid>
+  <pubDate>Wed, 26 May 2021 10:57:00 -0700</pubDate>
+ </item>
  <item>
   <title>DC Sues Amazon Over Antitrust</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5235%2Famazon_skewered.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Washington, DC, Attorney General Karl Racine thinks so, which is why he sued Amazon over antitrust allegations yesterday. It's believed to be the first time that Amazon's been sued by the US government over antitrust allegations.  Until 2019, the suit says, Amazon flat-out banned sellers on its marketplace from offering their items for cheaper elsewhere. In a statement, Amazon said Racine "has it exactly backwards—sellers set their own prices for the products they offer in our store...</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>contest</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/meme-battle-classy-winnie-pooh</guid>
-  <pubDate>Fri, 21 May 2021 13:36:58 -0700</pubDate>
- </item>
- <item>
-  <title>How to Not Get (Totally) Ripped Off When Ordering Wine</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5174%2Fwine_glass.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;They analyzed the prices of 6,335 wines at 249 London restaurants to understand how wine markups at restaurants really work. And for the rest of us who order the average-priced wine of the list... Much has been said about the pitfalls of ordering the second-cheapest bottle of wine on a menu.  What they found: People who order the second-cheapest bottle of wine are in fact not being ripped off more than anyone else. The wines in the middle of the menu, the Pittsburgh Pirates of the wine world, have the highest percentage markup. You pick up the wine men—er, scan the QR code to pull up the wine list.   So how are wine menus priced?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/21/not-get-totally-ripped-off-ordering-wine</link>
-  <author>Neal Freyman</author>
-  <categories>analysis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/not-get-totally-ripped-off-ordering-wine</guid>
   <pubDate>Fri, 21 May 2021 13:36:58 -0700</pubDate>
  </item>
 
