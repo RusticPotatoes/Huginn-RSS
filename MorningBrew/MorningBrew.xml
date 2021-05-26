@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/26</link>
- <lastBuildDate>Wed, 26 May 2021 10:59:00 -0700</lastBuildDate>
- <pubDate>Wed, 26 May 2021 10:59:00 -0700</pubDate>
+ <lastBuildDate>Wed, 26 May 2021 14:33:57 -0700</lastBuildDate>
+ <pubDate>Wed, 26 May 2021 14:33:57 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: May 27</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5161%2Fford_lightning_f-150_truck.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s got a long way to go: In the US, the company’s largest market, Ford’s EV sales accounted for 1.2% of the total. (Experience)   Read: How the pandemic saved the fast food industry.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/26/key-performance-indicators-may-27</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/key-performance-indicators-may-27</guid>
+  <pubDate>Wed, 26 May 2021 14:31:56 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Mini: Spacing Out</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>work life</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/make-work-recruiting-takeover</guid>
-  <pubDate>Fri, 21 May 2021 13:36:58 -0700</pubDate>
- </item>
- <item>
-  <title>Meme Battle: Classy Winnie the Pooh</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5168%2Fwinnie_the_pooh.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;We'll pick a new memelord in next week's Sunday Edition and provide you with another meme template to meme-ify.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/21/meme-battle-classy-winnie-pooh</link>
-  <author>Jamie Wilde</author>
-  <categories>contest</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/meme-battle-classy-winnie-pooh</guid>
   <pubDate>Fri, 21 May 2021 13:36:58 -0700</pubDate>
  </item>
 
