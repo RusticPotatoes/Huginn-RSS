@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/26/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/26/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/27/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/27/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/26</link>
- <lastBuildDate>Wed, 26 May 2021 14:58:54 -0700</lastBuildDate>
- <pubDate>Wed, 26 May 2021 14:58:54 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/27</link>
+ <lastBuildDate>Thu, 27 May 2021 03:03:57 -0700</lastBuildDate>
+ <pubDate>Thu, 27 May 2021 03:03:57 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Dow Turns 125</title>
+  <description>&lt;img src='https://media.giphy.com/media/PQid6TEa9iIgM/giphy.gif'&gt;&lt;br/&gt;125 years ago yesterday, the Dow Jones Industrial Average first appeared in the Wall Street Journal.  But Dowters say the index’s share-price weighting, plus its limited number of companies, makes it a poor representation of Corporate America.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/26/dow-turns-125?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/dow-turns-125?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 27 May 2021 03:01:56 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 27</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5161%2Fford_lightning_f-150_truck.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s got a long way to go: In the US, the company’s largest market, Ford’s EV sales have accounted for 1.2% of this year's total through April. (Experience)   Read: How the pandemic saved the fast food industry.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/26/key-performance-indicators-may-27?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/key-performance-indicators-may-27?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 27 May 2021 03:01:56 -0700</pubDate>
+ </item>
+ <item>
+  <title>Facebook and Instagram Finally Offer Option to Hide Likes</title>
+  <description>&lt;img src='https://media.giphy.com/media/e66SQjvSUuIldz0vtk/giphy.gif'&gt;&lt;br/&gt;But after a bunch of testing, Instagram found that user wellbeing and app usage didn’t change when likes were removed. After years of talking about it, Facebook officially released its likes-hiding option on Facebook and Instagram. Despite little evidence that removing likes would accomplish...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/26/facebook-instagram-finally-offer-option-hide-likes?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/facebook-instagram-finally-offer-option-hide-likes?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 27 May 2021 03:01:56 -0700</pubDate>
+ </item>
+ <item>
+  <title>Amazon Acquires MGM for $8.5 Billion</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5126%2Fmgm_bezos.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Amazon will get a leg up at the Emmys too, and not just because MGM houses The Handmaid’s Tale, Fargo, and Vikings, but also because it’s a studio capable of churning out more prestige TV. MGM could make Amazon Prime Video more than the streaming service you forgot you’re subscribed to.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/26/amazon-acquires-mgm-85-billion?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/amazon-acquires-mgm-85-billion?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 27 May 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Activist Investor Wins Two of Four Exxon Board Seats</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3421%2Fexxon_green.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;As if there weren’t enough 🤬  emojis in the Big Oil group chat yesterday, Shell was hit with a historic L of its own. The backstory: In December, Engine No. 1, then a brand new hedge fund, bought ~$40 million of Exxon shares—just 0.02% of the company—and sent a letter to the board with a simple request: Invest in clean energy, or else. Following a vote at the company’s shareholder meeting yesterday, the activist investment firm Engine No. 1 won at least two of the four board seats it was aiming for.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/26/activist-investor-wins-two-four-exxon-board-seats?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/activist-investor-wins-two-four-exxon-board-seats?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 27 May 2021 03:01:55 -0700</pubDate>
+ </item>
  <item>
   <title>The Dow Turns 125</title>
   <description>&lt;img src='https://media.giphy.com/media/PQid6TEa9iIgM/giphy.gif'&gt;&lt;br/&gt;125 years ago yesterday, the Dow Jones Industrial Average first appeared in the Wall Street Journal.  But Dowters say the index’s share-price weighting, plus its limited number of companies, makes it a poor representation of Corporate America.</description>
@@ -325,51 +370,6 @@
   <categories>media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/tribunes-shareholders-approve-sale-alden?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 22 May 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Vaccine Tracker: May 22</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Use vaccines as an aphrodisiac: In partnership with the White House, popular dating apps including Hinge, Tinder, OkCupid, and Bumble will soon introduce features that allow users to a) broadcast they’ve been vaccinated and b) find other vaccinated singles who are down to dose-si-do.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/21/vaccine-tracker-may-22?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/vaccine-tracker-may-22?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 22 May 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>The Trial Between Epic Games and Apple Is Over</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5179%2Fepic_games_apple.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But even if it ends up defeating Epic, this trial has perma-flipped flashlight mode onto Apple’s App Store. Cook also argued that Apple does not closely track the App Store’s profit and loss; in other words, the company’s bean-counting doesn’t interfere with the App Store’s integrity as a marketplace for users to discover apps.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/21/trial-epic-games-apple?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>antitrust</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/trial-epic-games-apple?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 22 May 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>The Trial Between Epic Games and Apple Is Over</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5179%2Fepic_games_apple.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But even if it ends up defeating Epic, this trial has perma-flipped flashlight mode onto Apple’s App Store. Cook also argued that Apple does not closely track the App Store’s profit and loss; in other words, the company’s bean-counting doesn’t interfere with the App Store’s integrity as a marketplace for users to discover apps.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/21/trial-epic-games-apple</link>
-  <author>Jamie Wilde</author>
-  <categories>antitrust</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/trial-epic-games-apple</guid>
-  <pubDate>Fri, 21 May 2021 15:21:54 -0700</pubDate>
- </item>
- <item>
-  <title>Tulsa Race Massacre: Learn More About What Happened</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5081%2Fblack_wall_street_main_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Nia Clark’s Dreams of Black Wall Street series offers a deep dive into the riots, but also reflects on the massacre’s legacy, including Greenwood’s continued economic struggles, racial tensions, and the unsolved mystery of where the bodies are buried. It runs through everything from national and local factors that precipitated the event to the massacre itself to the aftermath. Go deeper on what happened May 31 and June 1Read: In 1921, journalist Walter White, who would later become the NAACP director, was sent to Tulsa to write about what happened for The Nation.  ABC’s Soul of a Nation shares the stories of survivors and looks at how the city is still working to heal those wounds.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/21/tulsa-race-massacre-learn-happened</link>
-  <author>Alex Hickey</author>
-  <categories>black wall street</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/tulsa-race-massacre-learn-happened</guid>
-  <pubDate>Fri, 21 May 2021 15:16:54 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 22</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Morning Brew) Read: In the final installment of our series on Black Wall Street, we collected a list of resources to help you learn more about the Tulsa Race Massacre of 1921.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/21/key-performance-indicators-may-22</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/key-performance-indicators-may-22</guid>
-  <pubDate>Fri, 21 May 2021 15:01:59 -0700</pubDate>
  </item>
 
 </channel>
