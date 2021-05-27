@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/27</link>
- <lastBuildDate>Thu, 27 May 2021 14:49:00 -0700</lastBuildDate>
- <pubDate>Thu, 27 May 2021 14:49:00 -0700</pubDate>
+ <lastBuildDate>Thu, 27 May 2021 14:54:00 -0700</lastBuildDate>
+ <pubDate>Thu, 27 May 2021 14:54:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Acorns Plans SPAC IPO Amidst Talks of Regulation</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5267%2Facorns.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;SEC Chairman Gary Gensler said yesterday that the agency is beefing up resources to investigate the SPAC boom, which many fintechs like Acorns have taken advantage of.  He might not have to wait long. But even the biggest name in SPACs, Chamath Palihapitiya, wants more oversight of the process.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/27/acorns-plans-spac-ipo-amidst-talks-regulation</link>
+  <author>Matty Merritt</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/27/acorns-plans-spac-ipo-amidst-talks-regulation</guid>
+  <pubDate>Thu, 27 May 2021 14:51:59 -0700</pubDate>
+ </item>
  <item>
   <title>Where Morning Brew Readers Are Going for Memorial Day </title>
   <description>&lt;img src='https://media.giphy.com/media/l2YWnw4TcCv5Vkgb6/giphy.gif'&gt;&lt;br/&gt;—Matt L." I have to settle with heading to my friends at the Jersey shore for MDW, if that counts as traveling."  "I'm going to a lake house in Tennessee with Hinge boy and his pals 💃💃💃 for Memorial Day. What a time." A staycation with my family is all I want and to take a day to remember all those we have lost. Going to the promised land of Moses Lake, WA! —Matthew A."</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/23/key-performance-indicators-may-24</guid>
   <pubDate>Sun, 23 May 2021 16:51:57 -0700</pubDate>
- </item>
- <item>
-  <title>Yuang Longping, Credited With Saving Millions from Hunger Through Rice Innovations, Dies at 90</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5181%2Fyuan_longping.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Now, one-fifth of all rice comes from hybrid rice species, according to the World Food Prize website.  Yuan’s breakthroughs turned him into a national hero in China and within the international agriculture community.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/23/yuang-longping-credited-saving-millions-hunger-rice-innovations-dies-90</link>
-  <author>Neal Freyman</author>
-  <categories>agriculture</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/23/yuang-longping-credited-saving-millions-hunger-rice-innovations-dies-90</guid>
-  <pubDate>Sun, 23 May 2021 16:51:56 -0700</pubDate>
  </item>
 
 </channel>
