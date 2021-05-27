@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/27</link>
- <lastBuildDate>Thu, 27 May 2021 03:03:57 -0700</lastBuildDate>
- <pubDate>Thu, 27 May 2021 03:03:57 -0700</pubDate>
+ <lastBuildDate>Thu, 27 May 2021 14:33:58 -0700</lastBuildDate>
+ <pubDate>Thu, 27 May 2021 14:33:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Biden to Propose $6T Budget</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5265%2Fwhite_house_budget.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Not the only new bill on Capitol HillYesterday, GOP senators released a $928 billion counteroffer to Biden's infrastructure package, more than half of which would go to roads and bridges. This morning, President Biden will send Congress a jumbo-sized $6 trillion budget for FY2022, the NYT reported yesterday. , is technically hammered out through 12 appropriations bills passed by Congress and signed by the president.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/27/biden-propose-6t-budget</link>
+  <author>Alex Hickey</author>
+  <categories>government</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/27/biden-propose-6t-budget</guid>
+  <pubDate>Thu, 27 May 2021 14:31:58 -0700</pubDate>
+ </item>
  <item>
   <title>The Dow Turns 125</title>
   <description>&lt;img src='https://media.giphy.com/media/PQid6TEa9iIgM/giphy.gif'&gt;&lt;br/&gt;125 years ago yesterday, the Dow Jones Industrial Average first appeared in the Wall Street Journal.  But Dowters say the index’s share-price weighting, plus its limited number of companies, makes it a poor representation of Corporate America.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/key-performance-indicators-may-22?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 22 May 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Tribune’s Shareholders Approve Sale to Alden</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5176%2Fchicago_tribune.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Despite loads of opposition, shareholders voted yesterday to approve the sale of Tribune Publishing and its legendary newspaper chain—including the Chicago Tribune, Baltimore Sun, and a number of other local dailies—to Alden Global Capital for $633 million.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/21/tribunes-shareholders-approve-sale-alden?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/tribunes-shareholders-approve-sale-alden?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 22 May 2021 03:02:02 -0700</pubDate>
  </item>
 
 </channel>
