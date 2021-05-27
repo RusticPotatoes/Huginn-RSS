@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/27</link>
- <lastBuildDate>Thu, 27 May 2021 14:33:58 -0700</lastBuildDate>
- <pubDate>Thu, 27 May 2021 14:33:58 -0700</pubDate>
+ <lastBuildDate>Thu, 27 May 2021 14:43:59 -0700</lastBuildDate>
+ <pubDate>Thu, 27 May 2021 14:43:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: May 28</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2788%2Fadam_neumann.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Javier Tebas, the president of Spanish soccer's La Liga, is not giving up on the concept of a European "Super League," which fizzled embarrassingly in less than 48 hours last month.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/27/key-performance-indicators-may-28</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/27/key-performance-indicators-may-28</guid>
+  <pubDate>Thu, 27 May 2021 14:41:58 -0700</pubDate>
+ </item>
+ <item>
+  <title>Disney's 'Cruella' Signals a Pivot to PG-13</title>
+  <description>&lt;img src='https://media.giphy.com/media/9ayXNVkco6fM6YUNPU/giphy.gif'&gt;&lt;br/&gt;In the same time span, PG movies earned $24.3 billion; R movies, $26.5 billion; and G movies, $2.7 billion, according to Comscore. Cruella is Disney's third PG-13 release in a year, according to the WSJ. Today, Disney's live-action Cruella arrives in theaters and on Disney+.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/27/disneys-cruella-signals-pivot-pg13</link>
+  <author>Matty Merritt</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/27/disneys-cruella-signals-pivot-pg13</guid>
+  <pubDate>Thu, 27 May 2021 14:41:58 -0700</pubDate>
+ </item>
  <item>
   <title>Biden to Propose $6T Budget</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5265%2Fwhite_house_budget.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Not the only new bill on Capitol HillYesterday, GOP senators released a $928 billion counteroffer to Biden's infrastructure package, more than half of which would go to roads and bridges. This morning, President Biden will send Congress a jumbo-sized $6 trillion budget for FY2022, the NYT reported yesterday. , is technically hammered out through 12 appropriations bills passed by Congress and signed by the president.</description>
@@ -352,24 +370,6 @@
   <categories>geopolitics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/23/ryainair-plane-forced-divert-minsk-belarusian-leader-journalist-arrested</guid>
   <pubDate>Sun, 23 May 2021 16:47:00 -0700</pubDate>
- </item>
- <item>
-  <title>Your Epic Sports Weekend Primer</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5170%2Fpga_championship.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Golf Keyur Khamar/PGA TOUR via Getty Images The PGA Championship is entering the third round at the stunning-but-gusty Ocean Course at Kiawah Island in South Carolina.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/21/epic-sports-weekend-primer?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/epic-sports-weekend-primer?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 22 May 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 22</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Morning Brew) Read: In the final installment of our series on Black Wall Street, we collected a list of resources to help you learn more about the Tulsa Race Massacre of 1921.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/21/key-performance-indicators-may-22?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/21/key-performance-indicators-may-22?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 22 May 2021 03:02:03 -0700</pubDate>
  </item>
 
 </channel>
