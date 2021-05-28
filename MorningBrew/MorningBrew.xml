@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/28</link>
- <lastBuildDate>Fri, 28 May 2021 13:23:56 -0700</lastBuildDate>
- <pubDate>Fri, 28 May 2021 13:23:56 -0700</pubDate>
+ <lastBuildDate>Fri, 28 May 2021 13:28:59 -0700</lastBuildDate>
+ <pubDate>Fri, 28 May 2021 13:28:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Icebreakers with… John Green</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5292%2Fjohn_green.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;I would love for there to be a Major League Soccer team in Indianapolis, but I would not want to own it. What's something that podcasting offers that books don't and vice versa? Tell us about something you love doing that you're terrible at. And tell us about something you really do not like doing that you're great at. What star rating would you give the five-star rating scale?  Name three books on your nightstand right now:Clint Smith's How the Word Is Passed, Ashley C.  If you could own any sports franchise other than the English soccer team AFC Wimbledon, of which you are a huge fan, what would it be? In 175 words, one can say much more about a book (or a movie, or a hotel, or a barbershop) than a single data point ever could.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/28/icebreakers-john-green</link>
+  <author>Neal Freyman</author>
+  <categories>qanda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/icebreakers-john-green</guid>
+  <pubDate>Fri, 28 May 2021 13:26:58 -0700</pubDate>
+ </item>
  <item>
   <title>Did the Coronavirus Get Leaked From a Lab?</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F206%2Fcoronavirus_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Right-wing pundits and conservative lawmakers, particularly Sen. Tom Cotton, were pushing the US government to investigate claims that the virus came from the Wuhan Institute of Virology.  As researchers studied Covid-19's origins last year, the natural origin theory dominated and the lab leak theory was considered preposterous. this lab leak theory may not be as crazy as it sounds." But as 2020 went on, scientists found no evidence to support the natural origin theory, China was stonewalling any credible independent investigation, and people started saying, "You know what... Lab leak: A scientist at the Wuhan Institute of Virology, which studies bat viruses, was infected with a contagious strain through a sloppy mistake or an accident, and brought it out to the wider world.</description>
@@ -361,15 +370,6 @@
   <categories>travel</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/airbnb-unveils-new-tools-features-hosts-guests</guid>
   <pubDate>Mon, 24 May 2021 14:56:59 -0700</pubDate>
- </item>
- <item>
-  <title>New York City Public School System To Be Fully Reopened in the Fall</title>
-  <description>&lt;img src='https://media.giphy.com/media/FMiD54OqYdnW0/giphy.gif'&gt;&lt;br/&gt;After the abysmal April jobs report, President Biden and some economists argued that greater childcare burdens placed on parents prevented them from getting back to work. Mayor Bill de Blasio announced yesterday that the NYC public school system, the nation’s largest, will fully reopen in September with no remote options.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/24/new-york-city-public-school-system-fully-reopened-fall</link>
-  <author>Matty Merritt</author>
-  <categories>education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/new-york-city-public-school-system-fully-reopened-fall</guid>
-  <pubDate>Mon, 24 May 2021 14:51:55 -0700</pubDate>
  </item>
 
 </channel>
