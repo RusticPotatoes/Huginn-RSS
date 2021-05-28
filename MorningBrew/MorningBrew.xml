@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/28</link>
- <lastBuildDate>Fri, 28 May 2021 14:33:59 -0700</lastBuildDate>
- <pubDate>Fri, 28 May 2021 14:33:59 -0700</pubDate>
+ <lastBuildDate>Fri, 28 May 2021 14:39:00 -0700</lastBuildDate>
+ <pubDate>Fri, 28 May 2021 14:39:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Police Raid a Bitcoin Mining Operation On Accident</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5293%2Forvault_north-western_fr.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s why British police accidentally busted a cryptocurrency mining operation earlier this month, thinking it was an illegal cannabis farm. Zoom out: While stealing electricity is illegal in the UK, mining bitcoin is a-okay.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/28/police-raid-bitcoin-mining-operation-accident</link>
+  <author>Jamie Wilde</author>
+  <categories>cryptocurrency</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/police-raid-bitcoin-mining-operation-accident</guid>
+  <pubDate>Fri, 28 May 2021 14:36:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Vaccine Tracker: May 29</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Also this week, Ohio announced the first winner of its $1 million vaccine lottery: 22-year-old Abbigail Bugenske.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/28/vaccine-tracker-may-29</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/vaccine-tracker-may-29</guid>
+  <pubDate>Fri, 28 May 2021 14:36:59 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: May 29</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5294%2Fpresident_trump_holds_mak.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Emerging Tech Brew) Read: Your guide to the cloud. In 2017, Neymar joined the French club Paris Saint-Germain for an unheard-of transfer fee of ~$260 million.</description>
@@ -352,24 +370,6 @@
   <categories>dei</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/corporate-america-scrabbles-cdos-amid-diversity-push?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 25 May 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Merrill Lynch Bans Cold-Calling for Trainees</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5200%2Flinkedin_wolf_of_wall_street.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Merrill executives said fewer than 2% of people even answer a cold call.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/24/merrill-lynch-bans-coldcalling-trainees</link>
-  <author>Matty Merritt</author>
-  <categories>banking</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/merrill-lynch-bans-coldcalling-trainees</guid>
-  <pubDate>Mon, 24 May 2021 15:02:01 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 25</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4079%2Fgolden_gate_bridge.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Vimeo)  Watch: A history of the NRA and its outsized influence on national politics.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/24/key-performance-indicators-may-25</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/key-performance-indicators-may-25</guid>
-  <pubDate>Mon, 24 May 2021 14:56:59 -0700</pubDate>
  </item>
 
 </channel>
