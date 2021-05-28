@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/28</link>
- <lastBuildDate>Fri, 28 May 2021 13:08:57 -0700</lastBuildDate>
- <pubDate>Fri, 28 May 2021 13:08:57 -0700</pubDate>
+ <lastBuildDate>Fri, 28 May 2021 13:23:56 -0700</lastBuildDate>
+ <pubDate>Fri, 28 May 2021 13:23:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Did the Coronavirus Get Leaked From a Lab?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F206%2Fcoronavirus_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Right-wing pundits and conservative lawmakers, particularly Sen. Tom Cotton, were pushing the US government to investigate claims that the virus came from the Wuhan Institute of Virology.  As researchers studied Covid-19's origins last year, the natural origin theory dominated and the lab leak theory was considered preposterous. this lab leak theory may not be as crazy as it sounds." But as 2020 went on, scientists found no evidence to support the natural origin theory, China was stonewalling any credible independent investigation, and people started saying, "You know what... Lab leak: A scientist at the Wuhan Institute of Virology, which studies bat viruses, was infected with a contagious strain through a sloppy mistake or an accident, and brought it out to the wider world.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/28/coronavirus-get-leaked-lab</link>
+  <author>Neal Freyman</author>
+  <categories>analysis</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/coronavirus-get-leaked-lab</guid>
+  <pubDate>Fri, 28 May 2021 13:21:55 -0700</pubDate>
+ </item>
  <item>
   <title>Make It Work: New Jobs Edition</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Let's think about how we can reimagine your question so that you can get the answer you need without looking crazy to your boss (because you did lowkey wait eight months to ask your manager how to do the job lol).  Q: "I started a new role at my company (virtually) about eight months ago with no formal training.  Q: "I have a job offer from one company, but the company I really want to work for has scheduled my interview for the end of the week. How can I buy some time with the company that gave me the offer?"</description>
@@ -361,15 +370,6 @@
   <categories>education</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/new-york-city-public-school-system-fully-reopened-fall</guid>
   <pubDate>Mon, 24 May 2021 14:51:55 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Mini</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/24/brew-mini</link>
-  <author>Neal Freyman</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/brew-mini</guid>
-  <pubDate>Mon, 24 May 2021 13:57:03 -0700</pubDate>
  </item>
 
 </channel>
