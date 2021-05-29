@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/28/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/28/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/29/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/29/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/28</link>
- <lastBuildDate>Fri, 28 May 2021 14:49:01 -0700</lastBuildDate>
- <pubDate>Fri, 28 May 2021 14:49:01 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/29</link>
+ <lastBuildDate>Sat, 29 May 2021 03:04:01 -0700</lastBuildDate>
+ <pubDate>Sat, 29 May 2021 03:04:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Police Raid a Bitcoin Mining Operation On Accident</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5293%2Forvault_north-western_fr.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s why British police accidentally busted a cryptocurrency mining operation earlier this month, thinking it was an illegal cannabis farm. Zoom out: While stealing electricity is illegal in the UK, mining bitcoin is a-okay.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/28/police-raid-bitcoin-mining-operation-accident?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/police-raid-bitcoin-mining-operation-accident?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 29 May 2021 03:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: May 29</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5294%2Fpresident_trump_holds_mak.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Emerging Tech Brew) Read: Your guide to the cloud. In 2017, Neymar joined the French club Paris Saint-Germain for an unheard-of transfer fee of ~$260 million.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/28/key-performance-indicators-may-29?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/key-performance-indicators-may-29?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 29 May 2021 03:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>Vaccine Tracker: May 29</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4204%2Fvaccine_tracker.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Also this week, Ohio announced the first winner of its $1 million vaccine lottery: 22-year-old Abbigail Bugenske.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/28/vaccine-tracker-may-29?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/vaccine-tracker-may-29?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 29 May 2021 03:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>Memorial Day Weekend Will be Huge Test for Travel</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F955%2F747.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; A majority of the 37 million people expected to travel at least 50 miles from home will be driving, per AAA. and possible jail time. It also extended its zero-tolerance policy for safety violations and added fines...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/28/memorial-day-weekend-travel-will-huge-test-travel?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/memorial-day-weekend-travel-will-huge-test-travel?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 29 May 2021 03:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>Costco Sees Inflationary Pressures, but Will Restart Free Samples</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4188%2Fcostco.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Overall, the company said that price inflation at the selling level, excluding gasoline, was 2.5%–3.5%, much higher than in March. Costco was one of the first US retailers to mandate masks in early May 2020. Costco is the only place where you can simultaneously buy seven-pound tubs of Nutella and learn about the state of the post-pandemic economy. And probably come back in two minutes and hope you forget our face. But hey, we’ll take it. And samples will be given behind plexiglass screens.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/28/costco-sees-inflationary-pressures-will-restart-free-samples?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/costco-sees-inflationary-pressures-will-restart-free-samples?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 29 May 2021 03:02:00 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Crossword: Perfect Pitch</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -325,51 +370,6 @@
   <categories>agriculture</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/25/vertical-farming-startup-bowery-valued-23b-latest-round</guid>
   <pubDate>Tue, 25 May 2021 14:42:00 -0700</pubDate>
- </item>
- <item>
-  <title>New Home Sales Slump 6% in April</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F106%2Fhousing_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   Prices are 📈: The median price of a new home jumped 11.4% in April to $372,400. According to the latest US housing data... Sales are 📉: New home sales in April fell almost 6%, more than analysts expected. Lenders called employers to confirm buyers have permission to WFH after the pandemic.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/25/new-home-sales-slump-6-april</link>
-  <author>Alex Hickey</author>
-  <categories>real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/25/new-home-sales-slump-6-april</guid>
-  <pubDate>Tue, 25 May 2021 14:42:00 -0700</pubDate>
- </item>
- <item>
-  <title>Vimeo Goes Public After Spinning Off From IAC</title>
-  <description>&lt;img src='https://media.giphy.com/media/jpG2iOeexpJM7b3lig/giphy.gif'&gt;&lt;br/&gt;Sud told Barron's that Vimeo's growth will slow later this year as face masks come down and in-person happy hours come back, but should pick back up in 2022.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/25/vimeo-goes-public-spinning-off-iac</link>
-  <author>Jamie Wilde</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/25/vimeo-goes-public-spinning-off-iac</guid>
-  <pubDate>Tue, 25 May 2021 14:36:58 -0700</pubDate>
- </item>
- <item>
-  <title>Merrill Lynch Bans Cold-Calling for Trainees</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5200%2Flinkedin_wolf_of_wall_street.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Merrill executives said fewer than 2% of people even answer a cold call.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/24/merrill-lynch-bans-coldcalling-trainees?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>banking</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/merrill-lynch-bans-coldcalling-trainees?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 25 May 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 25</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4079%2Fgolden_gate_bridge.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Vimeo)  Watch: A history of the NRA and its outsized influence on national politics.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/24/key-performance-indicators-may-25?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/key-performance-indicators-may-25?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 25 May 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Airbnb Unveils New Tools, Features for Hosts and Guests</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F508%2Fairbnb.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: Chesky admitted that Airbnb hasn’t been doing enough to help hosts, many of whom the company angered at the start of the pandemic when it allowed guests to cancel bookings and receive a full refund.   In Q1, Airbnb reported 64+ million booked nights and experiences, up 13% annually.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/24/airbnb-unveils-new-tools-features-hosts-guests?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/24/airbnb-unveils-new-tools-features-hosts-guests?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 25 May 2021 03:01:59 -0700</pubDate>
  </item>
 
 </channel>
