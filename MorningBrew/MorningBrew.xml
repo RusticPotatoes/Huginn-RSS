@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/29/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/29/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/30/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/30/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/29</link>
- <lastBuildDate>Sat, 29 May 2021 04:53:53 -0700</lastBuildDate>
- <pubDate>Sat, 29 May 2021 04:53:53 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/30</link>
+ <lastBuildDate>Sun, 30 May 2021 22:09:01 -0700</lastBuildDate>
+ <pubDate>Sun, 30 May 2021 22:09:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Exclusive: Post-Pandemic, Summer Travel Trends to Watch</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5066%2Froad_trip_big_sur.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Of the top 20 most popular flight deals Scott's Cheap Flights sent subscribers over the last two months, multiple were roundtrips to Hawaii and Alaska. 39% of travelers said they're concerned about travel costs. While more travelers are looking to get their delayed Eurotrip on, domestic travel is still the name of the game this summer, Keyes said. When countries announce they're reopening borders for US travelers, there's a predictable spike in flight searches to that destination, according to Keyes. Almost 60% said the frequency of their summer travel plans is similar to pre-pandemic levels. Of the 30% of respondents who work remotely at least one day a week, 42% said it's positively impacted their ability to travel.  Some people don't know what they're doing yetDue to pandemic uncertainty, many travelers have waited until closer to their intended travel date to book.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/31/exclusive-postpandemic-summer-travel-trends-watch</link>
+  <author>Alex Hickey</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/exclusive-postpandemic-summer-travel-trends-watch</guid>
+  <pubDate>Sun, 30 May 2021 22:07:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>Business Trends to Watch This Summer</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5295%2Fsummer_2021_preview.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But there are other consumer trends I'm excited to watch this summer.  —Neal FreymanCryptoMaybe I'm on Twitter too much, but cryptocurrency, and more specifically cryptocurrency regulation, is the top business topic I'll be watching this summer. Vaccine inequality In just six months, the US has vaccinated over half its adult population, a remarkable feat considering how much we seemed to lag other countries in controlling the virus last year. Is home fitness here to stay even as gyms reopen? Let us know if we missed any. I think the big thing to watch is whether supply chains getting back to normal will cause the inflation scaries to subside. In the last two months, there have been gas, lumber, chip, ketchup, worker, and boba shortages, just to name a few that had accompanying Morning Brew pieces. Inflation data over the summer will reveal whether this quirkiness is more permanent than officials had thought.  —Yiran Yu  Btw, have you experienced the awkwardness of a post-Covid hug/handshake? After soaring more than 400% in 2020, Peloton's stock is down almost 24% this year. Maybe.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/28/business-trends-watch-summer</link>
+  <author>Alex Hickey</author>
+  <categories>trends</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/business-trends-watch-summer</guid>
+  <pubDate>Sun, 30 May 2021 22:07:00 -0700</pubDate>
+ </item>
  <item>
   <title>So You Survived a Year of Virtual School…Now What?</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1977%2Fback_to_school_shopping.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;—Fatima Ali, Brew U Campus Ambassador, University of Wisconsin, Class of 2021)Here are some resources to get you to be your most productive self:How to Track Your Networking with Notion (Medium)2020's Most Popular Coursera Courses (Coursera)How to Find a Hobby (The New York Times)The 10 Most Popular TEDx talks (Ted)Relax and Self-Care“I would say to just ride the wave and try not to force anything too much. I wish I would’ve taken more time prior to this to explore alternative careers and network with people in different industries, and I highly encourage other college students to do so before deciding what exactly they want to do.” —Colleen McFall, Morning Brew Intern, Temple University, Class of 2022“Explore people, projects, and career paths that interest you... College students have endured one of the most exhaustive school years ever due to the pandemic, and finally now have the chance to relax, breathe, and celebrate. Coming into college I didn’t know what I wanted to use my major for. —Kate Schiliro, Morning Brew fulfillment, New York University, Class of 2020“Don’t stress as much. —Joshua Botkin, Morning Brew Intern, University of Cincinnati, Class of 2023Here are some resources for your career exploration:Marketing Brew’s Internship Guide. (Morning Brew)How to Cold Email Your Way into Your Dream Job. (Morning Brew)How to Get an Internship During Covid. (Morning Brew)2021 Grad’s Guide to Getting Hired.</description>
@@ -352,24 +370,6 @@
   <categories>games</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/brew-mini-spacing</guid>
   <pubDate>Wed, 26 May 2021 10:57:00 -0700</pubDate>
- </item>
- <item>
-  <title>DC Sues Amazon Over Antitrust</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5235%2Famazon_skewered.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Washington, DC, Attorney General Karl Racine thinks so, which is why he sued Amazon over antitrust allegations yesterday. It's believed to be the first time that Amazon's been sued by the US government over antitrust allegations.  Until 2019, the suit says, Amazon flat-out banned sellers on its marketplace from offering their items for cheaper elsewhere. In a statement, Amazon said Racine "has it exactly backwards—sellers set their own prices for the products they offer in our store...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/25/dc-sues-amazon-antitrust</link>
-  <author>Neal Freyman</author>
-  <categories>antitrust</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/25/dc-sues-amazon-antitrust</guid>
-  <pubDate>Tue, 25 May 2021 14:42:01 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 26</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5236%2Fguy_fieri_s_vegas_kitchen.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;I must say now that, very very very importantly, I love and respect China and Chinese people." Stat: Guy Fieri's new deal with the Food Network will earn him $80 million over three years, according to Forbes, making him the highest-paid chef on cable TV.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/25/key-performance-indicators-may-26</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/25/key-performance-indicators-may-26</guid>
-  <pubDate>Tue, 25 May 2021 14:42:01 -0700</pubDate>
  </item>
 
 </channel>
