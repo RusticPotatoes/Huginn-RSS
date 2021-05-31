@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/31</link>
- <lastBuildDate>Mon, 31 May 2021 14:28:58 -0700</lastBuildDate>
- <pubDate>Mon, 31 May 2021 14:28:58 -0700</pubDate>
+ <lastBuildDate>Mon, 31 May 2021 14:33:58 -0700</lastBuildDate>
+ <pubDate>Mon, 31 May 2021 14:33:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Naomi Osaka, Highest-Earning Female Athlete in the World, Drops Out of French Open</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5299%2Ffrench_open_tennis_rolan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Other athletes said they respected Osaka’s initial decision to avoid the press, but pointed out that answering questions in front of a hot mic is just part of the job. Tennis legend Billie Jean King said that professional athletes have a responsibility to talk to the media.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/31/naomi-osaka-highestearning-female-athlete-world-drops-french-open</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/naomi-osaka-highestearning-female-athlete-world-drops-french-open</guid>
+  <pubDate>Mon, 31 May 2021 14:31:57 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: June 1</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5297%2Fbridge_in_virginia.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Infrastructure: This week will be pivotal for the big infrastructure proposal President Biden has laid out. It may be short, but it is packed. Facebook's F8 developer conference begins tomorrow.</description>
@@ -361,15 +370,6 @@
   <categories>energy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/activist-investor-wins-two-four-exxon-board-seats?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 27 May 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>The Dow Turns 125</title>
-  <description>&lt;img src='https://media.giphy.com/media/PQid6TEa9iIgM/giphy.gif'&gt;&lt;br/&gt;125 years ago yesterday, the Dow Jones Industrial Average first appeared in the Wall Street Journal.  But Dowters say the index’s share-price weighting, plus its limited number of companies, makes it a poor representation of Corporate America.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/26/dow-turns-125</link>
-  <author>Jamie Wilde</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/dow-turns-125</guid>
-  <pubDate>Wed, 26 May 2021 14:56:59 -0700</pubDate>
  </item>
 
 </channel>
