@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/05/30/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/05/30/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/05/31/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/05/31/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/05/30</link>
- <lastBuildDate>Sun, 30 May 2021 22:09:01 -0700</lastBuildDate>
- <pubDate>Sun, 30 May 2021 22:09:01 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/05/31</link>
+ <lastBuildDate>Mon, 31 May 2021 10:44:00 -0700</lastBuildDate>
+ <pubDate>Mon, 31 May 2021 10:44:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Mini: Comic Book Bros</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/31/brew-mini-comic-book-bros</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/brew-mini-comic-book-bros</guid>
+  <pubDate>Mon, 31 May 2021 10:41:59 -0700</pubDate>
+ </item>
  <item>
   <title>Exclusive: Post-Pandemic, Summer Travel Trends to Watch</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5066%2Froad_trip_big_sur.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Of the top 20 most popular flight deals Scott's Cheap Flights sent subscribers over the last two months, multiple were roundtrips to Hawaii and Alaska. 39% of travelers said they're concerned about travel costs. While more travelers are looking to get their delayed Eurotrip on, domestic travel is still the name of the game this summer, Keyes said. When countries announce they're reopening borders for US travelers, there's a predictable spike in flight searches to that destination, according to Keyes. Almost 60% said the frequency of their summer travel plans is similar to pre-pandemic levels. Of the 30% of respondents who work remotely at least one day a week, 42% said it's positively impacted their ability to travel.  Some people don't know what they're doing yetDue to pandemic uncertainty, many travelers have waited until closer to their intended travel date to book.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/key-performance-indicators-may-27</guid>
   <pubDate>Wed, 26 May 2021 14:31:56 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Mini: Spacing Out</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/26/brew-mini-spacing</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/brew-mini-spacing</guid>
-  <pubDate>Wed, 26 May 2021 10:57:00 -0700</pubDate>
  </item>
 
 </channel>
