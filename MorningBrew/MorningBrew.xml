@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/31</link>
- <lastBuildDate>Mon, 31 May 2021 14:23:57 -0700</lastBuildDate>
- <pubDate>Mon, 31 May 2021 14:23:57 -0700</pubDate>
+ <lastBuildDate>Mon, 31 May 2021 14:28:58 -0700</lastBuildDate>
+ <pubDate>Mon, 31 May 2021 14:28:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: June 1</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5297%2Fbridge_in_virginia.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Infrastructure: This week will be pivotal for the big infrastructure proposal President Biden has laid out. It may be short, but it is packed. Facebook's F8 developer conference begins tomorrow.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/31/week-ahead-june-1</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/week-ahead-june-1</guid>
+  <pubDate>Mon, 31 May 2021 14:26:57 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 1</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5296%2Fford_f-150.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Roughly 20% of all gun buyers in the US last year were first-time owners, and now, 39% of American households own guns, up from 32% in 2016. (Morning Brew)</description>
@@ -361,15 +370,6 @@
   <categories>markets</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/dow-turns-125</guid>
   <pubDate>Wed, 26 May 2021 14:56:59 -0700</pubDate>
- </item>
- <item>
-  <title>Facebook and Instagram Finally Offer Option to Hide Likes</title>
-  <description>&lt;img src='https://media.giphy.com/media/e66SQjvSUuIldz0vtk/giphy.gif'&gt;&lt;br/&gt;But interestingly enough, after a bunch of testing, Instagram found that user wellbeing and app usage didn’t change when likes were removed. Head of Instagram Adam Mosseri said that the hiding likes option was first created to “depressurize the experience” on the platform.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/26/facebook-instagram-finally-offer-option-hide-likes</link>
-  <author>Matty Merritt</author>
-  <categories>social media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/facebook-instagram-finally-offer-option-hide-likes</guid>
-  <pubDate>Wed, 26 May 2021 14:51:56 -0700</pubDate>
  </item>
 
 </channel>
