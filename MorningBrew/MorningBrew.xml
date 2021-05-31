@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/05/31</link>
- <lastBuildDate>Mon, 31 May 2021 14:18:57 -0700</lastBuildDate>
- <pubDate>Mon, 31 May 2021 14:18:57 -0700</pubDate>
+ <lastBuildDate>Mon, 31 May 2021 14:23:57 -0700</lastBuildDate>
+ <pubDate>Mon, 31 May 2021 14:23:57 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: June 1</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5296%2Fford_f-150.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Roughly 20% of all gun buyers in the US last year were first-time owners, and now, 39% of American households own guns, up from 32% in 2016. (Morning Brew)</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/05/31/key-performance-indicators-june-1</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/key-performance-indicators-june-1</guid>
+  <pubDate>Mon, 31 May 2021 14:21:57 -0700</pubDate>
+ </item>
  <item>
   <title>China Adopts Three-Child Policy Rule to Boost Population</title>
   <description>&lt;img src='https://media.giphy.com/media/cAMfDqovnTpqDhm1OR/giphy.gif'&gt;&lt;br/&gt; The US population grew at its slowest rate since the Great Depression from 2010–2020, and its birth rate declined for the sixth straight year last year.     Zoom out: While many parts of the world face stagnant population growth, others are making up for it.  Why it matters: Declining population growth has profound implications for a country's future economic success. Bottom line: As much as the Chinese government wants to grow the country's share of the world population, it might be fighting a losing battle.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>social media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/facebook-instagram-finally-offer-option-hide-likes</guid>
-  <pubDate>Wed, 26 May 2021 14:51:56 -0700</pubDate>
- </item>
- <item>
-  <title>Amazon Acquires MGM for $8.5 Billion</title>
-  <description>&lt;img src='https://media.giphy.com/media/iOjNaLUI4oBgc/giphy.gif'&gt;&lt;br/&gt;Amazon will get a leg up at the Emmys too, and not just because MGM houses The Handmaid’s Tale, Fargo, and Vikings, but also because it’s a studio capable of churning out more prestige TV. MGM could make Amazon Prime Video more than the streaming service you forgot you’re subscribed to.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/26/amazon-acquires-mgm-85-billion</link>
-  <author>Jamie Wilde</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/26/amazon-acquires-mgm-85-billion</guid>
   <pubDate>Wed, 26 May 2021 14:51:56 -0700</pubDate>
  </item>
 
