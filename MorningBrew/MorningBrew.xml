@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/01</link>
- <lastBuildDate>Tue, 01 Jun 2021 14:53:58 -0700</lastBuildDate>
- <pubDate>Tue, 01 Jun 2021 14:53:58 -0700</pubDate>
+ <lastBuildDate>Tue, 01 Jun 2021 18:08:57 -0700</lastBuildDate>
+ <pubDate>Tue, 01 Jun 2021 18:08:57 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>London's See-Through Sky Pool Opens</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5306%2Fsky_pool.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Don't worry, it also has technology that "allows it to move in high winds." Windy out?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/02/londons-seethrough-sky-pool-opens</link>
+  <author>Alex Hickey</author>
+  <categories>architecture</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/londons-seethrough-sky-pool-opens</guid>
+  <pubDate>Tue, 01 Jun 2021 18:06:56 -0700</pubDate>
+ </item>
  <item>
   <title>London's See-Through Sky Pool Opens</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5306%2Fsky_pool.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Don't worry, it also has technology that "allows it to move in high winds." Windy out?</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/27/disneys-cruella-signals-pivot-pg13?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 28 May 2021 03:01:58 -0700</pubDate>
- </item>
- <item>
-  <title>Acorns Plans SPAC IPO Amidst Talks of Regulation</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5267%2Facorns.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;SEC Chairman Gary Gensler said yesterday that the agency is beefing up resources to look into the SPAC boom, which many fintechs like Acorns have taken advantage of.  He might not have to wait long. But even the biggest name in SPACs, Chamath Palihapitiya, wants more oversight of the process.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/27/acorns-plans-spac-ipo-amidst-talks-regulation?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>fintech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/27/acorns-plans-spac-ipo-amidst-talks-regulation?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 28 May 2021 03:01:58 -0700</pubDate>
  </item>
 
