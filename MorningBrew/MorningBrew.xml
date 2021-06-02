@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/02</link>
- <lastBuildDate>Wed, 02 Jun 2021 15:03:56 -0700</lastBuildDate>
- <pubDate>Wed, 02 Jun 2021 15:03:56 -0700</pubDate>
+ <lastBuildDate>Wed, 02 Jun 2021 15:08:56 -0700</lastBuildDate>
+ <pubDate>Wed, 02 Jun 2021 15:08:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: June 3</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5322%2Ftesla_s_gigafactory_in_nevada.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(CBC)  Listen: A Death in Cryptoland is a podcast that tells the story of the bizarre circumstances around the reported death of Canada’s largest crypto exchange.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/02/key-performance-indicators-june-3</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/key-performance-indicators-june-3</guid>
+  <pubDate>Wed, 02 Jun 2021 15:07:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Chemical-Filled Cargo Ship Sinks Off the Coast of Sri Lanka</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5319%2Fsri_lanka-singapore-trans.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;the company that owns the ship said it was aware of the acid leak that caused the fire but was denied by two countries to offload the leaking container, and a Sri Lanka court ordered the ship’s captain and engineers to remain in the country as officials conduct a criminal investigation.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/02/chemicalfilled-cargo-ship-sinks-off-coast-sri-lanka</link>
+  <author>Matty Merritt</author>
+  <categories>environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/chemicalfilled-cargo-ship-sinks-off-coast-sri-lanka</guid>
+  <pubDate>Wed, 02 Jun 2021 15:07:02 -0700</pubDate>
+ </item>
  <item>
   <title>Amazon Gets Rid of Marijuana in Drug Screenings, Says ‘Legalize It’</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5317%2Famazon_weed.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;So unless your position is regulated by the Department of Transportation, Amazon said it will treat marijuana like alcohol (should make for an interesting office holiday party). It also wants to stave off future unionization efforts at its warehouses.</description>
@@ -352,24 +370,6 @@
   <categories>retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/costco-sees-inflationary-pressures-will-restart-free-samples?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 29 May 2021 03:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Crossword: Perfect Pitch</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/28/brew-crossword-perfect-pitch</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/brew-crossword-perfect-pitch</guid>
-  <pubDate>Fri, 28 May 2021 14:47:00 -0700</pubDate>
- </item>
- <item>
-  <title>Costco Sees Inflationary Pressures, but Will Restart Free Samples</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4188%2Fcostco.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Overall, the company said that price inflation at the selling level, excluding gasoline, was 2.5%–3.5%, much higher than in March.  However, this being the “new normal” and all, some pandemic precautions will remain in place. Costco is the only place where you can buy seven-pound tubs of Nutella and learn about the state of the post-pandemic economy. And probably come back in two minutes and hope you forget our face. But hey, we’ll take it. Costco was one of the first US retailers to mandate masks in early May 2020.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/28/costco-sees-inflationary-pressures-will-restart-free-samples</link>
-  <author>Neal Freyman</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/costco-sees-inflationary-pressures-will-restart-free-samples</guid>
-  <pubDate>Fri, 28 May 2021 14:42:00 -0700</pubDate>
  </item>
 
 </channel>
