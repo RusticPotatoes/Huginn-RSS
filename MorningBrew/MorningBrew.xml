@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/02</link>
- <lastBuildDate>Wed, 02 Jun 2021 03:03:55 -0700</lastBuildDate>
- <pubDate>Wed, 02 Jun 2021 03:03:55 -0700</pubDate>
+ <lastBuildDate>Wed, 02 Jun 2021 14:48:55 -0700</lastBuildDate>
+ <pubDate>Wed, 02 Jun 2021 14:48:55 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>AMC, Gaining Nearly 100% in a Day, Embraces Its Life as a Meme Stock</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5318%2Fpopcorn_amc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Through the program, individual investors will get benefits like a free large popcorn and invitations to special screenings. given AMC’s success in leveraging its internet fame for tangible business improvements, other meme stocks might follow its lead. An Elon Musk tweet about the viral song “Baby Shark” sent shares of Samsung Publishing, a company that owns a big stake in the song’s producer, up more than 10%. We thought meme stocks peaked with the bankrupt Hertz last summer, or GameStop this winter, but just this week...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/02/amc-gaining-nearly-100-day-embraces-life-meme-stock</link>
+  <author>Neal Freyman</author>
+  <categories>investing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/amc-gaining-nearly-100-day-embraces-life-meme-stock</guid>
+  <pubDate>Wed, 02 Jun 2021 14:46:55 -0700</pubDate>
+ </item>
  <item>
   <title>London's See-Through Sky Pool Opens</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5306%2Fsky_pool.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Don't worry, it also has technology that "allows it to move in high winds." Windy out?</description>
@@ -361,15 +370,6 @@
   <categories>travel</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/memorial-day-weekend-travel-will-huge-test-travel</guid>
   <pubDate>Fri, 28 May 2021 14:26:58 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers with… John Green</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5292%2Fjohn_green.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;I would love for there to be a Major League Soccer team in Indianapolis, but I would not want to own it. What's something that podcasting offers that books don't and vice versa? Tell us about something you love doing that you're terrible at. And tell us about something you really do not like doing that you're great at. What star rating would you give the five-star rating scale?  Name three books on your nightstand right now:Clint Smith's How the Word Is Passed, Ashley C.  If you could own any sports franchise other than the English soccer team AFC Wimbledon, of which you are a huge fan, what would it be? In 175 words, one can say much more about a book (or a movie, or a hotel, or a barbershop) than a single data point ever could.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/28/icebreakers-john-green</link>
-  <author>Neal Freyman</author>
-  <categories>qanda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/icebreakers-john-green</guid>
-  <pubDate>Fri, 28 May 2021 13:26:58 -0700</pubDate>
  </item>
 
 </channel>
