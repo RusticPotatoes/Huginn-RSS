@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/01/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/02/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/01</link>
- <lastBuildDate>Tue, 01 Jun 2021 18:08:57 -0700</lastBuildDate>
- <pubDate>Tue, 01 Jun 2021 18:08:57 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/02</link>
+ <lastBuildDate>Wed, 02 Jun 2021 03:03:55 -0700</lastBuildDate>
+ <pubDate>Wed, 02 Jun 2021 03:03:55 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>London's See-Through Sky Pool Opens</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5306%2Fsky_pool.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Don't worry, it also has technology that "allows it to move in high winds." Windy out?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/02/londons-seethrough-sky-pool-opens?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>architecture</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/londons-seethrough-sky-pool-opens?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 02 Jun 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 2</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4131%2Ftravel_bags.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker)   Read: A profile of the Pied Piper of SPACs, Chamath Palihapitiya. He also unveiled new initiatives aimed at narrowing the racial wealth gap.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/01/key-performance-indicators-june-2?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/key-performance-indicators-june-2?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 02 Jun 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Oil Prices Surge to Highest Levels Since Covid Began</title>
+  <description>&lt;img src='https://media.giphy.com/media/l0HlHSB8v5yRtBlHW/giphy.gif'&gt;&lt;br/&gt;At one point the price of oil plunged into negative territory—meaning someone would pay you to take possession of their oil barrel.  What happened: The powerful oil cartel OPEC and its allies agreed to gradually increase oil production. Yesterday, oil prices hit their highest levels since the pandemic began.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/01/oil-prices-surge-highest-levels-since-covid-began?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/oil-prices-surge-highest-levels-since-covid-began?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 02 Jun 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Krispy Kreme Files To Go Public</title>
+  <description>&lt;img src='https://media.giphy.com/media/fp1wbNlFeSJ20/giphy.gif'&gt;&lt;br/&gt;But after being battered and fried, Krispy Kreme was picked up by European investment firm JAB Holdings and glazed back to glory.  Did you know: Krispy Kreme owns Insomnia Cookies, which conducts over half of its sales via e-commerce.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/01/krispy-kreme-files-go-public?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>ipo</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/krispy-kreme-files-go-public?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 02 Jun 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>AMC Raises Millions To Acquire Other Theaters</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5309%2Fminnesota_amc_movie_thea.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;AMC issued 8.5 million shares to investment firm Mudrick Capital to raise the sum. Did AMC find a $230 million bill in the laundry or…?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/01/amc-raises-millions-acquire-theaters?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/amc-raises-millions-acquire-theaters?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 02 Jun 2021 03:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Hack Shuts Down JBS Meat Processing Operations</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5305%2Fcow.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; JBS, the world's largest meat processor, had to shut down North American and Australian operations Monday following a coordinated ransomware attack.   The JBS incident comes just weeks after hackers forced the shutdown of the Colonial Pipeline and disrupted gas supplies up the East Coast.  If operations had remain paused for days or weeks, the hiccup could've turned into a real headache for JBS customers like supermarkets and fast-food chains that require a continuous supply of meat.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/01/hack-shuts-jbs-meat-processing-operations?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/hack-shuts-jbs-meat-processing-operations?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 02 Jun 2021 03:01:54 -0700</pubDate>
+ </item>
  <item>
   <title>London's See-Through Sky Pool Opens</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5306%2Fsky_pool.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Don't worry, it also has technology that "allows it to move in high winds." Windy out?</description>
@@ -316,60 +370,6 @@
   <categories>qanda</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/icebreakers-john-green</guid>
   <pubDate>Fri, 28 May 2021 13:26:58 -0700</pubDate>
- </item>
- <item>
-  <title>Did the Coronavirus Get Leaked From a Lab?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F206%2Fcoronavirus_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Right-wing pundits and conservative lawmakers, particularly Sen. Tom Cotton, were pushing the US government to investigate claims that the virus came from the Wuhan Institute of Virology.  As researchers studied Covid-19's origins last year, the natural origin theory dominated and the lab leak theory was considered preposterous. this lab leak theory may not be as crazy as it sounds." But as 2020 went on, scientists found no evidence to support the natural origin theory, China was stonewalling any credible independent investigation, and people started saying, "You know what... Lab leak: A scientist at the Wuhan Institute of Virology, which studies bat viruses, was infected with a contagious strain through a sloppy mistake or an accident, and brought it out to the wider world.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/28/coronavirus-get-leaked-lab</link>
-  <author>Neal Freyman</author>
-  <categories>analysis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/coronavirus-get-leaked-lab</guid>
-  <pubDate>Fri, 28 May 2021 13:21:55 -0700</pubDate>
- </item>
- <item>
-  <title>Make It Work: New Jobs Edition</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Let's think about how we can reimagine your question so that you can get the answer you need without looking crazy to your boss (because you did lowkey wait eight months to ask your manager how to do the job lol).  Q: "I started a new role at my company (virtually) about eight months ago with no formal training.  Q: "I have a job offer from one company, but the company I really want to work for has scheduled my interview for the end of the week. How can I buy some time with the company that gave me the offer?"</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/28/make-work-new-jobs-edition</link>
-  <author>Neal Freyman</author>
-  <categories>work life</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/make-work-new-jobs-edition</guid>
-  <pubDate>Fri, 28 May 2021 13:06:56 -0700</pubDate>
- </item>
- <item>
-  <title>Important Summer Dates</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5042%2Folympics.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Lollapalooza is back in Chicago from July 29 to August 1. June Lana Del Rey releases her new album, Rock Candy Sweet, June 1, followed by Blue Banisters on July 4. Soccer's Euro tournament begins June 11 and runs a full month. JulyMarvel's Black Widow is taking over theaters on July 9. Your boy Luca is coming to Disney+ on June 18. No spectators were allowed at the 2020 US Open, but tennis fans can fill the stands this year from August 30–September 12.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/28/important-summer-dates</link>
-  <author>Yiran Yu</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/important-summer-dates</guid>
-  <pubDate>Fri, 28 May 2021 12:12:00 -0700</pubDate>
- </item>
- <item>
-  <title>Where Morning Brew Readers Are Going for Memorial Day </title>
-  <description>&lt;img src='https://media.giphy.com/media/l2YWnw4TcCv5Vkgb6/giphy.gif'&gt;&lt;br/&gt;—Matt L." I have to settle with heading to my friends at the Jersey shore for MDW, if that counts as traveling."  "I'm going to a lake house in Tennessee with Hinge boy and his pals 💃💃💃 for Memorial Day. What a time." A staycation with my family is all I want and to take a day to remember all those we have lost. Going to the promised land of Moses Lake, WA! —Matthew A."</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/27/morning-brew-readers-going-memorial-day?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>community</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/27/morning-brew-readers-going-memorial-day?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 28 May 2021 03:01:58 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 28</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2788%2Fadam_neumann.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Javier Tebas, the president of Spanish soccer's La Liga, is not giving up on the concept of a European "Super League," which fizzled embarrassingly in less than 48 hours last month. Read: A deep dive into the Citizen app, which critics say is promoting vigilantism.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/27/key-performance-indicators-may-28?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/27/key-performance-indicators-may-28?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 28 May 2021 03:01:58 -0700</pubDate>
- </item>
- <item>
-  <title>Disney's 'Cruella' Signals a Pivot to PG-13</title>
-  <description>&lt;img src='https://media.giphy.com/media/9ayXNVkco6fM6YUNPU/giphy.gif'&gt;&lt;br/&gt;In the same time span, PG movies earned $24.3 billion; R movies, $26.5 billion; and G movies, $2.7 billion, according to Comscore. Cruella is Disney's third PG-13 release in a year, according to the WSJ. Today, Disney's live-action Cruella arrives in theaters and on Disney+.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/27/disneys-cruella-signals-pivot-pg13?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/27/disneys-cruella-signals-pivot-pg13?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 28 May 2021 03:01:58 -0700</pubDate>
  </item>
 
 </channel>
