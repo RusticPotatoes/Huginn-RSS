@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/03</link>
- <lastBuildDate>Thu, 03 Jun 2021 02:04:00 -0700</lastBuildDate>
- <pubDate>Thu, 03 Jun 2021 02:04:00 -0700</pubDate>
+ <lastBuildDate>Thu, 03 Jun 2021 13:08:53 -0700</lastBuildDate>
+ <pubDate>Thu, 03 Jun 2021 13:08:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Brew’s Weekly News Quiz: June 4</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/03/brews-weekly-news-quiz-june-4</link>
+  <author>Mary Tobler</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/brews-weekly-news-quiz-june-4</guid>
+  <pubDate>Thu, 03 Jun 2021 13:07:02 -0700</pubDate>
+ </item>
  <item>
   <title>Amazon Gets Rid of Marijuana in Drug Screenings, Says ‘Legalize It’</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5317%2Famazon_weed.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Other employers like Hospitality Ventures, a management group that runs Marriott and Hilton hotels, have also dropped marijuana testing to attract already hard-to-find staff. So unless your position is regulated by the Department of Transportation, Amazon said it will treat marijuana like alcohol (should make for an interesting office holiday party).</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/police-raid-bitcoin-mining-operation-accident?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 29 May 2021 03:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: May 29</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5294%2Fpresident_trump_holds_mak.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Emerging Tech Brew) Read: Your guide to the cloud. In 2017, Neymar joined the French club Paris Saint-Germain for an unheard-of transfer fee of ~$260 million.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/28/key-performance-indicators-may-29?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/28/key-performance-indicators-may-29?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 29 May 2021 03:02:00 -0700</pubDate>
  </item>
 
