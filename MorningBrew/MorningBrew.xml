@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/03</link>
- <lastBuildDate>Thu, 03 Jun 2021 14:53:53 -0700</lastBuildDate>
- <pubDate>Thu, 03 Jun 2021 14:53:53 -0700</pubDate>
+ <lastBuildDate>Thu, 03 Jun 2021 14:58:54 -0700</lastBuildDate>
+ <pubDate>Thu, 03 Jun 2021 14:58:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: June 4</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5331%2Fbabe_ruth_card.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Atlantic)  Read: America has a drinking problem. This warning, plus its plan to sell more than 11 million shares, resulted in an 18% drop for the day.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/03/key-performance-indicators-june-4</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/key-performance-indicators-june-4</guid>
+  <pubDate>Thu, 03 Jun 2021 14:56:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Prices Are Going Up Across Sectors</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5334%2Fup_pixar.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Food: A UN food price index soared 40% in May, the largest jump in a decade.  Consumer goods: Prices across 36 mostly wealthy countries rose at their fastest pace in more than 12 years during April.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/03/prices-going-across-sectors</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/prices-going-across-sectors</guid>
+  <pubDate>Thu, 03 Jun 2021 14:56:54 -0700</pubDate>
+ </item>
  <item>
   <title>United Airlines Cuts Deal for Supersonic Commercial Jets</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5332%2Fboom_supersonic.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Supersonic commercial flight reemerged yesterday when United Airlines announced it's buying 15 jets from Boom Supersonic.  Now, Boom and other supersonic startups are working on net-zero emissions and noise-muffling tech.  Looking ahead... Cicadas aren't the only thing that return every ~17 years.</description>
@@ -352,24 +370,6 @@
   <categories>food and bev</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/nestl-rethinks-health-strategy-following-leaked-report</guid>
   <pubDate>Mon, 31 May 2021 14:16:56 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Mini: Comic Book Bros</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/31/brew-mini-comic-book-bros</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/brew-mini-comic-book-bros</guid>
-  <pubDate>Mon, 31 May 2021 10:41:59 -0700</pubDate>
- </item>
- <item>
-  <title>Exclusive: Post-Pandemic, Summer Travel Trends to Watch</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5066%2Froad_trip_big_sur.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Of the top 20 most popular flight deals Scott's Cheap Flights sent subscribers over the last two months, multiple were roundtrips to Hawaii and Alaska. 39% of travelers said they're concerned about travel costs. While more travelers are looking to get their delayed Eurotrip on, domestic travel is still the name of the game this summer, Keyes said. When countries announce they're reopening borders for US travelers, there's a predictable spike in flight searches to that destination, according to Keyes. Almost 60% said the frequency of their summer travel plans is similar to pre-pandemic levels. Of the 30% of respondents who work remotely at least one day a week, 42% said it's positively impacted their ability to travel.  Some people don't know what they're doing yetDue to pandemic uncertainty, many travelers have waited until closer to their intended travel date to book.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/31/exclusive-postpandemic-summer-travel-trends-watch</link>
-  <author>Alex Hickey</author>
-  <categories>travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/exclusive-postpandemic-summer-travel-trends-watch</guid>
-  <pubDate>Sun, 30 May 2021 22:07:00 -0700</pubDate>
  </item>
 
 </channel>
