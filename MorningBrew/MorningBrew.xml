@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/03/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/04/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/03</link>
- <lastBuildDate>Thu, 03 Jun 2021 14:58:54 -0700</lastBuildDate>
- <pubDate>Thu, 03 Jun 2021 14:58:54 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/04</link>
+ <lastBuildDate>Fri, 04 Jun 2021 03:03:59 -0700</lastBuildDate>
+ <pubDate>Fri, 04 Jun 2021 03:03:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Prices Are Going Up Across Sectors</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5334%2Fup_pixar.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Food: A UN food price index soared 40% in May, the largest jump in a decade.  Consumer goods: Prices across 36 mostly wealthy countries rose at their fastest pace in more than 12 years during April.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/03/prices-going-across-sectors?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/prices-going-across-sectors?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 04 Jun 2021 03:01:58 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 4</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5331%2Fbabe_ruth_card.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Atlantic)  Read: America has a drinking problem. This warning, plus its plan to sell more than 11 million shares, resulted in an 18% drop for the day.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/03/key-performance-indicators-june-4?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/key-performance-indicators-june-4?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 04 Jun 2021 03:01:58 -0700</pubDate>
+ </item>
+ <item>
+  <title>Twitter Launches First Paid Subscription Service, Blue</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5333%2Ftwitter.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At long last, Twitter has released its first subscription product, Twitter Blue. A virtual tip jar"Super Follows" for individual users to charge subscriptionsVoice-based DMs and tweets Features that limit the spread of misinformation and prevent harassmentStories (aka "Fleets")Spaces, a Clubhouse competitor</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/03/twitter-launches-first-paid-subscription-service-blue?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/twitter-launches-first-paid-subscription-service-blue?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 04 Jun 2021 03:01:58 -0700</pubDate>
+ </item>
+ <item>
+  <title>United Airlines Cuts Deal for Supersonic Commercial Jets</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5335%2Fboom_plane.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The promise of supersonic commercial flight reemerged yesterday when United Airlines announced it's buying 15 jets from Boom Supersonic.  Now, Boom and other supersonic startups are working on net-zero emissions and noise-muffling tech. Supersonic = faster than the speed of sound.  Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/03/united-airlines-cuts-deal-supersonic-commercial-jets?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/united-airlines-cuts-deal-supersonic-commercial-jets?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 04 Jun 2021 03:01:58 -0700</pubDate>
+ </item>
+ <item>
+  <title>California Drought Could Cause Wide-Ranging Industry Problems</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4436%2Fdrought_in_california.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The state of play: California Gov. Gavin Newsom has put 41 counties under a state of emergency in an attempt to drastically limit water use. Some scientists say the region is facing the worst drought in centuries. Officials are predicting the water level of Lake Oroville, the Beyoncé of California lakes, to hit a record low in August. California accounts for 80% of the US' almond supply, but because of shrinking water allocations, some farmers are simply bulldozing those notoriously thirsty almond trees. Anyone who dislikes wildfires.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/03/california-drought-cause-wideranging-industry-problems?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/california-drought-cause-wideranging-industry-problems?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 04 Jun 2021 03:01:58 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 4</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5331%2Fbabe_ruth_card.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Atlantic)  Read: America has a drinking problem. This warning, plus its plan to sell more than 11 million shares, resulted in an 18% drop for the day.</description>
@@ -325,51 +370,6 @@
   <categories>demographics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/china-adopts-threechild-policy-rule-boost-population?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 01 Jun 2021 03:02:01 -0700</pubDate>
- </item>
- <item>
-  <title>Naomi Osaka, Highest-Earning Female Athlete in the World, Drops Out of French Open</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5299%2Ffrench_open_tennis_rolan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Other athletes said they respected Osaka’s initial decision to avoid the press, but pointed out that answering questions in front of a hot mic is just part of the job. Tennis legend Billie Jean King said that professional athletes have a responsibility to talk to the media.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/31/naomi-osaka-highestearning-female-athlete-world-drops-french-open</link>
-  <author>Matty Merritt</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/naomi-osaka-highestearning-female-athlete-world-drops-french-open</guid>
-  <pubDate>Mon, 31 May 2021 14:31:57 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: June 1</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5297%2Fbridge_in_virginia.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Infrastructure: This week will be pivotal for the big infrastructure proposal President Biden has laid out. It may be short, but it is packed. Facebook's F8 developer conference begins tomorrow.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/31/week-ahead-june-1</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/week-ahead-june-1</guid>
-  <pubDate>Mon, 31 May 2021 14:26:57 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 1</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5296%2Fford_f-150.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Roughly 20% of all gun buyers in the US last year were first-time owners, and now, 39% of American households own guns, up from 32% in 2016. (Morning Brew)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/31/key-performance-indicators-june-1</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/key-performance-indicators-june-1</guid>
-  <pubDate>Mon, 31 May 2021 14:21:57 -0700</pubDate>
- </item>
- <item>
-  <title>China Adopts Three-Child Policy Rule to Boost Population</title>
-  <description>&lt;img src='https://media.giphy.com/media/cAMfDqovnTpqDhm1OR/giphy.gif'&gt;&lt;br/&gt; The US population grew at its slowest rate since the Great Depression from 2010–2020, and its birth rate declined for the sixth straight year last year.     Zoom out: While many parts of the world face stagnant population growth, others are making up for it.  Why it matters: Declining population growth has profound implications for a country's future economic success. Bottom line: As much as the Chinese government wants to grow the country's share of the world population, it might be fighting a losing battle.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/31/china-adopts-threechild-policy-rule-boost-population</link>
-  <author>Neal Freyman</author>
-  <categories>demographics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/china-adopts-threechild-policy-rule-boost-population</guid>
-  <pubDate>Mon, 31 May 2021 14:16:56 -0700</pubDate>
- </item>
- <item>
-  <title>Nestlé Rethinks Health Strategy Following Leaked Report</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5300%2Fnestle.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In response, Nestlé said it’s updating nutrition standards and its health strategy. Unfortunately for Nestlé's PR team... Baby Ruths aren’t going anywhere, though: "Confectionary and chocolate address a deep human need and are going to be here to stay," CEO Mark Schneider said last year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/31/nestl-rethinks-health-strategy-following-leaked-report</link>
-  <author>Alex Hickey</author>
-  <categories>food and bev</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/nestl-rethinks-health-strategy-following-leaked-report</guid>
-  <pubDate>Mon, 31 May 2021 14:16:56 -0700</pubDate>
  </item>
 
 </channel>
