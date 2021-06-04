@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/04</link>
- <lastBuildDate>Fri, 04 Jun 2021 15:18:59 -0700</lastBuildDate>
- <pubDate>Fri, 04 Jun 2021 15:18:59 -0700</pubDate>
+ <lastBuildDate>Fri, 04 Jun 2021 15:23:59 -0700</lastBuildDate>
+ <pubDate>Fri, 04 Jun 2021 15:23:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Calm App, Sweetgreen, Others Rush to Back Naomi Osaka’s Decision to Leave French Open</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5350%2Fnaomi_osaka.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: Last Sunday, Osaka dropped out of the tournament to focus on her mental health after initially declaring she’d skip mandatory press conferences. Sweetgreen, Nike, Calm, and other brands moved quickly this week to back tennis star Naomi Osaka after she dropped out of this year’s French Open.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/04/calm-app-sweetgreen-others-rush-back-naomi-osakas-decision-leave-french-open</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/calm-app-sweetgreen-others-rush-back-naomi-osakas-decision-leave-french-open</guid>
+  <pubDate>Fri, 04 Jun 2021 15:21:59 -0700</pubDate>
+ </item>
  <item>
   <title>May Jobs Report Offers Wins, Losses, And Some Hope</title>
   <description>&lt;img src='https://media.giphy.com/media/kC2cRqEt8o41COgjoV/giphy.gif'&gt;&lt;br/&gt;The biggest job gains were in the leisure and hospitality sector, which added 292,000 new jobs, more than the total number of jobs the economy added in April (278,000). There are still 7.6 million fewer people employed in the US than before the pandemic.</description>
@@ -361,15 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/amc-raises-millions-acquire-theaters</guid>
   <pubDate>Tue, 01 Jun 2021 14:51:57 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 2</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4131%2Ftravel_bags.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker)   Read: A profile of the Pied Piper of SPACs, Chamath Palihapitiya. He also unveiled new initiatives aimed at narrowing the racial wealth gap.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/01/key-performance-indicators-june-2</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/key-performance-indicators-june-2</guid>
-  <pubDate>Tue, 01 Jun 2021 14:46:56 -0700</pubDate>
  </item>
 
 </channel>
