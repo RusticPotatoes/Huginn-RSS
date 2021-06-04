@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/04</link>
- <lastBuildDate>Fri, 04 Jun 2021 14:43:54 -0700</lastBuildDate>
- <pubDate>Fri, 04 Jun 2021 14:43:54 -0700</pubDate>
+ <lastBuildDate>Fri, 04 Jun 2021 15:18:59 -0700</lastBuildDate>
+ <pubDate>Fri, 04 Jun 2021 15:18:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>May Jobs Report Offers Wins, Losses, And Some Hope</title>
+  <description>&lt;img src='https://media.giphy.com/media/kC2cRqEt8o41COgjoV/giphy.gif'&gt;&lt;br/&gt;The biggest job gains were in the leisure and hospitality sector, which added 292,000 new jobs, more than the total number of jobs the economy added in April (278,000). There are still 7.6 million fewer people employed in the US than before the pandemic.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/04/may-jobs-report-offers-wins-losses-hope</link>
+  <author>Matty Merritt</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/may-jobs-report-offers-wins-losses-hope</guid>
+  <pubDate>Fri, 04 Jun 2021 15:16:58 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 5</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2150%2Fceo_in_the_board_room.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(YouTube) rewatch David Foster Wallace’s commencement speech at Kenyon College in 2005.  Watch: It’s that time of year... “We need more rain, and we need it now."</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/key-performance-indicators-june-2</guid>
   <pubDate>Tue, 01 Jun 2021 14:46:56 -0700</pubDate>
- </item>
- <item>
-  <title>Hack Shuts Down JBS Meat Processing Operations</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5305%2Fcow.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; If operations do remain on pause for more than a few days, the hiccup could turn into a real headache for JBS customers like supermarkets and fast food chains that require a continuous supply of meat. The JBS incident comes just weeks after hackers forced the shutdown of the Colonial Pipeline and disrupted gas supplies up the East Coast.  Extra bad timingWhile wholesale meat prices remained mostly stable yesterday, extended disruption from the cyberattack could send meat prices—already on the rise—soaring even higher.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/01/hack-shuts-jbs-meat-processing-operations</link>
-  <author>Alex Hickey</author>
-  <categories>food</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/hack-shuts-jbs-meat-processing-operations</guid>
-  <pubDate>Tue, 01 Jun 2021 14:41:55 -0700</pubDate>
  </item>
 
 </channel>
