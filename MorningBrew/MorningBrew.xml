@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/04</link>
- <lastBuildDate>Fri, 04 Jun 2021 11:38:56 -0700</lastBuildDate>
- <pubDate>Fri, 04 Jun 2021 11:38:56 -0700</pubDate>
+ <lastBuildDate>Fri, 04 Jun 2021 13:48:56 -0700</lastBuildDate>
+ <pubDate>Fri, 04 Jun 2021 13:48:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Make It Work: Returning to the Office and Bad Management</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;How do we have a conversation with leadership about this?” I'm not sure what type of treatment you received from management, but if it was not aligned with general ethics or company policy then it should be reported. Ya know, Dan, if this is something you are still thinking about then you can reach out to your former employer and let them know how you feel.  “Did I do a disservice to fellow employees and management when I didn't disclose that the reason I left my company was due to my treatment by management?” With the collective, you can reach out to HR through email; in that email, you can make a request to have a group session to discuss the new rule. Ask Kate here.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/04/make-work-returning-office-bad-management</link>
+  <author>Neal Freyman</author>
+  <categories>work life</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/make-work-returning-office-bad-management</guid>
+  <pubDate>Fri, 04 Jun 2021 13:46:55 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Crossword: Don*t Give Up!</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -361,15 +370,6 @@
   <categories>food and bev</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/nestl-rethinks-health-strategy-following-leaked-report?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 01 Jun 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Naomi Osaka, Highest-Earning Female Athlete in the World, Drops Out of French Open</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5299%2Ffrench_open_tennis_rolan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Other athletes said they respected Osaka’s initial decision to avoid the press, but pointed out that answering questions in front of a hot mic is just part of the job. Tennis legend Billie Jean King said that professional athletes have a responsibility to talk to the media.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/31/naomi-osaka-highestearning-female-athlete-world-drops-french-open?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/naomi-osaka-highestearning-female-athlete-world-drops-french-open?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 01 Jun 2021 03:02:01 -0700</pubDate>
  </item>
 
 </channel>
