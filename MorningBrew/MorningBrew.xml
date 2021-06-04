@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/04</link>
- <lastBuildDate>Fri, 04 Jun 2021 03:03:59 -0700</lastBuildDate>
- <pubDate>Fri, 04 Jun 2021 03:03:59 -0700</pubDate>
+ <lastBuildDate>Fri, 04 Jun 2021 11:38:56 -0700</lastBuildDate>
+ <pubDate>Fri, 04 Jun 2021 11:38:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Crossword: Don*t Give Up!</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/04/brew-crossword-dont-give</link>
+  <author>Mary Tobler</author>
+  <categories>puzzle</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/brew-crossword-dont-give</guid>
+  <pubDate>Fri, 04 Jun 2021 11:36:56 -0700</pubDate>
+ </item>
  <item>
   <title>Prices Are Going Up Across Sectors</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5334%2Fup_pixar.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Food: A UN food price index soared 40% in May, the largest jump in a decade.  Consumer goods: Prices across 36 mostly wealthy countries rose at their fastest pace in more than 12 years during April.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/naomi-osaka-highestearning-female-athlete-world-drops-french-open?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 01 Jun 2021 03:02:01 -0700</pubDate>
- </item>
- <item>
-  <title>China Adopts Three-Child Policy Rule to Boost Population</title>
-  <description>&lt;img src='https://media.giphy.com/media/cAMfDqovnTpqDhm1OR/giphy.gif'&gt;&lt;br/&gt; The US population grew at its slowest rate since the Great Depression from 2010–2020, and its birth rate declined for the sixth straight year last year.  Why it matters: Declining population growth has profound implications for a country's economic success.     Zoom out: While many parts of the world face stagnant population growth, others are making up for it. Bottom line: As much as the Chinese government wants to grow the country's share of the world population, it might be fighting a losing battle.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/05/31/china-adopts-threechild-policy-rule-boost-population?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>demographics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/05/31/china-adopts-threechild-policy-rule-boost-population?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 01 Jun 2021 03:02:01 -0700</pubDate>
  </item>
 
