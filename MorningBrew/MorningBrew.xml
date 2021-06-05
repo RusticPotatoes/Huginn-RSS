@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/04/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/05/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/04</link>
- <lastBuildDate>Fri, 04 Jun 2021 15:23:59 -0700</lastBuildDate>
- <pubDate>Fri, 04 Jun 2021 15:23:59 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/05</link>
+ <lastBuildDate>Sat, 05 Jun 2021 03:03:56 -0700</lastBuildDate>
+ <pubDate>Sat, 05 Jun 2021 03:03:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Calm App, Sweetgreen, Others Rush to Back Naomi Osaka’s Decision to Leave French Open</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5350%2Fnaomi_osaka.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: Last Sunday, Osaka dropped out of the tournament to focus on her mental health after initially declaring she’d skip mandatory press conferences. Sweetgreen, Nike, Calm, and other brands moved quickly this week to back tennis star Naomi Osaka after she dropped out of this year’s French Open.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/04/calm-app-sweetgreen-others-rush-back-naomi-osakas-decision-leave-french-open?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/calm-app-sweetgreen-others-rush-back-naomi-osakas-decision-leave-french-open?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 05 Jun 2021 03:01:56 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 5</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2150%2Fceo_in_the_board_room.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(YouTube) rewatch David Foster Wallace’s commencement speech at Kenyon College in 2005.  Watch: It’s that time of year... “We need more rain, and we need it now."</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/04/key-performance-indicators-june-5?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/key-performance-indicators-june-5?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 05 Jun 2021 03:01:56 -0700</pubDate>
+ </item>
+ <item>
+  <title>Bill Ackman's Proposed SPAC Deal Confuses Just About Everyone</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4587%2Fbill_ackman_short_selling.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; There’s even more 4D financial chess going on behind the scenes, but the bottom line is that shares in Ackman’s SPAC plummeted yesterday following the announcement, meaning investors doubt Ackman can pull off these business theatrics.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/04/bill-ackmans-proposed-spac-deal-confuses-just-everyone?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>manda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/bill-ackmans-proposed-spac-deal-confuses-just-everyone?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 05 Jun 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>May Jobs Report Offers Wins, Losses, And Some Hope</title>
+  <description>&lt;img src='https://media.giphy.com/media/kC2cRqEt8o41COgjoV/giphy.gif'&gt;&lt;br/&gt;The biggest job gains were in the leisure and hospitality sector, which added 292,000 new jobs, more than the 278,000 jobs the economy added in total in April. The number of workers who claimed unemployment because their employer lost business or closed due to the pandemic dropped by 1.5 million.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/04/may-jobs-report-offers-wins-losses-hope?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/may-jobs-report-offers-wins-losses-hope?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 05 Jun 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Facebook Extends President Trump’s Ban For Two More Years</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5347%2Ftrump_banned_from_facebook.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: Trump’s blog’s failure is a reminder that social platforms like Facebook don’t just offer a place to share snarky opinions, but also an algorithm-amplified megaphone. Facebook had kept a special list of politicians who were allowed to bend its content moderation rules because their opinions were considered “newsworthy content that should, as a general rule, be seen and heard,” Facebook VP of Global Affairs Nick Clegg said in 2019.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/04/facebook-extends-president-trumps-ban-two-years?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/facebook-extends-president-trumps-ban-two-years?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 05 Jun 2021 03:01:55 -0700</pubDate>
+ </item>
  <item>
   <title>Calm App, Sweetgreen, Others Rush to Back Naomi Osaka’s Decision to Leave French Open</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5350%2Fnaomi_osaka.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: Last Sunday, Osaka dropped out of the tournament to focus on her mental health after initially declaring she’d skip mandatory press conferences. Sweetgreen, Nike, Calm, and other brands moved quickly this week to back tennis star Naomi Osaka after she dropped out of this year’s French Open.</description>
@@ -325,51 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/amc-raises-millions-acquire-theaters?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 02 Jun 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Hack Shuts Down JBS Meat Processing Operations</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5305%2Fcow.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; JBS, the world's largest meat processor, had to shut down North American and Australian operations Monday following a coordinated ransomware attack.   The JBS incident comes just weeks after hackers forced the shutdown of the Colonial Pipeline and disrupted gas supplies up the East Coast.  If operations had remain paused for days or weeks, the hiccup could've turned into a real headache for JBS customers like supermarkets and fast-food chains that require a continuous supply of meat.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/01/hack-shuts-jbs-meat-processing-operations?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>food</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/hack-shuts-jbs-meat-processing-operations?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 02 Jun 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>London's See-Through Sky Pool Opens</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5306%2Fsky_pool.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Don't worry, it also has technology that "allows it to move in high winds." Windy out?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/02/londons-seethrough-sky-pool-opens</link>
-  <author>Alex Hickey</author>
-  <categories>architecture</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/londons-seethrough-sky-pool-opens</guid>
-  <pubDate>Tue, 01 Jun 2021 18:06:56 -0700</pubDate>
- </item>
- <item>
-  <title>London's See-Through Sky Pool Opens</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5306%2Fsky_pool.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Don't worry, it also has technology that "allows it to move in high winds." Windy out?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/01/londons-seethrough-sky-pool-opens</link>
-  <author>Alex Hickey</author>
-  <categories>leisure</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/londons-seethrough-sky-pool-opens</guid>
-  <pubDate>Tue, 01 Jun 2021 14:51:57 -0700</pubDate>
- </item>
- <item>
-  <title>Krispy Kreme Files To Go Public</title>
-  <description>&lt;img src='https://media.giphy.com/media/fp1wbNlFeSJ20/giphy.gif'&gt;&lt;br/&gt;But after being battered and fried, Krispy Kreme was picked up by European investment firm JAB Holdings and glazed back to glory.  Did you know: Krispy Kreme owns Insomnia Cookies, which conducts over half of its sales via e-commerce.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/01/krispy-kreme-files-go-public</link>
-  <author>Jamie Wilde</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/krispy-kreme-files-go-public</guid>
-  <pubDate>Tue, 01 Jun 2021 14:51:57 -0700</pubDate>
- </item>
- <item>
-  <title>AMC Raises Millions To Acquire Other Theaters</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5309%2Fminnesota_amc_movie_thea.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;AMC issued 8.5 million shares to investment firm Mudrick Capital to raise the sum. Did AMC find a $230 million bill in the laundry or…?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/01/amc-raises-millions-acquire-theaters</link>
-  <author>Jamie Wilde</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/amc-raises-millions-acquire-theaters</guid>
-  <pubDate>Tue, 01 Jun 2021 14:51:57 -0700</pubDate>
  </item>
 
 </channel>
