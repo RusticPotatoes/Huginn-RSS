@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/06/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/06/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/07/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/06</link>
- <lastBuildDate>Sun, 06 Jun 2021 17:47:02 -0700</lastBuildDate>
- <pubDate>Sun, 06 Jun 2021 17:47:02 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/07</link>
+ <lastBuildDate>Mon, 07 Jun 2021 03:03:38 -0700</lastBuildDate>
+ <pubDate>Mon, 07 Jun 2021 03:03:38 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: June 7</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5354%2Fapple_wwdc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Everything else: Going to genuinely write “Happy Friday” in every correspondence on Friday, because on that day…Soccer’s European Championship startsThe Pulitzer Prize winners are announcedIn the Heights comes to theaters</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/06/week-ahead-june-7?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/06/week-ahead-june-7?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 07 Jun 2021 03:01:37 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 7</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4646%2Fhiring_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Read: Profiles of NBA stars Russell Westbrook and Kevin Durant from the NYT Magazine. On ABC yesterday, Facebook executive Nick Clegg defended the company’s decision to ban former President Trump’s account for at least two years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/06/key-performance-indicators-june-7?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/06/key-performance-indicators-june-7?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 07 Jun 2021 03:01:37 -0700</pubDate>
+ </item>
+ <item>
+  <title>Booster Shot FAQ</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Likely not, though studies are progressing to make sure vaccine mashups are safe. However, Dr. Peter Marks of the FDA told CNN that vaccinated people likely won’t need a booster shot within a year of receiving their initial doses. Will I need to get a booster shot for Covid? Here are some answers to your booster shot questions...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/06/booster-shot-faq?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/06/booster-shot-faq?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 07 Jun 2021 03:01:37 -0700</pubDate>
+ </item>
+ <item>
+  <title>El Salvador Move to Adopt Bitcoin as Legal Tender</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4072%2Fbitcoin_as_dollars.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Why El Salvador? On Saturday, El Salvador’s president, Nayib Bukele, said he’s going to send a bill to the legislature to make bitcoin a legal tender in the country. It’d be the first country to formally adopt the cryptocurrency as part of its economy.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/06/el-salvador-move-adopt-bitcoin-legal-tender?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/06/el-salvador-move-adopt-bitcoin-legal-tender?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 07 Jun 2021 03:01:37 -0700</pubDate>
+ </item>
+ <item>
+  <title>G-7 Ministers Agree to Corporate Minimum Tax</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1766%2Fformer_fed_chair_janet_yellen.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Biden administration estimates a global minimum tax system would lead to $500 billion in additional tax revenue for the US over the next decade.  The provision is meant to address European leaders’ concerns that they can’t sufficiently tax tech giants like Facebook and Google, because while those companies make tons of money in Europe, they are based in the US and pay taxes there.   The backstory: Multinational companies have been taking advantage of existing tax rules by shuffling money between jurisdictions with super-low rates.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/06/g7-ministers-agree-corporate-minimum-tax?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>taxes</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/06/g7-ministers-agree-corporate-minimum-tax?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 07 Jun 2021 03:01:37 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 7</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4646%2Fhiring_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Read: Profiles of NBA stars Russell Westbrook and Kevin Durant from the NYT Magazine. On ABC yesterday, Facebook executive Nick Clegg defended the company’s decision to ban former President Trump’s accounts for at least two years.</description>
@@ -325,51 +370,6 @@
   <categories>games</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/brew-mini-morning-juice</guid>
   <pubDate>Wed, 02 Jun 2021 15:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>Ally Bank Becomes The First Large Bank To End Overdraft Fees</title>
-  <description>&lt;img src='https://media.giphy.com/media/kgHuj0wDeqeCfF19Cx/giphy.gif'&gt;&lt;br/&gt;Other banks aren’t on boardCalls for an end to overdraft fees have been getting louder, and the most vocal critic is Sen. Elizabeth Warren.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/02/ally-bank-becomes-first-large-bank-end-overdraft-fees</link>
-  <author>Jamie Wilde</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/ally-bank-becomes-first-large-bank-end-overdraft-fees</guid>
-  <pubDate>Wed, 02 Jun 2021 15:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>AMC, Gaining Nearly 100% in a Day, Embraces Its Life as a Meme Stock</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5318%2Fpopcorn_amc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Through the program, individual investors will get benefits like a free large popcorn and invitations to special screenings. given AMC’s success in leveraging its internet fame for tangible business improvements, other meme stocks might follow its lead. An Elon Musk tweet about the viral song “Baby Shark” sent shares of Samsung Publishing, a company that owns a big stake in the song’s producer, up more than 10%. We thought meme stocks peaked with the bankrupt Hertz last summer, or GameStop this winter, but just this week...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/02/amc-gaining-nearly-100-day-embraces-life-meme-stock</link>
-  <author>Neal Freyman</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/amc-gaining-nearly-100-day-embraces-life-meme-stock</guid>
-  <pubDate>Wed, 02 Jun 2021 14:46:55 -0700</pubDate>
- </item>
- <item>
-  <title>London's See-Through Sky Pool Opens</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5306%2Fsky_pool.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Don't worry, it also has technology that "allows it to move in high winds." Windy out?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/02/londons-seethrough-sky-pool-opens?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>architecture</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/londons-seethrough-sky-pool-opens?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 02 Jun 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 2</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4131%2Ftravel_bags.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker)   Read: A profile of the Pied Piper of SPACs, Chamath Palihapitiya. He also unveiled new initiatives aimed at narrowing the racial wealth gap.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/01/key-performance-indicators-june-2?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/key-performance-indicators-june-2?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 02 Jun 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Oil Prices Surge to Highest Levels Since Covid Began</title>
-  <description>&lt;img src='https://media.giphy.com/media/l0HlHSB8v5yRtBlHW/giphy.gif'&gt;&lt;br/&gt;At one point the price of oil plunged into negative territory—meaning someone would pay you to take possession of their oil barrel.  What happened: The powerful oil cartel OPEC and its allies agreed to gradually increase oil production. Yesterday, oil prices hit their highest levels since the pandemic began.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/01/oil-prices-surge-highest-levels-since-covid-began?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/oil-prices-surge-highest-levels-since-covid-began?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 02 Jun 2021 03:01:54 -0700</pubDate>
  </item>
 
 </channel>
