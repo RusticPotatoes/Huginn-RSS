@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/05/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/06/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/06/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/05</link>
- <lastBuildDate>Sat, 05 Jun 2021 03:03:56 -0700</lastBuildDate>
- <pubDate>Sat, 05 Jun 2021 03:03:56 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/06</link>
+ <lastBuildDate>Sun, 06 Jun 2021 17:47:02 -0700</lastBuildDate>
+ <pubDate>Sun, 06 Jun 2021 17:47:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: June 7</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4646%2Fhiring_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Read: Profiles of NBA stars Russell Westbrook and Kevin Durant from the NYT Magazine. On ABC yesterday, Facebook executive Nick Clegg defended the company’s decision to ban former President Trump’s accounts for at least two years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/06/key-performance-indicators-june-7</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/06/key-performance-indicators-june-7</guid>
+  <pubDate>Sun, 06 Jun 2021 17:45:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Week Ahead: June 7</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5354%2Fapple_wwdc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Everything else: Going to genuinely write “Happy Friday” in every correspondence on Friday, because on that day…Soccer’s European Championship startsThe Pulitzer Prize winners are announcedIn the Heights comes to theaters</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/06/week-ahead-june-7</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/06/week-ahead-june-7</guid>
+  <pubDate>Sun, 06 Jun 2021 17:45:10 -0700</pubDate>
+ </item>
  <item>
   <title>Calm App, Sweetgreen, Others Rush to Back Naomi Osaka’s Decision to Leave French Open</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5350%2Fnaomi_osaka.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: Last Sunday, Osaka dropped out of the tournament to focus on her mental health after initially declaring she’d skip mandatory press conferences. Sweetgreen, Nike, Calm, and other brands moved quickly this week to back tennis star Naomi Osaka after she dropped out of this year’s French Open.</description>
@@ -351,24 +369,6 @@
   <author>Neal Freyman</author>
   <categories>energy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/oil-prices-surge-highest-levels-since-covid-began?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 02 Jun 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Krispy Kreme Files To Go Public</title>
-  <description>&lt;img src='https://media.giphy.com/media/fp1wbNlFeSJ20/giphy.gif'&gt;&lt;br/&gt;But after being battered and fried, Krispy Kreme was picked up by European investment firm JAB Holdings and glazed back to glory.  Did you know: Krispy Kreme owns Insomnia Cookies, which conducts over half of its sales via e-commerce.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/01/krispy-kreme-files-go-public?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/krispy-kreme-files-go-public?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 02 Jun 2021 03:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>AMC Raises Millions To Acquire Other Theaters</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5309%2Fminnesota_amc_movie_thea.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;AMC issued 8.5 million shares to investment firm Mudrick Capital to raise the sum. Did AMC find a $230 million bill in the laundry or…?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/01/amc-raises-millions-acquire-theaters?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/01/amc-raises-millions-acquire-theaters?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 02 Jun 2021 03:01:54 -0700</pubDate>
  </item>
 
