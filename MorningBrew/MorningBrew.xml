@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/07</link>
- <lastBuildDate>Mon, 07 Jun 2021 15:08:36 -0700</lastBuildDate>
- <pubDate>Mon, 07 Jun 2021 15:08:36 -0700</pubDate>
+ <lastBuildDate>Mon, 07 Jun 2021 15:23:35 -0700</lastBuildDate>
+ <pubDate>Mon, 07 Jun 2021 15:23:35 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Apple Unveils New Privacy and Work Features at WWDC</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5368%2Fwwdc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  If Apple loses, the company may have to rewrite the rules of its money-printing App Store. Yesterday, Apple defended itself and said the App Store has paid over $230 billion to developers since opening in 2008. Apple kicked off its annual WWDC conference for developers with a keynote address showing off its new software features. Apple users will be able to block tracking by email senders, a change that could mean big disruptions for businesses that depend on email marketing. And trusted contacts to get you back into iCloud after you forget your new password. Fancier maps.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/07/apple-unveils-new-privacy-work-features-wwdc</link>
+  <author>Alex Hickey</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/apple-unveils-new-privacy-work-features-wwdc</guid>
+  <pubDate>Mon, 07 Jun 2021 15:21:45 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Mini: Summer Slushie</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>e commerce</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/amazon-gets-rid-marijuana-drug-screenings-says-legalize</guid>
-  <pubDate>Wed, 02 Jun 2021 15:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>Etsy Announces Plans To Acquire Depop</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5320%2Fdepop.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Depop’s sales grew faster last year than its fashion resale rivals, Poshmark and ThredUp. More than $650 million worth of goods traded hands on Depop in 2020.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/02/etsy-announces-plans-acquire-depop</link>
-  <author>Jamie Wilde</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/etsy-announces-plans-acquire-depop</guid>
   <pubDate>Wed, 02 Jun 2021 15:01:55 -0700</pubDate>
  </item>
 
