@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/07</link>
- <lastBuildDate>Mon, 07 Jun 2021 15:33:40 -0700</lastBuildDate>
- <pubDate>Mon, 07 Jun 2021 15:33:40 -0700</pubDate>
+ <lastBuildDate>Mon, 07 Jun 2021 15:38:40 -0700</lastBuildDate>
+ <pubDate>Mon, 07 Jun 2021 15:38:40 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>CO2 In Air Hit Highest Level in Modern History</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5372%2Fbad_earth.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A brief commuting break can’t offset the CO2 that sticks around in the atmosphere for up to 1,000 years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/07/co2-air-hit-highest-level-modern-history</link>
+  <author>Matty Merritt</author>
+  <categories>environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/co2-air-hit-highest-level-modern-history</guid>
+  <pubDate>Mon, 07 Jun 2021 15:36:40 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 8</title>
   <description>&lt;img src='https://media.giphy.com/media/vCJrwYGBQlbdS/giphy.gif'&gt;&lt;br/&gt;(Noahpinion)  Read: Is our society turning into a zero-sum competition for survival?</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/etsy-announces-plans-acquire-depop?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 03 Jun 2021 02:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>AMC, Gaining Nearly 100% in a Day, Embraces Its Life as a Meme Stock</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5318%2Fpopcorn_amc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Through the program, individual investors will get benefits like a free large popcorn and invitations to special screenings. given AMC’s success in leveraging its internet fame for tangible business improvements, other meme stocks might follow its lead. An Elon Musk tweet about the viral song “Baby Shark” sent shares of Samsung Publishing, a company that owns a big stake in the song’s producer, up more than 10%. We thought meme stocks peaked with the bankrupt Hertz last summer, or GameStop this winter, but just this week...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/02/amc-gaining-nearly-100-day-embraces-life-meme-stock?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/amc-gaining-nearly-100-day-embraces-life-meme-stock?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 03 Jun 2021 02:01:59 -0700</pubDate>
  </item>
 
