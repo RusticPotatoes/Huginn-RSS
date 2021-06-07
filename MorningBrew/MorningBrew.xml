@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/07</link>
- <lastBuildDate>Mon, 07 Jun 2021 15:28:36 -0700</lastBuildDate>
- <pubDate>Mon, 07 Jun 2021 15:28:36 -0700</pubDate>
+ <lastBuildDate>Mon, 07 Jun 2021 15:33:40 -0700</lastBuildDate>
+ <pubDate>Mon, 07 Jun 2021 15:33:40 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: June 8</title>
+  <description>&lt;img src='https://media.giphy.com/media/vCJrwYGBQlbdS/giphy.gif'&gt;&lt;br/&gt;(Noahpinion)  Read: Is our society turning into a zero-sum competition for survival?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/07/key-performance-indicators-june-8</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/key-performance-indicators-june-8</guid>
+  <pubDate>Mon, 07 Jun 2021 15:31:39 -0700</pubDate>
+ </item>
+ <item>
+  <title>Jeff Bezos to Travel to Space on Blue Origin's First Passenger-Carrying Mission</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F376%2Fjeff_bezos_smiling.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Jeff Bezos is launching himself into space. So if you've been looking to get some Bezos facetime to pitch your startup idea, you can bid on the final seat on the New Shephard through Saturday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/07/jeff-bezos-travel-space-blue-origins-first-passengercarrying-mission</link>
+  <author>Matty Merritt</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/jeff-bezos-travel-space-blue-origins-first-passengercarrying-mission</guid>
+  <pubDate>Mon, 07 Jun 2021 15:31:39 -0700</pubDate>
+ </item>
  <item>
   <title>FDA Approves First Alzheimer's Drug to Treat Underlying Cause</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5369%2Flab.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the FDA approved Biogen's aducanumab, the first drug to treat the underlying cause of Alzheimer's (sticky brain plaques) and potentially slow the disease's progression in early stage patients. There's certainly money to be made: Biogen says the treatment, which will be sold under the name “Aduhelm,” will cost $56,000 a year.</description>
@@ -352,24 +370,6 @@
   <categories>investing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/amc-gaining-nearly-100-day-embraces-life-meme-stock?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 03 Jun 2021 02:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 3</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5322%2Ftesla_s_gigafactory_in_nevada.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(CBC)  Listen: A Death in Cryptoland is a podcast that tells the story of the bizarre circumstances around the reported death of Canada’s largest crypto exchange.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/02/key-performance-indicators-june-3</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/key-performance-indicators-june-3</guid>
-  <pubDate>Wed, 02 Jun 2021 15:07:02 -0700</pubDate>
- </item>
- <item>
-  <title>Chemical-Filled Cargo Ship Sinks Off the Coast of Sri Lanka</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5319%2Fsri_lanka-singapore-trans.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;the company that owns the ship said it was aware of the acid leak that caused the fire but was denied by two countries to offload the leaking container, and a Sri Lanka court ordered the ship’s captain and engineers to remain in the country as officials conduct a criminal investigation.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/02/chemicalfilled-cargo-ship-sinks-off-coast-sri-lanka</link>
-  <author>Matty Merritt</author>
-  <categories>environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/chemicalfilled-cargo-ship-sinks-off-coast-sri-lanka</guid>
-  <pubDate>Wed, 02 Jun 2021 15:07:02 -0700</pubDate>
  </item>
 
 </channel>
