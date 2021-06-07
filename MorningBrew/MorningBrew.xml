@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/07</link>
- <lastBuildDate>Mon, 07 Jun 2021 15:23:35 -0700</lastBuildDate>
- <pubDate>Mon, 07 Jun 2021 15:23:35 -0700</pubDate>
+ <lastBuildDate>Mon, 07 Jun 2021 15:28:36 -0700</lastBuildDate>
+ <pubDate>Mon, 07 Jun 2021 15:28:36 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>FDA Approves First Alzheimer's Drug to Treat Underlying Cause</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5369%2Flab.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the FDA approved Biogen's aducanumab, the first drug to treat the underlying cause of Alzheimer's (sticky brain plaques) and potentially slow the disease's progression in early stage patients. There's certainly money to be made: Biogen says the treatment, which will be sold under the name “Aduhelm,” will cost $56,000 a year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/07/fda-approves-first-alzheimers-drug-treat-underlying-cause</link>
+  <author>Alex Hickey</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/fda-approves-first-alzheimers-drug-treat-underlying-cause</guid>
+  <pubDate>Mon, 07 Jun 2021 15:26:35 -0700</pubDate>
+ </item>
  <item>
   <title>Apple Unveils New Privacy and Work Features at WWDC</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5368%2Fwwdc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  If Apple loses, the company may have to rewrite the rules of its money-printing App Store. Yesterday, Apple defended itself and said the App Store has paid over $230 billion to developers since opening in 2008. Apple kicked off its annual WWDC conference for developers with a keynote address showing off its new software features. Apple users will be able to block tracking by email senders, a change that could mean big disruptions for businesses that depend on email marketing. And trusted contacts to get you back into iCloud after you forget your new password. Fancier maps.</description>
@@ -361,15 +370,6 @@
   <categories>environment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/chemicalfilled-cargo-ship-sinks-off-coast-sri-lanka</guid>
   <pubDate>Wed, 02 Jun 2021 15:07:02 -0700</pubDate>
- </item>
- <item>
-  <title>Amazon Gets Rid of Marijuana in Drug Screenings, Says ‘Legalize It’</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5317%2Famazon_weed.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;So unless your position is regulated by the Department of Transportation, Amazon said it will treat marijuana like alcohol (should make for an interesting office holiday party). It also wants to stave off future unionization efforts at its warehouses.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/02/amazon-gets-rid-marijuana-drug-screenings-says-legalize</link>
-  <author>Matty Merritt</author>
-  <categories>e commerce</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/amazon-gets-rid-marijuana-drug-screenings-says-legalize</guid>
-  <pubDate>Wed, 02 Jun 2021 15:01:55 -0700</pubDate>
  </item>
 
 </channel>
