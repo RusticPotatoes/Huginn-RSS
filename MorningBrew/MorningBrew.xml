@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/08</link>
- <lastBuildDate>Tue, 08 Jun 2021 03:03:35 -0700</lastBuildDate>
- <pubDate>Tue, 08 Jun 2021 03:03:35 -0700</pubDate>
+ <lastBuildDate>Tue, 08 Jun 2021 16:03:39 -0700</lastBuildDate>
+ <pubDate>Tue, 08 Jun 2021 16:03:39 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>FBI, International Authorities Arrest Hundreds In Encrypted Messaging App Sting</title>
+  <description>&lt;img src='https://media.giphy.com/media/WoDqyh1EyxRR1LYsTi/giphy.gif'&gt;&lt;br/&gt;The FBI also helped spread Anom by distributing devices to 300+ gangs across 100 countries through middlemen.  As the FBI took down other encrypted communication services, more criminals joined Anom's platform to DM. For almost three years, criminals used a network of encrypted devices to share the dirty details of their smuggling and money laundering operations. Still, Anom represented just a fraction of criminal communications.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/08/fbi-international-authorities-arrest-hundreds-encrypted-messaging-app-sting</link>
+  <author>Alex Hickey</author>
+  <categories>crime</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/fbi-international-authorities-arrest-hundreds-encrypted-messaging-app-sting</guid>
+  <pubDate>Tue, 08 Jun 2021 16:01:38 -0700</pubDate>
+ </item>
+ <item>
+  <title>ProPublica Estimates that Richest 25 Individuals Pay 3.4% Tax Rate</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2248%2Fwarren_buffett.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;ProPublica estimates that America's richest 25 people paid a cumulative $13.6 billion in income taxes between 2014 and 2018, a span during which their collective wealth increased $400+ billion, for a "true tax rate" that was just 3.4%. For every $100 gained, Bezos paid just $1.09 while the typical US household paid $160. Okay, we knew that before...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/08/propublica-estimates-richest-25-individuals-pay-34-tax-rate</link>
+  <author>Alex Hickey</author>
+  <categories>wealth</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/propublica-estimates-richest-25-individuals-pay-34-tax-rate</guid>
+  <pubDate>Tue, 08 Jun 2021 16:01:38 -0700</pubDate>
+ </item>
  <item>
   <title>Jeff Bezos to Travel to Space on Blue Origin's First Passenger-Carrying Mission</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F376%2Fjeff_bezos_smiling.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Jeff Bezos is launching himself into space. So if you've been looking to get some Bezos facetime to pitch your startup idea, you can bid for New Shepard's final seat through Saturday.</description>
@@ -352,24 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/key-performance-indicators-june-4</guid>
   <pubDate>Thu, 03 Jun 2021 14:56:54 -0700</pubDate>
- </item>
- <item>
-  <title>Prices Are Going Up Across Sectors</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5334%2Fup_pixar.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Food: A UN food price index soared 40% in May, the largest jump in a decade.  Consumer goods: Prices across 36 mostly wealthy countries rose at their fastest pace in more than 12 years during April.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/03/prices-going-across-sectors</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/prices-going-across-sectors</guid>
-  <pubDate>Thu, 03 Jun 2021 14:56:54 -0700</pubDate>
- </item>
- <item>
-  <title>United Airlines Cuts Deal for Supersonic Commercial Jets</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5332%2Fboom_supersonic.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Supersonic commercial flight reemerged yesterday when United Airlines announced it's buying 15 jets from Boom Supersonic.  Now, Boom and other supersonic startups are working on net-zero emissions and noise-muffling tech.  Looking ahead... Cicadas aren't the only thing that return every ~17 years.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/03/united-airlines-cuts-deal-supersonic-commercial-jets</link>
-  <author>Alex Hickey</author>
-  <categories>travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/united-airlines-cuts-deal-supersonic-commercial-jets</guid>
-  <pubDate>Thu, 03 Jun 2021 14:52:03 -0700</pubDate>
  </item>
 
 </channel>
