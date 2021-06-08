@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/08</link>
- <lastBuildDate>Tue, 08 Jun 2021 16:13:43 -0700</lastBuildDate>
- <pubDate>Tue, 08 Jun 2021 16:13:43 -0700</pubDate>
+ <lastBuildDate>Tue, 08 Jun 2021 16:18:44 -0700</lastBuildDate>
+ <pubDate>Tue, 08 Jun 2021 16:18:44 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Spotify, Amazon, and More Sites Experience Outages</title>
+  <description>&lt;img src='https://media.giphy.com/media/8ZeiHZ3qV5LvDsTQh3/giphy.gif'&gt;&lt;br/&gt;Bottom line: One hour offline may not sound like a lot, but it can translate to millions of dollars in advertising revenue and e-commerce losses for affected sites.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/08/spotify-amazon-sites-experience-outages</link>
+  <author>Jamie Wilde</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/spotify-amazon-sites-experience-outages</guid>
+  <pubDate>Tue, 08 Jun 2021 16:16:43 -0700</pubDate>
+ </item>
  <item>
   <title>Kanye West, Gap's Co-branded Jacket Sells Out In Hours</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5380%2Fgap_yeezy_jacket.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Just in time for Kanye West's 44th birthday and summer, Gap and Yeezy unveiled the first product of their partnership yesterday: the jacket you see above.  </description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/twitter-launches-first-paid-subscription-service-blue?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 04 Jun 2021 03:01:58 -0700</pubDate>
- </item>
- <item>
-  <title>United Airlines Cuts Deal for Supersonic Commercial Jets</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5335%2Fboom_plane.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The promise of supersonic commercial flight reemerged yesterday when United Airlines announced it's buying 15 jets from Boom Supersonic.  Now, Boom and other supersonic startups are working on net-zero emissions and noise-muffling tech. Supersonic = faster than the speed of sound.  Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/03/united-airlines-cuts-deal-supersonic-commercial-jets?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/united-airlines-cuts-deal-supersonic-commercial-jets?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 04 Jun 2021 03:01:58 -0700</pubDate>
  </item>
 
