@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/07/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/08/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/07</link>
- <lastBuildDate>Mon, 07 Jun 2021 15:38:40 -0700</lastBuildDate>
- <pubDate>Mon, 07 Jun 2021 15:38:40 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/08</link>
+ <lastBuildDate>Tue, 08 Jun 2021 03:03:35 -0700</lastBuildDate>
+ <pubDate>Tue, 08 Jun 2021 03:03:35 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Jeff Bezos to Travel to Space on Blue Origin's First Passenger-Carrying Mission</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F376%2Fjeff_bezos_smiling.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Jeff Bezos is launching himself into space. So if you've been looking to get some Bezos facetime to pitch your startup idea, you can bid for New Shepard's final seat through Saturday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/07/jeff-bezos-travel-space-blue-origins-first-passengercarrying-mission?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/jeff-bezos-travel-space-blue-origins-first-passengercarrying-mission?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 08 Jun 2021 03:01:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 8</title>
+  <description>&lt;img src='https://media.giphy.com/media/vCJrwYGBQlbdS/giphy.gif'&gt;&lt;br/&gt;(Noahpinion)  Read: Is our society turning into a zero-sum competition for survival?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/07/key-performance-indicators-june-8?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/key-performance-indicators-june-8?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 08 Jun 2021 03:01:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>CO2 In Air Hit Highest Level in Modern History</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5372%2Fbad_earth.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A brief commuting break can’t offset the CO2 that sticks around in the atmosphere for up to 1,000 years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/07/co2-air-hit-highest-level-modern-history?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/co2-air-hit-highest-level-modern-history?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 08 Jun 2021 03:01:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>FDA Approves First Alzheimer's Drug to Treat Underlying Cause</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5369%2Flab.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the FDA approved Biogen's aducanumab, the first drug to treat the underlying cause of Alzheimer's (sticky brain plaques) and potentially slow the disease's progression in early stage patients. There's certainly money to be made: Biogen says the treatment, which will be sold under the name “Aduhelm,” will cost $56,000 a year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/07/fda-approves-first-alzheimers-drug-treat-underlying-cause?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/fda-approves-first-alzheimers-drug-treat-underlying-cause?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 08 Jun 2021 03:01:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>Apple Unveils New Privacy and Work Features at WWDC</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5368%2Fwwdc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  If Apple loses, the company may have to rewrite the rules of its money-printing App Store. Yesterday, Apple defended itself and said the App Store has paid over $230 billion to developers since opening in 2008. Apple kicked off its annual WWDC conference for developers with a keynote address showing off its new software features. Apple users will be able to block tracking by email senders, a change that could mean big disruptions for businesses that depend on email marketing. And trusted contacts to get you back into iCloud after you forget your new password. Fancier maps.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/07/apple-unveils-new-privacy-work-features-wwdc?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/apple-unveils-new-privacy-work-features-wwdc?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 08 Jun 2021 03:01:43 -0700</pubDate>
+ </item>
  <item>
   <title>CO2 In Air Hit Highest Level in Modern History</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5372%2Fbad_earth.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A brief commuting break can’t offset the CO2 that sticks around in the atmosphere for up to 1,000 years.</description>
@@ -325,51 +370,6 @@
   <categories>travel</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/united-airlines-cuts-deal-supersonic-commercial-jets</guid>
   <pubDate>Thu, 03 Jun 2021 14:52:03 -0700</pubDate>
- </item>
- <item>
-  <title>Twitter Launches First Paid Subscription Service, Blue</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5333%2Ftwitter.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At long last, Twitter has released its first subscription product, Twitter Blue. A virtual tip jar"Super Follows" for individual users to charge subscriptionsVoice-based DMs and tweets Features that limit the spread of misinformation and prevent harassmentStories (aka "Fleets")Spaces, a Clubhouse competitor</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/03/twitter-launches-first-paid-subscription-service-blue</link>
-  <author>Alex Hickey</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/twitter-launches-first-paid-subscription-service-blue</guid>
-  <pubDate>Thu, 03 Jun 2021 14:52:03 -0700</pubDate>
- </item>
- <item>
-  <title>California Drought Could Cause Wide-Ranging Industry Problems</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4436%2Fdrought_in_california.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The state of play: California Gov. Gavin Newsom has put 41 counties under a state of emergency in an attempt to drastically limit water use. Some scientists say the region is facing the worst drought in centuries. Officials are predicting the water level of Lake Oroville, the Beyoncé of California lakes, to hit a record low in August. California accounts for 80% of the US' almond supply, but because of shrinking water allocations, some farmers are simply bulldozing those notoriously thirsty almond trees. Anyone who dislikes wildfires.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/03/california-drought-cause-wideranging-industry-problems</link>
-  <author>Matty Merritt</author>
-  <categories>environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/california-drought-cause-wideranging-industry-problems</guid>
-  <pubDate>Thu, 03 Jun 2021 14:52:03 -0700</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: June 4</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/03/brews-weekly-news-quiz-june-4</link>
-  <author>Mary Tobler</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/brews-weekly-news-quiz-june-4</guid>
-  <pubDate>Thu, 03 Jun 2021 13:07:02 -0700</pubDate>
- </item>
- <item>
-  <title>Amazon Gets Rid of Marijuana in Drug Screenings, Says ‘Legalize It’</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5317%2Famazon_weed.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Other employers like Hospitality Ventures, a management group that runs Marriott and Hilton hotels, have also dropped marijuana testing to attract already hard-to-find staff. So unless your position is regulated by the Department of Transportation, Amazon said it will treat marijuana like alcohol (should make for an interesting office holiday party).</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/02/amazon-gets-rid-marijuana-drug-screenings-says-legalize?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>e commerce</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/amazon-gets-rid-marijuana-drug-screenings-says-legalize?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 03 Jun 2021 02:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Etsy Announces Plans To Acquire Depop</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5320%2Fdepop.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Depop’s sales grew faster last year than its fashion resale rivals, Poshmark and ThredUp. More than $650 million worth of goods traded hands on Depop in 2020.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/02/etsy-announces-plans-acquire-depop?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/02/etsy-announces-plans-acquire-depop?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 03 Jun 2021 02:01:59 -0700</pubDate>
  </item>
 
 </channel>
