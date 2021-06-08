@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/08</link>
- <lastBuildDate>Tue, 08 Jun 2021 16:08:42 -0700</lastBuildDate>
- <pubDate>Tue, 08 Jun 2021 16:08:42 -0700</pubDate>
+ <lastBuildDate>Tue, 08 Jun 2021 16:13:43 -0700</lastBuildDate>
+ <pubDate>Tue, 08 Jun 2021 16:13:43 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Kanye West, Gap's Co-branded Jacket Sells Out In Hours</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5380%2Fgap_yeezy_jacket.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Just in time for Kanye West's 44th birthday and summer, Gap and Yeezy unveiled the first product of their partnership yesterday: the jacket you see above.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/08/kanye-west-gaps-cobranded-jacket-sells-hours</link>
+  <author>Jamie Wilde</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/kanye-west-gaps-cobranded-jacket-sells-hours</guid>
+  <pubDate>Tue, 08 Jun 2021 16:11:42 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 9</title>
   <description>&lt;img src='https://media.giphy.com/media/l41Yj4B9Uc4eT3d4Y/giphy.gif'&gt;&lt;br/&gt;(Jackie Bryant) Read: If you give a lobster enough THC, will it notice that it is boiling to death?</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>travel</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/united-airlines-cuts-deal-supersonic-commercial-jets?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 04 Jun 2021 03:01:58 -0700</pubDate>
- </item>
- <item>
-  <title>California Drought Could Cause Wide-Ranging Industry Problems</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4436%2Fdrought_in_california.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The state of play: California Gov. Gavin Newsom has put 41 counties under a state of emergency in an attempt to drastically limit water use. Some scientists say the region is facing the worst drought in centuries. Officials are predicting the water level of Lake Oroville, the Beyoncé of California lakes, to hit a record low in August. California accounts for 80% of the US' almond supply, but because of shrinking water allocations, some farmers are simply bulldozing those notoriously thirsty almond trees. Anyone who dislikes wildfires.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/03/california-drought-cause-wideranging-industry-problems?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/california-drought-cause-wideranging-industry-problems?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 04 Jun 2021 03:01:58 -0700</pubDate>
  </item>
 
