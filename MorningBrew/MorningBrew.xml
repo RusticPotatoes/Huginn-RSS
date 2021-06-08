@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/08</link>
- <lastBuildDate>Tue, 08 Jun 2021 16:03:39 -0700</lastBuildDate>
- <pubDate>Tue, 08 Jun 2021 16:03:39 -0700</pubDate>
+ <lastBuildDate>Tue, 08 Jun 2021 16:08:42 -0700</lastBuildDate>
+ <pubDate>Tue, 08 Jun 2021 16:08:42 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: June 9</title>
+  <description>&lt;img src='https://media.giphy.com/media/l41Yj4B9Uc4eT3d4Y/giphy.gif'&gt;&lt;br/&gt;(Jackie Bryant) Read: If you give a lobster enough THC, will it notice that it is boiling to death?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/08/key-performance-indicators-june-9</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/key-performance-indicators-june-9</guid>
+  <pubDate>Tue, 08 Jun 2021 16:06:42 -0700</pubDate>
+ </item>
  <item>
   <title>FBI, International Authorities Arrest Hundreds In Encrypted Messaging App Sting</title>
   <description>&lt;img src='https://media.giphy.com/media/WoDqyh1EyxRR1LYsTi/giphy.gif'&gt;&lt;br/&gt;The FBI also helped spread Anom by distributing devices to 300+ gangs across 100 countries through middlemen.  As the FBI took down other encrypted communication services, more criminals joined Anom's platform to DM. For almost three years, criminals used a network of encrypted devices to share the dirty details of their smuggling and money laundering operations. Still, Anom represented just a fraction of criminal communications.</description>
@@ -361,15 +370,6 @@
   <categories>environment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/california-drought-cause-wideranging-industry-problems?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 04 Jun 2021 03:01:58 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 4</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5331%2Fbabe_ruth_card.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Atlantic)  Read: America has a drinking problem. This warning, plus its plan to sell more than 11 million shares, resulted in an 18% drop for the day.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/03/key-performance-indicators-june-4</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/03/key-performance-indicators-june-4</guid>
-  <pubDate>Thu, 03 Jun 2021 14:56:54 -0700</pubDate>
  </item>
 
 </channel>
