@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/09</link>
- <lastBuildDate>Wed, 09 Jun 2021 14:33:39 -0700</lastBuildDate>
- <pubDate>Wed, 09 Jun 2021 14:33:39 -0700</pubDate>
+ <lastBuildDate>Wed, 09 Jun 2021 19:58:41 -0700</lastBuildDate>
+ <pubDate>Wed, 09 Jun 2021 19:58:41 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>After More Than 12 Tortured Years, Keystone XL Pipeline Is Officially Canceled</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5392%2Fkeystone_xl_pipeline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;“We remain disappointed and frustrated with the circumstances surrounding the Keystone XL project, including the cancellation of the presidential permit for the pipeline’s border crossing,” Alberta Premier Jason Kenney said.   Supporters of the pipeline said it would create thousands of well-paying construction jobs and bolster US energy security. “It's a great day for Mother Earth," Larry Wright Jr., chairman of Nebraska’s Ponca Tribe, said. Environmentalists and others who opposed the project, meanwhile, are overjoyed that their years of public advocacy paid off. Canceled.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/10/12-tortured-years-keystone-xl-pipeline-officially-canceled</link>
+  <author>Neal Freyman</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/12-tortured-years-keystone-xl-pipeline-officially-canceled</guid>
+  <pubDate>Wed, 09 Jun 2021 19:56:40 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 10</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5389%2Ftopshot-us-animal-environ.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Flowingdata) chicken. Look: at everything we’ve eaten since the ’70s and see the dramatic rise of... The $370 million Margaritaville Resort Times Square is opening next month.</description>
@@ -361,15 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/calm-app-sweetgreen-others-rush-back-naomi-osakas-decision-leave-french-open</guid>
   <pubDate>Fri, 04 Jun 2021 15:21:59 -0700</pubDate>
- </item>
- <item>
-  <title>May Jobs Report Offers Wins, Losses, And Some Hope</title>
-  <description>&lt;img src='https://media.giphy.com/media/kC2cRqEt8o41COgjoV/giphy.gif'&gt;&lt;br/&gt;The biggest job gains were in the leisure and hospitality sector, which added 292,000 new jobs, more than the total number of jobs the economy added in April (278,000). There are still 7.6 million fewer people employed in the US than before the pandemic.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/04/may-jobs-report-offers-wins-losses-hope</link>
-  <author>Matty Merritt</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/may-jobs-report-offers-wins-losses-hope</guid>
-  <pubDate>Fri, 04 Jun 2021 15:16:58 -0700</pubDate>
  </item>
 
 </channel>
