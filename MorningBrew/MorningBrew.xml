@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/10</link>
- <lastBuildDate>Thu, 10 Jun 2021 06:58:42 -0700</lastBuildDate>
- <pubDate>Thu, 10 Jun 2021 06:58:42 -0700</pubDate>
+ <lastBuildDate>Thu, 10 Jun 2021 13:28:36 -0700</lastBuildDate>
+ <pubDate>Thu, 10 Jun 2021 13:28:36 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Brew’s Weekly News Quiz: June 11</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/10/brews-weekly-news-quiz-june-11</link>
+  <author>Mary Tobler</author>
+  <categories>quiz</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/brews-weekly-news-quiz-june-11</guid>
+  <pubDate>Thu, 10 Jun 2021 13:26:35 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Mini: Encore</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/06/key-performance-indicators-june-7</guid>
-  <pubDate>Sun, 06 Jun 2021 17:45:10 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: June 7</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5354%2Fapple_wwdc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Everything else: Going to genuinely write “Happy Friday” in every correspondence on Friday, because on that day…Soccer’s European Championship startsThe Pulitzer Prize winners are announcedIn the Heights comes to theaters</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/06/week-ahead-june-7</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/06/week-ahead-june-7</guid>
   <pubDate>Sun, 06 Jun 2021 17:45:10 -0700</pubDate>
  </item>
 
