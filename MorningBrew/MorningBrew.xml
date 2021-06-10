@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/10</link>
- <lastBuildDate>Thu, 10 Jun 2021 14:53:45 -0700</lastBuildDate>
- <pubDate>Thu, 10 Jun 2021 14:53:45 -0700</pubDate>
+ <lastBuildDate>Thu, 10 Jun 2021 14:58:41 -0700</lastBuildDate>
+ <pubDate>Thu, 10 Jun 2021 14:58:41 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>US Economy Heat Check: Ghost-Pepper Hot</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5398%2Finflation.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Wealth: US household wealth climbed to a record $136.9 trillion in Q1 thanks to rising values of stocks and homes. Driving the price increases were…Airfare, food, and beefHousehold furnishings, boosted by a record price increase for floor coverings. Consumer prices: They jumped 0.6% from April to May and 5% from last year, the fastest annual increase since 2008. When you compare prices to 2019, they rose just 2.5% in May.Prices are rising the most in the sectors that got hit the worst by the pandemic (transportation, hospitality, apparel).</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/10/us-economy-heat-check-ghostpepper-hot</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/us-economy-heat-check-ghostpepper-hot</guid>
+  <pubDate>Thu, 10 Jun 2021 14:56:40 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 11</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker)  Read: The dark, democratizing power of the social media stock market. Three members of the advisory panel have now quit following the decision.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/06/week-ahead-june-7?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 07 Jun 2021 03:01:37 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 7</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4646%2Fhiring_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Read: Profiles of NBA stars Russell Westbrook and Kevin Durant from the NYT Magazine. On ABC yesterday, Facebook executive Nick Clegg defended the company’s decision to ban former President Trump’s account for at least two years.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/06/key-performance-indicators-june-7?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/06/key-performance-indicators-june-7?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 07 Jun 2021 03:01:37 -0700</pubDate>
  </item>
 
