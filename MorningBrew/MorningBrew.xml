@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/09/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/10/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/09</link>
- <lastBuildDate>Wed, 09 Jun 2021 19:58:41 -0700</lastBuildDate>
- <pubDate>Wed, 09 Jun 2021 19:58:41 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/10</link>
+ <lastBuildDate>Thu, 10 Jun 2021 03:03:42 -0700</lastBuildDate>
+ <pubDate>Thu, 10 Jun 2021 03:03:42 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Facebook Reportedly Planning Its First Smartwatch</title>
+  <description>&lt;img src='https://media.giphy.com/media/9u514UZd57mRhnBCEk/giphy.gif'&gt;&lt;br/&gt;Yep, Facebook is prepping an Apple Watch competitor, according to The Verge. Because the fried chicken sandwich market is a little too saturated, Facebook is planning to release the next best thing: a smartwatch. Looking ahead... Zuck is so bullish on high-tech glasses that he once predicted they’ll become as common as mobile phones.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/09/facebook-reportedly-planning-first-smartwatch?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/09/facebook-reportedly-planning-first-smartwatch?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 10 Jun 2021 03:01:41 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 10</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5389%2Ftopshot-us-animal-environ.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Flowingdata) chicken. Look: at everything we’ve eaten since the ’70s and see the dramatic rise of... The $370 million Margaritaville Resort Times Square is opening next month.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/09/key-performance-indicators-june-10?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/09/key-performance-indicators-june-10?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 10 Jun 2021 03:01:41 -0700</pubDate>
+ </item>
+ <item>
+  <title>Biden Repeals and Replaces Trump’s App Bans</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5390%2Ftiktok_and_wechat.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In just the last week…Biden banned US investors from funding 59 Chinese companies, including tech giant Huawei. When TikTok seemed to be just hours from disappearing from app stores? The Senate passed a $250 billion bill that invests in American science and technology to challenge China’s growing economic ambitions.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/09/biden-repeals-replaces-trumps-app-bans?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/09/biden-repeals-replaces-trumps-app-bans?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 10 Jun 2021 03:01:41 -0700</pubDate>
+ </item>
+ <item>
+  <title>Everything You Need to Know About Delta, the Covid Variant Racing Around the World</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F672%2Fcoronavirus.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A variant known as Delta is gaining Covid market share in many countries and raising concerns among public health officials. Where is Delta? Delta is also in the US, where it accounts for 6% of all cases. Bottom line: Vaccines appear to be highly effective against Delta.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/09/everything-need-know-delta-covid-variant-racing-around-world?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/09/everything-need-know-delta-covid-variant-racing-around-world?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 10 Jun 2021 03:01:41 -0700</pubDate>
+ </item>
+ <item>
+  <title>After More Than 12 Tortured Years, Keystone XL Pipeline Is Officially Canceled</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5392%2Fkeystone_xl_pipeline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;“We remain disappointed and frustrated with the circumstances surrounding the Keystone XL project, including the cancellation of the presidential permit for the pipeline’s border crossing,” Alberta Premier Jason Kenney said.   Supporters of the pipeline said it would create thousands of well-paying construction jobs and bolster US energy security. “It's a great day for Mother Earth," Larry Wright Jr., chairman of Nebraska’s Ponca Tribe, said.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/10/12-tortured-years-keystone-xl-pipeline-officially-canceled?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/12-tortured-years-keystone-xl-pipeline-officially-canceled?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 10 Jun 2021 03:01:41 -0700</pubDate>
+ </item>
  <item>
   <title>After More Than 12 Tortured Years, Keystone XL Pipeline Is Officially Canceled</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5392%2Fkeystone_xl_pipeline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;“We remain disappointed and frustrated with the circumstances surrounding the Keystone XL project, including the cancellation of the presidential permit for the pipeline’s border crossing,” Alberta Premier Jason Kenney said.   Supporters of the pipeline said it would create thousands of well-paying construction jobs and bolster US energy security. “It's a great day for Mother Earth," Larry Wright Jr., chairman of Nebraska’s Ponca Tribe, said. Environmentalists and others who opposed the project, meanwhile, are overjoyed that their years of public advocacy paid off. Canceled.</description>
@@ -325,51 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/calm-app-sweetgreen-others-rush-back-naomi-osakas-decision-leave-french-open?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 05 Jun 2021 03:01:56 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 5</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2150%2Fceo_in_the_board_room.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(YouTube) rewatch David Foster Wallace’s commencement speech at Kenyon College in 2005.  Watch: It’s that time of year... “We need more rain, and we need it now."</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/04/key-performance-indicators-june-5?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/key-performance-indicators-june-5?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 05 Jun 2021 03:01:56 -0700</pubDate>
- </item>
- <item>
-  <title>Bill Ackman's Proposed SPAC Deal Confuses Just About Everyone</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4587%2Fbill_ackman_short_selling.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; There’s even more 4D financial chess going on behind the scenes, but the bottom line is that shares in Ackman’s SPAC plummeted yesterday following the announcement, meaning investors doubt Ackman can pull off these business theatrics.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/04/bill-ackmans-proposed-spac-deal-confuses-just-everyone?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>manda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/bill-ackmans-proposed-spac-deal-confuses-just-everyone?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 05 Jun 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>May Jobs Report Offers Wins, Losses, And Some Hope</title>
-  <description>&lt;img src='https://media.giphy.com/media/kC2cRqEt8o41COgjoV/giphy.gif'&gt;&lt;br/&gt;The biggest job gains were in the leisure and hospitality sector, which added 292,000 new jobs, more than the 278,000 jobs the economy added in total in April. The number of workers who claimed unemployment because their employer lost business or closed due to the pandemic dropped by 1.5 million.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/04/may-jobs-report-offers-wins-losses-hope?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/may-jobs-report-offers-wins-losses-hope?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 05 Jun 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>Facebook Extends President Trump’s Ban For Two More Years</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5347%2Ftrump_banned_from_facebook.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: Trump’s blog’s failure is a reminder that social platforms like Facebook don’t just offer a place to share snarky opinions, but also an algorithm-amplified megaphone. Facebook had kept a special list of politicians who were allowed to bend its content moderation rules because their opinions were considered “newsworthy content that should, as a general rule, be seen and heard,” Facebook VP of Global Affairs Nick Clegg said in 2019.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/04/facebook-extends-president-trumps-ban-two-years?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>social media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/facebook-extends-president-trumps-ban-two-years?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 05 Jun 2021 03:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>Calm App, Sweetgreen, Others Rush to Back Naomi Osaka’s Decision to Leave French Open</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5350%2Fnaomi_osaka.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: Last Sunday, Osaka dropped out of the tournament to focus on her mental health after initially declaring she’d skip mandatory press conferences. Sweetgreen, Nike, Calm, and other brands moved quickly this week to back tennis star Naomi Osaka after she dropped out of this year’s French Open.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/04/calm-app-sweetgreen-others-rush-back-naomi-osakas-decision-leave-french-open</link>
-  <author>Matty Merritt</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/calm-app-sweetgreen-others-rush-back-naomi-osakas-decision-leave-french-open</guid>
-  <pubDate>Fri, 04 Jun 2021 15:21:59 -0700</pubDate>
  </item>
 
 </channel>
