@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/10</link>
- <lastBuildDate>Thu, 10 Jun 2021 03:03:42 -0700</lastBuildDate>
- <pubDate>Thu, 10 Jun 2021 03:03:42 -0700</pubDate>
+ <lastBuildDate>Thu, 10 Jun 2021 06:58:42 -0700</lastBuildDate>
+ <pubDate>Thu, 10 Jun 2021 06:58:42 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Mini: Encore</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/10/brew-mini-encore</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/brew-mini-encore</guid>
+  <pubDate>Thu, 10 Jun 2021 06:56:41 -0700</pubDate>
+ </item>
  <item>
   <title>Facebook Reportedly Planning Its First Smartwatch</title>
   <description>&lt;img src='https://media.giphy.com/media/9u514UZd57mRhnBCEk/giphy.gif'&gt;&lt;br/&gt;Yep, Facebook is prepping an Apple Watch competitor, according to The Verge. Because the fried chicken sandwich market is a little too saturated, Facebook is planning to release the next best thing: a smartwatch. Looking ahead... Zuck is so bullish on high-tech glasses that he once predicted they’ll become as common as mobile phones.</description>
@@ -361,15 +370,6 @@
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/06/week-ahead-june-7</guid>
   <pubDate>Sun, 06 Jun 2021 17:45:10 -0700</pubDate>
- </item>
- <item>
-  <title>Calm App, Sweetgreen, Others Rush to Back Naomi Osaka’s Decision to Leave French Open</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5350%2Fnaomi_osaka.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: Last Sunday, Osaka dropped out of the tournament to focus on her mental health after initially declaring she’d skip mandatory press conferences. Sweetgreen, Nike, Calm, and other brands moved quickly this week to back tennis star Naomi Osaka after she dropped out of this year’s French Open.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/04/calm-app-sweetgreen-others-rush-back-naomi-osakas-decision-leave-french-open?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/04/calm-app-sweetgreen-others-rush-back-naomi-osakas-decision-leave-french-open?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 05 Jun 2021 03:01:56 -0700</pubDate>
  </item>
 
 </channel>
