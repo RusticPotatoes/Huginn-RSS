@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/11</link>
- <lastBuildDate>Fri, 11 Jun 2021 15:03:44 -0700</lastBuildDate>
- <pubDate>Fri, 11 Jun 2021 15:03:44 -0700</pubDate>
+ <lastBuildDate>Fri, 11 Jun 2021 15:13:38 -0700</lastBuildDate>
+ <pubDate>Fri, 11 Jun 2021 15:13:38 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Didi Chuxing Leads, What Could Be, a Record Breaking IPO Summer</title>
+  <description>&lt;img src='https://media.giphy.com/media/ocIqPZAlNdyko/giphy.gif'&gt;&lt;br/&gt;On Thursday, Didi Chuxing, China’s largest ride-hailing service, filed for a US IPO at a reported $70 billion valuation. Bankers are forecasting that US-listed IPOs could raise up to $40 billion from June through August this year, topping last year’s record of $32 billion, per the WSJ.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/11/didi-chuxing-leads-record-breaking-ipo-summer</link>
+  <author>Matty Merritt</author>
+  <categories>ipo</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/didi-chuxing-leads-record-breaking-ipo-summer</guid>
+  <pubDate>Fri, 11 Jun 2021 15:11:37 -0700</pubDate>
+ </item>
+ <item>
+  <title>Money Matters: What If I Have Shares in a Non-Public Company?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4692%2Fbudget_scale.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; It’s way easier to sell your shares if and when your company goes public or is acquired by another company. There are eBay-like marketplaces for selling private company shares, but it’s not like posting a picture of your old iPod and offering free shipping.  If you want to sell your stake before the company goes public, you can ask the execs at your company to buy back your shares.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/11/money-matters-shares-nonpublic-company</link>
+  <author>Ryan Lasker</author>
+  <categories>personal finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/money-matters-shares-nonpublic-company</guid>
+  <pubDate>Fri, 11 Jun 2021 15:11:37 -0700</pubDate>
+ </item>
  <item>
   <title>House Lawmakers Drop Five Antitrust Bills on Big Tech</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1823%2Fbig_tech_under_the_antitrust_spotlight.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A bipartisan group of House lawmakers interrupted Summer Fridays across the US yesterday afternoon by dropping five antitrust bills designed to finally put some speed limits on the tech industry’s autobahn. Mergers: A fourth bill would make it more difficult for Big Tech companies to snatch up smaller competitors. Conflict of interest: Huge tech companies wouldn't be able to own or operate a business that would incentive it to favor its own products over those of a competitor.  Those new lawsHere’s a quick look at the major themes of the five bills lawmakers dropped yesterday.</description>
@@ -352,24 +370,6 @@
   <categories>wealth</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/propublica-estimates-richest-25-individuals-pay-34-tax-rate</guid>
   <pubDate>Tue, 08 Jun 2021 16:01:38 -0700</pubDate>
- </item>
- <item>
-  <title>Jeff Bezos to Travel to Space on Blue Origin's First Passenger-Carrying Mission</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F376%2Fjeff_bezos_smiling.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Jeff Bezos is launching himself into space. So if you've been looking to get some Bezos facetime to pitch your startup idea, you can bid for New Shepard's final seat through Saturday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/07/jeff-bezos-travel-space-blue-origins-first-passengercarrying-mission?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/jeff-bezos-travel-space-blue-origins-first-passengercarrying-mission?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 08 Jun 2021 03:01:44 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 8</title>
-  <description>&lt;img src='https://media.giphy.com/media/vCJrwYGBQlbdS/giphy.gif'&gt;&lt;br/&gt;(Noahpinion)  Read: Is our society turning into a zero-sum competition for survival?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/07/key-performance-indicators-june-8?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/key-performance-indicators-june-8?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 08 Jun 2021 03:01:44 -0700</pubDate>
  </item>
 
 </channel>
