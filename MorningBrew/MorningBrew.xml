@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/11</link>
- <lastBuildDate>Fri, 11 Jun 2021 03:03:41 -0700</lastBuildDate>
- <pubDate>Fri, 11 Jun 2021 03:03:41 -0700</pubDate>
+ <lastBuildDate>Fri, 11 Jun 2021 08:13:36 -0700</lastBuildDate>
+ <pubDate>Fri, 11 Jun 2021 08:13:36 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Crossword: Whodunit</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/11/brew-crossword-whodunit</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/brew-crossword-whodunit</guid>
+  <pubDate>Fri, 11 Jun 2021 08:11:45 -0700</pubDate>
+ </item>
  <item>
   <title>Netflix's Next Big Plan to Win Streaming Wars: Merch</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5399%2Fnetflix_store.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Netflix has done collabs with retailers including Walmart, Sephora, and Target to sell clothes and other branded items from its most bingeable shows, but this is the company's first step into selling those products itself. The streaming service launched Netflix.</description>
@@ -361,15 +370,6 @@
   <categories>environment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/co2-air-hit-highest-level-modern-history</guid>
   <pubDate>Mon, 07 Jun 2021 15:36:40 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 8</title>
-  <description>&lt;img src='https://media.giphy.com/media/vCJrwYGBQlbdS/giphy.gif'&gt;&lt;br/&gt;(Noahpinion)  Read: Is our society turning into a zero-sum competition for survival?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/07/key-performance-indicators-june-8</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/key-performance-indicators-june-8</guid>
-  <pubDate>Mon, 07 Jun 2021 15:31:39 -0700</pubDate>
  </item>
 
 </channel>
