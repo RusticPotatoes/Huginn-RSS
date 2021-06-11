@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/11</link>
- <lastBuildDate>Fri, 11 Jun 2021 15:18:44 -0700</lastBuildDate>
- <pubDate>Fri, 11 Jun 2021 15:18:44 -0700</pubDate>
+ <lastBuildDate>Fri, 11 Jun 2021 15:33:40 -0700</lastBuildDate>
+ <pubDate>Fri, 11 Jun 2021 15:33:40 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Gaming’s Preeminent Conference, E3, Is This Weekend</title>
+  <description>&lt;img src='https://media.giphy.com/media/Tgt47OfKEzgDe2kcJk/giphy.gif'&gt;&lt;br/&gt;Big picture: Sony and EA are skipping the showcase. In general, E3 has been losing exhibitors and, some argue, relevance ever since its ’00s heyday when, for instance, Paul McCartney and Ringo Starr went on stage to promote The Beatles: Rock Band. ? A coincidence or... Nintendo could use its announcement reel to finally unveil a new-and-improved Nintendo Switch.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/11/gamings-preeminent-conference-e3-weekend</link>
+  <author>Jamie Wilde</author>
+  <categories>gaming</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/gamings-preeminent-conference-e3-weekend</guid>
+  <pubDate>Fri, 11 Jun 2021 15:31:39 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 12</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4072%2Fbitcoin_as_dollars.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(LA Times) Read: A pleasant story about everyone’s favorite courtroom TV star, Judge Judy.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/key-performance-indicators-june-9</guid>
   <pubDate>Tue, 08 Jun 2021 16:06:42 -0700</pubDate>
- </item>
- <item>
-  <title>FBI, International Authorities Arrest Hundreds In Encrypted Messaging App Sting</title>
-  <description>&lt;img src='https://media.giphy.com/media/WoDqyh1EyxRR1LYsTi/giphy.gif'&gt;&lt;br/&gt;The FBI also helped spread Anom by distributing devices to 300+ gangs across 100 countries through middlemen.  As the FBI took down other encrypted communication services, more criminals joined Anom's platform to DM. For almost three years, criminals used a network of encrypted devices to share the dirty details of their smuggling and money laundering operations. Still, Anom represented just a fraction of criminal communications.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/08/fbi-international-authorities-arrest-hundreds-encrypted-messaging-app-sting</link>
-  <author>Alex Hickey</author>
-  <categories>crime</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/fbi-international-authorities-arrest-hundreds-encrypted-messaging-app-sting</guid>
-  <pubDate>Tue, 08 Jun 2021 16:01:38 -0700</pubDate>
  </item>
 
 </channel>
