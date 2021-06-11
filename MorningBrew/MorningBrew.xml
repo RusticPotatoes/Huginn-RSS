@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/11</link>
- <lastBuildDate>Fri, 11 Jun 2021 14:04:42 -0700</lastBuildDate>
- <pubDate>Fri, 11 Jun 2021 14:04:42 -0700</pubDate>
+ <lastBuildDate>Fri, 11 Jun 2021 14:38:38 -0700</lastBuildDate>
+ <pubDate>Fri, 11 Jun 2021 14:38:38 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Boring Company Says "Open Sesame"</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5415%2Fboring_company.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And the now-operational Las Vegas Loop is proof that, at least to an extent, he is capable of turning stuck-in-traffic musings into reality, even if it is "basically just Teslas in tunnels at this point," as Musk himself admitted. The Boring Company's Loop in Las Vegas can transport up to 4,400 passengers per hour. Skeptics question why Musk is digging tunnels to shuttle people around... And it can ferry a lot more people than the Boring Company's system currently can.  In all, it was a rather, uh, boring debut for The Boring Company, a venture Musk created after he became fed up with LA gridlock."</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/11/boring-company-says-open-sesame</link>
+  <author>Neal Freyman</author>
+  <categories>analysis</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/boring-company-says-open-sesame</guid>
+  <pubDate>Fri, 11 Jun 2021 14:36:37 -0700</pubDate>
+ </item>
  <item>
   <title>Icebreakers with… Insecure's Yvonne Orji</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5411%2Fyvonne_orji.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Before I went in to pitch my show for Oprah, back in 2015, my roommate was like, "Do you have a hype song?" It's unclear what people talked about in group chats before Insecure graced us with its hilarious plotlines, juicy drama, and, of course, Emmy-nominated Yvonne Orji. I would love to be in my car, feeling down, and then look up and see a billboard that says "Why not me?" If you could write anything on a billboard, what would it be?" I was like, if this older white man and this older white woman can sell gazillions of books [by] pretty much talking about faith, why not me? Why not me?</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>environment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/co2-air-hit-highest-level-modern-history?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 08 Jun 2021 03:01:44 -0700</pubDate>
- </item>
- <item>
-  <title>FDA Approves First Alzheimer's Drug to Treat Underlying Cause</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5369%2Flab.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the FDA approved Biogen's aducanumab, the first drug to treat the underlying cause of Alzheimer's (sticky brain plaques) and potentially slow the disease's progression in early stage patients. There's certainly money to be made: Biogen says the treatment, which will be sold under the name “Aduhelm,” will cost $56,000 a year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/07/fda-approves-first-alzheimers-drug-treat-underlying-cause?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>pharma</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/fda-approves-first-alzheimers-drug-treat-underlying-cause?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 08 Jun 2021 03:01:44 -0700</pubDate>
  </item>
 
