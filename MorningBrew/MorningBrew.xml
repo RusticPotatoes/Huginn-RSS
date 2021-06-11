@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/11</link>
- <lastBuildDate>Fri, 11 Jun 2021 08:13:36 -0700</lastBuildDate>
- <pubDate>Fri, 11 Jun 2021 08:13:36 -0700</pubDate>
+ <lastBuildDate>Fri, 11 Jun 2021 11:28:40 -0700</lastBuildDate>
+ <pubDate>Fri, 11 Jun 2021 11:28:40 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The G7 Summit Led to a Lot of Awkward Photos</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5408%2Fg7_leaders.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Karwai Tang/Pool/Anadolu Agency via Getty Images Karwai Tang/Pool/Anadolu Agency via Getty Images Toby Howell</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/11/g7-summit-led-lot-awkward-photos</link>
+  <author>Neal Freyman</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/g7-summit-led-lot-awkward-photos</guid>
+  <pubDate>Fri, 11 Jun 2021 11:26:35 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Crossword: Whodunit</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -361,15 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/apple-unveils-new-privacy-work-features-wwdc?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 08 Jun 2021 03:01:43 -0700</pubDate>
- </item>
- <item>
-  <title>CO2 In Air Hit Highest Level in Modern History</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5372%2Fbad_earth.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A brief commuting break can’t offset the CO2 that sticks around in the atmosphere for up to 1,000 years.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/07/co2-air-hit-highest-level-modern-history</link>
-  <author>Matty Merritt</author>
-  <categories>environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/co2-air-hit-highest-level-modern-history</guid>
-  <pubDate>Mon, 07 Jun 2021 15:36:40 -0700</pubDate>
  </item>
 
 </channel>
