@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/10/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/11/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/11/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/10</link>
- <lastBuildDate>Thu, 10 Jun 2021 14:58:41 -0700</lastBuildDate>
- <pubDate>Thu, 10 Jun 2021 14:58:41 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/11</link>
+ <lastBuildDate>Fri, 11 Jun 2021 03:03:41 -0700</lastBuildDate>
+ <pubDate>Fri, 11 Jun 2021 03:03:41 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Netflix's Next Big Plan to Win Streaming Wars: Merch</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5399%2Fnetflix_store.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Netflix has done collabs with retailers including Walmart, Sephora, and Target to sell clothes and other branded items from its most bingeable shows, but this is the company's first step into selling those products itself. The streaming service launched Netflix.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/10/netflixs-next-big-plan-win-streaming-wars-merch?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/netflixs-next-big-plan-win-streaming-wars-merch?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 11 Jun 2021 03:01:40 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 11</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker)  Read: The dark, democratizing power of the social media stock market. Three members of the advisory panel have now quit following the decision.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/10/key-performance-indicators-june-11?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/key-performance-indicators-june-11?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 11 Jun 2021 03:01:40 -0700</pubDate>
+ </item>
+ <item>
+  <title>Biden, G7 Leaders Meet to Discuss Covid, Climate, and More</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5397%2Fmount_recyclemore.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Biden follows up the G7 with a NATO summit next week and a meeting with Russian President Vladimir Putin, whom he’s expected to confront on issues including cybersecurity. G7 leaders are expected to announce they'll be giving 1 billion doses out in the coming year.  Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/10/biden-g7-leaders-meet-discuss-covid-climate?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/biden-g7-leaders-meet-discuss-covid-climate?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 11 Jun 2021 03:01:40 -0700</pubDate>
+ </item>
+ <item>
+  <title>Goldman Sachs Tells Employees to Report Their Vaccine Status</title>
+  <description>&lt;img src='https://media.giphy.com/media/5wFkqt6A8R4qAqGIFQ/giphy.gif'&gt;&lt;br/&gt;The Equal Employment Opportunity Commission has mentioned multiple times that it's totally legal for companies to 1) require vaccines and 2) ask about vaccination status.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/10/goldman-sachs-tells-employees-report-vaccine-status?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/goldman-sachs-tells-employees-report-vaccine-status?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 11 Jun 2021 03:01:40 -0700</pubDate>
+ </item>
+ <item>
+  <title>US Economy Heat Check: Ghost-Pepper Hot</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5398%2Finflation.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Wealth: US household wealth climbed to a record $136.9 trillion in Q1 thanks to rising values of stocks and homes. Driving the price increases were…Airfare, food, and beefHousehold furnishings, boosted by a record price increase for floor coveringsBut mostly used vehicles, which accounted for a third of May's total price hikes2. Consumer prices: They jumped 0.6% from April to May and 5% from last year, the fastest annual increase since 2008.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/10/us-economy-heat-check-ghostpepper-hot?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/us-economy-heat-check-ghostpepper-hot?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 11 Jun 2021 03:01:40 -0700</pubDate>
+ </item>
  <item>
   <title>US Economy Heat Check: Ghost-Pepper Hot</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5398%2Finflation.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Wealth: US household wealth climbed to a record $136.9 trillion in Q1 thanks to rising values of stocks and homes. Driving the price increases were…Airfare, food, and beefHousehold furnishings, boosted by a record price increase for floor coverings. Consumer prices: They jumped 0.6% from April to May and 5% from last year, the fastest annual increase since 2008. When you compare prices to 2019, they rose just 2.5% in May.Prices are rising the most in the sectors that got hit the worst by the pandemic (transportation, hospitality, apparel).</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/key-performance-indicators-june-8</guid>
   <pubDate>Mon, 07 Jun 2021 15:31:39 -0700</pubDate>
- </item>
- <item>
-  <title>Jeff Bezos to Travel to Space on Blue Origin's First Passenger-Carrying Mission</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F376%2Fjeff_bezos_smiling.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Jeff Bezos is launching himself into space. So if you've been looking to get some Bezos facetime to pitch your startup idea, you can bid on the final seat on the New Shephard through Saturday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/07/jeff-bezos-travel-space-blue-origins-first-passengercarrying-mission</link>
-  <author>Matty Merritt</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/jeff-bezos-travel-space-blue-origins-first-passengercarrying-mission</guid>
-  <pubDate>Mon, 07 Jun 2021 15:31:39 -0700</pubDate>
- </item>
- <item>
-  <title>FDA Approves First Alzheimer's Drug to Treat Underlying Cause</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5369%2Flab.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the FDA approved Biogen's aducanumab, the first drug to treat the underlying cause of Alzheimer's (sticky brain plaques) and potentially slow the disease's progression in early stage patients. There's certainly money to be made: Biogen says the treatment, which will be sold under the name “Aduhelm,” will cost $56,000 a year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/07/fda-approves-first-alzheimers-drug-treat-underlying-cause</link>
-  <author>Alex Hickey</author>
-  <categories>pharma</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/fda-approves-first-alzheimers-drug-treat-underlying-cause</guid>
-  <pubDate>Mon, 07 Jun 2021 15:26:35 -0700</pubDate>
- </item>
- <item>
-  <title>Apple Unveils New Privacy and Work Features at WWDC</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5368%2Fwwdc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  If Apple loses, the company may have to rewrite the rules of its money-printing App Store. Yesterday, Apple defended itself and said the App Store has paid over $230 billion to developers since opening in 2008. Apple kicked off its annual WWDC conference for developers with a keynote address showing off its new software features. Apple users will be able to block tracking by email senders, a change that could mean big disruptions for businesses that depend on email marketing. And trusted contacts to get you back into iCloud after you forget your new password. Fancier maps.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/07/apple-unveils-new-privacy-work-features-wwdc</link>
-  <author>Alex Hickey</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/apple-unveils-new-privacy-work-features-wwdc</guid>
-  <pubDate>Mon, 07 Jun 2021 15:21:45 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Mini: Summer Slushie</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/07/brew-mini-summer-slushie</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/07/brew-mini-summer-slushie</guid>
-  <pubDate>Mon, 07 Jun 2021 15:06:35 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: June 7</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5354%2Fapple_wwdc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Everything else: Going to genuinely write “Happy Friday” in every correspondence on Friday, because on that day…Soccer’s European Championship startsThe Pulitzer Prize winners are announcedIn the Heights comes to theaters</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/06/week-ahead-june-7?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/06/week-ahead-june-7?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 07 Jun 2021 03:01:37 -0700</pubDate>
  </item>
 
 </channel>
