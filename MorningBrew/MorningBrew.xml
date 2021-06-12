@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/11/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/11/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/12/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/11</link>
- <lastBuildDate>Fri, 11 Jun 2021 15:33:40 -0700</lastBuildDate>
- <pubDate>Fri, 11 Jun 2021 15:33:40 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/12</link>
+ <lastBuildDate>Sat, 12 Jun 2021 03:03:38 -0700</lastBuildDate>
+ <pubDate>Sat, 12 Jun 2021 03:03:38 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Money Matters: What If I Have Shares in a Non-Public Company?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4692%2Fbudget_scale.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; It’s way easier to sell your shares if and when your company goes public or is acquired by another company. There are eBay-like marketplaces for selling private company shares, but it’s not like posting a picture of your old iPod and offering free shipping.  If you want to sell your stake before the company goes public, you can ask the execs at your company to buy back your shares.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/11/money-matters-shares-nonpublic-company?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Ryan Lasker</author>
+  <categories>personal finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/money-matters-shares-nonpublic-company?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 12 Jun 2021 03:01:37 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 12</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4072%2Fbitcoin_as_dollars.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(LA Times) Read: A pleasant story about everyone’s favorite courtroom TV star, Judge Judy.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/11/key-performance-indicators-june-12?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/key-performance-indicators-june-12?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 12 Jun 2021 03:01:37 -0700</pubDate>
+ </item>
+ <item>
+  <title>The G7 Summit Led to a Lot of Awkward Photos</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5408%2Fg7_leaders.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Karwai Tang/Pool/Anadolu Agency via Getty Images Karwai Tang/Pool/Anadolu Agency via Getty Images Toby Howell  </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/11/g7-summit-led-lot-awkward-photos?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/g7-summit-led-lot-awkward-photos?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 12 Jun 2021 03:01:37 -0700</pubDate>
+ </item>
+ <item>
+  <title>Didi Chuxing Leads, What Could Be, a Record Breaking IPO Summer</title>
+  <description>&lt;img src='https://media.giphy.com/media/ocIqPZAlNdyko/giphy.gif'&gt;&lt;br/&gt;On Thursday, Didi Chuxing, China’s largest ride-hailing service, filed for a US IPO at a reported $70 billion valuation. Bankers are forecasting that US-listed IPOs could raise up to $40 billion from June through August this year, topping last year’s record of $32 billion, per the WSJ.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/11/didi-chuxing-leads-record-breaking-ipo-summer?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>ipo</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/didi-chuxing-leads-record-breaking-ipo-summer?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 12 Jun 2021 03:01:37 -0700</pubDate>
+ </item>
+ <item>
+  <title>House Lawmakers Drop Five Antitrust Bills on Big Tech</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1823%2Fbig_tech_under_the_antitrust_spotlight.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A bipartisan group of House lawmakers interrupted Summer Fridays across the US yesterday afternoon by dropping five antitrust bills designed to finally put some speed limits on the tech industry’s autobahn. Mergers: A fourth bill would make it more difficult for Big Tech companies to snatch up smaller competitors. Conflict of interest: Huge tech companies wouldn't be able to own or operate a business that would incentive it to favor its own products over those of a competitor.  Those new lawsHere’s a quick look at the major themes of the five bills lawmakers dropped yesterday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/11/house-lawmakers-drop-five-antitrust-bills-big-tech?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>antitrust</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/house-lawmakers-drop-five-antitrust-bills-big-tech?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 12 Jun 2021 03:01:37 -0700</pubDate>
+ </item>
  <item>
   <title>Gaming’s Preeminent Conference, E3, Is This Weekend</title>
   <description>&lt;img src='https://media.giphy.com/media/Tgt47OfKEzgDe2kcJk/giphy.gif'&gt;&lt;br/&gt;Big picture: Sony and EA are skipping the showcase. In general, E3 has been losing exhibitors and, some argue, relevance ever since its ’00s heyday when, for instance, Paul McCartney and Ringo Starr went on stage to promote The Beatles: Rock Band. ? A coincidence or... Nintendo could use its announcement reel to finally unveil a new-and-improved Nintendo Switch.</description>
@@ -325,51 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/spotify-amazon-sites-experience-outages?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 09 Jun 2021 03:01:43 -0700</pubDate>
- </item>
- <item>
-  <title>ProPublica Estimates that Richest 25 Individuals Pay 3.4% Tax Rate</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2248%2Fwarren_buffett.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;ProPublica estimates that America's richest 25 people paid a cumulative $13.6 billion in income taxes between 2014 and 2018, a span during which their collective wealth increased $400+ billion, for a "true tax rate" that was just 3.4%. For every $100 gained, Bezos paid just $1.09 while the typical US household paid $160. Okay, we knew that before...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/08/propublica-estimates-richest-25-individuals-pay-34-tax-rate?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>wealth</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/propublica-estimates-richest-25-individuals-pay-34-tax-rate?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 09 Jun 2021 03:01:43 -0700</pubDate>
- </item>
- <item>
-  <title>FBI, International Authorities Arrest Hundreds In Encrypted Messaging App Sting</title>
-  <description>&lt;img src='https://media.giphy.com/media/WoDqyh1EyxRR1LYsTi/giphy.gif'&gt;&lt;br/&gt;The FBI also helped spread Anom by distributing devices to 300+ gangs across 100 countries through middlemen.  As the FBI took down other encrypted communication services, more criminals started to DM using Anom's platform. For almost three years, criminals used a network of encrypted devices to share the dirty details of their smuggling and money laundering operations. The engineer was working on a new service, Anom, that stripped mobile phones of their normal functions and disguised a secure messaging app to look like a calculator.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/08/fbi-international-authorities-arrest-hundreds-encrypted-messaging-app-sting?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>crime</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/fbi-international-authorities-arrest-hundreds-encrypted-messaging-app-sting?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 09 Jun 2021 03:01:43 -0700</pubDate>
- </item>
- <item>
-  <title>Spotify, Amazon, and More Sites Experience Outages</title>
-  <description>&lt;img src='https://media.giphy.com/media/8ZeiHZ3qV5LvDsTQh3/giphy.gif'&gt;&lt;br/&gt;Bottom line: One hour offline may not sound like a lot, but it can translate to millions of dollars in advertising revenue and e-commerce losses for affected sites.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/08/spotify-amazon-sites-experience-outages</link>
-  <author>Jamie Wilde</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/spotify-amazon-sites-experience-outages</guid>
-  <pubDate>Tue, 08 Jun 2021 16:16:43 -0700</pubDate>
- </item>
- <item>
-  <title>Kanye West, Gap's Co-branded Jacket Sells Out In Hours</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5380%2Fgap_yeezy_jacket.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Just in time for Kanye West's 44th birthday and summer, Gap and Yeezy unveiled the first product of their partnership yesterday: the jacket you see above.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/08/kanye-west-gaps-cobranded-jacket-sells-hours</link>
-  <author>Jamie Wilde</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/kanye-west-gaps-cobranded-jacket-sells-hours</guid>
-  <pubDate>Tue, 08 Jun 2021 16:11:42 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 9</title>
-  <description>&lt;img src='https://media.giphy.com/media/l41Yj4B9Uc4eT3d4Y/giphy.gif'&gt;&lt;br/&gt;(Jackie Bryant) Read: If you give a lobster enough THC, will it notice that it is boiling to death?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/08/key-performance-indicators-june-9</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/key-performance-indicators-june-9</guid>
-  <pubDate>Tue, 08 Jun 2021 16:06:42 -0700</pubDate>
  </item>
 
 </channel>
