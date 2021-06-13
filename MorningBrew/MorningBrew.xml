@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/12/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/13/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/12</link>
- <lastBuildDate>Sat, 12 Jun 2021 06:48:43 -0700</lastBuildDate>
- <pubDate>Sat, 12 Jun 2021 06:48:43 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/13</link>
+ <lastBuildDate>Sun, 13 Jun 2021 16:28:37 -0700</lastBuildDate>
+ <pubDate>Sun, 13 Jun 2021 16:28:37 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: June 14</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3041%2Fjerome_powell.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Father's Day is on Sunday (the best present you can give him is to let him watch golf). Biden + Putin: The heads of the US and Russian governments will meet on Wednesday, the final day of Biden's first overseas trip.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/13/week-ahead-june-14</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/13/week-ahead-june-14</guid>
+  <pubDate>Sun, 13 Jun 2021 16:26:36 -0700</pubDate>
+ </item>
+ <item>
+  <title>MLB Expected to Address Sticky Stuff Controversy in Coming Days</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1193%2Fbaseball_stadium.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Pitchers themselves aren't exactly pushing back. Well, the advantage pitchers gain from the sticky stuff may be contributing to one of the most pitiful batting displays in baseball's long history. Boosting offenses and maintaining what’s left of MLB’s integrity is critical to the long-term success of the league.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/13/mlb-expected-address-sticky-stuff-controversy-coming-days</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/13/mlb-expected-address-sticky-stuff-controversy-coming-days</guid>
+  <pubDate>Sun, 13 Jun 2021 16:26:36 -0700</pubDate>
+ </item>
+ <item>
+  <title>Gaming's Preeminent Conference, E3, Is This Weekend</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5420%2Favatar.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Sony and EA are skipping the showcase. E3 has been losing exhibitors and, some argue, relevance ever since its ’00s heyday when, for instance, Paul McCartney and Ringo Starr went on stage to promote The Beatles: Rock Band. ? A coincidence or... Nintendo could use tomorrow's announcement reel to finally unveil a new-and-improved Nintendo Switch.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/13/gamings-preeminent-conference-e3-weekend</link>
+  <author>Jamie Wilde</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/13/gamings-preeminent-conference-e3-weekend</guid>
+  <pubDate>Sun, 13 Jun 2021 16:26:36 -0700</pubDate>
+ </item>
  <item>
   <title>Make It Work: Balancing Work and Life</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Each week, Morning Brew's Head of People Ops Kate Noel answers reader-submitted questions about work in 2021.  —Lily I find I am constantly overworked and lack a proper work life balance. How do I find my work-life balance at this company? You need to start setting expectations for yourself and for your coworkers that some parts of the day are off-limits for work matters. Comp questions can be really hard to navigate! The safest bet is to provide a salary range that would work for you.</description>
@@ -343,33 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/09/facebook-reportedly-planning-first-smartwatch</guid>
   <pubDate>Wed, 09 Jun 2021 14:31:38 -0700</pubDate>
- </item>
- <item>
-  <title>First Solar Plans to Double Manufacturing Capabilities By Building Third Ohio Factory</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2773%2Fsolar_tan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Right now, the US gets a majority of its parts for solar panels from China. Factories are having a harder time finding workers right now than we are in finding an in-unit washer/dryer.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/09/first-solar-plans-double-manufacturing-capabilities-building-third-ohio-factory</link>
-  <author>Matty Merritt</author>
-  <categories>manufacturing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/09/first-solar-plans-double-manufacturing-capabilities-building-third-ohio-factory</guid>
-  <pubDate>Wed, 09 Jun 2021 14:31:38 -0700</pubDate>
- </item>
- <item>
-  <title>Kanye West, Gap's Co-branded Jacket Sells Out In Hours</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5380%2Fgap_yeezy_jacket.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  + Cool marketing: To promote the release, the jacket's being projected old-school-cinema-style throughout NYC, LA, and Kanye's own Chi City.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/08/kanye-west-gaps-cobranded-jacket-sells-hours?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/kanye-west-gaps-cobranded-jacket-sells-hours?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 09 Jun 2021 03:01:43 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 9</title>
-  <description>&lt;img src='https://media.giphy.com/media/l41Yj4B9Uc4eT3d4Y/giphy.gif'&gt;&lt;br/&gt;(Jackie Bryant) Read: If you give a lobster enough THC, will it notice that it is boiling to death?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/08/key-performance-indicators-june-9?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/08/key-performance-indicators-june-9?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 09 Jun 2021 03:01:43 -0700</pubDate>
  </item>
 
 </channel>
