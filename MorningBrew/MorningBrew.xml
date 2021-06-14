@@ -8,9 +8,54 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/14</link>
- <lastBuildDate>Mon, 14 Jun 2021 10:58:43 -0700</lastBuildDate>
- <pubDate>Mon, 14 Jun 2021 10:58:43 -0700</pubDate>
+ <lastBuildDate>Mon, 14 Jun 2021 15:42:01 -0700</lastBuildDate>
+ <pubDate>Mon, 14 Jun 2021 15:42:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Vermont Becomes First State to Reach 80% Vaccination, Lifts Restrictions Early</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5443%2Fvermont.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Vermont is the first state to hit 80% and is considerably ahead of the national vaccination rate (61%). Some ideas: Matcha Green Immuni-teaHalf Vaxxed Chocolate Chip Cookie DosePfizer Food</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/14/vermont-becomes-first-state-reach-80-vaccination-lifts-restrictions-early</link>
+  <author>Alex Hickey</author>
+  <categories>public health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/vermont-becomes-first-state-reach-80-vaccination-lifts-restrictions-early</guid>
+  <pubDate>Mon, 14 Jun 2021 15:41:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>Lumber Prices Post Biggest Weekly Loss Ever</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Is higher-priced lumber the new normal? For context: Since the early '90s, lumber futures have mostly traded between $200 and $600. Strong demand will probably keep lumber prices above pre-pandemic levels for at least 1–2 years, according to BMO analyst Mark Wilde.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/14/lumber-prices-post-biggest-weekly-loss-ever</link>
+  <author>Alex Hickey</author>
+  <categories>commodities</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/lumber-prices-post-biggest-weekly-loss-ever</guid>
+  <pubDate>Mon, 14 Jun 2021 15:41:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>CEO and CFO of Electric Vehicle Maker Lordstown Motors Resign</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5444%2Flordstown_motors.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A Hindenburg investigation also led to the departure of executive chairman Trevor Milton at Nikola, another electric truck startup that went public via SPAC.  Last year, Steve Burns, founder and now the former CEO, helped drive the company public via SPAC, one of many electric automakers to go public by merging with a blank-check company. The Ford F-150 frunk might be as good as it’s going to get for electric trucks this year. Lordstown stock climbed more than 200% last summer.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/14/ceo-cfo-electric-vehicle-maker-lordstown-motors-resign</link>
+  <author>Matty Merritt</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/ceo-cfo-electric-vehicle-maker-lordstown-motors-resign</guid>
+  <pubDate>Mon, 14 Jun 2021 15:41:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>Officials Warn Texans to Conserve Electricity This Week</title>
+  <description>&lt;img src='https://media.giphy.com/media/l46CekClkSfNji5nq/giphy.gif'&gt;&lt;br/&gt;They simply don’t make deodorant for Dallas heat, but residents may get experimental this week after the Electric Reliability Council of Texas (ERCOT), the state’s power grid operator, asked Texans to conserve power until Friday night to keep the system from buckling.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/14/officials-warn-texans-conserve-electricity-week</link>
+  <author>Matty Merritt</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/officials-warn-texans-conserve-electricity-week</guid>
+  <pubDate>Mon, 14 Jun 2021 15:41:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 15</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2329%2Fgolden_gate_bridge.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If the Fed maintains its view that higher prices are transitory, Tudor Jones said he'd "bet heavily on every inflation trade," such as commodities, crypto, and gold.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/14/key-performance-indicators-june-15</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/key-performance-indicators-june-15</guid>
+  <pubDate>Mon, 14 Jun 2021 15:41:50 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Mini: Pack Your Knives</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -325,51 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/netflixs-next-big-plan-win-streaming-wars-merch</guid>
   <pubDate>Thu, 10 Jun 2021 14:51:44 -0700</pubDate>
- </item>
- <item>
-  <title>Goldman Sachs Tells Employees to Report Their Vaccine Status</title>
-  <description>&lt;img src='https://media.giphy.com/media/5wFkqt6A8R4qAqGIFQ/giphy.gif'&gt;&lt;br/&gt;The Equal Employment Opportunity Commission (EEOC) has mentioned multiple times that it's totally legal for companies to 1) require vaccines and 2) ask about vaccination status.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/10/goldman-sachs-tells-employees-report-vaccine-status</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/goldman-sachs-tells-employees-report-vaccine-status</guid>
-  <pubDate>Thu, 10 Jun 2021 14:51:44 -0700</pubDate>
- </item>
- <item>
-  <title>The Brew’s Weekly News Quiz: June 11</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/10/brews-weekly-news-quiz-june-11</link>
-  <author>Mary Tobler</author>
-  <categories>quiz</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/brews-weekly-news-quiz-june-11</guid>
-  <pubDate>Thu, 10 Jun 2021 13:26:35 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Mini: Encore</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/10/brew-mini-encore</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/brew-mini-encore</guid>
-  <pubDate>Thu, 10 Jun 2021 06:56:41 -0700</pubDate>
- </item>
- <item>
-  <title>Facebook Reportedly Planning Its First Smartwatch</title>
-  <description>&lt;img src='https://media.giphy.com/media/9u514UZd57mRhnBCEk/giphy.gif'&gt;&lt;br/&gt;Yep, Facebook is prepping an Apple Watch competitor, according to The Verge. Because the fried chicken sandwich market is a little too saturated, Facebook is planning to release the next best thing: a smartwatch. Looking ahead... Zuck is so bullish on high-tech glasses that he once predicted they’ll become as common as mobile phones.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/09/facebook-reportedly-planning-first-smartwatch?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/09/facebook-reportedly-planning-first-smartwatch?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 10 Jun 2021 03:01:41 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 10</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5389%2Ftopshot-us-animal-environ.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Flowingdata) chicken. Look: at everything we’ve eaten since the ’70s and see the dramatic rise of... The $370 million Margaritaville Resort Times Square is opening next month.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/09/key-performance-indicators-june-10?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/09/key-performance-indicators-june-10?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 10 Jun 2021 03:01:41 -0700</pubDate>
  </item>
 
 </channel>
