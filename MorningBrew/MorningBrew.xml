@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/13/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/14/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/13</link>
- <lastBuildDate>Sun, 13 Jun 2021 16:33:37 -0700</lastBuildDate>
- <pubDate>Sun, 13 Jun 2021 16:33:37 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/14</link>
+ <lastBuildDate>Mon, 14 Jun 2021 03:03:45 -0700</lastBuildDate>
+ <pubDate>Mon, 14 Jun 2021 03:03:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: June 14</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3041%2Fjerome_powell.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Father's Day is on Sunday (the best present you can give him is to let him watch golf). Biden + Putin: The heads of the US and Russian governments will meet on Wednesday, the final day of Biden's first overseas trip.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/13/week-ahead-june-14?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/13/week-ahead-june-14?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 14 Jun 2021 03:01:43 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 14</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3736%2Fblue_origin_launch.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Reveal)  Read: Where did the microchip vaccine conspiracy theory come from anyway?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/13/key-performance-indicators-june-14?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/13/key-performance-indicators-june-14?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 14 Jun 2021 03:01:43 -0700</pubDate>
+ </item>
+ <item>
+  <title>Gaming's Preeminent Conference, E3, Is This Weekend</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5420%2Favatar.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;E3 has been losing exhibitors and, some argue, relevance ever since its ’00s heyday when, for instance, Paul McCartney and Ringo Starr went on stage to promote The Beatles: Rock Band.  Big picture: Sony and EA are skipping the showcase. Nintendo could use tomorrow's announcement reel to finally unveil a new-and-improved Nintendo Switch.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/13/gamings-preeminent-conference-e3-weekend?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/13/gamings-preeminent-conference-e3-weekend?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 14 Jun 2021 03:01:43 -0700</pubDate>
+ </item>
+ <item>
+  <title>MLB Expected to Address Sticky Stuff Controversy in Coming Days</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1193%2Fbaseball_stadium.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Pitchers themselves aren't exactly pushing back. Well, the advantage pitchers gain from the sticky stuff may be contributing to one of the most pitiful batting displays in baseball's long history. Boosting offenses and maintaining what’s left of MLB’s integrity is critical to the long-term success of the league.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/13/mlb-expected-address-sticky-stuff-controversy-coming-days?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/13/mlb-expected-address-sticky-stuff-controversy-coming-days?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 14 Jun 2021 03:01:43 -0700</pubDate>
+ </item>
+ <item>
+  <title>G7 Leaders Promise 1B Doses of Coronavirus Vaccines</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5421%2Fbritain-g7-summit.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The IMF has raised its global growth forecast, but Georgieva noted that "economic fortunes are diverging dangerously" and more equitable vaccine distribution and support for lower-income countries is needed. Besides one hilarious mixup over uneven gifting, the headline announcement was a pledge to send 1 billion Covid vaccine doses to lower-income countries through Covax, the joint initiative of the WHO and the Gavi vaccine alliance.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/13/g7-leaders-promise-1b-doses-coronavirus-vaccines?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>public health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/13/g7-leaders-promise-1b-doses-coronavirus-vaccines?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 14 Jun 2021 03:01:43 -0700</pubDate>
+ </item>
  <item>
   <title>G7 Leaders Promise 1B Doses of Coronavirus Vaccines</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5421%2Fbritain-g7-summit.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The IMF has raised its global growth forecast, but Georgieva noted that "economic fortunes are diverging dangerously" and more equitable vaccine distribution and support for lower-income countries is needed. Besides one hilarious mixup over uneven gifting, the headline announcement was a pledge to send 1 billion Covid vaccine doses to lower-income countries through Covax, the joint initiative of the WHO and the Gavi vaccine alliance.</description>
@@ -325,51 +370,6 @@
   <categories>geopolitics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/09/biden-repeals-replaces-trumps-app-bans?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 10 Jun 2021 03:01:41 -0700</pubDate>
- </item>
- <item>
-  <title>Everything You Need to Know About Delta, the Covid Variant Racing Around the World</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F672%2Fcoronavirus.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A variant known as Delta is gaining Covid market share in many countries and raising concerns among public health officials. Where is Delta? Delta is also in the US, where it accounts for 6% of all cases. Bottom line: Vaccines appear to be highly effective against Delta.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/09/everything-need-know-delta-covid-variant-racing-around-world?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/09/everything-need-know-delta-covid-variant-racing-around-world?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 10 Jun 2021 03:01:41 -0700</pubDate>
- </item>
- <item>
-  <title>After More Than 12 Tortured Years, Keystone XL Pipeline Is Officially Canceled</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5392%2Fkeystone_xl_pipeline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;“We remain disappointed and frustrated with the circumstances surrounding the Keystone XL project, including the cancellation of the presidential permit for the pipeline’s border crossing,” Alberta Premier Jason Kenney said.   Supporters of the pipeline said it would create thousands of well-paying construction jobs and bolster US energy security. “It's a great day for Mother Earth," Larry Wright Jr., chairman of Nebraska’s Ponca Tribe, said.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/10/12-tortured-years-keystone-xl-pipeline-officially-canceled?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/12-tortured-years-keystone-xl-pipeline-officially-canceled?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 10 Jun 2021 03:01:41 -0700</pubDate>
- </item>
- <item>
-  <title>After More Than 12 Tortured Years, Keystone XL Pipeline Is Officially Canceled</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5392%2Fkeystone_xl_pipeline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;“We remain disappointed and frustrated with the circumstances surrounding the Keystone XL project, including the cancellation of the presidential permit for the pipeline’s border crossing,” Alberta Premier Jason Kenney said.   Supporters of the pipeline said it would create thousands of well-paying construction jobs and bolster US energy security. “It's a great day for Mother Earth," Larry Wright Jr., chairman of Nebraska’s Ponca Tribe, said. Environmentalists and others who opposed the project, meanwhile, are overjoyed that their years of public advocacy paid off. Canceled.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/10/12-tortured-years-keystone-xl-pipeline-officially-canceled</link>
-  <author>Neal Freyman</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/12-tortured-years-keystone-xl-pipeline-officially-canceled</guid>
-  <pubDate>Wed, 09 Jun 2021 19:56:40 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 10</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5389%2Ftopshot-us-animal-environ.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Flowingdata) chicken. Look: at everything we’ve eaten since the ’70s and see the dramatic rise of... The $370 million Margaritaville Resort Times Square is opening next month.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/09/key-performance-indicators-june-10</link>
-  <author>Matty Merritt</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/09/key-performance-indicators-june-10</guid>
-  <pubDate>Wed, 09 Jun 2021 14:31:38 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Repeals and Replaces Trump’s App Bans</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5390%2Ftiktok_and_wechat.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In just the last week…Biden banned US investors from funding 59 Chinese companies, including tech giant Huawei. He tried to force ByteDance, TikTok’s China-based parent company, to sell TikTok to a US company, leading to a Bachelor-esque competition among powerful American corporations to buy the app and access its vast Gen Z consumer base. Other plans Trump made for TikTok also never became reality. When TikTok seemed to be just hours from disappearing from app stores?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/09/biden-repeals-replaces-trumps-app-bans</link>
-  <author>Neal Freyman</author>
-  <categories>geopolitics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/09/biden-repeals-replaces-trumps-app-bans</guid>
-  <pubDate>Wed, 09 Jun 2021 14:31:38 -0700</pubDate>
  </item>
 
 </channel>
