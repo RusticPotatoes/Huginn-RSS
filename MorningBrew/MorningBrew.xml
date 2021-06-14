@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/14</link>
- <lastBuildDate>Mon, 14 Jun 2021 03:03:45 -0700</lastBuildDate>
- <pubDate>Mon, 14 Jun 2021 03:03:45 -0700</pubDate>
+ <lastBuildDate>Mon, 14 Jun 2021 10:58:43 -0700</lastBuildDate>
+ <pubDate>Mon, 14 Jun 2021 10:58:43 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Mini: Pack Your Knives</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/14/brew-mini-pack-knives</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/brew-mini-pack-knives</guid>
+  <pubDate>Mon, 14 Jun 2021 10:56:42 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: June 14</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3041%2Fjerome_powell.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Father's Day is on Sunday (the best present you can give him is to let him watch golf). Biden + Putin: The heads of the US and Russian governments will meet on Wednesday, the final day of Biden's first overseas trip.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/09/key-performance-indicators-june-10?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 10 Jun 2021 03:01:41 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Repeals and Replaces Trump’s App Bans</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5390%2Ftiktok_and_wechat.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In just the last week…Biden banned US investors from funding 59 Chinese companies, including tech giant Huawei. When TikTok seemed to be just hours from disappearing from app stores? The Senate passed a $250 billion bill that invests in American science and technology to challenge China’s growing economic ambitions.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/09/biden-repeals-replaces-trumps-app-bans?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>geopolitics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/09/biden-repeals-replaces-trumps-app-bans?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 10 Jun 2021 03:01:41 -0700</pubDate>
  </item>
 
