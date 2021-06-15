@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/14/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/15/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/14</link>
- <lastBuildDate>Mon, 14 Jun 2021 15:42:01 -0700</lastBuildDate>
- <pubDate>Mon, 14 Jun 2021 15:42:01 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/15</link>
+ <lastBuildDate>Tue, 15 Jun 2021 03:03:20 -0700</lastBuildDate>
+ <pubDate>Tue, 15 Jun 2021 03:03:20 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Vermont Becomes First State to Reach 80% Vaccination, Lifts Restrictions Early</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5443%2Fvermont.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Vermont is the first state to hit 80% and is considerably ahead of the national vaccination rate (61%). Some ideas: Matcha Green Immuni-teaHalf Vaxxed Chocolate Chip Cookie DosePfizer Food</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/14/vermont-becomes-first-state-reach-80-vaccination-lifts-restrictions-early?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>public health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/vermont-becomes-first-state-reach-80-vaccination-lifts-restrictions-early?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 15 Jun 2021 03:01:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 15</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2329%2Fgolden_gate_bridge.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If the Fed maintains its view that higher prices are transitory, Tudor Jones said he'd "bet heavily on every inflation trade," such as commodities, crypto, and gold.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/14/key-performance-indicators-june-15?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/key-performance-indicators-june-15?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 15 Jun 2021 03:01:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Officials Warn Texans to Conserve Electricity This Week</title>
+  <description>&lt;img src='https://media.giphy.com/media/l46CekClkSfNji5nq/giphy.gif'&gt;&lt;br/&gt;They simply don’t make deodorant for Dallas heat, but residents may get experimental this week after the Electric Reliability Council of Texas (ERCOT), the state’s power grid operator, asked Texans to conserve power until Friday night to keep the system from buckling.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/14/officials-warn-texans-conserve-electricity-week?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/officials-warn-texans-conserve-electricity-week?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 15 Jun 2021 03:01:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Lumber Prices Post Biggest Weekly Loss Ever</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Is higher-priced lumber the new normal? For context: Since the early '90s, lumber futures have mostly traded between $200 and $600. Strong demand will probably keep lumber prices above pre-pandemic levels for at least 1–2 years, according to BMO analyst Mark Wilde.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/14/lumber-prices-post-biggest-weekly-loss-ever?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>commodities</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/lumber-prices-post-biggest-weekly-loss-ever?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 15 Jun 2021 03:01:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>CEO and CFO of Electric Vehicle Maker Lordstown Motors Resign</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5444%2Flordstown_motors.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A Hindenburg investigation also led to the departure of executive chairman Trevor Milton at Nikola, another electric truck startup that went public via SPAC.  Last year, Steve Burns, founder and now the former CEO, helped drive the company public via SPAC, one of many electric automakers to go public by merging with a blank-check company. The Ford F-150 frunk might be as good as it’s going to get for electric trucks this year. Lordstown stock climbed more than 200% last summer.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/14/ceo-cfo-electric-vehicle-maker-lordstown-motors-resign?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/ceo-cfo-electric-vehicle-maker-lordstown-motors-resign?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 15 Jun 2021 03:01:18 -0700</pubDate>
+ </item>
  <item>
   <title>Vermont Becomes First State to Reach 80% Vaccination, Lifts Restrictions Early</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5443%2Fvermont.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Vermont is the first state to hit 80% and is considerably ahead of the national vaccination rate (61%). Some ideas: Matcha Green Immuni-teaHalf Vaxxed Chocolate Chip Cookie DosePfizer Food</description>
@@ -325,51 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/goldman-sachs-tells-employees-report-vaccine-status?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 11 Jun 2021 03:01:40 -0700</pubDate>
- </item>
- <item>
-  <title>US Economy Heat Check: Ghost-Pepper Hot</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5398%2Finflation.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Wealth: US household wealth climbed to a record $136.9 trillion in Q1 thanks to rising values of stocks and homes. Driving the price increases were…Airfare, food, and beefHousehold furnishings, boosted by a record price increase for floor coveringsBut mostly used vehicles, which accounted for a third of May's total price hikes2. Consumer prices: They jumped 0.6% from April to May and 5% from last year, the fastest annual increase since 2008.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/10/us-economy-heat-check-ghostpepper-hot?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/us-economy-heat-check-ghostpepper-hot?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 11 Jun 2021 03:01:40 -0700</pubDate>
- </item>
- <item>
-  <title>US Economy Heat Check: Ghost-Pepper Hot</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5398%2Finflation.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Wealth: US household wealth climbed to a record $136.9 trillion in Q1 thanks to rising values of stocks and homes. Driving the price increases were…Airfare, food, and beefHousehold furnishings, boosted by a record price increase for floor coverings. Consumer prices: They jumped 0.6% from April to May and 5% from last year, the fastest annual increase since 2008. When you compare prices to 2019, they rose just 2.5% in May.Prices are rising the most in the sectors that got hit the worst by the pandemic (transportation, hospitality, apparel).</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/10/us-economy-heat-check-ghostpepper-hot</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/us-economy-heat-check-ghostpepper-hot</guid>
-  <pubDate>Thu, 10 Jun 2021 14:56:40 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 11</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker)  Read: The dark, democratizing power of the social media stock market. Three members of the advisory panel have now quit following the decision.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/10/key-performance-indicators-june-11</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/key-performance-indicators-june-11</guid>
-  <pubDate>Thu, 10 Jun 2021 14:51:44 -0700</pubDate>
- </item>
- <item>
-  <title>Biden, G7 Leaders Meet to Discuss Covid, Climate, and More</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5397%2Fmount_recyclemore.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Biden follows up the G7 with a NATO summit next week and a meeting with Russian President Vladimir Putin, whom he’s expected to confront on issues including cybersecurity. G7 leaders are expected to announce they'll be giving 1 billion doses out in the coming year.  Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/10/biden-g7-leaders-meet-discuss-covid-climate</link>
-  <author>Alex Hickey</author>
-  <categories>geopolitics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/biden-g7-leaders-meet-discuss-covid-climate</guid>
-  <pubDate>Thu, 10 Jun 2021 14:51:44 -0700</pubDate>
- </item>
- <item>
-  <title>Netflix's Next Big Plan to Win Streaming Wars: Merch</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5399%2Fnetflix_store.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Netflix has done collabs with retailers including Walmart, Sephora, and Target to sell clothes and other branded items from its most bingeable shows, but this is the company's first step into selling those products itself. The streaming service launched Netflix.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/10/netflixs-next-big-plan-win-streaming-wars-merch</link>
-  <author>Matty Merritt</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/netflixs-next-big-plan-win-streaming-wars-merch</guid>
-  <pubDate>Thu, 10 Jun 2021 14:51:44 -0700</pubDate>
  </item>
 
 </channel>
