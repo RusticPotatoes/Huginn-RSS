@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/15</link>
- <lastBuildDate>Tue, 15 Jun 2021 03:03:20 -0700</lastBuildDate>
- <pubDate>Tue, 15 Jun 2021 03:03:20 -0700</pubDate>
+ <lastBuildDate>Tue, 15 Jun 2021 10:43:18 -0700</lastBuildDate>
+ <pubDate>Tue, 15 Jun 2021 10:43:18 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Word Search: Social Currency</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/15/word-search-social-currency</link>
+  <author>Neal Freyman</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/15/word-search-social-currency</guid>
+  <pubDate>Tue, 15 Jun 2021 10:41:17 -0700</pubDate>
+ </item>
  <item>
   <title>Vermont Becomes First State to Reach 80% Vaccination, Lifts Restrictions Early</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5443%2Fvermont.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Vermont is the first state to hit 80% and is considerably ahead of the national vaccination rate (61%). Some ideas: Matcha Green Immuni-teaHalf Vaxxed Chocolate Chip Cookie DosePfizer Food</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>geopolitics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/biden-g7-leaders-meet-discuss-covid-climate?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 11 Jun 2021 03:01:40 -0700</pubDate>
- </item>
- <item>
-  <title>Goldman Sachs Tells Employees to Report Their Vaccine Status</title>
-  <description>&lt;img src='https://media.giphy.com/media/5wFkqt6A8R4qAqGIFQ/giphy.gif'&gt;&lt;br/&gt;The Equal Employment Opportunity Commission has mentioned multiple times that it's totally legal for companies to 1) require vaccines and 2) ask about vaccination status.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/10/goldman-sachs-tells-employees-report-vaccine-status?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/10/goldman-sachs-tells-employees-report-vaccine-status?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 11 Jun 2021 03:01:40 -0700</pubDate>
  </item>
 
