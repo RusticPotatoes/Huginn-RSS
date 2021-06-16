@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/16</link>
- <lastBuildDate>Wed, 16 Jun 2021 14:48:19 -0700</lastBuildDate>
- <pubDate>Wed, 16 Jun 2021 14:48:19 -0700</pubDate>
+ <lastBuildDate>Wed, 16 Jun 2021 14:58:12 -0700</lastBuildDate>
+ <pubDate>Wed, 16 Jun 2021 14:58:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: June 17</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1105%2Fstreaming.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Atlantic) Read: What I learned at a Dodge City meatpacking plant.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/16/key-performance-indicators-june-17</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/16/key-performance-indicators-june-17</guid>
+  <pubDate>Wed, 16 Jun 2021 14:56:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Biden and Putin Discuss Cybersecurity at Geneva Summit</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5462%2Fus-russia_summit_2021_in.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Remember, both the hack of Colonial Pipeline, which led to a gas shortage on the Eastern Seaboard, and the forced shut down of meat supplier JBS’s facilities in the US have been attributed to cybercrime groups operating in Russia. What Biden wants: Russia to take responsibility for cybercriminals acting within its borders.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/16/biden-putin-discuss-cybersecurity-geneva-summit</link>
+  <author>Jamie Wilde</author>
+  <categories>cybersecurity</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/16/biden-putin-discuss-cybersecurity-geneva-summit</guid>
+  <pubDate>Wed, 16 Jun 2021 14:56:12 -0700</pubDate>
+ </item>
  <item>
   <title>Construction of New Homes Can’t Keep Up, Says New Report</title>
   <description>&lt;img src='https://media.giphy.com/media/wj6EkXpVnJxa5z1gTe/giphy.gif'&gt;&lt;br/&gt;Now, the US is experiencing a housing affordability crisis: The median price of an existing home hit an all-time high of $341,600 in April, up 19% from 2020.</description>
@@ -351,24 +369,6 @@
   <author>Ryan Lasker</author>
   <categories>personal finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/money-matters-shares-nonpublic-company?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 12 Jun 2021 03:01:37 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 12</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4072%2Fbitcoin_as_dollars.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(LA Times) Read: A pleasant story about everyone’s favorite courtroom TV star, Judge Judy.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/11/key-performance-indicators-june-12?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/key-performance-indicators-june-12?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 12 Jun 2021 03:01:37 -0700</pubDate>
- </item>
- <item>
-  <title>The G7 Summit Led to a Lot of Awkward Photos</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5408%2Fg7_leaders.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Karwai Tang/Pool/Anadolu Agency via Getty Images Karwai Tang/Pool/Anadolu Agency via Getty Images Toby Howell  </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/11/g7-summit-led-lot-awkward-photos?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>geopolitics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/g7-summit-led-lot-awkward-photos?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 12 Jun 2021 03:01:37 -0700</pubDate>
  </item>
 
