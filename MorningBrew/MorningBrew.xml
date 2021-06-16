@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/16</link>
- <lastBuildDate>Wed, 16 Jun 2021 03:03:19 -0700</lastBuildDate>
- <pubDate>Wed, 16 Jun 2021 03:03:19 -0700</pubDate>
+ <lastBuildDate>Wed, 16 Jun 2021 08:38:13 -0700</lastBuildDate>
+ <pubDate>Wed, 16 Jun 2021 08:38:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Mini: Bubble</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/16/brew-mini-bubble</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/16/brew-mini-bubble</guid>
+  <pubDate>Wed, 16 Jun 2021 08:36:11 -0700</pubDate>
+ </item>
  <item>
   <title>Spotify Buys Exclusive Rights to ‘Call Her Daddy’ Podcast</title>
   <description>&lt;img src='https://media.giphy.com/media/YpSX1sVxtbEpJGz9Q3/giphy.gif'&gt;&lt;br/&gt;The not-just-music streamer has purchased the exclusive rights to the Call Her Daddy podcast from Barstool Sports.  What it means for Barstool: CEO Erika Nardini said on her podcast yesterday that host Alex Cooper will "still be partnering with Barstool Sports," but not on podcasts.</description>
@@ -361,15 +370,6 @@
   <categories>gaming</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/gamings-preeminent-conference-e3-weekend</guid>
   <pubDate>Fri, 11 Jun 2021 15:31:39 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 12</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4072%2Fbitcoin_as_dollars.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(LA Times) Read: A pleasant story about everyone’s favorite courtroom TV star, Judge Judy.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/11/key-performance-indicators-june-12</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/key-performance-indicators-june-12</guid>
-  <pubDate>Fri, 11 Jun 2021 15:16:43 -0700</pubDate>
  </item>
 
 </channel>
