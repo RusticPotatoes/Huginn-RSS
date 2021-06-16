@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/16</link>
- <lastBuildDate>Wed, 16 Jun 2021 14:28:13 -0700</lastBuildDate>
- <pubDate>Wed, 16 Jun 2021 14:28:13 -0700</pubDate>
+ <lastBuildDate>Wed, 16 Jun 2021 14:43:18 -0700</lastBuildDate>
+ <pubDate>Wed, 16 Jun 2021 14:43:18 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Google Opens its First Physical Retail Space in Chelsea</title>
+  <description>&lt;img src='https://media.giphy.com/media/I4ebgwlUUQf50ZGoRG/giphy.gif'&gt;&lt;br/&gt;Big picture: Google is not going all-in on physical retail like Apple, but it’s at least trying to put in a better effort than Microsoft. A room full of flatscreen TVs for customers to try Google’s Stadia gaming service. The company that graced us with Excel closed all of its Microsoft Store locations except four last year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/16/google-opens-first-physical-retail-space-chelsea</link>
+  <author>Matty Merritt</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/16/google-opens-first-physical-retail-space-chelsea</guid>
+  <pubDate>Wed, 16 Jun 2021 14:41:18 -0700</pubDate>
+ </item>
  <item>
   <title>Fed Boosts Inflation Projections, Signals Rate Hike in 2023</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2230%2Fjerome_powell.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Just like your friend’s Covid-delayed wedding, the Fed’s interest rate hikes finally have a date: 2023.  The Fed has been pressured to pump the brakes on the economy after a run-up in prices this spring led to the highest inflation readings in years.  By then, central bankers project, the economy will be in a strong enough position for the Fed to raise interest rates that influence everything from mortgages to business investments.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>ipo</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/didi-chuxing-leads-record-breaking-ipo-summer?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 12 Jun 2021 03:01:37 -0700</pubDate>
- </item>
- <item>
-  <title>House Lawmakers Drop Five Antitrust Bills on Big Tech</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1823%2Fbig_tech_under_the_antitrust_spotlight.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A bipartisan group of House lawmakers interrupted Summer Fridays across the US yesterday afternoon by dropping five antitrust bills designed to finally put some speed limits on the tech industry’s autobahn. Mergers: A fourth bill would make it more difficult for Big Tech companies to snatch up smaller competitors. Conflict of interest: Huge tech companies wouldn't be able to own or operate a business that would incentive it to favor its own products over those of a competitor.  Those new lawsHere’s a quick look at the major themes of the five bills lawmakers dropped yesterday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/11/house-lawmakers-drop-five-antitrust-bills-big-tech?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>antitrust</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/house-lawmakers-drop-five-antitrust-bills-big-tech?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 12 Jun 2021 03:01:37 -0700</pubDate>
  </item>
 
