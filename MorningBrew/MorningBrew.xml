@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/15/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/16/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/15</link>
- <lastBuildDate>Tue, 15 Jun 2021 14:43:19 -0700</lastBuildDate>
- <pubDate>Tue, 15 Jun 2021 14:43:19 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/16</link>
+ <lastBuildDate>Wed, 16 Jun 2021 03:03:19 -0700</lastBuildDate>
+ <pubDate>Wed, 16 Jun 2021 03:03:19 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Spotify Buys Exclusive Rights to ‘Call Her Daddy’ Podcast</title>
+  <description>&lt;img src='https://media.giphy.com/media/YpSX1sVxtbEpJGz9Q3/giphy.gif'&gt;&lt;br/&gt;The not-just-music streamer has purchased the exclusive rights to the Call Her Daddy podcast from Barstool Sports.  What it means for Barstool: CEO Erika Nardini said on her podcast yesterday that host Alex Cooper will "still be partnering with Barstool Sports," but not on podcasts.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/15/spotify-buys-exclusive-rights-call-daddy-podcast?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/15/spotify-buys-exclusive-rights-call-daddy-podcast?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 16 Jun 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 16</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1810%2Fr_r.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Ross Douthat) Read: Decadence and Andreessen's dilemma. “If you can go into a restaurant in New York City, you can come into the office,” he said at a conference yesterday, echoing other top bank chiefs who are over remote work.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/15/key-performance-indicators-june-16?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/15/key-performance-indicators-june-16?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 16 Jun 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Retail Sales Fall 1.3% as Consumers Turn from Goods to Services</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5115%2Ffull_restaurant.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Along with alleviating pressure on supply chains, more services spending means people are finally enjoying experiences they couldn't during the pandemic, like vacations and live music.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/15/retail-sales-fall-13-consumers-turn-goods-services?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/15/retail-sales-fall-13-consumers-turn-goods-services?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 16 Jun 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>PwC Plans to Grow Its Workforce By 100,000</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5448%2Fbig_four_accounting_firms.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Bottom line: PwC is betting that helping clients with their diversity and sustainability initiatives will be key to its competitiveness. FYI, PwC's revenue growth is slowing, and it ranks third among the Big Four in market share.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/15/pwc-plans-grow-workforce-100000?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/15/pwc-plans-grow-workforce-100000?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 16 Jun 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>MacKenzie Scott Donates Another $2.7B, Bringing total to almost $9B</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5449%2Fdo_not_use.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In her 2019 divorce settlement with Amazon founder Jeff Bezos, Scott received a 4% slice of Amazon, which was worth $36 billion at the time. Scott acknowledged wealth disparities in a Medium post announcing her donations yesterday, writing, "It would be better if disproportionate wealth were not concentrated in a small number of hands, and that the solutions are best designed and implemented by others." Yesterday, MacKenzie Scott announced she donated $2.7 billion to 286 organizations working to address issues including poverty, racial equity, and higher education.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/15/mackenzie-scott-donates-another-27b-bringing-total-almost-9b?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>wealth</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/15/mackenzie-scott-donates-another-27b-bringing-total-almost-9b?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 16 Jun 2021 03:01:17 -0700</pubDate>
+ </item>
  <item>
   <title>Retail Sales Fall 1.3% as Consumers Turn from Goods to Services</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5115%2Ffull_restaurant.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Along with alleviating pressure on supply chains, more services spending means people are finally enjoying experiences they couldn't during the pandemic, like vacations and live music.</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/key-performance-indicators-june-12</guid>
   <pubDate>Fri, 11 Jun 2021 15:16:43 -0700</pubDate>
- </item>
- <item>
-  <title>Didi Chuxing Leads, What Could Be, a Record Breaking IPO Summer</title>
-  <description>&lt;img src='https://media.giphy.com/media/ocIqPZAlNdyko/giphy.gif'&gt;&lt;br/&gt;On Thursday, Didi Chuxing, China’s largest ride-hailing service, filed for a US IPO at a reported $70 billion valuation. Bankers are forecasting that US-listed IPOs could raise up to $40 billion from June through August this year, topping last year’s record of $32 billion, per the WSJ.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/11/didi-chuxing-leads-record-breaking-ipo-summer</link>
-  <author>Matty Merritt</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/didi-chuxing-leads-record-breaking-ipo-summer</guid>
-  <pubDate>Fri, 11 Jun 2021 15:11:37 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: What If I Have Shares in a Non-Public Company?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4692%2Fbudget_scale.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; It’s way easier to sell your shares if and when your company goes public or is acquired by another company. There are eBay-like marketplaces for selling private company shares, but it’s not like posting a picture of your old iPod and offering free shipping.  If you want to sell your stake before the company goes public, you can ask the execs at your company to buy back your shares.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/11/money-matters-shares-nonpublic-company</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/money-matters-shares-nonpublic-company</guid>
-  <pubDate>Fri, 11 Jun 2021 15:11:37 -0700</pubDate>
- </item>
- <item>
-  <title>House Lawmakers Drop Five Antitrust Bills on Big Tech</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1823%2Fbig_tech_under_the_antitrust_spotlight.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A bipartisan group of House lawmakers interrupted Summer Fridays across the US yesterday afternoon by dropping five antitrust bills designed to finally put some speed limits on the tech industry’s autobahn. Mergers: A fourth bill would make it more difficult for Big Tech companies to snatch up smaller competitors. Conflict of interest: Huge tech companies wouldn't be able to own or operate a business that would incentive it to favor its own products over those of a competitor.  Those new lawsHere’s a quick look at the major themes of the five bills lawmakers dropped yesterday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/11/house-lawmakers-drop-five-antitrust-bills-big-tech</link>
-  <author>Neal Freyman</author>
-  <categories>antitrust</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/house-lawmakers-drop-five-antitrust-bills-big-tech</guid>
-  <pubDate>Fri, 11 Jun 2021 15:01:44 -0700</pubDate>
- </item>
- <item>
-  <title>The Boring Company Says "Open Sesame"</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5415%2Fboring_company.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And the now-operational Las Vegas Loop is proof that, at least to an extent, he is capable of turning stuck-in-traffic musings into reality, even if it is "basically just Teslas in tunnels at this point," as Musk himself admitted. The Boring Company's Loop in Las Vegas can transport up to 4,400 passengers per hour. Skeptics question why Musk is digging tunnels to shuttle people around... And it can ferry a lot more people than the Boring Company's system currently can.  In all, it was a rather, uh, boring debut for The Boring Company, a venture Musk created after he became fed up with LA gridlock."</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/11/boring-company-says-open-sesame</link>
-  <author>Neal Freyman</author>
-  <categories>analysis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/boring-company-says-open-sesame</guid>
-  <pubDate>Fri, 11 Jun 2021 14:36:37 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers with… Insecure's Yvonne Orji</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5411%2Fyvonne_orji.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Before I went in to pitch my show for Oprah, back in 2015, my roommate was like, "Do you have a hype song?" It's unclear what people talked about in group chats before Insecure graced us with its hilarious plotlines, juicy drama, and, of course, Emmy-nominated Yvonne Orji. I would love to be in my car, feeling down, and then look up and see a billboard that says "Why not me?" If you could write anything on a billboard, what would it be?" I was like, if this older white man and this older white woman can sell gazillions of books [by] pretty much talking about faith, why not me? Why not me?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/11/icebreakers-insecures-yvonne-orji</link>
-  <author>Matty Merritt</author>
-  <categories>qanda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/icebreakers-insecures-yvonne-orji</guid>
-  <pubDate>Fri, 11 Jun 2021 14:03:00 -0700</pubDate>
  </item>
 
 </channel>
