@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/16</link>
- <lastBuildDate>Wed, 16 Jun 2021 14:43:18 -0700</lastBuildDate>
- <pubDate>Wed, 16 Jun 2021 14:43:18 -0700</pubDate>
+ <lastBuildDate>Wed, 16 Jun 2021 14:48:19 -0700</lastBuildDate>
+ <pubDate>Wed, 16 Jun 2021 14:48:19 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Construction of New Homes Can’t Keep Up, Says New Report</title>
+  <description>&lt;img src='https://media.giphy.com/media/wj6EkXpVnJxa5z1gTe/giphy.gif'&gt;&lt;br/&gt;Now, the US is experiencing a housing affordability crisis: The median price of an existing home hit an all-time high of $341,600 in April, up 19% from 2020.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/16/construction-new-homes-cant-keep-says-new-report</link>
+  <author>Matty Merritt</author>
+  <categories>housing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/16/construction-new-homes-cant-keep-says-new-report</guid>
+  <pubDate>Wed, 16 Jun 2021 14:46:18 -0700</pubDate>
+ </item>
  <item>
   <title>Google Opens its First Physical Retail Space in Chelsea</title>
   <description>&lt;img src='https://media.giphy.com/media/I4ebgwlUUQf50ZGoRG/giphy.gif'&gt;&lt;br/&gt;Big picture: Google is not going all-in on physical retail like Apple, but it’s at least trying to put in a better effort than Microsoft. A room full of flatscreen TVs for customers to try Google’s Stadia gaming service. The company that graced us with Excel closed all of its Microsoft Store locations except four last year.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>geopolitics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/g7-summit-led-lot-awkward-photos?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 12 Jun 2021 03:01:37 -0700</pubDate>
- </item>
- <item>
-  <title>Didi Chuxing Leads, What Could Be, a Record Breaking IPO Summer</title>
-  <description>&lt;img src='https://media.giphy.com/media/ocIqPZAlNdyko/giphy.gif'&gt;&lt;br/&gt;On Thursday, Didi Chuxing, China’s largest ride-hailing service, filed for a US IPO at a reported $70 billion valuation. Bankers are forecasting that US-listed IPOs could raise up to $40 billion from June through August this year, topping last year’s record of $32 billion, per the WSJ.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/11/didi-chuxing-leads-record-breaking-ipo-summer?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/didi-chuxing-leads-record-breaking-ipo-summer?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 12 Jun 2021 03:01:37 -0700</pubDate>
  </item>
 
