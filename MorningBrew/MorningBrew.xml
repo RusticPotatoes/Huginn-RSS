@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/16</link>
- <lastBuildDate>Wed, 16 Jun 2021 08:38:13 -0700</lastBuildDate>
- <pubDate>Wed, 16 Jun 2021 08:38:13 -0700</pubDate>
+ <lastBuildDate>Wed, 16 Jun 2021 14:28:13 -0700</lastBuildDate>
+ <pubDate>Wed, 16 Jun 2021 14:28:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Fed Boosts Inflation Projections, Signals Rate Hike in 2023</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2230%2Fjerome_powell.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Just like your friend’s Covid-delayed wedding, the Fed’s interest rate hikes finally have a date: 2023.  The Fed has been pressured to pump the brakes on the economy after a run-up in prices this spring led to the highest inflation readings in years.  By then, central bankers project, the economy will be in a strong enough position for the Fed to raise interest rates that influence everything from mortgages to business investments.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/16/fed-boosts-inflation-projections-signals-rate-hike-2023</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/16/fed-boosts-inflation-projections-signals-rate-hike-2023</guid>
+  <pubDate>Wed, 16 Jun 2021 14:26:12 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Mini: Bubble</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -361,15 +370,6 @@
   <categories>antitrust</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/house-lawmakers-drop-five-antitrust-bills-big-tech?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 12 Jun 2021 03:01:37 -0700</pubDate>
- </item>
- <item>
-  <title>Gaming’s Preeminent Conference, E3, Is This Weekend</title>
-  <description>&lt;img src='https://media.giphy.com/media/Tgt47OfKEzgDe2kcJk/giphy.gif'&gt;&lt;br/&gt;Big picture: Sony and EA are skipping the showcase. In general, E3 has been losing exhibitors and, some argue, relevance ever since its ’00s heyday when, for instance, Paul McCartney and Ringo Starr went on stage to promote The Beatles: Rock Band. ? A coincidence or... Nintendo could use its announcement reel to finally unveil a new-and-improved Nintendo Switch.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/11/gamings-preeminent-conference-e3-weekend</link>
-  <author>Jamie Wilde</author>
-  <categories>gaming</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/gamings-preeminent-conference-e3-weekend</guid>
-  <pubDate>Fri, 11 Jun 2021 15:31:39 -0700</pubDate>
  </item>
 
 </channel>
