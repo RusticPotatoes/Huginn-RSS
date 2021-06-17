@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/16/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/17/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/17/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/16</link>
- <lastBuildDate>Wed, 16 Jun 2021 14:58:12 -0700</lastBuildDate>
- <pubDate>Wed, 16 Jun 2021 14:58:12 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/17</link>
+ <lastBuildDate>Thu, 17 Jun 2021 14:58:12 -0700</lastBuildDate>
+ <pubDate>Thu, 17 Jun 2021 14:58:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Defrauded ITT Students Will Get Their Money Back, Says Department of Education</title>
+  <description>&lt;img src='https://media.giphy.com/media/PvV6Dlxmw7RHh2ED87/giphy.gif'&gt;&lt;br/&gt;Zoom out: This is the second round of loan discharges for students who were defrauded by for-profit schools since Biden moved into the White House.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/17/defrauded-itt-students-will-get-money-back-says-department-education</link>
+  <author>Matty Merritt</author>
+  <categories>education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/defrauded-itt-students-will-get-money-back-says-department-education</guid>
+  <pubDate>Thu, 17 Jun 2021 14:56:12 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 17</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1105%2Fstreaming.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Atlantic) Read: What I learned at a Dodge City meatpacking plant.</description>
@@ -361,15 +370,6 @@
   <categories>work life</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/make-work-balancing-work-life</guid>
   <pubDate>Sat, 12 Jun 2021 06:46:40 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: What If I Have Shares in a Non-Public Company?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4692%2Fbudget_scale.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; It’s way easier to sell your shares if and when your company goes public or is acquired by another company. There are eBay-like marketplaces for selling private company shares, but it’s not like posting a picture of your old iPod and offering free shipping.  If you want to sell your stake before the company goes public, you can ask the execs at your company to buy back your shares.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/11/money-matters-shares-nonpublic-company?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/11/money-matters-shares-nonpublic-company?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 12 Jun 2021 03:01:37 -0700</pubDate>
  </item>
 
 </channel>
