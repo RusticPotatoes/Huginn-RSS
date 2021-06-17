@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/17</link>
- <lastBuildDate>Thu, 17 Jun 2021 15:08:17 -0700</lastBuildDate>
- <pubDate>Thu, 17 Jun 2021 15:08:17 -0700</pubDate>
+ <lastBuildDate>Thu, 17 Jun 2021 15:18:20 -0700</lastBuildDate>
+ <pubDate>Thu, 17 Jun 2021 15:18:20 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Biden Signs Bill to Make Juneteenth an Official Holiday</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5481%2Fpresident_biden_signs_jun.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Texas was the first state to establish Juneteenth as an official holiday in 1980, and throughout the years, some groups have pushed to recognize the holiday on a national scale. Looking ahead...  The NYSE said it won’t close markets today for this year’s Juneteenth, but might next year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/17/biden-signs-bill-make-juneteenth-official-holiday</link>
+  <author>Matty Merritt</author>
+  <categories>dandi</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/biden-signs-bill-make-juneteenth-official-holiday</guid>
+  <pubDate>Thu, 17 Jun 2021 15:16:19 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 18</title>
   <description>&lt;img src='https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif'&gt;&lt;br/&gt;(New York Times)  Read: Inside Victoria Secret's most extreme pivot in recent memory. The ruse, which involved Wiesenthal imitating McLaren during TV interviews, lasted for years.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/13/key-performance-indicators-june-14</guid>
   <pubDate>Sun, 13 Jun 2021 16:31:36 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: June 14</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3041%2Fjerome_powell.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Father's Day is on Sunday (the best present you can give him is to let him watch golf). Biden + Putin: The heads of the US and Russian governments will meet on Wednesday, the final day of Biden's first overseas trip.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/13/week-ahead-june-14</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/13/week-ahead-june-14</guid>
-  <pubDate>Sun, 13 Jun 2021 16:26:36 -0700</pubDate>
  </item>
 
 </channel>
