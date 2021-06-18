@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/18</link>
- <lastBuildDate>Fri, 18 Jun 2021 03:03:17 -0700</lastBuildDate>
- <pubDate>Fri, 18 Jun 2021 03:03:17 -0700</pubDate>
+ <lastBuildDate>Fri, 18 Jun 2021 09:58:14 -0700</lastBuildDate>
+ <pubDate>Fri, 18 Jun 2021 09:58:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Crossword: Triple Lindy</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/18/brew-crossword-triple-lindy</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/18/brew-crossword-triple-lindy</guid>
+  <pubDate>Fri, 18 Jun 2021 09:56:13 -0700</pubDate>
+ </item>
  <item>
   <title>Zuckerberg Has High Hopes for the Future of VR</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2439%2Ffacebook_virtual_reality.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Bottom line: After Facebook acquired another VR gaming company, BigBox VR, last week, tech reporter Alex Heath predicted, "Facebook is going to probably have a near monopoly in VR software before it even matters." He predicted VR would expand beyond gaming into areas like business meetings and fitness."</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/13/week-ahead-june-14?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 14 Jun 2021 03:01:43 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 14</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3736%2Fblue_origin_launch.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Reveal)  Read: Where did the microchip vaccine conspiracy theory come from anyway?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/13/key-performance-indicators-june-14?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/13/key-performance-indicators-june-14?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 14 Jun 2021 03:01:43 -0700</pubDate>
  </item>
 
