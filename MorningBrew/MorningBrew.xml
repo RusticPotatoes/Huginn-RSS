@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/18</link>
- <lastBuildDate>Fri, 18 Jun 2021 14:23:17 -0700</lastBuildDate>
- <pubDate>Fri, 18 Jun 2021 14:23:17 -0700</pubDate>
+ <lastBuildDate>Fri, 18 Jun 2021 14:33:11 -0700</lastBuildDate>
+ <pubDate>Fri, 18 Jun 2021 14:33:11 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: June 19</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5494%2Fhungary_v_portugal_-_uefa.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Ezra Klein Show) Listen: Economist Betsey Stevenson discusses the “take this job and shove it” economy.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/18/key-performance-indicators-june-19</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/18/key-performance-indicators-june-19</guid>
+  <pubDate>Fri, 18 Jun 2021 14:31:20 -0700</pubDate>
+ </item>
+ <item>
+  <title>Money Matters: Retirement Saving Comes in Two Flavors</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4692%2Fbudget_scale.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;To answer your question, those sweet, sweet tax benefits of 401(k) and IRA retirement plans come in two flavors: traditional and Roth. If you’re unsure of your retirement plans (fair) use this rule of thumb: Prioritize Roth if you’re early in your career, and traditional options if you’re mid- to late-career. The company is offering a 401(k) plan, but I also have a separate Roth IRA. Which one should I prioritize maxing out first?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/18/money-matters-retirement-saving-comes-two-flavors</link>
+  <author>Ryan Lasker</author>
+  <categories>personal finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/18/money-matters-retirement-saving-comes-two-flavors</guid>
+  <pubDate>Fri, 18 Jun 2021 14:31:20 -0700</pubDate>
+ </item>
  <item>
   <title>Delays From Yantian Port Shutdown Worse than Suez Canal Fiasco</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F961%2Fshipping_crate.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: The worst of the shipping bottleneck is at Yantian, the largest port in China and the one that exports &gt;90% of the entire world’s electronics.</description>
@@ -352,24 +370,6 @@
   <categories>commodities</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/lumber-prices-post-biggest-weekly-loss-ever?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 15 Jun 2021 03:01:19 -0700</pubDate>
- </item>
- <item>
-  <title>CEO and CFO of Electric Vehicle Maker Lordstown Motors Resign</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5444%2Flordstown_motors.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A Hindenburg investigation also led to the departure of executive chairman Trevor Milton at Nikola, another electric truck startup that went public via SPAC.  Last year, Steve Burns, founder and now the former CEO, helped drive the company public via SPAC, one of many electric automakers to go public by merging with a blank-check company. The Ford F-150 frunk might be as good as it’s going to get for electric trucks this year. Lordstown stock climbed more than 200% last summer.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/14/ceo-cfo-electric-vehicle-maker-lordstown-motors-resign?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/ceo-cfo-electric-vehicle-maker-lordstown-motors-resign?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 15 Jun 2021 03:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>Vermont Becomes First State to Reach 80% Vaccination, Lifts Restrictions Early</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5443%2Fvermont.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Vermont is the first state to hit 80% and is considerably ahead of the national vaccination rate (61%). Some ideas: Matcha Green Immuni-teaHalf Vaxxed Chocolate Chip Cookie DosePfizer Food</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/14/vermont-becomes-first-state-reach-80-vaccination-lifts-restrictions-early</link>
-  <author>Alex Hickey</author>
-  <categories>public health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/vermont-becomes-first-state-reach-80-vaccination-lifts-restrictions-early</guid>
-  <pubDate>Mon, 14 Jun 2021 15:41:50 -0700</pubDate>
  </item>
 
 </channel>
