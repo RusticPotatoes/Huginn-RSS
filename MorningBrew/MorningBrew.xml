@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/18</link>
- <lastBuildDate>Fri, 18 Jun 2021 14:13:12 -0700</lastBuildDate>
- <pubDate>Fri, 18 Jun 2021 14:13:12 -0700</pubDate>
+ <lastBuildDate>Fri, 18 Jun 2021 14:18:17 -0700</lastBuildDate>
+ <pubDate>Fri, 18 Jun 2021 14:18:17 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Canada Extends Border Restrictions With the US</title>
+  <description>&lt;img src='https://media.giphy.com/media/31WY9AkAiJSUaDYri8/giphy.gif'&gt;&lt;br/&gt;Yesterday, Canada extended restrictions on nonessential travel across the US border until July 22. Big picture: Canadian and American businesses that rely on cross-border traffic are getting FOMO as other countries open up to international travelers. to keep the virus at bay, Canadian Prime Minister Justin Trudeau has said the border would stay mostly closed until 75% of the population has received the first dose and 20% have been fully vaccinated.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/18/canada-extends-border-restrictions-us</link>
+  <author>Neal Freyman</author>
+  <categories>international</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/18/canada-extends-border-restrictions-us</guid>
+  <pubDate>Fri, 18 Jun 2021 14:16:16 -0700</pubDate>
+ </item>
  <item>
   <title>The Western US Is Suffering From a Severe Drought</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5492%2Flake_mead_at_historic_low.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The also-bad-and-ugly: power. With a record-breaking heat wave sizzling its way across the West this week, officials will almost certainly declare the first-ever water shortage for the Colorado River, which feeds Lake Mead.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>commodities</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/lumber-prices-post-biggest-weekly-loss-ever</guid>
-  <pubDate>Mon, 14 Jun 2021 15:41:50 -0700</pubDate>
- </item>
- <item>
-  <title>CEO and CFO of Electric Vehicle Maker Lordstown Motors Resign</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5444%2Flordstown_motors.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A Hindenburg investigation also led to the departure of executive chairman Trevor Milton at Nikola, another electric truck startup that went public via SPAC.  Last year, Steve Burns, founder and now the former CEO, helped drive the company public via SPAC, one of many electric automakers to go public by merging with a blank-check company. The Ford F-150 frunk might be as good as it’s going to get for electric trucks this year. Lordstown stock climbed more than 200% last summer.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/14/ceo-cfo-electric-vehicle-maker-lordstown-motors-resign</link>
-  <author>Matty Merritt</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/ceo-cfo-electric-vehicle-maker-lordstown-motors-resign</guid>
   <pubDate>Mon, 14 Jun 2021 15:41:50 -0700</pubDate>
  </item>
 
