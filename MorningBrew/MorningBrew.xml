@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/18</link>
- <lastBuildDate>Fri, 18 Jun 2021 12:23:11 -0700</lastBuildDate>
- <pubDate>Fri, 18 Jun 2021 12:23:11 -0700</pubDate>
+ <lastBuildDate>Fri, 18 Jun 2021 14:13:12 -0700</lastBuildDate>
+ <pubDate>Fri, 18 Jun 2021 14:13:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Western US Is Suffering From a Severe Drought</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5492%2Flake_mead_at_historic_low.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The also-bad-and-ugly: power. With a record-breaking heat wave sizzling its way across the West this week, officials will almost certainly declare the first-ever water shortage for the Colorado River, which feeds Lake Mead.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/18/western-us-suffering-severe-drought</link>
+  <author>Jamie Wilde</author>
+  <categories>environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/18/western-us-suffering-severe-drought</guid>
+  <pubDate>Fri, 18 Jun 2021 14:11:11 -0700</pubDate>
+ </item>
  <item>
   <title>Icebreakers with...Drag queen Kim Chi</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5473%2Fkimchi.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After finishing in the top three on season eight of RuPaul's Drag Race, Kim Chi launched her cosmetic company, KimChi Chic Beauty, with entrepreneur and NYX founder Toni Ko in 2019. ! Who creates some of your favorite content online? What question do you wish people would ask you? I think people really vibe with that! This interview has been lightly edited and condensed for clarity. Would you like some?"  "Have you had your iced coffee today?  A sugar baby.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>auto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/ceo-cfo-electric-vehicle-maker-lordstown-motors-resign</guid>
-  <pubDate>Mon, 14 Jun 2021 15:41:50 -0700</pubDate>
- </item>
- <item>
-  <title>Officials Warn Texans to Conserve Electricity This Week</title>
-  <description>&lt;img src='https://media.giphy.com/media/l46CekClkSfNji5nq/giphy.gif'&gt;&lt;br/&gt;They simply don’t make deodorant for Dallas heat, but residents may get experimental this week after the Electric Reliability Council of Texas (ERCOT), the state’s power grid operator, asked Texans to conserve power until Friday night to keep the system from buckling.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/14/officials-warn-texans-conserve-electricity-week</link>
-  <author>Matty Merritt</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/officials-warn-texans-conserve-electricity-week</guid>
   <pubDate>Mon, 14 Jun 2021 15:41:50 -0700</pubDate>
  </item>
 
