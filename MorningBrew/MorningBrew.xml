@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/18</link>
- <lastBuildDate>Fri, 18 Jun 2021 14:18:17 -0700</lastBuildDate>
- <pubDate>Fri, 18 Jun 2021 14:18:17 -0700</pubDate>
+ <lastBuildDate>Fri, 18 Jun 2021 14:23:17 -0700</lastBuildDate>
+ <pubDate>Fri, 18 Jun 2021 14:23:17 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Delays From Yantian Port Shutdown Worse than Suez Canal Fiasco</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F961%2Fshipping_crate.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: The worst of the shipping bottleneck is at Yantian, the largest port in China and the one that exports &gt;90% of the entire world’s electronics.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/18/delays-yantian-port-shutdown-worse-suez-canal-fiasco</link>
+  <author>Matty Merritt</author>
+  <categories>shipping</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/18/delays-yantian-port-shutdown-worse-suez-canal-fiasco</guid>
+  <pubDate>Fri, 18 Jun 2021 14:21:16 -0700</pubDate>
+ </item>
  <item>
   <title>Canada Extends Border Restrictions With the US</title>
   <description>&lt;img src='https://media.giphy.com/media/31WY9AkAiJSUaDYri8/giphy.gif'&gt;&lt;br/&gt;Yesterday, Canada extended restrictions on nonessential travel across the US border until July 22. Big picture: Canadian and American businesses that rely on cross-border traffic are getting FOMO as other countries open up to international travelers. to keep the virus at bay, Canadian Prime Minister Justin Trudeau has said the border would stay mostly closed until 75% of the population has received the first dose and 20% have been fully vaccinated.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>public health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/vermont-becomes-first-state-reach-80-vaccination-lifts-restrictions-early</guid>
-  <pubDate>Mon, 14 Jun 2021 15:41:50 -0700</pubDate>
- </item>
- <item>
-  <title>Lumber Prices Post Biggest Weekly Loss Ever</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Is higher-priced lumber the new normal? For context: Since the early '90s, lumber futures have mostly traded between $200 and $600. Strong demand will probably keep lumber prices above pre-pandemic levels for at least 1–2 years, according to BMO analyst Mark Wilde.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/14/lumber-prices-post-biggest-weekly-loss-ever</link>
-  <author>Alex Hickey</author>
-  <categories>commodities</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/lumber-prices-post-biggest-weekly-loss-ever</guid>
   <pubDate>Mon, 14 Jun 2021 15:41:50 -0700</pubDate>
  </item>
 
