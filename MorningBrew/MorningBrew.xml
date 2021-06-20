@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/20</link>
- <lastBuildDate>Sun, 20 Jun 2021 16:33:13 -0700</lastBuildDate>
- <pubDate>Sun, 20 Jun 2021 16:33:13 -0700</pubDate>
+ <lastBuildDate>Sun, 20 Jun 2021 16:38:14 -0700</lastBuildDate>
+ <pubDate>Sun, 20 Jun 2021 16:38:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: June 21</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5497%2Fcuba-health-virus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Washington Post)  Read: The small-town mystery of who bought the $731 million Powerball ticket.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/20/key-performance-indicators-june-21</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/key-performance-indicators-june-21</guid>
+  <pubDate>Sun, 20 Jun 2021 16:36:13 -0700</pubDate>
+ </item>
  <item>
   <title>First Trial Cruise Sets off From Miami</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5496%2Ffreedom_of_the_seas_cruise_ship.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The first nonexperimental oceangoing cruise ship to sail from US waters since the pandemic began, the Celebrity Edge, will depart this Saturday from Port Everglades with the CDC’s blessing. Last night, the Royal Caribbean’s Freedom of the Seas departed Miami, the first time a cruise ship has sailed from a US port in 15 months. And earlier this month, two passengers on a fully vaccinated cruise in the Caribbean tested positive.</description>
@@ -361,15 +370,6 @@
   <categories>games</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/15/word-search-social-currency</guid>
   <pubDate>Tue, 15 Jun 2021 10:41:17 -0700</pubDate>
- </item>
- <item>
-  <title>Vermont Becomes First State to Reach 80% Vaccination, Lifts Restrictions Early</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5443%2Fvermont.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Vermont is the first state to hit 80% and is considerably ahead of the national vaccination rate (61%). Some ideas: Matcha Green Immuni-teaHalf Vaxxed Chocolate Chip Cookie DosePfizer Food</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/14/vermont-becomes-first-state-reach-80-vaccination-lifts-restrictions-early?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>public health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/vermont-becomes-first-state-reach-80-vaccination-lifts-restrictions-early?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 15 Jun 2021 03:01:19 -0700</pubDate>
  </item>
 
 </channel>
