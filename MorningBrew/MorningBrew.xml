@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/18/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/20/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/18</link>
- <lastBuildDate>Fri, 18 Jun 2021 14:33:11 -0700</lastBuildDate>
- <pubDate>Fri, 18 Jun 2021 14:33:11 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/20</link>
+ <lastBuildDate>Sun, 20 Jun 2021 16:33:13 -0700</lastBuildDate>
+ <pubDate>Sun, 20 Jun 2021 16:33:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>First Trial Cruise Sets off From Miami</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5496%2Ffreedom_of_the_seas_cruise_ship.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The first nonexperimental oceangoing cruise ship to sail from US waters since the pandemic began, the Celebrity Edge, will depart this Saturday from Port Everglades with the CDC’s blessing. Last night, the Royal Caribbean’s Freedom of the Seas departed Miami, the first time a cruise ship has sailed from a US port in 15 months. And earlier this month, two passengers on a fully vaccinated cruise in the Caribbean tested positive.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/20/first-trial-cruise-sets-off-miami</link>
+  <author>Neal Freyman</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/first-trial-cruise-sets-off-miami</guid>
+  <pubDate>Sun, 20 Jun 2021 16:31:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>China Ramps up Crackdown on Bitcoin Mining</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4993%2Fbitcoin_chip.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Why it matters: The restrictions mean bitcoin mining could shift out of China, which handled 75% of the world’s mining capacity before the increased scrutiny, and arrive in...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/20/china-ramps-crackdown-bitcoin-mining</link>
+  <author>Neal Freyman</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/china-ramps-crackdown-bitcoin-mining</guid>
+  <pubDate>Sun, 20 Jun 2021 16:31:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Amazon Prime Day Returns to the Summer</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5377%2Fhero_cosmetics_prime_day.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Today and tomorrow, Amazon will offer more than 2 million deals to its Prime members to juice e-commerce sales during what is typically a lull in the shopping calendar. this Prime Day is Jeff Bezos’s last as CEO.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/20/amazon-prime-day-returns-summer</link>
+  <author>Neal Freyman</author>
+  <categories>ecommerce</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/amazon-prime-day-returns-summer</guid>
+  <pubDate>Sun, 20 Jun 2021 16:31:12 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 19</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5494%2Fhungary_v_portugal_-_uefa.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Ezra Klein Show) Listen: Economist Betsey Stevenson discusses the “take this job and shove it” economy.</description>
@@ -342,33 +369,6 @@
   <author>Alex Hickey</author>
   <categories>public health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/vermont-becomes-first-state-reach-80-vaccination-lifts-restrictions-early?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 15 Jun 2021 03:01:19 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 15</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2329%2Fgolden_gate_bridge.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If the Fed maintains its view that higher prices are transitory, Tudor Jones said he'd "bet heavily on every inflation trade," such as commodities, crypto, and gold.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/14/key-performance-indicators-june-15?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/key-performance-indicators-june-15?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 15 Jun 2021 03:01:19 -0700</pubDate>
- </item>
- <item>
-  <title>Officials Warn Texans to Conserve Electricity This Week</title>
-  <description>&lt;img src='https://media.giphy.com/media/l46CekClkSfNji5nq/giphy.gif'&gt;&lt;br/&gt;They simply don’t make deodorant for Dallas heat, but residents may get experimental this week after the Electric Reliability Council of Texas (ERCOT), the state’s power grid operator, asked Texans to conserve power until Friday night to keep the system from buckling.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/14/officials-warn-texans-conserve-electricity-week?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/officials-warn-texans-conserve-electricity-week?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 15 Jun 2021 03:01:19 -0700</pubDate>
- </item>
- <item>
-  <title>Lumber Prices Post Biggest Weekly Loss Ever</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Is higher-priced lumber the new normal? For context: Since the early '90s, lumber futures have mostly traded between $200 and $600. Strong demand will probably keep lumber prices above pre-pandemic levels for at least 1–2 years, according to BMO analyst Mark Wilde.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/14/lumber-prices-post-biggest-weekly-loss-ever?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>commodities</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/14/lumber-prices-post-biggest-weekly-loss-ever?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 15 Jun 2021 03:01:19 -0700</pubDate>
  </item>
 
