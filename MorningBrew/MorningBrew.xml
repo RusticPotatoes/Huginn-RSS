@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/20</link>
- <lastBuildDate>Sun, 20 Jun 2021 16:38:14 -0700</lastBuildDate>
- <pubDate>Sun, 20 Jun 2021 16:38:14 -0700</pubDate>
+ <lastBuildDate>Sun, 20 Jun 2021 16:43:17 -0700</lastBuildDate>
+ <pubDate>Sun, 20 Jun 2021 16:43:17 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: June 21</title>
+  <description>&lt;img src='https://media.giphy.com/media/TEdQEWK7738MhGayO7/giphy.gif'&gt;&lt;br/&gt;Facebook will roll out its podcast product on Tuesday. That report is coming on Friday.  Everything elseF9 will try to supercharge the summer box office when it arrives in theaters on Friday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/20/week-ahead-june-21</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/week-ahead-june-21</guid>
+  <pubDate>Sun, 20 Jun 2021 16:41:16 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 21</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5497%2Fcuba-health-virus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Washington Post)  Read: The small-town mystery of who bought the $731 million Powerball ticket.</description>
@@ -361,15 +370,6 @@
   <categories>wealth</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/15/mackenzie-scott-donates-another-27b-bringing-total-almost-9b</guid>
   <pubDate>Tue, 15 Jun 2021 14:36:19 -0700</pubDate>
- </item>
- <item>
-  <title>Word Search: Social Currency</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/15/word-search-social-currency</link>
-  <author>Neal Freyman</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/15/word-search-social-currency</guid>
-  <pubDate>Tue, 15 Jun 2021 10:41:17 -0700</pubDate>
  </item>
 
 </channel>
