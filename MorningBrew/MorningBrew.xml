@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/21</link>
- <lastBuildDate>Mon, 21 Jun 2021 12:43:15 -0700</lastBuildDate>
- <pubDate>Mon, 21 Jun 2021 12:43:15 -0700</pubDate>
+ <lastBuildDate>Mon, 21 Jun 2021 14:28:12 -0700</lastBuildDate>
+ <pubDate>Mon, 21 Jun 2021 14:28:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>WeWork Posts Best 2-Month Sales Streak Since 2019</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5512%2Fwework.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;More offices are looking for hybrid or remote-friendly setups, and WeWork is once again poised to scratch the labor market's newest itch. WeWork is tracking for $1.9 billion in revenue and aims to go public this year exactly how you'd expect: a $9 billion SPAC deal with BowX Acquisition Corp.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/21/wework-posts-best-2month-sales-streak-since-2019</link>
+  <author>Alex Hickey</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/wework-posts-best-2month-sales-streak-since-2019</guid>
+  <pubDate>Mon, 21 Jun 2021 14:26:11 -0700</pubDate>
+ </item>
  <item>
   <title>Brew Mini: Sled Dogs</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/15/retail-sales-fall-13-consumers-turn-goods-services?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 16 Jun 2021 03:01:17 -0700</pubDate>
- </item>
- <item>
-  <title>PwC Plans to Grow Its Workforce By 100,000</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5448%2Fbig_four_accounting_firms.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Bottom line: PwC is betting that helping clients with their diversity and sustainability initiatives will be key to its competitiveness. FYI, PwC's revenue growth is slowing, and it ranks third among the Big Four in market share.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/15/pwc-plans-grow-workforce-100000?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/15/pwc-plans-grow-workforce-100000?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 16 Jun 2021 03:01:17 -0700</pubDate>
  </item>
 
