@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/21</link>
- <lastBuildDate>Mon, 21 Jun 2021 03:03:16 -0700</lastBuildDate>
- <pubDate>Mon, 21 Jun 2021 03:03:16 -0700</pubDate>
+ <lastBuildDate>Mon, 21 Jun 2021 12:43:15 -0700</lastBuildDate>
+ <pubDate>Mon, 21 Jun 2021 12:43:15 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Brew Mini: Sled Dogs</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/21/brew-mini-sled-dogs</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/brew-mini-sled-dogs</guid>
+  <pubDate>Mon, 21 Jun 2021 12:41:13 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: June 21</title>
   <description>&lt;img src='https://media.giphy.com/media/TEdQEWK7738MhGayO7/giphy.gif'&gt;&lt;br/&gt;Also on Tuesday, Facebook will roll out its podcast product. That report is coming on Friday. F9 will try to supercharge the summer box office when it arrives in theaters on Friday.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/15/pwc-plans-grow-workforce-100000?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 16 Jun 2021 03:01:17 -0700</pubDate>
- </item>
- <item>
-  <title>MacKenzie Scott Donates Another $2.7B, Bringing total to almost $9B</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5449%2Fdo_not_use.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In her 2019 divorce settlement with Amazon founder Jeff Bezos, Scott received a 4% slice of Amazon, which was worth $36 billion at the time. Scott acknowledged wealth disparities in a Medium post announcing her donations yesterday, writing, "It would be better if disproportionate wealth were not concentrated in a small number of hands, and that the solutions are best designed and implemented by others." Yesterday, MacKenzie Scott announced she donated $2.7 billion to 286 organizations working to address issues including poverty, racial equity, and higher education.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/15/mackenzie-scott-donates-another-27b-bringing-total-almost-9b?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>wealth</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/15/mackenzie-scott-donates-another-27b-bringing-total-almost-9b?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 16 Jun 2021 03:01:17 -0700</pubDate>
  </item>
 
