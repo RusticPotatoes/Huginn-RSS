@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/21</link>
- <lastBuildDate>Mon, 21 Jun 2021 14:33:17 -0700</lastBuildDate>
- <pubDate>Mon, 21 Jun 2021 14:33:17 -0700</pubDate>
+ <lastBuildDate>Mon, 21 Jun 2021 14:38:18 -0700</lastBuildDate>
+ <pubDate>Mon, 21 Jun 2021 14:38:18 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Wingstop Launches Chicken Thigh Brand, Thighstop</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5514%2Fthighstop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Thighstop won't just be a departure from Wingstop's namesake business. Wingstop's wholesale prices have risen from as little as 98 cents last year to over $3 now, according to the company's CEO.  Zoom out: Changing demographics have boosted dark meat's popularity in recent years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/21/wingstop-launches-chicken-thigh-brand-thighstop</link>
+  <author>Alex Hickey</author>
+  <categories>food and bev</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/wingstop-launches-chicken-thigh-brand-thighstop</guid>
+  <pubDate>Mon, 21 Jun 2021 14:36:17 -0700</pubDate>
+ </item>
  <item>
   <title>Supreme Court Ruling Over Athlete Compensation Deals Blow to NCAA</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5513%2Fheisman_trophy_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;College athletes scored another big W in their looooong quest to get paid for their work on the field. For its part, the NCAA claims that compensating student athletes would undermine the “amateur” flavor of college sports, damaging fans' enjoyment of the product. If more justices adopt Kavanaugh's aggressive stance, “It could only be a matter of time before all of the NCAA's restrictions on compensation are struck down as antitrust violations,” Tulane sports law administrator Gabe Feldman told the NYT.</description>
@@ -361,15 +370,6 @@
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/16/fed-boosts-inflation-projections-signals-rate-hike-2023</guid>
   <pubDate>Wed, 16 Jun 2021 14:26:12 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Mini: Bubble</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/16/brew-mini-bubble</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/16/brew-mini-bubble</guid>
-  <pubDate>Wed, 16 Jun 2021 08:36:11 -0700</pubDate>
  </item>
 
 </channel>
