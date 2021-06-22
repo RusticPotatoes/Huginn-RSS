@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/22</link>
- <lastBuildDate>Tue, 22 Jun 2021 06:58:12 -0700</lastBuildDate>
- <pubDate>Tue, 22 Jun 2021 06:58:12 -0700</pubDate>
+ <lastBuildDate>Tue, 22 Jun 2021 14:33:16 -0700</lastBuildDate>
+ <pubDate>Tue, 22 Jun 2021 14:33:16 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Blackstone to Buy Rental Firm Home Partners of America for $6B</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F106%2Fhousing_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Now, the firm (and others) want back in on the soaring housing market, where last month median home prices rose almost 24% annually to break $350k. After the 2008 crash, Wall Street firms like Blackstone scooped up foreclosed homes on the cheap.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/22/blackstone-buy-rental-firm-home-partners-america-6b</link>
+  <author>Alex Hickey</author>
+  <categories>real estate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/blackstone-buy-rental-firm-home-partners-america-6b</guid>
+  <pubDate>Tue, 22 Jun 2021 14:31:14 -0700</pubDate>
+ </item>
  <item>
   <title>Word Search</title>
   <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
@@ -361,15 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/zuckerberg-high-hopes-future-vr</guid>
   <pubDate>Thu, 17 Jun 2021 15:06:16 -0700</pubDate>
- </item>
- <item>
-  <title>ACA Survives Third Supreme Court Challenge</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F858%2Fsupreme_court.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In March's Covid relief package, Biden approved higher federal subsidies for private health plans offered through the ACA and larger federal Medicaid payments for states that expand insurance coverage to more lower-income adults. In a 7–2 vote, justices ruled that Texas and 17 other Republican-led states don't have the legal standing to challenge the law in federal court.  What they were fighting aboutThe ACA's most controversial measure, the individual mandate, required Americans to pay a tax penalty if they didn't have health insurance.  The ACA, aka "Obamacare," is a controversial healthcare bill enacted in 2010.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/17/aca-survives-third-supreme-court-challenge</link>
-  <author>Alex Hickey</author>
-  <categories>legal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/aca-survives-third-supreme-court-challenge</guid>
-  <pubDate>Thu, 17 Jun 2021 15:01:13 -0700</pubDate>
  </item>
 
 </channel>
