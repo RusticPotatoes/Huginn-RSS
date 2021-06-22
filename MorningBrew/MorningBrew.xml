@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/22</link>
- <lastBuildDate>Tue, 22 Jun 2021 03:03:13 -0700</lastBuildDate>
- <pubDate>Tue, 22 Jun 2021 03:03:13 -0700</pubDate>
+ <lastBuildDate>Tue, 22 Jun 2021 06:58:12 -0700</lastBuildDate>
+ <pubDate>Tue, 22 Jun 2021 06:58:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Word Search</title>
+  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/22/word-search</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/word-search</guid>
+  <pubDate>Tue, 22 Jun 2021 06:56:10 -0700</pubDate>
+ </item>
  <item>
   <title>Wingstop Launches Chicken Thigh Brand, Thighstop</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5514%2Fthighstop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Thighstop won't just be a departure from Wingstop's namesake business. Wingstop's wholesale prices have risen from as little as 98 cents last year to over $3 now, according to the company's CEO.  Zoom out: Changing demographics have boosted dark meat's popularity in recent years.</description>
@@ -361,15 +370,6 @@
   <categories>legal</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/aca-survives-third-supreme-court-challenge</guid>
   <pubDate>Thu, 17 Jun 2021 15:01:13 -0700</pubDate>
- </item>
- <item>
-  <title>Defrauded ITT Students Will Get Their Money Back, Says Department of Education</title>
-  <description>&lt;img src='https://media.giphy.com/media/PvV6Dlxmw7RHh2ED87/giphy.gif'&gt;&lt;br/&gt;Zoom out: This is the second round of loan discharges for students who were defrauded by for-profit schools since Biden moved into the White House.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/17/defrauded-itt-students-will-get-money-back-says-department-education</link>
-  <author>Matty Merritt</author>
-  <categories>education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/defrauded-itt-students-will-get-money-back-says-department-education</guid>
-  <pubDate>Thu, 17 Jun 2021 14:56:12 -0700</pubDate>
  </item>
 
 </channel>
