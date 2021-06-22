@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/22</link>
- <lastBuildDate>Tue, 22 Jun 2021 14:33:16 -0700</lastBuildDate>
- <pubDate>Tue, 22 Jun 2021 14:33:16 -0700</pubDate>
+ <lastBuildDate>Tue, 22 Jun 2021 14:43:14 -0700</lastBuildDate>
+ <pubDate>Tue, 22 Jun 2021 14:43:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>US Likely Won’t Hit Vaccination Goal by Fourth of July, Says White House</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Health officials are painting a portrait of “two Americas,” one in regions with high immunization rates and the other where they lag. Vaccines have been shown to protect against delta, but experts are warning of surges in regions with lower vaccination rates—like the South—this fall and winter.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/22/us-likely-wont-hit-vaccination-goal-fourth-july-says-white-house</link>
+  <author>Matty Merritt</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/us-likely-wont-hit-vaccination-goal-fourth-july-says-white-house</guid>
+  <pubDate>Tue, 22 Jun 2021 14:41:13 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 23</title>
+  <description>&lt;img src='https://media.giphy.com/media/3mJMwCo0x7mAmCKnjb/giphy.gif'&gt;&lt;br/&gt;(The Ringer) Read: The rise of the $10 million disc golf celebrity.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/22/key-performance-indicators-june-23</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/key-performance-indicators-june-23</guid>
+  <pubDate>Tue, 22 Jun 2021 14:41:13 -0700</pubDate>
+ </item>
  <item>
   <title>Blackstone to Buy Rental Firm Home Partners of America for $6B</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F106%2Fhousing_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Now, the firm (and others) want back in on the soaring housing market, where last month median home prices rose almost 24% annually to break $350k. After the 2008 crash, Wall Street firms like Blackstone scooped up foreclosed homes on the cheap.</description>
@@ -352,24 +370,6 @@
   <categories>dandi</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/biden-signs-bill-make-juneteenth-official-holiday</guid>
   <pubDate>Thu, 17 Jun 2021 15:16:19 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 18</title>
-  <description>&lt;img src='https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif'&gt;&lt;br/&gt;(New York Times)  Read: Inside Victoria Secret's most extreme pivot in recent memory. The ruse, which involved Wiesenthal imitating McLaren during TV interviews, lasted for years.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/17/key-performance-indicators-june-18</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/key-performance-indicators-june-18</guid>
-  <pubDate>Thu, 17 Jun 2021 15:06:16 -0700</pubDate>
- </item>
- <item>
-  <title>Zuckerberg Has High Hopes for the Future of VR</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2439%2Ffacebook_virtual_reality.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Bottom line: After Facebook acquired another VR gaming company, BigBox VR, last week, tech reporter Alex Heath predicted, "Facebook is going to probably have a near monopoly in VR software before it even matters." He predicted VR would expand beyond gaming into areas like business meetings and fitness."</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/17/zuckerberg-high-hopes-future-vr</link>
-  <author>Matty Merritt</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/zuckerberg-high-hopes-future-vr</guid>
-  <pubDate>Thu, 17 Jun 2021 15:06:16 -0700</pubDate>
  </item>
 
 </channel>
