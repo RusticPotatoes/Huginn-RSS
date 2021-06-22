@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/22</link>
- <lastBuildDate>Tue, 22 Jun 2021 14:43:14 -0700</lastBuildDate>
- <pubDate>Tue, 22 Jun 2021 14:43:14 -0700</pubDate>
+ <lastBuildDate>Tue, 22 Jun 2021 14:48:14 -0700</lastBuildDate>
+ <pubDate>Tue, 22 Jun 2021 14:48:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Tinder Rolls Out Biggest Update in Years</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5517%2Ftinder.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Videos: Tinder is letting users attach up to nine short videos to their profiles. Some dating apps are taking a different approachBumble, an app known for requiring women to make the first move, is doubling down on its “Bumble BFF” feature to help nurture IRL friendships. When dating in 2021, it pays to be hot on the inside. Bottom line: With lockdowns mostly over, people are turning to dating apps to find friends, benefits included or not.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/22/tinder-rolls-biggest-update-years</link>
+  <author>Neal Freyman</author>
+  <categories>dating</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/tinder-rolls-biggest-update-years</guid>
+  <pubDate>Tue, 22 Jun 2021 14:46:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>Airlines Struggle to Handle Surge in Unruly Passengers and In-Flight Violence</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o7qE2HzB4rOFQr4zK/giphy.gif'&gt;&lt;br/&gt;Someone needs to take away the FAA’s photoshop. While we’re here... American is cutting 1% of July flights and Delta announced plans to hire 1,000 more pilots by next summer.  Big picture: In general, airlines are struggling to accommodate the rebound in demand.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/22/airlines-struggle-handle-surge-unruly-passengers-inflight-violence</link>
+  <author>Matty Merritt</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/airlines-struggle-handle-surge-unruly-passengers-inflight-violence</guid>
+  <pubDate>Tue, 22 Jun 2021 14:46:10 -0700</pubDate>
+ </item>
  <item>
   <title>US Likely Won’t Hit Vaccination Goal by Fourth of July, Says White House</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Health officials are painting a portrait of “two Americas,” one in regions with high immunization rates and the other where they lag. Vaccines have been shown to protect against delta, but experts are warning of surges in regions with lower vaccination rates—like the South—this fall and winter.</description>
@@ -352,24 +370,6 @@
   <categories>diversity</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/biden-signs-bill-make-juneteenth-official-holiday?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 18 Jun 2021 03:01:16 -0700</pubDate>
- </item>
- <item>
-  <title>ACA Survives Third Supreme Court Challenge</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F858%2Fsupreme_court.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In March's Covid relief package, Biden approved higher federal subsidies for private health plans offered through the ACA and larger federal Medicaid payments for states that expand insurance coverage to more lower-income adults. In a 7–2 vote, justices ruled that Texas and 17 other Republican-led states don't have the legal standing to challenge the law in federal court.  What they were fighting aboutThe ACA's most controversial measure, the individual mandate, required Americans to pay a tax penalty if they didn't have health insurance.  The ACA, aka "Obamacare," is a controversial healthcare bill enacted in 2010.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/17/aca-survives-third-supreme-court-challenge?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>legal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/aca-survives-third-supreme-court-challenge?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 18 Jun 2021 03:01:16 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Signs Bill to Make Juneteenth an Official Holiday</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5481%2Fpresident_biden_signs_jun.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Texas was the first state to establish Juneteenth as an official holiday in 1980, and throughout the years, some groups have pushed to recognize the holiday on a national scale. Looking ahead...  The NYSE said it won’t close markets today for this year’s Juneteenth, but might next year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/17/biden-signs-bill-make-juneteenth-official-holiday</link>
-  <author>Matty Merritt</author>
-  <categories>dandi</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/biden-signs-bill-make-juneteenth-official-holiday</guid>
-  <pubDate>Thu, 17 Jun 2021 15:16:19 -0700</pubDate>
  </item>
 
 </channel>
