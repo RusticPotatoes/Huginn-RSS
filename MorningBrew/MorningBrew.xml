@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/22/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/23/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/22</link>
- <lastBuildDate>Tue, 22 Jun 2021 14:48:14 -0700</lastBuildDate>
- <pubDate>Tue, 22 Jun 2021 14:48:14 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/23</link>
+ <lastBuildDate>Wed, 23 Jun 2021 03:03:14 -0700</lastBuildDate>
+ <pubDate>Wed, 23 Jun 2021 03:03:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Airlines Struggle to Handle Surge in Unruly Passengers and In-Flight Violence</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o7qE2HzB4rOFQr4zK/giphy.gif'&gt;&lt;br/&gt;Someone needs to take away the FAA’s photoshop. While we’re here... American is cutting 1% of July flights and Delta announced plans to hire 1,000 more pilots by next summer.  Big picture: In general, airlines are struggling to accommodate the rebound in demand.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/22/airlines-struggle-handle-surge-unruly-passengers-inflight-violence?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/airlines-struggle-handle-surge-unruly-passengers-inflight-violence?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 23 Jun 2021 03:01:13 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 23</title>
+  <description>&lt;img src='https://media.giphy.com/media/3mJMwCo0x7mAmCKnjb/giphy.gif'&gt;&lt;br/&gt;(The Ringer) Read: The rise of the $10 million disc golf celebrity.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/22/key-performance-indicators-june-23?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/key-performance-indicators-june-23?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 23 Jun 2021 03:01:13 -0700</pubDate>
+ </item>
+ <item>
+  <title>Blackstone to Buy Rental Firm Home Partners of America for $6B</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F106%2Fhousing_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Now, the firm (and others) want back in on the soaring housing market, where last month median home prices rose almost 24% annually to break $350k. After the 2008 crash, Wall Street firms like Blackstone scooped up foreclosed homes on the cheap.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/22/blackstone-buy-rental-firm-home-partners-america-6b?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>real estate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/blackstone-buy-rental-firm-home-partners-america-6b?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 23 Jun 2021 03:01:13 -0700</pubDate>
+ </item>
+ <item>
+  <title>US Likely Won’t Hit Vaccination Goal by Fourth of July, Says White House</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Health officials are painting a portrait of “two Americas,” one in regions with high immunization rates and the other where they lag. Vaccines have been shown to protect against delta, but experts are warning of surges in regions with lower vaccination rates—like the South—this fall and winter.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/22/us-likely-wont-hit-vaccination-goal-fourth-july-says-white-house?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/us-likely-wont-hit-vaccination-goal-fourth-july-says-white-house?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 23 Jun 2021 03:01:13 -0700</pubDate>
+ </item>
+ <item>
+  <title>Tinder Rolls Out Biggest Update in Years</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5517%2Ftinder.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: With lockdowns mostly over, people are turning to dating apps to find new friends, benefits included or not. Some dating apps are taking a different approachBumble, an app known for requiring women to make the first move, is doubling down on its “Bumble BFF” feature to help nurture IRL friendships. And Match Group, which owns Tinder, recently acquired a South Korean company, Hyperconnect, that promotes conversations across borders and languages.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/22/tinder-rolls-biggest-update-years?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>dating</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/tinder-rolls-biggest-update-years?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 23 Jun 2021 03:01:13 -0700</pubDate>
+ </item>
  <item>
   <title>Tinder Rolls Out Biggest Update in Years</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5517%2Ftinder.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Videos: Tinder is letting users attach up to nine short videos to their profiles. Some dating apps are taking a different approachBumble, an app known for requiring women to make the first move, is doubling down on its “Bumble BFF” feature to help nurture IRL friendships. When dating in 2021, it pays to be hot on the inside. Bottom line: With lockdowns mostly over, people are turning to dating apps to find friends, benefits included or not.</description>
@@ -325,51 +370,6 @@
   <categories>work life</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/18/make-work-tell-coworkers-im-not-vaccinated</guid>
   <pubDate>Fri, 18 Jun 2021 12:11:16 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Crossword: Triple Lindy</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/18/brew-crossword-triple-lindy</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/18/brew-crossword-triple-lindy</guid>
-  <pubDate>Fri, 18 Jun 2021 09:56:13 -0700</pubDate>
- </item>
- <item>
-  <title>Zuckerberg Has High Hopes for the Future of VR</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2439%2Ffacebook_virtual_reality.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Bottom line: After Facebook acquired another VR gaming company, BigBox VR, last week, tech reporter Alex Heath predicted, "Facebook is going to probably have a near monopoly in VR software before it even matters." He predicted VR would expand beyond gaming into areas like business meetings and fitness."</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/17/zuckerberg-high-hopes-future-vr?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/zuckerberg-high-hopes-future-vr?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 18 Jun 2021 03:01:17 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 18</title>
-  <description>&lt;img src='https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif'&gt;&lt;br/&gt;(New York Times) Read: Inside Victoria Secret's most extreme pivot in recent memory.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/17/key-performance-indicators-june-18?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/key-performance-indicators-june-18?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 18 Jun 2021 03:01:16 -0700</pubDate>
- </item>
- <item>
-  <title>Defrauded ITT Students Will Get Their Money Back, Says Department of Education</title>
-  <description>&lt;img src='https://media.giphy.com/media/PvV6Dlxmw7RHh2ED87/giphy.gif'&gt;&lt;br/&gt;Zoom out: This is the second round of loan discharges for students who were defrauded by for-profit schools since Biden moved into the White House.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/17/defrauded-itt-students-will-get-money-back-says-department-education?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/defrauded-itt-students-will-get-money-back-says-department-education?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 18 Jun 2021 03:01:16 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Signs Bill to Make Juneteenth an Official Holiday</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5481%2Fpresident_biden_signs_jun.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Texas was the first state to establish Juneteenth as an official holiday in 1980, and throughout the years, some groups have pushed to recognize it on a national scale. It's the first federal holiday created since Martin Luther King Jr. Day in 1983.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/17/biden-signs-bill-make-juneteenth-official-holiday?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>diversity</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/17/biden-signs-bill-make-juneteenth-official-holiday?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 18 Jun 2021 03:01:16 -0700</pubDate>
  </item>
 
 </channel>
