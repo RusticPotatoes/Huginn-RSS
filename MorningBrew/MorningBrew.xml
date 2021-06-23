@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/23</link>
- <lastBuildDate>Wed, 23 Jun 2021 14:58:19 -0700</lastBuildDate>
- <pubDate>Wed, 23 Jun 2021 14:58:19 -0700</pubDate>
+ <lastBuildDate>Wed, 23 Jun 2021 15:23:14 -0700</lastBuildDate>
+ <pubDate>Wed, 23 Jun 2021 15:23:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Britney Spears Asks Judge to End Her Conservatorship in Public Testimony</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5538%2Ffreebritney_protest.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, Britney Spears gave a public statement to an LA County Superior Court about her 13-year conservatorship, the first time she’s spoken publicly since 2019. . Spears’s story is one filled with speculation, but yesterday’s statement was the first time she publicly spoke against the conservatorship and her father.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/23/britney-spears-asks-judge-end-conservatorship-public-testimony</link>
+  <author>Matty Merritt</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/23/britney-spears-asks-judge-end-conservatorship-public-testimony</guid>
+  <pubDate>Wed, 23 Jun 2021 15:21:13 -0700</pubDate>
+ </item>
  <item>
   <title>Hong Kong’s Largest Pro-Democracy Paper Shuts Down</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5536%2Fpro-democracy_news_paper.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;the former chair of the Hong Kong Journalists Association said, “Police did not rule out the possibility of more arrests, and the next [target] could be other media.”  Radio Television Hong Kong (RTHK) was forced to swap its station head with a career politician with no journalism experience.</description>
@@ -361,15 +370,6 @@
   <categories>personal finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/18/money-matters-retirement-saving-comes-two-flavors</guid>
   <pubDate>Fri, 18 Jun 2021 14:31:20 -0700</pubDate>
- </item>
- <item>
-  <title>Delays From Yantian Port Shutdown Worse than Suez Canal Fiasco</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F961%2Fshipping_crate.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: The worst of the shipping bottleneck is at Yantian, the largest port in China and the one that exports &gt;90% of the entire world’s electronics.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/18/delays-yantian-port-shutdown-worse-suez-canal-fiasco</link>
-  <author>Matty Merritt</author>
-  <categories>shipping</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/18/delays-yantian-port-shutdown-worse-suez-canal-fiasco</guid>
-  <pubDate>Fri, 18 Jun 2021 14:21:16 -0700</pubDate>
  </item>
 
 </channel>
