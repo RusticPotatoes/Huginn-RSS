@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/24</link>
- <lastBuildDate>Thu, 24 Jun 2021 03:03:12 -0700</lastBuildDate>
- <pubDate>Thu, 24 Jun 2021 03:03:12 -0700</pubDate>
+ <lastBuildDate>Thu, 24 Jun 2021 14:48:12 -0700</lastBuildDate>
+ <pubDate>Thu, 24 Jun 2021 14:48:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Microsoft Hits $2T Market Cap, Shows off Major Windows Update</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5548%2Fmicrosoft_windows_11.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;. Microsoft was incorporated 40 years ago today, but instead of installing a barn door in its master bathroom, the company closed above a $2 trillion market cap for the first time this week and unveiled its first major Windows update in years.    Six bills that could reshape antitrust law in the US cleared a major hurdle yesterday morning. until now?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/24/microsoft-hits-2t-market-cap-shows-off-major-windows-update</link>
+  <author>Alex Hickey</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/24/microsoft-hits-2t-market-cap-shows-off-major-windows-update</guid>
+  <pubDate>Thu, 24 Jun 2021 14:46:11 -0700</pubDate>
+ </item>
  <item>
   <title>Resorts World Opens in Las Vegas</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5537%2Fresorts_world.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Big picture: Las Vegas is firmly in a post-Covid mentality right now, bringing visitors back to its business conventions and entertainment options. large:With a price tag of $4.3 billion, Resorts World is the most expensive property ever developed in the city.</description>
@@ -361,15 +370,6 @@
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/week-ahead-june-21</guid>
   <pubDate>Sun, 20 Jun 2021 16:41:16 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 21</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5497%2Fcuba-health-virus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Washington Post)  Read: The small-town mystery of who bought the $731 million Powerball ticket.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/20/key-performance-indicators-june-21</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/key-performance-indicators-june-21</guid>
-  <pubDate>Sun, 20 Jun 2021 16:36:13 -0700</pubDate>
  </item>
 
 </channel>
