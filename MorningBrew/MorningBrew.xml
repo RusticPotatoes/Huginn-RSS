@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/23/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/24/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/24/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/23</link>
- <lastBuildDate>Wed, 23 Jun 2021 15:23:14 -0700</lastBuildDate>
- <pubDate>Wed, 23 Jun 2021 15:23:14 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/24</link>
+ <lastBuildDate>Thu, 24 Jun 2021 03:03:12 -0700</lastBuildDate>
+ <pubDate>Thu, 24 Jun 2021 03:03:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Resorts World Opens in Las Vegas</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5537%2Fresorts_world.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Big picture: Las Vegas is firmly in a post-Covid mentality right now, bringing visitors back to its business conventions and entertainment options. large:With a price tag of $4.3 billion, Resorts World is the most expensive property ever developed in the city.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/23/resorts-world-opens-las-vegas?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>hospitality</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/23/resorts-world-opens-las-vegas?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 24 Jun 2021 03:01:22 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 24</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5534%2Fus-transportation-southwe.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Medium)  Read: Why didn’t bullet journaling work for me? Buffett has pledged to give away about 99% of his net worth.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/23/key-performance-indicators-june-24?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/23/key-performance-indicators-june-24?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 24 Jun 2021 03:01:21 -0700</pubDate>
+ </item>
+ <item>
+  <title>Britney Spears Asks Judge to End Her Conservatorship in Public Testimony</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5538%2Ffreebritney_protest.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In her most public statement to date about her personal affairs, Britney Spears told an LA probate judge that she wants to end the conservatorship she's been under for 13 years." Big picture: Spears’s story gained traction after her fans started the #FreeBritney movement in 2019.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/23/britney-spears-asks-judge-end-conservatorship-public-testimony?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/23/britney-spears-asks-judge-end-conservatorship-public-testimony?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 24 Jun 2021 03:01:21 -0700</pubDate>
+ </item>
+ <item>
+  <title>Hong Kong’s Largest Pro-Democracy Paper Shuts Down</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5536%2Fpro-democracy_news_paper.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;the former chair of the Hong Kong Journalists Association said, “Police did not rule out the possibility of more arrests, and the next [target] could be other media.”  Radio Television Hong Kong (RTHK) was forced to swap its station head with a career politician with no journalism experience.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/23/hong-kongs-largest-prodemocracy-paper-shuts?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>international</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/23/hong-kongs-largest-prodemocracy-paper-shuts?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 24 Jun 2021 03:01:21 -0700</pubDate>
+ </item>
+ <item>
+  <title>Supreme Court Hands Down Major Rulings on Farms, Free Speech, and Fannie and Freddie</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5535%2Fsupreme_court.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, the Supreme Court struck down a regulation that allowed union organizers to meet with agricultural workers during some periods of the day. The Supreme Court didn’t buy that, but did concede that the structure of the agency that oversees Fannie and Freddie is unconstitutional.  Bottom line: Because Levy didn’t bully anyone or post her frustrations during school, SCOTUS said she had the right to be an angry teen. The school banned Levy from cheer for a full year and her (clearly cool) dad got the ACLU involved, claiming that the school violated her First Amendment rights.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/23/supreme-court-hands-major-rulings-farms-free-speech-fannie-freddie?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>legal</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/23/supreme-court-hands-major-rulings-farms-free-speech-fannie-freddie?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 24 Jun 2021 03:01:21 -0700</pubDate>
+ </item>
  <item>
   <title>Britney Spears Asks Judge to End Her Conservatorship in Public Testimony</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5538%2Ffreebritney_protest.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, Britney Spears gave a public statement to an LA County Superior Court about her 13-year conservatorship, the first time she’s spoken publicly since 2019. . Spears’s story is one filled with speculation, but yesterday’s statement was the first time she publicly spoke against the conservatorship and her father.</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/key-performance-indicators-june-21</guid>
   <pubDate>Sun, 20 Jun 2021 16:36:13 -0700</pubDate>
- </item>
- <item>
-  <title>First Trial Cruise Sets off From Miami</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5496%2Ffreedom_of_the_seas_cruise_ship.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The first nonexperimental oceangoing cruise ship to sail from US waters since the pandemic began, the Celebrity Edge, will depart this Saturday from Port Everglades with the CDC’s blessing. Last night, the Royal Caribbean’s Freedom of the Seas departed Miami, the first time a cruise ship has sailed from a US port in 15 months. And earlier this month, two passengers on a fully vaccinated cruise in the Caribbean tested positive.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/20/first-trial-cruise-sets-off-miami</link>
-  <author>Neal Freyman</author>
-  <categories>travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/first-trial-cruise-sets-off-miami</guid>
-  <pubDate>Sun, 20 Jun 2021 16:31:12 -0700</pubDate>
- </item>
- <item>
-  <title>China Ramps up Crackdown on Bitcoin Mining</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4993%2Fbitcoin_chip.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Why it matters: The restrictions mean bitcoin mining could shift out of China, which handled 75% of the world’s mining capacity before the increased scrutiny, and arrive in...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/20/china-ramps-crackdown-bitcoin-mining</link>
-  <author>Neal Freyman</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/china-ramps-crackdown-bitcoin-mining</guid>
-  <pubDate>Sun, 20 Jun 2021 16:31:12 -0700</pubDate>
- </item>
- <item>
-  <title>Amazon Prime Day Returns to the Summer</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5377%2Fhero_cosmetics_prime_day.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Today and tomorrow, Amazon will offer more than 2 million deals to its Prime members to juice e-commerce sales during what is typically a lull in the shopping calendar. this Prime Day is Jeff Bezos’s last as CEO.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/20/amazon-prime-day-returns-summer</link>
-  <author>Neal Freyman</author>
-  <categories>ecommerce</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/amazon-prime-day-returns-summer</guid>
-  <pubDate>Sun, 20 Jun 2021 16:31:12 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 19</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5494%2Fhungary_v_portugal_-_uefa.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Ezra Klein Show) Listen: Economist Betsey Stevenson discusses the “take this job and shove it” economy.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/18/key-performance-indicators-june-19</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/18/key-performance-indicators-june-19</guid>
-  <pubDate>Fri, 18 Jun 2021 14:31:20 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: Retirement Saving Comes in Two Flavors</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4692%2Fbudget_scale.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;To answer your question, those sweet, sweet tax benefits of 401(k) and IRA retirement plans come in two flavors: traditional and Roth. If you’re unsure of your retirement plans (fair) use this rule of thumb: Prioritize Roth if you’re early in your career, and traditional options if you’re mid- to late-career. The company is offering a 401(k) plan, but I also have a separate Roth IRA. Which one should I prioritize maxing out first?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/18/money-matters-retirement-saving-comes-two-flavors</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/18/money-matters-retirement-saving-comes-two-flavors</guid>
-  <pubDate>Fri, 18 Jun 2021 14:31:20 -0700</pubDate>
  </item>
 
 </channel>
