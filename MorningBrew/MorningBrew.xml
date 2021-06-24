@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/24</link>
- <lastBuildDate>Thu, 24 Jun 2021 14:48:12 -0700</lastBuildDate>
- <pubDate>Thu, 24 Jun 2021 14:48:12 -0700</pubDate>
+ <lastBuildDate>Thu, 24 Jun 2021 14:53:20 -0700</lastBuildDate>
+ <pubDate>Thu, 24 Jun 2021 14:53:20 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: June 25</title>
+  <description>&lt;img src='https://media.giphy.com/media/77F1Ogb2A1fy0LESQO/giphy.gif'&gt;&lt;br/&gt;(Rolling Stone) Then he went too far. Read: David Dobrik was the king of YouTube. He told the AP he expects the pet business to keep booming as people move into larger, suburban houses and workplaces become more pet-friendly.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/24/key-performance-indicators-june-25</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/24/key-performance-indicators-june-25</guid>
+  <pubDate>Thu, 24 Jun 2021 14:51:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>President Biden, Group of Bipartisan Senators Reach an Infrastructure Deal</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2887%2Fjoe_biden_amtrak.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  House Speaker Nancy Pelosi said her chamber would only take up the infrastructure plan if Democrats were able to push through a separate spending package. don't start daydreaming about good train wi-fi yet, because the plan still has a ways to go to become law. Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/24/president-biden-group-bipartisan-senators-reach-infrastructure-deal</link>
+  <author>Matty Merritt</author>
+  <categories>infrastructure</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/24/president-biden-group-bipartisan-senators-reach-infrastructure-deal</guid>
+  <pubDate>Thu, 24 Jun 2021 14:51:18 -0700</pubDate>
+ </item>
  <item>
   <title>Microsoft Hits $2T Market Cap, Shows off Major Windows Update</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5548%2Fmicrosoft_windows_11.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;. Microsoft was incorporated 40 years ago today, but instead of installing a barn door in its master bathroom, the company closed above a $2 trillion market cap for the first time this week and unveiled its first major Windows update in years.    Six bills that could reshape antitrust law in the US cleared a major hurdle yesterday morning. until now?</description>
@@ -352,24 +370,6 @@
   <categories>e commerce</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/amazon-prime-day-returns-summer?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 21 Jun 2021 03:01:15 -0700</pubDate>
- </item>
- <item>
-  <title>First Trial Cruise Sets off From Miami</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5496%2Ffreedom_of_the_seas_cruise_ship.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The first nonexperimental oceangoing cruise ship to sail from US waters since the pandemic began, the Celebrity Edge, will depart this Saturday from Port Everglades with the CDC’s blessing. Last night, the Royal Caribbean’s Freedom of the Seas departed Miami, the first time a cruise ship has sailed from a US port in 15 months. And earlier this month, two passengers on a fully vaccinated cruise in the Caribbean tested positive.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/20/first-trial-cruise-sets-off-miami?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/first-trial-cruise-sets-off-miami?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 21 Jun 2021 03:01:15 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: June 21</title>
-  <description>&lt;img src='https://media.giphy.com/media/TEdQEWK7738MhGayO7/giphy.gif'&gt;&lt;br/&gt;Facebook will roll out its podcast product on Tuesday. That report is coming on Friday.  Everything elseF9 will try to supercharge the summer box office when it arrives in theaters on Friday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/20/week-ahead-june-21</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/week-ahead-june-21</guid>
-  <pubDate>Sun, 20 Jun 2021 16:41:16 -0700</pubDate>
  </item>
 
 </channel>
