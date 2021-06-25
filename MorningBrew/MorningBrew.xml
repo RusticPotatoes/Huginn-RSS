@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/24/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/24/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/25/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/24</link>
- <lastBuildDate>Thu, 24 Jun 2021 14:58:13 -0700</lastBuildDate>
- <pubDate>Thu, 24 Jun 2021 14:58:13 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/25</link>
+ <lastBuildDate>Fri, 25 Jun 2021 03:03:18 -0700</lastBuildDate>
+ <pubDate>Fri, 25 Jun 2021 03:03:18 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: June 25</title>
+  <description>&lt;img src='https://media.giphy.com/media/77F1Ogb2A1fy0LESQO/giphy.gif'&gt;&lt;br/&gt;(Rolling Stone) Then he went too far. Read: David Dobrik was the king of YouTube. He told the AP he expects the pet business to keep booming as people move into larger, suburban houses and workplaces become more pet-friendly.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/24/key-performance-indicators-june-25?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/24/key-performance-indicators-june-25?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 25 Jun 2021 03:01:16 -0700</pubDate>
+ </item>
+ <item>
+  <title>BuzzFeed's Got a SPAC That Values the Media Company at $1.5 Billion</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5550%2Fbuzzfeed_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;BuzzFeed hopes to scoop up more media companies and use that muscle to grab market share from the most powerful throuple in digital ads: Google, Facebook, and Amazon, which accounted for almost 90% of the US digital ad market in 2020, per ad agency GroupM. Now, BuzzFeed is in growth mode.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/24/buzzfeeds-got-spac-values-media-company-15-billion?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/24/buzzfeeds-got-spac-values-media-company-15-billion?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 25 Jun 2021 03:01:16 -0700</pubDate>
+ </item>
+ <item>
+  <title>President Biden, Group of Bipartisan Senators Reach an Infrastructure Deal</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2887%2Fjoe_biden_amtrak.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Some spending on child and elder care as well as education was cut from Biden's original plan.   don't start daydreaming about good train wi-fi yet, the plan still has a ways to go to become law. Looking ahead...  A corporate tax rate increase to fund the plan, which Biden originally proposed, was also ditched.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/24/president-biden-group-bipartisan-senators-reach-infrastructure-deal?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>infrastructure</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/24/president-biden-group-bipartisan-senators-reach-infrastructure-deal?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 25 Jun 2021 03:01:16 -0700</pubDate>
+ </item>
+ <item>
+  <title>Microsoft Hits $2T Market Cap, Shows off Major Windows Update</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5548%2Fmicrosoft_windows_11.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;. Microsoft was incorporated 40 years ago today, but instead of installing a barn door in its master bathroom, the company closed above a $2 trillion market cap for the first time this week and unveiled its first major Windows update in years.    Six bills that could reshape antitrust law in the US cleared a major hurdle yesterday morning. until now?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/24/microsoft-hits-2t-market-cap-shows-off-major-windows-update?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Alex Hickey</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/24/microsoft-hits-2t-market-cap-shows-off-major-windows-update?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 25 Jun 2021 03:01:16 -0700</pubDate>
+ </item>
  <item>
   <title>BuzzFeed's Got a SPAC That Values the Media Company at $1.5 Billion</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5550%2Fbuzzfeed_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;BuzzFeed wants to scoop up more media companies and use that muscle to grab market share from the most powerful throuple in digital ads: Google, Facebook, and Amazon, which accounted for almost 90% of the US digital ad market in 2020, per ad agency GroupM. Now, BuzzFeed is in growth mode.</description>
@@ -334,42 +370,6 @@
   <categories>work</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/wework-posts-best-2month-sales-streak-since-2019</guid>
   <pubDate>Mon, 21 Jun 2021 14:26:11 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Mini: Sled Dogs</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/21/brew-mini-sled-dogs</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/brew-mini-sled-dogs</guid>
-  <pubDate>Mon, 21 Jun 2021 12:41:13 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: June 21</title>
-  <description>&lt;img src='https://media.giphy.com/media/TEdQEWK7738MhGayO7/giphy.gif'&gt;&lt;br/&gt;Also on Tuesday, Facebook will roll out its podcast product. That report is coming on Friday. F9 will try to supercharge the summer box office when it arrives in theaters on Friday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/20/week-ahead-june-21?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/week-ahead-june-21?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 21 Jun 2021 03:01:16 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 21</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5497%2Fcuba-health-virus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Washington Post)  Read: The small-town mystery of who bought the $731 million Powerball ticket.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/20/key-performance-indicators-june-21?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/key-performance-indicators-june-21?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 21 Jun 2021 03:01:16 -0700</pubDate>
- </item>
- <item>
-  <title>China Ramps up Crackdown on Bitcoin Mining</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4993%2Fbitcoin_chip.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Why it matters: The restrictions mean bitcoin mining could shift out of China, which handled 75% of the world’s mining capacity before the increased scrutiny, and arrive in...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/20/china-ramps-crackdown-bitcoin-mining?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/20/china-ramps-crackdown-bitcoin-mining?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 21 Jun 2021 03:01:15 -0700</pubDate>
  </item>
 
 </channel>
