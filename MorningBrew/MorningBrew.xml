@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/25</link>
- <lastBuildDate>Fri, 25 Jun 2021 14:58:11 -0700</lastBuildDate>
- <pubDate>Fri, 25 Jun 2021 14:58:11 -0700</pubDate>
+ <lastBuildDate>Fri, 25 Jun 2021 15:03:12 -0700</lastBuildDate>
+ <pubDate>Fri, 25 Jun 2021 15:03:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Money Matters: Is a Financial Advisor Worth It? </title>
+  <description>&lt;img src='https://media.giphy.com/media/LdOyjZ7io5Msw/giphy.gif'&gt;&lt;br/&gt;Is it worth getting a financial advisor, and if so, how do I choose one? For example, consider a one-time financial review. Financial advisors look at your financial situation, get a feel for your goals, and make and manage a personalized investing plan.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/25/money-matters-financial-advisor-worth</link>
+  <author>Ryan Lasker</author>
+  <categories>personal finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/25/money-matters-financial-advisor-worth</guid>
+  <pubDate>Fri, 25 Jun 2021 15:01:12 -0700</pubDate>
+ </item>
  <item>
   <title>Springsteen Plays to a Full Audience in Big Moment for Broadway</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5568%2F7th_annual_stand_up_for.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Fun fact: The captain of the $1 billion ship, Kate McCue, was the first American woman to captain a cruise ship in 2015. At least 95% of the passengers are vaccinated against Covid-19, operator Celebrity Cruises said, and the ship will sail at 35% capacity.</description>
@@ -361,15 +370,6 @@
   <categories>food and bev</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/wingstop-launches-chicken-thigh-brand-thighstop</guid>
   <pubDate>Mon, 21 Jun 2021 14:36:17 -0700</pubDate>
- </item>
- <item>
-  <title>Supreme Court Ruling Over Athlete Compensation Deals Blow to NCAA</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5513%2Fheisman_trophy_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;College athletes scored another big W in their looooong quest to get paid for their work on the field. For its part, the NCAA claims that compensating student athletes would undermine the “amateur” flavor of college sports, damaging fans' enjoyment of the product. If more justices adopt Kavanaugh's aggressive stance, “It could only be a matter of time before all of the NCAA's restrictions on compensation are struck down as antitrust violations,” Tulane sports law administrator Gabe Feldman told the NYT.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/21/supreme-court-ruling-athlete-compensation-deals-blow-ncaa</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/supreme-court-ruling-athlete-compensation-deals-blow-ncaa</guid>
-  <pubDate>Mon, 21 Jun 2021 14:31:16 -0700</pubDate>
  </item>
 
 </channel>
