@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/25</link>
- <lastBuildDate>Fri, 25 Jun 2021 14:53:11 -0700</lastBuildDate>
- <pubDate>Fri, 25 Jun 2021 14:53:11 -0700</pubDate>
+ <lastBuildDate>Fri, 25 Jun 2021 14:58:11 -0700</lastBuildDate>
+ <pubDate>Fri, 25 Jun 2021 14:58:11 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Springsteen Plays to a Full Audience in Big Moment for Broadway</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5568%2F7th_annual_stand_up_for.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Fun fact: The captain of the $1 billion ship, Kate McCue, was the first American woman to captain a cruise ship in 2015. At least 95% of the passengers are vaccinated against Covid-19, operator Celebrity Cruises said, and the ship will sail at 35% capacity.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/25/springsteen-plays-full-audience-big-moment-broadway</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/25/springsteen-plays-full-audience-big-moment-broadway</guid>
+  <pubDate>Fri, 25 Jun 2021 14:56:11 -0700</pubDate>
+ </item>
  <item>
   <title>Virgin Galactic Receives FAA Clearance to Take Passengers to Space</title>
   <description>&lt;img src='https://media.giphy.com/media/pVPWkUBjayIpy5D5KN/giphy.gif'&gt;&lt;br/&gt;Billionaire Sir Richard Branson’s space travel company Virgin Galactic received FAA clearance yesterday to fly paying customers to space—great news for the 600 people on its wait-list eager to glimpse the curvature of Earth from 56 miles up. Zoom out: Developments in space travel, specifically space tourism, are moving at lightning speed.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/supreme-court-ruling-athlete-compensation-deals-blow-ncaa</guid>
-  <pubDate>Mon, 21 Jun 2021 14:31:16 -0700</pubDate>
- </item>
- <item>
-  <title>Spielberg's Amblin Partners Agrees to Make Movies for Netflix</title>
-  <description>&lt;img src='https://media.giphy.com/media/CogAtAK2r5M1W/giphy.gif'&gt;&lt;br/&gt;The company has agreed to produce two or more movies a year for the streamer, some of which could be directed by Spielberg himself. Bottom line: Striking a deal with Spielberg is a flex for Netflix; he has more Oscars under his belt than any other living filmmaker.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/21/spielbergs-amblin-partners-agrees-make-movies-netflix</link>
-  <author>Jamie Wilde</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/spielbergs-amblin-partners-agrees-make-movies-netflix</guid>
   <pubDate>Mon, 21 Jun 2021 14:31:16 -0700</pubDate>
  </item>
 
