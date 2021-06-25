@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/25</link>
- <lastBuildDate>Fri, 25 Jun 2021 03:03:18 -0700</lastBuildDate>
- <pubDate>Fri, 25 Jun 2021 03:03:18 -0700</pubDate>
+ <lastBuildDate>Fri, 25 Jun 2021 14:43:14 -0700</lastBuildDate>
+ <pubDate>Fri, 25 Jun 2021 14:43:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Consumer Spending Buoyed By Shoppers Updating Their Wardrobes</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5566%2Fgold_nike_shoes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Nike predicted it’ll pass $50 billion in revenue this fiscal year for the first time thanks in part to a rapidly growing e-commerce biz. increased consumer spending sets the economy up for a strong summertime shopping season, as retailers race to open stores back up, hire elusive workers, and smooth out supply chain kinks to meet demand. Looking ahead...  A Harris Poll survey found that 61% of US adults’ weight fluctuated in the past year, with an average weight gain of 29 pounds among those that put on, rather than lost, weight.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/25/consumer-spending-buoyed-shoppers-updating-wardrobes</link>
+  <author>Jamie Wilde</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/25/consumer-spending-buoyed-shoppers-updating-wardrobes</guid>
+  <pubDate>Fri, 25 Jun 2021 14:41:13 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 25</title>
   <description>&lt;img src='https://media.giphy.com/media/77F1Ogb2A1fy0LESQO/giphy.gif'&gt;&lt;br/&gt;(Rolling Stone) Then he went too far. Read: David Dobrik was the king of YouTube. He told the AP he expects the pet business to keep booming as people move into larger, suburban houses and workplaces become more pet-friendly.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/key-performance-indicators-june-22</guid>
   <pubDate>Mon, 21 Jun 2021 14:31:16 -0700</pubDate>
- </item>
- <item>
-  <title>WeWork Posts Best 2-Month Sales Streak Since 2019</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5512%2Fwework.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;More offices are looking for hybrid or remote-friendly setups, and WeWork is once again poised to scratch the labor market's newest itch. WeWork is tracking for $1.9 billion in revenue and aims to go public this year exactly how you'd expect: a $9 billion SPAC deal with BowX Acquisition Corp.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/21/wework-posts-best-2month-sales-streak-since-2019</link>
-  <author>Alex Hickey</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/wework-posts-best-2month-sales-streak-since-2019</guid>
-  <pubDate>Mon, 21 Jun 2021 14:26:11 -0700</pubDate>
  </item>
 
 </channel>
