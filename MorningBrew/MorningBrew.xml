@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/25/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/26/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/26/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/25</link>
- <lastBuildDate>Fri, 25 Jun 2021 15:08:15 -0700</lastBuildDate>
- <pubDate>Fri, 25 Jun 2021 15:08:15 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/26</link>
+ <lastBuildDate>Sat, 26 Jun 2021 03:03:10 -0700</lastBuildDate>
+ <pubDate>Sat, 26 Jun 2021 03:03:10 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Money Matters: Is a Financial Advisor Worth It? </title>
+  <description>&lt;img src='https://media.giphy.com/media/LdOyjZ7io5Msw/giphy.gif'&gt;&lt;br/&gt;Is it worth getting a financial advisor, and if so, how do I choose one? For example, consider a one-time financial review. Financial advisors look at your financial situation, get a feel for your goals, and make and manage a personalized investing plan.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/25/money-matters-financial-advisor-worth?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Ryan Lasker</author>
+  <categories>personal finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/25/money-matters-financial-advisor-worth?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 26 Jun 2021 03:01:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 26</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5569%2Fpolice_car.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Bicycling) Next up, he’s planning to launch a weekly variety show on HBO Max.Read: In honor of the Tour de France beginning today, check out the epic saga of Primož Roglič.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/25/key-performance-indicators-june-26?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/25/key-performance-indicators-june-26?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 26 Jun 2021 03:01:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Virgin Galactic Receives FAA Clearance to Take Passengers to Space</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F662%2Frichard_branson.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Billionaire Sir Richard Branson’s space travel company Virgin Galactic received FAA clearance yesterday to fly paying customers to space—great news for the 600 people on its waitlist eager to glimpse the curvature of Earth from 56 miles up. Zoom out: Developments in space travel, specifically space tourism, are moving at lightning speed.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/25/virgin-galactic-receives-faa-clearance-take-passengers-space?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/25/virgin-galactic-receives-faa-clearance-take-passengers-space?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 26 Jun 2021 03:01:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Springsteen Plays to a Full Audience in Big Moment for Broadway</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5568%2F7th_annual_stand_up_for.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Fun fact: The captain of the $1 billion ship, Kate McCue, was the first American woman to captain a cruise ship in 2015. At least 95% of the passengers are vaccinated against Covid-19, operator Celebrity Cruises said, and the ship will sail at 35% capacity.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/25/springsteen-plays-full-audience-big-moment-broadway?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/25/springsteen-plays-full-audience-big-moment-broadway?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 26 Jun 2021 03:01:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Consumer Spending Buoyed By Shoppers Updating Their Wardrobes</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5566%2Fgold_nike_shoes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Everyone’s feeling optimistic about retail this summer: Consumer spending on goods in May was 20% higher than in February 2020, a government report showed yesterday, and overall consumer spending (including services, which are starting to trend upward, too) is estimated to grow 9% this year—the fastest rate since 1946, per Oxford Economics. Nike predicted it’ll pass $50 billion in revenue this fiscal year for the first time thanks in part to a rapidly growing e-commerce biz. Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/25/consumer-spending-buoyed-shoppers-updating-wardrobes?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/25/consumer-spending-buoyed-shoppers-updating-wardrobes?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 26 Jun 2021 03:01:19 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 26</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3875%2Fcops_in_superbad.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s not easy to do, but try—try and do what you love with people you love. It’s not easy to do. (Bicycling) Next up, he’s planning to launch a weekly variety show on HBO Max.Read: In honor of the Tour de France beginning today, check out the epic saga of Primož Roglič.</description>
@@ -325,51 +370,6 @@
   <categories>games</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/word-search</guid>
   <pubDate>Tue, 22 Jun 2021 06:56:10 -0700</pubDate>
- </item>
- <item>
-  <title>Wingstop Launches Chicken Thigh Brand, Thighstop</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5514%2Fthighstop.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Thighstop won't just be a departure from Wingstop's namesake business. Wingstop's wholesale prices have risen from as little as 98 cents last year to over $3 now, according to the company's CEO.  Zoom out: Changing demographics have boosted dark meat's popularity in recent years.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/21/wingstop-launches-chicken-thigh-brand-thighstop?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>food and bev</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/wingstop-launches-chicken-thigh-brand-thighstop?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 22 Jun 2021 03:01:12 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 22</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4188%2Fcostco.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(NYT Magazine) Can it be fixed?  Read: Covid proved the CDC was broken. She's not alone: More people quit the retail industry in April (~649,000) than any other month on record.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/21/key-performance-indicators-june-22?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/key-performance-indicators-june-22?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 22 Jun 2021 03:01:12 -0700</pubDate>
- </item>
- <item>
-  <title>Spielberg's Amblin Partners Agrees to Make Movies for Netflix</title>
-  <description>&lt;img src='https://media.giphy.com/media/CogAtAK2r5M1W/giphy.gif'&gt;&lt;br/&gt;The company has agreed to produce two or more movies a year for the streamer, some of which could be directed by Spielberg himself. Bottom line: Striking a deal with Spielberg is a flex for Netflix; he has more Oscars under his belt than any other living filmmaker.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/21/spielbergs-amblin-partners-agrees-make-movies-netflix?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/spielbergs-amblin-partners-agrees-make-movies-netflix?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 22 Jun 2021 03:01:12 -0700</pubDate>
- </item>
- <item>
-  <title>WeWork Posts Best 2-Month Sales Streak Since 2019</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5512%2Fwework.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;More offices are looking for hybrid or remote-friendly setups, and WeWork is once again poised to scratch the labor market's newest itch. WeWork is tracking for $1.9 billion in revenue and aims to go public this year exactly how you'd expect: a $9 billion SPAC deal with BowX Acquisition Corp.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/21/wework-posts-best-2month-sales-streak-since-2019?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/wework-posts-best-2month-sales-streak-since-2019?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 22 Jun 2021 03:01:12 -0700</pubDate>
- </item>
- <item>
-  <title>Supreme Court Ruling Over Athlete Compensation Deals Blow to NCAA</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5513%2Fheisman_trophy_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;College athletes scored another big W in their looooong quest to get paid for their work on the field. For its part, the NCAA claims that compensating student athletes would undermine the “amateur” flavor of college sports, damaging fans' enjoyment of the product. At least seven states have passed bills allowing college athletes to make money from their names, images, and likenesses that go into effect next week. Yesterday, the US Supreme Court ruled unanimously that the NCAA cannot stop colleges from compensating student athletes, as long as that compensation is tied to education.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/21/supreme-court-ruling-athlete-compensation-deals-blow-ncaa?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/21/supreme-court-ruling-athlete-compensation-deals-blow-ncaa?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 22 Jun 2021 03:01:12 -0700</pubDate>
  </item>
 
 </channel>
