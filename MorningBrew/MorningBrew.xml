@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/26/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/26/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/27/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/27/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/26</link>
- <lastBuildDate>Sat, 26 Jun 2021 22:29:10 -0700</lastBuildDate>
- <pubDate>Sat, 26 Jun 2021 22:29:10 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/27</link>
+ <lastBuildDate>Sun, 27 Jun 2021 16:53:12 -0700</lastBuildDate>
+ <pubDate>Sun, 27 Jun 2021 16:53:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: June 28</title>
+  <description>&lt;img src='https://media.giphy.com/media/3mJMwCo0x7mAmCKnjb/giphy.gif'&gt;&lt;br/&gt;(Financial Times) Read: The tyranny of spreadsheets. That means scrapping traveler quarantines, daily case number announcements, and intensive contact tracing efforts.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/27/key-performance-indicators-june-28</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/key-performance-indicators-june-28</guid>
+  <pubDate>Sun, 27 Jun 2021 16:51:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>Intellia Therapeutics Announces Big Gene Editing Breakthrough in Early-Phase Trials</title>
+  <description>&lt;img src='https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif'&gt;&lt;br/&gt;For the first time, CRISPR technology has been used to successfully treat disease in vivo, or inside the human body. expect Intellia shares, which have gained 233% since its 2016 IPO, to pop today.  Looking ahead... And there’s not many moments in medicine where you get to experience that,” Intellia CEO John Leonard said.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/27/intellia-therapeutics-announces-big-gene-editing-breakthrough-earlyphase-trials</link>
+  <author>Neal Freyman</author>
+  <categories>health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/intellia-therapeutics-announces-big-gene-editing-breakthrough-earlyphase-trials</guid>
+  <pubDate>Sun, 27 Jun 2021 16:51:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>Extra Unemployment Benefits Are Drying Up </title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5571%2Fus-unemployment-job.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; In the states that cut off the extra payments the earliest, the number of workers who were paid benefits decreased 13.8% from mid-May to the week ending June 12. Businesses are desperate to hire workers, and many states think scrapping the extra $300/week in unemployment benefits, which the Biden administration incorporated into its pandemic relief bill, will spur more job-seeking. Ten more states including Florida, Ohio, and Texas ended extra unemployment benefits on Saturday. Earlier this month, the job site Indeed found that job search activity fell below the national trend in states that cut off extra benefits in June.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/27/extra-unemployment-benefits-drying</link>
+  <author>Neal Freyman</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/extra-unemployment-benefits-drying</guid>
+  <pubDate>Sun, 27 Jun 2021 16:51:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>Rescue Workers Continue to Search for Survivors of the Florida Condo Tower Collapse</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5572%2Fus-accident-construction-.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Officials are now considering whether or not to temporarily evacuate the sister building, Champlain Towers North, which is located right next door and was built around the same time.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/27/rescue-workers-continue-search-survivors-florida-condo-tower-collapse</link>
+  <author>Neal Freyman</author>
+  <categories>real estate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/rescue-workers-continue-search-survivors-florida-condo-tower-collapse</guid>
+  <pubDate>Sun, 27 Jun 2021 16:51:10 -0700</pubDate>
+ </item>
  <item>
   <title>Make it Work: First Job out of College</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;—Kimo            How exciting! Maintaining a relationship with someone who's been there, done that can help you avoid making preventable mistakes and boost your learning curve exponentially.</description>
@@ -334,42 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/us-likely-wont-hit-vaccination-goal-fourth-july-says-white-house?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 23 Jun 2021 03:01:13 -0700</pubDate>
- </item>
- <item>
-  <title>Tinder Rolls Out Biggest Update in Years</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5517%2Ftinder.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: With lockdowns mostly over, people are turning to dating apps to find new friends, benefits included or not. Some dating apps are taking a different approachBumble, an app known for requiring women to make the first move, is doubling down on its “Bumble BFF” feature to help nurture IRL friendships. And Match Group, which owns Tinder, recently acquired a South Korean company, Hyperconnect, that promotes conversations across borders and languages.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/22/tinder-rolls-biggest-update-years?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>dating</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/tinder-rolls-biggest-update-years?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 23 Jun 2021 03:01:13 -0700</pubDate>
- </item>
- <item>
-  <title>Tinder Rolls Out Biggest Update in Years</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5517%2Ftinder.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Videos: Tinder is letting users attach up to nine short videos to their profiles. Some dating apps are taking a different approachBumble, an app known for requiring women to make the first move, is doubling down on its “Bumble BFF” feature to help nurture IRL friendships. When dating in 2021, it pays to be hot on the inside. Bottom line: With lockdowns mostly over, people are turning to dating apps to find friends, benefits included or not.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/22/tinder-rolls-biggest-update-years</link>
-  <author>Neal Freyman</author>
-  <categories>dating</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/tinder-rolls-biggest-update-years</guid>
-  <pubDate>Tue, 22 Jun 2021 14:46:11 -0700</pubDate>
- </item>
- <item>
-  <title>Airlines Struggle to Handle Surge in Unruly Passengers and In-Flight Violence</title>
-  <description>&lt;img src='https://media.giphy.com/media/3o7qE2HzB4rOFQr4zK/giphy.gif'&gt;&lt;br/&gt;Someone needs to take away the FAA’s photoshop. While we’re here... American is cutting 1% of July flights and Delta announced plans to hire 1,000 more pilots by next summer.  Big picture: In general, airlines are struggling to accommodate the rebound in demand.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/22/airlines-struggle-handle-surge-unruly-passengers-inflight-violence</link>
-  <author>Matty Merritt</author>
-  <categories>travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/airlines-struggle-handle-surge-unruly-passengers-inflight-violence</guid>
-  <pubDate>Tue, 22 Jun 2021 14:46:10 -0700</pubDate>
- </item>
- <item>
-  <title>US Likely Won’t Hit Vaccination Goal by Fourth of July, Says White House</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Health officials are painting a portrait of “two Americas,” one in regions with high immunization rates and the other where they lag. Vaccines have been shown to protect against delta, but experts are warning of surges in regions with lower vaccination rates—like the South—this fall and winter.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/22/us-likely-wont-hit-vaccination-goal-fourth-july-says-white-house</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/us-likely-wont-hit-vaccination-goal-fourth-july-says-white-house</guid>
-  <pubDate>Tue, 22 Jun 2021 14:41:13 -0700</pubDate>
  </item>
 
 </channel>
