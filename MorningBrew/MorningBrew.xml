@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/27</link>
- <lastBuildDate>Sun, 27 Jun 2021 16:53:12 -0700</lastBuildDate>
- <pubDate>Sun, 27 Jun 2021 16:53:12 -0700</pubDate>
+ <lastBuildDate>Sun, 27 Jun 2021 16:58:20 -0700</lastBuildDate>
+ <pubDate>Sun, 27 Jun 2021 16:58:20 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: June 28</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5573%2Fthe_championship_-_wimble.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The biggest economic event of the week will be the release of the June jobs report, which will tell us more about the improving labor market and whether inflation will show up in the form of higher wages.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/27/week-ahead-june-28</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/week-ahead-june-28</guid>
+  <pubDate>Sun, 27 Jun 2021 16:56:19 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 28</title>
   <description>&lt;img src='https://media.giphy.com/media/3mJMwCo0x7mAmCKnjb/giphy.gif'&gt;&lt;br/&gt;(Financial Times) Read: The tyranny of spreadsheets. That means scrapping traveler quarantines, daily case number announcements, and intensive contact tracing efforts.</description>
@@ -360,15 +369,6 @@
   <author>Alex Hickey</author>
   <categories>real estate</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/blackstone-buy-rental-firm-home-partners-america-6b?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 23 Jun 2021 03:01:13 -0700</pubDate>
- </item>
- <item>
-  <title>US Likely Won’t Hit Vaccination Goal by Fourth of July, Says White House</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3759%2Fvaccine_clock.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Health officials are painting a portrait of “two Americas,” one in regions with high immunization rates and the other where they lag. Vaccines have been shown to protect against delta, but experts are warning of surges in regions with lower vaccination rates—like the South—this fall and winter.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/22/us-likely-wont-hit-vaccination-goal-fourth-july-says-white-house?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/us-likely-wont-hit-vaccination-goal-fourth-july-says-white-house?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 23 Jun 2021 03:01:13 -0700</pubDate>
  </item>
 
