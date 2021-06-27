@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/26</link>
- <lastBuildDate>Sat, 26 Jun 2021 03:03:10 -0700</lastBuildDate>
- <pubDate>Sat, 26 Jun 2021 03:03:10 -0700</pubDate>
+ <lastBuildDate>Sat, 26 Jun 2021 22:08:21 -0700</lastBuildDate>
+ <pubDate>Sat, 26 Jun 2021 22:08:21 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Icebreakers with… Chef José Andrés</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5560%2Fjose_andres.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It's the people of India coming together to heal and feed the people of India—it's really amazing. Can you tell us about your experience there? Back home, do you see #ChefsforAmerica winding down as we move out of the pandemic, or continuing in some other form? You and WCK recently spent some time in India serving meals to frontline workers. There are six days left to donate to Morning Brew's fundraiser for World Central Kitchen and secure a copy of our digital cookbook, Brunch with the Brew. You'll just have to follow me on TikTok for the best ones…maybe you can start with making cocktails in the snow. There are so many! You only get to eat one condiment for the rest of your life. They don't need to go stand in line for hours, and instead can pick up a meal from a restaurant or get it delivered, which hopefully makes it a little easier for families to get through the day.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/27/icebreakers-chef-jos-andrs</link>
+  <author>Alex Hickey</author>
+  <categories>qanda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/icebreakers-chef-jos-andrs</guid>
+  <pubDate>Sat, 26 Jun 2021 22:06:16 -0700</pubDate>
+ </item>
  <item>
   <title>Money Matters: Is a Financial Advisor Worth It? </title>
   <description>&lt;img src='https://media.giphy.com/media/LdOyjZ7io5Msw/giphy.gif'&gt;&lt;br/&gt;Is it worth getting a financial advisor, and if so, how do I choose one? For example, consider a one-time financial review. Financial advisors look at your financial situation, get a feel for your goals, and make and manage a personalized investing plan.</description>
@@ -361,15 +370,6 @@
   <categories>real estate</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/blackstone-buy-rental-firm-home-partners-america-6b</guid>
   <pubDate>Tue, 22 Jun 2021 14:31:14 -0700</pubDate>
- </item>
- <item>
-  <title>Word Search</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/22/word-search</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/word-search</guid>
-  <pubDate>Tue, 22 Jun 2021 06:56:10 -0700</pubDate>
  </item>
 
 </channel>
