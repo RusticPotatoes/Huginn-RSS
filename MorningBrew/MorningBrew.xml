@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/27/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/27/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/28/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/28/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/27</link>
- <lastBuildDate>Sun, 27 Jun 2021 16:58:20 -0700</lastBuildDate>
- <pubDate>Sun, 27 Jun 2021 16:58:20 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/28</link>
+ <lastBuildDate>Mon, 28 Jun 2021 03:03:13 -0700</lastBuildDate>
+ <pubDate>Mon, 28 Jun 2021 03:03:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: June 28</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5573%2Fthe_championship_-_wimble.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The biggest economic event of the week is the release of the June jobs report, which will tell us more about the improving labor market and whether inflation will show up in the form of higher wages.   Got any fun plans?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/27/week-ahead-june-28?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/week-ahead-june-28?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 28 Jun 2021 03:01:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 28</title>
+  <description>&lt;img src='https://media.giphy.com/media/3mJMwCo0x7mAmCKnjb/giphy.gif'&gt;&lt;br/&gt;(Financial Times) Read: The tyranny of spreadsheets. That means scrapping traveler quarantines, daily case number announcements, and intensive contact tracing efforts.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/27/key-performance-indicators-june-28?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/key-performance-indicators-june-28?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 28 Jun 2021 03:01:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Intellia Therapeutics Announces Big Gene Editing Breakthrough in Early-Phase Trials</title>
+  <description>&lt;img src='https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif'&gt;&lt;br/&gt;For the first time, CRISPR technology has been used to successfully treat disease in vivo, or inside the human body. expect Intellia shares, which have gained 233% since its 2016 IPO, to pop today.  Looking ahead... And there’s not many moments in medicine where you get to experience that,” Intellia CEO John Leonard said.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/27/intellia-therapeutics-announces-big-gene-editing-breakthrough-earlyphase-trials?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/intellia-therapeutics-announces-big-gene-editing-breakthrough-earlyphase-trials?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 28 Jun 2021 03:01:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Rescue Workers Continue to Search for Survivors of the Florida Condo Tower Collapse</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5572%2Fus-accident-construction-.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Officials are now considering whether or not to temporarily evacuate the sister building, Champlain Towers North, which is located right next door and was built around the same time.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/27/rescue-workers-continue-search-survivors-florida-condo-tower-collapse?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>real estate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/rescue-workers-continue-search-survivors-florida-condo-tower-collapse?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 28 Jun 2021 03:01:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Extra Unemployment Benefits Are Drying Up </title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5571%2Fus-unemployment-job.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Businesses are desperate to hire workers, and many states think scrapping the extra $300/week in unemployment benefits, which the Biden administration incorporated into its pandemic relief bill, will spur more job-seeking.  In the states that cut off the extra payments the earliest, the number of workers who were paid benefits decreased 13.8% from mid-May to mid-June. On Capitol Hill last week, Fed Chair Jerome Powell said that extra benefits could be playing a role in the worker shortage problem, but focused his attention on other challenges holding back the job market.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/27/extra-unemployment-benefits-drying?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/extra-unemployment-benefits-drying?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 28 Jun 2021 03:01:12 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: June 28</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5573%2Fthe_championship_-_wimble.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The biggest economic event of the week will be the release of the June jobs report, which will tell us more about the improving labor market and whether inflation will show up in the form of higher wages.</description>
@@ -325,51 +370,6 @@
   <categories>hospitality</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/23/resorts-world-opens-las-vegas</guid>
   <pubDate>Wed, 23 Jun 2021 14:56:18 -0700</pubDate>
- </item>
- <item>
-  <title>Supreme Court Hands Down Major Rulings on Farms, Free Speech, and Fannie and Freddie</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5535%2Fsupreme_court.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Supreme Court didn’t buy that, but did concede that the structure of the agency that oversees Fannie and Freddie is unconstitutional. Yesterday, the Supreme Court struck down a regulation that allowed union organizers to meet with agricultural workers during their lunch breaks and for one hour before and after their shifts, on up to 120 days a year.  Bottom line: Because Levy didn’t bully anyone or post her frustrations during school, SCOTUS said she had the right to be an angry teen. The school banned Levy from cheer for a full year and her (clearly cool) dad got the ACLU involved, claiming that the school violated her First Amendment rights.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/23/supreme-court-hands-major-rulings-farms-free-speech-fannie-freddie</link>
-  <author>Jamie Wilde</author>
-  <categories>legal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/23/supreme-court-hands-major-rulings-farms-free-speech-fannie-freddie</guid>
-  <pubDate>Wed, 23 Jun 2021 14:46:15 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Mini: Query</title>
-  <description>&lt;img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/23/brew-mini-query</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/23/brew-mini-query</guid>
-  <pubDate>Wed, 23 Jun 2021 10:26:17 -0700</pubDate>
- </item>
- <item>
-  <title>Airlines Struggle to Handle Surge in Unruly Passengers and In-Flight Violence</title>
-  <description>&lt;img src='https://media.giphy.com/media/3o7qE2HzB4rOFQr4zK/giphy.gif'&gt;&lt;br/&gt;Someone needs to take away the FAA’s photoshop. While we’re here... American is cutting 1% of July flights and Delta announced plans to hire 1,000 more pilots by next summer.  Big picture: In general, airlines are struggling to accommodate the rebound in demand.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/22/airlines-struggle-handle-surge-unruly-passengers-inflight-violence?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/airlines-struggle-handle-surge-unruly-passengers-inflight-violence?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 23 Jun 2021 03:01:13 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 23</title>
-  <description>&lt;img src='https://media.giphy.com/media/3mJMwCo0x7mAmCKnjb/giphy.gif'&gt;&lt;br/&gt;(The Ringer) Read: The rise of the $10 million disc golf celebrity.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/22/key-performance-indicators-june-23?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/key-performance-indicators-june-23?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 23 Jun 2021 03:01:13 -0700</pubDate>
- </item>
- <item>
-  <title>Blackstone to Buy Rental Firm Home Partners of America for $6B</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F106%2Fhousing_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Now, the firm (and others) want back in on the soaring housing market, where last month median home prices rose almost 24% annually to break $350k. After the 2008 crash, Wall Street firms like Blackstone scooped up foreclosed homes on the cheap.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/22/blackstone-buy-rental-firm-home-partners-america-6b?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Alex Hickey</author>
-  <categories>real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/22/blackstone-buy-rental-firm-home-partners-america-6b?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 23 Jun 2021 03:01:13 -0700</pubDate>
  </item>
 
 </channel>
