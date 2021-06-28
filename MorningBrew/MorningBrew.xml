@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/28</link>
- <lastBuildDate>Mon, 28 Jun 2021 15:03:14 -0700</lastBuildDate>
- <pubDate>Mon, 28 Jun 2021 15:03:14 -0700</pubDate>
+ <lastBuildDate>Mon, 28 Jun 2021 15:08:16 -0700</lastBuildDate>
+ <pubDate>Mon, 28 Jun 2021 15:08:16 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Two Big Banks Announce Hybrid Work Schedules Amid ‘Get Back to the Office’ Attitude on Wall Street</title>
+  <description>&lt;img src='https://media.giphy.com/media/S8B6TDNnZdbTRxnoXU/giphy.gif'&gt;&lt;br/&gt;Bottom line: Both UBS and Synchrony hope that offering flexible work schedules will help them retain and attract employees, which is necessary since 41% of employees globally are considering leaving their current employer this year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/28/two-big-banks-announce-hybrid-work-schedules-amid-get-back-office-attitude-wall-street</link>
+  <author>Matty Merritt</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/28/two-big-banks-announce-hybrid-work-schedules-amid-get-back-office-attitude-wall-street</guid>
+  <pubDate>Mon, 28 Jun 2021 15:06:15 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: June 29</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5589%2Fcooling_off_amid_the_heat_wave_in_the_northwest.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Vox) Read: Why does it cost so much to build things in America? Kim’s health is closely watched by foreign powers, because he hasn’t appointed a successor.</description>
@@ -361,15 +370,6 @@
   <categories>legal</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/23/supreme-court-hands-major-rulings-farms-free-speech-fannie-freddie?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 24 Jun 2021 03:01:21 -0700</pubDate>
- </item>
- <item>
-  <title>Britney Spears Asks Judge to End Her Conservatorship in Public Testimony</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5538%2Ffreebritney_protest.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday, Britney Spears gave a public statement to an LA County Superior Court about her 13-year conservatorship, the first time she’s spoken publicly since 2019. . Spears’s story is one filled with speculation, but yesterday’s statement was the first time she publicly spoke against the conservatorship and her father.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/23/britney-spears-asks-judge-end-conservatorship-public-testimony</link>
-  <author>Matty Merritt</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/23/britney-spears-asks-judge-end-conservatorship-public-testimony</guid>
-  <pubDate>Wed, 23 Jun 2021 15:21:13 -0700</pubDate>
  </item>
 
 </channel>
