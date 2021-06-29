@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/29</link>
- <lastBuildDate>Tue, 29 Jun 2021 14:38:12 -0700</lastBuildDate>
- <pubDate>Tue, 29 Jun 2021 14:38:12 -0700</pubDate>
+ <lastBuildDate>Tue, 29 Jun 2021 14:43:14 -0700</lastBuildDate>
+ <pubDate>Tue, 29 Jun 2021 14:43:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>United Makes Big Bet on the Future of Air Travel</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5595%2Fcatalogue_of_plane.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yes, we actually mean actual business travel “Everything we see every week makes us even more certain that business travel and international travel are ultimately going to come back,” United CEO Scott Kirby said. Fast forward to yesterday, and United Airlines just placed its largest plane order ever and the biggest of any airline in a decade. One does not simply order 270 state-of-the-art planes worth more than $30 billion and then leave them unopened in the hangar.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/29/united-makes-big-bet-future-air-travel</link>
+  <author>Neal Freyman</author>
+  <categories>aviation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/29/united-makes-big-bet-future-air-travel</guid>
+  <pubDate>Tue, 29 Jun 2021 14:41:12 -0700</pubDate>
+ </item>
  <item>
   <title>US Home Price Growth Hits a Record High in April</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Actually, experts say the housing market won’t implode like it did 10 years ago. Home prices in cities like Phoenix, San Diego, and Seattle are all up more than 20% year over year. You might be better off getting creative, like these folks: A Bethesda, MD, homebuyer pledged to name her first-born child after the seller in a written offer.</description>
@@ -361,15 +370,6 @@
   <categories>media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/24/buzzfeeds-got-spac-values-media-company-15-billion</guid>
   <pubDate>Thu, 24 Jun 2021 14:56:12 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 25</title>
-  <description>&lt;img src='https://media.giphy.com/media/77F1Ogb2A1fy0LESQO/giphy.gif'&gt;&lt;br/&gt;(Rolling Stone) Then he went too far. Read: David Dobrik was the king of YouTube. He told the AP he expects the pet business to keep booming as people move into larger, suburban houses and workplaces become more pet-friendly.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/24/key-performance-indicators-june-25</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/24/key-performance-indicators-june-25</guid>
-  <pubDate>Thu, 24 Jun 2021 14:51:18 -0700</pubDate>
  </item>
 
 </channel>
