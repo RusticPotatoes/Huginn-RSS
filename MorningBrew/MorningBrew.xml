@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/28/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/28/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/06/29/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/06/29/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/28</link>
- <lastBuildDate>Mon, 28 Jun 2021 15:24:14 -0700</lastBuildDate>
- <pubDate>Mon, 28 Jun 2021 15:24:14 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/06/29</link>
+ <lastBuildDate>Tue, 29 Jun 2021 03:03:18 -0700</lastBuildDate>
+ <pubDate>Tue, 29 Jun 2021 03:03:18 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>MWC Returns to Barcelona After One-Year Hiatus</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5584%2Fwoman_trying_a_virtual_reality_headset.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The line for coffee will be much shorter than usual. Looking ahead... In a non-Covid year, MWC generates $516 million and 14,000 part-time jobs for the local economy. Zoom out: Barcelona hopes enough of those virtual attendees get FOMO and buy plane tickets for next year's show.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/28/mwc-returns-barcelona-oneyear-hiatus?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/28/mwc-returns-barcelona-oneyear-hiatus?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 29 Jun 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: June 29</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5589%2Fcooling_off_amid_the_heat_wave_in_the_northwest.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Vox) Read: Why does it cost so much to build things in America? Kim’s health is closely watched by foreign powers, because he hasn’t appointed a successor.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/28/key-performance-indicators-june-29?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/28/key-performance-indicators-june-29?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 29 Jun 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Two Big Banks Announce Hybrid Work Schedules Amid ‘Get Back to the Office’ Attitude on Wall Street</title>
+  <description>&lt;img src='https://media.giphy.com/media/S8B6TDNnZdbTRxnoXU/giphy.gif'&gt;&lt;br/&gt;Bottom line: Both UBS and Synchrony hope that offering flexible work schedules will help them retain and attract workers, which is necessary since 41% of employees globally are considering leaving their current employer this year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/28/two-big-banks-announce-hybrid-work-schedules-amid-get-back-office-attitude-wall-street?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/28/two-big-banks-announce-hybrid-work-schedules-amid-get-back-office-attitude-wall-street?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 29 Jun 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Facebook Hits $1 Trillion Market Cap After FTC Complaint is Dismissed</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5594%2Fzuck_spear_throwing.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yesterday was better for Facebook than when Brenda Song agreed to be in The Social Network. while this is a setback for regulators, Facebook isn’t in the clear yet. The first US company to hit a $1 trillion valuation was Apple in 2018, and since then Microsoft, Amazon, and Alphabet have all joined.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/28/facebook-hits-1-trillion-market-cap-ftc-complaint-dismissed?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>antitrust</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/28/facebook-hits-1-trillion-market-cap-ftc-complaint-dismissed?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 29 Jun 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Juul Agrees to Pay $40 million to Settle North Carolina Vaping Case</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5592%2Fjuul.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;When Altria, the tobacco giant that owns Marlboro, bought a 35% stake in Juul in 2018, Juul was valued at $38 billion. The same year, the FDA called teen vaping an “epidemic” and started to crack down on Juul and other e-cig companies. Although Juul insisted that its products were intended for adults, its marketing strategies said otherwise... as of last summer, Juul was facing 758 lawsuits across the US. Juul released fruit-flavored pods that went viral among teens (it's pulled most flavors since). That verdict is expected by September.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/28/juul-agrees-pay-40-million-settle-north-carolina-vaping-case?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>e cig</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/28/juul-agrees-pay-40-million-settle-north-carolina-vaping-case?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 29 Jun 2021 03:01:17 -0700</pubDate>
+ </item>
  <item>
   <title>Juul Agrees to Pay $40 million to Settle North Carolina Vaping Case</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5591%2Fjuul.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; “You only have to walk through any high school parking lot in North Carolina to see how pervasive Juul is among young people in our state,” the state Attorney G Josh Stein said. The same year, the FDA called teen vaping an “epidemic” and started to crack down on Juul and other e-cig companies. When Altria, the tobacco giant that owns Marlboro, bought a 35% stake in Juul in 2018, Juul was valued at $38 billion. The value of Juul plummeted to $4.5 billion. Juul invented fruit flavored e-cigarette pods that went viral among teens. as of July 22, 2020, Juul was facing 758 lawsuits across the US.</description>
@@ -325,51 +370,6 @@
   <categories>infrastructure</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/24/president-biden-group-bipartisan-senators-reach-infrastructure-deal</guid>
   <pubDate>Thu, 24 Jun 2021 14:51:18 -0700</pubDate>
- </item>
- <item>
-  <title>Microsoft Hits $2T Market Cap, Shows off Major Windows Update</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5548%2Fmicrosoft_windows_11.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;. Microsoft was incorporated 40 years ago today, but instead of installing a barn door in its master bathroom, the company closed above a $2 trillion market cap for the first time this week and unveiled its first major Windows update in years.    Six bills that could reshape antitrust law in the US cleared a major hurdle yesterday morning. until now?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/24/microsoft-hits-2t-market-cap-shows-off-major-windows-update</link>
-  <author>Alex Hickey</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/24/microsoft-hits-2t-market-cap-shows-off-major-windows-update</guid>
-  <pubDate>Thu, 24 Jun 2021 14:46:11 -0700</pubDate>
- </item>
- <item>
-  <title>Resorts World Opens in Las Vegas</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5537%2Fresorts_world.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Big picture: Las Vegas is firmly in a post-Covid mentality right now, bringing visitors back to its business conventions and entertainment options. large:With a price tag of $4.3 billion, Resorts World is the most expensive property ever developed in the city.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/23/resorts-world-opens-las-vegas?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>hospitality</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/23/resorts-world-opens-las-vegas?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 24 Jun 2021 03:01:22 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 24</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5534%2Fus-transportation-southwe.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Medium)  Read: Why didn’t bullet journaling work for me? Buffett has pledged to give away about 99% of his net worth.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/23/key-performance-indicators-june-24?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/23/key-performance-indicators-june-24?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 24 Jun 2021 03:01:21 -0700</pubDate>
- </item>
- <item>
-  <title>Britney Spears Asks Judge to End Her Conservatorship in Public Testimony</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5538%2Ffreebritney_protest.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In her most public statement to date about her personal affairs, Britney Spears told an LA probate judge that she wants to end the conservatorship she's been under for 13 years." Big picture: Spears’s story gained traction after her fans started the #FreeBritney movement in 2019.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/23/britney-spears-asks-judge-end-conservatorship-public-testimony?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/23/britney-spears-asks-judge-end-conservatorship-public-testimony?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 24 Jun 2021 03:01:21 -0700</pubDate>
- </item>
- <item>
-  <title>Hong Kong’s Largest Pro-Democracy Paper Shuts Down</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5536%2Fpro-democracy_news_paper.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;the former chair of the Hong Kong Journalists Association said, “Police did not rule out the possibility of more arrests, and the next [target] could be other media.”  Radio Television Hong Kong (RTHK) was forced to swap its station head with a career politician with no journalism experience.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/23/hong-kongs-largest-prodemocracy-paper-shuts?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>international</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/23/hong-kongs-largest-prodemocracy-paper-shuts?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 24 Jun 2021 03:01:21 -0700</pubDate>
  </item>
 
 </channel>
