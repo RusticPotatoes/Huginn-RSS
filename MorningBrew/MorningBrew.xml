@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/29</link>
- <lastBuildDate>Tue, 29 Jun 2021 03:03:18 -0700</lastBuildDate>
- <pubDate>Tue, 29 Jun 2021 03:03:18 -0700</pubDate>
+ <lastBuildDate>Tue, 29 Jun 2021 14:38:12 -0700</lastBuildDate>
+ <pubDate>Tue, 29 Jun 2021 14:38:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>US Home Price Growth Hits a Record High in April</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Actually, experts say the housing market won’t implode like it did 10 years ago. Home prices in cities like Phoenix, San Diego, and Seattle are all up more than 20% year over year. You might be better off getting creative, like these folks: A Bethesda, MD, homebuyer pledged to name her first-born child after the seller in a written offer.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/29/us-home-price-growth-hits-record-high-april</link>
+  <author>Sherry Qin</author>
+  <categories>real estate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/29/us-home-price-growth-hits-record-high-april</guid>
+  <pubDate>Tue, 29 Jun 2021 14:36:10 -0700</pubDate>
+ </item>
  <item>
   <title>MWC Returns to Barcelona After One-Year Hiatus</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5584%2Fwoman_trying_a_virtual_reality_headset.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The line for coffee will be much shorter than usual. Looking ahead... In a non-Covid year, MWC generates $516 million and 14,000 part-time jobs for the local economy. Zoom out: Barcelona hopes enough of those virtual attendees get FOMO and buy plane tickets for next year's show.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/24/key-performance-indicators-june-25</guid>
-  <pubDate>Thu, 24 Jun 2021 14:51:18 -0700</pubDate>
- </item>
- <item>
-  <title>President Biden, Group of Bipartisan Senators Reach an Infrastructure Deal</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2887%2Fjoe_biden_amtrak.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  House Speaker Nancy Pelosi said her chamber would only take up the infrastructure plan if Democrats were able to push through a separate spending package. don't start daydreaming about good train wi-fi yet, because the plan still has a ways to go to become law. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/24/president-biden-group-bipartisan-senators-reach-infrastructure-deal</link>
-  <author>Matty Merritt</author>
-  <categories>infrastructure</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/24/president-biden-group-bipartisan-senators-reach-infrastructure-deal</guid>
   <pubDate>Thu, 24 Jun 2021 14:51:18 -0700</pubDate>
  </item>
 
