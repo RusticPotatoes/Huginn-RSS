@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/29</link>
- <lastBuildDate>Tue, 29 Jun 2021 14:43:14 -0700</lastBuildDate>
- <pubDate>Tue, 29 Jun 2021 14:43:14 -0700</pubDate>
+ <lastBuildDate>Tue, 29 Jun 2021 15:03:10 -0700</lastBuildDate>
+ <pubDate>Tue, 29 Jun 2021 15:03:10 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Facebook Launches Bulletin, Its Subscription Newsletter Service</title>
+  <description>&lt;img src='https://media.giphy.com/media/jqU6OtxNhty3DuMz6h/giphy.gif'&gt;&lt;br/&gt; Zoom out: Bulletin is Facebook’s latest product that chases individual creators; its previous launch was a Clubhouse competitor for live audio content, which Zuck used to announce Bulletin. The other major competitor in the space is Twitter, because it purchased newsletter platform Revue in January.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/29/facebook-launches-bulletin-subscription-newsletter-service</link>
+  <author>Jamie Wilde</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/29/facebook-launches-bulletin-subscription-newsletter-service</guid>
+  <pubDate>Tue, 29 Jun 2021 15:01:18 -0700</pubDate>
+ </item>
  <item>
   <title>United Makes Big Bet on the Future of Air Travel</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5595%2Fcatalogue_of_plane.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yes, we actually mean actual business travel “Everything we see every week makes us even more certain that business travel and international travel are ultimately going to come back,” United CEO Scott Kirby said. Fast forward to yesterday, and United Airlines just placed its largest plane order ever and the biggest of any airline in a decade. One does not simply order 270 state-of-the-art planes worth more than $30 billion and then leave them unopened in the hangar.</description>
@@ -361,15 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/24/microsoft-hits-2t-market-cap-shows-off-major-windows-update?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 25 Jun 2021 03:01:16 -0700</pubDate>
- </item>
- <item>
-  <title>BuzzFeed's Got a SPAC That Values the Media Company at $1.5 Billion</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5550%2Fbuzzfeed_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;BuzzFeed wants to scoop up more media companies and use that muscle to grab market share from the most powerful throuple in digital ads: Google, Facebook, and Amazon, which accounted for almost 90% of the US digital ad market in 2020, per ad agency GroupM. Now, BuzzFeed is in growth mode.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/24/buzzfeeds-got-spac-values-media-company-15-billion</link>
-  <author>Matty Merritt</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/24/buzzfeeds-got-spac-values-media-company-15-billion</guid>
-  <pubDate>Thu, 24 Jun 2021 14:56:12 -0700</pubDate>
  </item>
 
 </channel>
