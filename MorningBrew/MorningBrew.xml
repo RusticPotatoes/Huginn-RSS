@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/30</link>
- <lastBuildDate>Wed, 30 Jun 2021 14:58:10 -0700</lastBuildDate>
- <pubDate>Wed, 30 Jun 2021 14:58:10 -0700</pubDate>
+ <lastBuildDate>Wed, 30 Jun 2021 15:03:12 -0700</lastBuildDate>
+ <pubDate>Wed, 30 Jun 2021 15:03:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 1</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1823%2Fbig_tech_under_the_antitrust_spotlight.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: What deadlines do to lifetimes. The department, whose alumni include Meryl Streep and Lupita Nyong’o, will be renamed the David Geffen School of Drama at Yale, proving nothing is truly free.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/30/key-performance-indicators-july-1</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/key-performance-indicators-july-1</guid>
+  <pubDate>Wed, 30 Jun 2021 15:01:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>New York Has The Worst Traffic In The US</title>
+  <description>&lt;img src='https://media.giphy.com/media/xT5LMFVIKfCsH0rkoo/giphy.gif'&gt;&lt;br/&gt;Zoom out: The average metropolitan driver spent ~41 hours in traffic last year, but those in the US’s five most-congested metro areas spent much more:New York-Newark: 56Boston: 50Houston: 49Los Angeles-Long Beach-Anaheim: 46San Francisco-Oakland: 46Bottom line: Like the Knicks’ playoff appearance, this traffic ranking is a pandemic-era anomaly.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/30/new-york-worst-traffic-us</link>
+  <author>Jamie Wilde</author>
+  <categories>traffic</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/new-york-worst-traffic-us</guid>
+  <pubDate>Wed, 30 Jun 2021 15:01:11 -0700</pubDate>
+ </item>
  <item>
   <title>China's Communist Party Turns 100</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5617%2Ffireworks_in_china.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; After the Communists gained power in the 1949 revolution, Mao initiated a series of disastrous economic reforms that led to the deaths of tens of millions of people. Since the liberalization of China’s economy, the country has developed a close economic relationship with the West—just last week Nike’s CEO said, “Nike is a brand that is of China and for China.” Bottom line: At 100 years old, the Communist Party remains a potent global force led by a president who could be the first since Mao to rule until he dies.</description>
@@ -352,24 +370,6 @@
   <categories>qanda</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/icebreakers-chef-jos-andrs</guid>
   <pubDate>Sat, 26 Jun 2021 22:06:16 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: Is a Financial Advisor Worth It? </title>
-  <description>&lt;img src='https://media.giphy.com/media/LdOyjZ7io5Msw/giphy.gif'&gt;&lt;br/&gt;Is it worth getting a financial advisor, and if so, how do I choose one? For example, consider a one-time financial review. Financial advisors look at your financial situation, get a feel for your goals, and make and manage a personalized investing plan.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/25/money-matters-financial-advisor-worth?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/25/money-matters-financial-advisor-worth?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 26 Jun 2021 03:01:19 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 26</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5569%2Fpolice_car.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Bicycling) Next up, he’s planning to launch a weekly variety show on HBO Max.Read: In honor of the Tour de France beginning today, check out the epic saga of Primož Roglič.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/25/key-performance-indicators-june-26?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/25/key-performance-indicators-june-26?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 26 Jun 2021 03:01:19 -0700</pubDate>
  </item>
 
 </channel>
