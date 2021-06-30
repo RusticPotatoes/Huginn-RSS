@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/30</link>
- <lastBuildDate>Wed, 30 Jun 2021 14:53:18 -0700</lastBuildDate>
- <pubDate>Wed, 30 Jun 2021 14:53:18 -0700</pubDate>
+ <lastBuildDate>Wed, 30 Jun 2021 14:58:10 -0700</lastBuildDate>
+ <pubDate>Wed, 30 Jun 2021 14:58:10 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>China's Communist Party Turns 100</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5617%2Ffireworks_in_china.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; After the Communists gained power in the 1949 revolution, Mao initiated a series of disastrous economic reforms that led to the deaths of tens of millions of people. Since the liberalization of China’s economy, the country has developed a close economic relationship with the West—just last week Nike’s CEO said, “Nike is a brand that is of China and for China.” Bottom line: At 100 years old, the Communist Party remains a potent global force led by a president who could be the first since Mao to rule until he dies.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/30/chinas-communist-party-turns-100</link>
+  <author>Neal Freyman</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/chinas-communist-party-turns-100</guid>
+  <pubDate>Wed, 30 Jun 2021 14:56:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Finra Levies Robinhood Its Biggest Fine Ever</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5618%2Frobinhood_finra_fine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Some examples:A feature that was supposed to allow users to block their ability to trade with borrowed money did not work for certain trades. Finra accused Robinhood of misleading customers and for failing to provide support to them when asked. Glitches resulted in traders seeing inaccurate balances. Its paperwork is expected any day now.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/30/finra-levies-robinhood-biggest-fine-ever</link>
+  <author>Jamie Wilde</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/finra-levies-robinhood-biggest-fine-ever</guid>
+  <pubDate>Wed, 30 Jun 2021 14:56:18 -0700</pubDate>
+ </item>
  <item>
   <title>Amazon Files Motion to Remove Lina Khan From the Company’s Antitrust Investigations</title>
   <description>&lt;img src='https://media.giphy.com/media/TYyIBf1OYC2oo/giphy.gif'&gt;&lt;br/&gt;Amazon filed a motion yesterday to keep Federal Trade Commission Chairwoman Lina Khan out of ongoing antitrust investigations because of her past criticisms of the company. The Yale Law grad was sworn in as chair of the FTC this month.</description>
@@ -351,24 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/25/key-performance-indicators-june-26?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 26 Jun 2021 03:01:19 -0700</pubDate>
- </item>
- <item>
-  <title>Virgin Galactic Receives FAA Clearance to Take Passengers to Space</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F662%2Frichard_branson.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Billionaire Sir Richard Branson’s space travel company Virgin Galactic received FAA clearance yesterday to fly paying customers to space—great news for the 600 people on its waitlist eager to glimpse the curvature of Earth from 56 miles up. Zoom out: Developments in space travel, specifically space tourism, are moving at lightning speed.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/25/virgin-galactic-receives-faa-clearance-take-passengers-space?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/25/virgin-galactic-receives-faa-clearance-take-passengers-space?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 26 Jun 2021 03:01:19 -0700</pubDate>
- </item>
- <item>
-  <title>Springsteen Plays to a Full Audience in Big Moment for Broadway</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5568%2F7th_annual_stand_up_for.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Fun fact: The captain of the $1 billion ship, Kate McCue, was the first American woman to captain a cruise ship in 2015. At least 95% of the passengers are vaccinated against Covid-19, operator Celebrity Cruises said, and the ship will sail at 35% capacity.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/25/springsteen-plays-full-audience-big-moment-broadway?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/25/springsteen-plays-full-audience-big-moment-broadway?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 26 Jun 2021 03:01:19 -0700</pubDate>
  </item>
 
