@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/06/30</link>
- <lastBuildDate>Wed, 30 Jun 2021 03:03:13 -0700</lastBuildDate>
- <pubDate>Wed, 30 Jun 2021 03:03:13 -0700</pubDate>
+ <lastBuildDate>Wed, 30 Jun 2021 04:18:13 -0700</lastBuildDate>
+ <pubDate>Wed, 30 Jun 2021 04:18:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Time Capsule: Q2 2021</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5601%2Ftime_capsule_q2_2021.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Here are some of the craziest facts we learned: College coaches were the highest-paid public employees in 40 states in 2019. More twins are being born now than at any point in history.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/30/time-capsule-q2-2021</link>
+  <author>Matty Merritt</author>
+  <categories>culture</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/time-capsule-q2-2021</guid>
+  <pubDate>Wed, 30 Jun 2021 04:16:11 -0700</pubDate>
+ </item>
  <item>
   <title>Facebook Launches Bulletin, Its Subscription Newsletter Service</title>
   <description>&lt;img src='https://media.giphy.com/media/jqU6OtxNhty3DuMz6h/giphy.gif'&gt;&lt;br/&gt; Zoom out: Bulletin is Facebook’s latest product that chases individual creators; its previous launch was a Clubhouse competitor for live audio content, which Zuck used to announce Bulletin. The other major competitor in the space is Twitter, after it purchased newsletter platform Revue in January.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/25/key-performance-indicators-june-26</guid>
   <pubDate>Fri, 25 Jun 2021 15:06:14 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: Is a Financial Advisor Worth It? </title>
-  <description>&lt;img src='https://media.giphy.com/media/LdOyjZ7io5Msw/giphy.gif'&gt;&lt;br/&gt;Is it worth getting a financial advisor, and if so, how do I choose one? For example, consider a one-time financial review. Financial advisors look at your financial situation, get a feel for your goals, and make and manage a personalized investing plan.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/25/money-matters-financial-advisor-worth</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/25/money-matters-financial-advisor-worth</guid>
-  <pubDate>Fri, 25 Jun 2021 15:01:12 -0700</pubDate>
  </item>
 
 </channel>
