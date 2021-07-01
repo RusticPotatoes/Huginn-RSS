@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/06/30/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/06/30/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/01/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/06/30</link>
- <lastBuildDate>Wed, 30 Jun 2021 15:03:12 -0700</lastBuildDate>
- <pubDate>Wed, 30 Jun 2021 15:03:12 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/01</link>
+ <lastBuildDate>Thu, 01 Jul 2021 03:03:12 -0700</lastBuildDate>
+ <pubDate>Thu, 01 Jul 2021 03:03:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>New York Has The Worst Traffic In The US</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5621%2Fentertainment_tourism_i.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: The average metropolitan driver spent ~41 hours in traffic last year, but drivers in the US’ five most-congested metro areas spent much more:New York-Newark: 56Boston: 50Houston: 49Los Angeles-Long Beach-Anaheim: 46San Francisco-Oakland: 46Bottom line: Like the Knicks’ playoff appearance, this traffic ranking is a pandemic-era anomaly.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/30/new-york-worst-traffic-us?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>traffic</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/new-york-worst-traffic-us?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 01 Jul 2021 03:01:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: July 1</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1823%2Fbig_tech_under_the_antitrust_spotlight.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: What deadlines do to lifetimes. The department, whose alumni include Meryl Streep and Lupita Nyong’o, will be renamed the David Geffen School of Drama at Yale, proving nothing is truly free.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/30/key-performance-indicators-july-1?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/key-performance-indicators-july-1?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 01 Jul 2021 03:01:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>Amazon Files Motion to Remove Lina Khan From the Company’s Antitrust Investigations</title>
+  <description>&lt;img src='https://media.giphy.com/media/TYyIBf1OYC2oo/giphy.gif'&gt;&lt;br/&gt;Amazon filed a motion yesterday to keep Federal Trade Commission Chairwoman Lina Khan out of ongoing antitrust investigations because of her past criticisms of the company. The Yale Law grad was sworn in as chair of the FTC this month.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/30/amazon-files-motion-remove-lina-khan-companys-antitrust-investigations?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>antitrust</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/amazon-files-motion-remove-lina-khan-companys-antitrust-investigations?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 01 Jul 2021 03:01:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>Finra Levies Robinhood Its Biggest Fine Ever</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5618%2Frobinhood_finra_fine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Some examples:A feature that was supposed to allow users to block their ability to trade with borrowed money did not work for certain trades. Finra accused Robinhood of misleading customers and for failing to provide support to them when asked. Glitches resulted in traders seeing inaccurate balances. Its IPO paperwork is expected any day now.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/30/finra-levies-robinhood-biggest-fine-ever?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/finra-levies-robinhood-biggest-fine-ever?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 01 Jul 2021 03:01:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>China's Communist Party Turns 100</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5622%2Fchina_ceremony.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Since the liberalization of China’s economy, the country has developed a close business relationship with the West—just last week Nike’s CEO said, “Nike is a brand that is of China and for China.”  After the Communists gained power in the 1949 revolution, Mao initiated a series of disastrous economic reforms that led to the deaths of tens of millions of people. Bottom line: At 100 years old, the Communist Party remains a potent global force led by a president who could be the first since Mao to rule until he dies. Its caginess around the origins of Covid-19 has made things worse.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/06/30/chinas-communist-party-turns-100?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/chinas-communist-party-turns-100?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 01 Jul 2021 03:01:11 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 1</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1823%2Fbig_tech_under_the_antitrust_spotlight.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: What deadlines do to lifetimes. The department, whose alumni include Meryl Streep and Lupita Nyong’o, will be renamed the David Geffen School of Drama at Yale, proving nothing is truly free.</description>
@@ -325,51 +370,6 @@
   <categories>health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/intellia-therapeutics-announces-big-gene-editing-breakthrough-earlyphase-trials</guid>
   <pubDate>Sun, 27 Jun 2021 16:51:11 -0700</pubDate>
- </item>
- <item>
-  <title>Extra Unemployment Benefits Are Drying Up </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5571%2Fus-unemployment-job.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; In the states that cut off the extra payments the earliest, the number of workers who were paid benefits decreased 13.8% from mid-May to the week ending June 12. Businesses are desperate to hire workers, and many states think scrapping the extra $300/week in unemployment benefits, which the Biden administration incorporated into its pandemic relief bill, will spur more job-seeking. Ten more states including Florida, Ohio, and Texas ended extra unemployment benefits on Saturday. Earlier this month, the job site Indeed found that job search activity fell below the national trend in states that cut off extra benefits in June.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/27/extra-unemployment-benefits-drying</link>
-  <author>Neal Freyman</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/extra-unemployment-benefits-drying</guid>
-  <pubDate>Sun, 27 Jun 2021 16:51:11 -0700</pubDate>
- </item>
- <item>
-  <title>Rescue Workers Continue to Search for Survivors of the Florida Condo Tower Collapse</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5572%2Fus-accident-construction-.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Officials are now considering whether or not to temporarily evacuate the sister building, Champlain Towers North, which is located right next door and was built around the same time.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/27/rescue-workers-continue-search-survivors-florida-condo-tower-collapse</link>
-  <author>Neal Freyman</author>
-  <categories>real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/rescue-workers-continue-search-survivors-florida-condo-tower-collapse</guid>
-  <pubDate>Sun, 27 Jun 2021 16:51:10 -0700</pubDate>
- </item>
- <item>
-  <title>Make it Work: First Job out of College</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;—Kimo            How exciting! Maintaining a relationship with someone who's been there, done that can help you avoid making preventable mistakes and boost your learning curve exponentially.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/27/make-work-first-job-college</link>
-  <author>Neal Freyman</author>
-  <categories>work life</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/make-work-first-job-college</guid>
-  <pubDate>Sat, 26 Jun 2021 22:27:19 -0700</pubDate>
- </item>
- <item>
-  <title>F1 Is Having a Moment in the United States</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5558%2Ff1_winter_testing_in_barc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Last week, Formula 1 re-upped its partnership with the sports merchandise retailer Fanatics after sales on the online F1 store popped 40% globally in 2020. F101: A Formula 1 season typically consists of 20+-races in glamorous locations like Monaco, Abu Dhabi, and Portugal. It's got that kind of power," he told The Drive about the new F1 race. F1 has added a race there for the 2022 season, which—along with Austin—makes for two races held in the US on the same calendar. And I think it's going to be something that redefines who we are. The Brew's Formula 1 Slack channel is the fastest-growing micro-community at the company.  But Formula 1 has been around since 1950. I think this is one of those macro events, like Art Basel. They actually change the city.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/27/f1-momentin-united-states</link>
-  <author>Neal Freyman</author>
-  <categories>analysis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/f1-momentin-united-states</guid>
-  <pubDate>Sat, 26 Jun 2021 22:16:16 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers with… Chef José Andrés</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5560%2Fjose_andres.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It's the people of India coming together to heal and feed the people of India—it's really amazing. Can you tell us about your experience there? Back home, do you see #ChefsforAmerica winding down as we move out of the pandemic, or continuing in some other form? You and WCK recently spent some time in India serving meals to frontline workers. There are six days left to donate to Morning Brew's fundraiser for World Central Kitchen and secure a copy of our digital cookbook, Brunch with the Brew. You'll just have to follow me on TikTok for the best ones…maybe you can start with making cocktails in the snow. There are so many! You only get to eat one condiment for the rest of your life. They don't need to go stand in line for hours, and instead can pick up a meal from a restaurant or get it delivered, which hopefully makes it a little easier for families to get through the day.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/27/icebreakers-chef-jos-andrs</link>
-  <author>Alex Hickey</author>
-  <categories>qanda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/icebreakers-chef-jos-andrs</guid>
-  <pubDate>Sat, 26 Jun 2021 22:06:16 -0700</pubDate>
  </item>
 
 </channel>
