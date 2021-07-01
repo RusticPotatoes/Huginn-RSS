@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/01</link>
- <lastBuildDate>Thu, 01 Jul 2021 03:03:12 -0700</lastBuildDate>
- <pubDate>Thu, 01 Jul 2021 03:03:12 -0700</pubDate>
+ <lastBuildDate>Thu, 01 Jul 2021 14:38:12 -0700</lastBuildDate>
+ <pubDate>Thu, 01 Jul 2021 14:38:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 2</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5639%2Fwally_funk_and_jeff_bezos.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New York Times) —Wally FunkRead: Joe Rogan is too big to cancel. You can still do it if you want to do it and I like to do things that nobody has ever done.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/01/key-performance-indicators-july-2</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/key-performance-indicators-july-2</guid>
+  <pubDate>Thu, 01 Jul 2021 14:36:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>Robinhood Announces IPO After $70 Million Finra Fine</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2127%2Frobinhood_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;For instance, Robinhood wants you to buy into Robinhood’s IPO on Robinhood. In an unusual move, it’s setting aside 20%–35% of its Class A stock for its customers, as opposed to bankers. US-listed IPOs have already raised over $190 billion so far in 2021, more than 2020’s total.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/01/robinhood-announces-ipo-70-million-finra-fine</link>
+  <author>Matty Merritt</author>
+  <categories>ipo</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/robinhood-announces-ipo-70-million-finra-fine</guid>
+  <pubDate>Thu, 01 Jul 2021 14:36:11 -0700</pubDate>
+ </item>
  <item>
   <title>New York Has The Worst Traffic In The US</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5621%2Fentertainment_tourism_i.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: The average metropolitan driver spent ~41 hours in traffic last year, but drivers in the US’ five most-congested metro areas spent much more:New York-Newark: 56Boston: 50Houston: 49Los Angeles-Long Beach-Anaheim: 46San Francisco-Oakland: 46Bottom line: Like the Knicks’ playoff appearance, this traffic ranking is a pandemic-era anomaly.</description>
@@ -352,24 +370,6 @@
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/week-ahead-june-28</guid>
   <pubDate>Sun, 27 Jun 2021 16:56:19 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 28</title>
-  <description>&lt;img src='https://media.giphy.com/media/3mJMwCo0x7mAmCKnjb/giphy.gif'&gt;&lt;br/&gt;(Financial Times) Read: The tyranny of spreadsheets. That means scrapping traveler quarantines, daily case number announcements, and intensive contact tracing efforts.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/27/key-performance-indicators-june-28</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/key-performance-indicators-june-28</guid>
-  <pubDate>Sun, 27 Jun 2021 16:51:11 -0700</pubDate>
- </item>
- <item>
-  <title>Intellia Therapeutics Announces Big Gene Editing Breakthrough in Early-Phase Trials</title>
-  <description>&lt;img src='https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif'&gt;&lt;br/&gt;For the first time, CRISPR technology has been used to successfully treat disease in vivo, or inside the human body. expect Intellia shares, which have gained 233% since its 2016 IPO, to pop today.  Looking ahead... And there’s not many moments in medicine where you get to experience that,” Intellia CEO John Leonard said.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/27/intellia-therapeutics-announces-big-gene-editing-breakthrough-earlyphase-trials</link>
-  <author>Neal Freyman</author>
-  <categories>health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/intellia-therapeutics-announces-big-gene-editing-breakthrough-earlyphase-trials</guid>
-  <pubDate>Sun, 27 Jun 2021 16:51:11 -0700</pubDate>
  </item>
 
 </channel>
