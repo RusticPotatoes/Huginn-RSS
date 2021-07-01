@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/01</link>
- <lastBuildDate>Thu, 01 Jul 2021 14:38:12 -0700</lastBuildDate>
- <pubDate>Thu, 01 Jul 2021 14:38:12 -0700</pubDate>
+ <lastBuildDate>Thu, 01 Jul 2021 14:48:19 -0700</lastBuildDate>
+ <pubDate>Thu, 01 Jul 2021 14:48:19 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Name, Image, and Likeness Relaxations Creates New Industry Overnight</title>
+  <description>&lt;img src='https://media.giphy.com/media/hHTLJpBn139IpZgb6X/giphy.gif'&gt;&lt;br/&gt; + Further NIL reading: The top 20 athletes who could capitalize on NIL and the earning potential of athletes across sports and endorsement deals. 25 states passed NIL bills that challenged the NCAA’s rules banning student athletes from monetizing their popularity. The relaxation of rules governing name, image, and likeness (NIL) allows college athletes to sign endorsement deals and make money off their fame for the first time, resulting in a “transcendent day for American sports,” Sports Illustrated writes.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/01/name-image-likeness-relaxations-creates-new-industry-overnight</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/name-image-likeness-relaxations-creates-new-industry-overnight</guid>
+  <pubDate>Thu, 01 Jul 2021 14:46:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>130 Countries Agree to Global Minimum Corporate Tax Rate</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4403%2Fcorporate_taxes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Big picture: Under a global minimum tax, multinational corporations would theoretically stop moving their headquarters to tax havens like the British Virgin Islands and Bermuda. For the past 30 years, countries have sprinted to lower their corporate tax rates to lure companies to their shores.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/01/130-countries-agree-global-minimum-corporate-tax-rate</link>
+  <author>Sherry Qin</author>
+  <categories>tax</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/130-countries-agree-global-minimum-corporate-tax-rate</guid>
+  <pubDate>Thu, 01 Jul 2021 14:46:18 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 2</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5639%2Fwally_funk_and_jeff_bezos.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New York Times) —Wally FunkRead: Joe Rogan is too big to cancel. You can still do it if you want to do it and I like to do things that nobody has ever done.”</description>
@@ -352,24 +370,6 @@
   <categories>real estate</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/rescue-workers-continue-search-survivors-florida-condo-tower-collapse?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 28 Jun 2021 03:01:12 -0700</pubDate>
- </item>
- <item>
-  <title>Extra Unemployment Benefits Are Drying Up </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5571%2Fus-unemployment-job.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Businesses are desperate to hire workers, and many states think scrapping the extra $300/week in unemployment benefits, which the Biden administration incorporated into its pandemic relief bill, will spur more job-seeking.  In the states that cut off the extra payments the earliest, the number of workers who were paid benefits decreased 13.8% from mid-May to mid-June. On Capitol Hill last week, Fed Chair Jerome Powell said that extra benefits could be playing a role in the worker shortage problem, but focused his attention on other challenges holding back the job market.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/27/extra-unemployment-benefits-drying?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/extra-unemployment-benefits-drying?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 28 Jun 2021 03:01:12 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: June 28</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5573%2Fthe_championship_-_wimble.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The biggest economic event of the week will be the release of the June jobs report, which will tell us more about the improving labor market and whether inflation will show up in the form of higher wages.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/27/week-ahead-june-28</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/week-ahead-june-28</guid>
-  <pubDate>Sun, 27 Jun 2021 16:56:19 -0700</pubDate>
  </item>
 
 </channel>
