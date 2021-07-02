@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/02</link>
- <lastBuildDate>Fri, 02 Jul 2021 14:03:19 -0700</lastBuildDate>
- <pubDate>Fri, 02 Jul 2021 14:03:19 -0700</pubDate>
+ <lastBuildDate>Fri, 02 Jul 2021 14:13:15 -0700</lastBuildDate>
+ <pubDate>Fri, 02 Jul 2021 14:13:15 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Origin Stories: July Fourth’s Favorite Companies</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5659%2F2018_nathan_s_famous_hot_dog_eating_contest.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Nathan’s Hot DogsYes, a guy named Nathan did actually start this company. Old Navy became the first clothing company to reach $1 billion in sales in its first four years of business. What’s up with the matching Old Navy shirts in every single one of our family pics? In 2012, Solo was acquired by Dart Container for $1 billion, and according to the company’s website, fans post 400,000+ photos with the iconic red cup every year.  Red Solo cupIt’s the early 1930s in Chicago, and disposable cups are all the rage after the city council banned the use of germy “common drinking cups” 20 years before. The contest, where competitors have 10 minutes to inhale as many hot dogs as they can, has aired live on ESPN since 2004. Why is Nathan's the first name you think of when you picture a hot dog? In 1916, Nathan Handwerker began selling hot dogs in New York’s Coney Island for five cents.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/02/origin-stories-july-fourths-favorite-companies</link>
+  <author>Matty Merritt</author>
+  <categories>analysis</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/origin-stories-july-fourths-favorite-companies</guid>
+  <pubDate>Fri, 02 Jul 2021 14:11:14 -0700</pubDate>
+ </item>
  <item>
   <title>Make It Work: How to Address a Pay Gap Issue</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Hey Kate, I recently discovered that I am being paid 25%–33% less than my male colleagues working in the same position with the same level of education and work experience. Each week, Morning Brew's Head of People Ops Kate Noel answers reader-submitted questions about work in 2021.  If you don’t get a positive response, maybe it’s time to look for an employer that values your talents and experience. Be clear, specific, and confident!</description>
@@ -361,15 +370,6 @@
   <categories>finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/28/two-big-banks-announce-hybrid-work-schedules-amid-get-back-office-attitude-wall-street</guid>
   <pubDate>Mon, 28 Jun 2021 15:06:15 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 29</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5589%2Fcooling_off_amid_the_heat_wave_in_the_northwest.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Vox) Read: Why does it cost so much to build things in America? Kim’s health is closely watched by foreign powers, because he hasn’t appointed a successor.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/28/key-performance-indicators-june-29</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/28/key-performance-indicators-june-29</guid>
-  <pubDate>Mon, 28 Jun 2021 15:01:13 -0700</pubDate>
  </item>
 
 </channel>
