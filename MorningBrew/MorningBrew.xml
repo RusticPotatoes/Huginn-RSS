@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/02</link>
- <lastBuildDate>Fri, 02 Jul 2021 14:58:18 -0700</lastBuildDate>
- <pubDate>Fri, 02 Jul 2021 14:58:18 -0700</pubDate>
+ <lastBuildDate>Fri, 02 Jul 2021 15:03:15 -0700</lastBuildDate>
+ <pubDate>Fri, 02 Jul 2021 15:03:15 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Get to Know Amazon’s New CEO, Andy Jassy</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5661%2Famazon_ceo_andy_jessy.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Not long after, Jassy changed Amazon forever by coming up with and executing on the idea for Amazon’s cloud computing service, Amazon Web Services, which he currently leads.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/02/get-know-amazons-new-ceo-andy-jassy</link>
+  <author>Jamie Wilde</author>
+  <categories>people</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/get-know-amazons-new-ceo-andy-jassy</guid>
+  <pubDate>Fri, 02 Jul 2021 15:01:13 -0700</pubDate>
+ </item>
  <item>
   <title>Money Matters: When to Pay Off Student Loans? </title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2161%2Fprimary.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Submit your money woes here. If you think an investment will return more than your highest interest rate, you might want to start investing some money. Say your only debt is a student loan at 5% interest. If you think an investment will return more than 5% this year, investing might be a good shout. Should college grads start investing before paying off all student loans?  </description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/28/key-performance-indicators-june-29?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 29 Jun 2021 03:01:17 -0700</pubDate>
- </item>
- <item>
-  <title>Two Big Banks Announce Hybrid Work Schedules Amid ‘Get Back to the Office’ Attitude on Wall Street</title>
-  <description>&lt;img src='https://media.giphy.com/media/S8B6TDNnZdbTRxnoXU/giphy.gif'&gt;&lt;br/&gt;Bottom line: Both UBS and Synchrony hope that offering flexible work schedules will help them retain and attract workers, which is necessary since 41% of employees globally are considering leaving their current employer this year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/28/two-big-banks-announce-hybrid-work-schedules-amid-get-back-office-attitude-wall-street?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/28/two-big-banks-announce-hybrid-work-schedules-amid-get-back-office-attitude-wall-street?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 29 Jun 2021 03:01:17 -0700</pubDate>
  </item>
 
