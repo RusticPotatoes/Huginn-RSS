@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/02</link>
- <lastBuildDate>Fri, 02 Jul 2021 13:53:18 -0700</lastBuildDate>
- <pubDate>Fri, 02 Jul 2021 13:53:18 -0700</pubDate>
+ <lastBuildDate>Fri, 02 Jul 2021 14:03:19 -0700</lastBuildDate>
+ <pubDate>Fri, 02 Jul 2021 14:03:19 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Make It Work: How to Address a Pay Gap Issue</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Hey Kate, I recently discovered that I am being paid 25%–33% less than my male colleagues working in the same position with the same level of education and work experience. Each week, Morning Brew's Head of People Ops Kate Noel answers reader-submitted questions about work in 2021.  If you don’t get a positive response, maybe it’s time to look for an employer that values your talents and experience. Be clear, specific, and confident!</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/02/make-work-address-pay-gap-issue</link>
+  <author>Neal Freyman</author>
+  <categories>work life</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/make-work-address-pay-gap-issue</guid>
+  <pubDate>Fri, 02 Jul 2021 14:01:18 -0700</pubDate>
+ </item>
  <item>
   <title>Icebreakers With...Beeple</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5657%2Fpicture_of_beeple.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And that's not a part of NFTs.What is the future of NFTs? NFTs will be part of your life, just because they'll be the easiest way to prove that you own things. This WENEW project is one new use case for NFTs. As more use cases come, more people will learn about this technology and see value in it for something that connects to their lives.  It's been really exciting to be a part of something that feels like it's the beginning. It’s still the most expensive NFT ever sold.  The other thing that is tough for people to understand is that one of the main aspects of ownership with many things is being able to restrict access to that thing. They’ll be attached to a bunch of different things that make it easy to prove that you are the one single person that has that thing.  You’ve had quite a year, selling an NFT for $69 million. It’s a super exciting time, and I feel very honored to be a part of that.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/28/key-performance-indicators-june-29</guid>
-  <pubDate>Mon, 28 Jun 2021 15:01:13 -0700</pubDate>
- </item>
- <item>
-  <title>MWC Returns to Barcelona After One-Year Hiatus</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5584%2Fwoman_trying_a_virtual_reality_headset.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The line for coffee will be much shorter than usual. Looking ahead... In a non-Covid year, MWC generates $516 million and 14,000 part-time jobs for the local economy. Zoom out: Barcelona hopes enough of those virtual attendees get FOMO and buy plane tickets for next year's show.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/28/mwc-returns-barcelona-oneyear-hiatus</link>
-  <author>Neal Freyman</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/28/mwc-returns-barcelona-oneyear-hiatus</guid>
   <pubDate>Mon, 28 Jun 2021 15:01:13 -0700</pubDate>
  </item>
 
