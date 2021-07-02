@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/01/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/02/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/01</link>
- <lastBuildDate>Thu, 01 Jul 2021 14:48:19 -0700</lastBuildDate>
- <pubDate>Thu, 01 Jul 2021 14:48:19 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/02</link>
+ <lastBuildDate>Fri, 02 Jul 2021 03:03:20 -0700</lastBuildDate>
+ <pubDate>Fri, 02 Jul 2021 03:03:20 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 2</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5639%2Fwally_funk_and_jeff_bezos.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New York Times) —Wally FunkRead: Joe Rogan is too big to cancel. You can still do it if you want to do it and I like to do things that nobody has ever done.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/01/key-performance-indicators-july-2?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/key-performance-indicators-july-2?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 02 Jul 2021 03:01:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>130 Countries Agree to Global Minimum Corporate Tax Rate</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4403%2Fcorporate_taxes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;For the past 30 years, countries have lowered their corporate tax rates to lure companies to their shores.  Big picture: Under a global minimum tax, multinational corporations would theoretically stop moving their headquarters to tax havens like the British Virgin Islands and Bermuda.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/01/130-countries-agree-global-minimum-corporate-tax-rate?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>tax</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/130-countries-agree-global-minimum-corporate-tax-rate?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 02 Jul 2021 03:01:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Robinhood Announces IPO After $70 Million Finra Fine</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2127%2Frobinhood_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;For instance, Robinhood wants you to buy into Robinhood’s IPO on Robinhood. In an unusual move, it’s setting aside 20%–35% of its Class A stock for its customers, as opposed to bankers. US-listed IPOs have already raised over $190 billion so far in 2021, more than 2020’s total.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/01/robinhood-announces-ipo-70-million-finra-fine?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>ipo</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/robinhood-announces-ipo-70-million-finra-fine?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 02 Jul 2021 03:01:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Name, Image, and Likeness Relaxations Creates New Industry Overnight</title>
+  <description>&lt;img src='https://media.giphy.com/media/hHTLJpBn139IpZgb6X/giphy.gif'&gt;&lt;br/&gt; + Further NIL reading: The top 20 athletes who could capitalize on NIL and the earning potential of athletes across sports and endorsement deals. 25 states passed NIL bills that challenged the NCAA’s rules banning student athletes from monetizing their popularity. For example, industry insiders expect LSU gymnast Olivia Dunne to earn the most of any NCAA athlete from NIL endorsements.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/01/name-image-likeness-relaxations-creates-new-industry-overnight?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/name-image-likeness-relaxations-creates-new-industry-overnight?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 02 Jul 2021 03:01:19 -0700</pubDate>
+ </item>
  <item>
   <title>Name, Image, and Likeness Relaxations Creates New Industry Overnight</title>
   <description>&lt;img src='https://media.giphy.com/media/hHTLJpBn139IpZgb6X/giphy.gif'&gt;&lt;br/&gt; + Further NIL reading: The top 20 athletes who could capitalize on NIL and the earning potential of athletes across sports and endorsement deals. 25 states passed NIL bills that challenged the NCAA’s rules banning student athletes from monetizing their popularity. The relaxation of rules governing name, image, and likeness (NIL) allows college athletes to sign endorsement deals and make money off their fame for the first time, resulting in a “transcendent day for American sports,” Sports Illustrated writes.</description>
@@ -334,42 +370,6 @@
   <categories>antitrust</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/28/facebook-hits-1-trillion-market-cap-ftc-complaint-dismissed</guid>
   <pubDate>Mon, 28 Jun 2021 15:01:13 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: June 28</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5573%2Fthe_championship_-_wimble.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The biggest economic event of the week is the release of the June jobs report, which will tell us more about the improving labor market and whether inflation will show up in the form of higher wages.   Got any fun plans?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/27/week-ahead-june-28?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/week-ahead-june-28?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 28 Jun 2021 03:01:12 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 28</title>
-  <description>&lt;img src='https://media.giphy.com/media/3mJMwCo0x7mAmCKnjb/giphy.gif'&gt;&lt;br/&gt;(Financial Times) Read: The tyranny of spreadsheets. That means scrapping traveler quarantines, daily case number announcements, and intensive contact tracing efforts.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/27/key-performance-indicators-june-28?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/key-performance-indicators-june-28?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 28 Jun 2021 03:01:12 -0700</pubDate>
- </item>
- <item>
-  <title>Intellia Therapeutics Announces Big Gene Editing Breakthrough in Early-Phase Trials</title>
-  <description>&lt;img src='https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif'&gt;&lt;br/&gt;For the first time, CRISPR technology has been used to successfully treat disease in vivo, or inside the human body. expect Intellia shares, which have gained 233% since its 2016 IPO, to pop today.  Looking ahead... And there’s not many moments in medicine where you get to experience that,” Intellia CEO John Leonard said.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/27/intellia-therapeutics-announces-big-gene-editing-breakthrough-earlyphase-trials?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/intellia-therapeutics-announces-big-gene-editing-breakthrough-earlyphase-trials?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 28 Jun 2021 03:01:12 -0700</pubDate>
- </item>
- <item>
-  <title>Rescue Workers Continue to Search for Survivors of the Florida Condo Tower Collapse</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5572%2Fus-accident-construction-.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Officials are now considering whether or not to temporarily evacuate the sister building, Champlain Towers North, which is located right next door and was built around the same time.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/27/rescue-workers-continue-search-survivors-florida-condo-tower-collapse?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/27/rescue-workers-continue-search-survivors-florida-condo-tower-collapse?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 28 Jun 2021 03:01:12 -0700</pubDate>
  </item>
 
 </channel>
