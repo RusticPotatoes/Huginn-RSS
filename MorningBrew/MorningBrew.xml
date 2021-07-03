@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/02/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/03/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/02</link>
- <lastBuildDate>Fri, 02 Jul 2021 15:03:15 -0700</lastBuildDate>
- <pubDate>Fri, 02 Jul 2021 15:03:15 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/03</link>
+ <lastBuildDate>Sat, 03 Jul 2021 03:03:13 -0700</lastBuildDate>
+ <pubDate>Sat, 03 Jul 2021 03:03:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Money Matters: When to Pay Off Student Loans? </title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2161%2Fprimary.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Submit your money woes here. If you think an investment will return more than your highest interest rate, you might want to start investing some money. Say your only debt is a student loan at 5% interest. If you think an investment will return more than 5% this year, investing might be a good shout. Should college grads start investing before paying off all student loans?  </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/02/money-matters-pay-off-student-loans?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Ryan Lasker</author>
+  <categories>personal finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/money-matters-pay-off-student-loans?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 03 Jul 2021 03:01:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: July 3</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3111%2Fcentral_park_new_york_city.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Atlantic)   Read: The three simple rules that underscore the danger of Delta. The positive test means she won’t be able to compete in the 100-meter race at the Tokyo Olympics, but could be available for the 4x100 meter relay.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/02/key-performance-indicators-july-3?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/key-performance-indicators-july-3?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 03 Jul 2021 03:01:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Five Fast Firework Facts for the Fourth</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1603%2Ffireworks.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Not helping: 90% of US fireworks are made in China, so logjams at ports over there mean a reduction or delay in getting supply over here. Massachusetts is the only state with a total ban on the sale of consumer fireworks. Thanks, Ben Affleck. 5.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/02/five-fast-firework-facts-fourth?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>pyrotechnics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/five-fast-firework-facts-fourth?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 03 Jul 2021 03:01:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Get to Know Amazon’s New CEO, Andy Jassy</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5661%2Famazon_ceo_andy_jessy.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Not long after, Jassy changed Amazon forever by coming up with and executing on the idea for Amazon’s cloud computing service, Amazon Web Services, which he currently leads.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/02/get-know-amazons-new-ceo-andy-jassy?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>c suite</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/get-know-amazons-new-ceo-andy-jassy?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 03 Jul 2021 03:01:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>US Economy Adds 850,000 Jobs in June in Bullish Sign for Labor Market</title>
+  <description>&lt;img src='https://media.giphy.com/media/lnMsxRxL4RCzdzTRHu/giphy.gif'&gt;&lt;br/&gt;The US economy added 850,000 jobs in June, marking the biggest monthly gain in almost a year and topping expectations. The 850,000 headline number represents a big improvement from May’s jobs report (+583,000 jobs) and April’s (+269,000). Economists hope that the increase in job seekers in June is a sign the labor crunch could smooth out by fall. Challenges remain, of course.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/02/us-economy-adds-850000-jobs-june-bullish-sign-labor-market?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/us-economy-adds-850000-jobs-june-bullish-sign-labor-market?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 03 Jul 2021 03:01:12 -0700</pubDate>
+ </item>
  <item>
   <title>Get to Know Amazon’s New CEO, Andy Jassy</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5661%2Famazon_ceo_andy_jessy.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Not long after, Jassy changed Amazon forever by coming up with and executing on the idea for Amazon’s cloud computing service, Amazon Web Services, which he currently leads.</description>
@@ -325,51 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/29/spacexs-starlink-internet-service-69420-users</guid>
   <pubDate>Tue, 29 Jun 2021 15:06:12 -0700</pubDate>
- </item>
- <item>
-  <title>Facebook Launches Bulletin, Its Subscription Newsletter Service</title>
-  <description>&lt;img src='https://media.giphy.com/media/jqU6OtxNhty3DuMz6h/giphy.gif'&gt;&lt;br/&gt; Zoom out: Bulletin is Facebook’s latest product that chases individual creators; its previous launch was a Clubhouse competitor for live audio content, which Zuck used to announce Bulletin. The other major competitor in the space is Twitter, because it purchased newsletter platform Revue in January.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/29/facebook-launches-bulletin-subscription-newsletter-service</link>
-  <author>Jamie Wilde</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/29/facebook-launches-bulletin-subscription-newsletter-service</guid>
-  <pubDate>Tue, 29 Jun 2021 15:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>United Makes Big Bet on the Future of Air Travel</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5595%2Fcatalogue_of_plane.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yes, we actually mean actual business travel “Everything we see every week makes us even more certain that business travel and international travel are ultimately going to come back,” United CEO Scott Kirby said. Fast forward to yesterday, and United Airlines just placed its largest plane order ever and the biggest of any airline in a decade. One does not simply order 270 state-of-the-art planes worth more than $30 billion and then leave them unopened in the hangar.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/29/united-makes-big-bet-future-air-travel</link>
-  <author>Neal Freyman</author>
-  <categories>aviation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/29/united-makes-big-bet-future-air-travel</guid>
-  <pubDate>Tue, 29 Jun 2021 14:41:12 -0700</pubDate>
- </item>
- <item>
-  <title>US Home Price Growth Hits a Record High in April</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Actually, experts say the housing market won’t implode like it did 10 years ago. Home prices in cities like Phoenix, San Diego, and Seattle are all up more than 20% year over year. You might be better off getting creative, like these folks: A Bethesda, MD, homebuyer pledged to name her first-born child after the seller in a written offer.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/29/us-home-price-growth-hits-record-high-april</link>
-  <author>Sherry Qin</author>
-  <categories>real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/29/us-home-price-growth-hits-record-high-april</guid>
-  <pubDate>Tue, 29 Jun 2021 14:36:10 -0700</pubDate>
- </item>
- <item>
-  <title>MWC Returns to Barcelona After One-Year Hiatus</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5584%2Fwoman_trying_a_virtual_reality_headset.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The line for coffee will be much shorter than usual. Looking ahead... In a non-Covid year, MWC generates $516 million and 14,000 part-time jobs for the local economy. Zoom out: Barcelona hopes enough of those virtual attendees get FOMO and buy plane tickets for next year's show.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/28/mwc-returns-barcelona-oneyear-hiatus?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/28/mwc-returns-barcelona-oneyear-hiatus?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 29 Jun 2021 03:01:17 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 29</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5589%2Fcooling_off_amid_the_heat_wave_in_the_northwest.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Vox) Read: Why does it cost so much to build things in America? Kim’s health is closely watched by foreign powers, because he hasn’t appointed a successor.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/28/key-performance-indicators-june-29?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/28/key-performance-indicators-june-29?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 29 Jun 2021 03:01:17 -0700</pubDate>
  </item>
 
 </channel>
