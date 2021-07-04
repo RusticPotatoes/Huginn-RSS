@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/03/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/04/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/03</link>
- <lastBuildDate>Sat, 03 Jul 2021 03:03:13 -0700</lastBuildDate>
- <pubDate>Sat, 03 Jul 2021 03:03:13 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/04</link>
+ <lastBuildDate>Sun, 04 Jul 2021 07:28:13 -0700</lastBuildDate>
+ <pubDate>Sun, 04 Jul 2021 07:28:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Postings for HR Roles Jump 53% Above Pre-Pandemic Levels</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5649%2Fhr_job_posting_chart.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/02/postings-hr-roles-jump-53-prepandemic-levels</link>
+  <author>Neal Freyman</author>
+  <categories>hr</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/postings-hr-roles-jump-53-prepandemic-levels</guid>
+  <pubDate>Sun, 04 Jul 2021 07:26:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Exclusive: What’s the Job Market for College Students Like This Summer?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F979%2Fcollege_campus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; In a Morning Brew + Generation Lab poll, we asked 500 college students about their work plans for this summer and how they were feeling about it. This was fascinating: 31% of students said their biggest concern when going to work this summer was understaffing at their employers, beating out worries over health and safety and working remotely. Most of the students having an easier time finding summer work are white.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/02/exclusive-whats-job-market-college-students-like-summer</link>
+  <author>Matty Merritt</author>
+  <categories>youth</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/exclusive-whats-job-market-college-students-like-summer</guid>
+  <pubDate>Sun, 04 Jul 2021 07:26:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Diving into the Great Resignation and What It Means for American Workers</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5648%2Fpeggy_quitting_on_mad_men.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;However, the main reason employees are quitting their jobs en masse, Harvard economics professor Jason Furman argues, is simpler: There are a record number of job openings in the US right now (9.3 million), and in any economy where lots of jobs are available, people leave their existing roles for greener pastures.    In what’s been dubbed the “Great Resignation,” 4 million people, or 2.7% of US workers, quit their jobs in April. A bunch of your coworkers are going to quit their jobs over the next few months—if you don’t leave before then. If they’re not pampered, they’re skedaddling. Some say absolutely.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/02/diving-great-resignation-means-american-workers</link>
+  <author>Neal Freyman</author>
+  <categories>jobs</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/diving-great-resignation-means-american-workers</guid>
+  <pubDate>Sun, 04 Jul 2021 07:26:12 -0700</pubDate>
+ </item>
  <item>
   <title>Money Matters: When to Pay Off Student Loans? </title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2161%2Fprimary.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Submit your money woes here. If you think an investment will return more than your highest interest rate, you might want to start investing some money. Say your only debt is a student loan at 5% interest. If you think an investment will return more than 5% this year, investing might be a good shout. Should college grads start investing before paying off all student loans?  </description>
@@ -343,33 +370,6 @@
   <categories>real estate</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/29/us-home-price-growth-hits-record-high-april?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 30 Jun 2021 03:01:12 -0700</pubDate>
- </item>
- <item>
-  <title>United Makes Big Bet on the Future of Air Travel</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5595%2Fcatalogue_of_plane.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Yes, we mean actual business travel “Everything we see every week makes us even more certain that business travel and international travel are ultimately going to come back,” United CEO Scott Kirby said. Fast forward to yesterday, and United Airlines just placed its largest plane order ever and the biggest of any airline in a decade. One does not simply order 270 state-of-the-art planes worth more than $30 billion and then leave them unused in the hangar.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/29/united-makes-big-bet-future-air-travel?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>aviation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/29/united-makes-big-bet-future-air-travel?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 30 Jun 2021 03:01:11 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 30</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F506%2Fjamie_dimon.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Paul Graham) Read: How to work hard.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/29/key-performance-indicators-june-30</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/29/key-performance-indicators-june-30</guid>
-  <pubDate>Tue, 29 Jun 2021 15:06:12 -0700</pubDate>
- </item>
- <item>
-  <title>SpaceX’s Starlink Internet Service Has 69,420 Users</title>
-  <description>&lt;img src='https://media.giphy.com/media/fr0a9Np0PlcJTVevU5/giphy.gif'&gt;&lt;br/&gt;69,420, SpaceX CEO Elon Musk said yesterday. Starlink provides internet via a network of over 1,500 satellites orbiting low enough for stargazers to spot them overhead. He said Starlink could make up to $30 billion in revenue per year—about 10 times the revenue of the rocket-launching side of SpaceX.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/29/spacexs-starlink-internet-service-69420-users</link>
-  <author>Jamie Wilde</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/29/spacexs-starlink-internet-service-69420-users</guid>
-  <pubDate>Tue, 29 Jun 2021 15:06:12 -0700</pubDate>
  </item>
 
 </channel>
