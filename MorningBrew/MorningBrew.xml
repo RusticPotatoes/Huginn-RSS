@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/04</link>
- <lastBuildDate>Sun, 04 Jul 2021 07:28:13 -0700</lastBuildDate>
- <pubDate>Sun, 04 Jul 2021 07:28:13 -0700</pubDate>
+ <lastBuildDate>Sun, 04 Jul 2021 07:33:14 -0700</lastBuildDate>
+ <pubDate>Sun, 04 Jul 2021 07:33:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Help Definitely Wanted: The Restaurant Industry Faces A Labor Crunch</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5662%2Fmcdonald_s_sign_advertising_job_openings.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The restaurant business, inherently and pre-Covid, was a toxic workplace," North Carolina restaurant owner Patrick Whalen told CNN. But many former restaurant workers also found more stable jobs in other industries and didn’t look back.  After surveying over 2,800 food service workers, UC Berkeley Food Labor Research Center said the top three reasons that they’d leave their jobs are low wages and tips, lingering Covid-19 fears, and concerns of hostility from customers.  Where did they go?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/03/help-definitely-wanted-restaurant-industry-faces-labor-crunch</link>
+  <author>Sherry Qin</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/03/help-definitely-wanted-restaurant-industry-faces-labor-crunch</guid>
+  <pubDate>Sun, 04 Jul 2021 07:31:13 -0700</pubDate>
+ </item>
  <item>
   <title>Postings for HR Roles Jump 53% Above Pre-Pandemic Levels</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5649%2Fhr_job_posting_chart.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; </description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/29/spacexs-starlink-internet-service-69420-users?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 30 Jun 2021 03:01:12 -0700</pubDate>
- </item>
- <item>
-  <title>US Home Price Growth Hits a Record High in April</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Actually, experts predict the housing market won’t implode like it did 10 years ago. Home prices in cities like Phoenix, San Diego, and Seattle are all up more than 20% year over year. “People are kind of burnt out.” Sounds pretty bubbly, right? Another buyer in Austin, TX, bought two houses from the same seller so he could get the one he really wanted.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/29/us-home-price-growth-hits-record-high-april?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/29/us-home-price-growth-hits-record-high-april?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 30 Jun 2021 03:01:12 -0700</pubDate>
  </item>
 
