@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/05</link>
- <lastBuildDate>Mon, 05 Jul 2021 14:33:13 -0700</lastBuildDate>
- <pubDate>Mon, 05 Jul 2021 14:33:13 -0700</pubDate>
+ <lastBuildDate>Mon, 05 Jul 2021 14:38:14 -0700</lastBuildDate>
+ <pubDate>Mon, 05 Jul 2021 14:38:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Short Week Ahead: July 6</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5669%2Fsun_valley_id.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Richard Branson will fly in a Virgin Galactic test flight to space on Sunday. Marvel’s Black Widow arrives Friday. Everything else:A Gossip Girl reboot comes to HBO Max on Thursday. And the National Spelling Bee (def a sport) final will be televised Thursday after getting canceled last year. Wimbledon continues through this week.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/05/short-week-ahead-july-6</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/short-week-ahead-july-6</guid>
+  <pubDate>Mon, 05 Jul 2021 14:36:13 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 6</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5666%2Fu_s_-new_york-hot_dog_eat.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: Britney Spears’s conservatorship nightmare, by Ronan Farrow and Jia Tolentino.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/finra-levies-robinhood-biggest-fine-ever?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 01 Jul 2021 03:01:11 -0700</pubDate>
- </item>
- <item>
-  <title>China's Communist Party Turns 100</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5622%2Fchina_ceremony.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Since the liberalization of China’s economy, the country has developed a close business relationship with the West—just last week Nike’s CEO said, “Nike is a brand that is of China and for China.”  After the Communists gained power in the 1949 revolution, Mao initiated a series of disastrous economic reforms that led to the deaths of tens of millions of people. Bottom line: At 100 years old, the Communist Party remains a potent global force led by a president who could be the first since Mao to rule until he dies. Its caginess around the origins of Covid-19 has made things worse.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/30/chinas-communist-party-turns-100?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>geopolitics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/chinas-communist-party-turns-100?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 01 Jul 2021 03:01:11 -0700</pubDate>
  </item>
 
