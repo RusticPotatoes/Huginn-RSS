@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/05</link>
- <lastBuildDate>Mon, 05 Jul 2021 14:28:11 -0700</lastBuildDate>
- <pubDate>Mon, 05 Jul 2021 14:28:11 -0700</pubDate>
+ <lastBuildDate>Mon, 05 Jul 2021 14:33:13 -0700</lastBuildDate>
+ <pubDate>Mon, 05 Jul 2021 14:33:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 6</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5666%2Fu_s_-new_york-hot_dog_eat.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: Britney Spears’s conservatorship nightmare, by Ronan Farrow and Jia Tolentino.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/05/key-performance-indicators-july-6</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/key-performance-indicators-july-6</guid>
+  <pubDate>Mon, 05 Jul 2021 14:31:12 -0700</pubDate>
+ </item>
  <item>
   <title>Chinese Regulators Kick Didi Off App Stores, Stop New User Sign-ups</title>
   <description>&lt;img src='https://media.giphy.com/media/QWFJANl1sgEid0dbRY/giphy.gif'&gt;&lt;br/&gt;Last week, Chinese ride-hailing company Didi Chuxing went public in one of the largest US IPOs of the past decade. This weekend, Chinese regulators stopped new users from signing up and ordered its removal from app stores.</description>
@@ -361,15 +370,6 @@
   <categories>geopolitics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/chinas-communist-party-turns-100?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 01 Jul 2021 03:01:11 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 1</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1823%2Fbig_tech_under_the_antitrust_spotlight.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: What deadlines do to lifetimes. The department, whose alumni include Meryl Streep and Lupita Nyong’o, will be renamed the David Geffen School of Drama at Yale, proving nothing is truly free.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/30/key-performance-indicators-july-1</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/key-performance-indicators-july-1</guid>
-  <pubDate>Wed, 30 Jun 2021 15:01:11 -0700</pubDate>
  </item>
 
 </channel>
