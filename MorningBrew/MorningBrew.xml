@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/04/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/05/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/04</link>
- <lastBuildDate>Sun, 04 Jul 2021 07:38:14 -0700</lastBuildDate>
- <pubDate>Sun, 04 Jul 2021 07:38:14 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/05</link>
+ <lastBuildDate>Mon, 05 Jul 2021 03:03:19 -0700</lastBuildDate>
+ <pubDate>Mon, 05 Jul 2021 03:03:19 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Companies Offer Lucrative Incentives to Lure Workers</title>
+  <description>&lt;img src='https://media.giphy.com/media/3ofSB3ihsBOceBlXhe/giphy.gif'&gt;&lt;br/&gt;  Still, while incentives have become more popular they're only advertised in 4.2% of total job postings on Indeed. Plus, a bonus is a one-time commitment rather than an ongoing cost—such as a salary bump or additional PTO.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/03/companies-offer-lucrative-incentives-lure-workers?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/03/companies-offer-lucrative-incentives-lure-workers?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 05 Jul 2021 03:01:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>Help Definitely Wanted: The Restaurant Industry Faces A Labor Crunch</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5662%2Fmcdonald_s_sign_advertising_job_openings.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The restaurant business, inherently and pre-Covid, was a toxic workplace," North Carolina restaurant owner Patrick Whalen told CNN. But many former restaurant workers also found more stable jobs in other industries and didn’t look back.  After surveying over 2,800 food service workers, UC Berkeley Food Labor Research Center said the top three reasons that they’d leave their jobs are low wages and tips, lingering Covid-19 fears, and concerns of hostility from customers.  Where did they go?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/03/help-definitely-wanted-restaurant-industry-faces-labor-crunch?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/03/help-definitely-wanted-restaurant-industry-faces-labor-crunch?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 05 Jul 2021 03:01:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>Exclusive: What’s the Job Market for College Students Like This Summer?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F979%2Fcollege_campus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; In a Morning Brew + Generation Lab poll, we asked 500 college students about their work plans for this summer and how they're feeling about it. After the unemployment rate for younger workers shot up to 32% last summer, the jobless rate for teens dropped to 9.6% this May, the lowest it's been since 1953, and stayed pretty steady in June at 9.9%.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/02/exclusive-whats-job-market-college-students-like-summer?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>youth</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/exclusive-whats-job-market-college-students-like-summer?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 05 Jul 2021 03:01:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>Postings for HR Roles Jump 53% Above Pre-Pandemic Levels</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5649%2Fhr_job_posting_chart.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/02/postings-hr-roles-jump-53-prepandemic-levels?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>hr</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/postings-hr-roles-jump-53-prepandemic-levels?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 05 Jul 2021 03:01:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>Diving into the Great Resignation and What It Means for American Workers</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5648%2Fpeggy_quitting_on_mad_men.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;However, the main reason employees are quitting their jobs en masse, Harvard economics professor Jason Furman argues, is simpler: There are a record number of job openings in the US right now (9.3 million), and in any economy where lots of jobs are available, people leave their existing roles for greener pastures. A bunch of your coworkers are going to quit their jobs over the next few months—if you don’t leave before then.  In what’s been dubbed the “Great Resignation,” 4 million people, or 2.7% of US workers, quit their jobs in April. If they’re not pampered, they’re skedaddling.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/02/diving-great-resignation-means-american-workers?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>jobs</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/diving-great-resignation-means-american-workers?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 05 Jul 2021 03:01:18 -0700</pubDate>
+ </item>
  <item>
   <title>Companies Offer Lucrative Incentives to Lure Workers</title>
   <description>&lt;img src='https://media.giphy.com/media/3ofSB3ihsBOceBlXhe/giphy.gif'&gt;&lt;br/&gt;  Still, while incentives are have become more popular they're only advertised in 4.2% of total job postings on Indeed. Plus, a bonus is a one-time commitment, rather than an ongoing cost—such as an income increase or additional PTO.</description>
@@ -325,51 +370,6 @@
   <categories>finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/finra-levies-robinhood-biggest-fine-ever</guid>
   <pubDate>Wed, 30 Jun 2021 14:56:18 -0700</pubDate>
- </item>
- <item>
-  <title>Amazon Files Motion to Remove Lina Khan From the Company’s Antitrust Investigations</title>
-  <description>&lt;img src='https://media.giphy.com/media/TYyIBf1OYC2oo/giphy.gif'&gt;&lt;br/&gt;Amazon filed a motion yesterday to keep Federal Trade Commission Chairwoman Lina Khan out of ongoing antitrust investigations because of her past criticisms of the company. The Yale Law grad was sworn in as chair of the FTC this month.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/30/amazon-files-motion-remove-lina-khan-companys-antitrust-investigations</link>
-  <author>Matty Merritt</author>
-  <categories>antitrust</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/amazon-files-motion-remove-lina-khan-companys-antitrust-investigations</guid>
-  <pubDate>Wed, 30 Jun 2021 14:51:17 -0700</pubDate>
- </item>
- <item>
-  <title>The Top Five Business Stories of Q2</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5600%2Fimage_of_a_scoreboard_showing_end_of_q2.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Inflation scaries With prices increasing at rates not seen in years, the No. 1 business story of the quarter could only be inflation. The number of companies citing inflation in their earnings calls hit a 10-year high, Chipotle hiked its menu prices, and at one point in April the cheapest rental car on Maui was a Toyota Camry that cost $722 a day. Fed Chair Jerome Powell has argued higher inflation is mostly transitory, while legendary investor Paul Tudor Jones responded, “that one just doesn’t work the way I see the world.” More Americans quit in May than any month on record. Yet lingering health concerns, childcare responsibilities, and generous unemployment payments have kept Americans from returning to the labor force. With the economy reawakening faster than expected, employers are desperate to hire employees to meet demand. Help wanted9.3 million. 2. For example, in Mississippi less than a third of the population is fully vaccinated.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/30/top-five-business-stories-q2</link>
-  <author>Jamie Wilde</author>
-  <categories>business</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/top-five-business-stories-q2</guid>
-  <pubDate>Wed, 30 Jun 2021 04:21:15 -0700</pubDate>
- </item>
- <item>
-  <title>Time Capsule: Q2 2021</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5601%2Ftime_capsule_q2_2021.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Here are some of the craziest facts we learned: College coaches were the highest-paid public employees in 40 states in 2019. More twins are being born now than at any point in history.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/30/time-capsule-q2-2021</link>
-  <author>Matty Merritt</author>
-  <categories>culture</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/time-capsule-q2-2021</guid>
-  <pubDate>Wed, 30 Jun 2021 04:16:11 -0700</pubDate>
- </item>
- <item>
-  <title>Facebook Launches Bulletin, Its Subscription Newsletter Service</title>
-  <description>&lt;img src='https://media.giphy.com/media/jqU6OtxNhty3DuMz6h/giphy.gif'&gt;&lt;br/&gt; Zoom out: Bulletin is Facebook’s latest product that chases individual creators; its previous launch was a Clubhouse competitor for live audio content, which Zuck used to announce Bulletin. The other major competitor in the space is Twitter, after it purchased newsletter platform Revue in January.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/29/facebook-launches-bulletin-subscription-newsletter-service?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/29/facebook-launches-bulletin-subscription-newsletter-service?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 30 Jun 2021 03:01:12 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: June 30</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F506%2Fjamie_dimon.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Paul Graham) Read: How to work hard.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/29/key-performance-indicators-june-30?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/29/key-performance-indicators-june-30?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 30 Jun 2021 03:01:12 -0700</pubDate>
  </item>
 
 </channel>
