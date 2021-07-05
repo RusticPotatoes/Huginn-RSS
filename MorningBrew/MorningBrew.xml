@@ -8,9 +8,36 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/05</link>
- <lastBuildDate>Mon, 05 Jul 2021 03:03:19 -0700</lastBuildDate>
- <pubDate>Mon, 05 Jul 2021 03:03:19 -0700</pubDate>
+ <lastBuildDate>Mon, 05 Jul 2021 14:28:11 -0700</lastBuildDate>
+ <pubDate>Mon, 05 Jul 2021 14:28:11 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Chinese Regulators Kick Didi Off App Stores, Stop New User Sign-ups</title>
+  <description>&lt;img src='https://media.giphy.com/media/QWFJANl1sgEid0dbRY/giphy.gif'&gt;&lt;br/&gt;Last week, Chinese ride-hailing company Didi Chuxing went public in one of the largest US IPOs of the past decade. This weekend, Chinese regulators stopped new users from signing up and ordered its removal from app stores.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/05/chinese-regulators-kick-didi-off-app-stores-stop-new-user-signups</link>
+  <author>Jamie Wilde</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/chinese-regulators-kick-didi-off-app-stores-stop-new-user-signups</guid>
+  <pubDate>Mon, 05 Jul 2021 14:26:20 -0700</pubDate>
+ </item>
+ <item>
+  <title>Russia-linked Cybercrime Group Demands $70 Million Ransom</title>
+  <description>&lt;img src='https://media.giphy.com/media/j4rPM934CLIvC/giphy.gif'&gt;&lt;br/&gt;They also timed the attack for Fourth of July weekend intentionally, knowing US office workers would be OOO. Looking ahead... Last month, it extorted $11 million from meat supplier JBS after forcing it to shut down its plants.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/05/russialinked-cybercrime-group-demands-70-million-ransom</link>
+  <author>Jamie Wilde</author>
+  <categories>cybersecurity</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/russialinked-cybercrime-group-demands-70-million-ransom</guid>
+  <pubDate>Mon, 05 Jul 2021 14:26:20 -0700</pubDate>
+ </item>
+ <item>
+  <title>What's Next for Jeff Bezos? </title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5668%2Famazon_unveils_its_first.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;PhilanthropyBezos has pledged $10 billion to climate-focused initiatives through the Bezos Earth Fund and gave $2 billion to increase access to education and address homelessness through the Bezos Day One Fund. SpaceBezos’s interest in space dates back to his teenaged days, when the high school valedictorian told the Miami Herald he wanted to “build space hotels, amusement parks, and colonies for 2 million or 3 million people who would be in orbit.”  Fast forward to 2000, when Bezos founded his rocket company Blue Origin two years before Elon Musk would start SpaceX.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/05/whats-next-jeff-bezos</link>
+  <author>Neal Freyman</author>
+  <categories>c suite</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/whats-next-jeff-bezos</guid>
+  <pubDate>Mon, 05 Jul 2021 14:26:20 -0700</pubDate>
+ </item>
  <item>
   <title>Companies Offer Lucrative Incentives to Lure Workers</title>
   <description>&lt;img src='https://media.giphy.com/media/3ofSB3ihsBOceBlXhe/giphy.gif'&gt;&lt;br/&gt;  Still, while incentives have become more popular they're only advertised in 4.2% of total job postings on Indeed. Plus, a bonus is a one-time commitment rather than an ongoing cost—such as a salary bump or additional PTO.</description>
@@ -343,33 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/key-performance-indicators-july-1</guid>
   <pubDate>Wed, 30 Jun 2021 15:01:11 -0700</pubDate>
- </item>
- <item>
-  <title>New York Has The Worst Traffic In The US</title>
-  <description>&lt;img src='https://media.giphy.com/media/xT5LMFVIKfCsH0rkoo/giphy.gif'&gt;&lt;br/&gt;Zoom out: The average metropolitan driver spent ~41 hours in traffic last year, but those in the US’s five most-congested metro areas spent much more:New York-Newark: 56Boston: 50Houston: 49Los Angeles-Long Beach-Anaheim: 46San Francisco-Oakland: 46Bottom line: Like the Knicks’ playoff appearance, this traffic ranking is a pandemic-era anomaly.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/30/new-york-worst-traffic-us</link>
-  <author>Jamie Wilde</author>
-  <categories>traffic</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/new-york-worst-traffic-us</guid>
-  <pubDate>Wed, 30 Jun 2021 15:01:11 -0700</pubDate>
- </item>
- <item>
-  <title>China's Communist Party Turns 100</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5617%2Ffireworks_in_china.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; After the Communists gained power in the 1949 revolution, Mao initiated a series of disastrous economic reforms that led to the deaths of tens of millions of people. Since the liberalization of China’s economy, the country has developed a close economic relationship with the West—just last week Nike’s CEO said, “Nike is a brand that is of China and for China.” Bottom line: At 100 years old, the Communist Party remains a potent global force led by a president who could be the first since Mao to rule until he dies.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/30/chinas-communist-party-turns-100</link>
-  <author>Neal Freyman</author>
-  <categories>geopolitics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/chinas-communist-party-turns-100</guid>
-  <pubDate>Wed, 30 Jun 2021 14:56:19 -0700</pubDate>
- </item>
- <item>
-  <title>Finra Levies Robinhood Its Biggest Fine Ever</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5618%2Frobinhood_finra_fine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Some examples:A feature that was supposed to allow users to block their ability to trade with borrowed money did not work for certain trades. Finra accused Robinhood of misleading customers and for failing to provide support to them when asked. Glitches resulted in traders seeing inaccurate balances. Its paperwork is expected any day now.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/30/finra-levies-robinhood-biggest-fine-ever</link>
-  <author>Jamie Wilde</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/finra-levies-robinhood-biggest-fine-ever</guid>
-  <pubDate>Wed, 30 Jun 2021 14:56:18 -0700</pubDate>
  </item>
 
 </channel>
