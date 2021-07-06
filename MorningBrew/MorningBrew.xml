@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/06</link>
- <lastBuildDate>Tue, 06 Jul 2021 15:08:14 -0700</lastBuildDate>
- <pubDate>Tue, 06 Jul 2021 15:08:14 -0700</pubDate>
+ <lastBuildDate>Tue, 06 Jul 2021 15:13:16 -0700</lastBuildDate>
+ <pubDate>Tue, 06 Jul 2021 15:13:16 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 7</title>
+  <description>&lt;img src='https://media.giphy.com/media/l46CekClkSfNji5nq/giphy.gif'&gt;&lt;br/&gt;(The Guardian) Read: Is it time to give up caffeine? The disaster is starting to ripple across South Florida’s sizzling real estate sector.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/06/key-performance-indicators-july-7</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/key-performance-indicators-july-7</guid>
+  <pubDate>Tue, 06 Jul 2021 15:11:15 -0700</pubDate>
+ </item>
  <item>
   <title>Pentagon Cancels Controversial JEDI Contract in Favor of Multi-Vendor Model</title>
   <description>&lt;img src='https://media.giphy.com/media/1xo9COytfPE9chS05b/giphy.gif'&gt;&lt;br/&gt; The Pentagon is replacing JEDI with the Joint Warfighter Cloud Capability (JWCC) project and opening up the contract to multiple potential vendors including Amazon, Microsoft, Alphabet, and anyone else that can prove they’ve got the cloud computing chops to give the Defense Department an IT makeover. Cancel culture strikes again: The Pentagon said yesterday it’s scrapping its $10 billion JEDI cloud-computing contract with Microsoft and replacing it with another one that will require multiple vendors.</description>
@@ -361,15 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/name-image-likeness-relaxations-creates-new-industry-overnight?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 02 Jul 2021 03:01:19 -0700</pubDate>
- </item>
- <item>
-  <title>Name, Image, and Likeness Relaxations Creates New Industry Overnight</title>
-  <description>&lt;img src='https://media.giphy.com/media/hHTLJpBn139IpZgb6X/giphy.gif'&gt;&lt;br/&gt; + Further NIL reading: The top 20 athletes who could capitalize on NIL and the earning potential of athletes across sports and endorsement deals. 25 states passed NIL bills that challenged the NCAA’s rules banning student athletes from monetizing their popularity. The relaxation of rules governing name, image, and likeness (NIL) allows college athletes to sign endorsement deals and make money off their fame for the first time, resulting in a “transcendent day for American sports,” Sports Illustrated writes.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/01/name-image-likeness-relaxations-creates-new-industry-overnight</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/name-image-likeness-relaxations-creates-new-industry-overnight</guid>
-  <pubDate>Thu, 01 Jul 2021 14:46:19 -0700</pubDate>
  </item>
 
 </channel>
