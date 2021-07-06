@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/06</link>
- <lastBuildDate>Tue, 06 Jul 2021 15:13:16 -0700</lastBuildDate>
- <pubDate>Tue, 06 Jul 2021 15:13:16 -0700</pubDate>
+ <lastBuildDate>Tue, 06 Jul 2021 15:18:20 -0700</lastBuildDate>
+ <pubDate>Tue, 06 Jul 2021 15:18:20 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Nextdoor Announces SPAC With Expected $4.3 Billion Valuation</title>
+  <description>&lt;img src='https://media.giphy.com/media/l0HUgRQaWnJIkxS6Y/giphy.gif'&gt;&lt;br/&gt;Like other social media companies, it uses a mix of machine-learning tech and human moderators to supervise discussion. Big picture: As the company scales and goes public, it'll be under greater scrutiny from investors to address racism and other toxic behaviors that have already surfaced on the app.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/06/nextdoor-announces-spac-expected-43-billion-valuation</link>
+  <author>Matty Merritt</author>
+  <categories>ipo</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/nextdoor-announces-spac-expected-43-billion-valuation</guid>
+  <pubDate>Tue, 06 Jul 2021 15:16:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Subway Overhauls Menu in a Bid to Win Back Consumers</title>
+  <description>&lt;img src='https://media.giphy.com/media/26BRtdgnU1y90zNeg/giphy.gif'&gt;&lt;br/&gt;While fast-food rivals enjoyed booming demand for contactless pickups during Covid, Subway missed out on that opportunity since fewer than one in 10 Subway stores had a drive-thru.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/06/subway-overhauls-menu-bid-win-back-consumers</link>
+  <author>Sherry Qin</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/subway-overhauls-menu-bid-win-back-consumers</guid>
+  <pubDate>Tue, 06 Jul 2021 15:16:19 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 7</title>
   <description>&lt;img src='https://media.giphy.com/media/l46CekClkSfNji5nq/giphy.gif'&gt;&lt;br/&gt;(The Guardian) Read: Is it time to give up caffeine? The disaster is starting to ripple across South Florida’s sizzling real estate sector.</description>
@@ -351,24 +369,6 @@
   <author>Sherry Qin</author>
   <categories>tax</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/130-countries-agree-global-minimum-corporate-tax-rate?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 02 Jul 2021 03:01:19 -0700</pubDate>
- </item>
- <item>
-  <title>Robinhood Announces IPO After $70 Million Finra Fine</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2127%2Frobinhood_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;For instance, Robinhood wants you to buy into Robinhood’s IPO on Robinhood. In an unusual move, it’s setting aside 20%–35% of its Class A stock for its customers, as opposed to bankers. US-listed IPOs have already raised over $190 billion so far in 2021, more than 2020’s total.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/01/robinhood-announces-ipo-70-million-finra-fine?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/robinhood-announces-ipo-70-million-finra-fine?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 02 Jul 2021 03:01:19 -0700</pubDate>
- </item>
- <item>
-  <title>Name, Image, and Likeness Relaxations Creates New Industry Overnight</title>
-  <description>&lt;img src='https://media.giphy.com/media/hHTLJpBn139IpZgb6X/giphy.gif'&gt;&lt;br/&gt; + Further NIL reading: The top 20 athletes who could capitalize on NIL and the earning potential of athletes across sports and endorsement deals. 25 states passed NIL bills that challenged the NCAA’s rules banning student athletes from monetizing their popularity. For example, industry insiders expect LSU gymnast Olivia Dunne to earn the most of any NCAA athlete from NIL endorsements.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/01/name-image-likeness-relaxations-creates-new-industry-overnight?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/name-image-likeness-relaxations-creates-new-industry-overnight?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 02 Jul 2021 03:01:19 -0700</pubDate>
  </item>
 
