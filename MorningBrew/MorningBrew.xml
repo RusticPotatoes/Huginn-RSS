@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/06</link>
- <lastBuildDate>Tue, 06 Jul 2021 15:18:20 -0700</lastBuildDate>
- <pubDate>Tue, 06 Jul 2021 15:18:20 -0700</pubDate>
+ <lastBuildDate>Tue, 06 Jul 2021 15:23:15 -0700</lastBuildDate>
+ <pubDate>Tue, 06 Jul 2021 15:23:15 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Employees in Iceland Start Working Four Days a Week</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5675%2Ffour-day_week.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Researchers found that a four-day week with the same pay improved workers’ well-being and productivity.   Buffer, a social media software company, has let its 89 employees work four days a week since May 2020.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/06/employees-iceland-start-working-four-days-week</link>
+  <author>Sherry Qin</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/employees-iceland-start-working-four-days-week</guid>
+  <pubDate>Tue, 06 Jul 2021 15:21:15 -0700</pubDate>
+ </item>
  <item>
   <title>Nextdoor Announces SPAC With Expected $4.3 Billion Valuation</title>
   <description>&lt;img src='https://media.giphy.com/media/l0HUgRQaWnJIkxS6Y/giphy.gif'&gt;&lt;br/&gt;Like other social media companies, it uses a mix of machine-learning tech and human moderators to supervise discussion. Big picture: As the company scales and goes public, it'll be under greater scrutiny from investors to address racism and other toxic behaviors that have already surfaced on the app.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/key-performance-indicators-july-2?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 02 Jul 2021 03:01:19 -0700</pubDate>
- </item>
- <item>
-  <title>130 Countries Agree to Global Minimum Corporate Tax Rate</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4403%2Fcorporate_taxes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;For the past 30 years, countries have lowered their corporate tax rates to lure companies to their shores.  Big picture: Under a global minimum tax, multinational corporations would theoretically stop moving their headquarters to tax havens like the British Virgin Islands and Bermuda.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/01/130-countries-agree-global-minimum-corporate-tax-rate?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>tax</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/130-countries-agree-global-minimum-corporate-tax-rate?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 02 Jul 2021 03:01:19 -0700</pubDate>
  </item>
 
