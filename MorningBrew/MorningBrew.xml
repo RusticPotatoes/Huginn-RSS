@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/05/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/06/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/06/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/05</link>
- <lastBuildDate>Mon, 05 Jul 2021 14:38:14 -0700</lastBuildDate>
- <pubDate>Mon, 05 Jul 2021 14:38:14 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/06</link>
+ <lastBuildDate>Tue, 06 Jul 2021 03:03:16 -0700</lastBuildDate>
+ <pubDate>Tue, 06 Jul 2021 03:03:16 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 6</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5666%2Fu_s_-new_york-hot_dog_eat.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: Britney Spears’s conservatorship nightmare, by Ronan Farrow and Jia Tolentino.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/05/key-performance-indicators-july-6?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/key-performance-indicators-july-6?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 06 Jul 2021 03:01:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>Russia-linked Cybercrime Group Demands $70 Million Ransom</title>
+  <description>&lt;img src='https://media.giphy.com/media/j4rPM934CLIvC/giphy.gif'&gt;&lt;br/&gt;They also appeared to time the attack for Fourth of July weekend intentionally, knowing US office workers would be OOO. Looking ahead... Last month, it extorted $11 million from meat supplier JBS after forcing it to shut down its plants.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/05/russialinked-cybercrime-group-demands-70-million-ransom?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>cybersecurity</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/russialinked-cybercrime-group-demands-70-million-ransom?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 06 Jul 2021 03:01:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>Chinese Regulators Kick Didi Off App Stores, Stop New User Sign-ups</title>
+  <description>&lt;img src='https://media.giphy.com/media/QWFJANl1sgEid0dbRY/giphy.gif'&gt;&lt;br/&gt;Last week, Chinese ride-hailing company Didi Chuxing went public in one of the largest US IPOs of the past decade. This weekend, Chinese regulators stopped new users from signing up and ordered its removal from app stores.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/05/chinese-regulators-kick-didi-off-app-stores-stop-new-user-signups?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/chinese-regulators-kick-didi-off-app-stores-stop-new-user-signups?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 06 Jul 2021 03:01:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>What's Next for Jeff Bezos? </title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5668%2Famazon_unveils_its_first.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;PhilanthropyBezos has pledged $10 billion to climate-focused initiatives through the Bezos Earth Fund and gave $2 billion to increase access to education and address homelessness through the Bezos Day One Fund. SpaceBezos’s interest in space dates back to his teenage days, when the high school valedictorian told the Miami Herald he wanted to “build space hotels, amusement parks, and colonies for 2 million or 3 million people who would be in orbit.”  Fast forward to 2000, when Bezos founded his rocket company Blue Origin two years before Elon Musk would start SpaceX.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/05/whats-next-jeff-bezos?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>c suite</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/whats-next-jeff-bezos?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 06 Jul 2021 03:01:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Short Week Ahead: July 6</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5669%2Fsun_valley_id.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Richard Branson will fly in a Virgin Galactic test flight to space on Sunday. Marvel’s Black Widow arrives Friday. Everything else:A Gossip Girl reboot comes to HBO Max on Thursday. And the National Spelling Bee (def a sport) final will be televised Thursday after getting canceled last year. Wimbledon continues through this week.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/05/short-week-ahead-july-6?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/short-week-ahead-july-6?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 06 Jul 2021 03:01:15 -0700</pubDate>
+ </item>
  <item>
   <title>The Short Week Ahead: July 6</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5669%2Fsun_valley_id.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Richard Branson will fly in a Virgin Galactic test flight to space on Sunday. Marvel’s Black Widow arrives Friday. Everything else:A Gossip Girl reboot comes to HBO Max on Thursday. And the National Spelling Bee (def a sport) final will be televised Thursday after getting canceled last year. Wimbledon continues through this week.</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/key-performance-indicators-july-2</guid>
   <pubDate>Thu, 01 Jul 2021 14:36:11 -0700</pubDate>
- </item>
- <item>
-  <title>Robinhood Announces IPO After $70 Million Finra Fine</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2127%2Frobinhood_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;For instance, Robinhood wants you to buy into Robinhood’s IPO on Robinhood. In an unusual move, it’s setting aside 20%–35% of its Class A stock for its customers, as opposed to bankers. US-listed IPOs have already raised over $190 billion so far in 2021, more than 2020’s total.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/01/robinhood-announces-ipo-70-million-finra-fine</link>
-  <author>Matty Merritt</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/robinhood-announces-ipo-70-million-finra-fine</guid>
-  <pubDate>Thu, 01 Jul 2021 14:36:11 -0700</pubDate>
- </item>
- <item>
-  <title>New York Has The Worst Traffic In The US</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5621%2Fentertainment_tourism_i.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: The average metropolitan driver spent ~41 hours in traffic last year, but drivers in the US’ five most-congested metro areas spent much more:New York-Newark: 56Boston: 50Houston: 49Los Angeles-Long Beach-Anaheim: 46San Francisco-Oakland: 46Bottom line: Like the Knicks’ playoff appearance, this traffic ranking is a pandemic-era anomaly.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/30/new-york-worst-traffic-us?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>traffic</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/new-york-worst-traffic-us?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 01 Jul 2021 03:01:11 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 1</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1823%2Fbig_tech_under_the_antitrust_spotlight.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: What deadlines do to lifetimes. The department, whose alumni include Meryl Streep and Lupita Nyong’o, will be renamed the David Geffen School of Drama at Yale, proving nothing is truly free.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/30/key-performance-indicators-july-1?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/key-performance-indicators-july-1?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 01 Jul 2021 03:01:11 -0700</pubDate>
- </item>
- <item>
-  <title>Amazon Files Motion to Remove Lina Khan From the Company’s Antitrust Investigations</title>
-  <description>&lt;img src='https://media.giphy.com/media/TYyIBf1OYC2oo/giphy.gif'&gt;&lt;br/&gt;Amazon filed a motion yesterday to keep Federal Trade Commission Chairwoman Lina Khan out of ongoing antitrust investigations because of her past criticisms of the company. The Yale Law grad was sworn in as chair of the FTC this month.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/30/amazon-files-motion-remove-lina-khan-companys-antitrust-investigations?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>antitrust</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/amazon-files-motion-remove-lina-khan-companys-antitrust-investigations?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 01 Jul 2021 03:01:11 -0700</pubDate>
- </item>
- <item>
-  <title>Finra Levies Robinhood Its Biggest Fine Ever</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5618%2Frobinhood_finra_fine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Some examples:A feature that was supposed to allow users to block their ability to trade with borrowed money did not work for certain trades. Finra accused Robinhood of misleading customers and for failing to provide support to them when asked. Glitches resulted in traders seeing inaccurate balances. Its IPO paperwork is expected any day now.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/06/30/finra-levies-robinhood-biggest-fine-ever?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/06/30/finra-levies-robinhood-biggest-fine-ever?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 01 Jul 2021 03:01:11 -0700</pubDate>
  </item>
 
 </channel>
