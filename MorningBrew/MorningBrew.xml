@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/06/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/06/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/07/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/06</link>
- <lastBuildDate>Tue, 06 Jul 2021 15:23:15 -0700</lastBuildDate>
- <pubDate>Tue, 06 Jul 2021 15:23:15 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/07</link>
+ <lastBuildDate>Wed, 07 Jul 2021 03:03:18 -0700</lastBuildDate>
+ <pubDate>Wed, 07 Jul 2021 03:03:18 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Employees in Iceland Start Working Four Days a Week</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5675%2Ffour-day_week.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Both Spain and Japan are piloting a 32-hour work week over three years in response to changing perceptions of work during Covid.   Buffer, a social media software company, has let its 89 employees work four days a week since May 2020. Researchers found that a four-day week with the same pay improved workers’ well-being and productivity.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/06/employees-iceland-start-working-four-days-week?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/employees-iceland-start-working-four-days-week?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 07 Jul 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: July 7</title>
+  <description>&lt;img src='https://media.giphy.com/media/l46CekClkSfNji5nq/giphy.gif'&gt;&lt;br/&gt;(The Guardian) Read: Is it time to give up caffeine? The disaster is starting to ripple across South Florida’s sizzling real estate sector.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/06/key-performance-indicators-july-7?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/key-performance-indicators-july-7?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 07 Jul 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Nextdoor Announces SPAC With Expected $4.3 Billion Valuation</title>
+  <description>&lt;img src='https://media.giphy.com/media/l0HUgRQaWnJIkxS6Y/giphy.gif'&gt;&lt;br/&gt;Like other social media companies, it uses a mix of machine-learning tech and human moderators to supervise discussion. Big picture: As the company scales and goes public, it'll be under greater scrutiny from investors to address racism and other toxic behaviors that have already surfaced on the app.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/06/nextdoor-announces-spac-expected-43-billion-valuation?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>social</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/nextdoor-announces-spac-expected-43-billion-valuation?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 07 Jul 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Subway Overhauls Menu in a Bid to Win Back Consumers</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2600%2Fsubway_storefront.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;While fast-food rivals enjoyed booming demand for contactless pickups during Covid, Subway missed out on that opportunity since fewer than one in 10 Subway stores had a drive-thru.  But not too much innovation.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/06/subway-overhauls-menu-bid-win-back-consumers?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/subway-overhauls-menu-bid-win-back-consumers?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 07 Jul 2021 03:01:16 -0700</pubDate>
+ </item>
+ <item>
+  <title>Pentagon Cancels Controversial JEDI Contract in Favor of Multi-Vendor Model</title>
+  <description>&lt;img src='https://media.giphy.com/media/1xo9COytfPE9chS05b/giphy.gif'&gt;&lt;br/&gt; The Pentagon is replacing JEDI with the Joint Warfighter Cloud Capability (JWCC) project and opening up the contract to multiple potential vendors including Amazon, Microsoft, Alphabet, and anyone else that can prove they’ve got the cloud computing chops to give the Defense Department an IT makeover. Cancel culture strikes again: The Pentagon said yesterday it’s scrapping its $10 billion JEDI cloud-computing contract with Microsoft and replacing it with another one that will require multiple vendors.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/06/pentagon-cancels-controversial-jedi-contract-favor-multivendor-model?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>defense</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/pentagon-cancels-controversial-jedi-contract-favor-multivendor-model?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 07 Jul 2021 03:01:16 -0700</pubDate>
+ </item>
  <item>
   <title>Employees in Iceland Start Working Four Days a Week</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5675%2Ffour-day_week.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Researchers found that a four-day week with the same pay improved workers’ well-being and productivity.   Buffer, a social media software company, has let its 89 employees work four days a week since May 2020.</description>
@@ -325,51 +370,6 @@
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/us-economy-adds-850000-jobs-june-bullish-sign-labor-market</guid>
   <pubDate>Fri, 02 Jul 2021 14:51:20 -0700</pubDate>
- </item>
- <item>
-  <title>Five Fast Firework Facts for the Fourth</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1603%2Ffireworks.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Not helping: 90% of US fireworks are made in China, so logjams at ports over there mean a reduction or delay in getting supply over here. Massachusetts is the only state with a total ban on the sale of consumer fireworks. Thanks, Ben Affleck. 5.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/02/five-fast-firework-facts-fourth</link>
-  <author>Matty Merritt</author>
-  <categories>pyrotechnics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/five-fast-firework-facts-fourth</guid>
-  <pubDate>Fri, 02 Jul 2021 14:51:20 -0700</pubDate>
- </item>
- <item>
-  <title>Origin Stories: July Fourth’s Favorite Companies</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5659%2F2018_nathan_s_famous_hot_dog_eating_contest.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Nathan’s Hot DogsYes, a guy named Nathan did actually start this company. Old Navy became the first clothing company to reach $1 billion in sales in its first four years of business. What’s up with the matching Old Navy shirts in every single one of our family pics? In 2012, Solo was acquired by Dart Container for $1 billion, and according to the company’s website, fans post 400,000+ photos with the iconic red cup every year.  Red Solo cupIt’s the early 1930s in Chicago, and disposable cups are all the rage after the city council banned the use of germy “common drinking cups” 20 years before. The contest, where competitors have 10 minutes to inhale as many hot dogs as they can, has aired live on ESPN since 2004. Why is Nathan's the first name you think of when you picture a hot dog? In 1916, Nathan Handwerker began selling hot dogs in New York’s Coney Island for five cents.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/02/origin-stories-july-fourths-favorite-companies</link>
-  <author>Matty Merritt</author>
-  <categories>analysis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/origin-stories-july-fourths-favorite-companies</guid>
-  <pubDate>Fri, 02 Jul 2021 14:11:14 -0700</pubDate>
- </item>
- <item>
-  <title>Make It Work: How to Address a Pay Gap Issue</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Hey Kate, I recently discovered that I am being paid 25%–33% less than my male colleagues working in the same position with the same level of education and work experience. Each week, Morning Brew's Head of People Ops Kate Noel answers reader-submitted questions about work in 2021.  If you don’t get a positive response, maybe it’s time to look for an employer that values your talents and experience. Be clear, specific, and confident!</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/02/make-work-address-pay-gap-issue</link>
-  <author>Neal Freyman</author>
-  <categories>work life</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/make-work-address-pay-gap-issue</guid>
-  <pubDate>Fri, 02 Jul 2021 14:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers With...Beeple</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5657%2Fpicture_of_beeple.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And that's not a part of NFTs.What is the future of NFTs? NFTs will be part of your life, just because they'll be the easiest way to prove that you own things. This WENEW project is one new use case for NFTs. As more use cases come, more people will learn about this technology and see value in it for something that connects to their lives.  It's been really exciting to be a part of something that feels like it's the beginning. It’s still the most expensive NFT ever sold.  The other thing that is tough for people to understand is that one of the main aspects of ownership with many things is being able to restrict access to that thing. They’ll be attached to a bunch of different things that make it easy to prove that you are the one single person that has that thing.  You’ve had quite a year, selling an NFT for $69 million. It’s a super exciting time, and I feel very honored to be a part of that.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/02/icebreakers-withbeeple</link>
-  <author>Jamie Wilde</author>
-  <categories>qanda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/icebreakers-withbeeple</guid>
-  <pubDate>Fri, 02 Jul 2021 13:51:16 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 2</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5639%2Fwally_funk_and_jeff_bezos.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New York Times) —Wally FunkRead: Joe Rogan is too big to cancel. You can still do it if you want to do it and I like to do things that nobody has ever done.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/01/key-performance-indicators-july-2?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/01/key-performance-indicators-july-2?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 02 Jul 2021 03:01:19 -0700</pubDate>
  </item>
 
 </channel>
