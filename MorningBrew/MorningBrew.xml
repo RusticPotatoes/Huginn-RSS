@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/07</link>
- <lastBuildDate>Wed, 07 Jul 2021 15:28:15 -0700</lastBuildDate>
- <pubDate>Wed, 07 Jul 2021 15:28:15 -0700</pubDate>
+ <lastBuildDate>Wed, 07 Jul 2021 15:38:14 -0700</lastBuildDate>
+ <pubDate>Wed, 07 Jul 2021 15:38:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>China Tightens Regulations On Its Tech Companies</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5686%2Fwall_street_bull_and_chinese_flag.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Hong Kong could soon become the only place for non-Chinese investors to buy stakes in Chinese tech companies as regulators throttle firms listed in the US. The change would force companies classified under a certain corporate structure (known as the Variable Interest Entity model if you want to sound smart af) to seek the government’s approval before listing shares in the US or Hong Kong. all this could lead to a possible techxodus of up to $2 trillion worth of shares from US markets to China.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/07/china-tightens-regulations-tech-companies</link>
+  <author>Jamie Wilde</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/china-tightens-regulations-tech-companies</guid>
+  <pubDate>Wed, 07 Jul 2021 15:36:12 -0700</pubDate>
+ </item>
  <item>
   <title>Reliance on Office Space Leaves Downtowns’ Futures Unstable</title>
   <description>&lt;img src='https://media.giphy.com/media/2JUwr3tnfiQJa/giphy.gif'&gt;&lt;br/&gt; A jump in remote/hybrid work post-Covid could threaten central business districts in places like Boston and San Francisco, where office space makes up 70%–80% of downtown real estate, per new analysis from the NYT’s Upshot with CoStar.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>c suite</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/get-know-amazons-new-ceo-andy-jassy?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 03 Jul 2021 03:01:12 -0700</pubDate>
- </item>
- <item>
-  <title>US Economy Adds 850,000 Jobs in June in Bullish Sign for Labor Market</title>
-  <description>&lt;img src='https://media.giphy.com/media/lnMsxRxL4RCzdzTRHu/giphy.gif'&gt;&lt;br/&gt;The US economy added 850,000 jobs in June, marking the biggest monthly gain in almost a year and topping expectations. The 850,000 headline number represents a big improvement from May’s jobs report (+583,000 jobs) and April’s (+269,000). Economists hope that the increase in job seekers in June is a sign the labor crunch could smooth out by fall. Challenges remain, of course.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/02/us-economy-adds-850000-jobs-june-bullish-sign-labor-market?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/us-economy-adds-850000-jobs-june-bullish-sign-labor-market?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 03 Jul 2021 03:01:12 -0700</pubDate>
  </item>
 
