@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/07</link>
- <lastBuildDate>Wed, 07 Jul 2021 03:03:18 -0700</lastBuildDate>
- <pubDate>Wed, 07 Jul 2021 03:03:18 -0700</pubDate>
+ <lastBuildDate>Wed, 07 Jul 2021 15:13:10 -0700</lastBuildDate>
+ <pubDate>Wed, 07 Jul 2021 15:13:10 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 8</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5684%2Fsotheby_s_101-carat_diamond.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Range Report)  Read: Some misunderstandings around the Sha’Carri Richardson saga. Experts say the challenge is a Hail Mary, but either way Trump began to send fundraising emails off of it immediately.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/07/key-performance-indicators-july-8</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/key-performance-indicators-july-8</guid>
+  <pubDate>Wed, 07 Jul 2021 15:11:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>What's Behind the Oil Squabble in the Gulf? </title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2392%2Fgame_of_risk_played_in_oil_barrels.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The UAE wants to increase its own production by more than the Saudi plan allows for, so talks fell apart and oil prices hit a six-year high earlier this week.     Looking ahead... The UAE’s strategy: The country is envisioning a future with more renewable energy and stricter climate-focused policies.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/07/whats-behind-oil-squabble-gulf</link>
+  <author>Neal Freyman</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/whats-behind-oil-squabble-gulf</guid>
+  <pubDate>Wed, 07 Jul 2021 15:11:19 -0700</pubDate>
+ </item>
  <item>
   <title>Employees in Iceland Start Working Four Days a Week</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5675%2Ffour-day_week.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Both Spain and Japan are piloting a 32-hour work week over three years in response to changing perceptions of work during Covid.   Buffer, a social media software company, has let its 89 employees work four days a week since May 2020. Researchers found that a four-day week with the same pay improved workers’ well-being and productivity.</description>
@@ -352,24 +370,6 @@
   <categories>personal finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/money-matters-pay-off-student-loans</guid>
   <pubDate>Fri, 02 Jul 2021 14:56:15 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 3</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3111%2Fcentral_park_new_york_city.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Atlantic)   Read: The three simple rules that underscore the danger of Delta. The positive test means she won’t be able to compete in the 100-meter race at the Tokyo Olympics, but could be available for the 4x100 meter relay.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/02/key-performance-indicators-july-3</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/key-performance-indicators-july-3</guid>
-  <pubDate>Fri, 02 Jul 2021 14:56:15 -0700</pubDate>
- </item>
- <item>
-  <title>US Economy Adds 850,000 Jobs in June in Bullish Sign for Labor Market</title>
-  <description>&lt;img src='https://media.giphy.com/media/lnMsxRxL4RCzdzTRHu/giphy.gif'&gt;&lt;br/&gt;The 850,000 headline number represents a big improvement from May’s jobs report (+583,000 jobs) and April’s (+269,000). The US economy added 850,000 jobs in June, marking the biggest monthly gain in almost a year and topping expectations.  A few other major themes from the jobs reportLeisure and hospitality 📈: The sector most battered by the pandemic added 343,000 jobs in June, accounting for 40% of the total gains.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/02/us-economy-adds-850000-jobs-june-bullish-sign-labor-market</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/us-economy-adds-850000-jobs-june-bullish-sign-labor-market</guid>
-  <pubDate>Fri, 02 Jul 2021 14:51:20 -0700</pubDate>
  </item>
 
 </channel>
