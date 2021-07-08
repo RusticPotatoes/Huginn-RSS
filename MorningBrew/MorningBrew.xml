@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/08</link>
- <lastBuildDate>Thu, 08 Jul 2021 15:08:18 -0700</lastBuildDate>
- <pubDate>Thu, 08 Jul 2021 15:08:18 -0700</pubDate>
+ <lastBuildDate>Thu, 08 Jul 2021 15:18:15 -0700</lastBuildDate>
+ <pubDate>Thu, 08 Jul 2021 15:18:15 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Global Venture Funding Uses Momentum From 2021’s First Quarter to Hit Record Highs in Second Quarter</title>
+  <description>&lt;img src='https://media.giphy.com/media/RHIYhjyA2R8IibyqPU/giphy.gif'&gt;&lt;br/&gt;In all, Tiger locked down 81 deals last quarter. The number of new unicorns has grown 491% over last year. Startups globally raised a record $156 billion last quarter, per a new report from CB Insights. It’s “still by far the largest tech hub,” says CB Insights. With Stripe and Klarna on its side, fintech boasts two of the most valuable unicorns in the world. $1 out of every $5 raised globally last quarter went to the fintech industry,  for a total of $33.7 billion.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/08/global-venture-funding-uses-momentum-2021s-first-quarter-hit-record-highs-second-quarter</link>
+  <author>Matty Merritt</author>
+  <categories>venture capital</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/08/global-venture-funding-uses-momentum-2021s-first-quarter-hit-record-highs-second-quarter</guid>
+  <pubDate>Thu, 08 Jul 2021 15:16:14 -0700</pubDate>
+ </item>
  <item>
   <title>Fidji Simo, Facebook Exec, Will Replace Apoorva Mehta as CEO of Instacart</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5701%2Fsummer_2018_tca_press_tou.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Simo spent the last decade building Facebook’s mobile and product teams, and did a pretty good job at it. Simo will be responsible for maintaining that growth in the face of more competition, and for ensuring the company sticks its landing in the public markets later this year.</description>
@@ -361,15 +370,6 @@
   <categories>food</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/03/help-definitely-wanted-restaurant-industry-faces-labor-crunch</guid>
   <pubDate>Sun, 04 Jul 2021 07:31:13 -0700</pubDate>
- </item>
- <item>
-  <title>Postings for HR Roles Jump 53% Above Pre-Pandemic Levels</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5649%2Fhr_job_posting_chart.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/02/postings-hr-roles-jump-53-prepandemic-levels</link>
-  <author>Neal Freyman</author>
-  <categories>hr</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/postings-hr-roles-jump-53-prepandemic-levels</guid>
-  <pubDate>Sun, 04 Jul 2021 07:26:12 -0700</pubDate>
  </item>
 
 </channel>
