@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/08</link>
- <lastBuildDate>Thu, 08 Jul 2021 15:28:18 -0700</lastBuildDate>
- <pubDate>Thu, 08 Jul 2021 15:28:18 -0700</pubDate>
+ <lastBuildDate>Thu, 08 Jul 2021 15:48:16 -0700</lastBuildDate>
+ <pubDate>Thu, 08 Jul 2021 15:48:16 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 9</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3858%2Fsustainability.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Slate) Read: “Cat Person” and me. The automaker has donated $55,000 to 37 Republican objectors this year, according to the Citizens for Responsibility and Ethics in Washington.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/08/key-performance-indicators-july-9</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/08/key-performance-indicators-july-9</guid>
+  <pubDate>Thu, 08 Jul 2021 15:46:16 -0700</pubDate>
+ </item>
  <item>
   <title>10-Year Treasury Yield Plunges to Its Lowest Level since February</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3856%2Fweird_stock_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Because investors sell bonds when they think inflation is coming, the runup in bond prices means inflation has become old news. Why it matters: At the most basic level, the 10-year yield is a key indicator of investors’ confidence in the US economy.</description>
@@ -361,15 +370,6 @@
   <categories>jobs</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/diving-great-resignation-means-american-workers?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 05 Jul 2021 03:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>Companies Offer Lucrative Incentives to Lure Workers</title>
-  <description>&lt;img src='https://media.giphy.com/media/3ofSB3ihsBOceBlXhe/giphy.gif'&gt;&lt;br/&gt;  Still, while incentives are have become more popular they're only advertised in 4.2% of total job postings on Indeed. Plus, a bonus is a one-time commitment, rather than an ongoing cost—such as an income increase or additional PTO.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/03/companies-offer-lucrative-incentives-lure-workers</link>
-  <author>Jamie Wilde</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/03/companies-offer-lucrative-incentives-lure-workers</guid>
-  <pubDate>Sun, 04 Jul 2021 07:36:13 -0700</pubDate>
  </item>
 
 </channel>
