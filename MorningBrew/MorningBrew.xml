@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/08</link>
- <lastBuildDate>Thu, 08 Jul 2021 15:18:15 -0700</lastBuildDate>
- <pubDate>Thu, 08 Jul 2021 15:18:15 -0700</pubDate>
+ <lastBuildDate>Thu, 08 Jul 2021 15:28:18 -0700</lastBuildDate>
+ <pubDate>Thu, 08 Jul 2021 15:28:18 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>10-Year Treasury Yield Plunges to Its Lowest Level since February</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3856%2Fweird_stock_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Because investors sell bonds when they think inflation is coming, the runup in bond prices means inflation has become old news. Why it matters: At the most basic level, the 10-year yield is a key indicator of investors’ confidence in the US economy.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/08/10year-treasury-yield-plunges-lowest-level-since-february</link>
+  <author>Sherry Qin</author>
+  <categories>bond</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/08/10year-treasury-yield-plunges-lowest-level-since-february</guid>
+  <pubDate>Thu, 08 Jul 2021 15:26:17 -0700</pubDate>
+ </item>
  <item>
   <title>Global Venture Funding Uses Momentum From 2021’s First Quarter to Hit Record Highs in Second Quarter</title>
   <description>&lt;img src='https://media.giphy.com/media/RHIYhjyA2R8IibyqPU/giphy.gif'&gt;&lt;br/&gt;In all, Tiger locked down 81 deals last quarter. The number of new unicorns has grown 491% over last year. Startups globally raised a record $156 billion last quarter, per a new report from CB Insights. It’s “still by far the largest tech hub,” says CB Insights. With Stripe and Klarna on its side, fintech boasts two of the most valuable unicorns in the world. $1 out of every $5 raised globally last quarter went to the fintech industry,  for a total of $33.7 billion.</description>
@@ -361,15 +370,6 @@
   <categories>work</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/03/companies-offer-lucrative-incentives-lure-workers</guid>
   <pubDate>Sun, 04 Jul 2021 07:36:13 -0700</pubDate>
- </item>
- <item>
-  <title>Help Definitely Wanted: The Restaurant Industry Faces A Labor Crunch</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5662%2Fmcdonald_s_sign_advertising_job_openings.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The restaurant business, inherently and pre-Covid, was a toxic workplace," North Carolina restaurant owner Patrick Whalen told CNN. But many former restaurant workers also found more stable jobs in other industries and didn’t look back.  After surveying over 2,800 food service workers, UC Berkeley Food Labor Research Center said the top three reasons that they’d leave their jobs are low wages and tips, lingering Covid-19 fears, and concerns of hostility from customers.  Where did they go?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/03/help-definitely-wanted-restaurant-industry-faces-labor-crunch</link>
-  <author>Sherry Qin</author>
-  <categories>food</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/03/help-definitely-wanted-restaurant-industry-faces-labor-crunch</guid>
-  <pubDate>Sun, 04 Jul 2021 07:31:13 -0700</pubDate>
  </item>
 
 </channel>
