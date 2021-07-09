@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/09</link>
- <lastBuildDate>Fri, 09 Jul 2021 14:48:12 -0700</lastBuildDate>
- <pubDate>Fri, 09 Jul 2021 14:48:12 -0700</pubDate>
+ <lastBuildDate>Fri, 09 Jul 2021 14:53:13 -0700</lastBuildDate>
+ <pubDate>Fri, 09 Jul 2021 14:53:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Richard Branson’s Launch Preview</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5728%2Fvirgin_galactic_vms_eve_and_vss_unity.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Branson will be onboard Virgin Galactic’s VSS Unity flight, nine days ahead of Jeff Bezos’s expected launch for Blue Origin on July 20.  When the ship reaches peak altitude, Branson and the three other passengers—all Virgin Galactic employees—will feel weightless.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/09/richard-bransons-launch-preview</link>
+  <author>Matty Merritt</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/09/richard-bransons-launch-preview</guid>
+  <pubDate>Fri, 09 Jul 2021 14:51:11 -0700</pubDate>
+ </item>
  <item>
   <title>Money Matters: How to Stay Patient When Saving? </title>
   <description>&lt;img src='https://media.giphy.com/media/ixZmwZC0R1Zi87EOqG/giphy.gif'&gt;&lt;br/&gt;What are some tips on being patient when saving money? You see where I’m headed, Zach. Become one of the first subscribers. Well, to be fair I had goals, but like you, I thought it’d take too long before I’d see results. Saving is like hitting the gym in that months and years may pass before you notice results, and consistency and persistence is the key.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/chinese-regulators-kick-didi-off-app-stores-stop-new-user-signups?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 06 Jul 2021 03:01:15 -0700</pubDate>
- </item>
- <item>
-  <title>What's Next for Jeff Bezos? </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5668%2Famazon_unveils_its_first.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;PhilanthropyBezos has pledged $10 billion to climate-focused initiatives through the Bezos Earth Fund and gave $2 billion to increase access to education and address homelessness through the Bezos Day One Fund. SpaceBezos’s interest in space dates back to his teenage days, when the high school valedictorian told the Miami Herald he wanted to “build space hotels, amusement parks, and colonies for 2 million or 3 million people who would be in orbit.”  Fast forward to 2000, when Bezos founded his rocket company Blue Origin two years before Elon Musk would start SpaceX.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/05/whats-next-jeff-bezos?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>c suite</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/whats-next-jeff-bezos?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 06 Jul 2021 03:01:15 -0700</pubDate>
  </item>
 
