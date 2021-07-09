@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/09</link>
- <lastBuildDate>Fri, 09 Jul 2021 14:38:10 -0700</lastBuildDate>
- <pubDate>Fri, 09 Jul 2021 14:38:10 -0700</pubDate>
+ <lastBuildDate>Fri, 09 Jul 2021 14:43:11 -0700</lastBuildDate>
+ <pubDate>Fri, 09 Jul 2021 14:43:11 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 10</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5725%2Fus-politics-biden.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It no longer has any meaning or whatever. (New Yorker) Read: Great Jones cookware and the illusion of the millennial aesthetic. Streaming and everything, movies.  Quote: “Hollywood as we know it is irrelevant.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/09/key-performance-indicators-july-10</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/09/key-performance-indicators-july-10</guid>
+  <pubDate>Fri, 09 Jul 2021 14:41:20 -0700</pubDate>
+ </item>
  <item>
   <title>Crypto-Friendly Wyoming Officially Recognizes a DAO</title>
   <description>&lt;img src='https://media.giphy.com/media/fm5JqspHFgIXm/giphy.gif'&gt;&lt;br/&gt;To be specific, the Cowboy State announced that the American CryptoFed DAO is now an LLC. Wyoming became the first US state to officially recognize a Decentralized Autonomous Organization (DAO) this week, its latest step to becoming the country’s most crypto-friendly place to live.   What’s in it for Wyoming?</description>
@@ -361,15 +370,6 @@
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/short-week-ahead-july-6?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 06 Jul 2021 03:01:15 -0700</pubDate>
- </item>
- <item>
-  <title>The Short Week Ahead: July 6</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5669%2Fsun_valley_id.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Richard Branson will fly in a Virgin Galactic test flight to space on Sunday. Marvel’s Black Widow arrives Friday. Everything else:A Gossip Girl reboot comes to HBO Max on Thursday. And the National Spelling Bee (def a sport) final will be televised Thursday after getting canceled last year. Wimbledon continues through this week.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/05/short-week-ahead-july-6</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/short-week-ahead-july-6</guid>
-  <pubDate>Mon, 05 Jul 2021 14:36:13 -0700</pubDate>
  </item>
 
 </channel>
