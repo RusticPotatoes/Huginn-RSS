@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/09</link>
- <lastBuildDate>Fri, 09 Jul 2021 03:04:16 -0700</lastBuildDate>
- <pubDate>Fri, 09 Jul 2021 03:04:16 -0700</pubDate>
+ <lastBuildDate>Fri, 09 Jul 2021 13:18:14 -0700</lastBuildDate>
+ <pubDate>Fri, 09 Jul 2021 13:18:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Icebreakers With...Malcolm Gladwell</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5716%2Fmalcolm_gladwell.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Should we trust the US News &amp; World Report college rankings? Does that preparation always take 10,000 hours? If I did not have to sleep, I would sleep anyway. Sleep is literally my favorite thing to do. 10 years down the line, which activity will passengers in driverless cars do most frequently: work, sleep, chat, or something else? My zombies would be Canadian, like me. If you had to make your own zombie movie, what would your zombies be like? I mean, come on. And then ask yourself: Is that thing you remember so well measurable and quantifiable? I always run before dinner. When I finish a run I usually think only about food. When did you realize The Little Mermaid was not like other Disney movies?  This interview has been lightly edited and condensed for clarity. They would be unfailingly polite. And comfort the afflicted!” I would repeat the greatest of all journalism dictums: “Afflict the comfortable!</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/09/icebreakers-withmalcolm-gladwell</link>
+  <author>Neal Freyman</author>
+  <categories>qanda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/09/icebreakers-withmalcolm-gladwell</guid>
+  <pubDate>Fri, 09 Jul 2021 13:16:13 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 9</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3858%2Fsustainability.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Slate) Read: “Cat Person” and me. The automaker has donated $55,000 to 37 Republican objectors this year, according to the Citizens for Responsibility and Ethics in Washington.</description>
@@ -361,15 +370,6 @@
   <categories>c suite</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/whats-next-jeff-bezos</guid>
   <pubDate>Mon, 05 Jul 2021 14:26:20 -0700</pubDate>
- </item>
- <item>
-  <title>Companies Offer Lucrative Incentives to Lure Workers</title>
-  <description>&lt;img src='https://media.giphy.com/media/3ofSB3ihsBOceBlXhe/giphy.gif'&gt;&lt;br/&gt;  Still, while incentives have become more popular they're only advertised in 4.2% of total job postings on Indeed. Plus, a bonus is a one-time commitment rather than an ongoing cost—such as a salary bump or additional PTO.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/03/companies-offer-lucrative-incentives-lure-workers?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/03/companies-offer-lucrative-incentives-lure-workers?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 05 Jul 2021 03:01:18 -0700</pubDate>
  </item>
 
 </channel>
