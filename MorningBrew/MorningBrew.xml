@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/09</link>
- <lastBuildDate>Fri, 09 Jul 2021 13:53:14 -0700</lastBuildDate>
- <pubDate>Fri, 09 Jul 2021 13:53:14 -0700</pubDate>
+ <lastBuildDate>Fri, 09 Jul 2021 14:03:12 -0700</lastBuildDate>
+ <pubDate>Fri, 09 Jul 2021 14:03:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Meme Battle: Homer Sleeping Peacefully</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5715%2Fhomer_sleeping_peacefully.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  This week's challenge: You can find the new meme template here for next Sunday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/09/meme-battlehomer-sleeping-peacefully</link>
+  <author>Jamie Wilde</author>
+  <categories>contest</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/09/meme-battlehomer-sleeping-peacefully</guid>
+  <pubDate>Fri, 09 Jul 2021 14:01:12 -0700</pubDate>
+ </item>
  <item>
   <title>Make It Work: When Is the Right Time to Become a Manager?</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But only you can want it. It’s not like anyone says, “I want to be a manager when I grow up!” Now, my boss wants to put me into a manager role.  Of course, while managing can be extremely rewarding, it certainly isn’t for everyone. It’s totally normal for you to feel nervous about becoming a manager. I don’t think I’m ready or qualified for the role. Ask Kate here. Something bothering you at work? Let us know what happens! But...</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>geopolitics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/chinese-regulators-kick-didi-off-app-stores-stop-new-user-signups</guid>
-  <pubDate>Mon, 05 Jul 2021 14:26:20 -0700</pubDate>
- </item>
- <item>
-  <title>Russia-linked Cybercrime Group Demands $70 Million Ransom</title>
-  <description>&lt;img src='https://media.giphy.com/media/j4rPM934CLIvC/giphy.gif'&gt;&lt;br/&gt;They also timed the attack for Fourth of July weekend intentionally, knowing US office workers would be OOO. Looking ahead... Last month, it extorted $11 million from meat supplier JBS after forcing it to shut down its plants.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/05/russialinked-cybercrime-group-demands-70-million-ransom</link>
-  <author>Jamie Wilde</author>
-  <categories>cybersecurity</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/russialinked-cybercrime-group-demands-70-million-ransom</guid>
   <pubDate>Mon, 05 Jul 2021 14:26:20 -0700</pubDate>
  </item>
 
