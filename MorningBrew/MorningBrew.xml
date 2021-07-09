@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/09</link>
- <lastBuildDate>Fri, 09 Jul 2021 14:03:12 -0700</lastBuildDate>
- <pubDate>Fri, 09 Jul 2021 14:03:12 -0700</pubDate>
+ <lastBuildDate>Fri, 09 Jul 2021 14:28:14 -0700</lastBuildDate>
+ <pubDate>Fri, 09 Jul 2021 14:28:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Biden Signs Executive Order to Promote Fair Competition</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5723%2Fbiden_signing_an_executive_agreement.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;So he signed a beefy executive order yesterday containing 72 measures meant to target big business and promote competition in the US economy. and more, “Here’s a guide to what I think,” reflects the Biden administration's focus on slowing corporate consolidation in order to help the US consumer.   The executive order mentions everything from shipping fees to over-the-counter hearing aids to banking mergers. Joe Biden is tired of other presidents getting all the “trustbuster” recognition in the history books.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/09/biden-signs-executive-order-promote-fair-competition</link>
+  <author>Neal Freyman</author>
+  <categories>antitrust</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/09/biden-signs-executive-order-promote-fair-competition</guid>
+  <pubDate>Fri, 09 Jul 2021 14:26:14 -0700</pubDate>
+ </item>
  <item>
   <title>Meme Battle: Homer Sleeping Peacefully</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5715%2Fhomer_sleeping_peacefully.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  This week's challenge: You can find the new meme template here for next Sunday.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/key-performance-indicators-july-6</guid>
   <pubDate>Mon, 05 Jul 2021 14:31:12 -0700</pubDate>
- </item>
- <item>
-  <title>Chinese Regulators Kick Didi Off App Stores, Stop New User Sign-ups</title>
-  <description>&lt;img src='https://media.giphy.com/media/QWFJANl1sgEid0dbRY/giphy.gif'&gt;&lt;br/&gt;Last week, Chinese ride-hailing company Didi Chuxing went public in one of the largest US IPOs of the past decade. This weekend, Chinese regulators stopped new users from signing up and ordered its removal from app stores.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/05/chinese-regulators-kick-didi-off-app-stores-stop-new-user-signups</link>
-  <author>Jamie Wilde</author>
-  <categories>geopolitics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/chinese-regulators-kick-didi-off-app-stores-stop-new-user-signups</guid>
-  <pubDate>Mon, 05 Jul 2021 14:26:20 -0700</pubDate>
  </item>
 
 </channel>
