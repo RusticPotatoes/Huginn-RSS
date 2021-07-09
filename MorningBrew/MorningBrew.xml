@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/09</link>
- <lastBuildDate>Fri, 09 Jul 2021 14:43:11 -0700</lastBuildDate>
- <pubDate>Fri, 09 Jul 2021 14:43:11 -0700</pubDate>
+ <lastBuildDate>Fri, 09 Jul 2021 14:48:12 -0700</lastBuildDate>
+ <pubDate>Fri, 09 Jul 2021 14:48:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Money Matters: How to Stay Patient When Saving? </title>
+  <description>&lt;img src='https://media.giphy.com/media/ixZmwZC0R1Zi87EOqG/giphy.gif'&gt;&lt;br/&gt;What are some tips on being patient when saving money? You see where I’m headed, Zach. Become one of the first subscribers. Well, to be fair I had goals, but like you, I thought it’d take too long before I’d see results. Saving is like hitting the gym in that months and years may pass before you notice results, and consistency and persistence is the key.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/09/money-matters-stay-patient-saving</link>
+  <author>Ryan Lasker</author>
+  <categories>personal finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/09/money-matters-stay-patient-saving</guid>
+  <pubDate>Fri, 09 Jul 2021 14:46:11 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 10</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5725%2Fus-politics-biden.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It no longer has any meaning or whatever. (New Yorker) Read: Great Jones cookware and the illusion of the millennial aesthetic. Streaming and everything, movies.  Quote: “Hollywood as we know it is irrelevant.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>c suite</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/whats-next-jeff-bezos?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 06 Jul 2021 03:01:15 -0700</pubDate>
- </item>
- <item>
-  <title>The Short Week Ahead: July 6</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5669%2Fsun_valley_id.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Richard Branson will fly in a Virgin Galactic test flight to space on Sunday. Marvel’s Black Widow arrives Friday. Everything else:A Gossip Girl reboot comes to HBO Max on Thursday. And the National Spelling Bee (def a sport) final will be televised Thursday after getting canceled last year. Wimbledon continues through this week.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/05/short-week-ahead-july-6?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/short-week-ahead-july-6?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 06 Jul 2021 03:01:15 -0700</pubDate>
  </item>
 
