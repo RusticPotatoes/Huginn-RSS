@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/09</link>
- <lastBuildDate>Fri, 09 Jul 2021 14:28:14 -0700</lastBuildDate>
- <pubDate>Fri, 09 Jul 2021 14:28:14 -0700</pubDate>
+ <lastBuildDate>Fri, 09 Jul 2021 14:38:10 -0700</lastBuildDate>
+ <pubDate>Fri, 09 Jul 2021 14:38:10 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Crypto-Friendly Wyoming Officially Recognizes a DAO</title>
+  <description>&lt;img src='https://media.giphy.com/media/fm5JqspHFgIXm/giphy.gif'&gt;&lt;br/&gt;To be specific, the Cowboy State announced that the American CryptoFed DAO is now an LLC. Wyoming became the first US state to officially recognize a Decentralized Autonomous Organization (DAO) this week, its latest step to becoming the country’s most crypto-friendly place to live.   What’s in it for Wyoming?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/09/cryptofriendly-wyoming-officially-recognizes-dao</link>
+  <author>Jamie Wilde</author>
+  <categories>cryptocurrency</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/09/cryptofriendly-wyoming-officially-recognizes-dao</guid>
+  <pubDate>Fri, 09 Jul 2021 14:36:16 -0700</pubDate>
+ </item>
  <item>
   <title>Biden Signs Executive Order to Promote Fair Competition</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5723%2Fbiden_signing_an_executive_agreement.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;So he signed a beefy executive order yesterday containing 72 measures meant to target big business and promote competition in the US economy. and more, “Here’s a guide to what I think,” reflects the Biden administration's focus on slowing corporate consolidation in order to help the US consumer.   The executive order mentions everything from shipping fees to over-the-counter hearing aids to banking mergers. Joe Biden is tired of other presidents getting all the “trustbuster” recognition in the history books.</description>
@@ -361,15 +370,6 @@
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/short-week-ahead-july-6</guid>
   <pubDate>Mon, 05 Jul 2021 14:36:13 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 6</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5666%2Fu_s_-new_york-hot_dog_eat.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: Britney Spears’s conservatorship nightmare, by Ronan Farrow and Jia Tolentino.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/05/key-performance-indicators-july-6</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/key-performance-indicators-july-6</guid>
-  <pubDate>Mon, 05 Jul 2021 14:31:12 -0700</pubDate>
  </item>
 
 </channel>
