@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/08/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/09/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/08</link>
- <lastBuildDate>Thu, 08 Jul 2021 15:48:16 -0700</lastBuildDate>
- <pubDate>Thu, 08 Jul 2021 15:48:16 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/09</link>
+ <lastBuildDate>Fri, 09 Jul 2021 03:04:16 -0700</lastBuildDate>
+ <pubDate>Fri, 09 Jul 2021 03:04:16 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 9</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3858%2Fsustainability.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Slate) Read: “Cat Person” and me. The automaker has donated $55,000 to 37 Republican objectors this year, according to the Citizens for Responsibility and Ethics in Washington.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/08/key-performance-indicators-july-9?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/08/key-performance-indicators-july-9?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 09 Jul 2021 03:02:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>Fidji Simo, Facebook Exec, Will Replace Apoorva Mehta as CEO of Instacart</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5701%2Fsummer_2018_tca_press_tou.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Simo spent the last decade building Facebook’s mobile and product teams, impressing Instacart’s Mehta. Simo will be responsible for maintaining that growth in the face of more competition, and ensuring the company sticks the landing to its upcoming IPO later this year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/08/fidji-simo-facebook-exec-will-replace-apoorva-mehta-ceo-instacart?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>delivery</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/08/fidji-simo-facebook-exec-will-replace-apoorva-mehta-ceo-instacart?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 09 Jul 2021 03:02:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>10-Year Treasury Yield Plunges to Its Lowest Level since February</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3856%2Fweird_stock_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Because investors sell bonds when they think inflation is coming, the runup in bond prices means the worst of Wall Street's inflation concerns may be over. Why it matters: At the most basic level, the 10-year yield is a key indicator of investors’ confidence in future US economic growth.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/08/10year-treasury-yield-plunges-lowest-level-since-february?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/08/10year-treasury-yield-plunges-lowest-level-since-february?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 09 Jul 2021 03:02:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>Global Venture Funding Uses Momentum From 2021’s First Quarter to Hit Record Highs in Second Quarter</title>
+  <description>&lt;img src='https://media.giphy.com/media/RHIYhjyA2R8IibyqPU/giphy.gif'&gt;&lt;br/&gt;Startups globally raised a record $156 billion last quarter, per a new report from CB Insights. $1 out of every $5 raised globally last quarter went to the fintech industry, for a total of $33.7 billion. The number of new unicorns has grown 491% over last year. With Stripe and Klarna, fintech boasts two of the five most valuable unicorns in the world.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/08/global-venture-funding-uses-momentum-2021s-first-quarter-hit-record-highs-second-quarter?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>startups</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/08/global-venture-funding-uses-momentum-2021s-first-quarter-hit-record-highs-second-quarter?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 09 Jul 2021 03:02:15 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 9</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3858%2Fsustainability.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Slate) Read: “Cat Person” and me. The automaker has donated $55,000 to 37 Republican objectors this year, according to the Citizens for Responsibility and Ethics in Washington.</description>
@@ -333,42 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>work</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/03/companies-offer-lucrative-incentives-lure-workers?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 05 Jul 2021 03:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>Help Definitely Wanted: The Restaurant Industry Faces A Labor Crunch</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5662%2Fmcdonald_s_sign_advertising_job_openings.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The restaurant business, inherently and pre-Covid, was a toxic workplace," North Carolina restaurant owner Patrick Whalen told CNN. But many former restaurant workers also found more stable jobs in other industries and didn’t look back.  After surveying over 2,800 food service workers, UC Berkeley Food Labor Research Center said the top three reasons that they’d leave their jobs are low wages and tips, lingering Covid-19 fears, and concerns of hostility from customers.  Where did they go?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/03/help-definitely-wanted-restaurant-industry-faces-labor-crunch?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>food</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/03/help-definitely-wanted-restaurant-industry-faces-labor-crunch?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 05 Jul 2021 03:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>Exclusive: What’s the Job Market for College Students Like This Summer?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F979%2Fcollege_campus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; In a Morning Brew + Generation Lab poll, we asked 500 college students about their work plans for this summer and how they're feeling about it. After the unemployment rate for younger workers shot up to 32% last summer, the jobless rate for teens dropped to 9.6% this May, the lowest it's been since 1953, and stayed pretty steady in June at 9.9%.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/02/exclusive-whats-job-market-college-students-like-summer?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>youth</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/exclusive-whats-job-market-college-students-like-summer?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 05 Jul 2021 03:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>Postings for HR Roles Jump 53% Above Pre-Pandemic Levels</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5649%2Fhr_job_posting_chart.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/02/postings-hr-roles-jump-53-prepandemic-levels?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>hr</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/postings-hr-roles-jump-53-prepandemic-levels?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 05 Jul 2021 03:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>Diving into the Great Resignation and What It Means for American Workers</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5648%2Fpeggy_quitting_on_mad_men.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;However, the main reason employees are quitting their jobs en masse, Harvard economics professor Jason Furman argues, is simpler: There are a record number of job openings in the US right now (9.3 million), and in any economy where lots of jobs are available, people leave their existing roles for greener pastures. A bunch of your coworkers are going to quit their jobs over the next few months—if you don’t leave before then.  In what’s been dubbed the “Great Resignation,” 4 million people, or 2.7% of US workers, quit their jobs in April. If they’re not pampered, they’re skedaddling.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/02/diving-great-resignation-means-american-workers?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>jobs</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/02/diving-great-resignation-means-american-workers?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 05 Jul 2021 03:01:18 -0700</pubDate>
  </item>
 
