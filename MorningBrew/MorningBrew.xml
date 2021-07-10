@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/09/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/10/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/09</link>
- <lastBuildDate>Fri, 09 Jul 2021 14:53:13 -0700</lastBuildDate>
- <pubDate>Fri, 09 Jul 2021 14:53:13 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/10</link>
+ <lastBuildDate>Sat, 10 Jul 2021 07:33:20 -0700</lastBuildDate>
+ <pubDate>Sat, 10 Jul 2021 07:33:20 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Branson in Space: Risky or Reckless?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F662%2Frichard_branson.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;His personal ambitions are intertwined with the company’s—this space flight was inevitable.    Micron shares fell more than 6% following the news of Appleton’s death. A 2011 study found that CEOs with licenses to pilot small aircraft (an activity 30x more dangerous than driving a car) are 40% more likely to make a corporate acquisition and 15% more likely to take on greater leverage. The company has completed more than 20 test flights, but the mission has been delayed by technical issues and a pilot died in a test flight in 2014. Bottom line: When Richard Branson decided to create a space company, it’s probably because he wanted to go to space.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/09/branson-space-risky-reckless</link>
+  <author>Neal Freyman</author>
+  <categories>analysis</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/09/branson-space-risky-reckless</guid>
+  <pubDate>Sat, 10 Jul 2021 07:31:18 -0700</pubDate>
+ </item>
  <item>
   <title>Richard Branson’s Launch Preview</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5728%2Fvirgin_galactic_vms_eve_and_vss_unity.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Branson will be onboard Virgin Galactic’s VSS Unity flight, nine days ahead of Jeff Bezos’s expected launch for Blue Origin on July 20.  When the ship reaches peak altitude, Branson and the three other passengers—all Virgin Galactic employees—will feel weightless.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>cybersecurity</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/russialinked-cybercrime-group-demands-70-million-ransom?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 06 Jul 2021 03:01:15 -0700</pubDate>
- </item>
- <item>
-  <title>Chinese Regulators Kick Didi Off App Stores, Stop New User Sign-ups</title>
-  <description>&lt;img src='https://media.giphy.com/media/QWFJANl1sgEid0dbRY/giphy.gif'&gt;&lt;br/&gt;Last week, Chinese ride-hailing company Didi Chuxing went public in one of the largest US IPOs of the past decade. This weekend, Chinese regulators stopped new users from signing up and ordered its removal from app stores.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/05/chinese-regulators-kick-didi-off-app-stores-stop-new-user-signups?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/chinese-regulators-kick-didi-off-app-stores-stop-new-user-signups?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 06 Jul 2021 03:01:15 -0700</pubDate>
  </item>
 
