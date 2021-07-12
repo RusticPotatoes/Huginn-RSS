@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/12</link>
- <lastBuildDate>Mon, 12 Jul 2021 15:13:14 -0700</lastBuildDate>
- <pubDate>Mon, 12 Jul 2021 15:13:14 -0700</pubDate>
+ <lastBuildDate>Mon, 12 Jul 2021 15:23:20 -0700</lastBuildDate>
+ <pubDate>Mon, 12 Jul 2021 15:23:20 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 13</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1810%2Fr_r.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Dr. Sarah Taber)  Read: A mega-thread on how California ended up with a massive almond industry. Musk is being accused by Tesla shareholders of engineering a self-dealing takeover of SolarCity in 2016.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/12/key-performance-indicators-july-13</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/key-performance-indicators-july-13</guid>
+  <pubDate>Mon, 12 Jul 2021 15:21:19 -0700</pubDate>
+ </item>
  <item>
   <title>Delta Causes Fresh Lockdowns and Higher Caseloads Across the World</title>
   <description>&lt;img src='https://media.giphy.com/media/Us7JbfvCPbmCs/giphy.gif'&gt;&lt;br/&gt;  Boosters are hereFacing rising cases, this week Israel will become the first country in the world to administer a third Covid-19 booster vaccine shot; it’ll be given to adults with serious preexisting conditions. “We just want people to stay at home. Experts warn that the number of deaths could soon rise in unvaccinated areas of the country, but for now they’re down 27% on average nationwide from two weeks ago. In the US, which is more or less fully reopened for business, cases rose 47% last week, the biggest increase since April 2020.</description>
@@ -360,15 +369,6 @@
   <author>Sherry Qin</author>
   <categories>work</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/employees-iceland-start-working-four-days-week?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 07 Jul 2021 03:01:17 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 7</title>
-  <description>&lt;img src='https://media.giphy.com/media/l46CekClkSfNji5nq/giphy.gif'&gt;&lt;br/&gt;(The Guardian) Read: Is it time to give up caffeine? The disaster is starting to ripple across South Florida’s sizzling real estate sector.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/06/key-performance-indicators-july-7?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/key-performance-indicators-july-7?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 07 Jul 2021 03:01:17 -0700</pubDate>
  </item>
 
