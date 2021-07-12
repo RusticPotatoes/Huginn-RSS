@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/11</link>
- <lastBuildDate>Sun, 11 Jul 2021 19:18:15 -0700</lastBuildDate>
- <pubDate>Sun, 11 Jul 2021 19:18:15 -0700</pubDate>
+ <lastBuildDate>Sun, 11 Jul 2021 19:29:36 -0700</lastBuildDate>
+ <pubDate>Sun, 11 Jul 2021 19:29:36 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Global Tax Reform Update</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4403%2Fcorporate_taxes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The plan: It would introduce a 15% minimum tax rate globally, eliminating the “race-to-the-bottom” strategy, where some countries lowered their tax rates to attract business HQs.Why it matters: A 15% floor would make it easier for the Biden administration to raise taxes on corporations in the US, since it’ll be harder for companies to find more attractive rates elsewhere.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/12/global-tax-reform-update</link>
+  <author>Neal Freyman</author>
+  <categories>tax</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/global-tax-reform-update</guid>
+  <pubDate>Sun, 11 Jul 2021 19:26:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Branson and Virgin Galactic Complete High-Stakes Space Flight</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5730%2Fbranson_and_crew_celebrating_the_completion_of_a_space_flight.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;As Elon Musk looked on, Richard Branson and five other crew members successfully completed a flight to space, a milestone for Virgin Galactic and the young space tourism industry.   Bezos wrote in a congratulatory Instagram post after Branson’s flight.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/12/branson-virgin-galactic-complete-highstakes-space-flight</link>
+  <author>Neal Freyman</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/branson-virgin-galactic-complete-highstakes-space-flight</guid>
+  <pubDate>Sun, 11 Jul 2021 19:26:16 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: July 12</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F290%2Fnyse_trader.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Bastille Day is on Wednesday. Economic data: The number to watch is Tuesday’s Consumer Price Index, which measures inflation.  Everything else: Angela Merkel is visiting the White House for what will likely be the final time as German chancellor.</description>
@@ -352,24 +370,6 @@
   <categories>food</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/subway-overhauls-menu-bid-win-back-consumers</guid>
   <pubDate>Tue, 06 Jul 2021 15:16:19 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 7</title>
-  <description>&lt;img src='https://media.giphy.com/media/l46CekClkSfNji5nq/giphy.gif'&gt;&lt;br/&gt;(The Guardian) Read: Is it time to give up caffeine? The disaster is starting to ripple across South Florida’s sizzling real estate sector.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/06/key-performance-indicators-july-7</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/key-performance-indicators-july-7</guid>
-  <pubDate>Tue, 06 Jul 2021 15:11:15 -0700</pubDate>
- </item>
- <item>
-  <title>Pentagon Cancels Controversial JEDI Contract in Favor of Multi-Vendor Model</title>
-  <description>&lt;img src='https://media.giphy.com/media/1xo9COytfPE9chS05b/giphy.gif'&gt;&lt;br/&gt; The Pentagon is replacing JEDI with the Joint Warfighter Cloud Capability (JWCC) project and opening up the contract to multiple potential vendors including Amazon, Microsoft, Alphabet, and anyone else that can prove they’ve got the cloud computing chops to give the Defense Department an IT makeover. Cancel culture strikes again: The Pentagon said yesterday it’s scrapping its $10 billion JEDI cloud-computing contract with Microsoft and replacing it with another one that will require multiple vendors.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/06/pentagon-cancels-controversial-jedi-contract-favor-multivendor-model</link>
-  <author>Neal Freyman</author>
-  <categories>defense</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/pentagon-cancels-controversial-jedi-contract-favor-multivendor-model</guid>
-  <pubDate>Tue, 06 Jul 2021 15:06:14 -0700</pubDate>
  </item>
 
 </channel>
