@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/11</link>
- <lastBuildDate>Sun, 11 Jul 2021 19:08:15 -0700</lastBuildDate>
- <pubDate>Sun, 11 Jul 2021 19:08:15 -0700</pubDate>
+ <lastBuildDate>Sun, 11 Jul 2021 19:13:11 -0700</lastBuildDate>
+ <pubDate>Sun, 11 Jul 2021 19:13:11 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 12</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5729%2Fblack_widow.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Fisherman Eric Richins described the water crisis at Lake Mead to the LA Times. (Scientific American) I didn’t realize it was this bad.  Quote: “I knew the drought was bad.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/12/key-performance-indicators-july-12</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/key-performance-indicators-july-12</guid>
+  <pubDate>Sun, 11 Jul 2021 19:11:19 -0700</pubDate>
+ </item>
  <item>
   <title>Musk Faces Legal Questions Over SolarCity Acquisition</title>
   <description>&lt;img src='https://media.giphy.com/media/QLlbsC0Pu2iYULBry4/giphy.gif'&gt;&lt;br/&gt;As Reuters asks, “Does Elon Musk control Tesla Inc., or does Tesla control Elon Musk?” so how was this bad for Tesla shareholders exactly? Musk didn’t need much due diligence before buying SolarCity—after all, his cousins founded it in 2006 and Musk served as the chairman.  The detailsThe lawsuit alleges that Tesla’s acquisition of SolarCity reeked with conflicts of interest and that Musk failed to disclose some liquidity problems at SolarCity.</description>
@@ -361,15 +370,6 @@
   <categories>marketing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/24/next-disruption-finance-yep-involves-crypto</guid>
   <pubDate>Tue, 06 Jul 2021 11:11:16 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 6</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5666%2Fu_s_-new_york-hot_dog_eat.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: Britney Spears’s conservatorship nightmare, by Ronan Farrow and Jia Tolentino.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/05/key-performance-indicators-july-6?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/key-performance-indicators-july-6?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 06 Jul 2021 03:01:15 -0700</pubDate>
  </item>
 
 </channel>
