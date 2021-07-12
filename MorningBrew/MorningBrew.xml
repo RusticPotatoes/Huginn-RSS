@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/10/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/11/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/11/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/10</link>
- <lastBuildDate>Sat, 10 Jul 2021 07:33:20 -0700</lastBuildDate>
- <pubDate>Sat, 10 Jul 2021 07:33:20 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/11</link>
+ <lastBuildDate>Sun, 11 Jul 2021 19:08:15 -0700</lastBuildDate>
+ <pubDate>Sun, 11 Jul 2021 19:08:15 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Musk Faces Legal Questions Over SolarCity Acquisition</title>
+  <description>&lt;img src='https://media.giphy.com/media/QLlbsC0Pu2iYULBry4/giphy.gif'&gt;&lt;br/&gt;As Reuters asks, “Does Elon Musk control Tesla Inc., or does Tesla control Elon Musk?” so how was this bad for Tesla shareholders exactly? Musk didn’t need much due diligence before buying SolarCity—after all, his cousins founded it in 2006 and Musk served as the chairman.  The detailsThe lawsuit alleges that Tesla’s acquisition of SolarCity reeked with conflicts of interest and that Musk failed to disclose some liquidity problems at SolarCity.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/12/musk-faces-legal-questions-solarcity-acquisition</link>
+  <author>Neal Freyman</author>
+  <categories>governance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/musk-faces-legal-questions-solarcity-acquisition</guid>
+  <pubDate>Sun, 11 Jul 2021 19:06:14 -0700</pubDate>
+ </item>
  <item>
   <title>Branson in Space: Risky or Reckless?</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F662%2Frichard_branson.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;His personal ambitions are intertwined with the company’s—this space flight was inevitable.    Micron shares fell more than 6% following the news of Appleton’s death. A 2011 study found that CEOs with licenses to pilot small aircraft (an activity 30x more dangerous than driving a car) are 40% more likely to make a corporate acquisition and 15% more likely to take on greater leverage. The company has completed more than 20 test flights, but the mission has been delayed by technical issues and a pilot died in a test flight in 2014. Bottom line: When Richard Branson decided to create a space company, it’s probably because he wanted to go to space.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/key-performance-indicators-july-6?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 06 Jul 2021 03:01:15 -0700</pubDate>
- </item>
- <item>
-  <title>Russia-linked Cybercrime Group Demands $70 Million Ransom</title>
-  <description>&lt;img src='https://media.giphy.com/media/j4rPM934CLIvC/giphy.gif'&gt;&lt;br/&gt;They also appeared to time the attack for Fourth of July weekend intentionally, knowing US office workers would be OOO. Looking ahead... Last month, it extorted $11 million from meat supplier JBS after forcing it to shut down its plants.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/05/russialinked-cybercrime-group-demands-70-million-ransom?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>cybersecurity</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/05/russialinked-cybercrime-group-demands-70-million-ransom?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 06 Jul 2021 03:01:15 -0700</pubDate>
  </item>
 
