@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/12</link>
- <lastBuildDate>Mon, 12 Jul 2021 03:03:14 -0700</lastBuildDate>
- <pubDate>Mon, 12 Jul 2021 03:03:14 -0700</pubDate>
+ <lastBuildDate>Mon, 12 Jul 2021 15:13:14 -0700</lastBuildDate>
+ <pubDate>Mon, 12 Jul 2021 15:13:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Delta Causes Fresh Lockdowns and Higher Caseloads Across the World</title>
+  <description>&lt;img src='https://media.giphy.com/media/Us7JbfvCPbmCs/giphy.gif'&gt;&lt;br/&gt;  Boosters are hereFacing rising cases, this week Israel will become the first country in the world to administer a third Covid-19 booster vaccine shot; it’ll be given to adults with serious preexisting conditions. “We just want people to stay at home. Experts warn that the number of deaths could soon rise in unvaccinated areas of the country, but for now they’re down 27% on average nationwide from two weeks ago. In the US, which is more or less fully reopened for business, cases rose 47% last week, the biggest increase since April 2020.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/12/delta-causes-fresh-lockdowns-higher-caseloads-across-world</link>
+  <author>Neal Freyman</author>
+  <categories>health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/delta-causes-fresh-lockdowns-higher-caseloads-across-world</guid>
+  <pubDate>Mon, 12 Jul 2021 15:11:13 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: July 12</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F290%2Fnyse_trader.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Bastille Day is on Wednesday. Investors have recently shrugged off concerns that supercharged prices will linger... Economic data: The number to watch is Tuesday’s Consumer Price Index, which measures inflation.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/key-performance-indicators-july-7?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 07 Jul 2021 03:01:17 -0700</pubDate>
- </item>
- <item>
-  <title>Nextdoor Announces SPAC With Expected $4.3 Billion Valuation</title>
-  <description>&lt;img src='https://media.giphy.com/media/l0HUgRQaWnJIkxS6Y/giphy.gif'&gt;&lt;br/&gt;Like other social media companies, it uses a mix of machine-learning tech and human moderators to supervise discussion. Big picture: As the company scales and goes public, it'll be under greater scrutiny from investors to address racism and other toxic behaviors that have already surfaced on the app.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/06/nextdoor-announces-spac-expected-43-billion-valuation?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>social</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/nextdoor-announces-spac-expected-43-billion-valuation?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 07 Jul 2021 03:01:17 -0700</pubDate>
  </item>
 
