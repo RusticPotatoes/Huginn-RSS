@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/11</link>
- <lastBuildDate>Sun, 11 Jul 2021 19:13:11 -0700</lastBuildDate>
- <pubDate>Sun, 11 Jul 2021 19:13:11 -0700</pubDate>
+ <lastBuildDate>Sun, 11 Jul 2021 19:18:15 -0700</lastBuildDate>
+ <pubDate>Sun, 11 Jul 2021 19:18:15 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: July 12</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F290%2Fnyse_trader.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Bastille Day is on Wednesday. Economic data: The number to watch is Tuesday’s Consumer Price Index, which measures inflation.  Everything else: Angela Merkel is visiting the White House for what will likely be the final time as German chancellor.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/12/week-ahead-july-12</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/week-ahead-july-12</guid>
+  <pubDate>Sun, 11 Jul 2021 19:16:14 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 12</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5729%2Fblack_widow.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Fisherman Eric Richins described the water crisis at Lake Mead to the LA Times. (Scientific American) I didn’t realize it was this bad.  Quote: “I knew the drought was bad.</description>
@@ -361,15 +370,6 @@
   <categories>defense</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/pentagon-cancels-controversial-jedi-contract-favor-multivendor-model</guid>
   <pubDate>Tue, 06 Jul 2021 15:06:14 -0700</pubDate>
- </item>
- <item>
-  <title>The Next Disruption in Finance Is Here (Yep, It Involves Crypto)</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5670%2Fcrypto_future.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;One Small Step for Trading, One Big Step for the Future of FinanceWell, it’s not that simple.  There’s more stuff going on there, but at a technical level, this means it’s a whole lot faster and cheaper to trade assets.  When people make trades on the blockchain, there are no intermediaries in sight—no brokers placing orders, no one rubber-stamping the trade in sight. A gradual, but still seismic, shift is taking place in the financial sector—aka the money biz.  All that takes time; up to two days for just one trade.  Version 2.0: Nothing Between You and Money That’s the normal-person way to describe our topic—disintermediation, or when financial institutions are scrubbed from trading like the videos of last Thursday’s karaoke night from your phone. The banks make money, you make money, other people get loans, everybody wins.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/24/next-disruption-finance-yep-involves-crypto</link>
-  <author>Morning Brew</author>
-  <categories>marketing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/24/next-disruption-finance-yep-involves-crypto</guid>
-  <pubDate>Tue, 06 Jul 2021 11:11:16 -0700</pubDate>
  </item>
 
 </channel>
