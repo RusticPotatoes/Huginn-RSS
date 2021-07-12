@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/12</link>
- <lastBuildDate>Mon, 12 Jul 2021 15:23:20 -0700</lastBuildDate>
- <pubDate>Mon, 12 Jul 2021 15:23:20 -0700</pubDate>
+ <lastBuildDate>Mon, 12 Jul 2021 15:43:12 -0700</lastBuildDate>
+ <pubDate>Mon, 12 Jul 2021 15:43:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Cuba Cracks Down on Protests in Wake of Worst Economic Crisis in Decades</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5749%2Ftopshot-cuba-politics-dem.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;President Obama abstained from a symbolic UN vote opposing the US’ embargo on Cuba for the first time in US history, signaling a move to repair relations. President Biden has yet to reverse any of the Trump admin’s decisions. But when Trump took office, he took a harder line and placed more sanctions on the country.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/12/cuba-cracks-protests-wake-worst-economic-crisis-decades</link>
+  <author>Matty Merritt</author>
+  <categories>international</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/cuba-cracks-protests-wake-worst-economic-crisis-decades</guid>
+  <pubDate>Mon, 12 Jul 2021 15:41:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>This Year’s All-Star Game Gets More Political</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5751%2Fall-star_game_in_denver.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: In April, the MLB said it was moving the All-Star Game from Georgia to Denver due to Georgia’s new voting law. Either way, Denver businesses are happy to play host. Zoom out: A tourism board in Georgia said losing the game cost Georgia $100+ million in economic activity, though MLB estimates are slightly lower.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/12/years-allstar-game-gets-political</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/years-allstar-game-gets-political</guid>
+  <pubDate>Mon, 12 Jul 2021 15:41:11 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 13</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1810%2Fr_r.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Dr. Sarah Taber)  Read: A mega-thread on how California ended up with a massive almond industry. Musk is being accused by Tesla shareholders of engineering a self-dealing takeover of SolarCity in 2016.</description>
@@ -352,24 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/key-performance-indicators-july-8</guid>
   <pubDate>Wed, 07 Jul 2021 15:11:19 -0700</pubDate>
- </item>
- <item>
-  <title>What's Behind the Oil Squabble in the Gulf? </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2392%2Fgame_of_risk_played_in_oil_barrels.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The UAE wants to increase its own production by more than the Saudi plan allows for, so talks fell apart and oil prices hit a six-year high earlier this week.     Looking ahead... The UAE’s strategy: The country is envisioning a future with more renewable energy and stricter climate-focused policies.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/07/whats-behind-oil-squabble-gulf</link>
-  <author>Neal Freyman</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/whats-behind-oil-squabble-gulf</guid>
-  <pubDate>Wed, 07 Jul 2021 15:11:19 -0700</pubDate>
- </item>
- <item>
-  <title>Employees in Iceland Start Working Four Days a Week</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5675%2Ffour-day_week.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Both Spain and Japan are piloting a 32-hour work week over three years in response to changing perceptions of work during Covid.   Buffer, a social media software company, has let its 89 employees work four days a week since May 2020. Researchers found that a four-day week with the same pay improved workers’ well-being and productivity.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/06/employees-iceland-start-working-four-days-week?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/06/employees-iceland-start-working-four-days-week?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 07 Jul 2021 03:01:17 -0700</pubDate>
  </item>
 
 </channel>
