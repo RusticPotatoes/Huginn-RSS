@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/13</link>
- <lastBuildDate>Tue, 13 Jul 2021 14:49:03 -0700</lastBuildDate>
- <pubDate>Tue, 13 Jul 2021 14:49:03 -0700</pubDate>
+ <lastBuildDate>Tue, 13 Jul 2021 14:59:07 -0700</lastBuildDate>
+ <pubDate>Tue, 13 Jul 2021 14:59:07 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Apple Reportedly Working On a Buy-Now-Pay-Later Service</title>
+  <description>&lt;img src='https://media.giphy.com/media/OkgZTFEromFkofWHqk/giphy.gif'&gt;&lt;br/&gt;Apple currently earns a cut of every Apple Pay purchase, so the more users buy, the more it makes. The service will work with any Apple Pay-enabled card, so no Apple Card is required. Goldman Sachs, which is already Apple Card’s partner, has been tapped as the service’s lender.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/13/apple-reportedly-working-buynowpaylater-service</link>
+  <author>Jamie Wilde</author>
+  <categories>fintech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/apple-reportedly-working-buynowpaylater-service</guid>
+  <pubDate>Tue, 13 Jul 2021 14:57:06 -0700</pubDate>
+ </item>
  <item>
   <title>JPMorgan, Goldman Sachs, and PepsiCo Kick off the Earnings Season Strong</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F665%2Fpig.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Consumers are raring to spend more this summer (great for JPMorgan’s credit card biz), but the company’s trading revenue slowed sharply in Q2 as the economy opened up. Their confidence is up.” However, while people are getting out more, “they are not anywhere near where they were,” Johnston said.</description>
@@ -361,15 +370,6 @@
   <categories>shipping</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/ever-given-free-suez-canal-multimillion-dollar-payout?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 08 Jul 2021 03:01:19 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 8</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5684%2Fsotheby_s_101-carat_diamond.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Range Report)  Read: Some misunderstandings around the Sha’Carri Richardson saga. Experts say the challenge is a Hail Mary, but either way Trump began to send fundraising emails off of it immediately.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/07/key-performance-indicators-july-8?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/key-performance-indicators-july-8?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 08 Jul 2021 03:01:18 -0700</pubDate>
  </item>
 
 </channel>
