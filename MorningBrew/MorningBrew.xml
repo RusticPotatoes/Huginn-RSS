@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/13</link>
- <lastBuildDate>Tue, 13 Jul 2021 14:38:58 -0700</lastBuildDate>
- <pubDate>Tue, 13 Jul 2021 14:38:58 -0700</pubDate>
+ <lastBuildDate>Tue, 13 Jul 2021 14:44:06 -0700</lastBuildDate>
+ <pubDate>Tue, 13 Jul 2021 14:44:06 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>With the US Fully Open for Business, Inflation Hits Highest Rate in 13 Years</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5756%2Finflation_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Used cars are the star of this category, with their price increases accounting for more than a third of June’s total price hikes. Prices that are booming thanks to supply shortages. Prices that will remain higher permanently. Prices that plummeted early in the pandemic and are surging to catch up. Combine that with supply shortages across the economy and massive government stimulus, and you get sweeping price increases. As we mentioned, the bulk of the price increases were in sectors battered by the pandemic (hospitality) or those battling supply shortages (used cars).</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/13/us-fully-open-business-inflation-hits-highest-rate-13-years</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/us-fully-open-business-inflation-hits-highest-rate-13-years</guid>
+  <pubDate>Tue, 13 Jul 2021 14:42:05 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 14</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5755%2Fchart_showing_the_best_paying_music_streaming_services.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(GQ) Read: Jason Sudeikis is having one hell of a year. Bloomberg’s Joe Weisenthal has the jokes for the boom in used car prices.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>energy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/whats-behind-oil-squabble-gulf?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 08 Jul 2021 03:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>Reliance on Office Space Leaves Downtowns’ Futures Unstable</title>
-  <description>&lt;img src='https://media.giphy.com/media/2JUwr3tnfiQJa/giphy.gif'&gt;&lt;br/&gt; A jump in remote/hybrid work post-Covid could threaten central business districts in places like Boston and San Francisco, where office space makes up 70%–80% of downtown real estate, per a new study from the NYT’s Upshot with CoStar.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/07/reliance-office-space-leaves-downtowns-futures-unstable?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/reliance-office-space-leaves-downtowns-futures-unstable?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 08 Jul 2021 03:01:18 -0700</pubDate>
  </item>
 
