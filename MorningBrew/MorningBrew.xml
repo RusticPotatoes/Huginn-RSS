@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/12/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/13/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/12</link>
- <lastBuildDate>Mon, 12 Jul 2021 15:43:12 -0700</lastBuildDate>
- <pubDate>Mon, 12 Jul 2021 15:43:12 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/13</link>
+ <lastBuildDate>Tue, 13 Jul 2021 03:03:45 -0700</lastBuildDate>
+ <pubDate>Tue, 13 Jul 2021 03:03:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 13</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1810%2Fr_r.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Dr. Sarah Taber)  Read: How California ended up with a massive almond industry. Musk is being accused by Tesla shareholders of orchestrating a harmful, self-dealing takeover of SolarCity in 2016.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/12/key-performance-indicators-july-13?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/key-performance-indicators-july-13?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 13 Jul 2021 03:01:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>This Year’s All-Star Game Gets More Political</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5751%2Fall-star_game_in_denver.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: In April, the MLB said it was moving the All-Star Game from Georgia to Denver due to Georgia’s new voting law. Either way, Denver businesses are happy to play host. Zoom out: A tourism board in Georgia said losing the game cost the state $100+ million in economic activity, though MLB estimates are slightly lower.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/12/years-allstar-game-gets-political?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/years-allstar-game-gets-political?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 13 Jul 2021 03:01:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>Cuba Cracks Down on Protests in Wake of Worst Economic Crisis in Decades</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5749%2Ftopshot-cuba-politics-dem.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;President Obama abstained from a symbolic UN vote opposing the US’ embargo on Cuba for the first time in US history, signaling a move to repair relations. The crisis has pushed people to the brink—it’s very rare to see protests of this scale in Cuba, a country where the Communist regime keeps a close eye on dissidents.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/12/cuba-cracks-protests-wake-worst-economic-crisis-decades?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>international</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/cuba-cracks-protests-wake-worst-economic-crisis-decades?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 13 Jul 2021 03:01:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>Delta Causes Fresh Lockdowns and Higher Caseloads Across the World</title>
+  <description>&lt;img src='https://media.giphy.com/media/Us7JbfvCPbmCs/giphy.gif'&gt;&lt;br/&gt;  Boosters are hereFacing rising cases, this week Israel will become the first country in the world to administer a Covid-19 booster vaccine shot; it’ll be given to adults with serious preexisting conditions. Experts warn that the number of deaths could soon rise in unvaccinated areas of the country, but for now they’re down 27% nationwide from two weeks ago. In the US, which is more or less fully reopened for business, cases rose 47% last week, the biggest increase since April 2020.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/12/delta-causes-fresh-lockdowns-higher-caseloads-across-world?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/delta-causes-fresh-lockdowns-higher-caseloads-across-world?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 13 Jul 2021 03:01:44 -0700</pubDate>
+ </item>
  <item>
   <title>Cuba Cracks Down on Protests in Wake of Worst Economic Crisis in Decades</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5749%2Ftopshot-cuba-politics-dem.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;President Obama abstained from a symbolic UN vote opposing the US’ embargo on Cuba for the first time in US history, signaling a move to repair relations. President Biden has yet to reverse any of the Trump admin’s decisions. But when Trump took office, he took a harder line and placed more sanctions on the country.</description>
@@ -334,42 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/china-tightens-regulations-tech-companies?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 08 Jul 2021 03:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>China Tightens Regulations On Its Tech Companies</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5686%2Fwall_street_bull_and_chinese_flag.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Hong Kong could soon become the only place for non-Chinese investors to buy stakes in Chinese tech companies as regulators throttle firms listed in the US. The change would force companies classified under a certain corporate structure (known as the Variable Interest Entity model if you want to sound smart af) to seek the government’s approval before listing shares in the US or Hong Kong. all this could lead to a possible techxodus of up to $2 trillion worth of shares from US markets to China.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/07/china-tightens-regulations-tech-companies</link>
-  <author>Jamie Wilde</author>
-  <categories>geopolitics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/china-tightens-regulations-tech-companies</guid>
-  <pubDate>Wed, 07 Jul 2021 15:36:12 -0700</pubDate>
- </item>
- <item>
-  <title>Reliance on Office Space Leaves Downtowns’ Futures Unstable</title>
-  <description>&lt;img src='https://media.giphy.com/media/2JUwr3tnfiQJa/giphy.gif'&gt;&lt;br/&gt; A jump in remote/hybrid work post-Covid could threaten central business districts in places like Boston and San Francisco, where office space makes up 70%–80% of downtown real estate, per new analysis from the NYT’s Upshot with CoStar.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/07/reliance-office-space-leaves-downtowns-futures-unstable</link>
-  <author>Matty Merritt</author>
-  <categories>real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/reliance-office-space-leaves-downtowns-futures-unstable</guid>
-  <pubDate>Wed, 07 Jul 2021 15:26:19 -0700</pubDate>
- </item>
- <item>
-  <title>Ever Given is Free (Again) From Suez Canal After Multimillion Dollar Payout</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4525%2Fship_stuck_in_suez_canal.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In the end, Ever Given’s owner and insurers paid the SCA an undisclosed amount—some Egyptian media reported $550 million and a “we’re sorry” tugboat—and the ship carrying goods worth hundreds of millions began its much-delayed journey to the Netherlands.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/07/ever-given-free-suez-canal-multimillion-dollar-payout</link>
-  <author>Matty Merritt</author>
-  <categories>shipping</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/ever-given-free-suez-canal-multimillion-dollar-payout</guid>
-  <pubDate>Wed, 07 Jul 2021 15:16:17 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 8</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5684%2Fsotheby_s_101-carat_diamond.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Range Report)  Read: Some misunderstandings around the Sha’Carri Richardson saga. Experts say the challenge is a Hail Mary, but either way Trump began to send fundraising emails off of it immediately.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/07/key-performance-indicators-july-8</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/key-performance-indicators-july-8</guid>
-  <pubDate>Wed, 07 Jul 2021 15:11:19 -0700</pubDate>
  </item>
 
 </channel>
