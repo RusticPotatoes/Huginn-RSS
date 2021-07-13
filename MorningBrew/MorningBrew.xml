@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/13</link>
- <lastBuildDate>Tue, 13 Jul 2021 14:44:06 -0700</lastBuildDate>
- <pubDate>Tue, 13 Jul 2021 14:44:06 -0700</pubDate>
+ <lastBuildDate>Tue, 13 Jul 2021 14:49:03 -0700</lastBuildDate>
+ <pubDate>Tue, 13 Jul 2021 14:49:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>JPMorgan, Goldman Sachs, and PepsiCo Kick off the Earnings Season Strong</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F665%2Fpig.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Consumers are raring to spend more this summer (great for JPMorgan’s credit card biz), but the company’s trading revenue slowed sharply in Q2 as the economy opened up. Their confidence is up.” However, while people are getting out more, “they are not anywhere near where they were,” Johnston said.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/13/jpmorgan-goldman-sachs-pepsico-kick-off-earnings-season-strong</link>
+  <author>Sherry Qin</author>
+  <categories>earnings</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/jpmorgan-goldman-sachs-pepsico-kick-off-earnings-season-strong</guid>
+  <pubDate>Tue, 13 Jul 2021 14:47:02 -0700</pubDate>
+ </item>
  <item>
   <title>With the US Fully Open for Business, Inflation Hits Highest Rate in 13 Years</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5756%2Finflation_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Used cars are the star of this category, with their price increases accounting for more than a third of June’s total price hikes. Prices that are booming thanks to supply shortages. Prices that will remain higher permanently. Prices that plummeted early in the pandemic and are surging to catch up. Combine that with supply shortages across the economy and massive government stimulus, and you get sweeping price increases. As we mentioned, the bulk of the price increases were in sectors battered by the pandemic (hospitality) or those battling supply shortages (used cars).</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/key-performance-indicators-july-8?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 08 Jul 2021 03:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>What's Behind the Oil Squabble in the Gulf? </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2392%2Fgame_of_risk_played_in_oil_barrels.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The UAE wants to increase its own production by more than the Saudi plan allows for, so talks fell apart and oil prices hit a six-year high earlier this week.     Looking ahead... The UAE’s strategy: The country is envisioning a future with more renewable energy and stricter climate-focused policies.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/07/whats-behind-oil-squabble-gulf?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/07/whats-behind-oil-squabble-gulf?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 08 Jul 2021 03:01:18 -0700</pubDate>
  </item>
 
