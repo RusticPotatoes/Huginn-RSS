@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/13/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/14/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/13</link>
- <lastBuildDate>Tue, 13 Jul 2021 15:04:01 -0700</lastBuildDate>
- <pubDate>Tue, 13 Jul 2021 15:04:01 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/14</link>
+ <lastBuildDate>Wed, 14 Jul 2021 03:04:01 -0700</lastBuildDate>
+ <pubDate>Wed, 14 Jul 2021 03:04:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Young Streaming Platforms Rake In 2021 Emmy Nominations</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1105%2Fstreaming.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Netflix accounted for about 60% of all streaming nominations in 2020, but this year, its share is down to less than 40%. Netflix sat alone at the top for a while, nabbing the all-time nomination record last year with 160. All the whippersnappers with strong Emmys showings revealed impressive viewership gains this year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/13/young-streaming-platforms-rake-2021-emmy-nominations?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/young-streaming-platforms-rake-2021-emmy-nominations?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 14 Jul 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: July 14</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5755%2Fchart_showing_the_best_paying_music_streaming_services.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(GQ) Read: Jason Sudeikis is having one hell of a year. Bloomberg’s Joe Weisenthal has the jokes for the boom in used car prices.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/13/key-performance-indicators-july-14?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/key-performance-indicators-july-14?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 14 Jul 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Apple Reportedly Working On a Buy-Now-Pay-Later Service</title>
+  <description>&lt;img src='https://media.giphy.com/media/vxq5aOjDNMEzQWT4g9/giphy.gif'&gt;&lt;br/&gt;Apple currently earns a cut of every Apple Pay purchase, so the more users buy, the more it makes. The service will work with any Apple Pay-enabled card, so no Apple Card is required. Goldman Sachs, which is already Apple Card’s partner, has been tapped as the service’s lender.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/13/apple-reportedly-working-buynowpaylater-service?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>fintech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/apple-reportedly-working-buynowpaylater-service?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 14 Jul 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>JPMorgan, Goldman Sachs, and PepsiCo Kick off the Earnings Season Strong</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F506%2Fjamie_dimon.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Consumers are "raring" to spend more this summer (great for JPMorgan’s credit card biz), but the company’s trading revenue dropped sharply in Q2 as the economy opened up. Their confidence is up.” However, while people are getting out more, “they are not anywhere near where they were,” Johnston said.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/13/jpmorgan-goldman-sachs-pepsico-kick-off-earnings-season-strong?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>earnings</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/jpmorgan-goldman-sachs-pepsico-kick-off-earnings-season-strong?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 14 Jul 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>With the US Fully Open for Business, Inflation Hits Highest Rate in 13 Years</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5756%2Finflation_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Used cars are the star of this category, with their price increases accounting for more than a third of June’s total price hikes. Prices that are booming thanks to supply shortages. Prices that will remain higher permanently. As always with inflation stories, we must close by turning to the Fed, whose main job is to keep prices stable. As we mentioned, the bulk of the price increases were in sectors battered by the pandemic (hospitality) or those battling supply shortages (used cars). Prices that plummeted early in the pandemic and are surging to catch up.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/13/us-fully-open-business-inflation-hits-highest-rate-13-years?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/us-fully-open-business-inflation-hits-highest-rate-13-years?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 14 Jul 2021 03:01:59 -0700</pubDate>
+ </item>
  <item>
   <title>Young Streaming Platforms Rake In 2021 Emmy Nominations</title>
   <description>&lt;img src='https://media.giphy.com/media/l0MYtWXBxjuWPzb8c/giphy.gif'&gt;&lt;br/&gt;Netflix accounted for about 60% of all streaming nominations in 2020, but this year, its share is down to less than 40%. Netflix sat alone at the top for a while, nabbing the all-time nomination record last year with 160. All the whippersnappers with strong Emmys showings also revealed impressive viewership gains this year.</description>
@@ -325,51 +370,6 @@
   <categories>markets</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/08/10year-treasury-yield-plunges-lowest-level-since-february?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 09 Jul 2021 03:02:15 -0700</pubDate>
- </item>
- <item>
-  <title>Global Venture Funding Uses Momentum From 2021’s First Quarter to Hit Record Highs in Second Quarter</title>
-  <description>&lt;img src='https://media.giphy.com/media/RHIYhjyA2R8IibyqPU/giphy.gif'&gt;&lt;br/&gt;Startups globally raised a record $156 billion last quarter, per a new report from CB Insights. $1 out of every $5 raised globally last quarter went to the fintech industry, for a total of $33.7 billion. The number of new unicorns has grown 491% over last year. With Stripe and Klarna, fintech boasts two of the five most valuable unicorns in the world.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/08/global-venture-funding-uses-momentum-2021s-first-quarter-hit-record-highs-second-quarter?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>startups</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/08/global-venture-funding-uses-momentum-2021s-first-quarter-hit-record-highs-second-quarter?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 09 Jul 2021 03:02:15 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 9</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3858%2Fsustainability.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Slate) Read: “Cat Person” and me. The automaker has donated $55,000 to 37 Republican objectors this year, according to the Citizens for Responsibility and Ethics in Washington.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/08/key-performance-indicators-july-9</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/08/key-performance-indicators-july-9</guid>
-  <pubDate>Thu, 08 Jul 2021 15:46:16 -0700</pubDate>
- </item>
- <item>
-  <title>10-Year Treasury Yield Plunges to Its Lowest Level since February</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3856%2Fweird_stock_market.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Because investors sell bonds when they think inflation is coming, the runup in bond prices means inflation has become old news. Why it matters: At the most basic level, the 10-year yield is a key indicator of investors’ confidence in the US economy.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/08/10year-treasury-yield-plunges-lowest-level-since-february</link>
-  <author>Sherry Qin</author>
-  <categories>bond</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/08/10year-treasury-yield-plunges-lowest-level-since-february</guid>
-  <pubDate>Thu, 08 Jul 2021 15:26:17 -0700</pubDate>
- </item>
- <item>
-  <title>Global Venture Funding Uses Momentum From 2021’s First Quarter to Hit Record Highs in Second Quarter</title>
-  <description>&lt;img src='https://media.giphy.com/media/RHIYhjyA2R8IibyqPU/giphy.gif'&gt;&lt;br/&gt;In all, Tiger locked down 81 deals last quarter. The number of new unicorns has grown 491% over last year. Startups globally raised a record $156 billion last quarter, per a new report from CB Insights. It’s “still by far the largest tech hub,” says CB Insights. With Stripe and Klarna on its side, fintech boasts two of the most valuable unicorns in the world. $1 out of every $5 raised globally last quarter went to the fintech industry,  for a total of $33.7 billion.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/08/global-venture-funding-uses-momentum-2021s-first-quarter-hit-record-highs-second-quarter</link>
-  <author>Matty Merritt</author>
-  <categories>venture capital</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/08/global-venture-funding-uses-momentum-2021s-first-quarter-hit-record-highs-second-quarter</guid>
-  <pubDate>Thu, 08 Jul 2021 15:16:14 -0700</pubDate>
- </item>
- <item>
-  <title>Fidji Simo, Facebook Exec, Will Replace Apoorva Mehta as CEO of Instacart</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5701%2Fsummer_2018_tca_press_tou.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Simo spent the last decade building Facebook’s mobile and product teams, and did a pretty good job at it. Simo will be responsible for maintaining that growth in the face of more competition, and for ensuring the company sticks its landing in the public markets later this year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/08/fidji-simo-facebook-exec-will-replace-apoorva-mehta-ceo-instacart</link>
-  <author>Matty Merritt</author>
-  <categories>delivery</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/08/fidji-simo-facebook-exec-will-replace-apoorva-mehta-ceo-instacart</guid>
-  <pubDate>Thu, 08 Jul 2021 15:06:18 -0700</pubDate>
  </item>
 
 </channel>
