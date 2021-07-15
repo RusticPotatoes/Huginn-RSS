@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/14/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/15/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/14</link>
- <lastBuildDate>Wed, 14 Jul 2021 14:39:05 -0700</lastBuildDate>
- <pubDate>Wed, 14 Jul 2021 14:39:05 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/15</link>
+ <lastBuildDate>Thu, 15 Jul 2021 03:03:59 -0700</lastBuildDate>
+ <pubDate>Thu, 15 Jul 2021 03:03:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Candace Parker Will Be First WNBA Player on NBA2K22’s Cover</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5779%2Fnba_2k22_cover.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Bottom line, via Parker: “Being able to see women on the cover, visible in leadership positions, it helps not just in sport but also just in the boardroom, in business, or everything,” she told Bloomberg.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/14/candace-parker-will-first-wnba-player-nba2k22s-cover?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/candace-parker-will-first-wnba-player-nba2k22s-cover?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 15 Jul 2021 03:01:58 -0700</pubDate>
+ </item>
+ <item>
+  <title>The EU and China Launch Ambitious Plans to Cut Greenhouse Gas Emissions</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5778%2Feiffel_tower_tree.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;some of the most powerful world leaders will meet in Glasgow in November for the UN Climate Change Conference to pitch even more initiatives.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/14/eu-china-launch-ambitious-plans-cut-greenhouse-gas-emissions?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/eu-china-launch-ambitious-plans-cut-greenhouse-gas-emissions?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 15 Jul 2021 03:01:58 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: July 15</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1073%2Ftiktok.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Quote: “The medals will not be given around the neck. (No Mercy/No Malice) Read: How fintech is eating the world. Literally.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/14/key-performance-indicators-july-15?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/key-performance-indicators-july-15?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 15 Jul 2021 03:01:58 -0700</pubDate>
+ </item>
+ <item>
+  <title>Drug Overdose Deaths Rose Nearly 30% Last Year</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5775%2Froger_boyd_35_holds_a_p.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The surge is pronounced on the West Coast; in San Francisco for instance, about 64% more people died of drug overdoses last year than from Covid-19. Drug overdose deaths rose nearly 30% nationwide in 2020 to a record of 93,331, according to preliminary federal data.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/14/drug-overdose-deaths-rose-nearly-30-last-year?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/drug-overdose-deaths-rose-nearly-30-last-year?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 15 Jul 2021 03:01:58 -0700</pubDate>
+ </item>
+ <item>
+  <title>Twitter Cancels Its Fleets Feature</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5782%2Ftwitter_deletes_fleets.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Twitter’s VP of product said, “In the time since we introduced Fleets to everyone, we haven’t seen an increase in the number of new people joining the conversation with Fleets like we hoped.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/14/twitter-cancels-fleets-feature?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/twitter-cancels-fleets-feature?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 15 Jul 2021 03:01:58 -0700</pubDate>
+ </item>
+ <item>
+  <title>Expanded Child Tax Credit Kicks in Today</title>
+  <description>&lt;img src='https://media.giphy.com/media/j5cTbV4Ber06X409rZ/giphy.gif'&gt;&lt;br/&gt;In the biggest win for parents since the invention of the iPad, the IRS will send supersized checks for the expanded child tax credit (CTC) beginning today. Will it stick around?  Here’s why: The expanded child tax credit is expected to cut child poverty by nearly half, according to a study from Columbia University. Read it here. “It’s the most transformative policy coming out of Washington since the days of FDR,” Booker claims.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/14/expanded-child-tax-credit-kicks-today?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/expanded-child-tax-credit-kicks-today?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 15 Jul 2021 03:01:58 -0700</pubDate>
+ </item>
  <item>
   <title>Drug Overdose Deaths Rose Nearly 30% Last Year</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5775%2Froger_boyd_35_holds_a_p.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The surge is pronounced on the West Coast; in San Francisco for instance, about 64% more people died of drug overdoses last year than from Covid-19. Drug overdose deaths rose nearly 30% nationwide in 2020 to a record of 93,331, according to preliminary federal data.</description>
@@ -316,60 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/key-performance-indicators-july-12</guid>
   <pubDate>Sun, 11 Jul 2021 19:11:19 -0700</pubDate>
- </item>
- <item>
-  <title>Musk Faces Legal Questions Over SolarCity Acquisition</title>
-  <description>&lt;img src='https://media.giphy.com/media/QLlbsC0Pu2iYULBry4/giphy.gif'&gt;&lt;br/&gt;As Reuters asks, “Does Elon Musk control Tesla Inc., or does Tesla control Elon Musk?” so how was this bad for Tesla shareholders exactly? Musk didn’t need much due diligence before buying SolarCity—after all, his cousins founded it in 2006 and Musk served as the chairman.  The detailsThe lawsuit alleges that Tesla’s acquisition of SolarCity reeked with conflicts of interest and that Musk failed to disclose some liquidity problems at SolarCity.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/12/musk-faces-legal-questions-solarcity-acquisition</link>
-  <author>Neal Freyman</author>
-  <categories>governance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/musk-faces-legal-questions-solarcity-acquisition</guid>
-  <pubDate>Sun, 11 Jul 2021 19:06:14 -0700</pubDate>
- </item>
- <item>
-  <title>Branson in Space: Risky or Reckless?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F662%2Frichard_branson.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;His personal ambitions are intertwined with the company’s—this space flight was inevitable.    Micron shares fell more than 6% following the news of Appleton’s death. A 2011 study found that CEOs with licenses to pilot small aircraft (an activity 30x more dangerous than driving a car) are 40% more likely to make a corporate acquisition and 15% more likely to take on greater leverage. The company has completed more than 20 test flights, but the mission has been delayed by technical issues and a pilot died in a test flight in 2014. Bottom line: When Richard Branson decided to create a space company, it’s probably because he wanted to go to space.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/09/branson-space-risky-reckless</link>
-  <author>Neal Freyman</author>
-  <categories>analysis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/09/branson-space-risky-reckless</guid>
-  <pubDate>Sat, 10 Jul 2021 07:31:18 -0700</pubDate>
- </item>
- <item>
-  <title>Richard Branson’s Launch Preview</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5728%2Fvirgin_galactic_vms_eve_and_vss_unity.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Branson will be onboard Virgin Galactic’s VSS Unity flight, nine days ahead of Jeff Bezos’s expected launch for Blue Origin on July 20.  When the ship reaches peak altitude, Branson and the three other passengers—all Virgin Galactic employees—will feel weightless.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/09/richard-bransons-launch-preview</link>
-  <author>Matty Merritt</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/09/richard-bransons-launch-preview</guid>
-  <pubDate>Fri, 09 Jul 2021 14:51:11 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: How to Stay Patient When Saving? </title>
-  <description>&lt;img src='https://media.giphy.com/media/ixZmwZC0R1Zi87EOqG/giphy.gif'&gt;&lt;br/&gt;What are some tips on being patient when saving money? You see where I’m headed, Zach. Become one of the first subscribers. Well, to be fair I had goals, but like you, I thought it’d take too long before I’d see results. Saving is like hitting the gym in that months and years may pass before you notice results, and consistency and persistence is the key.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/09/money-matters-stay-patient-saving</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/09/money-matters-stay-patient-saving</guid>
-  <pubDate>Fri, 09 Jul 2021 14:46:11 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 10</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5725%2Fus-politics-biden.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It no longer has any meaning or whatever. (New Yorker) Read: Great Jones cookware and the illusion of the millennial aesthetic. Streaming and everything, movies.  Quote: “Hollywood as we know it is irrelevant.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/09/key-performance-indicators-july-10</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/09/key-performance-indicators-july-10</guid>
-  <pubDate>Fri, 09 Jul 2021 14:41:20 -0700</pubDate>
- </item>
- <item>
-  <title>Crypto-Friendly Wyoming Officially Recognizes a DAO</title>
-  <description>&lt;img src='https://media.giphy.com/media/fm5JqspHFgIXm/giphy.gif'&gt;&lt;br/&gt;To be specific, the Cowboy State announced that the American CryptoFed DAO is now an LLC. Wyoming became the first US state to officially recognize a Decentralized Autonomous Organization (DAO) this week, its latest step to becoming the country’s most crypto-friendly place to live.   What’s in it for Wyoming?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/09/cryptofriendly-wyoming-officially-recognizes-dao</link>
-  <author>Jamie Wilde</author>
-  <categories>cryptocurrency</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/09/cryptofriendly-wyoming-officially-recognizes-dao</guid>
-  <pubDate>Fri, 09 Jul 2021 14:36:16 -0700</pubDate>
  </item>
 
 </channel>
