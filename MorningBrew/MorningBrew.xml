@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/15</link>
- <lastBuildDate>Thu, 15 Jul 2021 14:58:59 -0700</lastBuildDate>
- <pubDate>Thu, 15 Jul 2021 14:58:59 -0700</pubDate>
+ <lastBuildDate>Thu, 15 Jul 2021 15:09:06 -0700</lastBuildDate>
+ <pubDate>Thu, 15 Jul 2021 15:09:06 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Aurora Announces IPO to Bring Autonomous Semi Truck To Highways</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5789%2Faurora_vehicles.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Aurora is SPACing to raise money and commercialize its self-driving tech. Eventually, the company wants to get its tech into more vehicles, including those that move humans. Autonomous vehicle startup Aurora announced plans yesterday to go public via SPAC at a valuation of $11 billion.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/15/aurora-announces-ipo-bring-autonomous-semi-truck-highways</link>
+  <author>Matty Merritt</author>
+  <categories>av</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/aurora-announces-ipo-bring-autonomous-semi-truck-highways</guid>
+  <pubDate>Thu, 15 Jul 2021 15:07:05 -0700</pubDate>
+ </item>
  <item>
   <title>Several MBA Programs End Hybrid Learning This Fall</title>
   <description>&lt;img src='https://media.giphy.com/media/E4LWtyQ9KiToA/giphy.gif'&gt;&lt;br/&gt;But because Zoom U can’t replicate networking off the Dalmatian Coast, students sued universities and asked for refunds.  Kate Kirsch, an incoming Harvard MBA student, told the WSJ: “So much of the value of the MBA program is the people. Not worth the money?  </description>
@@ -361,15 +370,6 @@
   <categories>governance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/musk-faces-legal-questions-solarcity-acquisition?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 12 Jul 2021 03:01:13 -0700</pubDate>
- </item>
- <item>
-  <title>Global Tax Reform Update</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4403%2Fcorporate_taxes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The plan: It would introduce a 15% minimum tax rate globally, eliminating the “race-to-the-bottom” strategy, where some countries lowered their tax rates to attract business HQs.Why it matters: A 15% floor would make it easier for the Biden administration to raise taxes on corporations in the US, since it’ll be harder for companies to find more attractive rates elsewhere.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/12/global-tax-reform-update</link>
-  <author>Neal Freyman</author>
-  <categories>tax</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/global-tax-reform-update</guid>
-  <pubDate>Sun, 11 Jul 2021 19:26:17 -0700</pubDate>
  </item>
 
 </channel>
