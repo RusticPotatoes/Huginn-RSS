@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/16</link>
- <lastBuildDate>Fri, 16 Jul 2021 15:34:07 -0700</lastBuildDate>
- <pubDate>Fri, 16 Jul 2021 15:34:07 -0700</pubDate>
+ <lastBuildDate>Fri, 16 Jul 2021 15:49:05 -0700</lastBuildDate>
+ <pubDate>Fri, 16 Jul 2021 15:49:05 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Secretary Yellen to Meet With Other US Regulators to Discuss Stablecoin</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4656%2Fdigital_currency.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; During next week’s meeting, Secretary Yellen and other regulators will ask themselves: If there is no oversight of these US dollar-backed coins, what does that mean for the OG US dollar? It’s a coin that is—in theory—more stable than other cryptocurrencies like bitcoin, ether, etc.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/16/secretary-yellen-meet-us-regulators-discuss-stablecoin</link>
+  <author>Matty Merritt</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/secretary-yellen-meet-us-regulators-discuss-stablecoin</guid>
+  <pubDate>Fri, 16 Jul 2021 15:47:04 -0700</pubDate>
+ </item>
  <item>
   <title>'Space Jam' Reboot Offers a Grand Tour of Warner Bros. IP</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5814%2Fspace_jam_2_image.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This is not a review of the film Space Jam: A New Legacy, which opened in US theaters and on HBO Max yesterday.  This time, Warner Bros.  Warner Bros. It is a review of how Warner Bros. As Jake Harris writes in the Book and Film Globe, “Everyone’s got to have a cinematic universe these days, after all.”</description>
@@ -361,15 +370,6 @@
   <categories>health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/delta-causes-fresh-lockdowns-higher-caseloads-across-world?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 13 Jul 2021 03:01:44 -0700</pubDate>
- </item>
- <item>
-  <title>Cuba Cracks Down on Protests in Wake of Worst Economic Crisis in Decades</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5749%2Ftopshot-cuba-politics-dem.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;President Obama abstained from a symbolic UN vote opposing the US’ embargo on Cuba for the first time in US history, signaling a move to repair relations. President Biden has yet to reverse any of the Trump admin’s decisions. But when Trump took office, he took a harder line and placed more sanctions on the country.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/12/cuba-cracks-protests-wake-worst-economic-crisis-decades</link>
-  <author>Matty Merritt</author>
-  <categories>international</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/cuba-cracks-protests-wake-worst-economic-crisis-decades</guid>
-  <pubDate>Mon, 12 Jul 2021 15:41:11 -0700</pubDate>
  </item>
 
 </channel>
