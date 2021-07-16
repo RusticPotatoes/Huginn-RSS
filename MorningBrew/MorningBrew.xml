@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/16</link>
- <lastBuildDate>Fri, 16 Jul 2021 14:59:00 -0700</lastBuildDate>
- <pubDate>Fri, 16 Jul 2021 14:59:00 -0700</pubDate>
+ <lastBuildDate>Fri, 16 Jul 2021 15:29:05 -0700</lastBuildDate>
+ <pubDate>Fri, 16 Jul 2021 15:29:05 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 17</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5813%2Fchart_of_smartphone_market_share.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;97% of people hospitalized due to Covid-19 are unvaccinated. CDC Director Rochelle Walensky said that the Delta variant is spreading quickly among unvaccinated people in the US.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/16/key-performance-indicators-july-17</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/key-performance-indicators-july-17</guid>
+  <pubDate>Fri, 16 Jul 2021 15:27:04 -0700</pubDate>
+ </item>
  <item>
   <title>Biogen's Alzheimer's Drug Continues to Face Backlash More Than a Month After Approval</title>
   <description>&lt;img src='https://media.giphy.com/media/ZFzpCzdWotBIdiYoLA/giphy.gif'&gt;&lt;br/&gt;On Thursday, influential hospitals Cleveland Clinic, NYC’s Mount Sinai Health System, and Providence in Washington State said they wouldn’t administer Aduhelm, citing concerns over its effectiveness and safety. the blowback has been so bad that the acting FDA chief has ordered a federal investigation to explore the perhaps too-cozy relationship between the scientists who approved the drug and the drugmaker, Biogen. An Alzheimer’s drug hadn’t been approved by the FDA in 18 years.  Some experts who helped the FDA evaluate Aduhelm protested the decision.  The FDA’s approval of the drug, called Aduhelm, was met with widespread criticism.</description>
@@ -361,15 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/years-allstar-game-gets-political</guid>
   <pubDate>Mon, 12 Jul 2021 15:41:11 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 13</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1810%2Fr_r.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Dr. Sarah Taber)  Read: A mega-thread on how California ended up with a massive almond industry. Musk is being accused by Tesla shareholders of engineering a self-dealing takeover of SolarCity in 2016.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/12/key-performance-indicators-july-13</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/key-performance-indicators-july-13</guid>
-  <pubDate>Mon, 12 Jul 2021 15:21:19 -0700</pubDate>
  </item>
 
 </channel>
