@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/15/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/16/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/15</link>
- <lastBuildDate>Thu, 15 Jul 2021 15:09:06 -0700</lastBuildDate>
- <pubDate>Thu, 15 Jul 2021 15:09:06 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/16</link>
+ <lastBuildDate>Fri, 16 Jul 2021 03:04:04 -0700</lastBuildDate>
+ <pubDate>Fri, 16 Jul 2021 03:04:04 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 16</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4282%2Fdtc_remote_working_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Cold Takes) Read: All possible views about humanity’s future are wild. In a thread bashing the industry, Palmer called the crypto world a “cult-like ‘get rich quick’ funnel designed to extract new money from the financially desperate and naive.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/15/key-performance-indicators-july-16?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/key-performance-indicators-july-16?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 16 Jul 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Several MBA Programs End Hybrid Learning This Fall</title>
+  <description>&lt;img src='https://media.giphy.com/media/FMiD54OqYdnW0/giphy.gif'&gt;&lt;br/&gt;But because Zoom U can’t replicate networking off the Dalmatian Coast, students sued universities and asked for their money back.  Kate Kirsch, an incoming Harvard MBA student, told the WSJ: “So much of the value of the MBA program is the people.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/15/several-mba-programs-end-hybrid-learning-fall?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/several-mba-programs-end-hybrid-learning-fall?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 16 Jul 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Aurora Announces IPO to Bring Autonomous Semi Truck To Highways</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5789%2Faurora_vehicles.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Aurora is SPACing to raise money and commercialize its self-driving tech. In January, the company acquired Uber’s self-driving unit and now has 1,600 employees. Eventually, the company wants to get its tech into more vehicles, including ones that move humans.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/15/aurora-announces-ipo-bring-autonomous-semi-truck-highways?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>av</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/aurora-announces-ipo-bring-autonomous-semi-truck-highways?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 16 Jul 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Revolut $800 Million Funding Round Signifies Hot Fintech Market</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5788%2Ffintech_apps.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Fintech investing &gt; other kinds of investingWhen you say, “Invest in my new fintech startup,” investors say, “How much?” The company was valued at $11 billion and its listing was a huge win for the burgeoning fintech industry the country has been trying to birth since Brexit.  Klarna, the Swedish buy-now-pay-later company responsible for the staggering amount of Girlfriend exercise dresses in your closet, snagged a $46 billion valuation last month.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/15/revolut-800-million-funding-round-signifies-hot-fintech-market?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>fintech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/revolut-800-million-funding-round-signifies-hot-fintech-market?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 16 Jul 2021 03:02:02 -0700</pubDate>
+ </item>
  <item>
   <title>Aurora Announces IPO to Bring Autonomous Semi Truck To Highways</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5789%2Faurora_vehicles.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Aurora is SPACing to raise money and commercialize its self-driving tech. Eventually, the company wants to get its tech into more vehicles, including those that move humans. Autonomous vehicle startup Aurora announced plans yesterday to go public via SPAC at a valuation of $11 billion.</description>
@@ -333,42 +369,6 @@
   <author>Neal Freyman</author>
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/week-ahead-july-12?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 12 Jul 2021 03:01:13 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 12</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5729%2Fblack_widow.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Fisherman Eric Richins described the water crisis at Lake Mead to the LA Times. (Scientific American) I didn’t realize it was this bad.  Quote: “I knew the drought was bad.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/12/key-performance-indicators-july-12?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/key-performance-indicators-july-12?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 12 Jul 2021 03:01:13 -0700</pubDate>
- </item>
- <item>
-  <title>Global Tax Reform Update</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4403%2Fcorporate_taxes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The plan: It would introduce a 15% minimum tax rate globally, eliminating the strategy some countries have used of dropping their corporate tax rate to attract business HQs.Why it matters: A 15% floor would make it easier for the Biden administration to raise taxes on corporations in the US, since it’ll be harder for companies to find more attractive rates elsewhere.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/12/global-tax-reform-update?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>tax</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/global-tax-reform-update?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 12 Jul 2021 03:01:13 -0700</pubDate>
- </item>
- <item>
-  <title>Branson and Virgin Galactic Complete High-Stakes Space Flight</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5730%2Fbranson_and_crew_celebrating_the_completion_of_a_space_flight.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;As Elon Musk looked on, Richard Branson and five other crew members successfully completed a flight to space, a milestone for Virgin Galactic and the young space tourism industry.   Bezos wrote in a congratulatory Instagram post after Branson’s flight. “Can’t wait to join the club!”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/12/branson-virgin-galactic-complete-highstakes-space-flight?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/branson-virgin-galactic-complete-highstakes-space-flight?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 12 Jul 2021 03:01:13 -0700</pubDate>
- </item>
- <item>
-  <title>Musk Faces Legal Questions Over SolarCity Acquisition</title>
-  <description>&lt;img src='https://media.giphy.com/media/QLlbsC0Pu2iYULBry4/giphy.gif'&gt;&lt;br/&gt;As Reuters asks, “Does Elon Musk control Tesla Inc., or does Tesla control Elon Musk?” so how was this bad for Tesla shareholders exactly? Musk didn’t need much due diligence before buying SolarCity—after all, his cousins founded it in 2006 and Musk served as the chairman.  The detailsThe lawsuit alleges that Tesla’s acquisition of SolarCity reeked with conflicts of interest and that Musk failed to disclose liquidity problems at SolarCity.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/12/musk-faces-legal-questions-solarcity-acquisition?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>governance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/musk-faces-legal-questions-solarcity-acquisition?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 12 Jul 2021 03:01:13 -0700</pubDate>
  </item>
 
