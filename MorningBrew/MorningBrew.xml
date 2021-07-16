@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/16</link>
- <lastBuildDate>Fri, 16 Jul 2021 15:49:05 -0700</lastBuildDate>
- <pubDate>Fri, 16 Jul 2021 15:49:05 -0700</pubDate>
+ <lastBuildDate>Fri, 16 Jul 2021 15:58:59 -0700</lastBuildDate>
+ <pubDate>Fri, 16 Jul 2021 15:58:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>US Warns Companies on Rising Risks of Operating in Hong Kong</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5816%2Fhong_kong_democracy.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In a business advisory issued yesterday, the US government listed the threats US companies in Hong Kong might face: Electronic surveillance and compromised data securityRisks regarding transparency and access to critical business information Deteriorating press freedomA new Chinese national security law that targets political dissidentsLooking ahead…The advisory won’t demand specific actions from private companies.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/16/us-warns-companies-rising-risks-operating-hong-kong</link>
+  <author>Sherry Qin</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/us-warns-companies-rising-risks-operating-hong-kong</guid>
+  <pubDate>Fri, 16 Jul 2021 15:56:58 -0700</pubDate>
+ </item>
  <item>
   <title>Secretary Yellen to Meet With Other US Regulators to Discuss Stablecoin</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4656%2Fdigital_currency.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; During next week’s meeting, Secretary Yellen and other regulators will ask themselves: If there is no oversight of these US dollar-backed coins, what does that mean for the OG US dollar? It’s a coin that is—in theory—more stable than other cryptocurrencies like bitcoin, ether, etc.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>international</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/cuba-cracks-protests-wake-worst-economic-crisis-decades?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 13 Jul 2021 03:01:44 -0700</pubDate>
- </item>
- <item>
-  <title>Delta Causes Fresh Lockdowns and Higher Caseloads Across the World</title>
-  <description>&lt;img src='https://media.giphy.com/media/Us7JbfvCPbmCs/giphy.gif'&gt;&lt;br/&gt;  Boosters are hereFacing rising cases, this week Israel will become the first country in the world to administer a Covid-19 booster vaccine shot; it’ll be given to adults with serious preexisting conditions. Experts warn that the number of deaths could soon rise in unvaccinated areas of the country, but for now they’re down 27% nationwide from two weeks ago. In the US, which is more or less fully reopened for business, cases rose 47% last week, the biggest increase since April 2020.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/12/delta-causes-fresh-lockdowns-higher-caseloads-across-world?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/delta-causes-fresh-lockdowns-higher-caseloads-across-world?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 13 Jul 2021 03:01:44 -0700</pubDate>
  </item>
 
