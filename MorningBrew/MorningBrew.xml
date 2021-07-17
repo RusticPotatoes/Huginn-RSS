@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/16</link>
- <lastBuildDate>Fri, 16 Jul 2021 15:58:59 -0700</lastBuildDate>
- <pubDate>Fri, 16 Jul 2021 15:58:59 -0700</pubDate>
+ <lastBuildDate>Fri, 16 Jul 2021 17:29:05 -0700</lastBuildDate>
+ <pubDate>Fri, 16 Jul 2021 17:29:05 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Money Matters: How Many Credit Cards Is too Many?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5817%2Fcredit_cards.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Credit card rewards can pack a serious punch. —Eduardo from New YorkThe question isn’t how many credit cards you should have, but rather how much of your total credit limit you’re using. If you have just one credit card with a $1,000 limit, stay sub-$300, even when you pay in full and on time. How many credit cards should I have, and is it OK to close one if I never used it and have no balance?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/17/money-matters-many-credit-cards-many</link>
+  <author>Ryan Lasker</author>
+  <categories>personal finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/17/money-matters-many-credit-cards-many</guid>
+  <pubDate>Fri, 16 Jul 2021 17:27:04 -0700</pubDate>
+ </item>
  <item>
   <title>US Warns Companies on Rising Risks of Operating in Hong Kong</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5816%2Fhong_kong_democracy.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In a business advisory issued yesterday, the US government listed the threats US companies in Hong Kong might face: Electronic surveillance and compromised data securityRisks regarding transparency and access to critical business information Deteriorating press freedomA new Chinese national security law that targets political dissidentsLooking ahead…The advisory won’t demand specific actions from private companies.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/years-allstar-game-gets-political?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 13 Jul 2021 03:01:44 -0700</pubDate>
- </item>
- <item>
-  <title>Cuba Cracks Down on Protests in Wake of Worst Economic Crisis in Decades</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5749%2Ftopshot-cuba-politics-dem.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;President Obama abstained from a symbolic UN vote opposing the US’ embargo on Cuba for the first time in US history, signaling a move to repair relations. The crisis has pushed people to the brink—it’s very rare to see protests of this scale in Cuba, a country where the Communist regime keeps a close eye on dissidents.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/12/cuba-cracks-protests-wake-worst-economic-crisis-decades?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>international</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/12/cuba-cracks-protests-wake-worst-economic-crisis-decades?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 13 Jul 2021 03:01:44 -0700</pubDate>
  </item>
 
