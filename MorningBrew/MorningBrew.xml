@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/18</link>
- <lastBuildDate>Sun, 18 Jul 2021 16:49:04 -0700</lastBuildDate>
- <pubDate>Sun, 18 Jul 2021 16:49:04 -0700</pubDate>
+ <lastBuildDate>Sun, 18 Jul 2021 16:53:59 -0700</lastBuildDate>
+ <pubDate>Sun, 18 Jul 2021 16:53:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 19</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5512%2Fwework.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;German Chancellor Angela Merkel vowed to address climate change after touring the “surreal, ghostly” scene of a German village destroyed by flooding. (The Atlantic)  Read: The truth behind the Amazon mystery seeds.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/18/key-performance-indicators-july-19</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/18/key-performance-indicators-july-19</guid>
+  <pubDate>Sun, 18 Jul 2021 16:52:07 -0700</pubDate>
+ </item>
  <item>
   <title>Facebook and Biden in War of Words Over Vaccine Misinformation</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5820%2Fgood_will_hunting.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Facebook has taken steps to limit the spread of vaccine misinformation—such as removing posts that promote vaccine lies—but the Biden administration thinks those actions have been toothless.   WH Press Secretary Jen Psaki said health misinformation on social media is “leading to people not taking the vaccine, and people are dying as a result.” More than 97% of new hospitalizations from the Delta variant are of people who’ve not been vaccinated, the agency said.</description>
@@ -360,15 +369,6 @@
   <author>Sherry Qin</author>
   <categories>earnings</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/jpmorgan-goldman-sachs-pepsico-kick-off-earnings-season-strong?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 14 Jul 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>With the US Fully Open for Business, Inflation Hits Highest Rate in 13 Years</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5756%2Finflation_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Used cars are the star of this category, with their price increases accounting for more than a third of June’s total price hikes. Prices that are booming thanks to supply shortages. Prices that will remain higher permanently. As always with inflation stories, we must close by turning to the Fed, whose main job is to keep prices stable. As we mentioned, the bulk of the price increases were in sectors battered by the pandemic (hospitality) or those battling supply shortages (used cars). Prices that plummeted early in the pandemic and are surging to catch up.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/13/us-fully-open-business-inflation-hits-highest-rate-13-years?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/us-fully-open-business-inflation-hits-highest-rate-13-years?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 14 Jul 2021 03:01:59 -0700</pubDate>
  </item>
 
