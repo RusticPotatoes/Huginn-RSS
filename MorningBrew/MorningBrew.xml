@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/17/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/17/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/18/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/17</link>
- <lastBuildDate>Sat, 17 Jul 2021 14:19:06 -0700</lastBuildDate>
- <pubDate>Sat, 17 Jul 2021 14:19:06 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/18</link>
+ <lastBuildDate>Sun, 18 Jul 2021 16:49:04 -0700</lastBuildDate>
+ <pubDate>Sun, 18 Jul 2021 16:49:04 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Facebook and Biden in War of Words Over Vaccine Misinformation</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5820%2Fgood_will_hunting.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Facebook has taken steps to limit the spread of vaccine misinformation—such as removing posts that promote vaccine lies—but the Biden administration thinks those actions have been toothless.   WH Press Secretary Jen Psaki said health misinformation on social media is “leading to people not taking the vaccine, and people are dying as a result.” More than 97% of new hospitalizations from the Delta variant are of people who’ve not been vaccinated, the agency said.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/18/facebook-biden-war-words-vaccine-misinformation</link>
+  <author>Neal Freyman</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/18/facebook-biden-war-words-vaccine-misinformation</guid>
+  <pubDate>Sun, 18 Jul 2021 16:47:03 -0700</pubDate>
+ </item>
  <item>
   <title>Icebreakers With...NFL Legend Ndamukong Suh</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5819%2Fndamukong_suh.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s one of those things where I don't think you need to bet all of your money on one thing, but I do think you need to have exposure to it. I had to ask myself, “How do I understand what a budget is?” I remember back in the day a long snapper named Don Muhlbach was one of the few guys in the locker room I would talk to about finance, where he was at with his business, and who he aspired to be. Four sacks in a playoff game or a Super Bowl win—that’d be the best. Some of them I've already accomplished so that’s probably why I didn’t pick them.  No. 1 draft pick Trevor Lawrence is getting his signing bonus paid out in cryptocurrency.  There’s for sure more conversations on those topics in the locker room compared to 2010 when I first got in the league. I don’t see myself putting my salary fully into bitcoin. If you could own one building what would it be? Now, it’s on Reddit and you see all the news about GameStop so I think it’s seen as more “cool” to talk about it and be in the know.</description>
@@ -361,15 +370,6 @@
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/us-fully-open-business-inflation-hits-highest-rate-13-years?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 14 Jul 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Young Streaming Platforms Rake In 2021 Emmy Nominations</title>
-  <description>&lt;img src='https://media.giphy.com/media/l0MYtWXBxjuWPzb8c/giphy.gif'&gt;&lt;br/&gt;Netflix accounted for about 60% of all streaming nominations in 2020, but this year, its share is down to less than 40%. Netflix sat alone at the top for a while, nabbing the all-time nomination record last year with 160. All the whippersnappers with strong Emmys showings also revealed impressive viewership gains this year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/13/young-streaming-platforms-rake-2021-emmy-nominations</link>
-  <author>Jamie Wilde</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/young-streaming-platforms-rake-2021-emmy-nominations</guid>
-  <pubDate>Tue, 13 Jul 2021 15:02:00 -0700</pubDate>
  </item>
 
 </channel>
