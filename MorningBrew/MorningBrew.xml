@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/19</link>
- <lastBuildDate>Mon, 19 Jul 2021 15:29:01 -0700</lastBuildDate>
- <pubDate>Mon, 19 Jul 2021 15:29:01 -0700</pubDate>
+ <lastBuildDate>Mon, 19 Jul 2021 15:34:03 -0700</lastBuildDate>
+ <pubDate>Mon, 19 Jul 2021 15:34:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Preview of Blue Origin’s First Passenger Space Flight</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3736%2Fblue_origin_launch.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Jeff Bezos’s space company, Blue Origin, will launch its first human test flight at 9am ET from Van Horn, Texas, a small desert town. Today’s flight is expected to reach 62 miles in altitude and pass the Kármán line, the invisible boundary to outer space.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/19/preview-blue-origins-first-passenger-space-flight</link>
+  <author>Matty Merritt</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/19/preview-blue-origins-first-passenger-space-flight</guid>
+  <pubDate>Mon, 19 Jul 2021 15:32:02 -0700</pubDate>
+ </item>
  <item>
   <title>Pandemic Recession Was the Shortest Ever</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5841%2Fbounce_back.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big Picture: The start of the pandemic recession also marked the end of the US’ longest-ever economic expansion streak that started in June 2009. The pandemic-induced recession lasted only two months, from February 2020 to April 2020, making it the shortest recession in US history. The US government is certainly acting like the recession is over.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/key-performance-indicators-july-15?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 15 Jul 2021 03:01:58 -0700</pubDate>
- </item>
- <item>
-  <title>Drug Overdose Deaths Rose Nearly 30% Last Year</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5775%2Froger_boyd_35_holds_a_p.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The surge is pronounced on the West Coast; in San Francisco for instance, about 64% more people died of drug overdoses last year than from Covid-19. Drug overdose deaths rose nearly 30% nationwide in 2020 to a record of 93,331, according to preliminary federal data.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/14/drug-overdose-deaths-rose-nearly-30-last-year?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/drug-overdose-deaths-rose-nearly-30-last-year?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 15 Jul 2021 03:01:58 -0700</pubDate>
  </item>
 
