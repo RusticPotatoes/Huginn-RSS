@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/18</link>
- <lastBuildDate>Sun, 18 Jul 2021 16:53:59 -0700</lastBuildDate>
- <pubDate>Sun, 18 Jul 2021 16:53:59 -0700</pubDate>
+ <lastBuildDate>Sun, 18 Jul 2021 16:59:02 -0700</lastBuildDate>
+ <pubDate>Sun, 18 Jul 2021 16:59:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Deepfakes in New Bourdain Doc Raise Questions Around AI Ethics in FIlm</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5821%2Fanthony_bourdain.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Neville said he used the AI technique because it was “important to make Tony’s words come alive.” But Bourdain never said that.  Neville told GQ that he received permission to recreate Bourdain’s voice from Bourdain’s literary executor and his widow  “just to make sure people were cool with that.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/18/deepfakes-new-bourdain-doc-raise-questions-around-ai-ethics-film</link>
+  <author>Neal Freyman</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/18/deepfakes-new-bourdain-doc-raise-questions-around-ai-ethics-film</guid>
+  <pubDate>Sun, 18 Jul 2021 16:57:01 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 19</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5512%2Fwework.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;German Chancellor Angela Merkel vowed to address climate change after touring the “surreal, ghostly” scene of a German village destroyed by flooding. (The Atlantic)  Read: The truth behind the Amazon mystery seeds.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>fintech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/apple-reportedly-working-buynowpaylater-service?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 14 Jul 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>JPMorgan, Goldman Sachs, and PepsiCo Kick off the Earnings Season Strong</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F506%2Fjamie_dimon.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Consumers are "raring" to spend more this summer (great for JPMorgan’s credit card biz), but the company’s trading revenue dropped sharply in Q2 as the economy opened up. Their confidence is up.” However, while people are getting out more, “they are not anywhere near where they were,” Johnston said.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/13/jpmorgan-goldman-sachs-pepsico-kick-off-earnings-season-strong?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>earnings</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/jpmorgan-goldman-sachs-pepsico-kick-off-earnings-season-strong?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 14 Jul 2021 03:01:59 -0700</pubDate>
  </item>
 
