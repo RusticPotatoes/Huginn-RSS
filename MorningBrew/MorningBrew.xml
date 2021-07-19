@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/18</link>
- <lastBuildDate>Sun, 18 Jul 2021 17:09:03 -0700</lastBuildDate>
- <pubDate>Sun, 18 Jul 2021 17:09:03 -0700</pubDate>
+ <lastBuildDate>Sun, 18 Jul 2021 17:33:58 -0700</lastBuildDate>
+ <pubDate>Sun, 18 Jul 2021 17:33:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Kriss Kross: Lego Action Figures</title>
+  <description>&lt;img src='https://media.giphy.com/media/VerIk7pS3iEEg/giphy.gif'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/19/kriss-kross-lego-action-figures</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/19/kriss-kross-lego-action-figures</guid>
+  <pubDate>Sun, 18 Jul 2021 17:31:57 -0700</pubDate>
+ </item>
  <item>
   <title>Report: NSO Group Software Used to Hack Journalists', Executives' Phones</title>
   <description>&lt;img src='https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif'&gt;&lt;br/&gt;One notable finding: Pegasus was reportedly used to hack the phone of someone in journalist Jamal Khashoggi's inner circle four days after he was murdered.</description>
@@ -361,15 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/candace-parker-will-first-wnba-player-nba2k22s-cover</guid>
   <pubDate>Wed, 14 Jul 2021 14:17:01 -0700</pubDate>
- </item>
- <item>
-  <title>Young Streaming Platforms Rake In 2021 Emmy Nominations</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1105%2Fstreaming.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Netflix accounted for about 60% of all streaming nominations in 2020, but this year, its share is down to less than 40%. Netflix sat alone at the top for a while, nabbing the all-time nomination record last year with 160. All the whippersnappers with strong Emmys showings revealed impressive viewership gains this year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/13/young-streaming-platforms-rake-2021-emmy-nominations?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/young-streaming-platforms-rake-2021-emmy-nominations?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 14 Jul 2021 03:01:59 -0700</pubDate>
  </item>
 
 </channel>
