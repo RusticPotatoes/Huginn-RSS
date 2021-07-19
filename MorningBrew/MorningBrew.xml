@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/19</link>
- <lastBuildDate>Mon, 19 Jul 2021 14:59:00 -0700</lastBuildDate>
- <pubDate>Mon, 19 Jul 2021 14:59:00 -0700</pubDate>
+ <lastBuildDate>Mon, 19 Jul 2021 15:04:05 -0700</lastBuildDate>
+ <pubDate>Mon, 19 Jul 2021 15:04:05 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Volkswagen Is Phasing Out Sales of Passat in the US</title>
+  <description>&lt;img src='https://media.giphy.com/media/3oz8xXc1l78EHeehzO/giphy.gif'&gt;&lt;br/&gt;Automakers have sent several US sedan models to the junkyard in recent years, including the Chevy Impala, Ford Focus, Dodge Dart, and Chrysler 200.   Bloomberg has called the death of the sedan “the biggest car trend of the decade.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/19/volkswagen-phasing-sales-passat-us</link>
+  <author>Sherry Qin</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/19/volkswagen-phasing-sales-passat-us</guid>
+  <pubDate>Mon, 19 Jul 2021 15:02:04 -0700</pubDate>
+ </item>
  <item>
   <title>Companies Announce IPO Plans Despite Market Sell-off</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F931%2Fstock_exchange.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Universal Music Group: Billionaire investor Bill Ackman’s SPAC scrapped its complex deal to buy a 10% stake in UMG, which is home to artists like Taylor Swift, after the SEC squashed the idea.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>social media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/twitter-cancels-fleets-feature?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 15 Jul 2021 03:01:58 -0700</pubDate>
- </item>
- <item>
-  <title>Expanded Child Tax Credit Kicks in Today</title>
-  <description>&lt;img src='https://media.giphy.com/media/j5cTbV4Ber06X409rZ/giphy.gif'&gt;&lt;br/&gt;In the biggest win for parents since the invention of the iPad, the IRS will send supersized checks for the expanded child tax credit (CTC) beginning today. Will it stick around?  Here’s why: The expanded child tax credit is expected to cut child poverty by nearly half, according to a study from Columbia University. Read it here. “It’s the most transformative policy coming out of Washington since the days of FDR,” Booker claims.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/14/expanded-child-tax-credit-kicks-today?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/expanded-child-tax-credit-kicks-today?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 15 Jul 2021 03:01:58 -0700</pubDate>
  </item>
 
