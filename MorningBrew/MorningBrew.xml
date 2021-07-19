@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/18/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/19/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/19/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/18</link>
- <lastBuildDate>Sun, 18 Jul 2021 17:33:58 -0700</lastBuildDate>
- <pubDate>Sun, 18 Jul 2021 17:33:58 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/19</link>
+ <lastBuildDate>Mon, 19 Jul 2021 03:04:00 -0700</lastBuildDate>
+ <pubDate>Mon, 19 Jul 2021 03:04:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: July 19</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3736%2Fblue_origin_launch.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bezos in space: Jeff Bezos will blast off to space in a Blue Origin rocket tomorrow, joined by a record-setting crew.   That’s everything else that matters.  Everything else: Ted Lasso season 2 hits Apple TV+ on Friday. Gonna be a fun one.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/18/week-ahead-july-19?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/18/week-ahead-july-19?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 19 Jul 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: July 19</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5512%2Fwework.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;German Chancellor Angela Merkel vowed to address climate change after touring the “surreal, ghostly” scene of a German village destroyed by flooding. (The Atlantic)  Read: The truth behind the Amazon mystery seeds.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/18/key-performance-indicators-july-19?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/18/key-performance-indicators-july-19?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 19 Jul 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Deepfakes in New Bourdain Doc Raise Questions Around AI Ethics in FIlm</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5821%2Fanthony_bourdain.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Neville said he used the AI technique because it was “important to make Tony’s words come alive.”  Neville told GQ that he received permission to recreate Bourdain’s voice from Bourdain’s literary executor and his widow “just to make sure people were cool with that.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/18/deepfakes-new-bourdain-doc-raise-questions-around-ai-ethics-film?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/18/deepfakes-new-bourdain-doc-raise-questions-around-ai-ethics-film?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 19 Jul 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Report: NSO Group Software Used to Hack Journalists', Executives' Phones</title>
+  <description>&lt;img src='https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif'&gt;&lt;br/&gt;One notable finding: Pegasus was reportedly used to hack the phone of someone in journalist Jamal Khashoggi's inner circle four days after he was murdered.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/18/report-nso-group-software-used-hack-journalists-executives-phones?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>cyber</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/18/report-nso-group-software-used-hack-journalists-executives-phones?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 19 Jul 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Facebook and Biden in War of Words Over Vaccine Misinformation</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5820%2Fgood_will_hunting.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  The social media company pushed back on Saturday against increasing criticism from the White House that the company is allowing the spread of Covid-19 vaccine misinformation. More than 97% of new hospitalizations from the Delta variant are of people who’ve not been vaccinated, the agency said. “The fact is that vaccine acceptance among Facebook users in the US has increased,” the company wrote, citing a study that showed vaccine acceptance among FB users has jumped 10–15 percentage points since January.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/18/facebook-biden-war-words-vaccine-misinformation?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/18/facebook-biden-war-words-vaccine-misinformation?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 19 Jul 2021 03:01:59 -0700</pubDate>
+ </item>
  <item>
   <title>Kriss Kross: Lego Action Figures</title>
   <description>&lt;img src='https://media.giphy.com/media/VerIk7pS3iEEg/giphy.gif'&gt;&lt;br/&gt;</description>
@@ -325,51 +370,6 @@
   <categories>social media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/twitter-cancels-fleets-feature</guid>
   <pubDate>Wed, 14 Jul 2021 14:37:05 -0700</pubDate>
- </item>
- <item>
-  <title>The EU and China Launch Ambitious Plans to Cut Greenhouse Gas Emissions</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5778%2Feiffel_tower_tree.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In November, some of the most powerful world leaders will meet in Glasgow for the UN Climate Change Conference to pitch even more initiatives.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/14/eu-china-launch-ambitious-plans-cut-greenhouse-gas-emissions</link>
-  <author>Matty Merritt</author>
-  <categories>environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/eu-china-launch-ambitious-plans-cut-greenhouse-gas-emissions</guid>
-  <pubDate>Wed, 14 Jul 2021 14:37:05 -0700</pubDate>
- </item>
- <item>
-  <title>What's Up With the Child Tax Credit?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5777%2Firs_building.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Taxpayers who claimed the child tax credit on their 2020 returns—or 2019 for those who haven’t yet filed for 2020—should be all set to receive monthly payments. The monthly max payment is $300 per child under 6 and $250 per child between ages 6 and 17. Until then, chat up a tax pro if:Your income increased significantly in 2021You’re concerned about a higher-than-usual tax bill next yearYou take turns with someone in claiming the child tax creditYour child turns 6 or 18 in 2021You’re too late to unenroll from the first payment, but you can discontinue the rest here. Parents who aren’t required to file taxes can sign up for payments on the non-filer portal. You’ll get the max payment when your AGI is below... You’ll get something when your AGI is below:$240,000 and you’re single$440,000 and you’re married filing jointly$240,000 and you’re a head of householdYou can calculate exactly how much you’ll get here. The IRS is looking back at your most recent return to calculate your monthly payment, but the actual tax credit amount is based on your 2021 situation. They’ll get the other half when they file their 2021 taxes next year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/14/whats-child-tax-credit</link>
-  <author>Ryan Lasker</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/whats-child-tax-credit</guid>
-  <pubDate>Wed, 14 Jul 2021 14:37:04 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 15</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1073%2Ftiktok.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Quote: “The medals will not be given around the neck. (No Mercy/No Malice) Read: How fintech is eating the world. Literally.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/14/key-performance-indicators-july-15</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/key-performance-indicators-july-15</guid>
-  <pubDate>Wed, 14 Jul 2021 14:31:59 -0700</pubDate>
- </item>
- <item>
-  <title>Expanded Child Tax Credit Kicks in Today</title>
-  <description>&lt;img src='https://media.giphy.com/media/j5cTbV4Ber06X409rZ/giphy.gif'&gt;&lt;br/&gt;In the biggest win for parents since the invention of the iPad, the IRS will send supersized checks for the expanded child tax credit (CTC) beginning today. Read more: Our personal finance writer Ryan Lasker put together a cheat sheet for the child tax credit that’ll help you figure out if you qualify, how much you’re eligible for, and whether you should opt out. Will it stick around?  Here’s why: The expanded child tax credit is expected to cut child poverty by nearly half, according to a study from Columbia University.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/14/expanded-child-tax-credit-kicks-today</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/expanded-child-tax-credit-kicks-today</guid>
-  <pubDate>Wed, 14 Jul 2021 14:31:59 -0700</pubDate>
- </item>
- <item>
-  <title>Candace Parker Will Be First WNBA Player on NBA2K22’s Cover</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5779%2Fnba_2k22_cover.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line, via Parker: “Being able to see women on the cover, visible in leadership positions, it helps not just in sport but also just in the boardroom, in business, or everything,” she told Bloomberg.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/14/candace-parker-will-first-wnba-player-nba2k22s-cover</link>
-  <author>Matty Merritt</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/candace-parker-will-first-wnba-player-nba2k22s-cover</guid>
-  <pubDate>Wed, 14 Jul 2021 14:17:01 -0700</pubDate>
  </item>
 
 </channel>
