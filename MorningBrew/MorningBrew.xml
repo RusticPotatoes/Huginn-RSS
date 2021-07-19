@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/18</link>
- <lastBuildDate>Sun, 18 Jul 2021 17:04:07 -0700</lastBuildDate>
- <pubDate>Sun, 18 Jul 2021 17:04:07 -0700</pubDate>
+ <lastBuildDate>Sun, 18 Jul 2021 17:09:03 -0700</lastBuildDate>
+ <pubDate>Sun, 18 Jul 2021 17:09:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Report: NSO Group Software Used to Hack Journalists', Executives' Phones</title>
+  <description>&lt;img src='https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif'&gt;&lt;br/&gt;One notable finding: Pegasus was reportedly used to hack the phone of someone in journalist Jamal Khashoggi's inner circle four days after he was murdered.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/18/report-nso-group-software-used-hack-journalists-executives-phones</link>
+  <author>Neal Freyman</author>
+  <categories>cyber</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/18/report-nso-group-software-used-hack-journalists-executives-phones</guid>
+  <pubDate>Sun, 18 Jul 2021 17:07:01 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: July 19</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3736%2Fblue_origin_launch.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bezos in space: Jeff Bezos will blast off to space in a Blue Origin rocket tomorrow, joined by a record-setting crew.   That’s everything else that matters.  Everything else: Ted Lasso season 2 hits Apple TV+ on Friday. Gonna be a fun one.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/young-streaming-platforms-rake-2021-emmy-nominations?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 14 Jul 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 14</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5755%2Fchart_showing_the_best_paying_music_streaming_services.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(GQ) Read: Jason Sudeikis is having one hell of a year. Bloomberg’s Joe Weisenthal has the jokes for the boom in used car prices.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/13/key-performance-indicators-july-14?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/key-performance-indicators-july-14?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 14 Jul 2021 03:01:59 -0700</pubDate>
  </item>
 
