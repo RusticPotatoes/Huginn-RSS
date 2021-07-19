@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/19</link>
- <lastBuildDate>Mon, 19 Jul 2021 14:49:05 -0700</lastBuildDate>
- <pubDate>Mon, 19 Jul 2021 14:49:05 -0700</pubDate>
+ <lastBuildDate>Mon, 19 Jul 2021 14:59:00 -0700</lastBuildDate>
+ <pubDate>Mon, 19 Jul 2021 14:59:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Companies Announce IPO Plans Despite Market Sell-off</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F931%2Fstock_exchange.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Universal Music Group: Billionaire investor Bill Ackman’s SPAC scrapped its complex deal to buy a 10% stake in UMG, which is home to artists like Taylor Swift, after the SEC squashed the idea.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/19/companies-announce-ipo-plans-despite-market-selloff</link>
+  <author>Sherry Qin</author>
+  <categories>ipo</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/19/companies-announce-ipo-plans-despite-market-selloff</guid>
+  <pubDate>Mon, 19 Jul 2021 14:56:59 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 20</title>
   <description>&lt;img src='https://media.giphy.com/media/c46tszRVwa1S8XQ9ze/giphy.gif'&gt;&lt;br/&gt;Stat: Authorities in Malaysia put 1,069 seized bitcoin mining rigs worth $1.26 million in a police parking lot and proceeded to crush them with a steamroller last week. (Will Hoenig) Read: What is going on with Covid right now.</description>
@@ -361,15 +370,6 @@
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/expanded-child-tax-credit-kicks-today?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 15 Jul 2021 03:01:58 -0700</pubDate>
- </item>
- <item>
-  <title>Drug Overdose Deaths Rose Nearly 30% Last Year</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5775%2Froger_boyd_35_holds_a_p.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The surge is pronounced on the West Coast; in San Francisco for instance, about 64% more people died of drug overdoses last year than from Covid-19. Drug overdose deaths rose nearly 30% nationwide in 2020 to a record of 93,331, according to preliminary federal data.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/14/drug-overdose-deaths-rose-nearly-30-last-year</link>
-  <author>Jamie Wilde</author>
-  <categories>health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/drug-overdose-deaths-rose-nearly-30-last-year</guid>
-  <pubDate>Wed, 14 Jul 2021 14:37:05 -0700</pubDate>
  </item>
 
 </channel>
