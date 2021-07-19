@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/18</link>
- <lastBuildDate>Sun, 18 Jul 2021 16:59:02 -0700</lastBuildDate>
- <pubDate>Sun, 18 Jul 2021 16:59:02 -0700</pubDate>
+ <lastBuildDate>Sun, 18 Jul 2021 17:04:07 -0700</lastBuildDate>
+ <pubDate>Sun, 18 Jul 2021 17:04:07 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: July 19</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3736%2Fblue_origin_launch.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bezos in space: Jeff Bezos will blast off to space in a Blue Origin rocket tomorrow, joined by a record-setting crew.   That’s everything else that matters.  Everything else: Ted Lasso season 2 hits Apple TV+ on Friday. Gonna be a fun one.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/18/week-ahead-july-19</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/18/week-ahead-july-19</guid>
+  <pubDate>Sun, 18 Jul 2021 17:02:06 -0700</pubDate>
+ </item>
  <item>
   <title>Deepfakes in New Bourdain Doc Raise Questions Around AI Ethics in FIlm</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5821%2Fanthony_bourdain.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Neville said he used the AI technique because it was “important to make Tony’s words come alive.” But Bourdain never said that.  Neville told GQ that he received permission to recreate Bourdain’s voice from Bourdain’s literary executor and his widow  “just to make sure people were cool with that.”</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/key-performance-indicators-july-14?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 14 Jul 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Apple Reportedly Working On a Buy-Now-Pay-Later Service</title>
-  <description>&lt;img src='https://media.giphy.com/media/vxq5aOjDNMEzQWT4g9/giphy.gif'&gt;&lt;br/&gt;Apple currently earns a cut of every Apple Pay purchase, so the more users buy, the more it makes. The service will work with any Apple Pay-enabled card, so no Apple Card is required. Goldman Sachs, which is already Apple Card’s partner, has been tapped as the service’s lender.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/13/apple-reportedly-working-buynowpaylater-service?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>fintech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/13/apple-reportedly-working-buynowpaylater-service?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 14 Jul 2021 03:01:59 -0700</pubDate>
  </item>
 
