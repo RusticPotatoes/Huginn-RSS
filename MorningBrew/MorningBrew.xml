@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/19/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/19/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/20/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/19</link>
- <lastBuildDate>Mon, 19 Jul 2021 15:34:03 -0700</lastBuildDate>
- <pubDate>Mon, 19 Jul 2021 15:34:03 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/20</link>
+ <lastBuildDate>Tue, 20 Jul 2021 03:04:04 -0700</lastBuildDate>
+ <pubDate>Tue, 20 Jul 2021 03:04:04 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Volkswagen Is Phasing Out Sales of Passat in the US</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5843%2Fvw_passat.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Volkswagen said it will stop selling its Passat model in the US next year as automakers pivot to SUV production. Automakers have sent several US sedan models to the junkyard in recent years, including the Chevy Impala, Ford Focus, Dodge Dart, and Chrysler 200.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/19/volkswagen-phasing-sales-passat-us?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/19/volkswagen-phasing-sales-passat-us?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 20 Jul 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: July 20</title>
+  <description>&lt;img src='https://media.giphy.com/media/c46tszRVwa1S8XQ9ze/giphy.gif'&gt;&lt;br/&gt;(Will Hoenig) Read: What is going on with Covid right now. Just wait until they find Mare of Easttown... That means calling the TV → telly, cookies → biscuits, and gas station → petrol station.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/19/key-performance-indicators-july-20?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/19/key-performance-indicators-july-20?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 20 Jul 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Companies Announce IPO Plans Despite Market Sell-off</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5839%2Fipo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Universal Music Group: Billionaire investor Bill Ackman’s SPAC scrapped its complex deal to buy a 10% stake in UMG, which is home to artists like Taylor Swift, after the SEC squashed the idea.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/19/companies-announce-ipo-plans-despite-market-selloff?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>ipo</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/19/companies-announce-ipo-plans-despite-market-selloff?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 20 Jul 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Preview of Blue Origin’s First Passenger Space Flight</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5844%2Fblue_origin_rocket.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Jeff Bezos’s space company, Blue Origin, will launch its first human test flight at 9am ET from the small desert town of Van Horn, Texas. + The latest from Gossip Brew: While Virgin Galactic's Richard Branson might have beat Bezos to space by 10 days, he only reached an altitude of 53.5 miles.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/19/preview-blue-origins-first-passenger-space-flight?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/19/preview-blue-origins-first-passenger-space-flight?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 20 Jul 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Pandemic Recession Was the Shortest Ever</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5841%2Fbounce_back.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The pandemic-induced recession lasted only two months, from February 2020 to April 2020, making it the shortest recession in US history. Zoom out: The Covid-19 recession ended an economic boom that began in June 2009 and lasted 128 months, the longest US economic expansion on record.  The US government is certainly acting like the recession is long gone. Let's start the clock again. The federal eviction moratorium ends on July 31.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/19/pandemic-recession-shortest-ever?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/19/pandemic-recession-shortest-ever?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 20 Jul 2021 03:02:02 -0700</pubDate>
+ </item>
  <item>
   <title>Preview of Blue Origin’s First Passenger Space Flight</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3736%2Fblue_origin_launch.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Jeff Bezos’s space company, Blue Origin, will launch its first human test flight at 9am ET from Van Horn, Texas, a small desert town. Today’s flight is expected to reach 62 miles in altitude and pass the Kármán line, the invisible boundary to outer space.</description>
@@ -325,51 +370,6 @@
   <categories>education</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/several-mba-programs-end-hybrid-learning-fall</guid>
   <pubDate>Thu, 15 Jul 2021 14:56:58 -0700</pubDate>
- </item>
- <item>
-  <title>Revolut $800 Million Funding Round Signifies Hot Fintech Market</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5788%2Ffintech_apps.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Fintech investing &gt; other kinds of investingWhen you say, “Invest in my new fintech startup,” investors say, “How much?” The company was valued at $11 billion and its listing was a huge win for the burgeoning fintech industry the country has been trying to birth since Brexit. After an $800 million funding round, Revolut, a London-based fintech startup, is now the biggest private company ever in the UK with a valuation of $33 billion.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/15/revolut-800-million-funding-round-signifies-hot-fintech-market</link>
-  <author>Matty Merritt</author>
-  <categories>fintech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/revolut-800-million-funding-round-signifies-hot-fintech-market</guid>
-  <pubDate>Thu, 15 Jul 2021 14:56:58 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 16</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4282%2Fdtc_remote_working_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Cold Takes) Read: All possible views about humanity’s future are wild. In a thread bashing the industry, Palmer also called the crypto world a “cult-like ‘get rich quick’ funnel designed to extract new money from the financially desperate and naive.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/15/key-performance-indicators-july-16</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/key-performance-indicators-july-16</guid>
-  <pubDate>Thu, 15 Jul 2021 14:42:05 -0700</pubDate>
- </item>
- <item>
-  <title>Candace Parker Will Be First WNBA Player on NBA2K22’s Cover</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5779%2Fnba_2k22_cover.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Bottom line, via Parker: “Being able to see women on the cover, visible in leadership positions, it helps not just in sport but also just in the boardroom, in business, or everything,” she told Bloomberg.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/14/candace-parker-will-first-wnba-player-nba2k22s-cover?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/candace-parker-will-first-wnba-player-nba2k22s-cover?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 15 Jul 2021 03:01:58 -0700</pubDate>
- </item>
- <item>
-  <title>The EU and China Launch Ambitious Plans to Cut Greenhouse Gas Emissions</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5778%2Feiffel_tower_tree.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;some of the most powerful world leaders will meet in Glasgow in November for the UN Climate Change Conference to pitch even more initiatives.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/14/eu-china-launch-ambitious-plans-cut-greenhouse-gas-emissions?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/eu-china-launch-ambitious-plans-cut-greenhouse-gas-emissions?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 15 Jul 2021 03:01:58 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 15</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1073%2Ftiktok.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Quote: “The medals will not be given around the neck. (No Mercy/No Malice) Read: How fintech is eating the world. Literally.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/14/key-performance-indicators-july-15?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/14/key-performance-indicators-july-15?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 15 Jul 2021 03:01:58 -0700</pubDate>
  </item>
 
 </channel>
