@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/20</link>
- <lastBuildDate>Tue, 20 Jul 2021 14:58:59 -0700</lastBuildDate>
- <pubDate>Tue, 20 Jul 2021 14:58:59 -0700</pubDate>
+ <lastBuildDate>Tue, 20 Jul 2021 15:04:04 -0700</lastBuildDate>
+ <pubDate>Tue, 20 Jul 2021 15:04:04 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Netflix Moves Into Video Games As Subscription Growth Slows</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2973%2Fnetflix.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Netflix confirmed rumors it’s jumping into the gaming industry.  Key takeaways: The company added 1.5 million new subscribers, slightly better than its 1M estimate.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/20/netflix-moves-video-games-subscription-growth-slows</link>
+  <author>Sherry Qin</author>
+  <categories>streaming</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/netflix-moves-video-games-subscription-growth-slows</guid>
+  <pubDate>Tue, 20 Jul 2021 15:02:03 -0700</pubDate>
+ </item>
  <item>
   <title>Venmo Gets Rid of Its Public Feed</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5847%2Fvenmo_app.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Venmo is getting rid of its public feed as part of a larger app redesign that’ll roll out over the next few weeks. The FTC cited that feature, among others, in a complaint against Venmo that was settled back in 2018.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/key-performance-indicators-july-16?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 16 Jul 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Several MBA Programs End Hybrid Learning This Fall</title>
-  <description>&lt;img src='https://media.giphy.com/media/FMiD54OqYdnW0/giphy.gif'&gt;&lt;br/&gt;But because Zoom U can’t replicate networking off the Dalmatian Coast, students sued universities and asked for their money back.  Kate Kirsch, an incoming Harvard MBA student, told the WSJ: “So much of the value of the MBA program is the people.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/15/several-mba-programs-end-hybrid-learning-fall?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/several-mba-programs-end-hybrid-learning-fall?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 16 Jul 2021 03:02:02 -0700</pubDate>
  </item>
 
