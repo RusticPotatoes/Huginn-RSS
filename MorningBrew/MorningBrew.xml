@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/20</link>
- <lastBuildDate>Tue, 20 Jul 2021 14:39:03 -0700</lastBuildDate>
- <pubDate>Tue, 20 Jul 2021 14:39:03 -0700</pubDate>
+ <lastBuildDate>Tue, 20 Jul 2021 14:44:00 -0700</lastBuildDate>
+ <pubDate>Tue, 20 Jul 2021 14:44:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 21</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5845%2Fmaglev_train.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Victoria’s Secret CEO Martin Waters discussed the company’s shortcomings as it plans to split from parent L Brands on August 3.  Quote: “We got it wrong.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/20/key-performance-indicators-july-21</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/key-performance-indicators-july-21</guid>
+  <pubDate>Tue, 20 Jul 2021 14:41:58 -0700</pubDate>
+ </item>
  <item>
   <title>So the Billionaires Went to Space. Now What?</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5846%2Fjeff_bezos_blue_origin_n.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; After he landed yesterday, Bezos said sales for private seats on Blue Origin flights (two more of which are planned for this year) are already approaching $100 million. Now that Bezos and Richard Branson have both completed their flights, what’s next for the space tourism industry? Space tourism is just one of 10 drivers of the space economy that Morgan Stanley reported.</description>
@@ -361,15 +370,6 @@
   <categories>fintech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/revolut-800-million-funding-round-signifies-hot-fintech-market?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 16 Jul 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Aurora Announces IPO to Bring Autonomous Semi Truck To Highways</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5789%2Faurora_vehicles.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Aurora is SPACing to raise money and commercialize its self-driving tech. Eventually, the company wants to get its tech into more vehicles, including those that move humans. Autonomous vehicle startup Aurora announced plans yesterday to go public via SPAC at a valuation of $11 billion.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/15/aurora-announces-ipo-bring-autonomous-semi-truck-highways</link>
-  <author>Matty Merritt</author>
-  <categories>av</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/aurora-announces-ipo-bring-autonomous-semi-truck-highways</guid>
-  <pubDate>Thu, 15 Jul 2021 15:07:05 -0700</pubDate>
  </item>
 
 </channel>
