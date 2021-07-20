@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/20</link>
- <lastBuildDate>Tue, 20 Jul 2021 14:44:00 -0700</lastBuildDate>
- <pubDate>Tue, 20 Jul 2021 14:44:00 -0700</pubDate>
+ <lastBuildDate>Tue, 20 Jul 2021 14:58:59 -0700</lastBuildDate>
+ <pubDate>Tue, 20 Jul 2021 14:58:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Venmo Gets Rid of Its Public Feed</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5847%2Fvenmo_app.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Venmo is getting rid of its public feed as part of a larger app redesign that’ll roll out over the next few weeks. The FTC cited that feature, among others, in a complaint against Venmo that was settled back in 2018.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/20/venmo-gets-rid-public-feed</link>
+  <author>Jamie Wilde</author>
+  <categories>fintech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/venmo-gets-rid-public-feed</guid>
+  <pubDate>Tue, 20 Jul 2021 14:56:58 -0700</pubDate>
+ </item>
+ <item>
+  <title>Backlash in Israel Following Ben &amp; Jerry's Decision to Ban Sales in Occupied Territories </title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5848%2Fisrael-palestinian-confli.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; What happened: Ben &amp; Jerry’s said on Monday it wouldn’t renew its contract with its licensee in Israel that distributes ice cream in Israeli-occupied territories because it was “inconsistent with our values.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/20/backlash-israel-following-ben-jerrys-decision-ban-sales-occupied-territories</link>
+  <author>Neal Freyman</author>
+  <categories>consumer goods</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/backlash-israel-following-ben-jerrys-decision-ban-sales-occupied-territories</guid>
+  <pubDate>Tue, 20 Jul 2021 14:56:58 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 21</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5845%2Fmaglev_train.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Victoria’s Secret CEO Martin Waters discussed the company’s shortcomings as it plans to split from parent L Brands on August 3.  Quote: “We got it wrong.</description>
@@ -351,24 +369,6 @@
   <author>Sherry Qin</author>
   <categories>education</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/several-mba-programs-end-hybrid-learning-fall?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 16 Jul 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Aurora Announces IPO to Bring Autonomous Semi Truck To Highways</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5789%2Faurora_vehicles.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Aurora is SPACing to raise money and commercialize its self-driving tech. In January, the company acquired Uber’s self-driving unit and now has 1,600 employees. Eventually, the company wants to get its tech into more vehicles, including ones that move humans.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/15/aurora-announces-ipo-bring-autonomous-semi-truck-highways?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>av</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/aurora-announces-ipo-bring-autonomous-semi-truck-highways?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 16 Jul 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Revolut $800 Million Funding Round Signifies Hot Fintech Market</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5788%2Ffintech_apps.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Fintech investing &gt; other kinds of investingWhen you say, “Invest in my new fintech startup,” investors say, “How much?” The company was valued at $11 billion and its listing was a huge win for the burgeoning fintech industry the country has been trying to birth since Brexit.  Klarna, the Swedish buy-now-pay-later company responsible for the staggering amount of Girlfriend exercise dresses in your closet, snagged a $46 billion valuation last month.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/15/revolut-800-million-funding-round-signifies-hot-fintech-market?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>fintech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/revolut-800-million-funding-round-signifies-hot-fintech-market?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 16 Jul 2021 03:02:02 -0700</pubDate>
  </item>
 
