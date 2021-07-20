@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/20</link>
- <lastBuildDate>Tue, 20 Jul 2021 03:04:04 -0700</lastBuildDate>
- <pubDate>Tue, 20 Jul 2021 03:04:04 -0700</pubDate>
+ <lastBuildDate>Tue, 20 Jul 2021 14:39:03 -0700</lastBuildDate>
+ <pubDate>Tue, 20 Jul 2021 14:39:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>So the Billionaires Went to Space. Now What?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5846%2Fjeff_bezos_blue_origin_n.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; After he landed yesterday, Bezos said sales for private seats on Blue Origin flights (two more of which are planned for this year) are already approaching $100 million. Now that Bezos and Richard Branson have both completed their flights, what’s next for the space tourism industry? Space tourism is just one of 10 drivers of the space economy that Morgan Stanley reported.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/20/billionaires-went-space-now</link>
+  <author>Sherry Qin</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/billionaires-went-space-now</guid>
+  <pubDate>Tue, 20 Jul 2021 14:37:01 -0700</pubDate>
+ </item>
  <item>
   <title>Volkswagen Is Phasing Out Sales of Passat in the US</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5843%2Fvw_passat.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Volkswagen said it will stop selling its Passat model in the US next year as automakers pivot to SUV production. Automakers have sent several US sedan models to the junkyard in recent years, including the Chevy Impala, Ford Focus, Dodge Dart, and Chrysler 200.</description>
@@ -361,15 +370,6 @@
   <categories>av</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/aurora-announces-ipo-bring-autonomous-semi-truck-highways</guid>
   <pubDate>Thu, 15 Jul 2021 15:07:05 -0700</pubDate>
- </item>
- <item>
-  <title>Several MBA Programs End Hybrid Learning This Fall</title>
-  <description>&lt;img src='https://media.giphy.com/media/E4LWtyQ9KiToA/giphy.gif'&gt;&lt;br/&gt;But because Zoom U can’t replicate networking off the Dalmatian Coast, students sued universities and asked for refunds.  Kate Kirsch, an incoming Harvard MBA student, told the WSJ: “So much of the value of the MBA program is the people. Not worth the money?  </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/15/several-mba-programs-end-hybrid-learning-fall</link>
-  <author>Sherry Qin</author>
-  <categories>education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/several-mba-programs-end-hybrid-learning-fall</guid>
-  <pubDate>Thu, 15 Jul 2021 14:56:58 -0700</pubDate>
  </item>
 
 </channel>
