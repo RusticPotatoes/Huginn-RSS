@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/21</link>
- <lastBuildDate>Wed, 21 Jul 2021 14:39:07 -0700</lastBuildDate>
- <pubDate>Wed, 21 Jul 2021 14:39:07 -0700</pubDate>
+ <lastBuildDate>Wed, 21 Jul 2021 14:44:00 -0700</lastBuildDate>
+ <pubDate>Wed, 21 Jul 2021 14:44:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 22</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3546%2Fvaccine_florida.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;. Stat: US life expectancy fell by 1.5 years in 2020, the steepest drop since World War II, thanks in large part to the coronavirus. (New Yorker)  Read: Does CrossFit have a future?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/21/key-performance-indicators-july-22</link>
+  <author>Jamie Wilde</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/key-performance-indicators-july-22</guid>
+  <pubDate>Wed, 21 Jul 2021 14:41:59 -0700</pubDate>
+ </item>
  <item>
   <title>France Starts Mandating Vaccination for Entry to Cultural Venues</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5861%2Fno_vaccine_no_entry.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The US federal government hasn’t introduced any vaccine requirements for businesses, and it likely won’t take any steps until the FDA grants full approval to at least one of the shots. The vaccine strategy has resulted in two things:It has angered a lot of people: More than 100,000 protestors hit the streets last weekend, saying the vaccine rules infringed on their rights.   Bottom line: From $1 million lotteries to calling in Olivia Rodrigo for a PSA, US officials have offered loads of carrots to push the vaccine-hesitant to get their shots.</description>
@@ -361,15 +370,6 @@
   <categories>personal finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/17/money-matters-many-credit-cards-many</guid>
   <pubDate>Fri, 16 Jul 2021 17:27:04 -0700</pubDate>
- </item>
- <item>
-  <title>US Warns Companies on Rising Risks of Operating in Hong Kong</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5816%2Fhong_kong_democracy.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In a business advisory issued yesterday, the US government listed the threats US companies in Hong Kong might face: Electronic surveillance and compromised data securityRisks regarding transparency and access to critical business information Deteriorating press freedomA new Chinese national security law that targets political dissidentsLooking ahead…The advisory won’t demand specific actions from private companies.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/16/us-warns-companies-rising-risks-operating-hong-kong</link>
-  <author>Sherry Qin</author>
-  <categories>geopolitics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/us-warns-companies-rising-risks-operating-hong-kong</guid>
-  <pubDate>Fri, 16 Jul 2021 15:56:58 -0700</pubDate>
  </item>
 
 </channel>
