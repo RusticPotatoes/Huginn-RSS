@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/21</link>
- <lastBuildDate>Wed, 21 Jul 2021 14:44:00 -0700</lastBuildDate>
- <pubDate>Wed, 21 Jul 2021 14:44:00 -0700</pubDate>
+ <lastBuildDate>Wed, 21 Jul 2021 14:58:58 -0700</lastBuildDate>
+ <pubDate>Wed, 21 Jul 2021 14:58:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>First Look At New $26 Billion Opioid Settlement</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5862%2Fpharma.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Johnson &amp; Johnson, a drug manufacturer accused of downplaying the addictiveness of opioids in its marketing, would shell out $5 billion over nine years. Drug overdose deaths rose nearly 30% in the US last year, to a record of 93,331.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/21/first-look-new-26-billion-opioid-settlement</link>
+  <author>Matty Merritt</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/first-look-new-26-billion-opioid-settlement</guid>
+  <pubDate>Wed, 21 Jul 2021 14:57:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>Olympics Opening Ceremony on Friday and How Brew Readers Are Feeling About It</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4052%2Folympic_rings.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; In a poll of 6,000 Morning Brew readers, 42% said they’re less likely to watch the Tokyo Olympics than previous years’ Olympics. And 51% said they’re worried that the Olympics will be a superspreader event.  Covid: Should the Olympics have been canceled this year due to Covid-19 concerns? Viewership: How much of the Olympics do readers plan to watch?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/21/olympics-opening-ceremony-friday-brew-readers-feeling</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/olympics-opening-ceremony-friday-brew-readers-feeling</guid>
+  <pubDate>Wed, 21 Jul 2021 14:57:07 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 22</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3546%2Fvaccine_florida.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;. Stat: US life expectancy fell by 1.5 years in 2020, the steepest drop since World War II, thanks in large part to the coronavirus. (New Yorker)  Read: Does CrossFit have a future?</description>
@@ -352,24 +370,6 @@
   <categories>crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/secretary-yellen-meet-us-regulators-discuss-stablecoin?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 17 Jul 2021 03:02:05 -0700</pubDate>
- </item>
- <item>
-  <title>'Space Jam' Reboot Offers a Grand Tour of Warner Bros. IP</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5814%2Fspace_jam_2_image.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This is not a review of the film Space Jam: A New Legacy, which opened in US theaters and on HBO Max yesterday.  This time, Warner Bros.  Warner Bros. It is a review of how Warner Bros. As Jake Harris writes in the Book and Film Globe, “Everyone’s got to have a cinematic universe these days, after all.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/16/space-jam-reboot-offers-grand-tour-warner-bros-ip?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>marketing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/space-jam-reboot-offers-grand-tour-warner-bros-ip?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 17 Jul 2021 03:02:05 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: How Many Credit Cards Is too Many?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5817%2Fcredit_cards.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Credit card rewards can pack a serious punch. —Eduardo from New YorkThe question isn’t how many credit cards you should have, but rather how much of your total credit limit you’re using. If you have just one credit card with a $1,000 limit, stay sub-$300, even when you pay in full and on time. How many credit cards should I have, and is it OK to close one if I never used it and have no balance?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/17/money-matters-many-credit-cards-many</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/17/money-matters-many-credit-cards-many</guid>
-  <pubDate>Fri, 16 Jul 2021 17:27:04 -0700</pubDate>
  </item>
 
 </channel>
