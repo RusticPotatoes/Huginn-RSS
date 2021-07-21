@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/20/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/21/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/20</link>
- <lastBuildDate>Tue, 20 Jul 2021 15:04:04 -0700</lastBuildDate>
- <pubDate>Tue, 20 Jul 2021 15:04:04 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/21</link>
+ <lastBuildDate>Wed, 21 Jul 2021 03:04:01 -0700</lastBuildDate>
+ <pubDate>Wed, 21 Jul 2021 03:04:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Venmo Gets Rid of Its Public Feed</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5847%2Fvenmo_app.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Venmo is getting rid of its public feed as part of a larger app redesign that’ll roll out over the next few weeks. The FTC cited that feature, among others, in a complaint against Venmo that was settled back in 2018.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/20/venmo-gets-rid-public-feed?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>fintech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/venmo-gets-rid-public-feed?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 21 Jul 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: July 21</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5845%2Fmaglev_train.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Victoria’s Secret CEO Martin Waters discussed the company’s shortcomings as it plans to split from parent L Brands on August 3.  Quote: “We got it wrong.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/20/key-performance-indicators-july-21?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/key-performance-indicators-july-21?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 21 Jul 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Backlash in Israel Following Ben &amp; Jerry's Decision to Ban Sales in Occupied Territories </title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5848%2Fisrael-palestinian-confli.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; What happened: Ben &amp; Jerry’s said on Monday it wouldn’t renew its contract with its licensee in Israel that distributes ice cream in Israeli-occupied territories because it was “inconsistent with our values.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/20/backlash-israel-following-ben-jerrys-decision-ban-sales-occupied-territories?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>consumer goods</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/backlash-israel-following-ben-jerrys-decision-ban-sales-occupied-territories?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 21 Jul 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Netflix Moves Into Video Games As Subscription Growth Slows</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2973%2Fnetflix.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Heated competition from Disney+ and a lack of popular new shows is causing Netflix to sweat. “We view gaming as a new content category for us,” the company said. Netflix confirmed rumors it’s jumping into the gaming industry.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/20/netflix-moves-video-games-subscription-growth-slows?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>streaming</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/netflix-moves-video-games-subscription-growth-slows?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 21 Jul 2021 03:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>So the Billionaires Went to Space. Now What?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5846%2Fjeff_bezos_blue_origin_n.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In its big report on the space industry, Morgan Stanley identified the 10 drivers of a space economy that could grow to $1 trillion by 2040. Reality check: While space tourism news has gotten the recent buzz, it’s just a small slice of the overall space market, which is currently dominated by SpaceX. After he landed yesterday, Bezos said sales for private seats on Blue Origin flights (two more of which are planned for this year) are already approaching $100 million. Now that Bezos and Richard Branson have both completed their flights, what’s next for the space tourism industry?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/20/billionaires-went-space-now?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/billionaires-went-space-now?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 21 Jul 2021 03:01:59 -0700</pubDate>
+ </item>
  <item>
   <title>Netflix Moves Into Video Games As Subscription Growth Slows</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2973%2Fnetflix.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Netflix confirmed rumors it’s jumping into the gaming industry.  Key takeaways: The company added 1.5 million new subscribers, slightly better than its 1M estimate.</description>
@@ -325,51 +370,6 @@
   <categories>crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/secretary-yellen-meet-us-regulators-discuss-stablecoin</guid>
   <pubDate>Fri, 16 Jul 2021 15:47:04 -0700</pubDate>
- </item>
- <item>
-  <title>'Space Jam' Reboot Offers a Grand Tour of Warner Bros. IP</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5814%2Fspace_jam_2_image.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This is not a review of the film Space Jam: A New Legacy, which opened in US theaters and on HBO Max yesterday.  This time, Warner Bros.  Warner Bros. It is a review of how Warner Bros. As Jake Harris writes in the Book and Film Globe, “Everyone’s got to have a cinematic universe these days, after all.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/16/space-jam-reboot-offers-grand-tour-warner-bros-ip</link>
-  <author>Neal Freyman</author>
-  <categories>marketing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/space-jam-reboot-offers-grand-tour-warner-bros-ip</guid>
-  <pubDate>Fri, 16 Jul 2021 15:32:06 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 17</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5813%2Fchart_of_smartphone_market_share.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;97% of people hospitalized due to Covid-19 are unvaccinated. CDC Director Rochelle Walensky said that the Delta variant is spreading quickly among unvaccinated people in the US.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/16/key-performance-indicators-july-17</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/key-performance-indicators-july-17</guid>
-  <pubDate>Fri, 16 Jul 2021 15:27:04 -0700</pubDate>
- </item>
- <item>
-  <title>Biogen's Alzheimer's Drug Continues to Face Backlash More Than a Month After Approval</title>
-  <description>&lt;img src='https://media.giphy.com/media/ZFzpCzdWotBIdiYoLA/giphy.gif'&gt;&lt;br/&gt;On Thursday, influential hospitals Cleveland Clinic, NYC’s Mount Sinai Health System, and Providence in Washington State said they wouldn’t administer Aduhelm, citing concerns over its effectiveness and safety. the blowback has been so bad that the acting FDA chief has ordered a federal investigation to explore the perhaps too-cozy relationship between the scientists who approved the drug and the drugmaker, Biogen. An Alzheimer’s drug hadn’t been approved by the FDA in 18 years.  Some experts who helped the FDA evaluate Aduhelm protested the decision.  The FDA’s approval of the drug, called Aduhelm, was met with widespread criticism.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/16/biogens-alzheimers-drug-continues-face-backlash-month-approval</link>
-  <author>Neal Freyman</author>
-  <categories>analysis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/biogens-alzheimers-drug-continues-face-backlash-month-approval</guid>
-  <pubDate>Fri, 16 Jul 2021 14:56:59 -0700</pubDate>
- </item>
- <item>
-  <title>Make It Work: Tips on Getting a Job at the Brew (or Anywhere Else)</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Our core values are super important to us and I can almost guarantee you that you'll be asked about them during the process. I'm looking for a job, and Morning Brew just posted one that matches exactly what I want! It goes a long way and has a lasting impression on us Brew folks.  Wishing you the best of luck in your job search. Each week, Morning Brew's Head of People Ops Kate Noel answers reader-submitted questions about work in 2021. Ask Kate here.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/16/make-work-tips-getting-job-brew-anywhere-else</link>
-  <author>Neal Freyman</author>
-  <categories>work life</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/make-work-tips-getting-job-brew-anywhere-else</guid>
-  <pubDate>Fri, 16 Jul 2021 14:47:01 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 16</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4282%2Fdtc_remote_working_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Cold Takes) Read: All possible views about humanity’s future are wild. In a thread bashing the industry, Palmer called the crypto world a “cult-like ‘get rich quick’ funnel designed to extract new money from the financially desperate and naive.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/15/key-performance-indicators-july-16?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/15/key-performance-indicators-july-16?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 16 Jul 2021 03:02:02 -0700</pubDate>
  </item>
 
 </channel>
