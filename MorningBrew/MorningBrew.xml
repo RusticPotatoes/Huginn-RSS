@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/21</link>
- <lastBuildDate>Wed, 21 Jul 2021 14:58:58 -0700</lastBuildDate>
- <pubDate>Wed, 21 Jul 2021 14:58:58 -0700</pubDate>
+ <lastBuildDate>Wed, 21 Jul 2021 15:04:02 -0700</lastBuildDate>
+ <pubDate>Wed, 21 Jul 2021 15:04:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Zed Run Developer Raises $20 Million</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5863%2Fvhs_zed_run_series_a.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Meanwhile, users can win ethereum by getting on the digital race podium or by selling their horses to others at a profit. $30+ million worth of Zed horses have been sold so far. On Zed Run’s platform, 14,000+ “stable owners” (also affectionately called #ZEDheads) buy, sell, breed, and race virtual horses.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/21/zed-run-developer-raises-20-million</link>
+  <author>Jamie Wilde</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/zed-run-developer-raises-20-million</guid>
+  <pubDate>Wed, 21 Jul 2021 15:02:01 -0700</pubDate>
+ </item>
  <item>
   <title>First Look At New $26 Billion Opioid Settlement</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5862%2Fpharma.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Johnson &amp; Johnson, a drug manufacturer accused of downplaying the addictiveness of opioids in its marketing, would shell out $5 billion over nine years. Drug overdose deaths rose nearly 30% in the US last year, to a record of 93,331.</description>
@@ -360,15 +369,6 @@
   <author>Sherry Qin</author>
   <categories>geopolitics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/us-warns-companies-rising-risks-operating-hong-kong?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 17 Jul 2021 03:02:05 -0700</pubDate>
- </item>
- <item>
-  <title>Secretary Yellen to Meet With Other US Regulators to Discuss Stablecoin</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4656%2Fdigital_currency.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;During next week’s meeting, Secretary Yellen and other regulators will ask themselves: If there is no oversight of these US dollar-backed coins, what does that mean for the OG US dollar? It’s a coin that is—in theory—more stable than other cryptocurrencies like bitcoin, ether, etc.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/16/secretary-yellen-meet-us-regulators-discuss-stablecoin?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/secretary-yellen-meet-us-regulators-discuss-stablecoin?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 17 Jul 2021 03:02:05 -0700</pubDate>
  </item>
 
