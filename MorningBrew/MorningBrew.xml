@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/21</link>
- <lastBuildDate>Wed, 21 Jul 2021 03:04:01 -0700</lastBuildDate>
- <pubDate>Wed, 21 Jul 2021 03:04:01 -0700</pubDate>
+ <lastBuildDate>Wed, 21 Jul 2021 14:39:07 -0700</lastBuildDate>
+ <pubDate>Wed, 21 Jul 2021 14:39:07 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>France Starts Mandating Vaccination for Entry to Cultural Venues</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5861%2Fno_vaccine_no_entry.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The US federal government hasn’t introduced any vaccine requirements for businesses, and it likely won’t take any steps until the FDA grants full approval to at least one of the shots. The vaccine strategy has resulted in two things:It has angered a lot of people: More than 100,000 protestors hit the streets last weekend, saying the vaccine rules infringed on their rights.   Bottom line: From $1 million lotteries to calling in Olivia Rodrigo for a PSA, US officials have offered loads of carrots to push the vaccine-hesitant to get their shots.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/21/france-starts-mandating-vaccination-entry-cultural-venues</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/france-starts-mandating-vaccination-entry-cultural-venues</guid>
+  <pubDate>Wed, 21 Jul 2021 14:37:05 -0700</pubDate>
+ </item>
  <item>
   <title>Venmo Gets Rid of Its Public Feed</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5847%2Fvenmo_app.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Venmo is getting rid of its public feed as part of a larger app redesign that’ll roll out over the next few weeks. The FTC cited that feature, among others, in a complaint against Venmo that was settled back in 2018.</description>
@@ -361,15 +370,6 @@
   <categories>geopolitics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/us-warns-companies-rising-risks-operating-hong-kong</guid>
   <pubDate>Fri, 16 Jul 2021 15:56:58 -0700</pubDate>
- </item>
- <item>
-  <title>Secretary Yellen to Meet With Other US Regulators to Discuss Stablecoin</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4656%2Fdigital_currency.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; During next week’s meeting, Secretary Yellen and other regulators will ask themselves: If there is no oversight of these US dollar-backed coins, what does that mean for the OG US dollar? It’s a coin that is—in theory—more stable than other cryptocurrencies like bitcoin, ether, etc.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/16/secretary-yellen-meet-us-regulators-discuss-stablecoin</link>
-  <author>Matty Merritt</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/secretary-yellen-meet-us-regulators-discuss-stablecoin</guid>
-  <pubDate>Fri, 16 Jul 2021 15:47:04 -0700</pubDate>
  </item>
 
 </channel>
