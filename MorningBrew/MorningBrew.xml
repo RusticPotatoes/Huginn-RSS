@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/22</link>
- <lastBuildDate>Thu, 22 Jul 2021 03:04:06 -0700</lastBuildDate>
- <pubDate>Thu, 22 Jul 2021 03:04:06 -0700</pubDate>
+ <lastBuildDate>Thu, 22 Jul 2021 14:54:02 -0700</lastBuildDate>
+ <pubDate>Thu, 22 Jul 2021 14:54:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>California Sues Gaming Company Activision Blizzard</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5879%2Factivision.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;California legislators sued video game developer Activision Blizzard yesterday, citing its “pervasive ‘frat boy’ culture” and mistreatment of women employees. Bottom line: The lawsuit against Activision Blizzard shows that the #MeToo movement is still reaching its crescendo in the video game industry. The suit details that one woman employee died by suicide on a corporate trip after nude photos were leaked and shared among male colleagues who had previously harassed her. The detailsWomen employees were underpaid, promoted “more slowly,” and terminated “more quickly” than their male coworkers, the suit alleges.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/22/california-sues-gaming-company-activision-blizzard</link>
+  <author>Jamie Wilde</author>
+  <categories>civil rights</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/22/california-sues-gaming-company-activision-blizzard</guid>
+  <pubDate>Thu, 22 Jul 2021 14:52:01 -0700</pubDate>
+ </item>
  <item>
   <title>Zed Run Developer Raises $20 Million</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5863%2Fvhs_zed_run_series_a.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Meanwhile, users can win ethereum by getting on the digital race podium or by selling their horses to others at a profit. $30+ million worth of Zed horses have been sold so far. On Zed Run’s platform, 14,000+ “stable owners” (also affectionately called #ZEDheads) buy, sell, breed, and race virtual horses.</description>
@@ -361,15 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/18/deepfakes-new-bourdain-doc-raise-questions-around-ai-ethics-film</guid>
   <pubDate>Sun, 18 Jul 2021 16:57:01 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 19</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5512%2Fwework.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;German Chancellor Angela Merkel vowed to address climate change after touring the “surreal, ghostly” scene of a German village destroyed by flooding. (The Atlantic)  Read: The truth behind the Amazon mystery seeds.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/18/key-performance-indicators-july-19</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/18/key-performance-indicators-july-19</guid>
-  <pubDate>Sun, 18 Jul 2021 16:52:07 -0700</pubDate>
  </item>
 
 </channel>
