@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/21/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/22/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/21</link>
- <lastBuildDate>Wed, 21 Jul 2021 15:04:02 -0700</lastBuildDate>
- <pubDate>Wed, 21 Jul 2021 15:04:02 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/22</link>
+ <lastBuildDate>Thu, 22 Jul 2021 03:04:06 -0700</lastBuildDate>
+ <pubDate>Thu, 22 Jul 2021 03:04:06 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Zed Run Developer Raises $20 Million</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5863%2Fvhs_zed_run_series_a.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Meanwhile, users can win ethereum by getting on the digital race podium or by selling their horses to others at a profit. $30+ million worth of Zed horses have been sold so far. On Zed Run’s platform, 14,000+ “stable owners” (also affectionately called #ZEDheads) buy, sell, breed, and race virtual horses.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/21/zed-run-developer-raises-20-million?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/zed-run-developer-raises-20-million?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 22 Jul 2021 03:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: July 22</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3546%2Fvaccine_florida.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Stat: US life expectancy fell by 1.5 years in 2020, the steepest drop since World War II, thanks in large part to the coronavirus. Quote: “My hope is that it creates world peace or helps create world peace.” (New Yorker) </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/21/key-performance-indicators-july-22?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/key-performance-indicators-july-22?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 22 Jul 2021 03:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Olympics Opening Ceremony on Friday and How Brew Readers Are Feeling About It</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4052%2Folympic_rings.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; In a poll of 6,000 Morning Brew readers, 42% said they’re less likely to watch the Tokyo Olympics than previous years’ Olympics. And 51% said they’re worried that the Olympics will be a superspreader event.  Covid: Should the Olympics have been canceled this year due to Covid-19 concerns? Viewership: How much of the Olympics do readers plan to watch?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/21/olympics-opening-ceremony-friday-brew-readers-feeling?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/olympics-opening-ceremony-friday-brew-readers-feeling?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 22 Jul 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>First Look At New $26 Billion Opioid Settlement</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5862%2Fpharma.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Johnson &amp; Johnson, a drug manufacturer accused of downplaying the addictiveness of opioids in its marketing, would shell out $5 billion over nine years. Drug overdose deaths rose nearly 30% in the US last year, to a record of 93,331.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/21/first-look-new-26-billion-opioid-settlement?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/first-look-new-26-billion-opioid-settlement?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 22 Jul 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>France Starts Mandating Vaccination for Entry to Cultural Venues</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5861%2Fno_vaccine_no_entry.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The US federal government hasn’t introduced any vaccine requirements for businesses, and it likely won’t take any steps until the FDA grants full approval to at least one of the shots. The vaccine strategy has resulted in two things:It has angered a lot of people: More than 100,000 protestors hit the streets last weekend, saying the vaccine rules infringed on their rights.   Bottom line: From $1 million lotteries to calling in Olivia Rodrigo for a PSA, US officials have offered loads of carrots to push the vaccine-hesitant to get their shots.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/21/france-starts-mandating-vaccination-entry-cultural-venues?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/france-starts-mandating-vaccination-entry-cultural-venues?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 22 Jul 2021 03:02:03 -0700</pubDate>
+ </item>
  <item>
   <title>Zed Run Developer Raises $20 Million</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5863%2Fvhs_zed_run_series_a.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Meanwhile, users can win ethereum by getting on the digital race podium or by selling their horses to others at a profit. $30+ million worth of Zed horses have been sold so far. On Zed Run’s platform, 14,000+ “stable owners” (also affectionately called #ZEDheads) buy, sell, breed, and race virtual horses.</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/18/key-performance-indicators-july-19</guid>
   <pubDate>Sun, 18 Jul 2021 16:52:07 -0700</pubDate>
- </item>
- <item>
-  <title>Facebook and Biden in War of Words Over Vaccine Misinformation</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5820%2Fgood_will_hunting.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Facebook has taken steps to limit the spread of vaccine misinformation—such as removing posts that promote vaccine lies—but the Biden administration thinks those actions have been toothless.   WH Press Secretary Jen Psaki said health misinformation on social media is “leading to people not taking the vaccine, and people are dying as a result.” More than 97% of new hospitalizations from the Delta variant are of people who’ve not been vaccinated, the agency said.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/18/facebook-biden-war-words-vaccine-misinformation</link>
-  <author>Neal Freyman</author>
-  <categories>social media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/18/facebook-biden-war-words-vaccine-misinformation</guid>
-  <pubDate>Sun, 18 Jul 2021 16:47:03 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers With...NFL Legend Ndamukong Suh</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5819%2Fndamukong_suh.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s one of those things where I don't think you need to bet all of your money on one thing, but I do think you need to have exposure to it. I had to ask myself, “How do I understand what a budget is?” I remember back in the day a long snapper named Don Muhlbach was one of the few guys in the locker room I would talk to about finance, where he was at with his business, and who he aspired to be. Four sacks in a playoff game or a Super Bowl win—that’d be the best. Some of them I've already accomplished so that’s probably why I didn’t pick them.  No. 1 draft pick Trevor Lawrence is getting his signing bonus paid out in cryptocurrency.  There’s for sure more conversations on those topics in the locker room compared to 2010 when I first got in the league. I don’t see myself putting my salary fully into bitcoin. If you could own one building what would it be? Now, it’s on Reddit and you see all the news about GameStop so I think it’s seen as more “cool” to talk about it and be in the know.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/16/icebreakers-withnfl-legend-ndamukong-suh</link>
-  <author>Neal Freyman</author>
-  <categories>qanda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/icebreakers-withnfl-legend-ndamukong-suh</guid>
-  <pubDate>Sat, 17 Jul 2021 14:17:04 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: How Many Credit Cards Is too Many?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5817%2Fcredit_cards.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Credit card rewards can pack a serious punch. —Eduardo from New YorkThe question isn’t how many credit cards you should have, but rather how much of your total credit limit you’re using. If you have just one credit card with a $1,000 limit, stay sub-$300, even when you pay in full and on time. How many credit cards should I have, and is it OK to close one if I never used it and have no balance?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/17/money-matters-many-credit-cards-many?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/17/money-matters-many-credit-cards-many?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 17 Jul 2021 03:02:05 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 17</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5813%2Fchart_of_smartphone_market_share.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;97% of people hospitalized due to Covid-19 are unvaccinated. CDC Director Rochelle Walensky said that the Delta variant is spreading quickly among unvaccinated people in the US.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/16/key-performance-indicators-july-17?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/key-performance-indicators-july-17?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 17 Jul 2021 03:02:05 -0700</pubDate>
- </item>
- <item>
-  <title>US Warns Companies on Rising Risks of Operating in Hong Kong</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5818%2Fhong_kong_skyline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In a business advisory issued yesterday, the US government listed the threats US companies in Hong Kong might face:Electronic surveillance and compromised data securityRisks regarding transparency and access to critical business informationDeteriorating press freedomA new Chinese national security law that targets political dissidentsLooking ahead…the advisory won’t demand specific actions from private companies.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/16/us-warns-companies-rising-risks-operating-hong-kong?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>geopolitics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/16/us-warns-companies-rising-risks-operating-hong-kong?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 17 Jul 2021 03:02:05 -0700</pubDate>
  </item>
 
 </channel>
