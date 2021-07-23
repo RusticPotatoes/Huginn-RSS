@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/23</link>
- <lastBuildDate>Fri, 23 Jul 2021 14:09:01 -0700</lastBuildDate>
- <pubDate>Fri, 23 Jul 2021 14:09:01 -0700</pubDate>
+ <lastBuildDate>Fri, 23 Jul 2021 14:14:03 -0700</lastBuildDate>
+ <pubDate>Fri, 23 Jul 2021 14:14:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Make It Work: Why Are You Really Looking For a New Job?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;—Casey from WisconsinHey Casey, if I was asked why I'm looking for a new job and the answer is because I wanted to leave a toxic work environment, I would flip the question and tell the interviewer, "I am looking to be part of a positive and exciting work culture, and I believe that this may be the right place." Ask Kate here. Kate   Something bothering you at work?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/23/make-work-really-looking-new-job</link>
+  <author>Neal Freyman</author>
+  <categories>work life</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/23/make-work-really-looking-new-job</guid>
+  <pubDate>Fri, 23 Jul 2021 14:12:02 -0700</pubDate>
+ </item>
  <item>
   <title>Payroll to the People</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5903%2Fpaycom.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Paycom has created Beti, which can further streamline the payroll process by empowering employees to do their own payroll.  And not to get all “ACT NOW” on you, but if you’re waiting until employees ask for employee-driven payroll, it’s already too late. So why keep doing payroll the less-efficient way? Free of FrustrationBy giving employees the tools they need to take control of their payroll processes, you give them the power to prevent frustrating or time-consuming follow-ups if their paycheck is wrong. But now, the thought of a company or brand not having an app seems even more foreign.</description>
@@ -360,15 +369,6 @@
   <author>Sherry Qin</author>
   <categories>ipo</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/19/companies-announce-ipo-plans-despite-market-selloff?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 20 Jul 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Preview of Blue Origin’s First Passenger Space Flight</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5844%2Fblue_origin_rocket.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Jeff Bezos’s space company, Blue Origin, will launch its first human test flight at 9am ET from the small desert town of Van Horn, Texas. + The latest from Gossip Brew: While Virgin Galactic's Richard Branson might have beat Bezos to space by 10 days, he only reached an altitude of 53.5 miles.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/19/preview-blue-origins-first-passenger-space-flight?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/19/preview-blue-origins-first-passenger-space-flight?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 20 Jul 2021 03:02:02 -0700</pubDate>
  </item>
 
