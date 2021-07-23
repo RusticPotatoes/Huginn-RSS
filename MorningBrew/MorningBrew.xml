@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/23</link>
- <lastBuildDate>Fri, 23 Jul 2021 14:19:05 -0700</lastBuildDate>
- <pubDate>Fri, 23 Jul 2021 14:19:05 -0700</pubDate>
+ <lastBuildDate>Fri, 23 Jul 2021 15:03:59 -0700</lastBuildDate>
+ <pubDate>Fri, 23 Jul 2021 15:03:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Tokyo Olympics Holds Its Surreal Opening Ceremony</title>
+  <description>&lt;img src='https://media.giphy.com/media/Q53yLdCf8bmxymyKdy/giphy.gif'&gt;&lt;br/&gt;Now comes the fun part: Here’s the master TV schedule for the athletic competitions.  Keith Urban, John Legend, and other singers from across the globe sang “Imagine” together, because we learned nothing from Gal Gadot’s version.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/23/tokyo-olympics-holds-surreal-opening-ceremony</link>
+  <author>Jamie Wilde</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/23/tokyo-olympics-holds-surreal-opening-ceremony</guid>
+  <pubDate>Fri, 23 Jul 2021 15:01:58 -0700</pubDate>
+ </item>
  <item>
   <title>Money Matters: Getting the Right Mix</title>
   <description>&lt;img src='https://media.giphy.com/media/ixZmwZC0R1Zi87EOqG/giphy.gif'&gt;&lt;br/&gt;How much money should I be investing and saving in cash every month? Keep enough cash to cover three to six months of expenses in a savings account that you can tap in the face of financial hardship. But cash comes first. Perhaps only Elon Musk appears in this newsletter as much as inflation, which is just one reason not to hoard more cash than is necessary.</description>
@@ -360,15 +369,6 @@
   <author>Sherry Qin</author>
   <categories>auto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/19/volkswagen-phasing-sales-passat-us?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 20 Jul 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 20</title>
-  <description>&lt;img src='https://media.giphy.com/media/c46tszRVwa1S8XQ9ze/giphy.gif'&gt;&lt;br/&gt;(Will Hoenig) Read: What is going on with Covid right now. Just wait until they find Mare of Easttown... That means calling the TV → telly, cookies → biscuits, and gas station → petrol station.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/19/key-performance-indicators-july-20?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/19/key-performance-indicators-july-20?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 20 Jul 2021 03:02:02 -0700</pubDate>
  </item>
 
