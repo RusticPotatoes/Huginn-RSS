@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/25</link>
- <lastBuildDate>Sun, 25 Jul 2021 19:04:05 -0700</lastBuildDate>
- <pubDate>Sun, 25 Jul 2021 19:04:05 -0700</pubDate>
+ <lastBuildDate>Sun, 25 Jul 2021 19:09:06 -0700</lastBuildDate>
+ <pubDate>Sun, 25 Jul 2021 19:09:06 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Biden Assembles Antitrust A-Team</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1823%2Fbig_tech_under_the_antitrust_spotlight.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Facebook and Amazon have asked Khan to step back on any matters involving their companies, while Google could ask the same of Kanter. A favorite of progressives, he has criticized the current antitrust framework for years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/biden-assembles-antitrust-ateam</link>
+  <author>Neal Freyman</author>
+  <categories>antitrust</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/biden-assembles-antitrust-ateam</guid>
+  <pubDate>Sun, 25 Jul 2021 19:07:05 -0700</pubDate>
+ </item>
  <item>
   <title>Philip Morris CEO Wants to “Unsmoke the World”</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5370%2Fco2.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;    Big picture: Critics say the public shouldn’t trust cigarette companies to lead a campaign that would ban smoking, especially when they’re still marketing their products in lower income countries where most of the world’s smokers now reside.</description>
@@ -361,15 +370,6 @@
   <categories>consumer goods</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/backlash-israel-following-ben-jerrys-decision-ban-sales-occupied-territories</guid>
   <pubDate>Tue, 20 Jul 2021 14:56:58 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 21</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5845%2Fmaglev_train.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Victoria’s Secret CEO Martin Waters discussed the company’s shortcomings as it plans to split from parent L Brands on August 3.  Quote: “We got it wrong.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/20/key-performance-indicators-july-21</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/key-performance-indicators-july-21</guid>
-  <pubDate>Tue, 20 Jul 2021 14:41:58 -0700</pubDate>
  </item>
 
 </channel>
