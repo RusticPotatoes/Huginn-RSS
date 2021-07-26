@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/25</link>
- <lastBuildDate>Sun, 25 Jul 2021 19:24:03 -0700</lastBuildDate>
- <pubDate>Sun, 25 Jul 2021 19:24:03 -0700</pubDate>
+ <lastBuildDate>Sun, 25 Jul 2021 19:29:04 -0700</lastBuildDate>
+ <pubDate>Sun, 25 Jul 2021 19:29:04 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: July 26</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4875%2Ftesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Economic data: GDP for the second quarter will drop on Thursday. Harry Potter turns 41 on Saturday.  Wanna feel old? So is Lollapalooza. It’s expected to show the US at peak growth—9.7%. Tune in Wednesday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/week-ahead-july-26</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/week-ahead-july-26</guid>
+  <pubDate>Sun, 25 Jul 2021 19:27:04 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 26</title>
   <description>&lt;img src='https://media.giphy.com/media/Q53yLdCf8bmxymyKdy/giphy.gif'&gt;&lt;br/&gt; American beach volleyball player Taylor Crabb described what it felt like to train for years to compete in the Olympics only to be quarantined in a Tokyo hotel room. (New York Times)</description>
@@ -361,15 +370,6 @@
   <categories>streaming</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/netflix-moves-video-games-subscription-growth-slows</guid>
   <pubDate>Tue, 20 Jul 2021 15:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Venmo Gets Rid of Its Public Feed</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5847%2Fvenmo_app.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Venmo is getting rid of its public feed as part of a larger app redesign that’ll roll out over the next few weeks. The FTC cited that feature, among others, in a complaint against Venmo that was settled back in 2018.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/20/venmo-gets-rid-public-feed</link>
-  <author>Jamie Wilde</author>
-  <categories>fintech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/venmo-gets-rid-public-feed</guid>
-  <pubDate>Tue, 20 Jul 2021 14:56:58 -0700</pubDate>
  </item>
 
 </channel>
