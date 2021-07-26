@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/25</link>
- <lastBuildDate>Sun, 25 Jul 2021 19:29:04 -0700</lastBuildDate>
- <pubDate>Sun, 25 Jul 2021 19:29:04 -0700</pubDate>
+ <lastBuildDate>Sun, 25 Jul 2021 19:34:02 -0700</lastBuildDate>
+ <pubDate>Sun, 25 Jul 2021 19:34:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Checking on the Jeopardy! Hosting Tryouts </title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5908%2F70th_national_book_awards.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  champion Ken Jennings, journalists Katie Couric and Anderson Cooper, and actor Mayim Bialik.   Zoom out: Other guest hosts have included NFL QB Aaron Rodgers, GOAT Jeopardy!</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/checking-jeopardy-hosting-tryouts</link>
+  <author>Neal Freyman</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/checking-jeopardy-hosting-tryouts</guid>
+  <pubDate>Sun, 25 Jul 2021 19:32:01 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: July 26</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4875%2Ftesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Economic data: GDP for the second quarter will drop on Thursday. Harry Potter turns 41 on Saturday.  Wanna feel old? So is Lollapalooza. It’s expected to show the US at peak growth—9.7%. Tune in Wednesday.</description>
@@ -361,15 +370,6 @@
   <categories>space</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/billionaires-went-space-now?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 21 Jul 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Netflix Moves Into Video Games As Subscription Growth Slows</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2973%2Fnetflix.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Netflix confirmed rumors it’s jumping into the gaming industry.  Key takeaways: The company added 1.5 million new subscribers, slightly better than its 1M estimate.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/20/netflix-moves-video-games-subscription-growth-slows</link>
-  <author>Sherry Qin</author>
-  <categories>streaming</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/netflix-moves-video-games-subscription-growth-slows</guid>
-  <pubDate>Tue, 20 Jul 2021 15:02:03 -0700</pubDate>
  </item>
 
 </channel>
