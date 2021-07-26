@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/25</link>
- <lastBuildDate>Sun, 25 Jul 2021 18:59:02 -0700</lastBuildDate>
- <pubDate>Sun, 25 Jul 2021 18:59:02 -0700</pubDate>
+ <lastBuildDate>Sun, 25 Jul 2021 19:04:05 -0700</lastBuildDate>
+ <pubDate>Sun, 25 Jul 2021 19:04:05 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Philip Morris CEO Wants to “Unsmoke the World”</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5370%2Fco2.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;    Big picture: Critics say the public shouldn’t trust cigarette companies to lead a campaign that would ban smoking, especially when they’re still marketing their products in lower income countries where most of the world’s smokers now reside.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/philip-morris-ceo-wants-unsmoke-world</link>
+  <author>Neal Freyman</author>
+  <categories>tobacco</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/philip-morris-ceo-wants-unsmoke-world</guid>
+  <pubDate>Sun, 25 Jul 2021 19:02:04 -0700</pubDate>
+ </item>
  <item>
   <title>Robinhood's Roadshow Previews an IPO Unlike Any Other</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2127%2Frobinhood_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Robinhood execs gave a livestreamed presentation to the public Saturday, ahead of the company’s much-anticipated IPO later this week. Robinhood will price its IPO on Wednesday night and start trading on Thursday.  But Robinhood isn’t just trying to court professional investors, it’s trying to court you, the regular investor who talks about stocks on your group chat. Here’s why:When professional investors buy shares in an IPO, they tend to hold them for a long time.  </description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/key-performance-indicators-july-21</guid>
   <pubDate>Tue, 20 Jul 2021 14:41:58 -0700</pubDate>
- </item>
- <item>
-  <title>So the Billionaires Went to Space. Now What?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5846%2Fjeff_bezos_blue_origin_n.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; After he landed yesterday, Bezos said sales for private seats on Blue Origin flights (two more of which are planned for this year) are already approaching $100 million. Now that Bezos and Richard Branson have both completed their flights, what’s next for the space tourism industry? Space tourism is just one of 10 drivers of the space economy that Morgan Stanley reported.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/20/billionaires-went-space-now</link>
-  <author>Sherry Qin</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/billionaires-went-space-now</guid>
-  <pubDate>Tue, 20 Jul 2021 14:37:01 -0700</pubDate>
  </item>
 
 </channel>
