@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/25/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/26/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/26/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/25</link>
- <lastBuildDate>Sun, 25 Jul 2021 19:34:02 -0700</lastBuildDate>
- <pubDate>Sun, 25 Jul 2021 19:34:02 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/26</link>
+ <lastBuildDate>Mon, 26 Jul 2021 03:04:03 -0700</lastBuildDate>
+ <pubDate>Mon, 26 Jul 2021 03:04:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: July 26</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4875%2Ftesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Economic data: GDP for the second quarter will drop on Thursday. Harry Potter turns 41 on Saturday.  Wanna feel old? So is Lollapalooza. It’s expected to show the US at peak growth—9.7%. Tune in Wednesday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/week-ahead-july-26?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/week-ahead-july-26?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 26 Jul 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: July 26</title>
+  <description>&lt;img src='https://media.giphy.com/media/Q53yLdCf8bmxymyKdy/giphy.gif'&gt;&lt;br/&gt; American beach volleyball player Taylor Crabb described what it felt like to train for years to compete in the Olympics only to be quarantined in a Tokyo hotel room. (New York Times)</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/25/key-performance-indicators-july-26?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/25/key-performance-indicators-july-26?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 26 Jul 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Biden Assembles Antitrust A-Team</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1823%2Fbig_tech_under_the_antitrust_spotlight.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Facebook and Amazon have asked Khan to step back on any matters involving their companies, while Google could ask the same of Kanter. A favorite of progressives, he has criticized the current antitrust framework for years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/biden-assembles-antitrust-ateam?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>antitrust</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/biden-assembles-antitrust-ateam?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 26 Jul 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Philip Morris CEO Wants to “Unsmoke the World”</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5370%2Fco2.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;    Big picture: Critics say the public shouldn’t trust cigarette companies to lead a campaign that would ban smoking, especially when they’re still marketing cigarettes in lower income countries where most of the world’s smokers now reside.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/philip-morris-ceo-wants-unsmoke-world?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>tobacco</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/philip-morris-ceo-wants-unsmoke-world?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 26 Jul 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Robinhood's Roadshow Previews an IPO Unlike Any Other</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2127%2Frobinhood_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Robinhood execs gave a livestreamed presentation to the public Saturday, ahead of the company’s much-anticipated IPO later this week. Robinhood will price its IPO on Wednesday night and start trading on Thursday. That will allow individual traders to buy stock in the company alongside professionals, and perhaps get ahead of any first-day “pop” in the stock price.   Here’s why:When professional investors buy shares in an IPO, they tend to hold them for a long time.  Companies have historically reserved only 1%–2% of shares for customers, because what Robinhood is doing is risky.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/robinhoods-roadshow-previews-ipo-unlike?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>ipo</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/robinhoods-roadshow-previews-ipo-unlike?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 26 Jul 2021 03:02:02 -0700</pubDate>
+ </item>
  <item>
   <title>Checking on the Jeopardy! Hosting Tryouts </title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5908%2F70th_national_book_awards.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  champion Ken Jennings, journalists Katie Couric and Anderson Cooper, and actor Mayim Bialik.   Zoom out: Other guest hosts have included NFL QB Aaron Rodgers, GOAT Jeopardy!</description>
@@ -325,51 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/france-starts-mandating-vaccination-entry-cultural-venues</guid>
   <pubDate>Wed, 21 Jul 2021 14:37:05 -0700</pubDate>
- </item>
- <item>
-  <title>Venmo Gets Rid of Its Public Feed</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5847%2Fvenmo_app.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Venmo is getting rid of its public feed as part of a larger app redesign that’ll roll out over the next few weeks. The FTC cited that feature, among others, in a complaint against Venmo that was settled back in 2018.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/20/venmo-gets-rid-public-feed?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>fintech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/venmo-gets-rid-public-feed?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 21 Jul 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 21</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5845%2Fmaglev_train.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Victoria’s Secret CEO Martin Waters discussed the company’s shortcomings as it plans to split from parent L Brands on August 3.  Quote: “We got it wrong.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/20/key-performance-indicators-july-21?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/key-performance-indicators-july-21?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 21 Jul 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Backlash in Israel Following Ben &amp; Jerry's Decision to Ban Sales in Occupied Territories </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5848%2Fisrael-palestinian-confli.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; What happened: Ben &amp; Jerry’s said on Monday it wouldn’t renew its contract with its licensee in Israel that distributes ice cream in Israeli-occupied territories because it was “inconsistent with our values.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/20/backlash-israel-following-ben-jerrys-decision-ban-sales-occupied-territories?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>consumer goods</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/backlash-israel-following-ben-jerrys-decision-ban-sales-occupied-territories?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 21 Jul 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Netflix Moves Into Video Games As Subscription Growth Slows</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2973%2Fnetflix.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Heated competition from Disney+ and a lack of popular new shows is causing Netflix to sweat. “We view gaming as a new content category for us,” the company said. Netflix confirmed rumors it’s jumping into the gaming industry.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/20/netflix-moves-video-games-subscription-growth-slows?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>streaming</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/netflix-moves-video-games-subscription-growth-slows?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 21 Jul 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>So the Billionaires Went to Space. Now What?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5846%2Fjeff_bezos_blue_origin_n.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In its big report on the space industry, Morgan Stanley identified the 10 drivers of a space economy that could grow to $1 trillion by 2040. Reality check: While space tourism news has gotten the recent buzz, it’s just a small slice of the overall space market, which is currently dominated by SpaceX. After he landed yesterday, Bezos said sales for private seats on Blue Origin flights (two more of which are planned for this year) are already approaching $100 million. Now that Bezos and Richard Branson have both completed their flights, what’s next for the space tourism industry?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/20/billionaires-went-space-now?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/billionaires-went-space-now?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 21 Jul 2021 03:01:59 -0700</pubDate>
  </item>
 
 </channel>
