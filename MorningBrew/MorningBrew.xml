@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/26</link>
- <lastBuildDate>Mon, 26 Jul 2021 15:14:06 -0700</lastBuildDate>
- <pubDate>Mon, 26 Jul 2021 15:14:06 -0700</pubDate>
+ <lastBuildDate>Mon, 26 Jul 2021 15:18:57 -0700</lastBuildDate>
+ <pubDate>Mon, 26 Jul 2021 15:18:57 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Tesla Scored Record Profits, Revenue, and Deliveries in Q2</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4875%2Ftesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;. Sales of electric vehicles in the US more than doubled in the first half of 2021 compared to last year. The company reported a $23 million “impairment” related to its bitcoin holdings.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/tesla-scored-record-profits-revenue-deliveries-q2</link>
+  <author>Sherry Qin</author>
+  <categories>ev</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/tesla-scored-record-profits-revenue-deliveries-q2</guid>
+  <pubDate>Mon, 26 Jul 2021 15:17:06 -0700</pubDate>
+ </item>
  <item>
   <title>China Cracks Down on After-school Tutoring Sector</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5924%2Fdoing_homework.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The government’s announcement gave the burning-hot industry an ice bath:New Oriental, one of China’s biggest private education companies, has plunged nearly 70% since last Thursday. For all you students who’ve complained about after-school tutoring, the Chinese government agrees with you.</description>
@@ -361,15 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/france-starts-mandating-vaccination-entry-cultural-venues?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 22 Jul 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Zed Run Developer Raises $20 Million</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5863%2Fvhs_zed_run_series_a.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Meanwhile, users can win ethereum by getting on the digital race podium or by selling their horses to others at a profit. $30+ million worth of Zed horses have been sold so far. On Zed Run’s platform, 14,000+ “stable owners” (also affectionately called #ZEDheads) buy, sell, breed, and race virtual horses.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/21/zed-run-developer-raises-20-million</link>
-  <author>Jamie Wilde</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/zed-run-developer-raises-20-million</guid>
-  <pubDate>Wed, 21 Jul 2021 15:02:01 -0700</pubDate>
  </item>
 
 </channel>
