@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/26</link>
- <lastBuildDate>Mon, 26 Jul 2021 03:04:03 -0700</lastBuildDate>
- <pubDate>Mon, 26 Jul 2021 03:04:03 -0700</pubDate>
+ <lastBuildDate>Mon, 26 Jul 2021 13:04:04 -0700</lastBuildDate>
+ <pubDate>Mon, 26 Jul 2021 13:04:04 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Checking in on the 'Jeopardy' Hosting Tryouts</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5912%2Fjeopardy_guest_host_levar_burton.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: Jeopardy!   When Burton made it known he really wanted the gig, fans started a petition that garnered over 250,000 signatures, which caught the eye of the show’s producers. The beloved actor LeVar Burton, known for his roles on Star Trek: The Next Generation, Roots, and Reading Rainbow, began his weeklong stint as guest host Jeopardy!</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/checking-jeopardy-hosting-tryouts-d5da</link>
+  <author>Neal Freyman</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/checking-jeopardy-hosting-tryouts-d5da</guid>
+  <pubDate>Mon, 26 Jul 2021 13:02:03 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: July 26</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4875%2Ftesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Economic data: GDP for the second quarter will drop on Thursday. Harry Potter turns 41 on Saturday.  Wanna feel old? So is Lollapalooza. It’s expected to show the US at peak growth—9.7%. Tune in Wednesday.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/key-performance-indicators-july-22</guid>
   <pubDate>Wed, 21 Jul 2021 14:41:59 -0700</pubDate>
- </item>
- <item>
-  <title>France Starts Mandating Vaccination for Entry to Cultural Venues</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5861%2Fno_vaccine_no_entry.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The US federal government hasn’t introduced any vaccine requirements for businesses, and it likely won’t take any steps until the FDA grants full approval to at least one of the shots. The vaccine strategy has resulted in two things:It has angered a lot of people: More than 100,000 protestors hit the streets last weekend, saying the vaccine rules infringed on their rights.   Bottom line: From $1 million lotteries to calling in Olivia Rodrigo for a PSA, US officials have offered loads of carrots to push the vaccine-hesitant to get their shots.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/21/france-starts-mandating-vaccination-entry-cultural-venues</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/france-starts-mandating-vaccination-entry-cultural-venues</guid>
-  <pubDate>Wed, 21 Jul 2021 14:37:05 -0700</pubDate>
  </item>
 
 </channel>
