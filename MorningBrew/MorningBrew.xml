@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/23/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/25/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/23</link>
- <lastBuildDate>Fri, 23 Jul 2021 15:03:59 -0700</lastBuildDate>
- <pubDate>Fri, 23 Jul 2021 15:03:59 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/25</link>
+ <lastBuildDate>Sun, 25 Jul 2021 18:59:02 -0700</lastBuildDate>
+ <pubDate>Sun, 25 Jul 2021 18:59:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Robinhood's Roadshow Previews an IPO Unlike Any Other</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2127%2Frobinhood_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Robinhood execs gave a livestreamed presentation to the public Saturday, ahead of the company’s much-anticipated IPO later this week. Robinhood will price its IPO on Wednesday night and start trading on Thursday.  But Robinhood isn’t just trying to court professional investors, it’s trying to court you, the regular investor who talks about stocks on your group chat. Here’s why:When professional investors buy shares in an IPO, they tend to hold them for a long time.  </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/robinhoods-roadshow-previews-ipo-unlike</link>
+  <author>Neal Freyman</author>
+  <categories>ipo</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/robinhoods-roadshow-previews-ipo-unlike</guid>
+  <pubDate>Sun, 25 Jul 2021 18:57:00 -0700</pubDate>
+ </item>
  <item>
   <title>The Tokyo Olympics Holds Its Surreal Opening Ceremony</title>
   <description>&lt;img src='https://media.giphy.com/media/Q53yLdCf8bmxymyKdy/giphy.gif'&gt;&lt;br/&gt;Now comes the fun part: Here’s the master TV schedule for the athletic competitions.  Keith Urban, John Legend, and other singers from across the globe sang “Imagine” together, because we learned nothing from Gal Gadot’s version.</description>
@@ -361,15 +370,6 @@
   <categories>space</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/20/billionaires-went-space-now</guid>
   <pubDate>Tue, 20 Jul 2021 14:37:01 -0700</pubDate>
- </item>
- <item>
-  <title>Volkswagen Is Phasing Out Sales of Passat in the US</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5843%2Fvw_passat.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Volkswagen said it will stop selling its Passat model in the US next year as automakers pivot to SUV production. Automakers have sent several US sedan models to the junkyard in recent years, including the Chevy Impala, Ford Focus, Dodge Dart, and Chrysler 200.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/19/volkswagen-phasing-sales-passat-us?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/19/volkswagen-phasing-sales-passat-us?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 20 Jul 2021 03:02:02 -0700</pubDate>
  </item>
 
 </channel>
