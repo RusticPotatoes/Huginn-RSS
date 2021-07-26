@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/26</link>
- <lastBuildDate>Mon, 26 Jul 2021 13:04:04 -0700</lastBuildDate>
- <pubDate>Mon, 26 Jul 2021 13:04:04 -0700</pubDate>
+ <lastBuildDate>Mon, 26 Jul 2021 14:49:03 -0700</lastBuildDate>
+ <pubDate>Mon, 26 Jul 2021 14:49:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 27</title>
+  <description>&lt;img src='https://media.giphy.com/media/J1okKlaP8hoX6j1wtG/giphy.gif'&gt;&lt;br/&gt;But here’s the funny part—Man Group trades crypto for its clients, because, hey, you can make money. (The Secret Life of Machines) Watch: Fax machines are more clever than you might think.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/key-performance-indicators-july-27</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/key-performance-indicators-july-27</guid>
+  <pubDate>Mon, 26 Jul 2021 14:47:02 -0700</pubDate>
+ </item>
  <item>
   <title>Checking in on the 'Jeopardy' Hosting Tryouts</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5912%2Fjeopardy_guest_host_levar_burton.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: Jeopardy!   When Burton made it known he really wanted the gig, fans started a petition that garnered over 250,000 signatures, which caught the eye of the show’s producers. The beloved actor LeVar Burton, known for his roles on Star Trek: The Next Generation, Roots, and Reading Rainbow, began his weeklong stint as guest host Jeopardy!</description>
@@ -361,15 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/olympics-opening-ceremony-friday-brew-readers-feeling</guid>
   <pubDate>Wed, 21 Jul 2021 14:57:07 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 22</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3546%2Fvaccine_florida.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;. Stat: US life expectancy fell by 1.5 years in 2020, the steepest drop since World War II, thanks in large part to the coronavirus. (New Yorker)  Read: Does CrossFit have a future?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/21/key-performance-indicators-july-22</link>
-  <author>Jamie Wilde</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/key-performance-indicators-july-22</guid>
-  <pubDate>Wed, 21 Jul 2021 14:41:59 -0700</pubDate>
  </item>
 
 </channel>
