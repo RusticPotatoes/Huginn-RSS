@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/27</link>
- <lastBuildDate>Tue, 27 Jul 2021 14:58:59 -0700</lastBuildDate>
- <pubDate>Tue, 27 Jul 2021 14:58:59 -0700</pubDate>
+ <lastBuildDate>Tue, 27 Jul 2021 15:04:04 -0700</lastBuildDate>
+ <pubDate>Tue, 27 Jul 2021 15:04:04 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Simone Biles Withdraws From Team Finals to Take Care of Her Mental Health</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5930%2Fgymnastics_-_artistic_-_o.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Simone Biles, US Olympic gymnastics team member and the greatest gymnast of all time, pulled out of the team finals in Tokyo yesterday to focus on her mental health. It’s also the first time Team USA is traveling with a group of mental health experts in addition to dedicated psychologists for each sport.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/27/simone-biles-withdraws-team-finals-take-care-mental-health</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/27/simone-biles-withdraws-team-finals-take-care-mental-health</guid>
+  <pubDate>Tue, 27 Jul 2021 15:02:03 -0700</pubDate>
+ </item>
  <item>
   <title>CDC Advises Vaccinated People to Resume Wearing Masks Indoors</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5928%2Fface_masks_required.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  The details: The CDC advised everyone at K-12 schools and those living in Covid hotspots to wear masks in indoor settings. There’s no clear answer as, "The Delta variant is showing everyday its willingness to outsmart us and be an opportunist,” CDC Director Dr. Rochelle Walensky said. Consult this map from the CDC.</description>
@@ -361,15 +370,6 @@
   <categories>gaming</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/22/california-sues-gaming-company-activision-blizzard?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 23 Jul 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>The Business Olympiad</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5867%2Fbusiness_olympiad.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Work Softwarathon  Toby Howell This is by far the most organized event in the Olympiad which makes it one of the more intriguing. 10 Events, 90 participants, and everything to play for, the Business Olympiad will see the best in the biz world come together to compete for a place on the podium. and the questions the first inaugural Business Olympiad will endeavor to answer. Business Flameouts  Toby Howell This event bravely asks the question: who is the best at being the worst?   Fictional Business Freestyle Toby Howell Movies give us laughs, cries, and huge fictional megacorporations. Synchronized Businessing  Toby Howell It's hard to go at it alone in the business world.  Over the next two weeks, Morning Brew readers will have the opportunity to participate in a business competition unlike any other. They might make your skin crawl, but only one email cliche can take home the gold. Then, a second round of polls will be held to determine who stands atop the podium. Lots of mico-matchups to watch in this one from the battle of the inboxes with Outlook and Gmail, to the business communication faceoff between Slack and Teams.  Font Medley Relay Toby Howell Even if you think you don’t have an opinion on the best fonts, you do.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/22/business-olympiad</link>
-  <author>Toby Howell</author>
-  <categories>olympics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/22/business-olympiad</guid>
-  <pubDate>Thu, 22 Jul 2021 15:02:02 -0700</pubDate>
  </item>
 
 </channel>
