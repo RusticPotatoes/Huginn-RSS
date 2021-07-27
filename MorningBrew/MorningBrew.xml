@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/27</link>
- <lastBuildDate>Tue, 27 Jul 2021 14:53:58 -0700</lastBuildDate>
- <pubDate>Tue, 27 Jul 2021 14:53:58 -0700</pubDate>
+ <lastBuildDate>Tue, 27 Jul 2021 14:58:59 -0700</lastBuildDate>
+ <pubDate>Tue, 27 Jul 2021 14:58:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>CDC Advises Vaccinated People to Resume Wearing Masks Indoors</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5928%2Fface_masks_required.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  The details: The CDC advised everyone at K-12 schools and those living in Covid hotspots to wear masks in indoor settings. There’s no clear answer as, "The Delta variant is showing everyday its willingness to outsmart us and be an opportunist,” CDC Director Dr. Rochelle Walensky said. Consult this map from the CDC.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/27/cdc-advises-vaccinated-people-resume-wearing-masks-indoors</link>
+  <author>Sherry Qin</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/27/cdc-advises-vaccinated-people-resume-wearing-masks-indoors</guid>
+  <pubDate>Tue, 27 Jul 2021 14:56:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Influencer Marketing Spending to Pass $3 Billion This Year</title>
+  <description>&lt;img src='https://media.giphy.com/media/kzrGfmOs3os4FcuJFo/giphy.gif'&gt;&lt;br/&gt; And if there’s any time to be hawking trendy electronics from your social account, it’s right now, because influencer marketing spending is expected to grow 30% this year to top $3 billion, per eMarketer.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/27/influencer-marketing-spending-pass-3-billion-year</link>
+  <author>Matty Merritt</author>
+  <categories>creator economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/27/influencer-marketing-spending-pass-3-billion-year</guid>
+  <pubDate>Tue, 27 Jul 2021 14:56:59 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 28</title>
   <description>&lt;img src='https://media.giphy.com/media/j39AzlvlJqE7e/source.gif'&gt;&lt;br/&gt;(NPR) Read: Who will pay to protect tech giants from rising seas? Employees are staging a walkout today to demand changes in the ways women and other marginalized groups are treated at the company.</description>
@@ -352,24 +370,6 @@
   <categories>olympics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/22/business-olympiad</guid>
   <pubDate>Thu, 22 Jul 2021 15:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>US Housing Market Frenzy May Have Peaked</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4744%2Flumber_prices.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Before you offer $100k over asking price on a new home, you should hear this: The boiling US housing market took a refreshing dip in the pool in June. More owners listed their homes last month after they saw home seekers offering things like crypto in order to secure the deed.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/22/us-housing-market-frenzy-may-peaked</link>
-  <author>Sherry Qin</author>
-  <categories>home</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/22/us-housing-market-frenzy-may-peaked</guid>
-  <pubDate>Thu, 22 Jul 2021 15:02:01 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 23</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5881%2Fthe_olympic_games-tokyo_2.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Quote: “I think we will effectively transition from people seeing us as primarily being a social media company to being a metaverse company.” (Object of Sound)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/22/key-performance-indicators-july-23</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/22/key-performance-indicators-july-23</guid>
-  <pubDate>Thu, 22 Jul 2021 14:57:05 -0700</pubDate>
  </item>
 
 </channel>
