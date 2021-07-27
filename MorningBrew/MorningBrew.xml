@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/26/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/26/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/27/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/27/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/26</link>
- <lastBuildDate>Mon, 26 Jul 2021 15:18:57 -0700</lastBuildDate>
- <pubDate>Mon, 26 Jul 2021 15:18:57 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/27</link>
+ <lastBuildDate>Tue, 27 Jul 2021 03:04:02 -0700</lastBuildDate>
+ <pubDate>Tue, 27 Jul 2021 03:04:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Checking in on the 'Jeopardy' Hosting Tryouts</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5912%2Fjeopardy_guest_host_levar_burton.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; If you answered LeVar Burton you'd be wrong.  Zoom out: Jeopardy!   When Burton made it known he really wanted the gig, fans started a petition that garnered over 250,000 signatures, which caught the eye of the show’s producers. Finding the right host is one of the most crucial decisions facing television execs today. But viewership is down 10% in the post-Trebek world.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/checking-jeopardy-hosting-tryouts-d5da?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/checking-jeopardy-hosting-tryouts-d5da?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 27 Jul 2021 03:02:01 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: July 27</title>
+  <description>&lt;img src='https://media.giphy.com/media/J1okKlaP8hoX6j1wtG/giphy.gif'&gt;&lt;br/&gt;But here’s the funny part—Man Group trades crypto for its clients, because, hey, you can make money. (The Secret Life of Machines) Watch: Fax machines are more clever than you might think.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/key-performance-indicators-july-27?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/key-performance-indicators-july-27?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 27 Jul 2021 03:02:01 -0700</pubDate>
+ </item>
+ <item>
+  <title>China Cracks Down on After-school Tutoring Sector</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5924%2Fdoing_homework.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The government’s announcement gave the burning-hot industry an ice bath:New Oriental, one of China’s biggest private education companies, has plunged nearly 70% since last Thursday. Why it matters: China’s education technology sector has ballooned to $100 billion, with about 70% of K-12 students enrolled in after-school tutoring programs in major cities.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/china-cracks-afterschool-tutoring-sector?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/china-cracks-afterschool-tutoring-sector?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 27 Jul 2021 03:02:01 -0700</pubDate>
+ </item>
+ <item>
+  <title>Tesla Scored Record Profits, Revenue, and Deliveries in Q2</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4875%2Ftesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The company reported a $23 million “impairment” related to its bitcoin holdings. Sales of electric vehicles in the US more than doubled in the first half of 2021 compared to last year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/tesla-scored-record-profits-revenue-deliveries-q2?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/tesla-scored-record-profits-revenue-deliveries-q2?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 27 Jul 2021 03:02:01 -0700</pubDate>
+ </item>
+ <item>
+  <title>Covid Vaccine Mandates Gaining Traction</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5923%2Fpunch_card.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Department of Veterans Affairs became the first federal agency to require Covid-19 vaccines for its 115,000 healthcare employees yesterday. American Mandate AssociationEven before those announcements, 57 influential medical groups published a letter urging employers to require Covid vaccines for all healthcare personnel. The White House has no plans to introduce vaccine mandates or passports, so it’s been up to cities, states, and private companies to set vaccine requirements. Covid cases in the city have grown to 800+ per day.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/26/covid-vaccine-mandates-gaining-traction?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/covid-vaccine-mandates-gaining-traction?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 27 Jul 2021 03:02:00 -0700</pubDate>
+ </item>
  <item>
   <title>Tesla Scored Record Profits, Revenue, and Deliveries in Q2</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4875%2Ftesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;. Sales of electric vehicles in the US more than doubled in the first half of 2021 compared to last year. The company reported a $23 million “impairment” related to its bitcoin holdings.</description>
@@ -325,51 +370,6 @@
   <categories>civil rights</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/22/california-sues-gaming-company-activision-blizzard</guid>
   <pubDate>Thu, 22 Jul 2021 14:52:01 -0700</pubDate>
- </item>
- <item>
-  <title>Zed Run Developer Raises $20 Million</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5863%2Fvhs_zed_run_series_a.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Meanwhile, users can win ethereum by getting on the digital race podium or by selling their horses to others at a profit. $30+ million worth of Zed horses have been sold so far. On Zed Run’s platform, 14,000+ “stable owners” (also affectionately called #ZEDheads) buy, sell, breed, and race virtual horses.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/21/zed-run-developer-raises-20-million?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/zed-run-developer-raises-20-million?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 22 Jul 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 22</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3546%2Fvaccine_florida.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Stat: US life expectancy fell by 1.5 years in 2020, the steepest drop since World War II, thanks in large part to the coronavirus. Quote: “My hope is that it creates world peace or helps create world peace.” (New Yorker) </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/21/key-performance-indicators-july-22?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/key-performance-indicators-july-22?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 22 Jul 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Olympics Opening Ceremony on Friday and How Brew Readers Are Feeling About It</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4052%2Folympic_rings.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; In a poll of 6,000 Morning Brew readers, 42% said they’re less likely to watch the Tokyo Olympics than previous years’ Olympics. And 51% said they’re worried that the Olympics will be a superspreader event.  Covid: Should the Olympics have been canceled this year due to Covid-19 concerns? Viewership: How much of the Olympics do readers plan to watch?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/21/olympics-opening-ceremony-friday-brew-readers-feeling?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/olympics-opening-ceremony-friday-brew-readers-feeling?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 22 Jul 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>First Look At New $26 Billion Opioid Settlement</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5862%2Fpharma.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Johnson &amp; Johnson, a drug manufacturer accused of downplaying the addictiveness of opioids in its marketing, would shell out $5 billion over nine years. Drug overdose deaths rose nearly 30% in the US last year, to a record of 93,331.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/21/first-look-new-26-billion-opioid-settlement?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>pharma</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/first-look-new-26-billion-opioid-settlement?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 22 Jul 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>France Starts Mandating Vaccination for Entry to Cultural Venues</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5861%2Fno_vaccine_no_entry.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The US federal government hasn’t introduced any vaccine requirements for businesses, and it likely won’t take any steps until the FDA grants full approval to at least one of the shots. The vaccine strategy has resulted in two things:It has angered a lot of people: More than 100,000 protestors hit the streets last weekend, saying the vaccine rules infringed on their rights.   Bottom line: From $1 million lotteries to calling in Olivia Rodrigo for a PSA, US officials have offered loads of carrots to push the vaccine-hesitant to get their shots.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/21/france-starts-mandating-vaccination-entry-cultural-venues?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/21/france-starts-mandating-vaccination-entry-cultural-venues?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 22 Jul 2021 03:02:03 -0700</pubDate>
  </item>
 
 </channel>
