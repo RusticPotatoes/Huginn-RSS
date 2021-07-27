@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/27</link>
- <lastBuildDate>Tue, 27 Jul 2021 03:04:02 -0700</lastBuildDate>
- <pubDate>Tue, 27 Jul 2021 03:04:02 -0700</pubDate>
+ <lastBuildDate>Tue, 27 Jul 2021 14:44:03 -0700</lastBuildDate>
+ <pubDate>Tue, 27 Jul 2021 14:44:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Extra Unemployment Benefits Kept Some Workers on the Sidelines but Did Not Reduce Overall Employment, Report Says</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F867%2Fusa.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Economists are scrambling to figure it out, and yesterday we got a preliminary answer that’s just as nuanced as the question: Extra unemployment insurance (UI) didn’t impact overall job growth, but it did cause a reshuffling of the type of people who were working. The takeawaysIn states that ended extra UI early, hiring for adult workers 25 or older increased the week governors said they were cutting benefits, but returned to typical levels once the benefits actually expired. At the same time, the hiring of teenagers 15–19 jumped in states that didn’t cut the extra benefits.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/27/extra-unemployment-benefits-kept-workers-sidelines-not-reduce-overall-employment-report-says</link>
+  <author>Neal Freyman</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/27/extra-unemployment-benefits-kept-workers-sidelines-not-reduce-overall-employment-report-says</guid>
+  <pubDate>Tue, 27 Jul 2021 14:42:00 -0700</pubDate>
+ </item>
  <item>
   <title>Checking in on the 'Jeopardy' Hosting Tryouts</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5912%2Fjeopardy_guest_host_levar_burton.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; If you answered LeVar Burton you'd be wrong.  Zoom out: Jeopardy!   When Burton made it known he really wanted the gig, fans started a petition that garnered over 250,000 signatures, which caught the eye of the show’s producers. Finding the right host is one of the most crucial decisions facing television execs today. But viewership is down 10% in the post-Trebek world.</description>
@@ -361,15 +370,6 @@
   <categories>energy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/22/startup-announces-breakthrough-technology-energy-storage</guid>
   <pubDate>Thu, 22 Jul 2021 14:57:05 -0700</pubDate>
- </item>
- <item>
-  <title>California Sues Gaming Company Activision Blizzard</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5879%2Factivision.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;California legislators sued video game developer Activision Blizzard yesterday, citing its “pervasive ‘frat boy’ culture” and mistreatment of women employees. Bottom line: The lawsuit against Activision Blizzard shows that the #MeToo movement is still reaching its crescendo in the video game industry. The suit details that one woman employee died by suicide on a corporate trip after nude photos were leaked and shared among male colleagues who had previously harassed her. The detailsWomen employees were underpaid, promoted “more slowly,” and terminated “more quickly” than their male coworkers, the suit alleges.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/22/california-sues-gaming-company-activision-blizzard</link>
-  <author>Jamie Wilde</author>
-  <categories>civil rights</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/22/california-sues-gaming-company-activision-blizzard</guid>
-  <pubDate>Thu, 22 Jul 2021 14:52:01 -0700</pubDate>
  </item>
 
 </channel>
