@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/28</link>
- <lastBuildDate>Wed, 28 Jul 2021 15:03:59 -0700</lastBuildDate>
- <pubDate>Wed, 28 Jul 2021 15:03:59 -0700</pubDate>
+ <lastBuildDate>Wed, 28 Jul 2021 15:09:05 -0700</lastBuildDate>
+ <pubDate>Wed, 28 Jul 2021 15:09:05 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Pfizer Expects Covid Vaccine to Bring in $33.5 Billion This Year</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5951%2Fpfizer.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The drugmaker projected that Covid-19 vaccine sales would hit $33.5 billion in revenue this year, a 29% bump from previous estimates. The US recently paid $24/dose for an order of 200 million doses, up from the $19.50/dose it paid Pfizer for previous orders. Moderna will report its earnings Aug. 5.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/28/pfizer-expects-covid-vaccine-bring-335-billion-year</link>
+  <author>Matty Merritt</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/pfizer-expects-covid-vaccine-bring-335-billion-year</guid>
+  <pubDate>Wed, 28 Jul 2021 15:07:04 -0700</pubDate>
+ </item>
  <item>
   <title>The Delta Variant Puts The Breaks on Return to Office</title>
   <description>&lt;img src='https://media.giphy.com/media/H6W9H29kVsUI2hJE90/giphy.gif'&gt;&lt;br/&gt;In its postponement announcement, Google said that anyone coming into the office would need to be vaccinated. Google employees hung up their business hoodies and put on their home hoodies after CEO Sundar Pichai postponed the company’s return to the office by a month-and-a-half, to mid-October. Morgan Stanley, Goldman Sachs, Wells Fargo, and United Airlines have all made similar moves. The Ultas, Sweetgreens, and transit systems of the world are counting on you to spend money during the workday like you did in 2019.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/22/key-performance-indicators-july-23?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 23 Jul 2021 03:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Startup Announces Breakthrough Technology for Energy Storage</title>
-  <description>&lt;img src='https://media.giphy.com/media/bL7MlTR55rT87QYqj9/giphy.gif'&gt;&lt;br/&gt;Form’s batteries may be key to achieving President Biden’s goal of a carbon-free power grid in the US by 2035. Form Energy, a startup backed by Bill Gates and Jeff Bezos, might have cracked the code: batteries made from iron that can hold electricity for days or even weeks.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/22/startup-announces-breakthrough-technology-energy-storage?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/22/startup-announces-breakthrough-technology-energy-storage?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 23 Jul 2021 03:01:59 -0700</pubDate>
  </item>
 
