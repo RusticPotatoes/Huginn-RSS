@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/28</link>
- <lastBuildDate>Wed, 28 Jul 2021 15:14:07 -0700</lastBuildDate>
- <pubDate>Wed, 28 Jul 2021 15:14:07 -0700</pubDate>
+ <lastBuildDate>Wed, 28 Jul 2021 15:24:05 -0700</lastBuildDate>
+ <pubDate>Wed, 28 Jul 2021 15:24:05 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 29</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5935%2Fus_electricity_generation_chart.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Atlantic)  Read: Why is so much American bureaucracy left to average citizens? and why they [bleeping] hated it. One Reddit user wrote about going back to the office for the first time since the pandemic started...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/28/key-performance-indicators-july-29</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/key-performance-indicators-july-29</guid>
+  <pubDate>Wed, 28 Jul 2021 15:22:04 -0700</pubDate>
+ </item>
  <item>
   <title>The Bull and Bear Case for Robinhood’s IPO</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5949%2Frobinhood_ipo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Trading app Robinhood is set to IPO this morning under the ticker symbol HOOD in the most meta public offering ever. As for regulatory scrutiny, Robinhood says it has room to grow into far less sketchy spaces, like retirement accounts. The fast-growing company paved the way for Average Joe traders to feel like Ferragamo-wearing Wall Streeters.</description>
@@ -361,15 +370,6 @@
   <categories>social media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/23/snap-soars-social-media-evolves-new-era-creators-commerce</guid>
   <pubDate>Fri, 23 Jul 2021 13:52:01 -0700</pubDate>
- </item>
- <item>
-  <title>The Olympics May Have Been Rescheduled, But The 2020 Logo Doesn’t Know That</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5899%2Fpeople_wearing_masks.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Despite the fact that it is very much the year 2021, all Olympic marketing materials, from the TV ads to the gold medals, are stamped with the “Tokyo 2020” logo. One can only imagine the underground market that would have erupted for “Tokyo 2020” merch. Like your old high school friend who constantly brings up his state football championship, the Tokyo Olympics are living in the past. A decision to keep the original branding was made last March, when Japan and the International Olympic Committee agreed to postpone the Summer games for the first time in history.  The real reason Tokyo 2020 didn’t become Tokyo 2021 is because a change would have been supremely expensive.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/23/olympics-may-rescheduled-2020-logo-doesnt-know</link>
-  <author>Matty Merritt</author>
-  <categories>analysis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/23/olympics-may-rescheduled-2020-logo-doesnt-know</guid>
-  <pubDate>Fri, 23 Jul 2021 13:47:02 -0700</pubDate>
  </item>
 
 </channel>
