@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/28</link>
- <lastBuildDate>Wed, 28 Jul 2021 15:09:05 -0700</lastBuildDate>
- <pubDate>Wed, 28 Jul 2021 15:09:05 -0700</pubDate>
+ <lastBuildDate>Wed, 28 Jul 2021 15:14:07 -0700</lastBuildDate>
+ <pubDate>Wed, 28 Jul 2021 15:14:07 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Bull and Bear Case for Robinhood’s IPO</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5949%2Frobinhood_ipo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Trading app Robinhood is set to IPO this morning under the ticker symbol HOOD in the most meta public offering ever. As for regulatory scrutiny, Robinhood says it has room to grow into far less sketchy spaces, like retirement accounts. The fast-growing company paved the way for Average Joe traders to feel like Ferragamo-wearing Wall Streeters.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/28/bull-bear-case-robinhoods-ipo</link>
+  <author>Jamie Wilde</author>
+  <categories>ipo</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/bull-bear-case-robinhoods-ipo</guid>
+  <pubDate>Wed, 28 Jul 2021 15:12:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Most 2021 Headline Is About BTS and Chicken Sandwiches</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5953%2Fcnbc_headline.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Drive-thru times increased by three seconds due to the labor shortage, but CEO Chris Kempczinski said more job applications were flowing in and that dining rooms should be 100% open by Labor Day.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/28/2021-headline-bts-chicken-sandwiches</link>
+  <author>Jamie Wilde</author>
+  <categories>csr</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/2021-headline-bts-chicken-sandwiches</guid>
+  <pubDate>Wed, 28 Jul 2021 15:12:06 -0700</pubDate>
+ </item>
  <item>
   <title>Pfizer Expects Covid Vaccine to Bring in $33.5 Billion This Year</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5951%2Fpfizer.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The drugmaker projected that Covid-19 vaccine sales would hit $33.5 billion in revenue this year, a 29% bump from previous estimates. The US recently paid $24/dose for an order of 200 million doses, up from the $19.50/dose it paid Pfizer for previous orders. Moderna will report its earnings Aug. 5.</description>
@@ -352,24 +370,6 @@
   <categories>analysis</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/23/olympics-may-rescheduled-2020-logo-doesnt-know</guid>
   <pubDate>Fri, 23 Jul 2021 13:47:02 -0700</pubDate>
- </item>
- <item>
-  <title>Boston Beer, Maker of Truly Hard Seltzer, Says Hard Seltzer Party Is Over</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5898%2Ftruly_seltzer.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Shares in Boston Beer, the company that makes Truly hard seltzer, collapsed 27% yesterday after it warned the seltzer party was over.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/23/boston-beer-maker-truly-hard-seltzer-says-hard-seltzer-party</link>
-  <author>Matty Merritt</author>
-  <categories>beverage</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/23/boston-beer-maker-truly-hard-seltzer-says-hard-seltzer-party</guid>
-  <pubDate>Fri, 23 Jul 2021 13:47:01 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 23</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5881%2Fthe_olympic_games-tokyo_2.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Quote: “I think we will effectively transition from people seeing us as primarily being a social media company to being a metaverse company.” (Object of Sound)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/22/key-performance-indicators-july-23?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/22/key-performance-indicators-july-23?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 23 Jul 2021 03:01:59 -0700</pubDate>
  </item>
 
 </channel>
