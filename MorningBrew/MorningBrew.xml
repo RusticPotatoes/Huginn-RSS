@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/29</link>
- <lastBuildDate>Thu, 29 Jul 2021 03:04:06 -0700</lastBuildDate>
- <pubDate>Thu, 29 Jul 2021 03:04:06 -0700</pubDate>
+ <lastBuildDate>Thu, 29 Jul 2021 14:44:06 -0700</lastBuildDate>
+ <pubDate>Thu, 29 Jul 2021 14:44:06 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Scarlett Johansson Sues Disney for ‘Black Widow’ Streaming Release</title>
+  <description>&lt;img src='https://media.giphy.com/media/KCKYpQ3yOtgJy/giphy.gif'&gt;&lt;br/&gt;In an unprecedented move, Disney also announced that Black Widow made $60 million from Disney+. The backstory: Earlier this month, Disney released the movie in theaters and on its streaming service Disney+ for an additional $30. Black Widow earned $80 million at its opening weekend at the box office, a record for pandemic times, but not great for a Marvel movie.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/29/scarlett-johansson-sues-disney-black-widow-streaming-release</link>
+  <author>Matty Merritt</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/29/scarlett-johansson-sues-disney-black-widow-streaming-release</guid>
+  <pubDate>Thu, 29 Jul 2021 14:42:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>After A Drop in Demand, Mask Sales Rebound</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5963%2Fworld_mask.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Analysts expect mask sales to jump even more after the CDC issued new guidance that encourages vaccinated people to wear masks indoors in Covid hotspots.   After a drop in demand, masks are making a comeback: Masks, which had accounted for 14% of gross merchandise sales on Etsy in Q2 2020, fell to a 3% share in Q1 this year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/29/drop-demand-mask-sales-rebound</link>
+  <author>Sherry Qin</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/29/drop-demand-mask-sales-rebound</guid>
+  <pubDate>Thu, 29 Jul 2021 14:42:04 -0700</pubDate>
+ </item>
  <item>
   <title>The Most 2021 Headline Is About BTS and Chicken Sandwiches</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5953%2Fcnbc_headline.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Drive-thru times increased by three seconds due to the labor shortage, but CEO Chris Kempczinski said more job applications were flowing in and that dining rooms should be 100% open by Labor Day.</description>
@@ -352,24 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/23/tokyo-olympics-holds-surreal-opening-ceremony</guid>
   <pubDate>Fri, 23 Jul 2021 15:01:58 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: Getting the Right Mix</title>
-  <description>&lt;img src='https://media.giphy.com/media/ixZmwZC0R1Zi87EOqG/giphy.gif'&gt;&lt;br/&gt;How much money should I be investing and saving in cash every month? Keep enough cash to cover three to six months of expenses in a savings account that you can tap in the face of financial hardship. But cash comes first. Perhaps only Elon Musk appears in this newsletter as much as inflation, which is just one reason not to hoard more cash than is necessary.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/23/money-matters-getting-right-mix</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/23/money-matters-getting-right-mix</guid>
-  <pubDate>Fri, 23 Jul 2021 14:17:04 -0700</pubDate>
- </item>
- <item>
-  <title>Make It Work: Why Are You Really Looking For a New Job?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;—Casey from WisconsinHey Casey, if I was asked why I'm looking for a new job and the answer is because I wanted to leave a toxic work environment, I would flip the question and tell the interviewer, "I am looking to be part of a positive and exciting work culture, and I believe that this may be the right place." Ask Kate here. Kate   Something bothering you at work?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/23/make-work-really-looking-new-job</link>
-  <author>Neal Freyman</author>
-  <categories>work life</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/23/make-work-really-looking-new-job</guid>
-  <pubDate>Fri, 23 Jul 2021 14:12:02 -0700</pubDate>
  </item>
 
 </channel>
