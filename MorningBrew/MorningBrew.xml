@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/30</link>
- <lastBuildDate>Fri, 30 Jul 2021 15:24:01 -0700</lastBuildDate>
- <pubDate>Fri, 30 Jul 2021 15:24:01 -0700</pubDate>
+ <lastBuildDate>Fri, 30 Jul 2021 15:29:03 -0700</lastBuildDate>
+ <pubDate>Fri, 30 Jul 2021 15:29:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: July 31</title>
+  <description>&lt;img src='https://media.giphy.com/media/Fc26lykaXWxR6/giphy.gif'&gt;&lt;br/&gt;For the first time, the US men’s soccer team got directly involved in the women’s wage discrimination lawsuit against the US Soccer Federation.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/30/key-performance-indicators-july-31</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/key-performance-indicators-july-31</guid>
+  <pubDate>Fri, 30 Jul 2021 15:27:02 -0700</pubDate>
+ </item>
  <item>
   <title>Money Matters: </title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1008%2Fgrowth.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But if you’re looking to tap into your savings in the next five years, you may want to look elsewhere than the stock market. Like you said, markets sometimes tank (the S&amp;P 500 has dropped more than 10% several times per decade), which is OK if you don’t need the money right away.  Here’s why investing pros like them: built-in diversification. Stock market index funds are known as the “safe” method of investing, but they can still tank with the market.</description>
@@ -361,15 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/checking-jeopardy-hosting-tryouts-d5da</guid>
   <pubDate>Mon, 26 Jul 2021 13:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: July 26</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4875%2Ftesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Economic data: GDP for the second quarter will drop on Thursday. Harry Potter turns 41 on Saturday.  Wanna feel old? So is Lollapalooza. It’s expected to show the US at peak growth—9.7%. Tune in Wednesday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/26/week-ahead-july-26?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/week-ahead-july-26?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 26 Jul 2021 03:02:02 -0700</pubDate>
  </item>
 
 </channel>
