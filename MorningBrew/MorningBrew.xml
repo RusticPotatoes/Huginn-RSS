@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/30</link>
- <lastBuildDate>Fri, 30 Jul 2021 03:03:59 -0700</lastBuildDate>
- <pubDate>Fri, 30 Jul 2021 03:03:59 -0700</pubDate>
+ <lastBuildDate>Fri, 30 Jul 2021 10:29:03 -0700</lastBuildDate>
+ <pubDate>Fri, 30 Jul 2021 10:29:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Stock Watch: Robin Hoods</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5975%2Frobinhood_stock_watch.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/30/stock-watch-robin-hoods</link>
+  <author>Neal Freyman</author>
+  <categories>culture</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/stock-watch-robin-hoods</guid>
+  <pubDate>Fri, 30 Jul 2021 10:27:01 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 30</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5964%2Fchart_showing_poverty_rates.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(BuzzFeed News) But where do they come from? Read: For decades, poppers have been the go-to sex drug for gay men. The two have relinquished operational control of the company since 2000.</description>
@@ -361,15 +370,6 @@
   <categories>ipo</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/robinhoods-roadshow-previews-ipo-unlike?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 26 Jul 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Checking on the Jeopardy! Hosting Tryouts </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5908%2F70th_national_book_awards.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  champion Ken Jennings, journalists Katie Couric and Anderson Cooper, and actor Mayim Bialik.   Zoom out: Other guest hosts have included NFL QB Aaron Rodgers, GOAT Jeopardy!</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/26/checking-jeopardy-hosting-tryouts</link>
-  <author>Neal Freyman</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/checking-jeopardy-hosting-tryouts</guid>
-  <pubDate>Sun, 25 Jul 2021 19:32:01 -0700</pubDate>
  </item>
 
 </channel>
