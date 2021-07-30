@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/30</link>
- <lastBuildDate>Fri, 30 Jul 2021 15:29:03 -0700</lastBuildDate>
- <pubDate>Fri, 30 Jul 2021 15:29:03 -0700</pubDate>
+ <lastBuildDate>Fri, 30 Jul 2021 15:39:00 -0700</lastBuildDate>
+ <pubDate>Fri, 30 Jul 2021 15:39:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Federal Eviction Moratorium Officially Ends Today</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5993%2Fmoving_boxes.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Out of the $47 billion in rental aid that was approved, only $3 billion had been used as of June. some states have already extended their own eviction moratorium past July, but 8.2 million adults remain behind on their rent or mortgage as of July 5, per the Census Bureau. Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/30/federal-eviction-moratorium-officially-ends-today</link>
+  <author>Matty Merritt</author>
+  <categories>housing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/federal-eviction-moratorium-officially-ends-today</guid>
+  <pubDate>Fri, 30 Jul 2021 15:36:59 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: July 31</title>
   <description>&lt;img src='https://media.giphy.com/media/Fc26lykaXWxR6/giphy.gif'&gt;&lt;br/&gt;For the first time, the US men’s soccer team got directly involved in the women’s wage discrimination lawsuit against the US Soccer Federation.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/key-performance-indicators-july-27</guid>
   <pubDate>Mon, 26 Jul 2021 14:47:02 -0700</pubDate>
- </item>
- <item>
-  <title>Checking in on the 'Jeopardy' Hosting Tryouts</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5912%2Fjeopardy_guest_host_levar_burton.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: Jeopardy!   When Burton made it known he really wanted the gig, fans started a petition that garnered over 250,000 signatures, which caught the eye of the show’s producers. The beloved actor LeVar Burton, known for his roles on Star Trek: The Next Generation, Roots, and Reading Rainbow, began his weeklong stint as guest host Jeopardy!</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/26/checking-jeopardy-hosting-tryouts-d5da</link>
-  <author>Neal Freyman</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/checking-jeopardy-hosting-tryouts-d5da</guid>
-  <pubDate>Mon, 26 Jul 2021 13:02:03 -0700</pubDate>
  </item>
 
 </channel>
