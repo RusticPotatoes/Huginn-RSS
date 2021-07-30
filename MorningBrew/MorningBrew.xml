@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/30</link>
- <lastBuildDate>Fri, 30 Jul 2021 14:44:06 -0700</lastBuildDate>
- <pubDate>Fri, 30 Jul 2021 14:44:06 -0700</pubDate>
+ <lastBuildDate>Fri, 30 Jul 2021 15:24:01 -0700</lastBuildDate>
+ <pubDate>Fri, 30 Jul 2021 15:24:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Money Matters: </title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1008%2Fgrowth.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But if you’re looking to tap into your savings in the next five years, you may want to look elsewhere than the stock market. Like you said, markets sometimes tank (the S&amp;P 500 has dropped more than 10% several times per decade), which is OK if you don’t need the money right away.  Here’s why investing pros like them: built-in diversification. Stock market index funds are known as the “safe” method of investing, but they can still tank with the market.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/30/money-matters</link>
+  <author>Ryan Lasker</author>
+  <categories>personal finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/money-matters</guid>
+  <pubDate>Fri, 30 Jul 2021 15:22:01 -0700</pubDate>
+ </item>
  <item>
   <title>Icebreakers with...Build-a-Bear CEO Sharon Price John</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5990%2Fsharon_price_john.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;We don’t rank the products like that, but Baby Yoda’s a phenomenon, not just with us but across the board. The in-person aspect of Build-a-Bear stores feels like such a big part of the magic of creating your bear. We started to see an expansion in interest [among older demographics] when we got closer to 20 years old. It’s always new customers. Is there a particular licensed bear that’s been super popular? The kids market is hard. In addition to browsing the typical heart-stuffed plush, customers can head to the age-gated section of Build-a-Bear’s site, The Bear Cave, and nab a Deadpool panda. So how do we make sure our online experience has connectivity back to what we do in the store? This interview has been lightly edited and condensed for clarity. We looked into that because of so much social media saying, “Please, please, please make Animal Crossing.”</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/week-ahead-july-26?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 26 Jul 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 26</title>
-  <description>&lt;img src='https://media.giphy.com/media/Q53yLdCf8bmxymyKdy/giphy.gif'&gt;&lt;br/&gt; American beach volleyball player Taylor Crabb described what it felt like to train for years to compete in the Olympics only to be quarantined in a Tokyo hotel room. (New York Times)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/25/key-performance-indicators-july-26?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/25/key-performance-indicators-july-26?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 26 Jul 2021 03:02:02 -0700</pubDate>
  </item>
 
