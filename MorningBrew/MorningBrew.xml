@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/07/30</link>
- <lastBuildDate>Fri, 30 Jul 2021 15:39:00 -0700</lastBuildDate>
- <pubDate>Fri, 30 Jul 2021 15:39:00 -0700</pubDate>
+ <lastBuildDate>Fri, 30 Jul 2021 15:44:04 -0700</lastBuildDate>
+ <pubDate>Fri, 30 Jul 2021 15:44:04 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Elon Musk Responds To New Tesla Book’s Claims</title>
+  <description>&lt;img src='https://media.giphy.com/media/duKV1YBPhDtd9efnrR/giphy.gif'&gt;&lt;br/&gt; Musk was clearly feeling spicy because later in the day he tweeted, “Apple app store fees are a de facto global tax on the internet. The context: According to Higgins’s book, Apple boss Tim Cook and Musk were on the phone discussing a potential acquisition of Tesla by Apple. Musk said. It all started when a review of a new book about Tesla by the WSJ’s Tim Higgins revealed that Elon Musk told the CEO of Apple that he wanted to become the CEO of Apple. He’s referencing the lawsuit filed by Fortnite developer Epic Games that attacks Apple’s meaty cut of App Store revenue. Since 2014 Apple has been developing an autonomous, electric vehicle that would compete with Tesla.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/30/elon-musk-responds-new-tesla-books-claims</link>
+  <author>Jamie Wilde</author>
+  <categories>ceos</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/elon-musk-responds-new-tesla-books-claims</guid>
+  <pubDate>Fri, 30 Jul 2021 15:42:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Senate Subcommittee Holds Hearing to Discuss Overcrowded National Parks</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5994%2Fyellowstone_traffic.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Senior VP of the National Parks Conservation Association Kristen Brengel said that from 2011–2019, US park staff decreased 16%. 31+ million people visited a National Park in June alone, resulting in overcrowding and hours-long wait times for trails and entrance into parks.  Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/30/senate-subcommittee-holds-hearing-discuss-overcrowded-national-parks</link>
+  <author>Matty Merritt</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/senate-subcommittee-holds-hearing-discuss-overcrowded-national-parks</guid>
+  <pubDate>Fri, 30 Jul 2021 15:42:03 -0700</pubDate>
+ </item>
  <item>
   <title>The Federal Eviction Moratorium Officially Ends Today</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5993%2Fmoving_boxes.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Out of the $47 billion in rental aid that was approved, only $3 billion had been used as of June. some states have already extended their own eviction moratorium past July, but 8.2 million adults remain behind on their rent or mortgage as of July 5, per the Census Bureau. Looking ahead...</description>
@@ -352,24 +370,6 @@
   <categories>education</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/china-cracks-afterschool-tutoring-sector</guid>
   <pubDate>Mon, 26 Jul 2021 15:12:05 -0700</pubDate>
- </item>
- <item>
-  <title>Covid Vaccine Mandates Gaining Traction</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5923%2Fpunch_card.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;American Mandate AssociationEven before those announcements, 57 influential medical groups published a letter urging employers to require Covid vaccines for all healthcare personnel. Vaccine mandates came in fast and furious yesterday as New York City, California, and the Department of Veterans Affairs introduced a choice for employees: join the Mod(erna) Squad or get a weekly Covid test. The White House has no plans to impose vaccine mandates or passports, so it’s been up to cities, states, and private companies to decide whether to impose vaccine requirements.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/26/covid-vaccine-mandates-gaining-traction</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/covid-vaccine-mandates-gaining-traction</guid>
-  <pubDate>Mon, 26 Jul 2021 15:07:04 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 27</title>
-  <description>&lt;img src='https://media.giphy.com/media/J1okKlaP8hoX6j1wtG/giphy.gif'&gt;&lt;br/&gt;But here’s the funny part—Man Group trades crypto for its clients, because, hey, you can make money. (The Secret Life of Machines) Watch: Fax machines are more clever than you might think.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/26/key-performance-indicators-july-27</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/key-performance-indicators-july-27</guid>
-  <pubDate>Mon, 26 Jul 2021 14:47:02 -0700</pubDate>
  </item>
 
 </channel>
