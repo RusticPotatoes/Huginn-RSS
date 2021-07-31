@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/30/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/30/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/07/31/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/07/31/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/30</link>
- <lastBuildDate>Fri, 30 Jul 2021 15:44:04 -0700</lastBuildDate>
- <pubDate>Fri, 30 Jul 2021 15:44:04 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/07/31</link>
+ <lastBuildDate>Sat, 31 Jul 2021 03:04:05 -0700</lastBuildDate>
+ <pubDate>Sat, 31 Jul 2021 03:04:05 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Money Matters: </title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1008%2Fgrowth.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Stock market index funds are known as the “safe” method of investing, but they can still tank with the market. Submit your money woes here. PS: Later this summer, Ryan will be writing a twice-weekly personal finance newsletter to make you smarter about your money. Still, since their inception, the S&amp;P 500, Nasdaq, and the Dow have recovered from every loss and reached new heights.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/30/money-matters?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Ryan Lasker</author>
+  <categories>personal finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/money-matters?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 31 Jul 2021 03:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: July 31</title>
+  <description>&lt;img src='https://media.giphy.com/media/Fc26lykaXWxR6/giphy.gif'&gt;&lt;br/&gt;For the first time, the US men’s soccer team got directly involved in the women’s wage discrimination lawsuit against the US Soccer Federation.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/30/key-performance-indicators-july-31?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/key-performance-indicators-july-31?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 31 Jul 2021 03:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Senate Subcommittee Holds Hearing to Discuss Overcrowded National Parks</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5994%2Fyellowstone_traffic.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;31+ million people visited a National Park in June alone, resulting in overcrowding and hours-long wait times for trails and entrance into parks. From 2011–2019, US park staff decreased 16%.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/30/senate-subcommittee-holds-hearing-discuss-overcrowded-national-parks?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/senate-subcommittee-holds-hearing-discuss-overcrowded-national-parks?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 31 Jul 2021 03:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Federal Eviction Moratorium Officially Ends Today</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5993%2Fmoving_boxes.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Out of the $47 billion in rental aid that was approved, only $3 billion had been used as of June. some states have already extended their own eviction moratoriums past July, but 8.2 million adults remain behind on their rent or mortgage as of July 5, per the Census Bureau. Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/30/federal-eviction-moratorium-officially-ends-today?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>housing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/federal-eviction-moratorium-officially-ends-today?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 31 Jul 2021 03:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Elon Musk Responds To New Tesla Book’s Claims</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5996%2Fgermany-automobile-tesla-.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The context: According to Higgins’s book, Apple boss Tim Cook and Musk were on the phone discussing a potential acquisition of Tesla by Apple.  Musk was clearly feeling spicy because later in the day he tweeted, “Apple app store fees are a de facto global tax on the internet. Since 2014, Apple has been developing an autonomous, electric vehicle that would compete with Tesla, a project Musk has mocked for years.  Musk's been at this for a whileOn Tuesday, Musk turned an ordinarily dull earnings call for Tesla’s Q2 into a popcorn-and-white-wine event when he attacked Apple not once but twice.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/30/elon-musk-responds-new-tesla-books-claims?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/elon-musk-responds-new-tesla-books-claims?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 31 Jul 2021 03:02:04 -0700</pubDate>
+ </item>
  <item>
   <title>Elon Musk Responds To New Tesla Book’s Claims</title>
   <description>&lt;img src='https://media.giphy.com/media/duKV1YBPhDtd9efnrR/giphy.gif'&gt;&lt;br/&gt; Musk was clearly feeling spicy because later in the day he tweeted, “Apple app store fees are a de facto global tax on the internet. The context: According to Higgins’s book, Apple boss Tim Cook and Musk were on the phone discussing a potential acquisition of Tesla by Apple. Musk said. It all started when a review of a new book about Tesla by the WSJ’s Tim Higgins revealed that Elon Musk told the CEO of Apple that he wanted to become the CEO of Apple. He’s referencing the lawsuit filed by Fortnite developer Epic Games that attacks Apple’s meaty cut of App Store revenue. Since 2014 Apple has been developing an autonomous, electric vehicle that would compete with Tesla.</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/key-performance-indicators-july-27?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 27 Jul 2021 03:02:01 -0700</pubDate>
- </item>
- <item>
-  <title>China Cracks Down on After-school Tutoring Sector</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5924%2Fdoing_homework.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The government’s announcement gave the burning-hot industry an ice bath:New Oriental, one of China’s biggest private education companies, has plunged nearly 70% since last Thursday. Why it matters: China’s education technology sector has ballooned to $100 billion, with about 70% of K-12 students enrolled in after-school tutoring programs in major cities.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/26/china-cracks-afterschool-tutoring-sector?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/china-cracks-afterschool-tutoring-sector?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 27 Jul 2021 03:02:01 -0700</pubDate>
- </item>
- <item>
-  <title>Tesla Scored Record Profits, Revenue, and Deliveries in Q2</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4875%2Ftesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The company reported a $23 million “impairment” related to its bitcoin holdings. Sales of electric vehicles in the US more than doubled in the first half of 2021 compared to last year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/26/tesla-scored-record-profits-revenue-deliveries-q2?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/tesla-scored-record-profits-revenue-deliveries-q2?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 27 Jul 2021 03:02:01 -0700</pubDate>
- </item>
- <item>
-  <title>Covid Vaccine Mandates Gaining Traction</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5923%2Fpunch_card.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Department of Veterans Affairs became the first federal agency to require Covid-19 vaccines for its 115,000 healthcare employees yesterday. American Mandate AssociationEven before those announcements, 57 influential medical groups published a letter urging employers to require Covid vaccines for all healthcare personnel. The White House has no plans to introduce vaccine mandates or passports, so it’s been up to cities, states, and private companies to set vaccine requirements. Covid cases in the city have grown to 800+ per day.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/26/covid-vaccine-mandates-gaining-traction?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/covid-vaccine-mandates-gaining-traction?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 27 Jul 2021 03:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>Tesla Scored Record Profits, Revenue, and Deliveries in Q2</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4875%2Ftesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;. Sales of electric vehicles in the US more than doubled in the first half of 2021 compared to last year. The company reported a $23 million “impairment” related to its bitcoin holdings.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/26/tesla-scored-record-profits-revenue-deliveries-q2</link>
-  <author>Sherry Qin</author>
-  <categories>ev</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/tesla-scored-record-profits-revenue-deliveries-q2</guid>
-  <pubDate>Mon, 26 Jul 2021 15:17:06 -0700</pubDate>
- </item>
- <item>
-  <title>China Cracks Down on After-school Tutoring Sector</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5924%2Fdoing_homework.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The government’s announcement gave the burning-hot industry an ice bath:New Oriental, one of China’s biggest private education companies, has plunged nearly 70% since last Thursday. For all you students who’ve complained about after-school tutoring, the Chinese government agrees with you.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/26/china-cracks-afterschool-tutoring-sector</link>
-  <author>Sherry Qin</author>
-  <categories>education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/china-cracks-afterschool-tutoring-sector</guid>
-  <pubDate>Mon, 26 Jul 2021 15:12:05 -0700</pubDate>
  </item>
 
 </channel>
