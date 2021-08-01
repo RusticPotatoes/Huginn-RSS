@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/01</link>
- <lastBuildDate>Sun, 01 Aug 2021 16:29:04 -0700</lastBuildDate>
- <pubDate>Sun, 01 Aug 2021 16:29:04 -0700</pubDate>
+ <lastBuildDate>Sun, 01 Aug 2021 16:38:57 -0700</lastBuildDate>
+ <pubDate>Sun, 01 Aug 2021 16:38:57 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Pandemic Boom Times Are Over for Companies like Amazon, Pinterest</title>
+  <description>&lt;img src='https://media.giphy.com/media/3oEjI4MMUuv9TZwXCM/giphy.gif'&gt;&lt;br/&gt;Companies that enjoyed a surge in sales during the worst of the pandemic last year are confronting a new era of more socializing with people, and less socializing with an imaginary paper towel friend.    Pinterest stock plunged 18% Friday after reporting a 5% decline in global users last quarter.  Amazon, a poster child for the Covid boom, fell 7.6% Friday for their worst day in more than a year, dropping Jeff Bezos below French luxury mogul Bernard Arnault on the list of world’s richest people.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/01/pandemic-boom-times-companies-like-amazon-pinterest</link>
+  <author>Neal Freyman</author>
+  <categories>corporate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/01/pandemic-boom-times-companies-like-amazon-pinterest</guid>
+  <pubDate>Sun, 01 Aug 2021 16:37:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>All the Corporations Requiring Vaccines</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3219%2Fvaccine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Vaccine mandates. Earlier this summer, 64% of Americans said that they would support federal, state, or local governments requiring everyone to get vaccinated, according to a survey by the COVID States Project.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/01/corporations-requiring-vaccines</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/01/corporations-requiring-vaccines</guid>
+  <pubDate>Sun, 01 Aug 2021 16:37:07 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: August 2</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6012%2Fus-transport-infrastructu.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Economists are expecting 788,000 new jobs, but whatever it is it’ll be notable because Fed Chair Jerome Powell will use the report to help decide when to wind down the Fed’s stimulus programs. The Olympics close up shop on Sunday. Fall is coming: The NFL preseason begins with the Hall of Fame Game on Thursday.</description>
@@ -352,24 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/27/cdc-advises-vaccinated-people-resume-wearing-masks-indoors</guid>
   <pubDate>Tue, 27 Jul 2021 14:56:59 -0700</pubDate>
- </item>
- <item>
-  <title>Influencer Marketing Spending to Pass $3 Billion This Year</title>
-  <description>&lt;img src='https://media.giphy.com/media/kzrGfmOs3os4FcuJFo/giphy.gif'&gt;&lt;br/&gt; And if there’s any time to be hawking trendy electronics from your social account, it’s right now, because influencer marketing spending is expected to grow 30% this year to top $3 billion, per eMarketer.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/27/influencer-marketing-spending-pass-3-billion-year</link>
-  <author>Matty Merritt</author>
-  <categories>creator economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/27/influencer-marketing-spending-pass-3-billion-year</guid>
-  <pubDate>Tue, 27 Jul 2021 14:56:59 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 28</title>
-  <description>&lt;img src='https://media.giphy.com/media/j39AzlvlJqE7e/source.gif'&gt;&lt;br/&gt;(NPR) Read: Who will pay to protect tech giants from rising seas? Employees are staging a walkout today to demand changes in the ways women and other marginalized groups are treated at the company.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/27/key-performance-indicators-july-28</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/27/key-performance-indicators-july-28</guid>
-  <pubDate>Tue, 27 Jul 2021 14:51:57 -0700</pubDate>
  </item>
 
 </channel>
