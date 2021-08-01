@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/07/31/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/07/31/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/01/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/07/31</link>
- <lastBuildDate>Sat, 31 Jul 2021 09:13:58 -0700</lastBuildDate>
- <pubDate>Sat, 31 Jul 2021 09:13:58 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/01</link>
+ <lastBuildDate>Sun, 01 Aug 2021 15:39:01 -0700</lastBuildDate>
+ <pubDate>Sun, 01 Aug 2021 15:39:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Business Horoscopes for August 2021</title>
+  <description>&lt;img src='https://media.giphy.com/media/FWtVYDHIxgGgE/giphy.gif'&gt;&lt;br/&gt;  I know you’re concerned about personal growth, but how’s your love life doing month over month, huh? You’re rambunctious. But August is a month for reflection and stability. It’s okay to cry a little (or a lot) when you inevitably re-sign for 18 more months. It’s because you’ll lose your job, but still.  Leo: (July 23–August 22)  We know you’re craving a vacation, but if you spend the summer gallivanting across Europe you will end up hugely in debt. Disclaimer: Neither of us is qualified to give financial nor astrological advice. Your friends are tired of nudging you, and we all know you’re not going to “get them back next time.” You’ve been buying these confusing little guys left and right. Libra: (September 23–October 22)August is the month when you’ll finally recover the password to your Coinbase account you opened in 2017. It’s summer.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/01/business-horoscopes-august-2021</link>
+  <author>Toby Howell</author>
+  <categories>fun</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/01/business-horoscopes-august-2021</guid>
+  <pubDate>Sun, 01 Aug 2021 15:37:00 -0700</pubDate>
+ </item>
  <item>
   <title>Is BTS Using More English Lyrics to Appeal to Western Audiences? An Analysis.</title>
   <description>&lt;img src='https://media.giphy.com/media/ibpyzXXfbiy1UkGRRO/giphy.gif'&gt;&lt;br/&gt; But are non-English lyrics holding South Korean pop acts back from even greater success? Overall, we found a consistent rise in the share of English lyrics in BTS’s music from 2013 on. By calculating the percentage of English words in each song, we aimed to track whether BTS has increased its usage of English lyrics over time.  These song lyrics, streamed hundreds of millions of times across the world, are the product of South Korean boyband sensation BTS. In 2020, BTS’s song On became just the 20th track sung primarily in a language other than English to land in the Top 10 on the Billboard charts...  Bottom line: Undoubtedly English-speaking audiences will gravitate toward English music lyrics.  Why it mattersK-pop, or Korean pop music, has become a cultural and financial force on the global music stage.</description>
@@ -361,15 +370,6 @@
   <categories>work</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/27/extra-unemployment-benefits-kept-workers-sidelines-not-reduce-overall-employment-report-says</guid>
   <pubDate>Tue, 27 Jul 2021 14:42:00 -0700</pubDate>
- </item>
- <item>
-  <title>Checking in on the 'Jeopardy' Hosting Tryouts</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5912%2Fjeopardy_guest_host_levar_burton.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; If you answered LeVar Burton you'd be wrong.  Zoom out: Jeopardy!   When Burton made it known he really wanted the gig, fans started a petition that garnered over 250,000 signatures, which caught the eye of the show’s producers. Finding the right host is one of the most crucial decisions facing television execs today. But viewership is down 10% in the post-Trebek world.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/26/checking-jeopardy-hosting-tryouts-d5da?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/26/checking-jeopardy-hosting-tryouts-d5da?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 27 Jul 2021 03:02:01 -0700</pubDate>
  </item>
 
 </channel>
