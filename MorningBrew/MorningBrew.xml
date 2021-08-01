@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/01</link>
- <lastBuildDate>Sun, 01 Aug 2021 15:39:01 -0700</lastBuildDate>
- <pubDate>Sun, 01 Aug 2021 15:39:01 -0700</pubDate>
+ <lastBuildDate>Sun, 01 Aug 2021 16:29:04 -0700</lastBuildDate>
+ <pubDate>Sun, 01 Aug 2021 16:29:04 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: August 2</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6012%2Fus-transport-infrastructu.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Economists are expecting 788,000 new jobs, but whatever it is it’ll be notable because Fed Chair Jerome Powell will use the report to help decide when to wind down the Fed’s stimulus programs. The Olympics close up shop on Sunday. Fall is coming: The NFL preseason begins with the Hall of Fame Game on Thursday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/01/week-ahead-august-2</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/01/week-ahead-august-2</guid>
+  <pubDate>Sun, 01 Aug 2021 16:27:03 -0700</pubDate>
+ </item>
  <item>
   <title>Business Horoscopes for August 2021</title>
   <description>&lt;img src='https://media.giphy.com/media/FWtVYDHIxgGgE/giphy.gif'&gt;&lt;br/&gt;  I know you’re concerned about personal growth, but how’s your love life doing month over month, huh? You’re rambunctious. But August is a month for reflection and stability. It’s okay to cry a little (or a lot) when you inevitably re-sign for 18 more months. It’s because you’ll lose your job, but still.  Leo: (July 23–August 22)  We know you’re craving a vacation, but if you spend the summer gallivanting across Europe you will end up hugely in debt. Disclaimer: Neither of us is qualified to give financial nor astrological advice. Your friends are tired of nudging you, and we all know you’re not going to “get them back next time.” You’ve been buying these confusing little guys left and right. Libra: (September 23–October 22)August is the month when you’ll finally recover the password to your Coinbase account you opened in 2017. It’s summer.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/27/key-performance-indicators-july-28</guid>
   <pubDate>Tue, 27 Jul 2021 14:51:57 -0700</pubDate>
- </item>
- <item>
-  <title>Extra Unemployment Benefits Kept Some Workers on the Sidelines but Did Not Reduce Overall Employment, Report Says</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F867%2Fusa.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Economists are scrambling to figure it out, and yesterday we got a preliminary answer that’s just as nuanced as the question: Extra unemployment insurance (UI) didn’t impact overall job growth, but it did cause a reshuffling of the type of people who were working. The takeawaysIn states that ended extra UI early, hiring for adult workers 25 or older increased the week governors said they were cutting benefits, but returned to typical levels once the benefits actually expired. At the same time, the hiring of teenagers 15–19 jumped in states that didn’t cut the extra benefits.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/27/extra-unemployment-benefits-kept-workers-sidelines-not-reduce-overall-employment-report-says</link>
-  <author>Neal Freyman</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/27/extra-unemployment-benefits-kept-workers-sidelines-not-reduce-overall-employment-report-says</guid>
-  <pubDate>Tue, 27 Jul 2021 14:42:00 -0700</pubDate>
  </item>
 
 </channel>
