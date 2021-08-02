@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/02</link>
- <lastBuildDate>Mon, 02 Aug 2021 14:49:07 -0700</lastBuildDate>
- <pubDate>Mon, 02 Aug 2021 14:49:07 -0700</pubDate>
+ <lastBuildDate>Mon, 02 Aug 2021 14:53:58 -0700</lastBuildDate>
+ <pubDate>Mon, 02 Aug 2021 14:53:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: August 3</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6026%2Flord_of_the_rings_amazon.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Current Affairs)  Read: Who actually gets to create Black pop culture? Graham is the first “breakthrough” case in the Senate.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/02/key-performance-indicators-august-3</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/key-performance-indicators-august-3</guid>
+  <pubDate>Mon, 02 Aug 2021 14:51:58 -0700</pubDate>
+ </item>
+ <item>
+  <title>Goldman Sachs Latest Wall Street Bank to Bump First-Year Analyst Pay</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6033%2Fchoose_me.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But as other banks hiked salaries and offered perks like free Pelotons, Goldman felt like it had no choice but to one-up its rivals’ moves. The backstory: In March, an internal survey of Goldman’s analysts revealed they worked 100-hour weeks in a pressure cooker environment.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/02/goldman-sachs-latest-wall-street-bank-bump-firstyear-analyst-pay</link>
+  <author>Matty Merritt</author>
+  <categories>banking</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/goldman-sachs-latest-wall-street-bank-bump-firstyear-analyst-pay</guid>
+  <pubDate>Mon, 02 Aug 2021 14:51:58 -0700</pubDate>
+ </item>
  <item>
   <title>Blackstone-backed Firm to Buy Reese Witherspoon’s Media Company</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6035%2Fat_t_celebrates_the_launch_of_hello_sunshine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Big picture: As entertainment goliaths like Disney and Netflix spend tens of billions of dollars to develop content for their own streaming platforms, this Blackstone-backed media venture thinks playing the field could help it stand out with no ties or loyalty to any specific network.</description>
@@ -352,24 +370,6 @@
   <categories>ipo</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/bull-bear-case-robinhoods-ipo</guid>
   <pubDate>Wed, 28 Jul 2021 15:12:06 -0700</pubDate>
- </item>
- <item>
-  <title>The Most 2021 Headline Is About BTS and Chicken Sandwiches</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5953%2Fcnbc_headline.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Drive-thru times increased by three seconds due to the labor shortage, but CEO Chris Kempczinski said more job applications were flowing in and that dining rooms should be 100% open by Labor Day.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/28/2021-headline-bts-chicken-sandwiches</link>
-  <author>Jamie Wilde</author>
-  <categories>csr</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/2021-headline-bts-chicken-sandwiches</guid>
-  <pubDate>Wed, 28 Jul 2021 15:12:06 -0700</pubDate>
- </item>
- <item>
-  <title>Pfizer Expects Covid Vaccine to Bring in $33.5 Billion This Year</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5951%2Fpfizer.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The drugmaker projected that Covid-19 vaccine sales would hit $33.5 billion in revenue this year, a 29% bump from previous estimates. The US recently paid $24/dose for an order of 200 million doses, up from the $19.50/dose it paid Pfizer for previous orders. Moderna will report its earnings Aug. 5.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/28/pfizer-expects-covid-vaccine-bring-335-billion-year</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/pfizer-expects-covid-vaccine-bring-335-billion-year</guid>
-  <pubDate>Wed, 28 Jul 2021 15:07:04 -0700</pubDate>
  </item>
 
 </channel>
