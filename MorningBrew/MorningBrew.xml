@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/01</link>
- <lastBuildDate>Sun, 01 Aug 2021 16:43:59 -0700</lastBuildDate>
- <pubDate>Sun, 01 Aug 2021 16:43:59 -0700</pubDate>
+ <lastBuildDate>Sun, 01 Aug 2021 22:09:02 -0700</lastBuildDate>
+ <pubDate>Sun, 01 Aug 2021 22:09:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>It’s time to care about cryptocurrency</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4404%2Fbitcoin_magic.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;According to a 2021 report assessing crypto adoption in the US, 14% of the population owns cryptocurrency—and though today’s average crypto investor is exactly the stereotype your mind might conjure (late thirties, male, annual income north of $100k), tomorrow’s is more likely to be older, less wealthy, and a woman.  The price of a bitcoin as of this writing? Of course, not all of us can be as well-read as my ride-hailing friend from 2014. The price of bitcoin was about $500 or $600 back then, and most of the news headlines about cryptocurrency centered on two things: one, that crypto was used to acquire illegal goods on the black market, and two, that its value was volatile enough to vaporize a nest egg overnight—with ample evidence to back that up. He clearly had most of us beat. If sheer value isn’t justification enough to take crypto seriously, look no further than El Salvador, whose legislature in June made bitcoin legal tender in the Central American nation. In other words: It’s finally time for you, a regular person, to get educated on crypto. I’m in the backseat of an Uber, or maybe it’s a Lyft, I dunno.   But the traffic is bad to SFO and we’ve got time to kill.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/02/time-care-cryptocurrency</link>
+  <author>Andrew Nusca</author>
+  <categories>crypto crash course</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/time-care-cryptocurrency</guid>
+  <pubDate>Sun, 01 Aug 2021 22:07:01 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: August 2</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6014%2Fsymptomatic_breakthrough_covid-19_infections.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Square cofounder and CEO Jack Dorsey announced that his fintech company was buying Afterpay, an Australian “buy now, pay later” (BNPL) giant, for $29 billion in stock. (Amanda Knox) Read: Who owns my name?</description>
@@ -361,15 +370,6 @@
   <categories>return to work</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/delta-variant-puts-breaks-return-office</guid>
   <pubDate>Wed, 28 Jul 2021 15:01:58 -0700</pubDate>
- </item>
- <item>
-  <title>Big Tech Companies Crush Earnings</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F3141%2Fgoogle_suite.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;CEO Satya Nadella said the words “enterprise metaverse” on the earnings call and not even he knew what it meant.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/28/big-tech-companies-crush-earnings</link>
-  <author>Neal Freyman</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/big-tech-companies-crush-earnings</guid>
-  <pubDate>Tue, 27 Jul 2021 17:17:00 -0700</pubDate>
  </item>
 
 </channel>
