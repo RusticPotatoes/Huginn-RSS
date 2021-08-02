@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/02</link>
- <lastBuildDate>Mon, 02 Aug 2021 14:53:58 -0700</lastBuildDate>
- <pubDate>Mon, 02 Aug 2021 14:53:58 -0700</pubDate>
+ <lastBuildDate>Mon, 02 Aug 2021 15:13:59 -0700</lastBuildDate>
+ <pubDate>Mon, 02 Aug 2021 15:13:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Infrastructure Bill: What You Need to Know</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5297%2Fbridge_in_virginia.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The White House said the money will come from reclaiming unused Covid aid funds, collecting unpaid taxes on cryptocurrency investments, and selling billions of dollars worth of oil from reserves.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/02/infrastructure-bill-need-know</link>
+  <author>Sherry Qin</author>
+  <categories>infrastructure</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/infrastructure-bill-need-know</guid>
+  <pubDate>Mon, 02 Aug 2021 15:12:06 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: August 3</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6026%2Flord_of_the_rings_amazon.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Current Affairs)  Read: Who actually gets to create Black pop culture? Graham is the first “breakthrough” case in the Senate.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/key-performance-indicators-july-29</guid>
   <pubDate>Wed, 28 Jul 2021 15:22:04 -0700</pubDate>
- </item>
- <item>
-  <title>The Bull and Bear Case for Robinhood’s IPO</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5949%2Frobinhood_ipo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Trading app Robinhood is set to IPO this morning under the ticker symbol HOOD in the most meta public offering ever. As for regulatory scrutiny, Robinhood says it has room to grow into far less sketchy spaces, like retirement accounts. The fast-growing company paved the way for Average Joe traders to feel like Ferragamo-wearing Wall Streeters.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/28/bull-bear-case-robinhoods-ipo</link>
-  <author>Jamie Wilde</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/bull-bear-case-robinhoods-ipo</guid>
-  <pubDate>Wed, 28 Jul 2021 15:12:06 -0700</pubDate>
  </item>
 
 </channel>
