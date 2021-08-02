@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/01/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/02/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/01</link>
- <lastBuildDate>Sun, 01 Aug 2021 22:09:02 -0700</lastBuildDate>
- <pubDate>Sun, 01 Aug 2021 22:09:02 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/02</link>
+ <lastBuildDate>Mon, 02 Aug 2021 14:49:07 -0700</lastBuildDate>
+ <pubDate>Mon, 02 Aug 2021 14:49:07 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Blackstone-backed Firm to Buy Reese Witherspoon’s Media Company</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6035%2Fat_t_celebrates_the_launch_of_hello_sunshine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Big picture: As entertainment goliaths like Disney and Netflix spend tens of billions of dollars to develop content for their own streaming platforms, this Blackstone-backed media venture thinks playing the field could help it stand out with no ties or loyalty to any specific network.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/02/blackstonebacked-firm-buy-reese-witherspoons-media-company</link>
+  <author>Matty Merritt</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/blackstonebacked-firm-buy-reese-witherspoons-media-company</guid>
+  <pubDate>Mon, 02 Aug 2021 14:47:06 -0700</pubDate>
+ </item>
  <item>
   <title>It’s time to care about cryptocurrency</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4404%2Fbitcoin_magic.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;According to a 2021 report assessing crypto adoption in the US, 14% of the population owns cryptocurrency—and though today’s average crypto investor is exactly the stereotype your mind might conjure (late thirties, male, annual income north of $100k), tomorrow’s is more likely to be older, less wealthy, and a woman.  The price of a bitcoin as of this writing? Of course, not all of us can be as well-read as my ride-hailing friend from 2014. The price of bitcoin was about $500 or $600 back then, and most of the news headlines about cryptocurrency centered on two things: one, that crypto was used to acquire illegal goods on the black market, and two, that its value was volatile enough to vaporize a nest egg overnight—with ample evidence to back that up. He clearly had most of us beat. If sheer value isn’t justification enough to take crypto seriously, look no further than El Salvador, whose legislature in June made bitcoin legal tender in the Central American nation. In other words: It’s finally time for you, a regular person, to get educated on crypto. I’m in the backseat of an Uber, or maybe it’s a Lyft, I dunno.   But the traffic is bad to SFO and we’ve got time to kill.</description>
@@ -361,15 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/pfizer-expects-covid-vaccine-bring-335-billion-year</guid>
   <pubDate>Wed, 28 Jul 2021 15:07:04 -0700</pubDate>
- </item>
- <item>
-  <title>The Delta Variant Puts The Breaks on Return to Office</title>
-  <description>&lt;img src='https://media.giphy.com/media/H6W9H29kVsUI2hJE90/giphy.gif'&gt;&lt;br/&gt;In its postponement announcement, Google said that anyone coming into the office would need to be vaccinated. Google employees hung up their business hoodies and put on their home hoodies after CEO Sundar Pichai postponed the company’s return to the office by a month-and-a-half, to mid-October. Morgan Stanley, Goldman Sachs, Wells Fargo, and United Airlines have all made similar moves. The Ultas, Sweetgreens, and transit systems of the world are counting on you to spend money during the workday like you did in 2019.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/28/delta-variant-puts-breaks-return-office</link>
-  <author>Matty Merritt</author>
-  <categories>return to work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/delta-variant-puts-breaks-return-office</guid>
-  <pubDate>Wed, 28 Jul 2021 15:01:58 -0700</pubDate>
  </item>
 
 </channel>
