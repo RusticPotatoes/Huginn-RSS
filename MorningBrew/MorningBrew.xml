@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/03</link>
- <lastBuildDate>Tue, 03 Aug 2021 15:04:00 -0700</lastBuildDate>
- <pubDate>Tue, 03 Aug 2021 15:04:00 -0700</pubDate>
+ <lastBuildDate>Tue, 03 Aug 2021 15:09:06 -0700</lastBuildDate>
+ <pubDate>Tue, 03 Aug 2021 15:09:06 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: August 4</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4131%2Ftravel_bags.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Dylan Boigris, a 2016 Miami Law graduate, began his career making about $45,000 as a public defender. I thought I would come out making much more than I did.” (Vanity Fair) Read: A profile of the original influencer, Sean Combs.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/03/key-performance-indicators-august-4</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/key-performance-indicators-august-4</guid>
+  <pubDate>Tue, 03 Aug 2021 15:07:05 -0700</pubDate>
+ </item>
  <item>
   <title>PepsiCo Plans to Sell Off Tropicana, Naked, And Other Juice Brands</title>
   <description>&lt;img src='https://media.giphy.com/media/xT0GqEACvHo31kSOFq/giphy.gif'&gt;&lt;br/&gt;Blame it on the C6H12O6 Despite a brief uptick in fruit juice sales last year (Vitamin C for immunity, more time for breakfast), the category is suffering the same long-term decline as sugary cereals.</description>
@@ -360,15 +369,6 @@
   <author>Sherry Qin</author>
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/29/drop-demand-mask-sales-rebound?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 30 Jul 2021 03:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>Scarlett Johansson Sues Disney for ‘Black Widow’ Streaming Release</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5966%2Fblack_widow.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But Black Widow made a lot of money outside of theaters—$60 million from Disney+. Big picture: Companies like Disney have thrown tens of billions into the streaming wars. Black Widow earned $80 million at its opening weekend at the box office, a record for pandemic times, but not great for a Marvel movie.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/29/scarlett-johansson-sues-disney-black-widow-streaming-release?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/29/scarlett-johansson-sues-disney-black-widow-streaming-release?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 30 Jul 2021 03:02:00 -0700</pubDate>
  </item>
 
