@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/03</link>
- <lastBuildDate>Tue, 03 Aug 2021 03:04:05 -0700</lastBuildDate>
- <pubDate>Tue, 03 Aug 2021 03:04:05 -0700</pubDate>
+ <lastBuildDate>Tue, 03 Aug 2021 13:14:02 -0700</lastBuildDate>
+ <pubDate>Tue, 03 Aug 2021 13:14:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>So You Wanna Be a Cryptonaire</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6075%2Fcryptocurrency_wallet.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Only 14% of people in the US have crypto investments, according to crypto exchange Gemini, and the market is still a pea compared to the global stock and bond markets.   Cryptocurrency isn’t just bitcoin. If you want to invest in crypto or other assets, that’s fine and dandy. But if you’re looking to diversify your portfolio and put some money in a new asset class, do some research and try starting small. The bear case: There’s a lot of speculation happening in the crypto market, and while some cryptocurrencies post huge gains, they can also be incredibly volatile. which you should already have after setting your initial investment and retirement strategy. If you sell a crypto asset, use it to purchase goods/services, or trade it for another cryptocurrency, any profit you make is probably subject to a capital gains tax (which varies based on how long the asset is held).  Just please don’t put your life savings in dogecoin. Cryptocurrency can be the bulk of those riskier investments or just a slice—but it shouldn’t be the majority of your portfolio. For crypto novices, numerous financial advisors recommend starting off with a very small allocation (1%–2%) of your portfolio in crypto. The IRS taxes cryptocurrency transactions similarly to property.   Bottom line: Unlike pairing black socks with brown loafers, there isn’t a correct answer about whether you should invest in crypto today.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/03/wanna-cryptonaire</link>
+  <author>Alex Hickey</author>
+  <categories>cryptocurrency</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/wanna-cryptonaire</guid>
+  <pubDate>Tue, 03 Aug 2021 13:12:01 -0700</pubDate>
+ </item>
  <item>
   <title>Blackstone-backed Firm to Buy Reese Witherspoon’s Media Company</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6035%2Fat_t_celebrates_the_launch_of_hello_sunshine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  One potential target: LeBron James and Maverick Carter's SpringHill production company. Blackstone is bankrolling the media venture with $2 billion, so Mayer and Staggs are on the hunt for other acquisitions.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/29/scarlett-johansson-sues-disney-black-widow-streaming-release</guid>
-  <pubDate>Thu, 29 Jul 2021 14:42:04 -0700</pubDate>
- </item>
- <item>
-  <title>After A Drop in Demand, Mask Sales Rebound</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5963%2Fworld_mask.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Analysts expect mask sales to jump even more after the CDC issued new guidance that encourages vaccinated people to wear masks indoors in Covid hotspots.   After a drop in demand, masks are making a comeback: Masks, which had accounted for 14% of gross merchandise sales on Etsy in Q2 2020, fell to a 3% share in Q1 this year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/29/drop-demand-mask-sales-rebound</link>
-  <author>Sherry Qin</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/29/drop-demand-mask-sales-rebound</guid>
   <pubDate>Thu, 29 Jul 2021 14:42:04 -0700</pubDate>
  </item>
 
