@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/03</link>
- <lastBuildDate>Tue, 03 Aug 2021 14:59:03 -0700</lastBuildDate>
- <pubDate>Tue, 03 Aug 2021 14:59:03 -0700</pubDate>
+ <lastBuildDate>Tue, 03 Aug 2021 15:04:00 -0700</lastBuildDate>
+ <pubDate>Tue, 03 Aug 2021 15:04:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>PepsiCo Plans to Sell Off Tropicana, Naked, And Other Juice Brands</title>
+  <description>&lt;img src='https://media.giphy.com/media/xT0GqEACvHo31kSOFq/giphy.gif'&gt;&lt;br/&gt;Blame it on the C6H12O6 Despite a brief uptick in fruit juice sales last year (Vitamin C for immunity, more time for breakfast), the category is suffering the same long-term decline as sugary cereals.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/03/pepsico-plans-sell-off-tropicana-naked-juice-brands</link>
+  <author>Jamie Wilde</author>
+  <categories>food and beverage</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/pepsico-plans-sell-off-tropicana-naked-juice-brands</guid>
+  <pubDate>Tue, 03 Aug 2021 15:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>NYC, Tyson, and Microsoft Announce Vaccine Mandates</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6080%2Fus-health-virus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Meanwhile, masks won’t be required indoors because, according to de Blasio, they could disincentivize New Yorkers from getting the vaccine. Meat supplier Tyson will require all of its 120,000 US workers to be vaccinated. That divide’s best illustrated by Walmart, where only corporate workers need to show proof of vaccination.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/03/nyc-tyson-microsoft-announce-vaccine-mandates</link>
+  <author>Jamie Wilde</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/nyc-tyson-microsoft-announce-vaccine-mandates</guid>
+  <pubDate>Tue, 03 Aug 2021 15:02:00 -0700</pubDate>
+ </item>
  <item>
   <title>Beijing Calls Online Gaming “Opium For the Mind,” Shares of Tencent Plunge</title>
   <description>&lt;img src='https://media.giphy.com/media/JUSwkiO1Eh5K43ruN0/giphy.gif'&gt;&lt;br/&gt;40% of Fortnite maker Epic Games 12% of Snap 5% of Tesla  5% of Activision Blizzard Bottom line: International investors burned by China’s regulatory bombshells have lost more than $1 trillion this year. Its investment stakes include...</description>
@@ -352,24 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/29/scarlett-johansson-sues-disney-black-widow-streaming-release?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 30 Jul 2021 03:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>US Economy Surges to Pre-Pandemic Levels, but Comes in Lower Than Forecasts</title>
-  <description>&lt;img src='https://media.giphy.com/media/27bPvfGBYcaxqMSyCZ/giphy.gif'&gt;&lt;br/&gt;   What’s not working Supply chain snags: Apple and Tesla this week joined the chorus of companies warning that the chip shortage was hurting their businesses. But in general, he thinks with high vaccination rates the “effects will probably be less.  If that’s the parade, here’s a little rain: The 6.5% annual growth rate last quarter fell below forecasts, showing there are still some mustard stains on the economy’s T-shirt.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/29/us-economy-surges-prepandemic-levels-comes-lower-forecasts?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/29/us-economy-surges-prepandemic-levels-comes-lower-forecasts?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 30 Jul 2021 03:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 30</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5964%2Fchart_showing_poverty_rates.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(BuzzFeed News) But where do they come from? Read: For decades, poppers have been the go-to sex drug for gay men. The two have relinquished operational control of the company since 2000.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/29/key-performance-indicators-july-30</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/29/key-performance-indicators-july-30</guid>
-  <pubDate>Thu, 29 Jul 2021 14:46:58 -0700</pubDate>
  </item>
 
 </channel>
