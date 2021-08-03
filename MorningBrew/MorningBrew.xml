@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/02/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/03/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/02</link>
- <lastBuildDate>Mon, 02 Aug 2021 15:24:03 -0700</lastBuildDate>
- <pubDate>Mon, 02 Aug 2021 15:24:03 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/03</link>
+ <lastBuildDate>Tue, 03 Aug 2021 03:04:05 -0700</lastBuildDate>
+ <pubDate>Tue, 03 Aug 2021 03:04:05 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Blackstone-backed Firm to Buy Reese Witherspoon’s Media Company</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6035%2Fat_t_celebrates_the_launch_of_hello_sunshine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  One potential target: LeBron James and Maverick Carter's SpringHill production company. Blackstone is bankrolling the media venture with $2 billion, so Mayer and Staggs are on the hunt for other acquisitions.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/02/blackstonebacked-firm-buy-reese-witherspoons-media-company?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/blackstonebacked-firm-buy-reese-witherspoons-media-company?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 03 Aug 2021 03:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 3</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6026%2Flord_of_the_rings_amazon.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Current Affairs)  Read: Who actually gets to create Black pop culture? Graham is the first “breakthrough” case in the Senate.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/02/key-performance-indicators-august-3?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/key-performance-indicators-august-3?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 03 Aug 2021 03:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Infrastructure Bill: What You Need to Know</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5297%2Fbridge_in_virginia.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The White House said the money will come from reclaiming unused Covid aid funds, collecting unpaid taxes on cryptocurrency investments, and selling billions of dollars worth of oil from reserves.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/02/infrastructure-bill-need-know?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/infrastructure-bill-need-know?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 03 Aug 2021 03:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Goldman Sachs Latest Wall Street Bank to Bump First-Year Analyst Pay</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6033%2Fchoose_me.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: In March, an internal survey of Goldman analysts revealed they worked 100-hour weeks in a pressure cooker environment. But as other banks hiked salaries and offered perks like free Pelotons, Goldman felt like it had no choice but to one-up its rivals.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/02/goldman-sachs-latest-wall-street-bank-bump-firstyear-analyst-pay?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>banking</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/goldman-sachs-latest-wall-street-bank-bump-firstyear-analyst-pay?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 03 Aug 2021 03:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Health Officials Say Vulnerable Americans May Need Vaccine Booster Shots</title>
+  <description>&lt;img src='https://media.giphy.com/media/FRkBbAdRf2jTfahZaA/giphy.gif'&gt;&lt;br/&gt;It plans to ask for regulatory approval in the US for a booster shot this month.   We should note: Gottlieb is on the Pfizer board.   There's no clear roadmap, but momentum is building to offer some Americans a booster shot.  Britain will begin offering a booster of a Covid vaccine starting in September, the Telegraph reported. Bahrain is giving Pfizer boosters to some people who received China’s Sinopharm vaccine. Pfizer suggested a third shot would help bolster immunity in vulnerable populations as the Delta variant spreads.  Other governments have made similar moves:Israel began giving a booster shot to people over 60 this past weekend.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/02/health-officials-say-vulnerable-americans-may-need-vaccine-booster-shots?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/health-officials-say-vulnerable-americans-may-need-vaccine-booster-shots?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 03 Aug 2021 03:02:04 -0700</pubDate>
+ </item>
  <item>
   <title>Health Officials Say Vulnerable Americans May Need Vaccine Booster Shots</title>
   <description>&lt;img src='https://media.giphy.com/media/SBEFjvLO5wbfvBnO4Y/giphy.gif'&gt;&lt;br/&gt;It plans to seek regulatory approval in the US for a booster shot this month. We should note: Gottlieb is on the Pfizer board. Bahrain is giving Pfizer boosters to some people who received China’s Sinopharm vaccine.   Just like the CDC made a U-turn on mask policies last week, US health officials have reversed their tone from a few weeks ago by saying vulnerable Americans may need booster shots.  Former FDA Chief Scott Gottlieb told CNBC, “My guess is sometime by September or October we will be giving booster shots to older individuals and certainly immunocompromised.”  </description>
@@ -325,51 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/29/drop-demand-mask-sales-rebound</guid>
   <pubDate>Thu, 29 Jul 2021 14:42:04 -0700</pubDate>
- </item>
- <item>
-  <title>The Most 2021 Headline Is About BTS and Chicken Sandwiches</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5953%2Fcnbc_headline.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Drive-thru times increased by three seconds due to the labor shortage, but CEO Chris Kempczinski said more job applications were flowing in and that dining rooms should be 100% open by Labor Day.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/28/2021-headline-bts-chicken-sandwiches?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>food</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/2021-headline-bts-chicken-sandwiches?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 29 Jul 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 29</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5935%2Fus_electricity_generation_chart.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Atlantic)  Read: Why is so much American bureaucracy left to average citizens? and why they [bleeping] hated it. One Reddit user wrote about going back to the office for the first time since the pandemic started...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/28/key-performance-indicators-july-29?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/key-performance-indicators-july-29?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 29 Jul 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Pfizer Expects Covid Vaccine to Bring in $33.5 Billion This Year</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5951%2Fpfizer.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The drugmaker projected that Covid-19 vaccine sales would hit $33.5 billion this year, a 29% bump from previous estimates. The US recently paid $24/dose for an order of 200 million doses, up from the $19.50/dose it paid Pfizer for previous orders. Moderna will report its earnings Aug. 5.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/28/pfizer-expects-covid-vaccine-bring-335-billion-year?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/pfizer-expects-covid-vaccine-bring-335-billion-year?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 29 Jul 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>The Bull and Bear Case for Robinhood’s IPO</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5949%2Frobinhood_ipo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Trading app Robinhood is set to IPO this morning under the ticker symbol HOOD in one of the most unusual public offerings ever. As for regulatory scrutiny, Robinhood says it has room to grow into far less sketchy spaces, like retirement accounts. Are you going to invest?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/28/bull-bear-case-robinhoods-ipo?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>ipo</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/bull-bear-case-robinhoods-ipo?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 29 Jul 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>The Delta Variant Puts The Breaks on Return to Office</title>
-  <description>&lt;img src='https://media.giphy.com/media/H6W9H29kVsUI2hJE90/giphy.gif'&gt;&lt;br/&gt;In its announcement yesterday, Google said that anyone coming into the office would need to be vaccinated.  Google's one of a number of companies rethinking their workplace plans due to the—okay fine we’ll go there—fourth wave of Covid-19. Google employees hung up their business hoodies and put on their home hoodies after CEO Sundar Pichai postponed the company’s return to the office by a month-and-a-half, to mid-October. The Ultas, Sweetgreens, and transit systems of the world are counting on you to spend money during the workday like you did in 2019.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/28/delta-variant-puts-breaks-return-office?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/28/delta-variant-puts-breaks-return-office?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 29 Jul 2021 03:02:04 -0700</pubDate>
  </item>
 
 </channel>
