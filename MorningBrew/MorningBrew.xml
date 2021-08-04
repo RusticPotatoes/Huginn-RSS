@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/03/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/04/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/03</link>
- <lastBuildDate>Tue, 03 Aug 2021 15:09:06 -0700</lastBuildDate>
- <pubDate>Tue, 03 Aug 2021 15:09:06 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/04</link>
+ <lastBuildDate>Wed, 04 Aug 2021 03:03:53 -0700</lastBuildDate>
+ <pubDate>Wed, 04 Aug 2021 03:03:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>PepsiCo Plans to Sell Off Tropicana, Naked, And Other Juice Brands</title>
+  <description>&lt;img src='https://media.giphy.com/media/xT0GqEACvHo31kSOFq/giphy.gif'&gt;&lt;br/&gt;Blame it on the C6H12O6 Despite a brief uptick in fruit juice sales last year (Vitamin C for immunity, more time for breakfast), the category is suffering the same long-term decline as sugary cereals.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/03/pepsico-plans-sell-off-tropicana-naked-juice-brands?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>food and beverage</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/pepsico-plans-sell-off-tropicana-naked-juice-brands?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 04 Aug 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 4</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4131%2Ftravel_bags.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Dylan Boigris, a 2016 Miami Law graduate, began his career making about $45,000 as a public defender. I thought I would come out making much more than I did.” (Vanity Fair) Read: A profile of the original influencer, Sean Combs.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/03/key-performance-indicators-august-4?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/key-performance-indicators-august-4?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 04 Aug 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>Beijing Calls Online Gaming “Opium For the Mind,” Shares of Tencent Plunge</title>
+  <description>&lt;img src='https://media.giphy.com/media/JUSwkiO1Eh5K43ruN0/giphy.gif'&gt;&lt;br/&gt;40% of Fortnite maker Epic Games 12% of Snap 5% of Tesla  5% of Activision Blizzard Bottom line: International investors burned by China’s regulatory bombshells have lost more than $1 trillion this year. Its investment stakes include...  Tencent may not be a household name in the US, but its fingerprints are all over the American tech industry.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/03/beijing-calls-online-gaming-opium-mind-shares-tencent-plunge?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>gaming</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/beijing-calls-online-gaming-opium-mind-shares-tencent-plunge?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 04 Aug 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>NYC, Tyson, and Microsoft Announce Vaccine Mandates</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6080%2Fus-health-virus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Meanwhile, masks won’t be required indoors because, according to de Blasio, they could disincentivize New Yorkers from getting the vaccine. Meat supplier Tyson will require all of its 120,000 US workers to be vaccinated. That divide’s best illustrated by Walmart, where only corporate workers need to show proof of vaccination.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/03/nyc-tyson-microsoft-announce-vaccine-mandates?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/nyc-tyson-microsoft-announce-vaccine-mandates?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 04 Aug 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>SEC Chief Gary Gensler Calls Crypto the "Wild West" in Speech</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6077%2Fsenate_holds_hearing_on_r.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; To clean things up, Gensler asked Congress for more resources to police the crypto world, such as the authority to monitor crypto exchanges.  Regulation should be welcome in crypto, Gensler said, because it sets guardrails and can pave the way for success. The market is worth about $1.6 trillion, Gensler said. Why does it matter what Gensler thinks?  But here’s something you may not know: Gensler is kind of a crypto nerd himself.  As the country’s top financial regulator, he could hand down the most significant rules for the crypto industry to date.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/03/sec-chief-gary-gensler-calls-crypto-wild-west-speech?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/sec-chief-gary-gensler-calls-crypto-wild-west-speech?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 04 Aug 2021 03:01:47 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: August 4</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4131%2Ftravel_bags.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Dylan Boigris, a 2016 Miami Law graduate, began his career making about $45,000 as a public defender. I thought I would come out making much more than I did.” (Vanity Fair) Read: A profile of the original influencer, Sean Combs.</description>
@@ -325,51 +370,6 @@
   <categories>qanda</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/icebreakers-withbuildabear-ceo-sharon-price-john</guid>
   <pubDate>Fri, 30 Jul 2021 14:42:04 -0700</pubDate>
- </item>
- <item>
-  <title>Meme Battle: Judging Olympians</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5977%2Fmeme_about_us_judging_olympians_abilities.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;We'll pick a new memelord for next week's Sunday Edition and provide you with another meme template to meme-ify.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/30/meme-battle-judging-olympians</link>
-  <author>Jamie Wilde</author>
-  <categories>contest</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/meme-battle-judging-olympians</guid>
-  <pubDate>Fri, 30 Jul 2021 14:32:00 -0700</pubDate>
- </item>
- <item>
-  <title>Mark Zuckerberg Wants Facebook to Become a Metaverse Company. But What Does He Mean By That?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F374%2Fepic_games_fortnite.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; “In the coming years, I expect people will transition from seeing us primarily as a social media company to seeing us as a metaverse company,” he said on Facebook’s earnings call Wednesday.  The backstory: The term “metaverse” first showed up in Neal Stephenson’s sci-fi novel Snow Crash in 1992, and was built upon by other science fiction thinkers like Ernest Cline, who depicted a version of the metaverse in his book Ready Player One. Metaverse philosophizing picked up during the pandemic, when people started hanging out in video games like Fortnite, Roblox, and Animal Crossing instead of IRL. The metaverse will be a fully functioning economy, so you can buy, sell, and invest in things as you would in the physical world. But what is the metaverse?    And yet the metaverse is so tantalizing, so esoteric, that it could mean everything...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/30/mark-zuckerberg-wants-facebook-become-metaverse-company-mean</link>
-  <author>Neal Freyman</author>
-  <categories>analysis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/mark-zuckerberg-wants-facebook-become-metaverse-company-mean</guid>
-  <pubDate>Fri, 30 Jul 2021 13:27:05 -0700</pubDate>
- </item>
- <item>
-  <title>Stock Watch: Robin Hoods</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5975%2Frobinhood_stock_watch.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/30/stock-watch-robin-hoods</link>
-  <author>Neal Freyman</author>
-  <categories>culture</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/stock-watch-robin-hoods</guid>
-  <pubDate>Fri, 30 Jul 2021 10:27:01 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 30</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5964%2Fchart_showing_poverty_rates.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(BuzzFeed News) But where do they come from? Read: For decades, poppers have been the go-to sex drug for gay men. The two have relinquished operational control of the company since 2000.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/29/key-performance-indicators-july-30?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/29/key-performance-indicators-july-30?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 30 Jul 2021 03:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>After A Drop in Demand, Mask Sales Rebound</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5963%2Fworld_mask.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Analysts expect mask sales to jump even more after the CDC issued new guidance that encourages vaccinated people to wear masks indoors in Covid hotspots.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/29/drop-demand-mask-sales-rebound?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/29/drop-demand-mask-sales-rebound?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 30 Jul 2021 03:02:00 -0700</pubDate>
  </item>
 
 </channel>
