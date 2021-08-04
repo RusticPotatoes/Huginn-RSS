@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/04</link>
- <lastBuildDate>Wed, 04 Aug 2021 14:58:46 -0700</lastBuildDate>
- <pubDate>Wed, 04 Aug 2021 14:58:46 -0700</pubDate>
+ <lastBuildDate>Wed, 04 Aug 2021 15:03:46 -0700</lastBuildDate>
+ <pubDate>Wed, 04 Aug 2021 15:03:46 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Spikes in Covid Cases Among Children Have Some Officials Worried for Back-to-School</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6092%2Fcovid_kids.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Dr. Fauci said in May that by Q1 2022 we’ll have enough data to begin vaccinating kids of all ages. Looking ahead... But severe illness from Covid is still pretty rare among children, making up about 1.3%–3.5% of hospitalizations during the pandemic.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/04/spikes-covid-cases-among-children-officials-worried-backtoschool</link>
+  <author>Matty Merritt</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/04/spikes-covid-cases-among-children-officials-worried-backtoschool</guid>
+  <pubDate>Wed, 04 Aug 2021 15:01:45 -0700</pubDate>
+ </item>
  <item>
   <title>Uber and Lyft Back New Gig Worker Ballot Proposal in Massachusetts</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F507%2Fuber.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big Gig has set up lobbying groups in five additional states in the last few months to challenge worker reclassification attempts that threaten their business models. Looking ahead... It passed after the companies spent more than $205 million promoting it—a record sum for a California ballot measure.</description>
@@ -361,15 +370,6 @@
   <categories>housing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/federal-eviction-moratorium-officially-ends-today</guid>
   <pubDate>Fri, 30 Jul 2021 15:36:59 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 31</title>
-  <description>&lt;img src='https://media.giphy.com/media/Fc26lykaXWxR6/giphy.gif'&gt;&lt;br/&gt;For the first time, the US men’s soccer team got directly involved in the women’s wage discrimination lawsuit against the US Soccer Federation.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/30/key-performance-indicators-july-31</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/key-performance-indicators-july-31</guid>
-  <pubDate>Fri, 30 Jul 2021 15:27:02 -0700</pubDate>
  </item>
 
 </channel>
