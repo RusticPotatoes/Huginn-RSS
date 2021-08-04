@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/04</link>
- <lastBuildDate>Wed, 04 Aug 2021 08:23:51 -0700</lastBuildDate>
- <pubDate>Wed, 04 Aug 2021 08:23:51 -0700</pubDate>
+ <lastBuildDate>Wed, 04 Aug 2021 14:58:46 -0700</lastBuildDate>
+ <pubDate>Wed, 04 Aug 2021 14:58:46 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Uber and Lyft Back New Gig Worker Ballot Proposal in Massachusetts</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F507%2Fuber.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big Gig has set up lobbying groups in five additional states in the last few months to challenge worker reclassification attempts that threaten their business models. Looking ahead... It passed after the companies spent more than $205 million promoting it—a record sum for a California ballot measure.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/04/uber-lyft-back-new-gig-worker-ballot-proposal-massachusetts</link>
+  <author>Jamie Wilde</author>
+  <categories>gig economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/04/uber-lyft-back-new-gig-worker-ballot-proposal-massachusetts</guid>
+  <pubDate>Wed, 04 Aug 2021 14:56:45 -0700</pubDate>
+ </item>
  <item>
   <title>Taking Action: Your Guide to Active Fixed Income</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6083%2Fafi.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Active bond funds are great portfolio components because they can diversify portfolios in a time of market uncertainty. Active bond funds can have more taxable returns than other funds. When managing an active fund, the portfolio manager uses their research and expertise to hand-select stocks or bonds for the fund. Hot dog, because we’re here to give you the FYI on active fixed income funds (or active bond funds) —and why you should consider adding them to your portfolio. So active bond funds’ low costs and fees can help you hold on to more of your initial investment while you wait. Their strategic selection of funds can help your investments blossom within the market.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/key-performance-indicators-july-31</guid>
   <pubDate>Fri, 30 Jul 2021 15:27:02 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1008%2Fgrowth.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But if you’re looking to tap into your savings in the next five years, you may want to look elsewhere than the stock market. Like you said, markets sometimes tank (the S&amp;P 500 has dropped more than 10% several times per decade), which is OK if you don’t need the money right away.  Here’s why investing pros like them: built-in diversification. Stock market index funds are known as the “safe” method of investing, but they can still tank with the market.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/30/money-matters</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/money-matters</guid>
-  <pubDate>Fri, 30 Jul 2021 15:22:01 -0700</pubDate>
  </item>
 
 </channel>
