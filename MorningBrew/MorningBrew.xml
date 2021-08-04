@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/04</link>
- <lastBuildDate>Wed, 04 Aug 2021 03:03:53 -0700</lastBuildDate>
- <pubDate>Wed, 04 Aug 2021 03:03:53 -0700</pubDate>
+ <lastBuildDate>Wed, 04 Aug 2021 08:23:51 -0700</lastBuildDate>
+ <pubDate>Wed, 04 Aug 2021 08:23:51 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Taking Action: Your Guide to Active Fixed Income</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6083%2Fafi.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Active bond funds are great portfolio components because they can diversify portfolios in a time of market uncertainty. Active bond funds can have more taxable returns than other funds. When managing an active fund, the portfolio manager uses their research and expertise to hand-select stocks or bonds for the fund. Hot dog, because we’re here to give you the FYI on active fixed income funds (or active bond funds) —and why you should consider adding them to your portfolio. So active bond funds’ low costs and fees can help you hold on to more of your initial investment while you wait. Their strategic selection of funds can help your investments blossom within the market.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/04/taking-action-guide-active-fixed-income</link>
+  <author>Morning Brew</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/04/taking-action-guide-active-fixed-income</guid>
+  <pubDate>Wed, 04 Aug 2021 08:21:51 -0700</pubDate>
+ </item>
  <item>
   <title>PepsiCo Plans to Sell Off Tropicana, Naked, And Other Juice Brands</title>
   <description>&lt;img src='https://media.giphy.com/media/xT0GqEACvHo31kSOFq/giphy.gif'&gt;&lt;br/&gt;Blame it on the C6H12O6 Despite a brief uptick in fruit juice sales last year (Vitamin C for immunity, more time for breakfast), the category is suffering the same long-term decline as sugary cereals.</description>
@@ -361,15 +370,6 @@
   <categories>personal finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/money-matters</guid>
   <pubDate>Fri, 30 Jul 2021 15:22:01 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers with...Build-a-Bear CEO Sharon Price John</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5990%2Fsharon_price_john.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;We don’t rank the products like that, but Baby Yoda’s a phenomenon, not just with us but across the board. The in-person aspect of Build-a-Bear stores feels like such a big part of the magic of creating your bear. We started to see an expansion in interest [among older demographics] when we got closer to 20 years old. It’s always new customers. Is there a particular licensed bear that’s been super popular? The kids market is hard. In addition to browsing the typical heart-stuffed plush, customers can head to the age-gated section of Build-a-Bear’s site, The Bear Cave, and nab a Deadpool panda. So how do we make sure our online experience has connectivity back to what we do in the store? This interview has been lightly edited and condensed for clarity. We looked into that because of so much social media saying, “Please, please, please make Animal Crossing.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/30/icebreakers-withbuildabear-ceo-sharon-price-john</link>
-  <author>Jamie Wilde</author>
-  <categories>qanda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/icebreakers-withbuildabear-ceo-sharon-price-john</guid>
-  <pubDate>Fri, 30 Jul 2021 14:42:04 -0700</pubDate>
  </item>
 
 </channel>
