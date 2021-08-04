@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/04</link>
- <lastBuildDate>Wed, 04 Aug 2021 15:03:46 -0700</lastBuildDate>
- <pubDate>Wed, 04 Aug 2021 15:03:46 -0700</pubDate>
+ <lastBuildDate>Wed, 04 Aug 2021 15:18:50 -0700</lastBuildDate>
+ <pubDate>Wed, 04 Aug 2021 15:18:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Why the Heck Are Olympic Track Stars Smashing So Many World Records?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6093%2Fathletics_-_olympics.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Olympic track stars are running like they’re members of the Cullen family, shattering world records in Tokyo this week.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/04/heck-olympic-track-stars-setting-smashing-world-records</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/04/heck-olympic-track-stars-setting-smashing-world-records</guid>
+  <pubDate>Wed, 04 Aug 2021 15:16:49 -0700</pubDate>
+ </item>
  <item>
   <title>Spikes in Covid Cases Among Children Have Some Officials Worried for Back-to-School</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6092%2Fcovid_kids.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Dr. Fauci said in May that by Q1 2022 we’ll have enough data to begin vaccinating kids of all ages. Looking ahead... But severe illness from Covid is still pretty rare among children, making up about 1.3%–3.5% of hospitalizations during the pandemic.</description>
@@ -361,15 +370,6 @@
   <categories>travel</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/senate-subcommittee-holds-hearing-discuss-overcrowded-national-parks</guid>
   <pubDate>Fri, 30 Jul 2021 15:42:03 -0700</pubDate>
- </item>
- <item>
-  <title>The Federal Eviction Moratorium Officially Ends Today</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5993%2Fmoving_boxes.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Out of the $47 billion in rental aid that was approved, only $3 billion had been used as of June. some states have already extended their own eviction moratorium past July, but 8.2 million adults remain behind on their rent or mortgage as of July 5, per the Census Bureau. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/30/federal-eviction-moratorium-officially-ends-today</link>
-  <author>Matty Merritt</author>
-  <categories>housing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/federal-eviction-moratorium-officially-ends-today</guid>
-  <pubDate>Fri, 30 Jul 2021 15:36:59 -0700</pubDate>
  </item>
 
 </channel>
