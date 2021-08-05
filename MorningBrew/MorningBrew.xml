@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/05</link>
- <lastBuildDate>Thu, 05 Aug 2021 14:38:48 -0700</lastBuildDate>
- <pubDate>Thu, 05 Aug 2021 14:38:48 -0700</pubDate>
+ <lastBuildDate>Thu, 05 Aug 2021 14:48:49 -0700</lastBuildDate>
+ <pubDate>Thu, 05 Aug 2021 14:48:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Biden Calls Pushes Auto Industry Toward Electrification</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6105%2Fus-politics-climate-auto-.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Still, the US is behind the global EV curve:Electric cars currently make up just 2% of new auto sales in the US, compared to 6% in China and 10% in Europe.  In a show of solidarity with the White House, the automakers pledged to make electric vehicle sales 40%–50% of their total by 2030... Biden’s goal is to cut emissions by 50% below 2005 levels by the end of the decade, and to do that he’s targeting transportation, the industry accounting for 29% of all US emissions.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/05/biden-calls-pushes-auto-industry-toward-electrification</link>
+  <author>Neal Freyman</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/biden-calls-pushes-auto-industry-toward-electrification</guid>
+  <pubDate>Thu, 05 Aug 2021 14:46:48 -0700</pubDate>
+ </item>
  <item>
   <title>BlackRock, Wells Fargo, and Amazon Latest Companies to Push Back Office Reopenings Due to Delta Surge</title>
   <description>&lt;img src='https://media.giphy.com/media/HQs24aKY8Y7eTzFSSQ/giphy.gif'&gt;&lt;br/&gt;Google and Apple pushed back their office return to October and Google said that all employees who want to come in will need to be vaccinated. Both banks brought employees back to the office earlier this summer and said this week that they haven’t changed their return-to-work policies.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/key-performance-indicators-july-31?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 31 Jul 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Senate Subcommittee Holds Hearing to Discuss Overcrowded National Parks</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5994%2Fyellowstone_traffic.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;31+ million people visited a National Park in June alone, resulting in overcrowding and hours-long wait times for trails and entrance into parks. From 2011–2019, US park staff decreased 16%.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/30/senate-subcommittee-holds-hearing-discuss-overcrowded-national-parks?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/senate-subcommittee-holds-hearing-discuss-overcrowded-national-parks?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 31 Jul 2021 03:02:04 -0700</pubDate>
  </item>
 
