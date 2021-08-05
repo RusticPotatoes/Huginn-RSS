@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/04</link>
- <lastBuildDate>Wed, 04 Aug 2021 17:33:52 -0700</lastBuildDate>
- <pubDate>Wed, 04 Aug 2021 17:33:52 -0700</pubDate>
+ <lastBuildDate>Wed, 04 Aug 2021 17:38:51 -0700</lastBuildDate>
+ <pubDate>Wed, 04 Aug 2021 17:38:51 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: August 5</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4017%2Frihanna_fenty_fashion.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Pioneer Works) Read: Beauty and solace in the abandoned worlds of Roblox. Here’s a video of the first two hours of the network, which includes some incredible music.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/04/key-performance-indicators-august-5</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/04/key-performance-indicators-august-5</guid>
+  <pubDate>Wed, 04 Aug 2021 17:36:50 -0700</pubDate>
+ </item>
  <item>
   <title>Is Robinhood the Newest Memestock?</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2127%2Frobinhood_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Robinhood was the No. 1 stock mentioned on Reddit’s WallStreetBets forum, and was also the most traded stock on Fidelity. Increased options activity has been a hallmark of meme stock mania, and accounted for 46% of Robinhood’s revenue in 2020. Here’s some evidence:Total retail volume for Robinhood increased about 10x on Tuesday from the previous day.  </description>
@@ -361,15 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/elon-musk-responds-new-tesla-books-claims?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 31 Jul 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Elon Musk Responds To New Tesla Book’s Claims</title>
-  <description>&lt;img src='https://media.giphy.com/media/duKV1YBPhDtd9efnrR/giphy.gif'&gt;&lt;br/&gt; Musk was clearly feeling spicy because later in the day he tweeted, “Apple app store fees are a de facto global tax on the internet. The context: According to Higgins’s book, Apple boss Tim Cook and Musk were on the phone discussing a potential acquisition of Tesla by Apple. Musk said. It all started when a review of a new book about Tesla by the WSJ’s Tim Higgins revealed that Elon Musk told the CEO of Apple that he wanted to become the CEO of Apple. He’s referencing the lawsuit filed by Fortnite developer Epic Games that attacks Apple’s meaty cut of App Store revenue. Since 2014 Apple has been developing an autonomous, electric vehicle that would compete with Tesla.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/30/elon-musk-responds-new-tesla-books-claims</link>
-  <author>Jamie Wilde</author>
-  <categories>ceos</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/elon-musk-responds-new-tesla-books-claims</guid>
-  <pubDate>Fri, 30 Jul 2021 15:42:03 -0700</pubDate>
  </item>
 
 </channel>
