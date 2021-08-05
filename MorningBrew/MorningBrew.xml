@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/05</link>
- <lastBuildDate>Thu, 05 Aug 2021 14:48:49 -0700</lastBuildDate>
- <pubDate>Thu, 05 Aug 2021 14:48:49 -0700</pubDate>
+ <lastBuildDate>Thu, 05 Aug 2021 14:53:48 -0700</lastBuildDate>
+ <pubDate>Thu, 05 Aug 2021 14:53:48 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: August 6</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6106%2Fdisney_s_star_wars_hotel.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Oliver Burkeman) Read: The three-or-four-hours rule for getting creative work done.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/05/key-performance-indicators-august-6</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/key-performance-indicators-august-6</guid>
+  <pubDate>Thu, 05 Aug 2021 14:51:47 -0700</pubDate>
+ </item>
  <item>
   <title>Biden Calls Pushes Auto Industry Toward Electrification</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6105%2Fus-politics-climate-auto-.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Still, the US is behind the global EV curve:Electric cars currently make up just 2% of new auto sales in the US, compared to 6% in China and 10% in Europe.  In a show of solidarity with the White House, the automakers pledged to make electric vehicle sales 40%–50% of their total by 2030... Biden’s goal is to cut emissions by 50% below 2005 levels by the end of the decade, and to do that he’s targeting transportation, the industry accounting for 29% of all US emissions.</description>
@@ -360,15 +369,6 @@
   <author>Ryan Lasker</author>
   <categories>personal finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/money-matters?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 31 Jul 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: July 31</title>
-  <description>&lt;img src='https://media.giphy.com/media/Fc26lykaXWxR6/giphy.gif'&gt;&lt;br/&gt;For the first time, the US men’s soccer team got directly involved in the women’s wage discrimination lawsuit against the US Soccer Federation.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/30/key-performance-indicators-july-31?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/key-performance-indicators-july-31?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 31 Jul 2021 03:02:04 -0700</pubDate>
  </item>
 
