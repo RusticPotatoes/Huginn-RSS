@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/04/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/05/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/04</link>
- <lastBuildDate>Wed, 04 Aug 2021 17:38:51 -0700</lastBuildDate>
- <pubDate>Wed, 04 Aug 2021 17:38:51 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/05</link>
+ <lastBuildDate>Thu, 05 Aug 2021 14:38:48 -0700</lastBuildDate>
+ <pubDate>Thu, 05 Aug 2021 14:38:48 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>BlackRock, Wells Fargo, and Amazon Latest Companies to Push Back Office Reopenings Due to Delta Surge</title>
+  <description>&lt;img src='https://media.giphy.com/media/HQs24aKY8Y7eTzFSSQ/giphy.gif'&gt;&lt;br/&gt;Google and Apple pushed back their office return to October and Google said that all employees who want to come in will need to be vaccinated. Both banks brought employees back to the office earlier this summer and said this week that they haven’t changed their return-to-work policies.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/05/blackrock-wells-fargo-amazon-latest-companies-push-back-office-reopenings-due-delta-surge</link>
+  <author>Matty Merritt</author>
+  <categories>return to office</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/blackrock-wells-fargo-amazon-latest-companies-push-back-office-reopenings-due-delta-surge</guid>
+  <pubDate>Thu, 05 Aug 2021 14:36:43 -0700</pubDate>
+ </item>
+ <item>
+  <title>Mattel Debuts Barbies in Likenesses of Frontline Health Workers</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6104%2Fmattel_barbie_dolls.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;They all have Barbie dolls in their likenesses. Why it matters: Mattel had been criticized for depicting an unrealistic portrait of womanhood with its original white, blonde doll, which turned 60 in 2019. What does Covid-19 vaccine developer Sarah Gilbert have in common with Beyoncé and Marilyn Monroe?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/05/mattel-debuts-barbies-likenesses-frontline-health-workers</link>
+  <author>Sherry Qin</author>
+  <categories>toys</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/mattel-debuts-barbies-likenesses-frontline-health-workers</guid>
+  <pubDate>Thu, 05 Aug 2021 14:36:43 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: August 5</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4017%2Frihanna_fenty_fashion.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Pioneer Works) Read: Beauty and solace in the abandoned worlds of Roblox. Here’s a video of the first two hours of the network, which includes some incredible music.</description>
@@ -351,24 +369,6 @@
   <author>Matty Merritt</author>
   <categories>travel</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/senate-subcommittee-holds-hearing-discuss-overcrowded-national-parks?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 31 Jul 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>The Federal Eviction Moratorium Officially Ends Today</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5993%2Fmoving_boxes.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Out of the $47 billion in rental aid that was approved, only $3 billion had been used as of June. some states have already extended their own eviction moratoriums past July, but 8.2 million adults remain behind on their rent or mortgage as of July 5, per the Census Bureau. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/30/federal-eviction-moratorium-officially-ends-today?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>housing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/federal-eviction-moratorium-officially-ends-today?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 31 Jul 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Elon Musk Responds To New Tesla Book’s Claims</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5996%2Fgermany-automobile-tesla-.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The context: According to Higgins’s book, Apple boss Tim Cook and Musk were on the phone discussing a potential acquisition of Tesla by Apple.  Musk was clearly feeling spicy because later in the day he tweeted, “Apple app store fees are a de facto global tax on the internet. Since 2014, Apple has been developing an autonomous, electric vehicle that would compete with Tesla, a project Musk has mocked for years.  Musk's been at this for a whileOn Tuesday, Musk turned an ordinarily dull earnings call for Tesla’s Q2 into a popcorn-and-white-wine event when he attacked Apple not once but twice.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/30/elon-musk-responds-new-tesla-books-claims?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/elon-musk-responds-new-tesla-books-claims?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 31 Jul 2021 03:02:04 -0700</pubDate>
  </item>
 
