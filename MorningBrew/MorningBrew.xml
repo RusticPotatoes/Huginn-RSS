@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/06</link>
- <lastBuildDate>Fri, 06 Aug 2021 11:48:49 -0700</lastBuildDate>
- <pubDate>Fri, 06 Aug 2021 11:48:49 -0700</pubDate>
+ <lastBuildDate>Fri, 06 Aug 2021 13:48:43 -0700</lastBuildDate>
+ <pubDate>Fri, 06 Aug 2021 13:48:43 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Icebreakers with...Erika Thompson of Texas Beeworks</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6109%2Ferika_thompson.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But she’s most famous for documenting her calm bee removal services on TikTok.After strapping into a bee suit, we asked Thompson a few Icebreakers—but please, don’t try this at home. I was in orchestra, I was the captain of my high school bowling team, and I loved Star Wars. Then, one day I was sitting at work at my office job and I opened my email and saw a note from Jeopardy! And then after many, many other things, I'm putting together social content.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/06/icebreakers-witherika-thompson-texas-beeworks</link>
+  <author>Matty Merritt</author>
+  <categories>qanda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/icebreakers-witherika-thompson-texas-beeworks</guid>
+  <pubDate>Fri, 06 Aug 2021 13:46:52 -0700</pubDate>
+ </item>
  <item>
   <title>Stock Watch: Running Shoes</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6118%2Fstock_watch_running_shoes.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
@@ -361,15 +370,6 @@
   <categories>olympics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/01/roc-olympics</guid>
   <pubDate>Sun, 01 Aug 2021 16:41:58 -0700</pubDate>
- </item>
- <item>
-  <title>The Pandemic Boom Times Are Over for Companies like Amazon, Pinterest</title>
-  <description>&lt;img src='https://media.giphy.com/media/3oEjI4MMUuv9TZwXCM/giphy.gif'&gt;&lt;br/&gt;Companies that enjoyed a surge in sales during the worst of the pandemic last year are confronting a new era of more socializing with people, and less socializing with an imaginary paper towel friend.    Pinterest stock plunged 18% Friday after reporting a 5% decline in global users last quarter.  Amazon, a poster child for the Covid boom, fell 7.6% Friday for their worst day in more than a year, dropping Jeff Bezos below French luxury mogul Bernard Arnault on the list of world’s richest people.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/01/pandemic-boom-times-companies-like-amazon-pinterest</link>
-  <author>Neal Freyman</author>
-  <categories>corporate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/01/pandemic-boom-times-companies-like-amazon-pinterest</guid>
-  <pubDate>Sun, 01 Aug 2021 16:37:07 -0700</pubDate>
  </item>
 
 </channel>
