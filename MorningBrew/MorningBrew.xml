@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/06</link>
- <lastBuildDate>Fri, 06 Aug 2021 15:13:47 -0700</lastBuildDate>
- <pubDate>Fri, 06 Aug 2021 15:13:47 -0700</pubDate>
+ <lastBuildDate>Fri, 06 Aug 2021 15:18:49 -0700</lastBuildDate>
+ <pubDate>Fri, 06 Aug 2021 15:18:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: August 7</title>
+  <description>&lt;img src='https://media.giphy.com/media/o36clJK9yslGzJLp56/giphy.gif'&gt;&lt;br/&gt;It estimates that 2.5 million weddings will take place next year, compared to an average of 2.1 million weddings/year pre-pandemic and 1.2 million weddings in 2020. ! (The Atlantic)</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/06/key-performance-indicators-august-7</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/key-performance-indicators-august-7</guid>
+  <pubDate>Fri, 06 Aug 2021 15:16:48 -0700</pubDate>
+ </item>
  <item>
   <title>Money Matters: Navigating Small Business Taxes</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F287%2Fsmall_business_on_a_phone.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Become one of the first subscribers. Freelancers often open LLCs, which can protect your personal assets from business debt. You might need to make estimated tax payments quarterly. Every expense you incur—from software to coffees with clients—goes in the software. —HaleyBefore taking on clients, you’ll need to form a legal business, which matters in part because your structure determines how you’re taxed. ) Pick one that creates functional invoices, makes inputting expenses easy, and is in your budget.</description>
@@ -361,15 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/health-officials-say-vulnerable-americans-may-need-vaccine-booster-shots</guid>
   <pubDate>Mon, 02 Aug 2021 15:22:03 -0700</pubDate>
- </item>
- <item>
-  <title>The Infrastructure Bill: What You Need to Know</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5297%2Fbridge_in_virginia.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The White House said the money will come from reclaiming unused Covid aid funds, collecting unpaid taxes on cryptocurrency investments, and selling billions of dollars worth of oil from reserves.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/02/infrastructure-bill-need-know</link>
-  <author>Sherry Qin</author>
-  <categories>infrastructure</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/infrastructure-bill-need-know</guid>
-  <pubDate>Mon, 02 Aug 2021 15:12:06 -0700</pubDate>
  </item>
 
 </channel>
