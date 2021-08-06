@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/06</link>
- <lastBuildDate>Fri, 06 Aug 2021 14:03:47 -0700</lastBuildDate>
- <pubDate>Fri, 06 Aug 2021 14:03:47 -0700</pubDate>
+ <lastBuildDate>Fri, 06 Aug 2021 14:18:52 -0700</lastBuildDate>
+ <pubDate>Fri, 06 Aug 2021 14:18:52 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Make It Work: I'm a Little Lost</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  The first thing you should ask yourself is whether it’s a specific aspect of your current job that you dislike, or if it’s the line of work that you find unfulfilling. Most people who haven’t found a job that they are passionate about have stopped looking for one. Pick up a book on something you know nothing about (the Brew has a whole shelf full of recs). I don't like my current job but I have no idea what I would rather do instead. Some of the most interesting 40-year-olds still don’t.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/06/make-work-im-little-lost</link>
+  <author>Neal Freyman</author>
+  <categories>work life</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/make-work-im-little-lost</guid>
+  <pubDate>Fri, 06 Aug 2021 14:16:51 -0700</pubDate>
+ </item>
  <item>
   <title>Shein is the Fastest-Growing E-commerce Company You’ve Maybe Never Heard Of</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6126%2Fshein_addison_rae.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Now that you’re listening, here’s the backgroundShein is an online-only, fast-fashion retailer based in China, with a focus on women’s apparel. Fast fashion 2.0, known as “ultra-fast fashion” and popularized by brands like ASOS and Boohoo, got that process down to a week or two. Shein turns around a new design in as little as three days. As factory production gears up, Shein. If you’re not a Gen Z woman with a penchant for online shopping, you may have never heard of the world’s fastest-growing e-commerce company, Shein. If you are in that demographic, the brand likely follows you around the internet like an overly attached chihuahua. But moving this fast has resulted in Shein breaking things. An in-house design team then sends it to a Shein supplier located in China’s manufacturing hub, Guangzhou.</description>
@@ -361,15 +370,6 @@
   <categories>crypto crash course</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/time-care-cryptocurrency</guid>
   <pubDate>Sun, 01 Aug 2021 22:07:01 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 2</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6014%2Fsymptomatic_breakthrough_covid-19_infections.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Square cofounder and CEO Jack Dorsey announced that his fintech company was buying Afterpay, an Australian “buy now, pay later” (BNPL) giant, for $29 billion in stock. (Amanda Knox) Read: Who owns my name?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/01/key-performance-indicators-august-2</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/01/key-performance-indicators-august-2</guid>
-  <pubDate>Sun, 01 Aug 2021 16:41:58 -0700</pubDate>
  </item>
 
 </channel>
