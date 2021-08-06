@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/05/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/06/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/06/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/05</link>
- <lastBuildDate>Thu, 05 Aug 2021 14:53:48 -0700</lastBuildDate>
- <pubDate>Thu, 05 Aug 2021 14:53:48 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/06</link>
+ <lastBuildDate>Fri, 06 Aug 2021 03:03:45 -0700</lastBuildDate>
+ <pubDate>Fri, 06 Aug 2021 03:03:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: August 6</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6107%2Fturkey-politics-media-tri.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Oliver Burkeman) Read: The three-or-four-hours rule for getting creative work done.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/05/key-performance-indicators-august-6?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/key-performance-indicators-august-6?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 06 Aug 2021 03:01:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>Mattel Debuts Barbies in Likenesses of Frontline Health Workers</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6104%2Fmattel_barbie_dolls.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;They all have Barbie dolls in their likenesses. Why it matters: Mattel had been criticized for depicting an unrealistic portrait of womanhood with its original white, blonde doll, which turned 60 in 2019. What does Covid-19 vaccine developer Sarah Gilbert have in common with Beyoncé and Marilyn Monroe?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/05/mattel-debuts-barbies-likenesses-frontline-health-workers?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>toys</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/mattel-debuts-barbies-likenesses-frontline-health-workers?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 06 Aug 2021 03:01:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>BlackRock, Wells Fargo, and Amazon Latest Companies to Push Back Office Reopenings Due to Delta Surge</title>
+  <description>&lt;img src='https://media.giphy.com/media/HQs24aKY8Y7eTzFSSQ/giphy.gif'&gt;&lt;br/&gt;Google and Apple moved their office return to October and Google said that all employees who want to come in will need to be vaccinated. Both banks brought employees back to the office earlier this summer and said this week that they haven’t changed their return-to-work policies.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/05/blackrock-wells-fargo-amazon-latest-companies-push-back-office-reopenings-due-delta-surge?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/blackrock-wells-fargo-amazon-latest-companies-push-back-office-reopenings-due-delta-surge?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 06 Aug 2021 03:01:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>Biden Calls Pushes Auto Industry Toward Electrification</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6105%2Fus-politics-climate-auto-.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Still, the US is behind the global EV curve:Electric cars currently make up just 2% of new auto sales in the US, compared to 6% in China and 10% in Europe.  In a show of solidarity with the White House, the automakers pledged to make electric vehicle sales 40%–50% of their total by 2030... Biden’s goal is to cut emissions by 50% below 2005 levels by the end of the decade, and to do that he’s targeting transportation, the industry accounting for 29% of all US emissions.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/05/biden-calls-pushes-auto-industry-toward-electrification?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/biden-calls-pushes-auto-industry-toward-electrification?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 06 Aug 2021 03:01:44 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: August 6</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6106%2Fdisney_s_star_wars_hotel.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Oliver Burkeman) Read: The three-or-four-hours rule for getting creative work done.</description>
@@ -334,42 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/01/corporations-requiring-vaccines</guid>
   <pubDate>Sun, 01 Aug 2021 16:37:07 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: August 2</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6012%2Fus-transport-infrastructu.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Economists are expecting 788,000 new jobs, but whatever it is it’ll be notable because Fed Chair Jerome Powell will use the report to help decide when to wind down the Fed’s stimulus programs. The Olympics close up shop on Sunday. Fall is coming: The NFL preseason begins with the Hall of Fame Game on Thursday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/01/week-ahead-august-2</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/01/week-ahead-august-2</guid>
-  <pubDate>Sun, 01 Aug 2021 16:27:03 -0700</pubDate>
- </item>
- <item>
-  <title>Business Horoscopes for August 2021</title>
-  <description>&lt;img src='https://media.giphy.com/media/FWtVYDHIxgGgE/giphy.gif'&gt;&lt;br/&gt;  I know you’re concerned about personal growth, but how’s your love life doing month over month, huh? You’re rambunctious. But August is a month for reflection and stability. It’s okay to cry a little (or a lot) when you inevitably re-sign for 18 more months. It’s because you’ll lose your job, but still.  Leo: (July 23–August 22)  We know you’re craving a vacation, but if you spend the summer gallivanting across Europe you will end up hugely in debt. Disclaimer: Neither of us is qualified to give financial nor astrological advice. Your friends are tired of nudging you, and we all know you’re not going to “get them back next time.” You’ve been buying these confusing little guys left and right. Libra: (September 23–October 22)August is the month when you’ll finally recover the password to your Coinbase account you opened in 2017. It’s summer.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/01/business-horoscopes-august-2021</link>
-  <author>Toby Howell</author>
-  <categories>fun</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/01/business-horoscopes-august-2021</guid>
-  <pubDate>Sun, 01 Aug 2021 15:37:00 -0700</pubDate>
- </item>
- <item>
-  <title>Is BTS Using More English Lyrics to Appeal to Western Audiences? An Analysis.</title>
-  <description>&lt;img src='https://media.giphy.com/media/ibpyzXXfbiy1UkGRRO/giphy.gif'&gt;&lt;br/&gt; But are non-English lyrics holding South Korean pop acts back from even greater success? Overall, we found a consistent rise in the share of English lyrics in BTS’s music from 2013 on. By calculating the percentage of English words in each song, we aimed to track whether BTS has increased its usage of English lyrics over time.  These song lyrics, streamed hundreds of millions of times across the world, are the product of South Korean boyband sensation BTS. In 2020, BTS’s song On became just the 20th track sung primarily in a language other than English to land in the Top 10 on the Billboard charts...  Bottom line: Undoubtedly English-speaking audiences will gravitate toward English music lyrics.  Why it mattersK-pop, or Korean pop music, has become a cultural and financial force on the global music stage.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/31/bts-using-english-lyrics-appeal-western-audiences-analysis</link>
-  <author>Yiran Yu</author>
-  <categories>music</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/31/bts-using-english-lyrics-appeal-western-audiences-analysis</guid>
-  <pubDate>Sat, 31 Jul 2021 09:12:07 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F1008%2Fgrowth.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Stock market index funds are known as the “safe” method of investing, but they can still tank with the market. Submit your money woes here. PS: Later this summer, Ryan will be writing a twice-weekly personal finance newsletter to make you smarter about your money. Still, since their inception, the S&amp;P 500, Nasdaq, and the Dow have recovered from every loss and reached new heights.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/30/money-matters?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/30/money-matters?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 31 Jul 2021 03:02:04 -0700</pubDate>
  </item>
 
 </channel>
