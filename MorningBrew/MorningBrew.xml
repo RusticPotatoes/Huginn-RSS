@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/06</link>
- <lastBuildDate>Fri, 06 Aug 2021 15:08:48 -0700</lastBuildDate>
- <pubDate>Fri, 06 Aug 2021 15:08:48 -0700</pubDate>
+ <lastBuildDate>Fri, 06 Aug 2021 15:13:47 -0700</lastBuildDate>
+ <pubDate>Fri, 06 Aug 2021 15:13:47 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Money Matters: Navigating Small Business Taxes</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F287%2Fsmall_business_on_a_phone.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Become one of the first subscribers. Freelancers often open LLCs, which can protect your personal assets from business debt. You might need to make estimated tax payments quarterly. Every expense you incur—from software to coffees with clients—goes in the software. —HaleyBefore taking on clients, you’ll need to form a legal business, which matters in part because your structure determines how you’re taxed. ) Pick one that creates functional invoices, makes inputting expenses easy, and is in your budget.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/06/money-mattersnavigating-small-business-taxes</link>
+  <author>Ryan Lasker</author>
+  <categories>personal finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/money-mattersnavigating-small-business-taxes</guid>
+  <pubDate>Fri, 06 Aug 2021 15:11:46 -0700</pubDate>
+ </item>
  <item>
   <title>US Hiring Surges as Employers Add 943,000 Jobs in July</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6129%2Fhired.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Still, the US economy remains 5.7 million jobs short of where it was pre-pandemic, and jobs in some industries may never come back...  “I have yet to find a blemish in this jobs report. Motion picture and sound recording industries had 30.1% fewer jobs in July than in Feb 2020.</description>
@@ -361,15 +370,6 @@
   <categories>infrastructure</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/infrastructure-bill-need-know</guid>
   <pubDate>Mon, 02 Aug 2021 15:12:06 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 3</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6026%2Flord_of_the_rings_amazon.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Current Affairs)  Read: Who actually gets to create Black pop culture? Graham is the first “breakthrough” case in the Senate.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/02/key-performance-indicators-august-3</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/key-performance-indicators-august-3</guid>
-  <pubDate>Mon, 02 Aug 2021 14:51:58 -0700</pubDate>
  </item>
 
 </channel>
