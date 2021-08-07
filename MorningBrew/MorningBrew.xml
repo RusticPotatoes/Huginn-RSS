@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/06/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/06/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/07/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/06</link>
- <lastBuildDate>Fri, 06 Aug 2021 15:18:49 -0700</lastBuildDate>
- <pubDate>Fri, 06 Aug 2021 15:18:49 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/07</link>
+ <lastBuildDate>Sat, 07 Aug 2021 03:03:50 -0700</lastBuildDate>
+ <pubDate>Sat, 07 Aug 2021 03:03:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Money Matters: Navigating Small Business Taxes</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F287%2Fsmall_business_on_a_phone.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Become one of the first subscribers. Freelancers often open LLCs, which can protect your personal assets from business debt. You might need to make estimated tax payments quarterly. Let a tax pro take it to the finish line for at least the first couple of years. Every expense you incur—from software to coffees with clients—goes in the software. ) Pick one that creates functional invoices, makes inputting expenses easy, and is in your budget.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/06/money-mattersnavigating-small-business-taxes?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Ryan Lasker</author>
+  <categories>personal finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/money-mattersnavigating-small-business-taxes?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 07 Aug 2021 03:01:49 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 7</title>
+  <description>&lt;img src='https://media.giphy.com/media/o36clJK9yslGzJLp56/giphy.gif'&gt;&lt;br/&gt;It estimates that 2.5 million weddings will take place next year, compared to an average of 2.1 million weddings/year pre-pandemic and 1.2 million weddings in 2020. ! (The Atlantic)</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/06/key-performance-indicators-august-7?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/key-performance-indicators-august-7?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 07 Aug 2021 03:01:49 -0700</pubDate>
+ </item>
+ <item>
+  <title>Dixie Fire Becomes Third-Largest Fire in California History</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6132%2Ftopshot-us-california-fir.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Dixie Fire in California became the third-largest fire in state history yesterday.  Turkey has also suffered from its worst wildfires in decades for the last 10 days. Southern Europe is also burning.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/06/dixie-fire-becomes-thirdlargest-fire-california-history?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/dixie-fire-becomes-thirdlargest-fire-california-history?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 07 Aug 2021 03:01:49 -0700</pubDate>
+ </item>
+ <item>
+  <title>US Hiring Surges as Employers Add 943,000 Jobs in July</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6129%2Fhired.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;“I have yet to find a blemish in this jobs report. US employers added 943,000 jobs in July, marking the best monthly performance since August 2020, and the unemployment rate ticked down to 5.4% from 5.9% in June.   The motion picture and sound recording industries had 30.1% fewer jobs in July than in February 2020.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/06/us-hiring-surges-employers-add-943000-jobs-july?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>jobs</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/us-hiring-surges-employers-add-943000-jobs-july?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 07 Aug 2021 03:01:49 -0700</pubDate>
+ </item>
+ <item>
+  <title>Singapore Goes Ahead With Relaxing Curbs as Countries Learn to Live With Covid</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6131%2Fdaily_life_in_singapore.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;without new mitigation measures. Compare that to the more lax approach employed by countries like the US and the UK. Why it matters: Singapore is the most significant example yet of a country pivoting from a “Covid Zero” approach to a strategy that accepts Covid as “endemic,” meaning it’s always present but remains at a manageable level. “Living with Covid”Before its pivot, Singapore was part of a group of Asia-Pacific countries that played Whac-A-Mole to snuff out any trace of the coronavirus in an approach known as “Zero Covid.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/06/singapore-goes-ahead-relaxing-curbs-countries-learn-live-covid?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/singapore-goes-ahead-relaxing-curbs-countries-learn-live-covid?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 07 Aug 2021 03:01:48 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: August 7</title>
   <description>&lt;img src='https://media.giphy.com/media/o36clJK9yslGzJLp56/giphy.gif'&gt;&lt;br/&gt;It estimates that 2.5 million weddings will take place next year, compared to an average of 2.1 million weddings/year pre-pandemic and 1.2 million weddings in 2020. ! (The Atlantic)</description>
@@ -325,51 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/blackstonebacked-firm-buy-reese-witherspoons-media-company?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 03 Aug 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 3</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6026%2Flord_of_the_rings_amazon.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Current Affairs)  Read: Who actually gets to create Black pop culture? Graham is the first “breakthrough” case in the Senate.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/02/key-performance-indicators-august-3?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/key-performance-indicators-august-3?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 03 Aug 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>The Infrastructure Bill: What You Need to Know</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5297%2Fbridge_in_virginia.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The White House said the money will come from reclaiming unused Covid aid funds, collecting unpaid taxes on cryptocurrency investments, and selling billions of dollars worth of oil from reserves.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/02/infrastructure-bill-need-know?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/infrastructure-bill-need-know?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 03 Aug 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Goldman Sachs Latest Wall Street Bank to Bump First-Year Analyst Pay</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6033%2Fchoose_me.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: In March, an internal survey of Goldman analysts revealed they worked 100-hour weeks in a pressure cooker environment. But as other banks hiked salaries and offered perks like free Pelotons, Goldman felt like it had no choice but to one-up its rivals.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/02/goldman-sachs-latest-wall-street-bank-bump-firstyear-analyst-pay?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>banking</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/goldman-sachs-latest-wall-street-bank-bump-firstyear-analyst-pay?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 03 Aug 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Health Officials Say Vulnerable Americans May Need Vaccine Booster Shots</title>
-  <description>&lt;img src='https://media.giphy.com/media/FRkBbAdRf2jTfahZaA/giphy.gif'&gt;&lt;br/&gt;It plans to ask for regulatory approval in the US for a booster shot this month.   We should note: Gottlieb is on the Pfizer board.   There's no clear roadmap, but momentum is building to offer some Americans a booster shot.  Britain will begin offering a booster of a Covid vaccine starting in September, the Telegraph reported. Bahrain is giving Pfizer boosters to some people who received China’s Sinopharm vaccine. Pfizer suggested a third shot would help bolster immunity in vulnerable populations as the Delta variant spreads.  Other governments have made similar moves:Israel began giving a booster shot to people over 60 this past weekend.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/02/health-officials-say-vulnerable-americans-may-need-vaccine-booster-shots?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/health-officials-say-vulnerable-americans-may-need-vaccine-booster-shots?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 03 Aug 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Health Officials Say Vulnerable Americans May Need Vaccine Booster Shots</title>
-  <description>&lt;img src='https://media.giphy.com/media/SBEFjvLO5wbfvBnO4Y/giphy.gif'&gt;&lt;br/&gt;It plans to seek regulatory approval in the US for a booster shot this month. We should note: Gottlieb is on the Pfizer board. Bahrain is giving Pfizer boosters to some people who received China’s Sinopharm vaccine.   Just like the CDC made a U-turn on mask policies last week, US health officials have reversed their tone from a few weeks ago by saying vulnerable Americans may need booster shots.  Former FDA Chief Scott Gottlieb told CNBC, “My guess is sometime by September or October we will be giving booster shots to older individuals and certainly immunocompromised.”  </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/02/health-officials-say-vulnerable-americans-may-need-vaccine-booster-shots</link>
-  <author>Sherry Qin</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/health-officials-say-vulnerable-americans-may-need-vaccine-booster-shots</guid>
-  <pubDate>Mon, 02 Aug 2021 15:22:03 -0700</pubDate>
  </item>
 
 </channel>
