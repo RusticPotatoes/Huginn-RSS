@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/08</link>
- <lastBuildDate>Sun, 08 Aug 2021 16:53:47 -0700</lastBuildDate>
- <pubDate>Sun, 08 Aug 2021 16:53:47 -0700</pubDate>
+ <lastBuildDate>Sun, 08 Aug 2021 16:58:46 -0700</lastBuildDate>
+ <pubDate>Sun, 08 Aug 2021 16:58:46 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: August 9</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5115%2Ffull_restaurant.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Nearly 80% of US workers now earn a minimum of $15/hour, compared to 60% in 2014. Read: What do you do with a billion grams of surplus weed?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/08/key-performance-indicators-august-9</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/key-performance-indicators-august-9</guid>
+  <pubDate>Sun, 08 Aug 2021 16:56:45 -0700</pubDate>
+ </item>
  <item>
   <title>Senate Debates Crypto Provision That Opponents Say Would Harm Industry in US</title>
   <description>&lt;img src='https://media.giphy.com/media/3DzwbT4oF52JG/giphy.gif'&gt;&lt;br/&gt;The goal is to use the $28 billion raised through tighter crypto regulation to help pay for the infrastructure bill. Tucked in to the $1.2 trillion infrastructure bill is a provision that expands the definition of a crypto “broker,” and increases reporting requirements by those brokers to the IRS.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>food and beverage</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/pepsico-plans-sell-off-tropicana-naked-juice-brands</guid>
-  <pubDate>Tue, 03 Aug 2021 15:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>NYC, Tyson, and Microsoft Announce Vaccine Mandates</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6080%2Fus-health-virus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Meanwhile, masks won’t be required indoors because, according to de Blasio, they could disincentivize New Yorkers from getting the vaccine. Meat supplier Tyson will require all of its 120,000 US workers to be vaccinated. That divide’s best illustrated by Walmart, where only corporate workers need to show proof of vaccination.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/03/nyc-tyson-microsoft-announce-vaccine-mandates</link>
-  <author>Jamie Wilde</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/nyc-tyson-microsoft-announce-vaccine-mandates</guid>
   <pubDate>Tue, 03 Aug 2021 15:02:00 -0700</pubDate>
  </item>
 
