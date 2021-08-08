@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/08</link>
- <lastBuildDate>Sun, 08 Aug 2021 05:43:49 -0700</lastBuildDate>
- <pubDate>Sun, 08 Aug 2021 05:43:49 -0700</pubDate>
+ <lastBuildDate>Sun, 08 Aug 2021 16:43:48 -0700</lastBuildDate>
+ <pubDate>Sun, 08 Aug 2021 16:43:48 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Tokyo Olympics: By the Numbers</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6143%2Folympics_day_9_-_athletic.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;From the moving family watch party videos to the thrusting Australian swim coach, the Tokyo Olympics gave us all a desperately needed distraction while raising thorny questions about the future of the Games. 113: The number of total medals the US won at the Olympics, 25 more than second-place China. 42%: The decrease in viewership from the 2016 Rio Olympics to the Tokyo Games through Tuesday. Team USA also made a last-second comeback to grab the most number of gold medals at the Games, 39 to China’s 38.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/08/tokyo-olympics-numbers</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/tokyo-olympics-numbers</guid>
+  <pubDate>Sun, 08 Aug 2021 16:41:47 -0700</pubDate>
+ </item>
  <item>
   <title>Kriss Kross: Small Pets</title>
   <description>&lt;img src='https://media.giphy.com/media/dxywOfwJmdEd0EIdgB/giphy.gif'&gt;&lt;br/&gt;</description>
@@ -361,15 +370,6 @@
   <categories>crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/sec-chief-gary-gensler-calls-crypto-wild-west-speech</guid>
   <pubDate>Tue, 03 Aug 2021 14:37:06 -0700</pubDate>
- </item>
- <item>
-  <title>So You Wanna Be a Cryptonaire</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6075%2Fcryptocurrency_wallet.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Only 14% of people in the US have crypto investments, according to crypto exchange Gemini, and the market is still a pea compared to the global stock and bond markets.   Cryptocurrency isn’t just bitcoin. If you want to invest in crypto or other assets, that’s fine and dandy. But if you’re looking to diversify your portfolio and put some money in a new asset class, do some research and try starting small. The bear case: There’s a lot of speculation happening in the crypto market, and while some cryptocurrencies post huge gains, they can also be incredibly volatile. which you should already have after setting your initial investment and retirement strategy. If you sell a crypto asset, use it to purchase goods/services, or trade it for another cryptocurrency, any profit you make is probably subject to a capital gains tax (which varies based on how long the asset is held).  Just please don’t put your life savings in dogecoin. Cryptocurrency can be the bulk of those riskier investments or just a slice—but it shouldn’t be the majority of your portfolio. For crypto novices, numerous financial advisors recommend starting off with a very small allocation (1%–2%) of your portfolio in crypto. The IRS taxes cryptocurrency transactions similarly to property.   Bottom line: Unlike pairing black socks with brown loafers, there isn’t a correct answer about whether you should invest in crypto today.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/03/wanna-cryptonaire</link>
-  <author>Alex Hickey</author>
-  <categories>cryptocurrency</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/wanna-cryptonaire</guid>
-  <pubDate>Tue, 03 Aug 2021 13:12:01 -0700</pubDate>
  </item>
 
 </channel>
