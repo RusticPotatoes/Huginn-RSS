@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/07/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/08/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/07</link>
- <lastBuildDate>Sat, 07 Aug 2021 03:03:50 -0700</lastBuildDate>
- <pubDate>Sat, 07 Aug 2021 03:03:50 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/08</link>
+ <lastBuildDate>Sun, 08 Aug 2021 05:43:49 -0700</lastBuildDate>
+ <pubDate>Sun, 08 Aug 2021 05:43:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Kriss Kross: Small Pets</title>
+  <description>&lt;img src='https://media.giphy.com/media/dxywOfwJmdEd0EIdgB/giphy.gif'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/08/kriss-kross-small-pets</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/kriss-kross-small-pets</guid>
+  <pubDate>Sun, 08 Aug 2021 05:41:48 -0700</pubDate>
+ </item>
  <item>
   <title>Money Matters: Navigating Small Business Taxes</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F287%2Fsmall_business_on_a_phone.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Become one of the first subscribers. Freelancers often open LLCs, which can protect your personal assets from business debt. You might need to make estimated tax payments quarterly. Let a tax pro take it to the finish line for at least the first couple of years. Every expense you incur—from software to coffees with clients—goes in the software. ) Pick one that creates functional invoices, makes inputting expenses easy, and is in your budget.</description>
@@ -361,15 +370,6 @@
   <categories>cryptocurrency</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/wanna-cryptonaire</guid>
   <pubDate>Tue, 03 Aug 2021 13:12:01 -0700</pubDate>
- </item>
- <item>
-  <title>Blackstone-backed Firm to Buy Reese Witherspoon’s Media Company</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6035%2Fat_t_celebrates_the_launch_of_hello_sunshine.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  One potential target: LeBron James and Maverick Carter's SpringHill production company. Blackstone is bankrolling the media venture with $2 billion, so Mayer and Staggs are on the hunt for other acquisitions.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/02/blackstonebacked-firm-buy-reese-witherspoons-media-company?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/02/blackstonebacked-firm-buy-reese-witherspoons-media-company?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 03 Aug 2021 03:02:04 -0700</pubDate>
  </item>
 
 </channel>
