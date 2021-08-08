@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/08</link>
- <lastBuildDate>Sun, 08 Aug 2021 16:43:48 -0700</lastBuildDate>
- <pubDate>Sun, 08 Aug 2021 16:43:48 -0700</pubDate>
+ <lastBuildDate>Sun, 08 Aug 2021 16:48:47 -0700</lastBuildDate>
+ <pubDate>Sun, 08 Aug 2021 16:48:47 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Apple Gets Praised, Blasted for New Scanning Feature</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F431%2Fapple_iphone.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Apple’s scanning technology is part of a larger suite of child protection features that Apple will roll out with its new mobile operating system, iOS 15, next month. The company said its new technology, called NeuralHash, will scan US iPhones for images of child sexual abuse that have also been uploaded to iCloud.  Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/08/apple-gets-praised-blasted-new-scanning-feature</link>
+  <author>Neal Freyman</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/apple-gets-praised-blasted-new-scanning-feature</guid>
+  <pubDate>Sun, 08 Aug 2021 16:46:47 -0700</pubDate>
+ </item>
  <item>
   <title>Tokyo Olympics: By the Numbers</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6143%2Folympics_day_9_-_athletic.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;From the moving family watch party videos to the thrusting Australian swim coach, the Tokyo Olympics gave us all a desperately needed distraction while raising thorny questions about the future of the Games. 113: The number of total medals the US won at the Olympics, 25 more than second-place China. 42%: The decrease in viewership from the 2016 Rio Olympics to the Tokyo Games through Tuesday. Team USA also made a last-second comeback to grab the most number of gold medals at the Games, 39 to China’s 38.</description>
@@ -361,15 +370,6 @@
   <categories>game</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/beijing-calls-online-gaming-opium-mind-shares-tencent-plunge</guid>
   <pubDate>Tue, 03 Aug 2021 14:57:02 -0700</pubDate>
- </item>
- <item>
-  <title>SEC Chief Gary Gensler Calls Crypto the "Wild West" in Speech</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6077%2Fsenate_holds_hearing_on_r.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; To clean things up, Gensler asked Congress for more resources to police the crypto world, such as the authority to monitor crypto exchanges. The market is worth about $1.6 trillion, Gensler said.  But here’s something you may not know: Gensler is kind of a crypto nerd himself. Why does it matter what Gensler thinks?  As the country’s top financial regulator, he could hand down the most significant rules for the crypto industry to date.  Regulation should be welcome in crypto, Gensler said, because it sets guardrails and can pave the way for success.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/03/sec-chief-gary-gensler-calls-crypto-wild-west-speech</link>
-  <author>Neal Freyman</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/sec-chief-gary-gensler-calls-crypto-wild-west-speech</guid>
-  <pubDate>Tue, 03 Aug 2021 14:37:06 -0700</pubDate>
  </item>
 
 </channel>
