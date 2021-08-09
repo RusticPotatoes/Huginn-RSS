@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/08/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/09/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/08</link>
- <lastBuildDate>Sun, 08 Aug 2021 23:33:44 -0700</lastBuildDate>
- <pubDate>Sun, 08 Aug 2021 23:33:44 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/09</link>
+ <lastBuildDate>Mon, 09 Aug 2021 03:03:46 -0700</lastBuildDate>
+ <pubDate>Mon, 09 Aug 2021 03:03:46 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: August 9</title>
+  <description>&lt;img src='https://media.giphy.com/media/zntF1aeUvEdKWUEEB8/giphy.gif'&gt;&lt;br/&gt;, respectively, will reveal the extent of price increases in July for consumers and businesses. This week’s slate of earnings reports includes meme stock AMC, SoftBank, Coinbase, eBay, Wendy’s, Disney, Palantir, DoorDash, and Airbnb. Prepare accordingly.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/08/week-ahead-august-9?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/week-ahead-august-9?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 09 Aug 2021 03:01:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 9</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5115%2Ffull_restaurant.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Nearly 80% of US workers now earn a minimum of $15/hour, compared to 60% in 2014. Read: What do you do with a billion grams of surplus weed?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/08/key-performance-indicators-august-9?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/key-performance-indicators-august-9?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 09 Aug 2021 03:01:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>Senate Debates Crypto Provision That Opponents Say Would Harm Industry in US</title>
+  <description>&lt;img src='https://media.giphy.com/media/3DzwbT4oF52JG/giphy.gif'&gt;&lt;br/&gt;The goal is to use the $28 billion raised through tighter crypto regulation to help pay for the infrastructure bill. Tucked in to the $1.2 trillion infrastructure bill is a provision that expands the definition of a crypto “broker,” and increases reporting requirements by those brokers to the IRS.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/08/senate-debates-crypto-provision-opponents-say-harm-industry-us?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/senate-debates-crypto-provision-opponents-say-harm-industry-us?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 09 Aug 2021 03:01:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>Apple Gets Praised, Blasted for New Scanning Feature</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F431%2Fapple_iphone.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Apple’s scanning technology is part of a larger suite of child protection features that Apple will roll out with its new mobile operating system, iOS 15, next month. The company said its new technology, called NeuralHash, will scan US iPhones for images of child sexual abuse that have also been uploaded to iCloud.  Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/08/apple-gets-praised-blasted-new-scanning-feature?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/apple-gets-praised-blasted-new-scanning-feature?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 09 Aug 2021 03:01:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>Tokyo Olympics: By the Numbers</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6143%2Folympics_day_9_-_athletic.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;From the moving family watch party videos to the thrusting Australian swim coach, the Tokyo Olympics gave us all a desperately needed distraction while raising thorny questions about the future of the Games. 113: The number of total medals the US won at the Olympics, 25 more than second-place China. 42%: The decrease in viewership from the 2016 Rio Olympics to the Tokyo Games through Tuesday. Team USA also made a last-second comeback to grab the most number of gold medals at the Games, 39 to China’s 38.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/08/tokyo-olympics-numbers?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/tokyo-olympics-numbers?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 09 Aug 2021 03:01:44 -0700</pubDate>
+ </item>
  <item>
   <title>Seven Charts That Explain the Current State of Crypto</title>
   <description>&lt;img src='https://media.giphy.com/media/Vi5qBEpExoCmzEcDvF/giphy.gif'&gt;&lt;br/&gt;  Coinbase Falters After Milestone Public Offering  On April 14, 2021, the crypto exchange Coinbase became the first major crypto company to go public in the US, in what many considered a watershed moment for the industry. What institutional investors see in crypto While they remain skeptical about whether crypto has any practical use, institutional investors increasingly think digital assets have a place in an investment portfolio. Producing bitcoin requires a lot of energy Cryptocurrency, and bitcoin specifically, is criticized over the huge amount of energy used in bitcoin mining (environmental concerns is why Elon Musk decided to stop allowing bitcoin payments for Tesla several months ago. Size of the crypto market Total cryptocurrency market capitalization, or the value of all cryptocurrencies in existence, peaked in May 2021 at about $2.4 trillion, up from around $200 billion in 2019. Over $81 million of crypto has been already paid to ransomware addresses so far this year, according to Chainalysis.</description>
@@ -325,51 +370,6 @@
   <categories>finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/04/taking-action-guide-active-fixed-income</guid>
   <pubDate>Wed, 04 Aug 2021 08:21:51 -0700</pubDate>
- </item>
- <item>
-  <title>PepsiCo Plans to Sell Off Tropicana, Naked, And Other Juice Brands</title>
-  <description>&lt;img src='https://media.giphy.com/media/xT0GqEACvHo31kSOFq/giphy.gif'&gt;&lt;br/&gt;Blame it on the C6H12O6 Despite a brief uptick in fruit juice sales last year (Vitamin C for immunity, more time for breakfast), the category is suffering the same long-term decline as sugary cereals.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/03/pepsico-plans-sell-off-tropicana-naked-juice-brands?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>food and beverage</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/pepsico-plans-sell-off-tropicana-naked-juice-brands?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 04 Aug 2021 03:01:48 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 4</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4131%2Ftravel_bags.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Dylan Boigris, a 2016 Miami Law graduate, began his career making about $45,000 as a public defender. I thought I would come out making much more than I did.” (Vanity Fair) Read: A profile of the original influencer, Sean Combs.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/03/key-performance-indicators-august-4?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/key-performance-indicators-august-4?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 04 Aug 2021 03:01:47 -0700</pubDate>
- </item>
- <item>
-  <title>Beijing Calls Online Gaming “Opium For the Mind,” Shares of Tencent Plunge</title>
-  <description>&lt;img src='https://media.giphy.com/media/JUSwkiO1Eh5K43ruN0/giphy.gif'&gt;&lt;br/&gt;40% of Fortnite maker Epic Games 12% of Snap 5% of Tesla  5% of Activision Blizzard Bottom line: International investors burned by China’s regulatory bombshells have lost more than $1 trillion this year. Its investment stakes include...  Tencent may not be a household name in the US, but its fingerprints are all over the American tech industry.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/03/beijing-calls-online-gaming-opium-mind-shares-tencent-plunge?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>gaming</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/beijing-calls-online-gaming-opium-mind-shares-tencent-plunge?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 04 Aug 2021 03:01:47 -0700</pubDate>
- </item>
- <item>
-  <title>NYC, Tyson, and Microsoft Announce Vaccine Mandates</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6080%2Fus-health-virus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Meanwhile, masks won’t be required indoors because, according to de Blasio, they could disincentivize New Yorkers from getting the vaccine. Meat supplier Tyson will require all of its 120,000 US workers to be vaccinated. That divide’s best illustrated by Walmart, where only corporate workers need to show proof of vaccination.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/03/nyc-tyson-microsoft-announce-vaccine-mandates?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/nyc-tyson-microsoft-announce-vaccine-mandates?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 04 Aug 2021 03:01:47 -0700</pubDate>
- </item>
- <item>
-  <title>SEC Chief Gary Gensler Calls Crypto the "Wild West" in Speech</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6077%2Fsenate_holds_hearing_on_r.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; To clean things up, Gensler asked Congress for more resources to police the crypto world, such as the authority to monitor crypto exchanges.  Regulation should be welcome in crypto, Gensler said, because it sets guardrails and can pave the way for success. The market is worth about $1.6 trillion, Gensler said. Why does it matter what Gensler thinks?  But here’s something you may not know: Gensler is kind of a crypto nerd himself.  As the country’s top financial regulator, he could hand down the most significant rules for the crypto industry to date.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/03/sec-chief-gary-gensler-calls-crypto-wild-west-speech?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/sec-chief-gary-gensler-calls-crypto-wild-west-speech?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 04 Aug 2021 03:01:47 -0700</pubDate>
  </item>
 
 </channel>
