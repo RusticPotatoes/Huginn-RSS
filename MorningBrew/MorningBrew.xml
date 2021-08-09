@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/09</link>
- <lastBuildDate>Mon, 09 Aug 2021 15:28:50 -0700</lastBuildDate>
- <pubDate>Mon, 09 Aug 2021 15:28:50 -0700</pubDate>
+ <lastBuildDate>Mon, 09 Aug 2021 15:38:43 -0700</lastBuildDate>
+ <pubDate>Mon, 09 Aug 2021 15:38:43 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>What You Need to Know About The UNs New Climate Report</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5370%2Fco2.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This is our last decade to make some changes, the report argued. The Intergovernmental Panel on Climate Change (IPCC), an official UN task force, released a 3,949-page report from 234 scientists representing 45+ different countries yesterday morning that it called a “code red for humanity.” The report blamed one particular human activity for exacerbating climate change: burning fossil fuels. Since the IPCC’s last big report in 2013, the world has done a better job in curbing carbon emissions.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/09/need-know-uns-new-climate-report</link>
+  <author>Matty Merritt</author>
+  <categories>environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/need-know-uns-new-climate-report</guid>
+  <pubDate>Mon, 09 Aug 2021 15:36:52 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: August 10</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6163%2Ftopshot-us-fire-californi.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;AMC CEO Adam Aron, sang a cautious tune after his company, which got clobbered by the pandemic but staged a furious, individual investor-led comeback, beat revenue expectations last quarter. (Slate)</description>
@@ -361,15 +370,6 @@
   <categories>toys</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/mattel-debuts-barbies-likenesses-frontline-health-workers</guid>
   <pubDate>Thu, 05 Aug 2021 14:36:43 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 5</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4017%2Frihanna_fenty_fashion.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Pioneer Works) Read: Beauty and solace in the abandoned worlds of Roblox. Here’s a video of the first two hours of the network, which includes some incredible music.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/04/key-performance-indicators-august-5</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/04/key-performance-indicators-august-5</guid>
-  <pubDate>Wed, 04 Aug 2021 17:36:50 -0700</pubDate>
  </item>
 
 </channel>
