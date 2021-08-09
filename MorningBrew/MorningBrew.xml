@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/08</link>
- <lastBuildDate>Sun, 08 Aug 2021 16:58:46 -0700</lastBuildDate>
- <pubDate>Sun, 08 Aug 2021 16:58:46 -0700</pubDate>
+ <lastBuildDate>Sun, 08 Aug 2021 17:03:45 -0700</lastBuildDate>
+ <pubDate>Sun, 08 Aug 2021 17:03:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: August 9</title>
+  <description>&lt;img src='https://media.giphy.com/media/zntF1aeUvEdKWUEEB8/giphy.gif'&gt;&lt;br/&gt;, respectively, will reveal the extent of price increases in July for consumers and businesses. This week’s slate of earnings reports includes meme stock AMC, SoftBank, Coinbase, eBay, Wendy’s, Disney, Palantir, DoorDash, and Airbnb. Prepare accordingly.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/08/week-ahead-august-9</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/week-ahead-august-9</guid>
+  <pubDate>Sun, 08 Aug 2021 17:01:45 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: August 9</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5115%2Ffull_restaurant.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Nearly 80% of US workers now earn a minimum of $15/hour, compared to 60% in 2014. Read: What do you do with a billion grams of surplus weed?</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/key-performance-indicators-august-4</guid>
   <pubDate>Tue, 03 Aug 2021 15:07:05 -0700</pubDate>
- </item>
- <item>
-  <title>PepsiCo Plans to Sell Off Tropicana, Naked, And Other Juice Brands</title>
-  <description>&lt;img src='https://media.giphy.com/media/xT0GqEACvHo31kSOFq/giphy.gif'&gt;&lt;br/&gt;Blame it on the C6H12O6 Despite a brief uptick in fruit juice sales last year (Vitamin C for immunity, more time for breakfast), the category is suffering the same long-term decline as sugary cereals.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/03/pepsico-plans-sell-off-tropicana-naked-juice-brands</link>
-  <author>Jamie Wilde</author>
-  <categories>food and beverage</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/pepsico-plans-sell-off-tropicana-naked-juice-brands</guid>
-  <pubDate>Tue, 03 Aug 2021 15:02:00 -0700</pubDate>
  </item>
 
 </channel>
