@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/08</link>
- <lastBuildDate>Sun, 08 Aug 2021 17:03:45 -0700</lastBuildDate>
- <pubDate>Sun, 08 Aug 2021 17:03:45 -0700</pubDate>
+ <lastBuildDate>Sun, 08 Aug 2021 23:33:44 -0700</lastBuildDate>
+ <pubDate>Sun, 08 Aug 2021 23:33:44 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Seven Charts That Explain the Current State of Crypto</title>
+  <description>&lt;img src='https://media.giphy.com/media/Vi5qBEpExoCmzEcDvF/giphy.gif'&gt;&lt;br/&gt;  Coinbase Falters After Milestone Public Offering  On April 14, 2021, the crypto exchange Coinbase became the first major crypto company to go public in the US, in what many considered a watershed moment for the industry. What institutional investors see in crypto While they remain skeptical about whether crypto has any practical use, institutional investors increasingly think digital assets have a place in an investment portfolio. Producing bitcoin requires a lot of energy Cryptocurrency, and bitcoin specifically, is criticized over the huge amount of energy used in bitcoin mining (environmental concerns is why Elon Musk decided to stop allowing bitcoin payments for Tesla several months ago. Size of the crypto market Total cryptocurrency market capitalization, or the value of all cryptocurrencies in existence, peaked in May 2021 at about $2.4 trillion, up from around $200 billion in 2019. Over $81 million of crypto has been already paid to ransomware addresses so far this year, according to Chainalysis.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/09/seven-charts-explain-current-state-crypto</link>
+  <author>Colleen McFall</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/seven-charts-explain-current-state-crypto</guid>
+  <pubDate>Sun, 08 Aug 2021 23:31:43 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: August 9</title>
   <description>&lt;img src='https://media.giphy.com/media/zntF1aeUvEdKWUEEB8/giphy.gif'&gt;&lt;br/&gt;, respectively, will reveal the extent of price increases in July for consumers and businesses. This week’s slate of earnings reports includes meme stock AMC, SoftBank, Coinbase, eBay, Wendy’s, Disney, Palantir, DoorDash, and Airbnb. Prepare accordingly.</description>
@@ -361,15 +370,6 @@
   <categories>crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/sec-chief-gary-gensler-calls-crypto-wild-west-speech?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 04 Aug 2021 03:01:47 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 4</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4131%2Ftravel_bags.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Dylan Boigris, a 2016 Miami Law graduate, began his career making about $45,000 as a public defender. I thought I would come out making much more than I did.” (Vanity Fair) Read: A profile of the original influencer, Sean Combs.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/03/key-performance-indicators-august-4</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/03/key-performance-indicators-august-4</guid>
-  <pubDate>Tue, 03 Aug 2021 15:07:05 -0700</pubDate>
  </item>
 
 </channel>
