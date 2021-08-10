@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/09/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/10/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/09</link>
- <lastBuildDate>Mon, 09 Aug 2021 15:38:43 -0700</lastBuildDate>
- <pubDate>Mon, 09 Aug 2021 15:38:43 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/10</link>
+ <lastBuildDate>Tue, 10 Aug 2021 03:03:48 -0700</lastBuildDate>
+ <pubDate>Tue, 10 Aug 2021 03:03:48 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>NASA Is Looking for Human Guinea Pigs for Simulated Mars Mission</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6164%2Fmars_dune_alpha_habitat.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If you want to get away from it all—Covid, climate change, people who just text “hey”—NASA is giving you an opportunity to live on fake Mars for a year. If not, we hear Richard Branson is selling tickets to space for $450,000 a pop.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/09/nasa-looking-human-guinea-pigs-simulated-mars-mission?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/nasa-looking-human-guinea-pigs-simulated-mars-mission?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 10 Aug 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 10</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6163%2Ftopshot-us-fire-californi.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;AMC CEO Adam Aron sang a cautious tune after his company, which got clobbered by the pandemic but staged a furious, individual investor-led comeback, beat revenue expectations last quarter. (Slate)</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/09/key-performance-indicators-august-10?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/key-performance-indicators-august-10?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 10 Aug 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Car Rental Industry Rebounds As the Economy Rockets Out of the Pandemic</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6165%2Fdaily_life_in_new_york_ci.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;One year after it filed for bankruptcy, the car rental company posted a 62% jump in sales and plans to relist on a major stock exchange by the end of 2021.  Zoom out: The surge in summer travel and the nationwide shortage of used cars has fueled the rebound of the rental car industry.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/09/car-rental-industry-rebounds-economy-rockets-pandemic?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/car-rental-industry-rebounds-economy-rockets-pandemic?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 10 Aug 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Democrats Announce $3.5 Trillion Budget Plan</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5265%2Fwhite_house_budget.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Democrats will need to find a way to raise or suspend it soon to avoid economic chaos. One high-stakes battle remains: the debt ceiling, aka the limit on the US' ability to borrow money. Unfortunately for them, Democrats could push it through later this year without any GOP support thanks to their thin majority in the Senate.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/09/democrats-announce-35-trillion-budget-plan?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>government</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/democrats-announce-35-trillion-budget-plan?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 10 Aug 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>What You Need to Know About The UNs New Climate Report</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5370%2Fco2.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The report blamed one particular human activity for exacerbating climate change: burning fossil fuels. The Intergovernmental Panel on Climate Change (IPCC), an official UN task force, released a 3,949-page report from 234 scientists yesterday that called current climate change trends a “code red for humanity.” But they need to speed up those cuts dramatically, the report argued.    “This report must sound a death knell for coal and fossil fuels before they destroy our planet," UN Secretary-general Antonio Guterres said.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/09/need-know-uns-new-climate-report?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>climate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/need-know-uns-new-climate-report?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 10 Aug 2021 03:01:47 -0700</pubDate>
+ </item>
  <item>
   <title>What You Need to Know About The UNs New Climate Report</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5370%2Fco2.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This is our last decade to make some changes, the report argued. The Intergovernmental Panel on Climate Change (IPCC), an official UN task force, released a 3,949-page report from 234 scientists representing 45+ different countries yesterday morning that it called a “code red for humanity.” The report blamed one particular human activity for exacerbating climate change: burning fossil fuels. Since the IPCC’s last big report in 2013, the world has done a better job in curbing carbon emissions.</description>
@@ -325,51 +370,6 @@
   <categories>work</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/blackrock-wells-fargo-amazon-latest-companies-push-back-office-reopenings-due-delta-surge?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 06 Aug 2021 03:01:44 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Calls Pushes Auto Industry Toward Electrification</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6105%2Fus-politics-climate-auto-.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Still, the US is behind the global EV curve:Electric cars currently make up just 2% of new auto sales in the US, compared to 6% in China and 10% in Europe.  In a show of solidarity with the White House, the automakers pledged to make electric vehicle sales 40%–50% of their total by 2030... Biden’s goal is to cut emissions by 50% below 2005 levels by the end of the decade, and to do that he’s targeting transportation, the industry accounting for 29% of all US emissions.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/05/biden-calls-pushes-auto-industry-toward-electrification?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/biden-calls-pushes-auto-industry-toward-electrification?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 06 Aug 2021 03:01:44 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 6</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6106%2Fdisney_s_star_wars_hotel.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Oliver Burkeman) Read: The three-or-four-hours rule for getting creative work done.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/05/key-performance-indicators-august-6</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/key-performance-indicators-august-6</guid>
-  <pubDate>Thu, 05 Aug 2021 14:51:47 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Calls Pushes Auto Industry Toward Electrification</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6105%2Fus-politics-climate-auto-.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Still, the US is behind the global EV curve:Electric cars currently make up just 2% of new auto sales in the US, compared to 6% in China and 10% in Europe.  In a show of solidarity with the White House, the automakers pledged to make electric vehicle sales 40%–50% of their total by 2030... Biden’s goal is to cut emissions by 50% below 2005 levels by the end of the decade, and to do that he’s targeting transportation, the industry accounting for 29% of all US emissions.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/05/biden-calls-pushes-auto-industry-toward-electrification</link>
-  <author>Neal Freyman</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/biden-calls-pushes-auto-industry-toward-electrification</guid>
-  <pubDate>Thu, 05 Aug 2021 14:46:48 -0700</pubDate>
- </item>
- <item>
-  <title>BlackRock, Wells Fargo, and Amazon Latest Companies to Push Back Office Reopenings Due to Delta Surge</title>
-  <description>&lt;img src='https://media.giphy.com/media/HQs24aKY8Y7eTzFSSQ/giphy.gif'&gt;&lt;br/&gt;Google and Apple pushed back their office return to October and Google said that all employees who want to come in will need to be vaccinated. Both banks brought employees back to the office earlier this summer and said this week that they haven’t changed their return-to-work policies.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/05/blackrock-wells-fargo-amazon-latest-companies-push-back-office-reopenings-due-delta-surge</link>
-  <author>Matty Merritt</author>
-  <categories>return to office</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/blackrock-wells-fargo-amazon-latest-companies-push-back-office-reopenings-due-delta-surge</guid>
-  <pubDate>Thu, 05 Aug 2021 14:36:43 -0700</pubDate>
- </item>
- <item>
-  <title>Mattel Debuts Barbies in Likenesses of Frontline Health Workers</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6104%2Fmattel_barbie_dolls.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;They all have Barbie dolls in their likenesses. Why it matters: Mattel had been criticized for depicting an unrealistic portrait of womanhood with its original white, blonde doll, which turned 60 in 2019. What does Covid-19 vaccine developer Sarah Gilbert have in common with Beyoncé and Marilyn Monroe?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/05/mattel-debuts-barbies-likenesses-frontline-health-workers</link>
-  <author>Sherry Qin</author>
-  <categories>toys</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/mattel-debuts-barbies-likenesses-frontline-health-workers</guid>
-  <pubDate>Thu, 05 Aug 2021 14:36:43 -0700</pubDate>
  </item>
 
 </channel>
