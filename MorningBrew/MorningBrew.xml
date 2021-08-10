@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/10</link>
- <lastBuildDate>Tue, 10 Aug 2021 03:03:48 -0700</lastBuildDate>
- <pubDate>Tue, 10 Aug 2021 03:03:48 -0700</pubDate>
+ <lastBuildDate>Tue, 10 Aug 2021 11:23:46 -0700</lastBuildDate>
+ <pubDate>Tue, 10 Aug 2021 11:23:46 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Word Search: Breakfast Cereal Mascots</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5925%2Fword_search_banner_image.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/10/word-search-breakfast-cereal-mascots</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/word-search-breakfast-cereal-mascots</guid>
+  <pubDate>Tue, 10 Aug 2021 11:21:45 -0700</pubDate>
+ </item>
  <item>
   <title>NASA Is Looking for Human Guinea Pigs for Simulated Mars Mission</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6164%2Fmars_dune_alpha_habitat.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If you want to get away from it all—Covid, climate change, people who just text “hey”—NASA is giving you an opportunity to live on fake Mars for a year. If not, we hear Richard Branson is selling tickets to space for $450,000 a pop.</description>
@@ -360,15 +369,6 @@
   <author>Sherry Qin</author>
   <categories>toys</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/mattel-debuts-barbies-likenesses-frontline-health-workers?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 06 Aug 2021 03:01:44 -0700</pubDate>
- </item>
- <item>
-  <title>BlackRock, Wells Fargo, and Amazon Latest Companies to Push Back Office Reopenings Due to Delta Surge</title>
-  <description>&lt;img src='https://media.giphy.com/media/HQs24aKY8Y7eTzFSSQ/giphy.gif'&gt;&lt;br/&gt;Google and Apple moved their office return to October and Google said that all employees who want to come in will need to be vaccinated. Both banks brought employees back to the office earlier this summer and said this week that they haven’t changed their return-to-work policies.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/05/blackrock-wells-fargo-amazon-latest-companies-push-back-office-reopenings-due-delta-surge?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/blackrock-wells-fargo-amazon-latest-companies-push-back-office-reopenings-due-delta-surge?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 06 Aug 2021 03:01:44 -0700</pubDate>
  </item>
 
