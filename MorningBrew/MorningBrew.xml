@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/10</link>
- <lastBuildDate>Tue, 10 Aug 2021 15:03:43 -0700</lastBuildDate>
- <pubDate>Tue, 10 Aug 2021 15:03:43 -0700</pubDate>
+ <lastBuildDate>Tue, 10 Aug 2021 15:08:52 -0700</lastBuildDate>
+ <pubDate>Tue, 10 Aug 2021 15:08:52 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>WeWork Teams Up With Saks Fifth Avenue For In-Store Coworking</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6175%2Fsakswork.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Turning stores into offices is the latest development in an ongoing quest to repurpose empty retail space, and it’s way less bizarre than when Spirit Halloween takes over an abandoned Babies R Us.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/10/wework-teams-saks-fifth-avenue-instore-coworking</link>
+  <author>Jamie Wilde</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/wework-teams-saks-fifth-avenue-instore-coworking</guid>
+  <pubDate>Tue, 10 Aug 2021 15:06:51 -0700</pubDate>
+ </item>
  <item>
   <title>Influencers Want You To Get Vaccinated</title>
   <description>&lt;img src='https://media.giphy.com/media/BW7QHkBICEZG0/giphy.gif'&gt;&lt;br/&gt; The video (and the only Benny Drama clip that’s appropriate to share in this newsletter) is one of many instances of US health leaders utilizing social media influencers to encourage young people to get vaccinated and fight Covid-19 vaccine misinformation.</description>
@@ -361,15 +370,6 @@
   <categories>environment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/dixie-fire-becomes-thirdlargest-fire-california-history</guid>
   <pubDate>Fri, 06 Aug 2021 15:06:47 -0700</pubDate>
- </item>
- <item>
-  <title>Make It Work: I'm a Little Lost</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  The first thing you should ask yourself is whether it’s a specific aspect of your current job that you dislike, or if it’s the line of work that you find unfulfilling. Most people who haven’t found a job that they are passionate about have stopped looking for one. Pick up a book on something you know nothing about (the Brew has a whole shelf full of recs). I don't like my current job but I have no idea what I would rather do instead. Some of the most interesting 40-year-olds still don’t.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/06/make-work-im-little-lost</link>
-  <author>Neal Freyman</author>
-  <categories>work life</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/make-work-im-little-lost</guid>
-  <pubDate>Fri, 06 Aug 2021 14:16:51 -0700</pubDate>
  </item>
 
 </channel>
