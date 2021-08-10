@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/10</link>
- <lastBuildDate>Tue, 10 Aug 2021 13:33:53 -0700</lastBuildDate>
- <pubDate>Tue, 10 Aug 2021 13:33:53 -0700</pubDate>
+ <lastBuildDate>Tue, 10 Aug 2021 14:58:52 -0700</lastBuildDate>
+ <pubDate>Tue, 10 Aug 2021 14:58:52 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Senate Passes $1 Trillion Infrastructure Bill. Here's the Context.</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o72F8t9TDi2xVnxOE/giphy.gif'&gt;&lt;br/&gt; 3 things to know about US infrastructure spendingIt peaked with the New Deal: During the Great Depression in 1933, the federal government spent 2.96% of US GDP on infrastructure, and we haven’t hit that mark since. State and local governments accounted for nearly 78% of all US public infrastructure spending in 2017.  We say $1 trillion, but new spending accounts for just $550 billion of the package, while the rest is previously approved funding. This infrastructure bill won’t do that.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/10/senate-passes-1-trillion-infrastructure-bill-heres-context</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/senate-passes-1-trillion-infrastructure-bill-heres-context</guid>
+  <pubDate>Tue, 10 Aug 2021 14:56:51 -0700</pubDate>
+ </item>
  <item>
   <title>The Biggest Changes To the Post-Pandemic Workplace Will Be Invisible</title>
   <description>&lt;img src='https://media.giphy.com/media/ZlgwEg24rPhv9cju8K/giphy.gif'&gt;&lt;br/&gt;If we look at a) Sydney, Australia, and Nottingham, UK, which have intermittently resumed office work and b) US companies’ latest plans for post-pandemic office space, it’s clear most workplaces will look more like futuristic WeWorks than Mr. Nobody’s White Room. offices will likely have stricter (and more obvious) protocols when employees first return, and like what’s currently happening in Australia, they may have to toggle back and forth between fully open and shut down until Covid-19 flare-ups are under control. Google's blog shows off Camp CharlestonThe other way offices will get more fresh air to employees? Bottom line: From air filtration to green spaces, the office transformations discussed so far will be implemented to make employees feel—and actually be—safer from the spread of disease, especially Covid-19, while working at the office. Other changes will focus on accommodating newly hybrid workforcesMany workers who’ve spent the past 1+ years cooking elaborate breakfasts aren’t ready to return to microwaved oatmeal: 30% of employees would seek out a different job if their companies returned to fully in-office work following the pandemic, per a Mckinsey survey. but not so much that employees will have to battle for workspaces like they’re going full seagull on each other for kettle chips. It’s when employees “rent” a desk for the day, or hours at a time, and share it with other coworkers when they’re OOO. It depends on how many days each employee swipes in, which will vary by workplace. At Adtrak, employees will book their desks in advance through an app.</description>
@@ -361,15 +370,6 @@
   <categories>culture</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/stock-watch-running-shoes</guid>
   <pubDate>Fri, 06 Aug 2021 11:46:48 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 6</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6107%2Fturkey-politics-media-tri.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Oliver Burkeman) Read: The three-or-four-hours rule for getting creative work done.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/05/key-performance-indicators-august-6?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/05/key-performance-indicators-august-6?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 06 Aug 2021 03:01:44 -0700</pubDate>
  </item>
 
 </channel>
