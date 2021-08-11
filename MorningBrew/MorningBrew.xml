@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/11</link>
- <lastBuildDate>Wed, 11 Aug 2021 15:03:44 -0700</lastBuildDate>
- <pubDate>Wed, 11 Aug 2021 15:03:44 -0700</pubDate>
+ <lastBuildDate>Wed, 11 Aug 2021 15:08:43 -0700</lastBuildDate>
+ <pubDate>Wed, 11 Aug 2021 15:08:43 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>‘Jeopardy!’ Announces Two New Hosts: Mayim Bialik and Mike Richards</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o72wO1WX0A3o2DQDm/giphy.gif'&gt;&lt;br/&gt;She’ll run the podium for specials like the new college championship tournament next year, while Richards, who is a former host of the reality show Beauty and the Geek, will step in as the regular host. Bialik is known for her role in The Big Bang Theory and will be the show’s first permanent female host.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/11/jeopardy-announces-two-new-hosts-mayim-bialik-mike-richards</link>
+  <author>Matty Merritt</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/11/jeopardy-announces-two-new-hosts-mayim-bialik-mike-richards</guid>
+  <pubDate>Wed, 11 Aug 2021 15:06:52 -0700</pubDate>
+ </item>
  <item>
   <title>Hackers Steal More Than $600 Million in Crypto</title>
   <description>&lt;img src='https://media.giphy.com/media/11UjO5ezHZgMHC/giphy.gif'&gt;&lt;br/&gt;On Tuesday, hackers pulled off one of the biggest heists in crypto history, stealing more than $600 million from decentralized finance (DeFi) platform Poly Network. $256 million was returned as of yesterday afternoon. Government regulators and independent companies are racing to figure out how to fight back.</description>
@@ -361,15 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/tokyo-olympics-numbers</guid>
   <pubDate>Sun, 08 Aug 2021 16:41:47 -0700</pubDate>
- </item>
- <item>
-  <title>Kriss Kross: Small Pets</title>
-  <description>&lt;img src='https://media.giphy.com/media/dxywOfwJmdEd0EIdgB/giphy.gif'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/08/kriss-kross-small-pets</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/kriss-kross-small-pets</guid>
-  <pubDate>Sun, 08 Aug 2021 05:41:48 -0700</pubDate>
  </item>
 
 </channel>
