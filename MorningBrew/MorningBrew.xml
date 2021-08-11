@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/11</link>
- <lastBuildDate>Wed, 11 Aug 2021 15:08:43 -0700</lastBuildDate>
- <pubDate>Wed, 11 Aug 2021 15:08:43 -0700</pubDate>
+ <lastBuildDate>Wed, 11 Aug 2021 15:18:45 -0700</lastBuildDate>
+ <pubDate>Wed, 11 Aug 2021 15:18:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Facing Higher Gas Prices, US Asks OPEC+ to Produce More Oil</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4493%2Fvacation.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Run the numbers: As oil prices have recovered after cratering last March, gas has gotten considerably more expensive in the US. The group recently agreed to gradually ramp up output over the next year, but the US thinks that’s not enough of a boost to meet greater demand for gas and keep prices from taking a bite out of Americans’ wallets.   will OPEC speed up its production increases? The national average yesterday was $3.185/gallon, according to AAA.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/11/facing-higher-gas-prices-us-asks-opec-produce-oil</link>
+  <author>Neal Freyman</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/11/facing-higher-gas-prices-us-asks-opec-produce-oil</guid>
+  <pubDate>Wed, 11 Aug 2021 15:16:44 -0700</pubDate>
+ </item>
  <item>
   <title>‘Jeopardy!’ Announces Two New Hosts: Mayim Bialik and Mike Richards</title>
   <description>&lt;img src='https://media.giphy.com/media/3o72wO1WX0A3o2DQDm/giphy.gif'&gt;&lt;br/&gt;She’ll run the podium for specials like the new college championship tournament next year, while Richards, who is a former host of the reality show Beauty and the Geek, will step in as the regular host. Bialik is known for her role in The Big Bang Theory and will be the show’s first permanent female host.</description>
@@ -361,15 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/apple-gets-praised-blasted-new-scanning-feature</guid>
   <pubDate>Sun, 08 Aug 2021 16:46:47 -0700</pubDate>
- </item>
- <item>
-  <title>Tokyo Olympics: By the Numbers</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6143%2Folympics_day_9_-_athletic.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;From the moving family watch party videos to the thrusting Australian swim coach, the Tokyo Olympics gave us all a desperately needed distraction while raising thorny questions about the future of the Games. 113: The number of total medals the US won at the Olympics, 25 more than second-place China. 42%: The decrease in viewership from the 2016 Rio Olympics to the Tokyo Games through Tuesday. Team USA also made a last-second comeback to grab the most number of gold medals at the Games, 39 to China’s 38.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/08/tokyo-olympics-numbers</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/tokyo-olympics-numbers</guid>
-  <pubDate>Sun, 08 Aug 2021 16:41:47 -0700</pubDate>
  </item>
 
 </channel>
