@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/11</link>
- <lastBuildDate>Wed, 11 Aug 2021 14:58:44 -0700</lastBuildDate>
- <pubDate>Wed, 11 Aug 2021 14:58:44 -0700</pubDate>
+ <lastBuildDate>Wed, 11 Aug 2021 15:03:44 -0700</lastBuildDate>
+ <pubDate>Wed, 11 Aug 2021 15:03:44 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Hackers Steal More Than $600 Million in Crypto</title>
+  <description>&lt;img src='https://media.giphy.com/media/11UjO5ezHZgMHC/giphy.gif'&gt;&lt;br/&gt;On Tuesday, hackers pulled off one of the biggest heists in crypto history, stealing more than $600 million from decentralized finance (DeFi) platform Poly Network. $256 million was returned as of yesterday afternoon. Government regulators and independent companies are racing to figure out how to fight back.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/11/hackers-steal-600-million-crypto</link>
+  <author>Jamie Wilde</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/11/hackers-steal-600-million-crypto</guid>
+  <pubDate>Wed, 11 Aug 2021 15:01:43 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: August 12</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6196%2Fa_general_view_shows_a_hu.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New York Times) Read: How to sell a ton of merch as a minor league baseball team.</description>
@@ -361,15 +370,6 @@
   <categories>games</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/kriss-kross-small-pets</guid>
   <pubDate>Sun, 08 Aug 2021 05:41:48 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: Navigating Small Business Taxes</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F287%2Fsmall_business_on_a_phone.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Become one of the first subscribers. Freelancers often open LLCs, which can protect your personal assets from business debt. You might need to make estimated tax payments quarterly. Let a tax pro take it to the finish line for at least the first couple of years. Every expense you incur—from software to coffees with clients—goes in the software. ) Pick one that creates functional invoices, makes inputting expenses easy, and is in your budget.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/06/money-mattersnavigating-small-business-taxes?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/money-mattersnavigating-small-business-taxes?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 07 Aug 2021 03:01:49 -0700</pubDate>
  </item>
 
 </channel>
