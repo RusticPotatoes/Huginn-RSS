@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/10/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/11/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/11/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/10</link>
- <lastBuildDate>Tue, 10 Aug 2021 21:53:50 -0700</lastBuildDate>
- <pubDate>Tue, 10 Aug 2021 21:53:50 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/11</link>
+ <lastBuildDate>Wed, 11 Aug 2021 03:03:47 -0700</lastBuildDate>
+ <pubDate>Wed, 11 Aug 2021 03:03:47 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>WeWork Teams Up With Saks Fifth Avenue For In-Store Coworking</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6175%2Fsakswork.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Turning stores into offices is the latest development in an ongoing quest to repurpose empty retail space, and it’s way less bizarre than when Spirit Halloween takes over an abandoned Babies R Us.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/10/wework-teams-saks-fifth-avenue-instore-coworking?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/wework-teams-saks-fifth-avenue-instore-coworking?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 11 Aug 2021 03:01:46 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 11</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2485%2Foutdoor_equinox_gym.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Atlantic)  Read: Grief, conspiracy theories, and one family’s search for meaning in the two decades since 9/11. NASA said making spacesuits could delay its goal of landing on the moon in 2024.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/10/key-performance-indicators-august-11?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/key-performance-indicators-august-11?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 11 Aug 2021 03:01:46 -0700</pubDate>
+ </item>
+ <item>
+  <title>Soccer Icon Lionel Messi Signs With Paris in a Move That Will Reverberate Beyond the Pitch</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6174%2Ftopshot-fbl-fra-ligue1-ps.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Qatari government poured its oil money into PSG to increase the country’s global profile, turning the club into one of the richest soccer franchises in the world. Lionel Messi, considered by many the best soccer player in the world, flew to France yesterday and confirmed his stunning move from Barcelona to Paris Saint-Germain (PSG).</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/10/soccer-icon-lionel-messi-signs-paris-move-will-reverberate-beyond-pitch?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/soccer-icon-lionel-messi-signs-paris-move-will-reverberate-beyond-pitch?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 11 Aug 2021 03:01:46 -0700</pubDate>
+ </item>
+ <item>
+  <title>Influencers Want You To Get Vaccinated</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6176%2Favengers.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The video (and the only Benny Drama clip that’s appropriate to share in this newsletter) is one of many instances of US health leaders utilizing social media influencers to fight Covid-19 vaccine misinformation and encourage young people to get vaccinated.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/10/influencers-want-get-vaccinated?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/influencers-want-get-vaccinated?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 11 Aug 2021 03:01:46 -0700</pubDate>
+ </item>
+ <item>
+  <title>Senate Passes $1 Trillion Infrastructure Bill. Here's the Context.</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o72F8t9TDi2xVnxOE/giphy.gif'&gt;&lt;br/&gt; 3 things to know about US infrastructure spendingIt peaked with the New Deal: During the Great Depression in 1933, the federal government spent 2.96% of US GDP on infrastructure, and we haven’t hit that mark since. State and local governments accounted for nearly 78% of all US public infrastructure spending in 2017.  We say $1 trillion, but new spending accounts for $550 billion of the package, while the rest is previously approved funding. This infrastructure bill won’t do that.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/10/senate-passes-1-trillion-infrastructure-bill-heres-context?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/senate-passes-1-trillion-infrastructure-bill-heres-context?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 11 Aug 2021 03:01:46 -0700</pubDate>
+ </item>
  <item>
   <title>How to choose a cryptocurrency (and crypto platform)</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6177%2Ftrading_cryptocurrency_on_mobile_exchange.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;.  You can trade crypto futures via:Chicago Mercantile ExchangeBakktCrypto stocksThere are several cryptocurrency companies with publicly-traded shares that you can get your hands on. The process will likely go as follows:Sign upVerification (also known as “KYC AML,” for “know your customer” identity verification and “anti-money laundering” regulatory steps)Connect your bank accountPurchase crypto for 0.5% to 2% feeHold crypto on the platform or move it to “hot” (Internet-connected) or “cold” (disconnected) storageAnd that’s it! Ether (ETH)Ether—also sometimes called Ethereum after the name of its corresponding platform—is the second-largest digital asset, representing roughly 20% of the crypto market. ) Bitcoin is a digital form of money that can be sent worldwide for a small transaction fee and is nearly impossible to hack. Let’s say you’re an investor with experience and you don’t want to go through the hassle of handling your own cryptocurrency trades. Examples:Coinbase (COIN) — the well-known crypto exchangeMicroStrategy (MSTR) — a business services company and leading Bitcoin investorSilvergate Bank (SI) — a digital asset bankMarathon Digital (MARA) — a leading Bitcoin minerJust remember... and everybody elseSeeking crypto investment options beyond Bitcoin and Ethereum is no different than any other kind of experimental bet—in exchange for upping your risk profile considerably, you could give your portfolio exposure to bleeding-edge technology that could dominate the market in the future. com (CRO)OGs: Bitcoin Cash (BCH), Dogecoin (DOGE), Ripple (XRP)Payment tokens: Litecoin (LTC), Terra (LUNA), Stellar (XLM)NFTs: Axie Infinity (AXS), Flow (FLOW), Decentraland (MANA)In summaryIn the crypto world, Bitcoin and Ether are the GOATs. But if you’re looking into what many people would call “altcoins,” there are many paths to take. Ethereum ultimately powers a network of decentralized crypto businesses that everyone can use and nobody can take down. Choose your cryptocurrencyThe two titansTwo cryptos stand head and shoulders over the rest, representing nearly 70% of the total industry: Bitcoin and Ether.  But in a world being eaten alive by software, the allure of grabbing some digital gold amid the rush is undeniable.  Bitcoin (BTC)Created in 2009, Bitcoin is the oldest cryptocurrency and maintains a dominant market share of about half the market.</description>
@@ -325,51 +370,6 @@
   <categories>jobs</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/us-hiring-surges-employers-add-943000-jobs-july?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 07 Aug 2021 03:01:49 -0700</pubDate>
- </item>
- <item>
-  <title>Singapore Goes Ahead With Relaxing Curbs as Countries Learn to Live With Covid</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6131%2Fdaily_life_in_singapore.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;without new mitigation measures. Compare that to the more lax approach employed by countries like the US and the UK. Why it matters: Singapore is the most significant example yet of a country pivoting from a “Covid Zero” approach to a strategy that accepts Covid as “endemic,” meaning it’s always present but remains at a manageable level. “Living with Covid”Before its pivot, Singapore was part of a group of Asia-Pacific countries that played Whac-A-Mole to snuff out any trace of the coronavirus in an approach known as “Zero Covid.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/06/singapore-goes-ahead-relaxing-curbs-countries-learn-live-covid?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/singapore-goes-ahead-relaxing-curbs-countries-learn-live-covid?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 07 Aug 2021 03:01:48 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 7</title>
-  <description>&lt;img src='https://media.giphy.com/media/o36clJK9yslGzJLp56/giphy.gif'&gt;&lt;br/&gt;It estimates that 2.5 million weddings will take place next year, compared to an average of 2.1 million weddings/year pre-pandemic and 1.2 million weddings in 2020. ! (The Atlantic)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/06/key-performance-indicators-august-7</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/key-performance-indicators-august-7</guid>
-  <pubDate>Fri, 06 Aug 2021 15:16:48 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: Navigating Small Business Taxes</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F287%2Fsmall_business_on_a_phone.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Become one of the first subscribers. Freelancers often open LLCs, which can protect your personal assets from business debt. You might need to make estimated tax payments quarterly. Every expense you incur—from software to coffees with clients—goes in the software. —HaleyBefore taking on clients, you’ll need to form a legal business, which matters in part because your structure determines how you’re taxed. ) Pick one that creates functional invoices, makes inputting expenses easy, and is in your budget.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/06/money-mattersnavigating-small-business-taxes</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/money-mattersnavigating-small-business-taxes</guid>
-  <pubDate>Fri, 06 Aug 2021 15:11:46 -0700</pubDate>
- </item>
- <item>
-  <title>US Hiring Surges as Employers Add 943,000 Jobs in July</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6129%2Fhired.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Still, the US economy remains 5.7 million jobs short of where it was pre-pandemic, and jobs in some industries may never come back...  “I have yet to find a blemish in this jobs report. Motion picture and sound recording industries had 30.1% fewer jobs in July than in Feb 2020.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/06/us-hiring-surges-employers-add-943000-jobs-july</link>
-  <author>Sherry Qin</author>
-  <categories>jobs</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/us-hiring-surges-employers-add-943000-jobs-july</guid>
-  <pubDate>Fri, 06 Aug 2021 15:06:47 -0700</pubDate>
- </item>
- <item>
-  <title>Singapore Goes Ahead With Relaxing Curbs as Countries Learn to Live With Covid</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6131%2Fdaily_life_in_singapore.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Compare that to the more lax approach employed by countries like the US and the UK. without new mitigation measures. Why it matters: Singapore is the most significant example yet of a country pivoting from a “Covid Zero” approach to a strategy that accepts Covid as “endemic,”  which means it’s always present but remains at a manageable level. “Living with Covid”Before its pivot, Singapore was part of a group of Asian-Pacific countries that played Whac-A-Mole to snuff out any trace of the coronavirus in an approach known as “Zero Covid.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/06/singapore-goes-ahead-relaxing-curbs-countries-learn-live-covid</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/06/singapore-goes-ahead-relaxing-curbs-countries-learn-live-covid</guid>
-  <pubDate>Fri, 06 Aug 2021 15:06:47 -0700</pubDate>
  </item>
 
 </channel>
