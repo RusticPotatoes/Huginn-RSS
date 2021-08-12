@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/12</link>
- <lastBuildDate>Thu, 12 Aug 2021 15:03:46 -0700</lastBuildDate>
- <pubDate>Thu, 12 Aug 2021 15:03:46 -0700</pubDate>
+ <lastBuildDate>Thu, 12 Aug 2021 15:08:49 -0700</lastBuildDate>
+ <pubDate>Thu, 12 Aug 2021 15:08:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>‘Field of Dreams’ Game Brought Thousands of Visitors to a Small Iowa Town</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4834%2Fbaseball.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Mayor Heavens said up until now, the field hasn’t been a significant economic driver for the town despite attracting 60,000+ visitors per year. The MLB initially scheduled the game for 2020, but it was pushed back because of the pandemic. residents hope Dyersville will become a regular stop on MLB’s schedule. Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/12/field-dreams-game-brought-thousands-visitors-small-iowa-town</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/12/field-dreams-game-brought-thousands-visitors-small-iowa-town</guid>
+  <pubDate>Thu, 12 Aug 2021 15:06:47 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: Friday the 13th</title>
   <description>&lt;img src='https://media.giphy.com/media/J4UsQYXFr2QjxROhZ3/giphy.gif'&gt;&lt;br/&gt;To illustrate how impressive that is, Disney initially projected that the streaming service would hit between 60 million to 90 million subscribers...</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/key-performance-indicators-august-9?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 09 Aug 2021 03:01:44 -0700</pubDate>
- </item>
- <item>
-  <title>Senate Debates Crypto Provision That Opponents Say Would Harm Industry in US</title>
-  <description>&lt;img src='https://media.giphy.com/media/3DzwbT4oF52JG/giphy.gif'&gt;&lt;br/&gt;The goal is to use the $28 billion raised through tighter crypto regulation to help pay for the infrastructure bill. Tucked in to the $1.2 trillion infrastructure bill is a provision that expands the definition of a crypto “broker,” and increases reporting requirements by those brokers to the IRS.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/08/senate-debates-crypto-provision-opponents-say-harm-industry-us?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/senate-debates-crypto-provision-opponents-say-harm-industry-us?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 09 Aug 2021 03:01:44 -0700</pubDate>
  </item>
 
