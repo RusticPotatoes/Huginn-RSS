@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/12</link>
- <lastBuildDate>Thu, 12 Aug 2021 15:08:49 -0700</lastBuildDate>
- <pubDate>Thu, 12 Aug 2021 15:08:49 -0700</pubDate>
+ <lastBuildDate>Thu, 12 Aug 2021 15:13:52 -0700</lastBuildDate>
+ <pubDate>Thu, 12 Aug 2021 15:13:52 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Reddit’s Valuation Upvoted to $10 Billion</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6212%2Freddit_meme.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Reddit recorded $100 million in ad revenue last quarter, which is a 192% annual increase but comes nowhere near Twitter’s $1.2 billion and Facebook’s $28.6 billion. Reddit’s “still planning on going public,” Huffman told the NYT...  Big picture: Despite its outsized cultural influence, Reddit’s still just a guppy swimming among sharks.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/12/reddits-valuation-upvoted-10-billion</link>
+  <author>Jamie Wilde</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/12/reddits-valuation-upvoted-10-billion</guid>
+  <pubDate>Thu, 12 Aug 2021 15:11:51 -0700</pubDate>
+ </item>
  <item>
   <title>‘Field of Dreams’ Game Brought Thousands of Visitors to a Small Iowa Town</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4834%2Fbaseball.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Mayor Heavens said up until now, the field hasn’t been a significant economic driver for the town despite attracting 60,000+ visitors per year. The MLB initially scheduled the game for 2020, but it was pushed back because of the pandemic. residents hope Dyersville will become a regular stop on MLB’s schedule. Looking ahead...</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/week-ahead-august-9?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 09 Aug 2021 03:01:44 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 9</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5115%2Ffull_restaurant.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Nearly 80% of US workers now earn a minimum of $15/hour, compared to 60% in 2014. Read: What do you do with a billion grams of surplus weed?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/08/key-performance-indicators-august-9?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/key-performance-indicators-august-9?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 09 Aug 2021 03:01:44 -0700</pubDate>
  </item>
 
