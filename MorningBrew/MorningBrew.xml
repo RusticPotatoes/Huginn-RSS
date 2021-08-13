@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/13</link>
- <lastBuildDate>Fri, 13 Aug 2021 14:33:19 -0700</lastBuildDate>
- <pubDate>Fri, 13 Aug 2021 14:33:19 -0700</pubDate>
+ <lastBuildDate>Fri, 13 Aug 2021 14:38:18 -0700</lastBuildDate>
+ <pubDate>Fri, 13 Aug 2021 14:38:18 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Delta Upends Back-to-Work Plans: Morning Brew Survey</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6232%2Fchart_of_back_to_work_plans.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; We posed several other questions to readers about remote work and the pandemic. Offices are still empty: 75% of respondents are working fully remote, while 20% head in a few times a week. But they like working from home: 66% of readers said working from home during the pandemic was better than expected.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/13/delta-upends-backtowork-plans-morning-brew-survey</link>
+  <author>Neal Freyman</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/13/delta-upends-backtowork-plans-morning-brew-survey</guid>
+  <pubDate>Fri, 13 Aug 2021 14:36:17 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: August 14</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6236%2F2021_lollapalooza_-_day_1.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Rest of World)  Read: Why China’s crypto cowboys are fleeing to Texas.</description>
@@ -361,15 +370,6 @@
   <categories>environment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/need-know-uns-new-climate-report</guid>
   <pubDate>Mon, 09 Aug 2021 15:36:52 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 10</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6163%2Ftopshot-us-fire-californi.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;AMC CEO Adam Aron, sang a cautious tune after his company, which got clobbered by the pandemic but staged a furious, individual investor-led comeback, beat revenue expectations last quarter. (Slate)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/09/key-performance-indicators-august-10</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/key-performance-indicators-august-10</guid>
-  <pubDate>Mon, 09 Aug 2021 15:26:49 -0700</pubDate>
  </item>
 
 </channel>
