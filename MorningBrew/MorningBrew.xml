@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/13</link>
- <lastBuildDate>Fri, 13 Aug 2021 14:08:20 -0700</lastBuildDate>
- <pubDate>Fri, 13 Aug 2021 14:08:20 -0700</pubDate>
+ <lastBuildDate>Fri, 13 Aug 2021 14:18:21 -0700</lastBuildDate>
+ <pubDate>Fri, 13 Aug 2021 14:18:21 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Gym Rats are Bullish on In-Person Workouts, but Trends Point to a More Hybrid Future</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6234%2Fgym.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;How’d these gyms make it? Planet Fitness increased revenue 241% last quarter compared to 2020, and added 700k new members. Cycling studio Flywheel filed for Chapter 7 bankruptcy in September (meaning liquidation) while YogaWorks, Gold’s Gym, 24 Hour Fitness, as well as the parent company of New York Sports Clubs and Boston Sports Clubs all closed hundreds of locations across the US and filed for Chapter 11 (restructuring), citing pandemic-related problems. Even if we avoid another massive lockdown, most data points to in-home fitness sticking around and coexisting with gyms. 70% of online fitness program users plan to keep using them post-pandemic, per McKinsey. Planet Fitness CEO Chris Rondeau told CNBC this week that about 150 clubs currently require masks in accordance with local guidelines, but he hopes that the mandates are short-lived.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/13/gym-rats-bullish-inperson-workouts-trends-point-hybrid-future</link>
+  <author>Matty Merritt</author>
+  <categories>analysis</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/13/gym-rats-bullish-inperson-workouts-trends-point-hybrid-future</guid>
+  <pubDate>Fri, 13 Aug 2021 14:16:21 -0700</pubDate>
+ </item>
  <item>
   <title>Make It Work: The Grass Isn't Always Greener </title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Unfortunately, your husband’s rules must have some exceptions. Each week, our workplace whisperer Shane Loughnane answers reader-submitted questions about work in 2021. It's possible that since this is my first real job I am unable to identify problem areas, but I want to be better at identifying issues and communicating them.   Until then, take some advice from business sage Billy Madison: “Stay here.   It’s quite possible to simply find yourself in a great job situation that also happens to be the right fit at the right time in your career. Got any advice? Dang, you almost talked me into it.</description>
@@ -361,15 +370,6 @@
   <categories>car rental</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/car-rental-industry-rebounds-economy-rockets-pandemic</guid>
   <pubDate>Mon, 09 Aug 2021 15:26:49 -0700</pubDate>
- </item>
- <item>
-  <title>Democrats Announce $3.5 Trillion Budget Plan</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5265%2Fwhite_house_budget.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   It will address... The budget will require the backing of every Democrat in the 50-50 Senate, plus the tie breaking vote of VP Kamala Harris, to pass. Where will the money come from? The plan didn’t include lifting the debt ceiling, which would allow Uncle Sam to keep on borrowing to fund the spending.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/09/democrats-announce-35-trillion-budget-plan</link>
-  <author>Sherry Qin</author>
-  <categories>budget</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/democrats-announce-35-trillion-budget-plan</guid>
-  <pubDate>Mon, 09 Aug 2021 15:21:46 -0700</pubDate>
  </item>
 
 </channel>
