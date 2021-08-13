@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/13</link>
- <lastBuildDate>Fri, 13 Aug 2021 14:38:18 -0700</lastBuildDate>
- <pubDate>Fri, 13 Aug 2021 14:38:18 -0700</pubDate>
+ <lastBuildDate>Fri, 13 Aug 2021 15:08:21 -0700</lastBuildDate>
+ <pubDate>Fri, 13 Aug 2021 15:08:21 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Economists’ Fall Plans // the Delta Variant</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6237%2Flove_is_blind.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;It’s not just consumers going blue. US consumer sentiment plunged 13.5% from July to its lowest level since 2011—yes, even lower than when they tried to make Barnett the most desirable man on Love is Blind.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/13/economists-fall-plans-delta-variant</link>
+  <author>Matty Merritt</author>
+  <categories>consumer sentiment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/13/economists-fall-plans-delta-variant</guid>
+  <pubDate>Fri, 13 Aug 2021 15:06:20 -0700</pubDate>
+ </item>
  <item>
   <title>Delta Upends Back-to-Work Plans: Morning Brew Survey</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6232%2Fchart_of_back_to_work_plans.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; We posed several other questions to readers about remote work and the pandemic. Offices are still empty: 75% of respondents are working fully remote, while 20% head in a few times a week. But they like working from home: 66% of readers said working from home during the pandemic was better than expected.</description>
@@ -361,15 +370,6 @@
   <categories>climate</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/need-know-uns-new-climate-report?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 10 Aug 2021 03:01:47 -0700</pubDate>
- </item>
- <item>
-  <title>What You Need to Know About The UNs New Climate Report</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5370%2Fco2.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This is our last decade to make some changes, the report argued. The Intergovernmental Panel on Climate Change (IPCC), an official UN task force, released a 3,949-page report from 234 scientists representing 45+ different countries yesterday morning that it called a “code red for humanity.” The report blamed one particular human activity for exacerbating climate change: burning fossil fuels. Since the IPCC’s last big report in 2013, the world has done a better job in curbing carbon emissions.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/09/need-know-uns-new-climate-report</link>
-  <author>Matty Merritt</author>
-  <categories>environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/need-know-uns-new-climate-report</guid>
-  <pubDate>Mon, 09 Aug 2021 15:36:52 -0700</pubDate>
  </item>
 
 </channel>
