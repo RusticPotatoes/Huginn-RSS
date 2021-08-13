@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/12/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/13/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/12</link>
- <lastBuildDate>Thu, 12 Aug 2021 15:13:52 -0700</lastBuildDate>
- <pubDate>Thu, 12 Aug 2021 15:13:52 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/13</link>
+ <lastBuildDate>Fri, 13 Aug 2021 14:03:20 -0700</lastBuildDate>
+ <pubDate>Fri, 13 Aug 2021 14:03:20 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Icebreakers with...Olympic Champion Surfer Carissa Moore</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6233%2Faround_the_games_-_olympi.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;I’ve been on a surf trip here but it was over 10 years ago, and I have some of the best memories from surfing this spot. What’s the world of competitive surfing like? In Tokyo, Hawaii native Carissa Moore won the gold medal for the US in surfing’s first ever Olympics. But being conscious of and in tune with your own mental health, not being afraid to ask for help, and taking the time you need to feel through that space is super important. If you could compete at any surf spot around the world, what would it be? I hope it opens up surfing to a broader audience and can bring more people in, whether that's by inspiring someone to try surfing for the first time, or motivating them to choose their own path.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/13/icebreakers-witholympic-champion-surfer-carissa-moore</link>
+  <author>Jamie Wilde</author>
+  <categories>qanda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/13/icebreakers-witholympic-champion-surfer-carissa-moore</guid>
+  <pubDate>Fri, 13 Aug 2021 14:01:19 -0700</pubDate>
+ </item>
  <item>
   <title>Reddit’s Valuation Upvoted to $10 Billion</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6212%2Freddit_meme.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Reddit recorded $100 million in ad revenue last quarter, which is a 192% annual increase but comes nowhere near Twitter’s $1.2 billion and Facebook’s $28.6 billion. Reddit’s “still planning on going public,” Huffman told the NYT...  Big picture: Despite its outsized cultural influence, Reddit’s still just a guppy swimming among sharks.</description>
@@ -361,15 +370,6 @@
   <categories>work life</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/new-office-politics-existential-crisis</guid>
   <pubDate>Mon, 09 Aug 2021 15:01:57 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: August 9</title>
-  <description>&lt;img src='https://media.giphy.com/media/zntF1aeUvEdKWUEEB8/giphy.gif'&gt;&lt;br/&gt;, respectively, will reveal the extent of price increases in July for consumers and businesses. This week’s slate of earnings reports includes meme stock AMC, SoftBank, Coinbase, eBay, Wendy’s, Disney, Palantir, DoorDash, and Airbnb. Prepare accordingly.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/08/week-ahead-august-9?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/08/week-ahead-august-9?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 09 Aug 2021 03:01:44 -0700</pubDate>
  </item>
 
 </channel>
