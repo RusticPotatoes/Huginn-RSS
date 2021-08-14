@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/13/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/14/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/13</link>
- <lastBuildDate>Fri, 13 Aug 2021 15:13:20 -0700</lastBuildDate>
- <pubDate>Fri, 13 Aug 2021 15:13:20 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/14</link>
+ <lastBuildDate>Sat, 14 Aug 2021 00:08:23 -0700</lastBuildDate>
+ <pubDate>Sat, 14 Aug 2021 00:08:23 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The New Office Small-Talk: Are You Vaccinated?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4816%2Fvaccine_dartboard.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Colleagues are now spilling the beans about their vaccination experience and showing off their proof of vaccination on social media.  Although the spread of the Delta variant has injected new uncertainties into return-to-work plans, many execs, who have called remote work “an aberration” and not for young people “who want to hustle,” are intent on bringing employees back to the office—or have done so already. They cited the newness of the vaccine and possible side effects as the reasons for their vaccine hesitancy.  Morgan, the HR consultant, said it was natural for people to talk about the pandemic and the vaccine with their coworkers, but HR should remind them “to be respectful and civil toward each other, regardless of vaccination status.” But can employers require their workers to be vaccinated? “I have all of my other vaccines and have gotten the flu shots most years,” Michelle said. Unvaccinated workers were required to wear masks all the time outside of their cubes, while the vaccinated were free to drop them. If my work mandates it, I don’t know what I’ll do,” Michelle said. Not getting a vaccine =/= being an “anti-vaxxer” In a June survey by the Kaiser Family Foundation, 10% of American adults said they would “wait and see” before getting vaccinated, 6% would get inoculated only if required, while 14% would definitely not get the vaccine. Google, Facebook and Target have reinstituted mask mandates regardless of vaccination status. Michelle recalled that a coworker at a return-to-work meeting yelled, “What if I sit in a chair that was previously occupied by an unvaccinated person and bring back the virus to my kid?” That’s because Michelle, who chose to stay anonymous due to the sensitivity of the topic, has chosen to not yet get vaccinated against Covid-19. If they have both vaccinated and unvaccinated workers in the office, companies might need to enforce two different sets of policies. “It'd be way easier to just get the jab, but I would prefer to see long-term impacts and more data on side effects for people with my medical history,” she said.  Both Michelle and Monica are in the “wait-and-see” group.  “I’ve always thought that maybe in the future [I will get vaccinated] as more time passes and more is known,” Michelle said. The employer trusts employees to accurately report their vaccination status.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/14/vaccine-convo-work</link>
+  <author>Sherry Qin</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/14/vaccine-convo-work</guid>
+  <pubDate>Sat, 14 Aug 2021 00:06:22 -0700</pubDate>
+ </item>
  <item>
   <title>The Taliban Is Taking Over Afghanistan and Its Drug Trade</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6238%2Fafghanistan_jump-starts_a.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The Taliban now effectively controls all of southern Afghanistan, and US officials told the NYT that the Biden administration is preparing for the possibility of the Afghan government collapsing within the next month. One of the many ramifications of the Taliban’s onslaught: It could pour fuel on the illegal drug market. Afghanistan is the world's biggest producer of opium, which most heroin is derived from: 84% of all the world’s opium was sourced from the country from 2015–20, per the UN’s World Drug Report.  Bottom line: The Taliban’s power grab likely means more heroin and meth will be pushed into the hands of dealers and users around the world.</description>
@@ -361,15 +370,6 @@
   <categories>auto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/car-rental-industry-rebounds-economy-rockets-pandemic?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 10 Aug 2021 03:01:48 -0700</pubDate>
- </item>
- <item>
-  <title>Democrats Announce $3.5 Trillion Budget Plan</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F5265%2Fwhite_house_budget.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Democrats will need to find a way to raise or suspend it soon to avoid economic chaos. One high-stakes battle remains: the debt ceiling, aka the limit on the US' ability to borrow money. Unfortunately for them, Democrats could push it through later this year without any GOP support thanks to their thin majority in the Senate.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/09/democrats-announce-35-trillion-budget-plan?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/09/democrats-announce-35-trillion-budget-plan?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 10 Aug 2021 03:01:47 -0700</pubDate>
  </item>
 
 </channel>
