@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/14/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/15/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/14</link>
- <lastBuildDate>Sat, 14 Aug 2021 03:03:17 -0700</lastBuildDate>
- <pubDate>Sat, 14 Aug 2021 03:03:17 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/15</link>
+ <lastBuildDate>Sun, 15 Aug 2021 15:38:20 -0700</lastBuildDate>
+ <pubDate>Sun, 15 Aug 2021 15:38:20 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Kriss Kross: Macy's Thanksgiving Day Parade Balloons</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3198%2Fmacy_s_thanksgiving_parade.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/15/kriss-kross-macys-thanksgiving-day-parade-balloons</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/15/kriss-kross-macys-thanksgiving-day-parade-balloons</guid>
+  <pubDate>Sun, 15 Aug 2021 15:36:24 -0700</pubDate>
+ </item>
  <item>
   <title>Money Matters: Taking the Plunge on a House</title>
   <description>&lt;img src='https://media.giphy.com/media/ir9ooRoyKZY8pRCJze/giphy.gif'&gt;&lt;br/&gt;Owning a home can make for a great investment. However, just because you can buy a house doesn’t mean you’re ready. For some, it’s much more appealing to rent so that you can dial up a landlord when your AC unit freezes over (not speaking from experience). Oh, and some more cash for a down payment—somewhere between 5% and 20% of the purchase price.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/key-performance-indicators-august-11</guid>
   <pubDate>Tue, 10 Aug 2021 15:01:52 -0700</pubDate>
- </item>
- <item>
-  <title>Senate Passes $1 Trillion Infrastructure Bill. Here's the Context.</title>
-  <description>&lt;img src='https://media.giphy.com/media/3o72F8t9TDi2xVnxOE/giphy.gif'&gt;&lt;br/&gt; 3 things to know about US infrastructure spendingIt peaked with the New Deal: During the Great Depression in 1933, the federal government spent 2.96% of US GDP on infrastructure, and we haven’t hit that mark since. State and local governments accounted for nearly 78% of all US public infrastructure spending in 2017.  We say $1 trillion, but new spending accounts for just $550 billion of the package, while the rest is previously approved funding. This infrastructure bill won’t do that.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/10/senate-passes-1-trillion-infrastructure-bill-heres-context</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/senate-passes-1-trillion-infrastructure-bill-heres-context</guid>
-  <pubDate>Tue, 10 Aug 2021 14:56:51 -0700</pubDate>
  </item>
 
 </channel>
