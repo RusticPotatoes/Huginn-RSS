@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/15/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/16/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/15</link>
- <lastBuildDate>Sun, 15 Aug 2021 17:48:14 -0700</lastBuildDate>
- <pubDate>Sun, 15 Aug 2021 17:48:14 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/16</link>
+ <lastBuildDate>Mon, 16 Aug 2021 03:03:16 -0700</lastBuildDate>
+ <pubDate>Mon, 16 Aug 2021 03:03:16 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: August 16</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F343%2Fa_row_of_local_retailers.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;CEO Elon Musk, who’s giving the keynote, has said that people will start thinking of Tesla as an “AI robotics” company instead of just an electric car company. beyond cars.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/15/week-ahead-august-16?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/15/week-ahead-august-16?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 16 Aug 2021 03:01:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 16</title>
+  <description>&lt;img src='https://media.giphy.com/media/Vi5qBEpExoCmzEcDvF/giphy.gif'&gt;&lt;br/&gt;(Eater)  Read: Inside the secretive, semi-illicit, high stakes world of WhatsApp mango importing.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/15/key-performance-indicators-august-16?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/15/key-performance-indicators-august-16?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 16 Aug 2021 03:01:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>Meet the People Who Are Working Two Remote Jobs Simultaneously: WSJ Report</title>
+  <description>&lt;img src='https://media.giphy.com/media/5QRnThZOV6csvKXdmB/giphy.gif'&gt;&lt;br/&gt;The catalyst: Some multiple-job employees said they were emboldened by Overemployed, a website dedicated to helping people work two jobs at once and achieve “financial freedom.” We all have that one friend who used the pandemic as cover to work two jobs at once without telling either employer.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/15/meet-people-working-two-remote-jobs-simultaneously-wsj-report?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/15/meet-people-working-two-remote-jobs-simultaneously-wsj-report?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 16 Aug 2021 03:01:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>NYC Begins Requiring Proof of Vaccination for Entrance to Indoor Venues</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2370%2Fnew_york_city.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;San Francisco is rolling out its vax mandates on Friday, which are even stricter than New York’s in that they require proof of full vaccination to enter many indoor businesses. It’s all the more urgent considering consumer confidence plunged to its lowest level since 2011 in July.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/15/nyc-begins-requiring-proof-vaccination-entrance-indoor-venues?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/15/nyc-begins-requiring-proof-vaccination-entrance-indoor-venues?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 16 Aug 2021 03:01:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>Exploring the Cost of the War in Afghanistan</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6245%2Fus_copter_in_afghanistan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The war has also cost the US an astronomical sum—$2.26 trillion to be exact, according to the Brown University Costs of War project. Big picture: Since the US invasion in 2001, more than 47,000 Afghan civilians and nearly 2,500 US troops have died in the conflict. The US-trained Afghan military was easily overwhelmed by the Taliban’s advance in a matter of weeks.   A few noticeable improvements in Afghanistan over the past two decades include increased life expectancy (56 years → 64) and a jump in the literacy rate (rising 8%, to 43%).</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/16/exploring-cost-war-afghanistan?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/16/exploring-cost-war-afghanistan?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 16 Aug 2021 03:01:15 -0700</pubDate>
+ </item>
  <item>
   <title>Exploring the Cost of the War in Afghanistan</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6245%2Fus_copter_in_afghanistan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The war has also cost the US an astronomical sum—$2.26 trillion to be exact, according to the Brown University Costs of War project. Big picture: Since the US invasion in 2001, more than 47,000 Afghan civilians and nearly 2,500 US troops have died in the conflict. The US-trained Afghan military was easily overwhelmed by the Taliban’s advance in a matter of weeks.   A few noticeable improvements in Afghanistan over the past two decades include increased life expectancy (56 years in 2001 → 64, per the World Bank) and a jump in the literacy rate (rising 8%, to 43%).</description>
@@ -325,51 +370,6 @@
   <categories>work life</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/11/return-office-argument</guid>
   <pubDate>Wed, 11 Aug 2021 14:01:57 -0700</pubDate>
- </item>
- <item>
-  <title>WeWork Teams Up With Saks Fifth Avenue For In-Store Coworking</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6175%2Fsakswork.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Turning stores into offices is the latest development in an ongoing quest to repurpose empty retail space, and it’s way less bizarre than when Spirit Halloween takes over an abandoned Babies R Us.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/10/wework-teams-saks-fifth-avenue-instore-coworking?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/wework-teams-saks-fifth-avenue-instore-coworking?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 11 Aug 2021 03:01:46 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 11</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F2485%2Foutdoor_equinox_gym.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Atlantic)  Read: Grief, conspiracy theories, and one family’s search for meaning in the two decades since 9/11. NASA said making spacesuits could delay its goal of landing on the moon in 2024.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/10/key-performance-indicators-august-11?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/key-performance-indicators-august-11?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 11 Aug 2021 03:01:46 -0700</pubDate>
- </item>
- <item>
-  <title>Soccer Icon Lionel Messi Signs With Paris in a Move That Will Reverberate Beyond the Pitch</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6174%2Ftopshot-fbl-fra-ligue1-ps.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Qatari government poured its oil money into PSG to increase the country’s global profile, turning the club into one of the richest soccer franchises in the world. Lionel Messi, considered by many the best soccer player in the world, flew to France yesterday and confirmed his stunning move from Barcelona to Paris Saint-Germain (PSG).</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/10/soccer-icon-lionel-messi-signs-paris-move-will-reverberate-beyond-pitch?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/soccer-icon-lionel-messi-signs-paris-move-will-reverberate-beyond-pitch?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 11 Aug 2021 03:01:46 -0700</pubDate>
- </item>
- <item>
-  <title>Influencers Want You To Get Vaccinated</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6176%2Favengers.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; The video (and the only Benny Drama clip that’s appropriate to share in this newsletter) is one of many instances of US health leaders utilizing social media influencers to fight Covid-19 vaccine misinformation and encourage young people to get vaccinated.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/10/influencers-want-get-vaccinated?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/influencers-want-get-vaccinated?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 11 Aug 2021 03:01:46 -0700</pubDate>
- </item>
- <item>
-  <title>Senate Passes $1 Trillion Infrastructure Bill. Here's the Context.</title>
-  <description>&lt;img src='https://media.giphy.com/media/3o72F8t9TDi2xVnxOE/giphy.gif'&gt;&lt;br/&gt; 3 things to know about US infrastructure spendingIt peaked with the New Deal: During the Great Depression in 1933, the federal government spent 2.96% of US GDP on infrastructure, and we haven’t hit that mark since. State and local governments accounted for nearly 78% of all US public infrastructure spending in 2017.  We say $1 trillion, but new spending accounts for $550 billion of the package, while the rest is previously approved funding. This infrastructure bill won’t do that.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/10/senate-passes-1-trillion-infrastructure-bill-heres-context?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/senate-passes-1-trillion-infrastructure-bill-heres-context?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 11 Aug 2021 03:01:46 -0700</pubDate>
  </item>
 
 </channel>
