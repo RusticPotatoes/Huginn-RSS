@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/16</link>
- <lastBuildDate>Mon, 16 Aug 2021 03:03:16 -0700</lastBuildDate>
- <pubDate>Mon, 16 Aug 2021 03:03:16 -0700</pubDate>
+ <lastBuildDate>Mon, 16 Aug 2021 14:48:20 -0700</lastBuildDate>
+ <pubDate>Mon, 16 Aug 2021 14:48:20 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>US Launches Investigation Into Tesla's Autopilot System</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6268%2Fan_illustration_of_a_parked_tesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The investigation stems from 11 incidents in which drivers using Tesla’s Autopilot feature struck stationary first-responder vehicles. US auto regulators have launched an investigation into Tesla’s advanced driver-assistance system, Autopilot, ramping up scrutiny of Elon Musk’s self-driving efforts.  What isn’t Autopilot? Investors are not not worried—Tesla shares sank more than 4% on the news.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/16/us-launches-investigation-teslas-autopilot-system</link>
+  <author>Neal Freyman</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/16/us-launches-investigation-teslas-autopilot-system</guid>
+  <pubDate>Mon, 16 Aug 2021 14:46:19 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: August 16</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F343%2Fa_row_of_local_retailers.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;CEO Elon Musk, who’s giving the keynote, has said that people will start thinking of Tesla as an “AI robotics” company instead of just an electric car company. beyond cars.</description>
@@ -361,15 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/11/samsung-doubling-foldable-phones-newest-launch</guid>
   <pubDate>Wed, 11 Aug 2021 14:56:53 -0700</pubDate>
- </item>
- <item>
-  <title>Return to the office? An argument for, and against</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6193%2Fbusinesswoman_using_mobile_phone_on_escalator_in_office.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After 17 months of working at home in sweatpants amid a pandemic, should we dig out our work clothes and return to the physical workplace? And so I think we'll be much more flexible going forward when people say, Hey, can I work from home on Friday? Before COVID-19 there was a small remote office in Los Angeles, a central office in New York, and a few individuals working elsewhere around the country. But I do know that I’m going to want to continue to have work-life balance, and that includes being able to leave the home and get to the office and activate that part of my brain and identity. I think we’ve all seen firms—particularly in the finance industry—coming out and saying, OK, everyone needs to be in the office two or three days a week.  But a number of people have been like, really? Morning Brew asked three business professionals—one startup CEO, one mid-level manager at a Fortune 500 financial services company, and one large-company executive who’s about to become a parent—to share their thoughts.  So, I want to set a baseline that you're supposed to come into the office five days a week. When I'm at the office, I know that all my teammates and I are working toward the same thing. You want to be back in an office full-time, even with the baby on the way? Even if it's a different project, there’s a common bond of people working toward this shared mission and vision. I think it has something to do with not working on the same objectives.  I also ruled out hybrid and remote working because there’s far less opportunity for real face-to-face connection. And I think that’s a mistake because in the end you’re going to find a line that satisfies no one.  Throughout COVID-19 we learned that for certain types of work, some people are actually more efficient by not being disrupted in the office. And while I don’t think there are zero benefits to working in the office, where I come down pretty hard is the idea of mandating office or location time based on some arbitrary quota. A company is not a place that fits everyone, at every stage of their life. It was always understood that working from home was done occasionally, when you had a doctor’s appointment or something along those lines. More than two-thirds of them thought workers needed to be in-office at least three days per week; just 5% believed company culture would remain intact with a fully remote workforce. The argument for flexibilityBy Lauren Friend, senior director of learning and enablement, EvolveI'm a people person. The kind where you think, I'm going to walk by their desk and say hello...  My team has been fully remote for a year and a half and we've been exactly as efficient or more efficient than we were when we were in the office.  Ultimately, my biggest piece of advice for other organizations is if you put your people first, the rest is going to figure itself out. There are some people who moved during COVID-19, and that's different. He was full-time, five days a week in the office. I like to get up and move, to be in one corner of the office for this meeting and then bounce to another area for the next one.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/11/return-office-argument</link>
-  <author>Devin Tomb</author>
-  <categories>work life</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/11/return-office-argument</guid>
-  <pubDate>Wed, 11 Aug 2021 14:01:57 -0700</pubDate>
  </item>
 
 </channel>
