@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/15</link>
- <lastBuildDate>Sun, 15 Aug 2021 17:23:18 -0700</lastBuildDate>
- <pubDate>Sun, 15 Aug 2021 17:23:18 -0700</pubDate>
+ <lastBuildDate>Sun, 15 Aug 2021 17:28:18 -0700</lastBuildDate>
+ <pubDate>Sun, 15 Aug 2021 17:28:18 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: August 16</title>
+  <description>&lt;img src='https://media.giphy.com/media/Vi5qBEpExoCmzEcDvF/giphy.gif'&gt;&lt;br/&gt;(Eater)  Read: Inside the secretive, semi-illicit, high stakes world of WhatsApp mango importing.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/15/key-performance-indicators-august-16</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/15/key-performance-indicators-august-16</guid>
+  <pubDate>Sun, 15 Aug 2021 17:26:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Week Ahead: August 16</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F343%2Fa_row_of_local_retailers.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;CEO Elon Musk, who’s giving the keynote, has said that people will start thinking of Tesla as an “AI robotics” company instead of just an electric car company. beyond cars.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/15/week-ahead-august-16</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/15/week-ahead-august-16</guid>
+  <pubDate>Sun, 15 Aug 2021 17:26:17 -0700</pubDate>
+ </item>
  <item>
   <title>Meet the People Who Are Working Two Remote Jobs Simultaneously: WSJ Report</title>
   <description>&lt;img src='https://media.giphy.com/media/5QRnThZOV6csvKXdmB/giphy.gif'&gt;&lt;br/&gt;The catalyst: Some multiple-job employees said they were emboldened by Overemployed, a website dedicated to helping people work two jobs at once and achieve “financial freedom.” We all have that one friend who used the pandemic as cover to work two jobs at once without telling either employer.</description>
@@ -352,24 +370,6 @@
   <categories>cryptocurrency</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/11/choose-cryptocurrency-crypto-platform</guid>
   <pubDate>Tue, 10 Aug 2021 21:51:49 -0700</pubDate>
- </item>
- <item>
-  <title>WeWork Teams Up With Saks Fifth Avenue For In-Store Coworking</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6175%2Fsakswork.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: Turning stores into offices is the latest development in an ongoing quest to repurpose empty retail space, and it’s way less bizarre than when Spirit Halloween takes over an abandoned Babies R Us.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/10/wework-teams-saks-fifth-avenue-instore-coworking</link>
-  <author>Jamie Wilde</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/wework-teams-saks-fifth-avenue-instore-coworking</guid>
-  <pubDate>Tue, 10 Aug 2021 15:06:51 -0700</pubDate>
- </item>
- <item>
-  <title>Influencers Want You To Get Vaccinated</title>
-  <description>&lt;img src='https://media.giphy.com/media/BW7QHkBICEZG0/giphy.gif'&gt;&lt;br/&gt; The video (and the only Benny Drama clip that’s appropriate to share in this newsletter) is one of many instances of US health leaders utilizing social media influencers to encourage young people to get vaccinated and fight Covid-19 vaccine misinformation.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/10/influencers-want-get-vaccinated</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/influencers-want-get-vaccinated</guid>
-  <pubDate>Tue, 10 Aug 2021 15:01:52 -0700</pubDate>
  </item>
 
 </channel>
