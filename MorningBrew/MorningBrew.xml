@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/15</link>
- <lastBuildDate>Sun, 15 Aug 2021 17:28:18 -0700</lastBuildDate>
- <pubDate>Sun, 15 Aug 2021 17:28:18 -0700</pubDate>
+ <lastBuildDate>Sun, 15 Aug 2021 17:48:14 -0700</lastBuildDate>
+ <pubDate>Sun, 15 Aug 2021 17:48:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Exploring the Cost of the War in Afghanistan</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6245%2Fus_copter_in_afghanistan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The war has also cost the US an astronomical sum—$2.26 trillion to be exact, according to the Brown University Costs of War project. Big picture: Since the US invasion in 2001, more than 47,000 Afghan civilians and nearly 2,500 US troops have died in the conflict. The US-trained Afghan military was easily overwhelmed by the Taliban’s advance in a matter of weeks.   A few noticeable improvements in Afghanistan over the past two decades include increased life expectancy (56 years in 2001 → 64, per the World Bank) and a jump in the literacy rate (rising 8%, to 43%).</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/16/exploring-cost-war-afghanistan</link>
+  <author>Neal Freyman</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/16/exploring-cost-war-afghanistan</guid>
+  <pubDate>Sun, 15 Aug 2021 17:46:24 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: August 16</title>
   <description>&lt;img src='https://media.giphy.com/media/Vi5qBEpExoCmzEcDvF/giphy.gif'&gt;&lt;br/&gt;(Eater)  Read: Inside the secretive, semi-illicit, high stakes world of WhatsApp mango importing.</description>
@@ -361,15 +370,6 @@
   <categories>economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/10/senate-passes-1-trillion-infrastructure-bill-heres-context?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 11 Aug 2021 03:01:46 -0700</pubDate>
- </item>
- <item>
-  <title>How to choose a cryptocurrency (and crypto platform)</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Foslo-production.s3.amazonaws.com%2Fuploads%2Fmedium%2Fasset%2F6177%2Ftrading_cryptocurrency_on_mobile_exchange.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;.  You can trade crypto futures via:Chicago Mercantile ExchangeBakktCrypto stocksThere are several cryptocurrency companies with publicly-traded shares that you can get your hands on. The process will likely go as follows:Sign upVerification (also known as “KYC AML,” for “know your customer” identity verification and “anti-money laundering” regulatory steps)Connect your bank accountPurchase crypto for 0.5% to 2% feeHold crypto on the platform or move it to “hot” (Internet-connected) or “cold” (disconnected) storageAnd that’s it! Ether (ETH)Ether—also sometimes called Ethereum after the name of its corresponding platform—is the second-largest digital asset, representing roughly 20% of the crypto market. ) Bitcoin is a digital form of money that can be sent worldwide for a small transaction fee and is nearly impossible to hack. Let’s say you’re an investor with experience and you don’t want to go through the hassle of handling your own cryptocurrency trades. Examples:Coinbase (COIN) — the well-known crypto exchangeMicroStrategy (MSTR) — a business services company and leading Bitcoin investorSilvergate Bank (SI) — a digital asset bankMarathon Digital (MARA) — a leading Bitcoin minerJust remember... and everybody elseSeeking crypto investment options beyond Bitcoin and Ethereum is no different than any other kind of experimental bet—in exchange for upping your risk profile considerably, you could give your portfolio exposure to bleeding-edge technology that could dominate the market in the future. com (CRO)OGs: Bitcoin Cash (BCH), Dogecoin (DOGE), Ripple (XRP)Payment tokens: Litecoin (LTC), Terra (LUNA), Stellar (XLM)NFTs: Axie Infinity (AXS), Flow (FLOW), Decentraland (MANA)In summaryIn the crypto world, Bitcoin and Ether are the GOATs. But if you’re looking into what many people would call “altcoins,” there are many paths to take. Ethereum ultimately powers a network of decentralized crypto businesses that everyone can use and nobody can take down. Choose your cryptocurrencyThe two titansTwo cryptos stand head and shoulders over the rest, representing nearly 70% of the total industry: Bitcoin and Ether.  But in a world being eaten alive by software, the allure of grabbing some digital gold amid the rush is undeniable.  Bitcoin (BTC)Created in 2009, Bitcoin is the oldest cryptocurrency and maintains a dominant market share of about half the market.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/11/choose-cryptocurrency-crypto-platform</link>
-  <author>Mark Murdock</author>
-  <categories>cryptocurrency</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/11/choose-cryptocurrency-crypto-platform</guid>
-  <pubDate>Tue, 10 Aug 2021 21:51:49 -0700</pubDate>
  </item>
 
 </channel>
