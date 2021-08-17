@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/17</link>
- <lastBuildDate>Tue, 17 Aug 2021 14:48:19 -0700</lastBuildDate>
- <pubDate>Tue, 17 Aug 2021 14:48:19 -0700</pubDate>
+ <lastBuildDate>Tue, 17 Aug 2021 14:53:20 -0700</lastBuildDate>
+ <pubDate>Tue, 17 Aug 2021 14:53:20 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Can Kids Revive Retail?</title>
+  <description>&lt;img src='https://media.giphy.com/media/l1J9rURykdgphbkLS/giphy.gif'&gt;&lt;br/&gt;Even worse, a Cincinnati-area Walmart ran out of all Disney backpacks. Retail could use the sparkRetail sales fell more than expected (-1.1%) in July, the Commerce Department said yesterday. Thanks to inflation, consumers should expect to pay 10%–15% more compared to last year for apparel, according to USA Today. Families with children in elementary- through high school plan to spend an average of $848.90 on school supplies, a $59 increase over last year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/17/can-kids-revive-retail</link>
+  <author>Neal Freyman</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/can-kids-revive-retail</guid>
+  <pubDate>Tue, 17 Aug 2021 14:51:19 -0700</pubDate>
+ </item>
  <item>
   <title>OnlyFans Launches a SFW App</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6281%2Fscreenshot_from_oftv_app.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And while OFTV won’t ditch the adult creators who drove OnlyFans’s revenue to pop by 553% last year, the app will also feature chefs, pilates instructors, and podcasters. The workaround: a new product called OFTV that contains a library of over 800 videos featuring the same creators from its site...</description>
@@ -361,15 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/12/field-dreams-game-brought-thousands-visitors-small-iowa-town</guid>
   <pubDate>Thu, 12 Aug 2021 15:06:47 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: Friday the 13th</title>
-  <description>&lt;img src='https://media.giphy.com/media/J4UsQYXFr2QjxROhZ3/giphy.gif'&gt;&lt;br/&gt;To illustrate how impressive that is, Disney initially projected that the streaming service would hit between 60 million to 90 million subscribers...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/12/key-performance-indicators-friday-13th</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/12/key-performance-indicators-friday-13th</guid>
-  <pubDate>Thu, 12 Aug 2021 15:01:45 -0700</pubDate>
  </item>
 
 </channel>
