@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/17</link>
- <lastBuildDate>Tue, 17 Aug 2021 14:43:19 -0700</lastBuildDate>
- <pubDate>Tue, 17 Aug 2021 14:43:19 -0700</pubDate>
+ <lastBuildDate>Tue, 17 Aug 2021 14:48:19 -0700</lastBuildDate>
+ <pubDate>Tue, 17 Aug 2021 14:48:19 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>OnlyFans Launches a SFW App</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6281%2Fscreenshot_from_oftv_app.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And while OFTV won’t ditch the adult creators who drove OnlyFans’s revenue to pop by 553% last year, the app will also feature chefs, pilates instructors, and podcasters. The workaround: a new product called OFTV that contains a library of over 800 videos featuring the same creators from its site...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/17/onlyfans-launches-sfw-app</link>
+  <author>Jamie Wilde</author>
+  <categories>creator economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/onlyfans-launches-sfw-app</guid>
+  <pubDate>Tue, 17 Aug 2021 14:46:18 -0700</pubDate>
+ </item>
  <item>
   <title>Palantir Buys $50.7 Million Worth of Gold Bars</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6280%2Flots_of_gold_bars.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;As for putting bitcoin on its balance sheet, “The short answer is yes, we’re thinking about it,” finance chief Dave Glazer said in May. But Palantir is pushing the genre to new limits, investing in gold bars and pouring $250 million into startups that use Palantir software.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/12/key-performance-indicators-friday-13th</guid>
   <pubDate>Thu, 12 Aug 2021 15:01:45 -0700</pubDate>
- </item>
- <item>
-  <title>Census Data Shows White Population Dropped in the US for the First Time</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6210%2Fcensus_map.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Cities are getting bigger while rural areas empty out: “Population growth was almost entirely in metropolitan areas,” the US Census Bureau’s Marc Perry said. Still, that growth has slowed down: The US population increased 7.4% from 2010 to 2020, the lowest growth rate since the 1930s.  The government dropped the first detailed results from the 2020 count yesterday, revealing a country that’s more racially diverse, urban, and Phoenician than the previous tally a decade ago. The non-Hispanic white population dropped for the first time on record (2.6%), falling to its lowest share of the total population on record.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/12/census-data-shows-white-population-dropped-us-first-time</link>
-  <author>Neal Freyman</author>
-  <categories>demographics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/12/census-data-shows-white-population-dropped-us-first-time</guid>
-  <pubDate>Thu, 12 Aug 2021 14:46:52 -0700</pubDate>
  </item>
 
 </channel>
