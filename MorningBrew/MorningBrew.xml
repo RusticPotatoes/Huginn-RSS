@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/17</link>
- <lastBuildDate>Tue, 17 Aug 2021 14:53:20 -0700</lastBuildDate>
- <pubDate>Tue, 17 Aug 2021 14:53:20 -0700</pubDate>
+ <lastBuildDate>Tue, 17 Aug 2021 15:03:22 -0700</lastBuildDate>
+ <pubDate>Tue, 17 Aug 2021 15:03:22 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Biden Administration is Expected to Advise Boosters for Most Americans</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Why booster shots?  Nearly 1 million Israelis have already received booster shots. Growing case numbers in highly vaccinated countries show that vaccine effectiveness may wear off over time, particularly against the Delta variant.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/17/biden-administration-expected-advise-boosters-americans</link>
+  <author>Sherry Qin</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/biden-administration-expected-advise-boosters-americans</guid>
+  <pubDate>Tue, 17 Aug 2021 15:01:22 -0700</pubDate>
+ </item>
  <item>
   <title>Can Kids Revive Retail?</title>
   <description>&lt;img src='https://media.giphy.com/media/l1J9rURykdgphbkLS/giphy.gif'&gt;&lt;br/&gt;Even worse, a Cincinnati-area Walmart ran out of all Disney backpacks. Retail could use the sparkRetail sales fell more than expected (-1.1%) in July, the Commerce Department said yesterday. Thanks to inflation, consumers should expect to pay 10%–15% more compared to last year for apparel, according to USA Today. Families with children in elementary- through high school plan to spend an average of $848.90 on school supplies, a $59 increase over last year.</description>
@@ -361,15 +370,6 @@
   <categories>social media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/12/reddits-valuation-upvoted-10-billion</guid>
   <pubDate>Thu, 12 Aug 2021 15:11:51 -0700</pubDate>
- </item>
- <item>
-  <title>‘Field of Dreams’ Game Brought Thousands of Visitors to a Small Iowa Town</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4834%2Fbaseball.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Mayor Heavens said up until now, the field hasn’t been a significant economic driver for the town despite attracting 60,000+ visitors per year. The MLB initially scheduled the game for 2020, but it was pushed back because of the pandemic. residents hope Dyersville will become a regular stop on MLB’s schedule. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/12/field-dreams-game-brought-thousands-visitors-small-iowa-town</link>
-  <author>Matty Merritt</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/12/field-dreams-game-brought-thousands-visitors-small-iowa-town</guid>
-  <pubDate>Thu, 12 Aug 2021 15:06:47 -0700</pubDate>
  </item>
 
 </channel>
