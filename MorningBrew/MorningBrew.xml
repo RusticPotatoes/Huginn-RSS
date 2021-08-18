@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/17/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/17/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/18/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/17</link>
- <lastBuildDate>Tue, 17 Aug 2021 15:03:22 -0700</lastBuildDate>
- <pubDate>Tue, 17 Aug 2021 15:03:22 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/18</link>
+ <lastBuildDate>Wed, 18 Aug 2021 03:03:18 -0700</lastBuildDate>
+ <pubDate>Wed, 18 Aug 2021 03:03:18 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Palantir Buys $50.7 Million Worth of Gold Bars</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6280%2Flots_of_gold_bars.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;As for putting bitcoin on its balance sheet, “The short answer is yes, we’re thinking about it,” finance chief Dave Glazer said in May. — NF But Palantir is putting its own spin on the genre, investing in gold bars and pouring $250 million into startups that use Palantir software.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/17/palantir-buys-507-million-worth-gold-bars?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>strategy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/palantir-buys-507-million-worth-gold-bars?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 18 Aug 2021 03:01:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 18</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4619%2Fheisman_trophy.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(GQ)  Read: The 21 most exciting young musicians on planet Earth. Fed Chair Jerome Powell talked about the pandemic’s effect on students at a town hall meeting yesterday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/17/key-performance-indicators-august-18?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/key-performance-indicators-august-18?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 18 Aug 2021 03:01:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>OnlyFans Launches a SFW App</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6281%2Fscreenshot_from_oftv_app.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And while OFTV won’t ditch the creators who helped drive OnlyFans revenue 553% higher last year, the app will also feature chefs, pilates instructors, and podcasters. We still don’t recommend scrolling through OnlyFans at work, but the company’s latest product—a new app for Android and iOS—is much closer to PG.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/17/onlyfans-launches-sfw-app?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>creator economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/onlyfans-launches-sfw-app?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 18 Aug 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Biden Administration is Expected to Advise Boosters for Most Americans</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Nearly 1 million Israelis have already received booster shots.  Why booster shots? Hope you have enough storage in your phone for one more vaccine selfie: The White House is expected to announce this week that most Americans will need a Covid booster shot eight months after their second doses. – SQ</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/17/biden-administration-expected-advise-boosters-americans?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/biden-administration-expected-advise-boosters-americans?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 18 Aug 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Can Kids Revive Retail?</title>
+  <description>&lt;img src='https://media.giphy.com/media/l1J9rURykdgphbkLS/giphy.gif'&gt;&lt;br/&gt;Even worse, a Cincinnati-area Walmart ran out of all Disney backpacks. The retailer said its stores were busy with parents buying backpacks, lunch boxes, and other school supplies for their kids, and even raised its revenue outlook for the year. With inflation on the rise, consumers should expect to pay 10%–15% more compared to last year for apparel, according to USA Today. Families with children in elementary through high school plan to spend an average of $848.90 on school supplies, a $59 increase over last year. — NF</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/17/can-kids-revive-retail?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/can-kids-revive-retail?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 18 Aug 2021 03:01:17 -0700</pubDate>
+ </item>
  <item>
   <title>The Biden Administration is Expected to Advise Boosters for Most Americans</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Why booster shots?  Nearly 1 million Israelis have already received booster shots. Growing case numbers in highly vaccinated countries show that vaccine effectiveness may wear off over time, particularly against the Delta variant.</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/13/key-performance-indicators-august-14</guid>
   <pubDate>Fri, 13 Aug 2021 14:31:15 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: Taking the Plunge on a House</title>
-  <description>&lt;img src='https://media.giphy.com/media/ir9ooRoyKZY8pRCJze/giphy.gif'&gt;&lt;br/&gt;Owning a home can make for a great investment. Bottom line: Buy a house when you find the perfect place at the right price and are ready to take on the financial and physical responsibility. For some, it’s much more appealing to rent so that you can dial up a landlord when your AC unit freezes over (not speaking from experience).</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/13/money-matters-taking-plunge-house</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/13/money-matters-taking-plunge-house</guid>
-  <pubDate>Fri, 13 Aug 2021 14:31:15 -0700</pubDate>
- </item>
- <item>
-  <title>Gym Rats are Bullish on In-Person Workouts, but Trends Point to a More Hybrid Future</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6234%2Fgym.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;How’d these gyms make it? Planet Fitness increased revenue 241% last quarter compared to 2020, and added 700k new members. Cycling studio Flywheel filed for Chapter 7 bankruptcy in September (meaning liquidation) while YogaWorks, Gold’s Gym, 24 Hour Fitness, as well as the parent company of New York Sports Clubs and Boston Sports Clubs all closed hundreds of locations across the US and filed for Chapter 11 (restructuring), citing pandemic-related problems. Even if we avoid another massive lockdown, most data points to in-home fitness sticking around and coexisting with gyms. 70% of online fitness program users plan to keep using them post-pandemic, per McKinsey. Planet Fitness CEO Chris Rondeau told CNBC this week that about 150 clubs currently require masks in accordance with local guidelines, but he hopes that the mandates are short-lived.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/13/gym-rats-bullish-inperson-workouts-trends-point-hybrid-future</link>
-  <author>Matty Merritt</author>
-  <categories>analysis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/13/gym-rats-bullish-inperson-workouts-trends-point-hybrid-future</guid>
-  <pubDate>Fri, 13 Aug 2021 14:16:21 -0700</pubDate>
- </item>
- <item>
-  <title>Make It Work: The Grass Isn't Always Greener </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Unfortunately, your husband’s rules must have some exceptions. Each week, our workplace whisperer Shane Loughnane answers reader-submitted questions about work in 2021. It's possible that since this is my first real job I am unable to identify problem areas, but I want to be better at identifying issues and communicating them.   Until then, take some advice from business sage Billy Madison: “Stay here.   It’s quite possible to simply find yourself in a great job situation that also happens to be the right fit at the right time in your career. Got any advice? Dang, you almost talked me into it.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/13/make-work-grass-isnt-always-greener</link>
-  <author>Neal Freyman</author>
-  <categories>work life</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/13/make-work-grass-isnt-always-greener</guid>
-  <pubDate>Fri, 13 Aug 2021 14:06:19 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers with...Olympic Champion Surfer Carissa Moore</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6233%2Faround_the_games_-_olympi.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;I’ve been on a surf trip here but it was over 10 years ago, and I have some of the best memories from surfing this spot. What’s the world of competitive surfing like? In Tokyo, Hawaii native Carissa Moore won the gold medal for the US in surfing’s first ever Olympics. But being conscious of and in tune with your own mental health, not being afraid to ask for help, and taking the time you need to feel through that space is super important. If you could compete at any surf spot around the world, what would it be? I hope it opens up surfing to a broader audience and can bring more people in, whether that's by inspiring someone to try surfing for the first time, or motivating them to choose their own path.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/13/icebreakers-witholympic-champion-surfer-carissa-moore</link>
-  <author>Jamie Wilde</author>
-  <categories>qanda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/13/icebreakers-witholympic-champion-surfer-carissa-moore</guid>
-  <pubDate>Fri, 13 Aug 2021 14:01:19 -0700</pubDate>
- </item>
- <item>
-  <title>Reddit’s Valuation Upvoted to $10 Billion</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6212%2Freddit_meme.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Reddit recorded $100 million in ad revenue last quarter, which is a 192% annual increase but comes nowhere near Twitter’s $1.2 billion and Facebook’s $28.6 billion. Reddit’s “still planning on going public,” Huffman told the NYT...  Big picture: Despite its outsized cultural influence, Reddit’s still just a guppy swimming among sharks.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/12/reddits-valuation-upvoted-10-billion</link>
-  <author>Jamie Wilde</author>
-  <categories>social media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/12/reddits-valuation-upvoted-10-billion</guid>
-  <pubDate>Thu, 12 Aug 2021 15:11:51 -0700</pubDate>
  </item>
 
 </channel>
