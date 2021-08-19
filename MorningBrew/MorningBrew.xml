@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/18/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/19/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/19/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/18</link>
- <lastBuildDate>Wed, 18 Aug 2021 14:53:22 -0700</lastBuildDate>
- <pubDate>Wed, 18 Aug 2021 14:53:22 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/19</link>
+ <lastBuildDate>Thu, 19 Aug 2021 03:04:14 -0700</lastBuildDate>
+ <pubDate>Thu, 19 Aug 2021 03:04:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Old Navy Will No Longer Keep Women’s Plus-size Clothing in Separate Sections</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6302%2Fold_navy_plus-sized_models.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: Old Navy joins other apparel brands that have recently broadened their size options and featured plus-size models in marketing materials, including Victoria’s Secret, Target, Nike, and Nordstrom.  Quick history lesson: Back in 2014, Old Navy was criticized for charging higher prices for women’s plus-size jeans, but not men’s.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/18/old-navy-will-no-longer-keep-womens-plussize-clothing-separate-sections?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/old-navy-will-no-longer-keep-womens-plussize-clothing-separate-sections?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 19 Aug 2021 03:02:14 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 19</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F5340%2Faustin_texas_skyline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Harper's) The number of people who died from opioid overdoses from 1999 to 2019 is nearly half a million, per the CDC.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/18/key-performance-indicators-august-19?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/key-performance-indicators-august-19?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 19 Aug 2021 03:02:13 -0700</pubDate>
+ </item>
+ <item>
+  <title>T-Mobile Data Breach Compromises The Data of Nearly 50 Million</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6299%2Fin_this_photo_illustratio.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In response, T-Mobile said it was “working around the clock to investigate claims being made that T-Mobile data may have been illegally accessed.” Looks like hackers couldn’t resist T-Mobile’s hot pink branding: The mobile carrier said yesterday that the data of 40 million former and prospective customers + 8 million current users had been breached. — JW</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/18/tmobile-data-breach-compromises-data-nearly-50-million?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>cybersecurity</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/tmobile-data-breach-compromises-data-nearly-50-million?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 19 Aug 2021 03:02:13 -0700</pubDate>
+ </item>
+ <item>
+  <title>What's Next for Afghanistan's Economy? </title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6298%2Ftaliban_closes_in_on_afgh.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;— NF Big picture: Gaining economic leverage against the Taliban might be difficult for the US, since the group operates outside formal banking channels that the US has traditionally used to apply sanctions.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/18/whats-next-afghanistans-economy?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>international</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/whats-next-afghanistans-economy?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 19 Aug 2021 03:02:13 -0700</pubDate>
+ </item>
+ <item>
+  <title>Robinhood Extends Its Relationship With Individual Traders Using Say's Platform</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2127%2Frobinhood_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The forum for investors’ questions was made possible by Say Technologies, a firm Robinhood acquired for $140 million earlier this month. It earned $233 million in revenue from crypto trading last quarter, which is astonishing because…It earned just $5 million from crypto trading in Q2 2020Crypto now accounts for 51% of all transaction-based revenueDogecoin trading made up 62% of total crypto revenueLooking ahead... As initial investors, can we get a Robinhood coat and hoodie jacket?  Forget the hoodies—for Robinhood it’s all about crypto. Is Robinhood getting a crypto wallet?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/18/robinhood-extends-relationship-individual-traders-using-says-platform?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>stocks</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/robinhood-extends-relationship-individual-traders-using-says-platform?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 19 Aug 2021 03:02:13 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: August 19</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F5340%2Faustin_texas_skyline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Knowable Magazine) You could, too. Read: Dozens of traditional cultures use a whistled form of their native language for long-distance communication.</description>
@@ -325,51 +370,6 @@
   <categories>work</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/15/meet-people-working-two-remote-jobs-simultaneously-wsj-report</guid>
   <pubDate>Sun, 15 Aug 2021 17:21:17 -0700</pubDate>
- </item>
- <item>
-  <title>NYC Begins Requiring Proof of Vaccination for Entrance to Indoor Venues</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2370%2Fnew_york_city.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;San Francisco is rolling out its vax mandates on Friday, which are even stricter than New York’s in that they require proof of full vaccination to enter many indoor businesses. It’s all the more urgent considering consumer confidence plunged to its lowest level since 2011 in July.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/15/nyc-begins-requiring-proof-vaccination-entrance-indoor-venues</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/15/nyc-begins-requiring-proof-vaccination-entrance-indoor-venues</guid>
-  <pubDate>Sun, 15 Aug 2021 17:21:17 -0700</pubDate>
- </item>
- <item>
-  <title>Kriss Kross: Macy's Thanksgiving Day Parade Balloons</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3198%2Fmacy_s_thanksgiving_parade.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/15/kriss-kross-macys-thanksgiving-day-parade-balloons</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/15/kriss-kross-macys-thanksgiving-day-parade-balloons</guid>
-  <pubDate>Sun, 15 Aug 2021 15:36:24 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: Taking the Plunge on a House</title>
-  <description>&lt;img src='https://media.giphy.com/media/ir9ooRoyKZY8pRCJze/giphy.gif'&gt;&lt;br/&gt;Owning a home can make for a great investment. However, just because you can buy a house doesn’t mean you’re ready. For some, it’s much more appealing to rent so that you can dial up a landlord when your AC unit freezes over (not speaking from experience). Oh, and some more cash for a down payment—somewhere between 5% and 20% of the purchase price.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/13/money-matters-taking-plunge-house?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/13/money-matters-taking-plunge-house?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 14 Aug 2021 03:01:17 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 14</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6236%2F2021_lollapalooza_-_day_1.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Rest of World)  Read: Why China’s crypto cowboys are fleeing to Texas.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/13/key-performance-indicators-august-14?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/13/key-performance-indicators-august-14?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 14 Aug 2021 03:01:17 -0700</pubDate>
- </item>
- <item>
-  <title>Delta Upends Back-to-Work Plans: Morning Brew Survey</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6232%2Fchart_of_back_to_work_plans.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; We posed several other questions to readers about remote work and the pandemic. Offices are still empty: 75% of respondents are working fully remote, while 20% head in a few times a week. But they like working from home: 66% of readers said working from home during the pandemic was better than expected.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/13/delta-upends-backtowork-plans-morning-brew-survey?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/13/delta-upends-backtowork-plans-morning-brew-survey?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 14 Aug 2021 03:01:17 -0700</pubDate>
  </item>
 
 </channel>
