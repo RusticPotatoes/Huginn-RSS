@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/19</link>
- <lastBuildDate>Thu, 19 Aug 2021 14:39:12 -0700</lastBuildDate>
- <pubDate>Thu, 19 Aug 2021 14:39:12 -0700</pubDate>
+ <lastBuildDate>Thu, 19 Aug 2021 14:43:11 -0700</lastBuildDate>
+ <pubDate>Thu, 19 Aug 2021 14:43:11 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Facebook Launches VR Meeting Space Called Workrooms</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6317%2Ffacebook_horizon_workrooms.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: Workrooms is one part of a larger VR experience called Horizon that Facebook originally planned to launch last year. And if not everyone on your team has an Oculus headset, they can still join via video, appearing as part of a tiled, Zoom-like display at the end of the table.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/19/facebook-launches-vr-meeting-space-called-workrooms</link>
+  <author>Jamie Wilde</author>
+  <categories>metaverse</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/facebook-launches-vr-meeting-space-called-workrooms</guid>
+  <pubDate>Thu, 19 Aug 2021 14:41:11 -0700</pubDate>
+ </item>
  <item>
   <title>Amazon Is Reportedly Planning to Open Its Own Department Stores</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6318%2Famazon_shopping_cart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: After opening its first brick-and-mortar bookstore in Seattle in 2015, Amazon expanded its physical footprint to grocery and cashierless convenience stores.</description>
@@ -361,15 +370,6 @@
   <categories>geopolitics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/16/exploring-cost-war-afghanistan?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 16 Aug 2021 03:01:15 -0700</pubDate>
- </item>
- <item>
-  <title>Exploring the Cost of the War in Afghanistan</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6245%2Fus_copter_in_afghanistan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The war has also cost the US an astronomical sum—$2.26 trillion to be exact, according to the Brown University Costs of War project. Big picture: Since the US invasion in 2001, more than 47,000 Afghan civilians and nearly 2,500 US troops have died in the conflict. The US-trained Afghan military was easily overwhelmed by the Taliban’s advance in a matter of weeks.   A few noticeable improvements in Afghanistan over the past two decades include increased life expectancy (56 years in 2001 → 64, per the World Bank) and a jump in the literacy rate (rising 8%, to 43%).</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/16/exploring-cost-war-afghanistan</link>
-  <author>Neal Freyman</author>
-  <categories>geopolitics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/16/exploring-cost-war-afghanistan</guid>
-  <pubDate>Sun, 15 Aug 2021 17:46:24 -0700</pubDate>
  </item>
 
 </channel>
