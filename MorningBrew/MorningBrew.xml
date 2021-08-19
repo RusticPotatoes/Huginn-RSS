@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/19</link>
- <lastBuildDate>Thu, 19 Aug 2021 14:29:10 -0700</lastBuildDate>
- <pubDate>Thu, 19 Aug 2021 14:29:10 -0700</pubDate>
+ <lastBuildDate>Thu, 19 Aug 2021 14:39:12 -0700</lastBuildDate>
+ <pubDate>Thu, 19 Aug 2021 14:39:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Amazon Is Reportedly Planning to Open Its Own Department Stores</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6318%2Famazon_shopping_cart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: After opening its first brick-and-mortar bookstore in Seattle in 2015, Amazon expanded its physical footprint to grocery and cashierless convenience stores.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/19/amazon-reportedly-planning-open-department-stores</link>
+  <author>Sherry Qin</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/amazon-reportedly-planning-open-department-stores</guid>
+  <pubDate>Thu, 19 Aug 2021 14:37:11 -0700</pubDate>
+ </item>
  <item>
   <title>Chip Shortages Continues to Hit Global Automakers</title>
   <description>&lt;img src='https://media.giphy.com/media/Q4MKucytzKYJ4elFhG/giphy.gif'&gt;&lt;br/&gt; And because every bad episode has a few bad subplots, other automakers like GM, Ford, Stellantis, and VW said this week they’re likely cutting production soon due to the lack of chips.  </description>
@@ -361,15 +370,6 @@
   <categories>geopolitics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/16/exploring-cost-war-afghanistan</guid>
   <pubDate>Sun, 15 Aug 2021 17:46:24 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 16</title>
-  <description>&lt;img src='https://media.giphy.com/media/Vi5qBEpExoCmzEcDvF/giphy.gif'&gt;&lt;br/&gt;(Eater)  Read: Inside the secretive, semi-illicit, high stakes world of WhatsApp mango importing.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/15/key-performance-indicators-august-16</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/15/key-performance-indicators-august-16</guid>
-  <pubDate>Sun, 15 Aug 2021 17:26:17 -0700</pubDate>
  </item>
 
 </channel>
