@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/20</link>
- <lastBuildDate>Fri, 20 Aug 2021 03:04:14 -0700</lastBuildDate>
- <pubDate>Fri, 20 Aug 2021 03:04:14 -0700</pubDate>
+ <lastBuildDate>Fri, 20 Aug 2021 11:14:10 -0700</lastBuildDate>
+ <pubDate>Fri, 20 Aug 2021 11:14:10 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Is Your Newsletter...Newsworthy?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6331%2Freferral.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This allowed us to automate the referral process and spend that time thinking strategically about how to use that data to inform other, more important decisions. Here’s the happy ending—they were able to convert newsletter readers to paid subscribers. Time to get your newsletter act togetherNewsletters can be a powerful tool for media companies to establish robust connections with their audience, expand their reach, and grow revenue. More specifically, our referral program. Moral of this news story: Newsletters can be a tool to drive subscriber growth across your entire organization. While we’d like to think we’re pretty dang smart, it doesn't take a newsletter genius to know that people are more willing to try... By driving newsletter subscribers to its website, New York Magazine uncovered a strong conversion rate to becoming a paid subscriber within 90 days after signing up. This helped New York Magazine take action and drive One Great Story readers to more of the content that suited their taste, while simultaneously introducing them to New York Magazine’s full plate of offerings. Today, reader referrals significantly supplement our growth, accounting for 30% of our 3 million subscribers. New York Magazine used their newsletter, One Great Story, to drive subscription growth across the entire publication. New York Magazine partnered with Sailthru to figure out which topics One Great Story readers enjoyed most, the largest group (30%) ranked longform features as their top choice, followed by news analysis and profiles (20%).</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/20/newsletternewsworthy</link>
+  <author>Morning Brew</author>
+  <categories>marketing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/20/newsletternewsworthy</guid>
+  <pubDate>Fri, 20 Aug 2021 11:11:09 -0700</pubDate>
+ </item>
  <item>
   <title>Amazon Is Reportedly Planning to Open Its Own Department Stores</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6318%2Famazon_shopping_cart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: After opening its first brick-and-mortar bookstore in Seattle in 2015, Amazon has expanded its physical footprint to grocery and cashierless convenience stores. The company is planning to open several large brick-and-mortar retail locations in the US that resemble department stores, the WSJ reports. – SQ</description>
@@ -361,15 +370,6 @@
   <categories>cryptocurrency</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/16/everything-youve-wondered-crypto-embarrassed-ask</guid>
   <pubDate>Mon, 16 Aug 2021 15:06:25 -0700</pubDate>
- </item>
- <item>
-  <title>Anonymous Chat App Yik Yak Is Back Four Years After Shutting Down</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6270%2Fyik_yak_promo_image.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Yik Yak is the id unleashed. The revived Yik Yak said it’s trying to clean up the toxicity by instituting a one-strike no bullying policy and providing links to mental health resources—though most of the functionality appears similar to V1.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/16/anonymous-chat-app-yik-yak-back-four-years-shutting</link>
-  <author>Neal Freyman</author>
-  <categories>social media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/16/anonymous-chat-app-yik-yak-back-four-years-shutting</guid>
-  <pubDate>Mon, 16 Aug 2021 14:51:19 -0700</pubDate>
  </item>
 
 </channel>
