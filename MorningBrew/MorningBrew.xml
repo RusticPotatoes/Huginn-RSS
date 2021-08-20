@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/19/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/19/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/20/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/19</link>
- <lastBuildDate>Thu, 19 Aug 2021 14:53:13 -0700</lastBuildDate>
- <pubDate>Thu, 19 Aug 2021 14:53:13 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/20</link>
+ <lastBuildDate>Fri, 20 Aug 2021 03:04:14 -0700</lastBuildDate>
+ <pubDate>Fri, 20 Aug 2021 03:04:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Amazon Is Reportedly Planning to Open Its Own Department Stores</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6318%2Famazon_shopping_cart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: After opening its first brick-and-mortar bookstore in Seattle in 2015, Amazon has expanded its physical footprint to grocery and cashierless convenience stores. The company is planning to open several large brick-and-mortar retail locations in the US that resemble department stores, the WSJ reports. – SQ</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/19/amazon-reportedly-planning-open-department-stores?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/amazon-reportedly-planning-open-department-stores?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 20 Aug 2021 03:02:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 20</title>
+  <description>&lt;img src='https://media.giphy.com/media/d89EspFlEceJYM7LXV/giphy.gif?cid=ecf05e472xfxn6qwtx8fh3ysoddocss6qen1bwkbs4hxfnod&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;That’s how one Mexican agave producer described the tequila boom to the LA Times. The number of applications to start new businesses in the US grew 24% last year to 4.3 million, the highest on record by far. (Year Zero) </description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/19/key-performance-indicators-august-20?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/key-performance-indicators-august-20?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 20 Aug 2021 03:02:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Chip Shortages Continues to Hit Global Automakers</title>
+  <description>&lt;img src='https://media.giphy.com/media/Q4MKucytzKYJ4elFhG/giphy.gif'&gt;&lt;br/&gt;Recent Covid-19 outbreaks in Southeast Asian manufacturing hubs mean the chip shortage could hamstring auto production into 2022.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/19/chip-shortages-continues-hit-global-automakers?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/chip-shortages-continues-hit-global-automakers?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 20 Aug 2021 03:02:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Facebook Launches VR Meeting Space Called Workrooms</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6317%2Ffacebook_horizon_workrooms.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: Workrooms is one part of a larger VR experience called Horizon that Facebook originally planned to launch last year. – JW Facebook’s announcement came right before the FTC refiled a lawsuit yesterday alleging the company has a “monopoly” on social networking. Or maybe clever timing? Bad timing?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/19/facebook-launches-vr-meeting-space-called-workrooms?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/facebook-launches-vr-meeting-space-called-workrooms?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 20 Aug 2021 03:02:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>OnlyFans Will Ban Sexually Explicit Content in Surprising Pivot</title>
+  <description>&lt;img src='https://media.giphy.com/media/yyp58Yx3Qk0TK/giphy.gif?cid=ecf05e47v9kg19wd5np8o8ej1ee2phx3fgo51eds3uwg6gnq&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;Those creators have earned more than $5 billion since the company started in 2016, per OnlyFans. expect other adult entertainment platforms to crop up and try to dethrone a wounded OnlyFans. The falloutOnlyFans will need to find itself a new content strategy, considering it just blew up the one that it relies on currently.  The BBC said it approached OnlyFans with the leaked documents, implying that these allegations were linked to yesterday’s ban.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/19/onlyfans-will-ban-sexually-explicit-content-surprising-pivot?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/onlyfans-will-ban-sexually-explicit-content-surprising-pivot?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 20 Aug 2021 03:02:12 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: August 20</title>
   <description>&lt;img src='https://media.giphy.com/media/d89EspFlEceJYM7LXV/giphy.gif?cid=ecf05e472xfxn6qwtx8fh3ysoddocss6qen1bwkbs4hxfnod&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;That’s how one Mexican agave producer described the tequila boom to the LA Times. The number of applications to start new businesses in the US grew 24% last year to 4.3 million, the highest on record by far. (Year Zero) – NF</description>
@@ -325,51 +370,6 @@
   <categories>social media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/16/anonymous-chat-app-yik-yak-back-four-years-shutting</guid>
   <pubDate>Mon, 16 Aug 2021 14:51:19 -0700</pubDate>
- </item>
- <item>
-  <title>US Launches Investigation Into Tesla's Autopilot System</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6268%2Fan_illustration_of_a_parked_tesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The investigation stems from 11 incidents in which drivers using Tesla’s Autopilot feature struck stationary first-responder vehicles. US auto regulators have launched an investigation into Tesla’s advanced driver-assistance system, Autopilot, ramping up scrutiny of Elon Musk’s self-driving efforts.  What isn’t Autopilot? Investors are not not worried—Tesla shares sank more than 4% on the news.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/16/us-launches-investigation-teslas-autopilot-system</link>
-  <author>Neal Freyman</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/16/us-launches-investigation-teslas-autopilot-system</guid>
-  <pubDate>Mon, 16 Aug 2021 14:46:19 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: August 16</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F343%2Fa_row_of_local_retailers.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;CEO Elon Musk, who’s giving the keynote, has said that people will start thinking of Tesla as an “AI robotics” company instead of just an electric car company. beyond cars.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/15/week-ahead-august-16?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/15/week-ahead-august-16?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 16 Aug 2021 03:01:15 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 16</title>
-  <description>&lt;img src='https://media.giphy.com/media/Vi5qBEpExoCmzEcDvF/giphy.gif'&gt;&lt;br/&gt;(Eater)  Read: Inside the secretive, semi-illicit, high stakes world of WhatsApp mango importing.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/15/key-performance-indicators-august-16?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/15/key-performance-indicators-august-16?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 16 Aug 2021 03:01:15 -0700</pubDate>
- </item>
- <item>
-  <title>Meet the People Who Are Working Two Remote Jobs Simultaneously: WSJ Report</title>
-  <description>&lt;img src='https://media.giphy.com/media/5QRnThZOV6csvKXdmB/giphy.gif'&gt;&lt;br/&gt;The catalyst: Some multiple-job employees said they were emboldened by Overemployed, a website dedicated to helping people work two jobs at once and achieve “financial freedom.” We all have that one friend who used the pandemic as cover to work two jobs at once without telling either employer.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/15/meet-people-working-two-remote-jobs-simultaneously-wsj-report?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/15/meet-people-working-two-remote-jobs-simultaneously-wsj-report?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 16 Aug 2021 03:01:15 -0700</pubDate>
- </item>
- <item>
-  <title>NYC Begins Requiring Proof of Vaccination for Entrance to Indoor Venues</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2370%2Fnew_york_city.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;San Francisco is rolling out its vax mandates on Friday, which are even stricter than New York’s in that they require proof of full vaccination to enter many indoor businesses. It’s all the more urgent considering consumer confidence plunged to its lowest level since 2011 in July.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/15/nyc-begins-requiring-proof-vaccination-entrance-indoor-venues?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/15/nyc-begins-requiring-proof-vaccination-entrance-indoor-venues?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 16 Aug 2021 03:01:15 -0700</pubDate>
  </item>
 
 </channel>
