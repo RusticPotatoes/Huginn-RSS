@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/20</link>
- <lastBuildDate>Fri, 20 Aug 2021 15:23:15 -0700</lastBuildDate>
- <pubDate>Fri, 20 Aug 2021 15:23:15 -0700</pubDate>
+ <lastBuildDate>Fri, 20 Aug 2021 15:33:16 -0700</lastBuildDate>
+ <pubDate>Fri, 20 Aug 2021 15:33:16 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Social Media Companies Confront the Taliban</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6340%2Ftaliban_press_conference.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;They’ll need to decide whether to update these policies or double down on enforcing them soon, because the Taliban has been more active than a LinkedIn thought leader lately: 100+ new accounts and Facebook pages claiming ties to or supporting the Taliban have cropped up since August 9 across YouTube, Twitter and Facebook, according to a report by the NYT. So, this is the first time social media platforms have had to take a stance on whether to allow the Taliban in its resumed role as effective leader of Afghanistan to post content.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/20/social-media-companies-confront-taliban</link>
+  <author>Jamie Wilde</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/20/social-media-companies-confront-taliban</guid>
+  <pubDate>Fri, 20 Aug 2021 15:31:16 -0700</pubDate>
+ </item>
  <item>
   <title>Facing Increasing Backlash, Mike Richards Steps Down as Host of "Jeopardy!"</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6337%2F2016_daytime_emmy_awards.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Mike Richards is stepping down as host of Jeopardy! Criticism grew after The Ringer reported that Richards made offensive and sexist comments on a podcast he hosted from 2013–2014. — NF</description>
@@ -361,15 +370,6 @@
   <categories>retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/can-kids-revive-retail</guid>
   <pubDate>Tue, 17 Aug 2021 14:51:19 -0700</pubDate>
- </item>
- <item>
-  <title>OnlyFans Launches a SFW App</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6281%2Fscreenshot_from_oftv_app.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And while OFTV won’t ditch the adult creators who drove OnlyFans’s revenue to pop by 553% last year, the app will also feature chefs, pilates instructors, and podcasters. The workaround: a new product called OFTV that contains a library of over 800 videos featuring the same creators from its site...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/17/onlyfans-launches-sfw-app</link>
-  <author>Jamie Wilde</author>
-  <categories>creator economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/onlyfans-launches-sfw-app</guid>
-  <pubDate>Tue, 17 Aug 2021 14:46:18 -0700</pubDate>
  </item>
 
 </channel>
