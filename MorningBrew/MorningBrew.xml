@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/20</link>
- <lastBuildDate>Fri, 20 Aug 2021 14:45:09 -0700</lastBuildDate>
- <pubDate>Fri, 20 Aug 2021 14:45:09 -0700</pubDate>
+ <lastBuildDate>Fri, 20 Aug 2021 14:49:12 -0700</lastBuildDate>
+ <pubDate>Fri, 20 Aug 2021 14:49:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Make It Work: How to Ask for the Raise You Deserve</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Not only is it reasonable—and decidedly not insensitive, greedy, or insulting—to ask that your employer consider the fair value of your contributions, but most managers would prefer a little candor now over an unexpected resignation later from an employee they may never have known was feeling undervalued. While it’s fine to acknowledge that times are hard, there will always be a reason for your employer not to show you the money (don’t recommend this approach, btw).   Instead, focus on the great things you are doing to add value and the measurable outcomes of your work (especially those that underpin key financial metrics) by tying your deliverables to the goals and objectives of the business wherever possible.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/20/make-work-ask-raise-deserve</link>
+  <author>Neal Freyman</author>
+  <categories>work life</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/20/make-work-ask-raise-deserve</guid>
+  <pubDate>Fri, 20 Aug 2021 14:47:16 -0700</pubDate>
+ </item>
  <item>
   <title>Stock Watch: August 22</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6332%2Fstock_watch.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/16/key-performance-indicators-august-17?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 17 Aug 2021 03:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>US Launches Investigation Into Tesla's Autopilot System</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6268%2Fan_illustration_of_a_parked_tesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The investigation stems from 11 incidents in which drivers using Tesla’s Autopilot feature struck stationary first-responder vehicles. US auto regulators have launched an investigation into Tesla’s advanced driver-assistance system, Autopilot, ramping up scrutiny of Elon Musk’s self-driving efforts.  What isn’t Autopilot?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/16/us-launches-investigation-teslas-autopilot-system?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/16/us-launches-investigation-teslas-autopilot-system?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 17 Aug 2021 03:01:18 -0700</pubDate>
  </item>
 
