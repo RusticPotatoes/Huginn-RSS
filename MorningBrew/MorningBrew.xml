@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/20/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/21/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/20</link>
- <lastBuildDate>Fri, 20 Aug 2021 15:33:16 -0700</lastBuildDate>
- <pubDate>Fri, 20 Aug 2021 15:33:16 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/21</link>
+ <lastBuildDate>Sat, 21 Aug 2021 03:03:13 -0700</lastBuildDate>
+ <pubDate>Sat, 21 Aug 2021 03:03:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Topps is sending its plans to go public back to a box in the basement</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6339%2Fa_burnt_topps_baseball_card.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Its baseball card deal will be 10x larger than any the MLB players union has struck previously, ESPN reports. in the world of sports merch, there’s a new king in town.  That will end the partnership Topps has had with MLB since 1952. — NF</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/20/topps-sending-plans-go-public-back-box-basement?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/20/topps-sending-plans-go-public-back-box-basement?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 21 Aug 2021 03:01:13 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 21</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6336%2Fevacuation_of_afghan_citizens.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Mel Magazine) Read: An oral history of Adam Sandler, pickup basketball legend.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/20/key-performance-indicators-august-21?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/20/key-performance-indicators-august-21?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 21 Aug 2021 03:01:13 -0700</pubDate>
+ </item>
+ <item>
+  <title>Facing Increasing Backlash, Mike Richards Steps Down as Host of "Jeopardy!"</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6337%2F2016_daytime_emmy_awards.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Mike Richards is stepping down as host of Jeopardy! Criticism grew after The Ringer reported that Richards made offensive and sexist comments on a podcast he hosted from 2013–2014. — NF</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/20/facing-increasing-backlash-mike-richards-steps-host-jeopardy?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/20/facing-increasing-backlash-mike-richards-steps-host-jeopardy?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 21 Aug 2021 03:01:13 -0700</pubDate>
+ </item>
+ <item>
+  <title>Covid Resurgence Leads to Event Cancellations and Office Return Delays</title>
+  <description>&lt;img src='https://media.giphy.com/media/S9crjCfQXC78ST61iv/giphy.gif?cid=ecf05e472ldkhhryalw39mbipnokiavc10aq2ojhdoe90qk5&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;It might have to make a comeback. – SQ NYC's big homecoming concert, featuring Bruce Springsteen, Jennifer Hudson, The Killers, and more A-listers, is going ahead tonight as planned in Central Park.  IBM temporarily closed its NYC offices amid rising cases. Return-to-office: Apple delayed its plans to bring employees back to the office until January 2022.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/20/covid-resurgence-leads-event-cancellations-office-return-delays?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/20/covid-resurgence-leads-event-cancellations-office-return-delays?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 21 Aug 2021 03:01:13 -0700</pubDate>
+ </item>
+ <item>
+  <title>Social Media Companies Confront the Taliban</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6340%2Ftaliban_press_conference.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;They’ll need to decide whether to update these policies or double down on enforcing them soon, because the Taliban has been more active than a LinkedIn thought leader lately: 100+ new accounts and Facebook pages claiming ties to or supporting the Taliban have cropped up since August 9 across Twitter and Facebook, according to a report by the NYT. So, this is the first time social media platforms have had to take a stance on whether to allow the Taliban in its resumed role as effective leader of Afghanistan to post content.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/20/social-media-companies-confront-taliban?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/20/social-media-companies-confront-taliban?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 21 Aug 2021 03:01:12 -0700</pubDate>
+ </item>
  <item>
   <title>Social Media Companies Confront the Taliban</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6340%2Ftaliban_press_conference.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;They’ll need to decide whether to update these policies or double down on enforcing them soon, because the Taliban has been more active than a LinkedIn thought leader lately: 100+ new accounts and Facebook pages claiming ties to or supporting the Taliban have cropped up since August 9 across YouTube, Twitter and Facebook, according to a report by the NYT. So, this is the first time social media platforms have had to take a stance on whether to allow the Taliban in its resumed role as effective leader of Afghanistan to post content.</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/key-performance-indicators-august-18?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 18 Aug 2021 03:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>OnlyFans Launches a SFW App</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6281%2Fscreenshot_from_oftv_app.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And while OFTV won’t ditch the creators who helped drive OnlyFans revenue 553% higher last year, the app will also feature chefs, pilates instructors, and podcasters. We still don’t recommend scrolling through OnlyFans at work, but the company’s latest product—a new app for Android and iOS—is much closer to PG.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/17/onlyfans-launches-sfw-app?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>creator economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/onlyfans-launches-sfw-app?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 18 Aug 2021 03:01:17 -0700</pubDate>
- </item>
- <item>
-  <title>The Biden Administration is Expected to Advise Boosters for Most Americans</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Nearly 1 million Israelis have already received booster shots.  Why booster shots? Hope you have enough storage in your phone for one more vaccine selfie: The White House is expected to announce this week that most Americans will need a Covid booster shot eight months after their second doses. – SQ</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/17/biden-administration-expected-advise-boosters-americans?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/biden-administration-expected-advise-boosters-americans?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 18 Aug 2021 03:01:17 -0700</pubDate>
- </item>
- <item>
-  <title>Can Kids Revive Retail?</title>
-  <description>&lt;img src='https://media.giphy.com/media/l1J9rURykdgphbkLS/giphy.gif'&gt;&lt;br/&gt;Even worse, a Cincinnati-area Walmart ran out of all Disney backpacks. The retailer said its stores were busy with parents buying backpacks, lunch boxes, and other school supplies for their kids, and even raised its revenue outlook for the year. With inflation on the rise, consumers should expect to pay 10%–15% more compared to last year for apparel, according to USA Today. Families with children in elementary through high school plan to spend an average of $848.90 on school supplies, a $59 increase over last year. — NF</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/17/can-kids-revive-retail?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/can-kids-revive-retail?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 18 Aug 2021 03:01:17 -0700</pubDate>
- </item>
- <item>
-  <title>The Biden Administration is Expected to Advise Boosters for Most Americans</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Why booster shots?  Nearly 1 million Israelis have already received booster shots. Growing case numbers in highly vaccinated countries show that vaccine effectiveness may wear off over time, particularly against the Delta variant.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/17/biden-administration-expected-advise-boosters-americans</link>
-  <author>Sherry Qin</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/biden-administration-expected-advise-boosters-americans</guid>
-  <pubDate>Tue, 17 Aug 2021 15:01:22 -0700</pubDate>
- </item>
- <item>
-  <title>Can Kids Revive Retail?</title>
-  <description>&lt;img src='https://media.giphy.com/media/l1J9rURykdgphbkLS/giphy.gif'&gt;&lt;br/&gt;Even worse, a Cincinnati-area Walmart ran out of all Disney backpacks. Retail could use the sparkRetail sales fell more than expected (-1.1%) in July, the Commerce Department said yesterday. Thanks to inflation, consumers should expect to pay 10%–15% more compared to last year for apparel, according to USA Today. Families with children in elementary- through high school plan to spend an average of $848.90 on school supplies, a $59 increase over last year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/17/can-kids-revive-retail</link>
-  <author>Neal Freyman</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/can-kids-revive-retail</guid>
-  <pubDate>Tue, 17 Aug 2021 14:51:19 -0700</pubDate>
  </item>
 
 </channel>
