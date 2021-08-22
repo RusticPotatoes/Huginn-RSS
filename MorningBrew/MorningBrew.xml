@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/21/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/22/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/21</link>
- <lastBuildDate>Sat, 21 Aug 2021 03:03:13 -0700</lastBuildDate>
- <pubDate>Sat, 21 Aug 2021 03:03:13 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/22</link>
+ <lastBuildDate>Sun, 22 Aug 2021 16:44:10 -0700</lastBuildDate>
+ <pubDate>Sun, 22 Aug 2021 16:44:10 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Full Vaccine Approval for Pfizer Is Expected as Soon as Today</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6351%2Fpfizer_covid-19_vaccine_d.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Full approval will likely lead to more vaccine requirements among organizations and businesses, and, officials hope, will build more confidence among skeptical Americans to get the shot voluntarily. the next vaccine to be considered for full approval is Moderna’s, which could come a few weeks after Pfizer’s green light. The FDA could grant full approval to Pfizer-BioNTech’s coronavirus vaccine as soon as today, according to the NYT.  More manufacturing scrutiny: Full approval requires more inspections of facilities, and vaccine makers to provide more detailed production info, per Marks.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/22/full-vaccine-approval-pfizer-expected-soon-today</link>
+  <author>Neal Freyman</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/22/full-vaccine-approval-pfizer-expected-soon-today</guid>
+  <pubDate>Sun, 22 Aug 2021 16:41:09 -0700</pubDate>
+ </item>
  <item>
   <title>Topps is sending its plans to go public back to a box in the basement</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6339%2Fa_burnt_topps_baseball_card.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Its baseball card deal will be 10x larger than any the MLB players union has struck previously, ESPN reports. in the world of sports merch, there’s a new king in town.  That will end the partnership Topps has had with MLB since 1952. — NF</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>strategy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/palantir-buys-507-million-worth-gold-bars?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 18 Aug 2021 03:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 18</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4619%2Fheisman_trophy.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(GQ)  Read: The 21 most exciting young musicians on planet Earth. Fed Chair Jerome Powell talked about the pandemic’s effect on students at a town hall meeting yesterday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/17/key-performance-indicators-august-18?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/17/key-performance-indicators-august-18?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 18 Aug 2021 03:01:18 -0700</pubDate>
  </item>
 
