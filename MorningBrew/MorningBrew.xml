@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/22</link>
- <lastBuildDate>Sun, 22 Aug 2021 16:49:10 -0700</lastBuildDate>
- <pubDate>Sun, 22 Aug 2021 16:49:10 -0700</pubDate>
+ <lastBuildDate>Sun, 22 Aug 2021 16:54:09 -0700</lastBuildDate>
+ <pubDate>Sun, 22 Aug 2021 16:54:09 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: August 23</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F5729%2Fblack_widow.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A tweet by the FDA that implored people to stop self-medicating against Covid-19 with a drug called ivermectin. (Sarah Chayes) Read: Searing reflections on Afghanistan. Seriously, y’all. You are not a cow. Quote: “You are not a horse.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/22/key-performance-indicators-august-23</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/22/key-performance-indicators-august-23</guid>
+  <pubDate>Sun, 22 Aug 2021 16:51:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Week Ahead: August 23</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6346%2Fthe_rocky_mountains.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The college football season kicks off on Saturday.  NY Gov. Andrew Cuomo will officially step down Monday night amid a sexual harassment scandal.  Everything else:A tradition unlike any other: Starbucks is expected to drop its Pumpkin Spice Latte offerings on Tuesday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/22/week-ahead-august-23</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/22/week-ahead-august-23</guid>
+  <pubDate>Sun, 22 Aug 2021 16:51:08 -0700</pubDate>
+ </item>
  <item>
   <title>Schools Face Severe Bus Driver Shortage as Kids Go Back to School</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6349%2Fchris_farley_in_billy_madison.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; One Delaware school district is offering to pay parents $700 to take over pickup and dropoff duties for the school year.</description>
@@ -352,24 +370,6 @@
   <categories>cybersecurity</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/tmobile-data-breach-compromises-data-nearly-50-million</guid>
   <pubDate>Wed, 18 Aug 2021 14:46:21 -0700</pubDate>
- </item>
- <item>
-  <title>What's Next for Afghanistan's Economy? </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6298%2Ftaliban_closes_in_on_afgh.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  Now, the Taliban can access just 0.1% of the reserves,  Afghanistan’s former central bank governor, Ajmal Ahmady, said Tuesday.  International aid accounted for ~43% of Afghanistan’s economy in 2020, per the World Bank. the IMF is set to send more than $450 million to Afghanistan’s bank account on Monday as part of the fund’s coronavirus relief program.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/18/whats-next-afghanistans-economy</link>
-  <author>Neal Freyman</author>
-  <categories>international</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/whats-next-afghanistans-economy</guid>
-  <pubDate>Wed, 18 Aug 2021 14:36:19 -0700</pubDate>
- </item>
- <item>
-  <title>How to Buy Bitcoin...Without Buying Bitcoin</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3997%2Fbitcoin_tesla.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Plus, the Grayscale Bitcoin Trust (GBTC) is a publicly traded, SEC-reporting company that you can invest in through your normal brokerages, making it more accessible to traders who are less comfortable navigating other avenues for acquiring bitcoin. Invest in companies that hold bitcoin on their balance sheetsOn August 11, 2020, business intelligence firm MicroStrategy became the first publicly traded company to allocate a portion of its cash holdings into bitcoin.  Now, many of them are publicly traded companies that you can also invest in. Invest in crypto trading platforms As cryptocurrencies have risen to prominence over the last decade, so too have companies that offer a safe and secure way to buy and sell the digital assets. The cards listed below each give you a small amount of bitcoin every time you swipe. Invest in blockchain ETFsA relatively recent development in the crypto space is the rise of Exchange Traded Funds (ETFs) that offer exposure to bitcoin and other blockchain-based companies. One is made up of bitcoin and the other ethereum, which are the two largest cryptocurrencies. Since then, higher profile companies have added bitcoin to their balance sheets, most notably Tesla, leading to more opportunities for investors to get their toes wet without diving all the way into the crypto deep end.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/18/buy-bitcoinwithout-buying-bitcoin</link>
-  <author>Toby Howell</author>
-  <categories>cryptocurrency</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/buy-bitcoinwithout-buying-bitcoin</guid>
-  <pubDate>Wed, 18 Aug 2021 10:36:15 -0700</pubDate>
  </item>
 
 </channel>
