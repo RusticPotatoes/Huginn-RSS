@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/23</link>
- <lastBuildDate>Mon, 23 Aug 2021 14:58:17 -0700</lastBuildDate>
- <pubDate>Mon, 23 Aug 2021 14:58:17 -0700</pubDate>
+ <lastBuildDate>Mon, 23 Aug 2021 15:09:09 -0700</lastBuildDate>
+ <pubDate>Mon, 23 Aug 2021 15:09:09 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Jerome Powell's Future as Fed Chair Is Uncertain</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3041%2Fjerome_powell.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The nonpartisan think tank Better Markets published a report yesterday that attacks Powell for loosening regulations for big banks and for ignoring pressing climate change risks (popular criticisms of Powell from the left). However, Better Markets praises Powell’s handling of the pandemic and his ability to keep the Fed independent after former President Trump applied political pressure a few years ago.  Why you should care: The Fed Chair is the world’s most powerful economic policymaker.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/23/jerome-powells-future-fed-chair-uncertain</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/23/jerome-powells-future-fed-chair-uncertain</guid>
+  <pubDate>Mon, 23 Aug 2021 15:06:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 24</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6365%2Fstarbucks_psl.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At Starbucks, Pumpkin Cream Cold Brew actually outsold the Pumpkin Spice Latte last year. (New Yorker) What’s the secret? Read: Costa Ricans live longer than us.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/23/key-performance-indicators-august-24</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/23/key-performance-indicators-august-24</guid>
+  <pubDate>Mon, 23 Aug 2021 15:06:08 -0700</pubDate>
+ </item>
  <item>
   <title>Pfizer’s Covid Vaccine, Comirnaty, First to Receive Full FDA Approval</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6366%2Fvaccine_approval.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;When it received full approval in the UK, Moderna chose “Spikevax,” which goes harder than a packed basement show. Pfizer’s Covid-19 vaccine received full approval from the FDA yesterday, becoming the first US-made vaccine to move beyond emergency use authorization.</description>
@@ -352,24 +370,6 @@
   <categories>metaverse</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/facebook-launches-vr-meeting-space-called-workrooms</guid>
   <pubDate>Thu, 19 Aug 2021 14:41:11 -0700</pubDate>
- </item>
- <item>
-  <title>Amazon Is Reportedly Planning to Open Its Own Department Stores</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6318%2Famazon_shopping_cart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: After opening its first brick-and-mortar bookstore in Seattle in 2015, Amazon expanded its physical footprint to grocery and cashierless convenience stores.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/19/amazon-reportedly-planning-open-department-stores</link>
-  <author>Sherry Qin</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/amazon-reportedly-planning-open-department-stores</guid>
-  <pubDate>Thu, 19 Aug 2021 14:37:11 -0700</pubDate>
- </item>
- <item>
-  <title>Chip Shortages Continues to Hit Global Automakers</title>
-  <description>&lt;img src='https://media.giphy.com/media/Q4MKucytzKYJ4elFhG/giphy.gif'&gt;&lt;br/&gt; And because every bad episode has a few bad subplots, other automakers like GM, Ford, Stellantis, and VW said this week they’re likely cutting production soon due to the lack of chips.  </description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/19/chip-shortages-continues-hit-global-automakers</link>
-  <author>Neal Freyman</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/chip-shortages-continues-hit-global-automakers</guid>
-  <pubDate>Thu, 19 Aug 2021 14:26:09 -0700</pubDate>
  </item>
 
 </channel>
