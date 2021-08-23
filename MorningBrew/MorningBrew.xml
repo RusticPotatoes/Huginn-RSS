@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/23</link>
- <lastBuildDate>Mon, 23 Aug 2021 03:04:09 -0700</lastBuildDate>
- <pubDate>Mon, 23 Aug 2021 03:04:09 -0700</pubDate>
+ <lastBuildDate>Mon, 23 Aug 2021 06:40:14 -0700</lastBuildDate>
+ <pubDate>Mon, 23 Aug 2021 06:40:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>How a Blockchain Expert Fights Crypto Crime</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6353%2Fkimberly_grauer_of_chainalysis.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Earlier this month, hackers nabbed over $600 million in crypto from decentralized finance (DeFi) platform Poly Network in one of the biggest crypto heists ever. It wasn't invented by cryptocurrency people. There was I think almost 400% growth in ransomware attacks, 350% growth, and this year is on track to outpace last year already. I think that's one thing that’s going to play out over the next year. Each type of crime is very, very different. I was reading the SEC’s red flags for investors and almost every single one of them applies to cryptocurrency. The victims of ransomware attacks are mostly businesses; increasingly, we're seeing that the victims of ransomware are big businesses, where you might have a more sophisticated attack vector so you can ask for more money. If you send ransom to a wallet, you actually have a shot at getting it back because we can follow where the money goes. We're able to let people know if they're accepting money from a darknet marketplace. And the theory is that they actually fake their own death in order to run away with the stolen funds. And then I learned while I was doing some research on this case that there's this whole faking-your-death industry in cryptocurrency. Has any type of illicit cryptocurrency activity noticeably grown in the past year? Do you have any predictions for the landscape of illicit cryptocurrency activity? Like, the Ponzi scheme actually works in almost exactly the same way.  If you can't find information about who the people really are and there's no incorporation info, who would you be able to go to if you weren't able to access your funds?   Ransomware is something that the government is extremely interested in right now. But the benefit of cryptocurrency is that there's a recourse to these attacks. And then we have a bunch of other ransomware hacks or stolen funds, sanctioned addresses, terrorist financing, and fraud shops (a type of darknet marketplace that only sells illicit goods). An exchange was hacked, but then it was speculated that the person actually faked their own death. We found this drug smuggling group based out of Australia who were importing drugs from the UK, and what they would do was purchase really fancy furniture from Harrods.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/23/blockchain-expert-fights-crypto-crime</link>
+  <author>Jamie Wilde</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/23/blockchain-expert-fights-crypto-crime</guid>
+  <pubDate>Mon, 23 Aug 2021 06:37:17 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: August 23</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6346%2Fthe_rocky_mountains.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The college football season kicks off on Saturday.  NY Gov. Andrew Cuomo will officially step down Monday night amid a sexual harassment scandal.  Everything else:A tradition unlike any other: Starbucks is expected to drop its Pumpkin Spice Latte offerings on Tuesday.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/key-performance-indicators-august-19?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 19 Aug 2021 03:02:13 -0700</pubDate>
- </item>
- <item>
-  <title>T-Mobile Data Breach Compromises The Data of Nearly 50 Million</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6299%2Fin_this_photo_illustratio.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In response, T-Mobile said it was “working around the clock to investigate claims being made that T-Mobile data may have been illegally accessed.” Looks like hackers couldn’t resist T-Mobile’s hot pink branding: The mobile carrier said yesterday that the data of 40 million former and prospective customers + 8 million current users had been breached. — JW</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/18/tmobile-data-breach-compromises-data-nearly-50-million?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>cybersecurity</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/tmobile-data-breach-compromises-data-nearly-50-million?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 19 Aug 2021 03:02:13 -0700</pubDate>
  </item>
 
