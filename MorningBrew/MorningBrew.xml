@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/22/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/23/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/22</link>
- <lastBuildDate>Sun, 22 Aug 2021 20:13:13 -0700</lastBuildDate>
- <pubDate>Sun, 22 Aug 2021 20:13:13 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/23</link>
+ <lastBuildDate>Mon, 23 Aug 2021 03:04:09 -0700</lastBuildDate>
+ <pubDate>Mon, 23 Aug 2021 03:04:09 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: August 23</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6346%2Fthe_rocky_mountains.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The college football season kicks off on Saturday.  NY Gov. Andrew Cuomo will officially step down Monday night amid a sexual harassment scandal.  Everything else:A tradition unlike any other: Starbucks is expected to drop its Pumpkin Spice Latte offerings on Tuesday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/22/week-ahead-august-23?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/22/week-ahead-august-23?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 23 Aug 2021 03:01:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 23</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F5729%2Fblack_widow.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A tweet by the FDA that implored people to stop self-medicating against Covid-19 with a drug called ivermectin. (Sarah Chayes) Read: Searing reflections on Afghanistan. Seriously, y’all. You are not a cow. Quote: “You are not a horse.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/22/key-performance-indicators-august-23?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/22/key-performance-indicators-august-23?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 23 Aug 2021 03:01:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>Justin Sun Buys NFT of a Rock for More Than Half a Million Dollars</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6352%2Fjustin_sun_pet_rock.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;EtherRock was one of the earliest NFT projects from way back in 2017. “These virtual rocks serve NO PURPOSE beyond being able to be brought and sold, and giving you a strong sense of pride in being an owner of 1 of the only 100 rocks in the game :)” the EtherRock website states. now it has nearly 26,000. The platform had just over 300 users in January 2021...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/23/justin-sun-buys-nft-rock-half-million-dollars?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/23/justin-sun-buys-nft-rock-half-million-dollars?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 23 Aug 2021 03:01:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>Pentagon Calls on Commercial Airlines to Lend 18 Planes to the Evacuation Effort</title>
+  <description>&lt;img src='https://media.giphy.com/media/l0ErK5H6exTmBN7ri/giphy.gif?cid=ecf05e472k2gpqlyzi7jmc2dv8tmzmpd9gmo1p61o5syjhgt&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;Following the Berlin airlift post-WWII, the government created the Civil Reserve Air Fleet, which allows it to compel airlines to lend a fuselage in emergency times.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/22/pentagon-calls-commercial-airlines-lend-18-planes-evacuation-effort?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/22/pentagon-calls-commercial-airlines-lend-18-planes-evacuation-effort?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 23 Aug 2021 03:01:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>Full Vaccine Approval for Pfizer Is Expected as Soon as Today</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6351%2Fpfizer_covid-19_vaccine_d.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Full approval will likely lead to more vaccine requirements among organizations and businesses, and, officials hope, will build more confidence among skeptical Americans to get the shot voluntarily. the next vaccine to be considered for full approval is Moderna’s, which could come a few weeks after Pfizer’s green light. The FDA could grant full approval to Pfizer-BioNTech’s coronavirus vaccine as soon as today, according to the NYT.  More manufacturing scrutiny: Full approval requires more inspections of facilities and vaccine makers to provide more detailed production info, per Marks.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/22/full-vaccine-approval-pfizer-expected-soon-today?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>pharma</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/22/full-vaccine-approval-pfizer-expected-soon-today?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 23 Aug 2021 03:01:08 -0700</pubDate>
+ </item>
  <item>
   <title>Justin Sun Buys NFT of a Rock for More Than Half a Million Dollars</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6352%2Fjustin_sun_pet_rock.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;“These virtual rocks serve NO PURPOSE beyond being able to be brought and sold, and giving you a strong sense of pride in being an owner of 1 of the only 100 rocks in the game :)” the EtherRock website states. EtherRock was an early NFT project from 2017, and only 100 EtherRocks were ever minted.</description>
@@ -325,51 +370,6 @@
   <categories>cybersecurity</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/tmobile-data-breach-compromises-data-nearly-50-million?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 19 Aug 2021 03:02:13 -0700</pubDate>
- </item>
- <item>
-  <title>What's Next for Afghanistan's Economy? </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6298%2Ftaliban_closes_in_on_afgh.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;— NF Big picture: Gaining economic leverage against the Taliban might be difficult for the US, since the group operates outside formal banking channels that the US has traditionally used to apply sanctions.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/18/whats-next-afghanistans-economy?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>international</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/whats-next-afghanistans-economy?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 19 Aug 2021 03:02:13 -0700</pubDate>
- </item>
- <item>
-  <title>Robinhood Extends Its Relationship With Individual Traders Using Say's Platform</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2127%2Frobinhood_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The forum for investors’ questions was made possible by Say Technologies, a firm Robinhood acquired for $140 million earlier this month. It earned $233 million in revenue from crypto trading last quarter, which is astonishing because…It earned just $5 million from crypto trading in Q2 2020Crypto now accounts for 51% of all transaction-based revenueDogecoin trading made up 62% of total crypto revenueLooking ahead... As initial investors, can we get a Robinhood coat and hoodie jacket?  Forget the hoodies—for Robinhood it’s all about crypto. Is Robinhood getting a crypto wallet?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/18/robinhood-extends-relationship-individual-traders-using-says-platform?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>stocks</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/robinhood-extends-relationship-individual-traders-using-says-platform?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 19 Aug 2021 03:02:13 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 19</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F5340%2Faustin_texas_skyline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Knowable Magazine) You could, too. Read: Dozens of traditional cultures use a whistled form of their native language for long-distance communication.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/18/key-performance-indicators-august-19</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/key-performance-indicators-august-19</guid>
-  <pubDate>Wed, 18 Aug 2021 14:51:21 -0700</pubDate>
- </item>
- <item>
-  <title>Old Navy Will No Longer Keep Women’s Plus-size Clothing in Separate Sections</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6301%2Fold_navy.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Old Navy will no longer keep women’s plus-size clothing in separate sections in its stores and plans to offer all its designs from sizes 0 to 30. - SQ Back in 2014, Old Navy was criticized for charging higher prices for women’s plus-size jeans, but not men’s.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/18/old-navy-will-no-longer-keep-womens-plussize-clothing-separate-sections</link>
-  <author>Sherry Qin</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/old-navy-will-no-longer-keep-womens-plussize-clothing-separate-sections</guid>
-  <pubDate>Wed, 18 Aug 2021 14:51:21 -0700</pubDate>
- </item>
- <item>
-  <title>Robinhood Extends Its Relationship With Individual Traders Using Say's Platform</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2127%2Frobinhood_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The forum for investors’ questions was made possible by Say Technologies, a firm Robinhood agreed to acquire for $140 million earlier this month.  Forget the hoodies—for Robinhood it’s all about crypto. Is Robinhood getting a crypto wallet? As initial investors, can we get a Robinhood coat and hoodie jacket? Robinhood needs to find its next meme stock. It earned $233 million in revenue from crypto trading last quarter, which is astonishing because…It earned just $5 million from crypto trading in Q2 2020.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/18/robinhood-extends-relationship-individual-traders-using-says-platform</link>
-  <author>Neal Freyman</author>
-  <categories>stocks</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/18/robinhood-extends-relationship-individual-traders-using-says-platform</guid>
-  <pubDate>Wed, 18 Aug 2021 14:46:21 -0700</pubDate>
  </item>
 
 </channel>
