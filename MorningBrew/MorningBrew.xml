@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/23/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/24/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/24/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/23</link>
- <lastBuildDate>Mon, 23 Aug 2021 15:09:09 -0700</lastBuildDate>
- <pubDate>Mon, 23 Aug 2021 15:09:09 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/24</link>
+ <lastBuildDate>Tue, 24 Aug 2021 03:04:08 -0700</lastBuildDate>
+ <pubDate>Tue, 24 Aug 2021 03:04:08 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Schools Face Severe Bus Driver Shortage as School Year Kicks Off</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6349%2Fchris_farley_in_billy_madison.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Among the many challenges school districts are facing this fall, a severe bus driver shortage is at the top of the list.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/23/schools-face-severe-bus-driver-shortage-school-year-kicks-off?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/23/schools-face-severe-bus-driver-shortage-school-year-kicks-off?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 24 Aug 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 24</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6365%2Fstarbucks_psl.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;At Starbucks, Pumpkin Cream Cold Brew outsold the Pumpkin Spice Latte last year. (New Yorker) What’s the secret? Read: Costa Ricans live longer than us.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/23/key-performance-indicators-august-24?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/23/key-performance-indicators-august-24?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 24 Aug 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Richard Branson’s Virgin Orbit to Go Public at $3.2 Billion Valuation</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F1102%2Fvirgin_orbit.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Not to be confused with its sister company Virgin Galactic, Virgin Orbit sends small satellites, not people, to low-earth orbit using modified Boeing 747 jets.   Virgin Orbit will use its capital infusion to try and catch up to Elon Musk’s SpaceX, the most active US rocket launcher.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/23/richard-bransons-virgin-orbit-go-public-32-billion-valuation?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/23/richard-bransons-virgin-orbit-go-public-32-billion-valuation?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 24 Aug 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Pfizer’s Covid Vaccine, Comirnaty, First to Receive Full FDA Approval</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6366%2Fvaccine_approval.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Pentagon also announced that a vaccine mandate for all service members would be introduced ASAP.  Call them by their name: After gaining full approval in the US, Pfizer will be able to officially market its vaccine by its real name: Comirnaty (a combination of the words community, immunity, mRNA, and Covid).</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/23/pfizers-covid-vaccine-comirnaty-first-receive-full-fda-approval?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/23/pfizers-covid-vaccine-comirnaty-first-receive-full-fda-approval?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 24 Aug 2021 03:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Jerome Powell's Future as Fed Chair Is Uncertain</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3041%2Fjerome_powell.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The nonpartisan think tank Better Markets published a report yesterday that attacks Powell for loosening regulations for big banks and for ignoring pressing climate change risks (popular criticisms of Powell from the left). Should Powell get another four years?  Why you should care: The Fed Chair is the world’s most powerful economic policymaker. Around Labor Day, President Biden is expected to decide whether to keep Powell in the role after his four-year term expires in February.  But Powell has plenty of critics, too.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/23/jerome-powells-future-fed-chair-uncertain?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/23/jerome-powells-future-fed-chair-uncertain?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 24 Aug 2021 03:01:17 -0700</pubDate>
+ </item>
  <item>
   <title>Jerome Powell's Future as Fed Chair Is Uncertain</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3041%2Fjerome_powell.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The nonpartisan think tank Better Markets published a report yesterday that attacks Powell for loosening regulations for big banks and for ignoring pressing climate change risks (popular criticisms of Powell from the left). However, Better Markets praises Powell’s handling of the pandemic and his ability to keep the Fed independent after former President Trump applied political pressure a few years ago.  Why you should care: The Fed Chair is the world’s most powerful economic policymaker.</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/key-performance-indicators-august-20?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 20 Aug 2021 03:02:12 -0700</pubDate>
- </item>
- <item>
-  <title>Chip Shortages Continues to Hit Global Automakers</title>
-  <description>&lt;img src='https://media.giphy.com/media/Q4MKucytzKYJ4elFhG/giphy.gif'&gt;&lt;br/&gt;Recent Covid-19 outbreaks in Southeast Asian manufacturing hubs mean the chip shortage could hamstring auto production into 2022.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/19/chip-shortages-continues-hit-global-automakers?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/chip-shortages-continues-hit-global-automakers?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 20 Aug 2021 03:02:12 -0700</pubDate>
- </item>
- <item>
-  <title>Facebook Launches VR Meeting Space Called Workrooms</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6317%2Ffacebook_horizon_workrooms.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: Workrooms is one part of a larger VR experience called Horizon that Facebook originally planned to launch last year. – JW Facebook’s announcement came right before the FTC refiled a lawsuit yesterday alleging the company has a “monopoly” on social networking. Or maybe clever timing? Bad timing?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/19/facebook-launches-vr-meeting-space-called-workrooms?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/facebook-launches-vr-meeting-space-called-workrooms?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 20 Aug 2021 03:02:12 -0700</pubDate>
- </item>
- <item>
-  <title>OnlyFans Will Ban Sexually Explicit Content in Surprising Pivot</title>
-  <description>&lt;img src='https://media.giphy.com/media/yyp58Yx3Qk0TK/giphy.gif?cid=ecf05e47v9kg19wd5np8o8ej1ee2phx3fgo51eds3uwg6gnq&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;Those creators have earned more than $5 billion since the company started in 2016, per OnlyFans. expect other adult entertainment platforms to crop up and try to dethrone a wounded OnlyFans. The falloutOnlyFans will need to find itself a new content strategy, considering it just blew up the one that it relies on currently.  The BBC said it approached OnlyFans with the leaked documents, implying that these allegations were linked to yesterday’s ban.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/19/onlyfans-will-ban-sexually-explicit-content-surprising-pivot?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/onlyfans-will-ban-sexually-explicit-content-surprising-pivot?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 20 Aug 2021 03:02:12 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 20</title>
-  <description>&lt;img src='https://media.giphy.com/media/d89EspFlEceJYM7LXV/giphy.gif?cid=ecf05e472xfxn6qwtx8fh3ysoddocss6qen1bwkbs4hxfnod&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;That’s how one Mexican agave producer described the tequila boom to the LA Times. The number of applications to start new businesses in the US grew 24% last year to 4.3 million, the highest on record by far. (Year Zero) – NF</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/19/key-performance-indicators-august-20</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/key-performance-indicators-august-20</guid>
-  <pubDate>Thu, 19 Aug 2021 14:51:12 -0700</pubDate>
- </item>
- <item>
-  <title>Facebook Launches VR Meeting Space Called Workrooms</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6317%2Ffacebook_horizon_workrooms.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: Workrooms is one part of a larger VR experience called Horizon that Facebook originally planned to launch last year. And if not everyone on your team has an Oculus headset, they can still join via video, appearing as part of a tiled, Zoom-like display at the end of the table.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/19/facebook-launches-vr-meeting-space-called-workrooms</link>
-  <author>Jamie Wilde</author>
-  <categories>metaverse</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/19/facebook-launches-vr-meeting-space-called-workrooms</guid>
-  <pubDate>Thu, 19 Aug 2021 14:41:11 -0700</pubDate>
  </item>
 
 </channel>
