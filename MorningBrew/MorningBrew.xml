@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/25</link>
- <lastBuildDate>Wed, 25 Aug 2021 15:23:14 -0700</lastBuildDate>
- <pubDate>Wed, 25 Aug 2021 15:23:14 -0700</pubDate>
+ <lastBuildDate>Wed, 25 Aug 2021 15:39:09 -0700</lastBuildDate>
+ <pubDate>Wed, 25 Aug 2021 15:39:09 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Unique Supply Chain Issues Cause Shortages in the UK</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6391%2Fbig_ben_cogs_in_the_clock_supply_chain.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; These shortages are exacerbated by one broken cog in the supply chain: a lack of truck—err, lorry—drivers. The UK is facing historic shortages across the board due to supply chain snags that are hitting the country harder than the White Queen clobbering Ron. A sampling:Iconic halal chicken joint Nando’s is feeling less cheeky after closing about 50 restaurants because of poultry shortages. And while driver shortages are a problem in many countries, the UK’s are due to a more unusual set of circumstances than just “the pandemic.” Gas station pumps are running dry, compounding supply chain issues.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/25/unique-supply-chain-issues-cause-shortages-uk</link>
+  <author>Jamie Wilde</author>
+  <categories>supply chain</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/25/unique-supply-chain-issues-cause-shortages-uk</guid>
+  <pubDate>Wed, 25 Aug 2021 15:36:08 -0700</pubDate>
+ </item>
  <item>
   <title>OnlyFans Goes Back on Proposed Porn Ban</title>
   <description>&lt;img src='https://media1.giphy.com/media/5PiIuCHlkQ58Y/giphy.gif?cid=790b76116ba481e0859a728bee8f0957023b2ea7ae258452&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;Yesterday, the adult entertainment platform said it would “suspend” that ban after facing backlash for abandoning the sex workers who built the platform.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/20/key-performance-indicators-august-21?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 21 Aug 2021 03:01:13 -0700</pubDate>
- </item>
- <item>
-  <title>Facing Increasing Backlash, Mike Richards Steps Down as Host of "Jeopardy!"</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6337%2F2016_daytime_emmy_awards.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Mike Richards is stepping down as host of Jeopardy! Criticism grew after The Ringer reported that Richards made offensive and sexist comments on a podcast he hosted from 2013–2014. — NF</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/20/facing-increasing-backlash-mike-richards-steps-host-jeopardy?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/20/facing-increasing-backlash-mike-richards-steps-host-jeopardy?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 21 Aug 2021 03:01:13 -0700</pubDate>
  </item>
 
