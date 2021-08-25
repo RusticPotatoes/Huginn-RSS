@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/25</link>
- <lastBuildDate>Wed, 25 Aug 2021 03:04:14 -0700</lastBuildDate>
- <pubDate>Wed, 25 Aug 2021 03:04:14 -0700</pubDate>
+ <lastBuildDate>Wed, 25 Aug 2021 12:59:11 -0700</lastBuildDate>
+ <pubDate>Wed, 25 Aug 2021 12:59:11 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Money Matters: Getting the Right Mix</title>
+  <description>&lt;img src='https://media.giphy.com/media/ixZmwZC0R1Zi87EOqG/giphy.gif'&gt;&lt;br/&gt;How much money should I be investing and saving in cash every month? Keep enough cash to cover three to six months of expenses in a savings account that you can tap in the face of financial hardship. But cash comes first. Perhaps only Elon Musk appears in this newsletter as much as inflation, which is just one reason not to hoard more cash than is necessary.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/07/23/money-matters-getting-right-mix</link>
+  <author>Ryan Lasker</author>
+  <categories>personal finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/23/money-matters-getting-right-mix</guid>
+  <pubDate>Wed, 25 Aug 2021 12:57:11 -0700</pubDate>
+ </item>
  <item>
   <title>TikTok Partners with Shopify to Add In-app Shopping Feature</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6378%2Fshopify_x_tiktok.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;As more social media platforms roll out shopping features, the US social commerce industry is expected to reach $50 billion in annual sales by 2023, per eMarketer. Facebook’s social commerce platform, Marketplace, hit 1 billion users in April. The partnership reflects a new era of "social commerce.” – SQ Looking ahead...</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/20/facing-increasing-backlash-mike-richards-steps-host-jeopardy</guid>
-  <pubDate>Fri, 20 Aug 2021 15:21:14 -0700</pubDate>
- </item>
- <item>
-  <title>Topps is sending its plans to go public back to a box in the basement</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6339%2Fa_burnt_topps_baseball_card.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Its baseball card deal will be 10x larger than any the MLB players union has struck previously, ESPN reports. in the world of sports merch, there’s a new king in town.  That will end the partnership Topps has had with MLB since 1952.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/20/topps-sending-plans-go-public-back-box-basement</link>
-  <author>Neal Freyman</author>
-  <categories>sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/20/topps-sending-plans-go-public-back-box-basement</guid>
   <pubDate>Fri, 20 Aug 2021 15:21:14 -0700</pubDate>
  </item>
 
