@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/25</link>
- <lastBuildDate>Wed, 25 Aug 2021 12:59:11 -0700</lastBuildDate>
- <pubDate>Wed, 25 Aug 2021 12:59:11 -0700</pubDate>
+ <lastBuildDate>Wed, 25 Aug 2021 14:54:14 -0700</lastBuildDate>
+ <pubDate>Wed, 25 Aug 2021 14:54:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Delta Cracks Down on Unvaccinated Employees—but Doesn't Mandate Vaccinations</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6387%2Fdelta_air_lines_plane.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And while the airline isn’t mandating vaccinations, it’s making life frustrating for employees who are unwilling to get the shot.  It comes down to “financial risk,” CEO Ed Bastian said.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/25/delta-cracks-unvaccinated-employeesbut-doesnt-mandate-vaccinations</link>
+  <author>Neal Freyman</author>
+  <categories>aviation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/25/delta-cracks-unvaccinated-employeesbut-doesnt-mandate-vaccinations</guid>
+  <pubDate>Wed, 25 Aug 2021 14:52:13 -0700</pubDate>
+ </item>
  <item>
   <title>Money Matters: Getting the Right Mix</title>
   <description>&lt;img src='https://media.giphy.com/media/ixZmwZC0R1Zi87EOqG/giphy.gif'&gt;&lt;br/&gt;How much money should I be investing and saving in cash every month? Keep enough cash to cover three to six months of expenses in a savings account that you can tap in the face of financial hardship. But cash comes first. Perhaps only Elon Musk appears in this newsletter as much as inflation, which is just one reason not to hoard more cash than is necessary.</description>
@@ -361,15 +370,6 @@
   <categories>social media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/20/social-media-companies-confront-taliban</guid>
   <pubDate>Fri, 20 Aug 2021 15:31:16 -0700</pubDate>
- </item>
- <item>
-  <title>Facing Increasing Backlash, Mike Richards Steps Down as Host of "Jeopardy!"</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6337%2F2016_daytime_emmy_awards.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Mike Richards is stepping down as host of Jeopardy! Criticism grew after The Ringer reported that Richards made offensive and sexist comments on a podcast he hosted from 2013–2014. — NF</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/20/facing-increasing-backlash-mike-richards-steps-host-jeopardy</link>
-  <author>Neal Freyman</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/20/facing-increasing-backlash-mike-richards-steps-host-jeopardy</guid>
-  <pubDate>Fri, 20 Aug 2021 15:21:14 -0700</pubDate>
  </item>
 
 </channel>
