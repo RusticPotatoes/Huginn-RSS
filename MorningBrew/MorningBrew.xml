@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/26</link>
- <lastBuildDate>Thu, 26 Aug 2021 03:04:16 -0700</lastBuildDate>
- <pubDate>Thu, 26 Aug 2021 03:04:16 -0700</pubDate>
+ <lastBuildDate>Thu, 26 Aug 2021 15:14:09 -0700</lastBuildDate>
+ <pubDate>Thu, 26 Aug 2021 15:14:09 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Reflecting on Tim Cook's Leadership at Apple, 10 Years On</title>
+  <description>&lt;img src='https://media.giphy.com/media/TLm3ig25UPL7roCPLC/giphy.gif'&gt;&lt;br/&gt;That’s right, Cook has been the CEO of Apple for exactly 10 years this week. Cook still has plenty of problems to deal with, from high-stakes legal challenges against Apple’s App Store policies to a more vocal workforce to thorny privacy questions. While the iPhone still reigns supreme, Apple has expanded its hardware lineup in the last decade and scored hits with the Apple Watch and AirPods.  Apple’s annual revenue in 2011, when Cook took over, was $108.2 billion; in 2020 it made $274.5 billion. It also made a big move into services (Apple Pay, Apple Music, etc.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/26/reflecting-tim-cooks-leadership-apple-10-years</link>
+  <author>Neal Freyman</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/26/reflecting-tim-cooks-leadership-apple-10-years</guid>
+  <pubDate>Thu, 26 Aug 2021 15:11:08 -0700</pubDate>
+ </item>
  <item>
   <title>Joe Rogan Influence Diminished After Move to Spotify , the Verge Reports</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F1012%2Fjoe_rogan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Using secondary metrics, like how much of a promotional boost Rogan gave his guests, The Verge found that Rogan’s influence has diminished since he went to frolic in Spotify’s walled garden. Joe Rogan shook up the podcasting world when he brought his megapopular show exclusively to Spotify in a deal worth a reported $100 million. – NF</description>
@@ -361,15 +370,6 @@
   <categories>crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/23/justin-sun-buys-nft-rock-half-million-dollars</guid>
   <pubDate>Sun, 22 Aug 2021 20:11:12 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 23</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F5729%2Fblack_widow.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A tweet by the FDA that implored people to stop self-medicating against Covid-19 with a drug called ivermectin. (Sarah Chayes) Read: Searing reflections on Afghanistan. Seriously, y’all. You are not a cow. Quote: “You are not a horse.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/22/key-performance-indicators-august-23</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/22/key-performance-indicators-august-23</guid>
-  <pubDate>Sun, 22 Aug 2021 16:51:08 -0700</pubDate>
  </item>
 
 </channel>
