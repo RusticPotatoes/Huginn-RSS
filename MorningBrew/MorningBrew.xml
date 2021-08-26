@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/26</link>
- <lastBuildDate>Thu, 26 Aug 2021 15:24:11 -0700</lastBuildDate>
- <pubDate>Thu, 26 Aug 2021 15:24:11 -0700</pubDate>
+ <lastBuildDate>Thu, 26 Aug 2021 15:28:12 -0700</lastBuildDate>
+ <pubDate>Thu, 26 Aug 2021 15:28:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>German Publisher Axel Springer Announces Plans to Buy Politico</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6413%2Faxel_springer_politico.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In May, there were whispers that Axel Springer was looking to buy Politico rival Axios, but the double-ax hasn’t come through yet. Plus, buying Politico is another way it can get into the US media market, which it’s been circling for years.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/26/german-publisher-axel-springer-announces-plans-buy-politico</link>
+  <author>Matty Merritt</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/26/german-publisher-axel-springer-announces-plans-buy-politico</guid>
+  <pubDate>Thu, 26 Aug 2021 15:26:11 -0700</pubDate>
+ </item>
  <item>
   <title>Corporate America’s $50 Billion Pledge to Fight Against Racial Inequality</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F1179%2Fgeorge_floyd_memorial.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Last June, US corporations pledged to give a historic sum of money to projects addressing racial inequality following George Floyd’s murder. Pledges from Corporate America are welcome, but companies aren’t accountable for their financial commitments, and in the end they must serve their shareholders before anything else. So far, 37 companies have confirmed disbursing at least $1.7 billion.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>geopolitics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/22/pentagon-calls-commercial-airlines-lend-18-planes-evacuation-effort?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 23 Aug 2021 03:01:08 -0700</pubDate>
- </item>
- <item>
-  <title>Full Vaccine Approval for Pfizer Is Expected as Soon as Today</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6351%2Fpfizer_covid-19_vaccine_d.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Full approval will likely lead to more vaccine requirements among organizations and businesses, and, officials hope, will build more confidence among skeptical Americans to get the shot voluntarily. the next vaccine to be considered for full approval is Moderna’s, which could come a few weeks after Pfizer’s green light. The FDA could grant full approval to Pfizer-BioNTech’s coronavirus vaccine as soon as today, according to the NYT.  More manufacturing scrutiny: Full approval requires more inspections of facilities and vaccine makers to provide more detailed production info, per Marks.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/22/full-vaccine-approval-pfizer-expected-soon-today?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>pharma</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/22/full-vaccine-approval-pfizer-expected-soon-today?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 23 Aug 2021 03:01:08 -0700</pubDate>
  </item>
 
