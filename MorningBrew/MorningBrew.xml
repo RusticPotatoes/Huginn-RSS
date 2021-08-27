@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/27</link>
- <lastBuildDate>Fri, 27 Aug 2021 15:18:32 -0700</lastBuildDate>
- <pubDate>Fri, 27 Aug 2021 15:18:32 -0700</pubDate>
+ <lastBuildDate>Fri, 27 Aug 2021 15:23:32 -0700</lastBuildDate>
+ <pubDate>Fri, 27 Aug 2021 15:23:32 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Support.com Becomes The Latest Meme Stock</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6437%2Fsupport_com_stock_price_chart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;SEC Chair Gary Gensler said his regulatory agency is looking into how apps like Robinhood gamify trading with features that encourage the kind of frenzied investing activity we’ve seen around meme stocks like Support. com is a relatively unknown software company, considering how high it must rank in Google search results.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/27/supportcom-becomes-latest-meme-stock</link>
+  <author>Jamie Wilde</author>
+  <categories>stocks</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/27/supportcom-becomes-latest-meme-stock</guid>
+  <pubDate>Fri, 27 Aug 2021 15:21:31 -0700</pubDate>
+ </item>
  <item>
   <title>‘Monster’ Mike Schultz Talks the Paralympic Games, Winning Gold in 2018, and Disney Channel Original Movies</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6433%2Fmike_schultz.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; What’s more difficult: Winning a gold medal at the Paralympics or starting a company? But running a business or starting a business is an ongoing set of challenges. I'm going to have to go watch it again and refresh my memory.  To learn about what it takes to be a Paralympic champion, we chatted with gold medal-winning snowboarder Mike Schultz. After my injury in 2008, I really started spending a lot more time with the horses. What is something most people don't know about competing at the Paralympics? Yes, it's been a long time.  When I won gold and was able to stand on top of the podium and listen to the national anthem start playing, man, that is a very powerful moment that not many people get to experience.</description>
@@ -361,15 +370,6 @@
   <categories>auto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/24/waymo-launches-robotaxi-service-san-francisco</guid>
   <pubDate>Tue, 24 Aug 2021 14:51:07 -0700</pubDate>
- </item>
- <item>
-  <title>Maersk Makes Biggest Step Yet to Decarbonize the Shipping Industry</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6372%2Fcranes_loading_edith_maer.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Maersk, the world’s largest container shipping company, is placing a $1.4 billion order for eight new ships that run on carbon-neutral fuel.    Maersk’s new ships run on carbon-neutral methanol, which is produced from renewable sources like biomass.  The new ships, which are expected to be delivered by 2024, are more electric F-150 than Nissan Leaf. Commodities trader Cargill is even adding sails to some of its cargo ships to get a wind boost.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/24/maersk-makes-biggest-step-yet-decarbonize-shipping-industry</link>
-  <author>Neal Freyman</author>
-  <categories>shipping</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/24/maersk-makes-biggest-step-yet-decarbonize-shipping-industry</guid>
-  <pubDate>Tue, 24 Aug 2021 14:41:15 -0700</pubDate>
  </item>
 
 </channel>
