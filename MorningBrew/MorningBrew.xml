@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/27/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/27/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/28/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/28/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/27</link>
- <lastBuildDate>Fri, 27 Aug 2021 15:23:32 -0700</lastBuildDate>
- <pubDate>Fri, 27 Aug 2021 15:23:32 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/28</link>
+ <lastBuildDate>Sat, 28 Aug 2021 03:05:11 -0700</lastBuildDate>
+ <pubDate>Sat, 28 Aug 2021 03:05:11 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Q&amp;A With Paralympic Gold Medalist Mike Schultz</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6433%2Fmike_schultz.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; To learn about what it takes to be a Paralympic champion, we asked gold medal-winning snowboarder Mike Schultz what was harder: winning the gold or starting his company, BioDapt, which provides lower-limb prosthetics for action sports.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/27/qa-paralympic-gold-medalist-mike-schultz?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/27/qa-paralympic-gold-medalist-mike-schultz?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 28 Aug 2021 03:02:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 28</title>
+  <description>&lt;img src='https://media.giphy.com/media/Lqsij1GjWKHLy/giphy.gif?cid=ecf05e47gvqdociihiyavfaq38a1ipz9woonjqkjgenr6e07&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;(ABC News)  Read: Inside the daring mission by US special operations vets to rescue Afghan allies. Social media consultant Sarah Petite spoke to the WSJ about the new generation of stock-picking influencers who’ve taken over YouTube.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/27/key-performance-indicators-august-28?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/27/key-performance-indicators-august-28?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 28 Aug 2021 03:02:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>Support.com Becomes The Latest Meme Stock</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6437%2Fsupport_com_stock_price_chart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;SEC Chair Gary Gensler said his regulatory agency is looking into how apps like Robinhood gamify trading with features that encourage the kind of frenzied investing activity we’ve seen around meme stocks like Support. com is a relatively unknown software company, considering how high it must rank in Google search results.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/27/supportcom-becomes-latest-meme-stock?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>stocks</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/27/supportcom-becomes-latest-meme-stock?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 28 Aug 2021 03:02:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>Powell Signals the Fed Will Wind Down Stimulus Measures in the Coming Months</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2230%2Fjerome_powell.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In a highly anticipated speech yesterday, the Fed Chair said that the economy has recovered enough that “it could be appropriate” to start slowing down some of the Fed’s pandemic-era stimulus measures.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/27/powell-signals-fed-will-wind-stimulus-measures-coming-months?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/27/powell-signals-fed-will-wind-stimulus-measures-coming-months?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 28 Aug 2021 03:02:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>How Tim Cook Changed Apple in the 10 Years He's Been CEO</title>
+  <description>&lt;img src='https://media.giphy.com/media/TLm3ig25UPL7roCPLC/giphy.gif'&gt;&lt;br/&gt;That’s right, Cook has been the CEO of Apple for exactly 10 years this week. Cook still has plenty of problems to deal with, from high-stakes legal challenges against Apple’s App Store policies to a more vocal workforce to thorny privacy questions. While the iPhone still reigns supreme, Apple has expanded its hardware lineup in the last decade and scored hits with the Apple Watch and AirPods. It also made a big move into services (Apple Pay, Apple Music, etc. Looking ahead... did (admittedly a low bar). What did your partner get you for your 10th anniversary?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/27/tim-cook-changed-apple-10-years-hes-ceo?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/27/tim-cook-changed-apple-10-years-hes-ceo?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 28 Aug 2021 03:02:08 -0700</pubDate>
+ </item>
  <item>
   <title>Support.com Becomes The Latest Meme Stock</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6437%2Fsupport_com_stock_price_chart.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;SEC Chair Gary Gensler said his regulatory agency is looking into how apps like Robinhood gamify trading with features that encourage the kind of frenzied investing activity we’ve seen around meme stocks like Support. com is a relatively unknown software company, considering how high it must rank in Google search results.</description>
@@ -325,51 +370,6 @@
   <categories>geopolitics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/24/airbnb-opens-doors-afghan-refugees?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 25 Aug 2021 03:02:13 -0700</pubDate>
- </item>
- <item>
-  <title>Maersk Makes Biggest Step Yet to Decarbonize the Shipping Industry</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6380%2Fscene_from_jaws.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Maersk, the world’s largest container shipping company, is placing a $1.4 billion order for eight new ships that run on carbon-neutral fuel.  Maersk’s new ships run on carbon-neutral methanol, which is produced from renewable sources like biomass. – NF  This is about way more than shipping linesAny company that sends goods across oceans (aka most of the big ones) is feeling pressure from consumers to give their supply chains a green paint job. Commodities trader Cargill is even adding sails to some of its cargo ships to get a wind boost.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/24/maersk-makes-biggest-step-yet-decarbonize-shipping-industry?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>shipping</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/24/maersk-makes-biggest-step-yet-decarbonize-shipping-industry?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 25 Aug 2021 03:02:13 -0700</pubDate>
- </item>
- <item>
-  <title>Airbnb Opens Its Doors to Afghan Refugees</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6245%2Fus_copter_in_afghanistan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Congress added 8,000 “special immigrant visas” intended for Afghan nationals who work for the US government, and the Biden administration told humanitarian groups to prepare for as many as 50,000 Afghan refugees who aren’t eligible for that visa to enter the US under a new designation called “humanitarian parole.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/24/airbnb-opens-doors-afghan-refugees</link>
-  <author>Jamie Wilde</author>
-  <categories>geopolitics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/24/airbnb-opens-doors-afghan-refugees</guid>
-  <pubDate>Tue, 24 Aug 2021 15:02:17 -0700</pubDate>
- </item>
- <item>
-  <title>TikTok Partners with Shopify to Add In-app Shopping Feature</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6378%2Fshopify_x_tiktok.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The partnership reflects a new era of "social commerce.” Facebook’s social commerce platform, Marketplace, hit 1 billion users in April. – SQ Looking ahead...  “Just imagine kids 20 years from now—they’re going to be shocked to hear that we had to use a search engine when buying something,” Jet.com founder Marc Lore told the Brew.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/24/tiktok-partners-shopify-add-inapp-shopping-feature</link>
-  <author>Sherry Qin</author>
-  <categories>social commerce</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/24/tiktok-partners-shopify-add-inapp-shopping-feature</guid>
-  <pubDate>Tue, 24 Aug 2021 14:57:17 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 25</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3966%2Fdrone_delivery_of_covid_vaccines.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Neo.life)  Read: A portrait of a professional baby maker. He’s asking that visitors avoid coming to Hawaii on vacation through the end of October to reduce the spread of Covid-19.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/24/key-performance-indicators-august-25</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/24/key-performance-indicators-august-25</guid>
-  <pubDate>Tue, 24 Aug 2021 14:51:07 -0700</pubDate>
- </item>
- <item>
-  <title>Waymo Launches Robotaxi Service in San Francisco</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6377%2Fwaymo_vehicle.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If you are chosen, you will need to sign an NDA to keep quiet about your experience.   + For more self-driving car news, sign up for Emerging Tech Brew. Zoom out: While Waymo’s announcement is a step forward, autonomous vehicles face a road more winding than Lombard Street.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/24/waymo-launches-robotaxi-service-san-francisco</link>
-  <author>Neal Freyman</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/24/waymo-launches-robotaxi-service-san-francisco</guid>
-  <pubDate>Tue, 24 Aug 2021 14:51:07 -0700</pubDate>
  </item>
 
 </channel>
