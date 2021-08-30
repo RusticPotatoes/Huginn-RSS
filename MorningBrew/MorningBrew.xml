@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/29</link>
- <lastBuildDate>Sun, 29 Aug 2021 19:45:06 -0700</lastBuildDate>
- <pubDate>Sun, 29 Aug 2021 19:45:06 -0700</pubDate>
+ <lastBuildDate>Sun, 29 Aug 2021 20:35:09 -0700</lastBuildDate>
+ <pubDate>Sun, 29 Aug 2021 20:35:09 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Why Are Rent Prices Surging?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6385%2Ffor_rent_housing.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Turns out the No. 1 comeback story of the year isn’t jeans—it’s rental prices.  Housing is too expensive: Skyrocketing housing prices are causing some would-be homeowners to choose renting instead. Now, rent prices in 87 of the country’s 100 largest cities have fully returned to pre-pandemic levels.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/rent-prices-surging</link>
+  <author>Neal Freyman</author>
+  <categories>housing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/rent-prices-surging</guid>
+  <pubDate>Sun, 29 Aug 2021 20:32:07 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: August 30</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2376%2Felizabeth_holmes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Everything else:September begins on WednesdayBonnaroo is on ThursdayGet pumped for the long Labor Day weekend yeah that’s it.</description>
@@ -361,15 +370,6 @@
   <categories>aviation</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/25/delta-cracks-unvaccinated-employeesbut-doesnt-mandate-vaccinations</guid>
   <pubDate>Wed, 25 Aug 2021 14:52:13 -0700</pubDate>
- </item>
- <item>
-  <title>Money Matters: Getting the Right Mix</title>
-  <description>&lt;img src='https://media.giphy.com/media/ixZmwZC0R1Zi87EOqG/giphy.gif'&gt;&lt;br/&gt;How much money should I be investing and saving in cash every month? Keep enough cash to cover three to six months of expenses in a savings account that you can tap in the face of financial hardship. But cash comes first. Perhaps only Elon Musk appears in this newsletter as much as inflation, which is just one reason not to hoard more cash than is necessary.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/07/23/money-matters-getting-right-mix</link>
-  <author>Ryan Lasker</author>
-  <categories>personal finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/23/money-matters-getting-right-mix</guid>
-  <pubDate>Wed, 25 Aug 2021 12:57:11 -0700</pubDate>
  </item>
 
 </channel>
