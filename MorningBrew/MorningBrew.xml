@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/29</link>
- <lastBuildDate>Sun, 29 Aug 2021 19:40:07 -0700</lastBuildDate>
- <pubDate>Sun, 29 Aug 2021 19:40:07 -0700</pubDate>
+ <lastBuildDate>Sun, 29 Aug 2021 19:45:06 -0700</lastBuildDate>
+ <pubDate>Sun, 29 Aug 2021 19:45:06 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: August 30</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2376%2Felizabeth_holmes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Everything else:September begins on WednesdayBonnaroo is on ThursdayGet pumped for the long Labor Day weekend yeah that’s it.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/week-ahead-august-30</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/week-ahead-august-30</guid>
+  <pubDate>Sun, 29 Aug 2021 19:42:04 -0700</pubDate>
+ </item>
  <item>
   <title>Oxygen Runs in Short Supply for Covid-19 Patients, Water Treatment, and Space Missions</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6439%2Foxygen_tank.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  But diverting oxygen to hospitals to treat Covid-19 patients means it can’t be deployed for other uses. Because of higher Covid-19 hospitalizations, the city was running low on liquid oxygen, which is used to treat the water supply. As if the Southeast US didn’t have enough to deal with already, hospitals are running low on oxygen for treating Covid-19 patients, and it’s causing ripple effects for other industries that use the stuff for their daily operations.</description>
@@ -361,15 +370,6 @@
   <categories>personal finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/07/23/money-matters-getting-right-mix</guid>
   <pubDate>Wed, 25 Aug 2021 12:57:11 -0700</pubDate>
- </item>
- <item>
-  <title>TikTok Partners with Shopify to Add In-app Shopping Feature</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6378%2Fshopify_x_tiktok.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;As more social media platforms roll out shopping features, the US social commerce industry is expected to reach $50 billion in annual sales by 2023, per eMarketer. Facebook’s social commerce platform, Marketplace, hit 1 billion users in April. The partnership reflects a new era of "social commerce.” – SQ Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/24/tiktok-partners-shopify-add-inapp-shopping-feature?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>social media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/24/tiktok-partners-shopify-add-inapp-shopping-feature?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 25 Aug 2021 03:02:13 -0700</pubDate>
  </item>
 
 </channel>
