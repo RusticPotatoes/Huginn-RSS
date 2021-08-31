@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/08/31</link>
- <lastBuildDate>Tue, 31 Aug 2021 03:03:12 -0700</lastBuildDate>
- <pubDate>Tue, 31 Aug 2021 03:03:12 -0700</pubDate>
+ <lastBuildDate>Tue, 31 Aug 2021 14:48:10 -0700</lastBuildDate>
+ <pubDate>Tue, 31 Aug 2021 14:48:10 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Zoom Faces Headwinds as Sales Growth Slows</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4205%2Fzoom_sadness.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom was a lifeline for remote work, attending Zoom U, and—most importantly—having virtual happy hours when everyone was cooped up home last year. Zoom’s plunging sales growth is the latest sign that pandemic winners could be hitting a wall. – SQ Looking ahead...  “What we’re seeing...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/31/zoom-faces-headwinds-sales-growth-slows</link>
+  <author>Sherry Qin</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/31/zoom-faces-headwinds-sales-growth-slows</guid>
+  <pubDate>Tue, 31 Aug 2021 14:46:10 -0700</pubDate>
+ </item>
  <item>
   <title>Fitness Wearable Company Whoop Raises $200 Million at a $3.6 Billion Valuation</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6455%2Fwhoop_bands.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Startups like Oura and Biofourmis, which both make wearable sensors, have also secured major funding over the past two years.  Google completed a $2.1 billion deal this year to purchase the fitness-tracking company Fitbit. — SQ</description>
@@ -361,15 +370,6 @@
   <categories>housing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/27/supreme-court-throws-bidens-eviction-moratorium</guid>
   <pubDate>Thu, 26 Aug 2021 21:17:12 -0700</pubDate>
- </item>
- <item>
-  <title>Peloton Shares Slide After Disappointing Quarter, Price Cut on Bike</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6415%2Fimage_from_a_peloton_commercial.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Not even Cody Rigsby could cheer up Peloton after its latest earnings report. before yesterday’s tumble.  After gaining more than 440% last year, shares have fallen more than 25% year-to-date...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/27/peloton-shares-slide-disappointing-quarter-price-cut-bike</link>
-  <author>Neal Freyman</author>
-  <categories>fitness</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/27/peloton-shares-slide-disappointing-quarter-price-cut-bike</guid>
-  <pubDate>Thu, 26 Aug 2021 21:11:12 -0700</pubDate>
  </item>
 
 </channel>
