@@ -1,16 +1,151 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/08/29/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/08/29/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/08/31/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/08/31/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/08/29</link>
- <lastBuildDate>Sun, 29 Aug 2021 20:35:09 -0700</lastBuildDate>
- <pubDate>Sun, 29 Aug 2021 20:35:09 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/08/31</link>
+ <lastBuildDate>Tue, 31 Aug 2021 03:03:12 -0700</lastBuildDate>
+ <pubDate>Tue, 31 Aug 2021 03:03:12 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Fitness Wearable Company Whoop Raises $200 Million at a $3.6 Billion Valuation</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6455%2Fwhoop_bands.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Startups like Oura and Biofourmis, which both make wearable sensors, have also secured major funding over the past two years.  Google completed a $2.1 billion deal this year to purchase the fitness-tracking company Fitbit. — SQ</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/fitness-wearable-company-whoop-raises-200-million-36-billion-valuation?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/fitness-wearable-company-whoop-raises-200-million-36-billion-valuation?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 31 Aug 2021 03:01:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 31</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2298%2Fcancel_rent_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Eater)  Read: Margaritaville and the myth of American leisure. She found the gesture non-fungible.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/key-performance-indicators-august-31?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/key-performance-indicators-august-31?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 31 Aug 2021 03:01:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>China Limits Online Video Games to Three Hours a Week for Minors</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6453%2Fvideo_game.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;All online video games are required to be connected to an “anti-addiction” system operated by the NPPA using real-name registration. The Chinese government banned kids under 18 from playing online video games on school nights and will allow gaming for only one hour a day on weekends and public holidays. — SQ</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/china-limits-online-video-games-three-hours-week-minors?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>gaming</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/china-limits-online-video-games-three-hours-week-minors?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 31 Aug 2021 03:01:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>EU Recommends Banning Unvaccinated American Tourists From Traveling to Europe</title>
+  <description>&lt;img src='https://media.giphy.com/media/AMKSRvfLEwXlu/giphy.gif?cid=ecf05e47sgdbaxmbqr0qetz2bi2x60vct5kf66rehb1y7n6q&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;The European Council removed the US from the “safe list” of countries that can send tourists to the EU due to high Covid rates here in the States. While the EU opened up its borders to American tourists in June, the US has yet to reciprocate for European visitors, angering the EU.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/eu-recommends-banning-unvaccinated-american-tourists-traveling-europe?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/eu-recommends-banning-unvaccinated-american-tourists-traveling-europe?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 31 Aug 2021 03:01:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>What You Need to Know About Elizabeth Holmes’s Trial That Starts Today</title>
+  <description>&lt;img src='https://media.giphy.com/media/wnqrlUsg38l8sqcWMi/giphy.gif?cid=790b7611676244cc2d5d769553cfe73a113c32838f0da11a&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;Here’s a quick timeline for everyone who was too young or busy in the aughts: 2003: At the age of 19, Elizabeth Holmes dropped out of Stanford and started Theranos with the goal of revolutionizing blood testing. Jury selection begins today for the criminal fraud trial of Elizabeth Holmes, the founder of shuttered Silicon Valley biotech startup Theranos. Holmes’s net worth also grew to $4.5 billion, good enough for No. 1 on the Forbes list of America’s Richest Self-Made Women. From there, investors started suing for fraud, the government yanked the company’s blood-testing license, and in September 2018, the SEC dissolved Theranos. — MM</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/need-know-elizabeth-holmess-trial-starts-today?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>legal</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/need-know-elizabeth-holmess-trial-starts-today?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 31 Aug 2021 03:01:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>Fitness Wearable Company Whoop Raises $200 Million at a $3.6 Billion Valuation</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6455%2Fwhoop_bands.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Whoop, a startup that makes wearable health trackers, raised $200 million in financing led by SoftBank at a $3.6 billion valuation, making it the most valuable standalone human performance company in the world, according to a PR release from Whoop.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/fitness-wearable-company-whoop-raises-200-million-36-billion-valuation</link>
+  <author>Sherry Qin</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/fitness-wearable-company-whoop-raises-200-million-36-billion-valuation</guid>
+  <pubDate>Mon, 30 Aug 2021 15:22:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>What You Need to Know About Elizabeth Holmes’s Trial That Starts Today</title>
+  <description>&lt;img src='https://media.giphy.com/media/wnqrlUsg38l8sqcWMi/giphy.gif?cid=790b7611676244cc2d5d769553cfe73a113c32838f0da11a&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;Jury selection begins today for the criminal fraud trial of Elizabeth Holmes, the founder of shuttered Silicon Valley biotech startup Theranos. Holmes’s net worth also grew to $4.5 billion, good enough for No. 1 on the Forbes list of America’s Richest Self-Made Women. Fall into a Theranos rabbit hole: The WSJ reporter who broke the story, John Carreyrou, wrote a riveting book about the fraud called Bad Blood. The downfall of Theranos may have briefly scared investors into looking closer at pitch decks, but it may take more than a conviction to change the Valley’s entrenched “fake it ’til you make it” mindset. Balwani’s lawyers called the claims “deeply offensive.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/need-know-elizabeth-holmess-trial-starts-today</link>
+  <author>Matty Merritt</author>
+  <categories>legal</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/need-know-elizabeth-holmess-trial-starts-today</guid>
+  <pubDate>Mon, 30 Aug 2021 15:17:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 31</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2298%2Fcancel_rent_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Eater)  Read: Margaritaville and the myth of American leisure. She found the gesture non-fungible.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/key-performance-indicators-august-31</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/key-performance-indicators-august-31</guid>
+  <pubDate>Mon, 30 Aug 2021 15:07:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>China Limits Online Video Games to Three Hours a Week for Minors</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6453%2Fvideo_game.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;All online video games are required to be connected to an “anti-addiction” system operated by the NPPA using real-name registration. We made a funny (and weirdly emotional) TikTok about the news. Want more? Tencent’s market cap has lost more than $400 billion since a February peak.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/china-limits-online-video-games-three-hours-week-minors</link>
+  <author>Sherry Qin</author>
+  <categories>gaming</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/china-limits-online-video-games-three-hours-week-minors</guid>
+  <pubDate>Mon, 30 Aug 2021 15:07:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>EU Recommends Banning Unvaccinated American Tourists From Traveling to Europe</title>
+  <description>&lt;img src='https://media.giphy.com/media/AMKSRvfLEwXlu/giphy.gif?cid=ecf05e47sgdbaxmbqr0qetz2bi2x60vct5kf66rehb1y7n6q&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;The European Council removed the US from the “safe list” of countries that can send tourists to the EU due to high Covid rates here in the States. While the EU recommended opening up its borders to American tourists in June, the US has yet to reciprocate for European visitors, angering the EU.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/eu-recommends-banning-unvaccinated-american-tourists-traveling-europe</link>
+  <author>Neal Freyman</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/eu-recommends-banning-unvaccinated-american-tourists-traveling-europe</guid>
+  <pubDate>Mon, 30 Aug 2021 15:02:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Week Ahead: August 30</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2376%2Felizabeth_holmes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Everything else:September begins on WednesdayBonnaroo is on ThursdayGet pumped for the long Labor Day weekend yeah that’s it.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/week-ahead-august-30?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/week-ahead-august-30?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 30 Aug 2021 03:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: August 30</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6440%2Fcargo_ships_waiting_to_get_into_the_port_of_long_beach.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Stat: The only thing worse than LA road traffic is LA marine traffic. (Vox) Read: The economic case for bringing in as many refugees as possible.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/key-performance-indicators-august-30?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/key-performance-indicators-august-30?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 30 Aug 2021 03:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Why Are Rent Prices Surging?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6385%2Ffor_rent_housing.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The No. 1 comeback story of the year isn’t jeans—it’s rental prices. Now, rent prices in 87 of the country’s 100 largest cities have fully returned to pre-pandemic levels.  The website Apartment List explained some of the trends behind the trend.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/rent-prices-surging?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>housing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/rent-prices-surging?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 30 Aug 2021 03:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Oxygen Runs in Short Supply for Covid-19 Patients, Water Treatment, and Space Missions</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6439%2Foxygen_tank.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Liquid oxygen is used to treat the water supply, but the city is running low because of the crush of Covid hospitalizations.   But diverting oxygen to hospitals to treat Covid-19 patients means it can’t be deployed for other uses. As if the Southeast US didn’t have enough to deal with already, hospitals are running low on oxygen for treating Covid-19 patients, and it’s causing ripple effects for other industries that use the stuff for their daily operations.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/oxygen-runs-short-supply-covid19-patients-water-treatment-space-missions?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>healthcare</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/oxygen-runs-short-supply-covid19-patients-water-treatment-space-missions?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 30 Aug 2021 03:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Powerfull Hurricane Ida Makes Landfall in Louisiana</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6438%2Fnoaa.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;As of late last night, the only power to the city was coming from generators. this is the beginning, not the end, of the Ida story. Hurricane Ida slammed into Louisiana on exactly the same date, Aug. 29, as Katrina did in 2005.  The entire city of New Orleans was left without power, according to the regional energy provider Entergy.  Looking ahead... If refineries suffer a direct hit, gas prices could rise by about 10 cents in many East Coast markets. And 60% of gasoline used on the East Coast comes from Gulf Coast refineries.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/08/30/powerfull-hurricane-ida-makes-landfall-louisiana?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>weather</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/powerfull-hurricane-ida-makes-landfall-louisiana?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 30 Aug 2021 03:02:04 -0700</pubDate>
+ </item>
  <item>
   <title>Why Are Rent Prices Surging?</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6385%2Ffor_rent_housing.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Turns out the No. 1 comeback story of the year isn’t jeans—it’s rental prices.  Housing is too expensive: Skyrocketing housing prices are causing some would-be homeowners to choose renting instead. Now, rent prices in 87 of the country’s 100 largest cities have fully returned to pre-pandemic levels.</description>
@@ -235,141 +370,6 @@
   <categories>fitness</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/27/peloton-shares-slide-disappointing-quarter-price-cut-bike</guid>
   <pubDate>Thu, 26 Aug 2021 21:11:12 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 27</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6412%2Fnyc_s_times_square.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(BBC Future)  Read: How water shortages are brewing wars. Last week’s hack compromised the personal info of more than 50 million people.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/26/key-performance-indicators-august-27</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/26/key-performance-indicators-august-27</guid>
-  <pubDate>Thu, 26 Aug 2021 16:11:12 -0700</pubDate>
- </item>
- <item>
-  <title>German Publisher Axel Springer Announces Plans to Buy Politico</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6413%2Faxel_springer_politico.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In May, there were whispers that Axel Springer was looking to buy Politico rival Axios, but the double-ax hasn’t come through yet. Plus, buying Politico is another way it can get into the US media market, which it’s been circling for years.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/26/german-publisher-axel-springer-announces-plans-buy-politico</link>
-  <author>Matty Merritt</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/26/german-publisher-axel-springer-announces-plans-buy-politico</guid>
-  <pubDate>Thu, 26 Aug 2021 15:26:11 -0700</pubDate>
- </item>
- <item>
-  <title>Corporate America’s $50 Billion Pledge to Fight Against Racial Inequality</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F1179%2Fgeorge_floyd_memorial.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Last June, US corporations pledged to give a historic sum of money to projects addressing racial inequality following George Floyd’s murder. Pledges from Corporate America are welcome, but companies aren’t accountable for their financial commitments, and in the end they must serve their shareholders before anything else. So far, 37 companies have confirmed disbursing at least $1.7 billion.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/26/corporate-americas-50-billion-pledge-fight-racial-inequality</link>
-  <author>Sherry Qin</author>
-  <categories>equality</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/26/corporate-americas-50-billion-pledge-fight-racial-inequality</guid>
-  <pubDate>Thu, 26 Aug 2021 15:22:10 -0700</pubDate>
- </item>
- <item>
-  <title>Reflecting on Tim Cook's Leadership at Apple, 10 Years On</title>
-  <description>&lt;img src='https://media.giphy.com/media/TLm3ig25UPL7roCPLC/giphy.gif'&gt;&lt;br/&gt;That’s right, Cook has been the CEO of Apple for exactly 10 years this week. Cook still has plenty of problems to deal with, from high-stakes legal challenges against Apple’s App Store policies to a more vocal workforce to thorny privacy questions. While the iPhone still reigns supreme, Apple has expanded its hardware lineup in the last decade and scored hits with the Apple Watch and AirPods.  Apple’s annual revenue in 2011, when Cook took over, was $108.2 billion; in 2020 it made $274.5 billion. It also made a big move into services (Apple Pay, Apple Music, etc.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/26/reflecting-tim-cooks-leadership-apple-10-years</link>
-  <author>Neal Freyman</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/26/reflecting-tim-cooks-leadership-apple-10-years</guid>
-  <pubDate>Thu, 26 Aug 2021 15:11:08 -0700</pubDate>
- </item>
- <item>
-  <title>Joe Rogan Influence Diminished After Move to Spotify , the Verge Reports</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F1012%2Fjoe_rogan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Using secondary metrics, like how much of a promotional boost Rogan gave his guests, The Verge found that Rogan’s influence has diminished since he went to frolic in Spotify’s walled garden. Joe Rogan shook up the podcasting world when he brought his megapopular show exclusively to Spotify in a deal worth a reported $100 million. – NF</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/25/joe-rogan-influence-diminished-move-spotify-verge-reports?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/25/joe-rogan-influence-diminished-move-spotify-verge-reports?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 26 Aug 2021 03:02:15 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 26</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6388%2Falphabet_s_wing_drone.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(NYT Magazine)  Read: Roger Federer’s biggest legacy might be his billion-dollar brand. The direct-to-consumer pioneer filed to go public on Tuesday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/25/key-performance-indicators-august-26?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/25/key-performance-indicators-august-26?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 26 Aug 2021 03:02:15 -0700</pubDate>
- </item>
- <item>
-  <title>OnlyFans Goes Back on Proposed Porn Ban</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6392%2Fi_ve_made_a_huge_mistake_meme.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;OnlyFans hasn’t said whether its relationship with banks has changed, but the problems it’s facing are nothing new in the adult entertainment industry.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/25/onlyfans-goes-back-proposed-porn-ban?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/25/onlyfans-goes-back-proposed-porn-ban?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 26 Aug 2021 03:02:15 -0700</pubDate>
- </item>
- <item>
-  <title>Delta Cracks Down on Unvaccinated Employees—but Doesn't Mandate Vaccinations</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6387%2Fdelta_air_lines_plane.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And while the airline isn’t mandating vaccinations, it’s making life frustrating for employees who are unwilling to get the shot.  It comes down to “financial risk,” CEO Ed Bastian said.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/25/delta-cracks-unvaccinated-employeesbut-doesnt-mandate-vaccinations?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>aviation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/25/delta-cracks-unvaccinated-employeesbut-doesnt-mandate-vaccinations?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 26 Aug 2021 03:02:15 -0700</pubDate>
- </item>
- <item>
-  <title>Unique Supply Chain Issues Cause Shortages in the UK</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6391%2Fbig_ben_cogs_in_the_clock_supply_chain.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; These shortages are exacerbated by one broken cog in the supply chain: a lack of truck—err, lorry—drivers. And while driver shortages are a problem in many countries, the UK’s are due to a more unusual set of circumstances than just “the pandemic.” Gas station pumps are running dry, compounding supply chain issues.  The bigger picture: The UK is facing historic shortages across the board due to supply chain snags that are hitting the country harder than the White Queen clobbered Ron. A sampling:Iconic halal chicken joint Nando’s is feeling less cheeky after closing about 50 restaurants because of poultry shortages.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/25/unique-supply-chain-issues-cause-shortages-uk?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>international</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/25/unique-supply-chain-issues-cause-shortages-uk?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 26 Aug 2021 03:02:15 -0700</pubDate>
- </item>
- <item>
-  <title>Should you get into crypto? Early investors share regrets, opportunities, advice</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6393%2Fdrowning_in_bitcoin_crypto_tokens.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;As we have seen in the last 10 months, prices can go up four times and then go down two times. Morehead: If people want to invest in Dogecoin and it's been working for six or eight years and even more people want to invest in it 10 years from now and the value keeps going up? The estimates for the number of crypto users in the US are at around 6% of the population and in some countries that is getting closer to 10%. A lot of the users who are coming into some of the crypto games have never been in crypto before and so the games are sort of their first foray. Then a community can decide what to do with that work of art where they can decide to sell it or buy more art or commission a different artist to create a new work. They didn't hold back, weighing in on everything from crypto games and altcoins to NFTs and DAOs. Our panel included Dan Morehead, the founder and CEO of Pantera Capital, which calls itself the first U.S. institutional asset manager focused exclusively on blockchain; Jose Fernandez da Ponte, vice president and general manager of blockchain, crypto, and digital currencies at PayPal; and Ali Yahya and Arianna Simpson, both general partners working in crypto at venture capital firm Andreessen Horowitz. Simpson: I think we have seen only the very first inning of what's going to happen in NFTs. If I think about this in a five- to 10-year horizon kind of way, my expectation is that we'll see a lot of NFT use cases that have nothing to do with art and are completely different in nature. Now crypto has begun to graduate from its infrastructure phase and become ready for the application phase, where the technology is now capable of supporting real applications that can touch millions of users. As much as I've always expected crypto to become massive, the speed at which it happens is still kind of staggering. We hosted an event [recently] and I think one thing that struck me was that the people in the crowd were all really cool—much cooler than me and people like me who are crypto-native and have been in the space for a long time. I don't think there's any risk that, 10 years from now, we're going to find out blockchain didn't make it. Distributed ledger technology itself will be an asset class and it's going to disrupt a lot of things like currency. It just seemed like I should devote essentially the second half of my career to investing in it. I think 10 years from now, bitcoin is going to be an asset class and nobody is going to think anything of it. What was it like at the beginning, making the move to invest in this new thing called cryptocurrency? So I think crypto eventually becomes similar to the internet in the way that it interacts with and overlaps with different sectors. The number [of people saying that] is going down, but a lot of people still think I'm crazy.   Yahya: One thing that's surprising in a good way is that crypto is so interdisciplinarity—it brings together computer science, finance, economics, games theory, and now art. That is an important distinction—it's really bringing crypto to the forefront of people who weren't that into it before and were not necessarily tech native folks. Other use cases that are very interesting are things like digital identity. It's going to take bitcoin 20 years to do that. It’s a mechanism that you can use to organize human activity, but it's really heavyweight and you can only really do it for big things. But there's something interesting going on there. -Ed.]Yahya: The best way to think of a DAO is as the most digitally native way of organizing a community. Maybe we're too early or maybe it's a bubble right now and it's going to go down for five years before it ultimately goes up. I think that balance that we are seeing play out in the news every day is going to be one of the fundamental aspects of the speed of development. We are now entering a very interesting moment in time in which you can see more or less an inflection point for crypto. It’s just interesting to see how the technology penetrates increasingly different concentric circles. What advice do you have for people who may want to begin investing in crypto? We invested in things like stablecoins and some of the kind of financial primitives that are now part of DeFi, like Uniswap. Morehead: The current surprise is NFT pricing, but I still think NFT is really important. At the end of the day, a lot of people hold themselves back because they think they need some sort of external validation. Take a look at CryptoKitties, which really took off in 2017 and sort of catalyzed what eventually became the NFT [non-fungible token] movement and the crypto games movement. So I think the people should look at it carefully and accept that we are just at an early stage of the technology. I think that we will still need some time for that to mature. Morehead: When I got reintroduced to crypto in 2013, it was in the beginning of what would be a bubble that year. But there's a deeper way to think about it—that it’s yet another way of building a community. It's hundreds of different things and being a currency is just one of those. It's a way to move money around without paying a central third party. You end up with a lot of communities of people that believe in something very strongly. I don't think that anyone should be investing amounts of money that they cannot afford to lose.  Fernandez da Ponte: I don't think the volatility of the assets has surprised me; it’s something that you can expect in this space. We were at the beginning of what is now a very clear inflection point for crypto as a space. So I spun out and started my fund Autonomous Partners, which was really geared toward investing across the crypto space. The first one is people.  Simpson: It's the kind of thing that's very easy to dismiss. You can do it for something as small as a piece of media, and create a community around a work of art. So for me to want to leave that and go to a three-person bitcoin company was a very odd move to most people. I don't think that we are there yet, but we are getting close to that. You have to think about it as a completely new thing. But I think there are crazy prices being paid for things that, 100 years from now, people probably won't remember. In a very short period of time, the community has grown from the fundamental developments around bitcoin and ethereum to the next layer which is DeFi where you have a lot of new things that are built on those protocols that are enabling use cases that you could not think of three years ago. There are a bunch of protocols that move data around that we now call the internet. It started in the ‘70s and it's just now doing all of these cool things. Morehead: Try and get a portfolio of assets. If you have been following NFTs over the last six months, there was a lot of interest and then it felt like they disappeared for a while and now they are back.  Historically, crypto has seemed very difficult to get into or a little bit intimidating, so games are a means for people to start interacting with some of the concepts and be able to learn about it in a less threatening way. For example, I mentioned crypto games. You can approach it from the computer science or crypto-anarchist side, or you can approach it from the creative side. I tried to get Facebook to do something in crypto, but I was four or five years too early, so nothing came of it. Younger generations in particular like to attribute value to different things, so it's easy for older or more traditional investors to just be like, “Oh, this is nonsense.”  I think one of the best signs that there's something big happening is that central banks are now creating their own blockchain, which is an amazing testament to how important this is.   Simpson: My crypto journey started in Zimbabwe. Morehead: There's a lot of interesting topics in there. In reality, you're probably not going to get that.  Simpson: Crypto started as a sector unto itself, but what we're seeing is that it's becoming more of a layer of the technology stack and less of its own sector. So if you want to see where things are going, you really need to look at who's building it, because they will be the ones who put in all the hard work over periods of years or decades in order to build the future of whatever it is that is being built. Over time, you build a baseline of knowledge, so don't feel like you can’t start. Yahya: It's interesting to see how the technology has become mainstream. In the long run, we're going to look back and realize some very important pieces of work are being created right now. In the same way, we're seeing that area of overlap between crypto and other sectors. There's going to be some of that. Morehead: There was a long time where I worried about whether or not bitcoin would work or would get hacked. Big tech companies weren’t going anywhere. We continue to invest very much in infrastructure, but we have widened our lens and now focus on areas like crypto games or certain consumer facing financial applications, none of which was possible seven or eight years ago.  For the longest time, we have been in the infrastructure phase for crypto.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/26/get-crypto-early-investors-share-regrets-opportunities-advice</link>
-  <author>Colleen McFall</author>
-  <categories>cryptocurrency</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/26/get-crypto-early-investors-share-regrets-opportunities-advice</guid>
-  <pubDate>Wed, 25 Aug 2021 20:33:16 -0700</pubDate>
- </item>
- <item>
-  <title>Unique Supply Chain Issues Cause Shortages in the UK</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6391%2Fbig_ben_cogs_in_the_clock_supply_chain.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; These shortages are exacerbated by one broken cog in the supply chain: a lack of truck—err, lorry—drivers. The UK is facing historic shortages across the board due to supply chain snags that are hitting the country harder than the White Queen clobbering Ron. A sampling:Iconic halal chicken joint Nando’s is feeling less cheeky after closing about 50 restaurants because of poultry shortages. And while driver shortages are a problem in many countries, the UK’s are due to a more unusual set of circumstances than just “the pandemic.” Gas station pumps are running dry, compounding supply chain issues.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/25/unique-supply-chain-issues-cause-shortages-uk</link>
-  <author>Jamie Wilde</author>
-  <categories>supply chain</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/25/unique-supply-chain-issues-cause-shortages-uk</guid>
-  <pubDate>Wed, 25 Aug 2021 15:36:08 -0700</pubDate>
- </item>
- <item>
-  <title>OnlyFans Goes Back on Proposed Porn Ban</title>
-  <description>&lt;img src='https://media1.giphy.com/media/5PiIuCHlkQ58Y/giphy.gif?cid=790b76116ba481e0859a728bee8f0957023b2ea7ae258452&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;Yesterday, the adult entertainment platform said it would “suspend” that ban after facing backlash for abandoning the sex workers who built the platform.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/25/onlyfans-goes-back-proposed-porn-ban</link>
-  <author>Matty Merritt</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/25/onlyfans-goes-back-proposed-porn-ban</guid>
-  <pubDate>Wed, 25 Aug 2021 15:21:14 -0700</pubDate>
- </item>
- <item>
-  <title>Joe Rogan Influence Diminished After Move to Spotify , the Verge Reports</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F1012%2Fjoe_rogan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Using secondary metrics, like how much of a promotional boost Rogan gave his guests, The Verge found that Rogan’s influence has diminished since he went to frolic in Spotify’s walled garden. Joe Rogan shook up the podcasting world when he brought his megapopular show exclusively to Spotify in a deal worth a reported $100 million.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/25/joe-rogan-influence-diminished-move-spotify-verge-reports</link>
-  <author>Neal Freyman</author>
-  <categories>media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/25/joe-rogan-influence-diminished-move-spotify-verge-reports</guid>
-  <pubDate>Wed, 25 Aug 2021 15:16:14 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 26</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6388%2Falphabet_s_wing_drone.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(NYT Magazine)  Read: Roger Federer’s biggest legacy might be his billion-dollar brand. The company, a pioneer in the direct-to-consumer industry, filed to go public on Tuesday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/25/key-performance-indicators-august-26</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/25/key-performance-indicators-august-26</guid>
-  <pubDate>Wed, 25 Aug 2021 15:16:14 -0700</pubDate>
- </item>
- <item>
-  <title>Delta Cracks Down on Unvaccinated Employees—but Doesn't Mandate Vaccinations</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6387%2Fdelta_air_lines_plane.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And while the airline isn’t mandating vaccinations, it’s making life frustrating for employees who are unwilling to get the shot.  It comes down to “financial risk,” CEO Ed Bastian said.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/25/delta-cracks-unvaccinated-employeesbut-doesnt-mandate-vaccinations</link>
-  <author>Neal Freyman</author>
-  <categories>aviation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/25/delta-cracks-unvaccinated-employeesbut-doesnt-mandate-vaccinations</guid>
-  <pubDate>Wed, 25 Aug 2021 14:52:13 -0700</pubDate>
  </item>
 
 </channel>
