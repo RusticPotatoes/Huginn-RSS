@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/01</link>
- <lastBuildDate>Wed, 01 Sep 2021 15:28:29 -0700</lastBuildDate>
- <pubDate>Wed, 01 Sep 2021 15:28:29 -0700</pubDate>
+ <lastBuildDate>Wed, 01 Sep 2021 15:38:31 -0700</lastBuildDate>
+ <pubDate>Wed, 01 Sep 2021 15:38:31 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Study in Bangladesh Shows Surgical Masks Limit Covid-19 Infections</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6482%2Feid-ul-fitr_celebration_i.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Researchers from Yale and several other organizations ran a massive mask experimentamong 340,000+ adults across 600 villages in Bangladesh to assess the impact of community masking on the spread of Covid-19.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/01/study-bangladesh-shows-surgical-masks-limit-covid19-infections</link>
+  <author>Sherry Qin</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/01/study-bangladesh-shows-surgical-masks-limit-covid19-infections</guid>
+  <pubDate>Wed, 01 Sep 2021 15:36:30 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: September 2</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6480%2Fus-hurricane-weather.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Austin Vernon) Read: A comprehensive look at where America’s aerospace industry stands right now, from Boeing to SpaceX. With new communication tools, companies plan to spend significantly less on travel going forward.</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/27/sameday-streaming-causes-movie-piracy-ramp</guid>
-  <pubDate>Fri, 27 Aug 2021 14:56:30 -0700</pubDate>
- </item>
- <item>
-  <title>Powell Signals the Fed Will Wind Down Stimulus Measures in the Coming Months</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2230%2Fjerome_powell.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In a highly anticipated speech yesterday, the Fed Chair said that the economy has recovered enough that “it could be appropriate” to start slowing down some of the Fed’s pandemic-era stimulus measures.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/27/powell-signals-fed-will-wind-stimulus-measures-coming-months</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/27/powell-signals-fed-will-wind-stimulus-measures-coming-months</guid>
   <pubDate>Fri, 27 Aug 2021 14:56:30 -0700</pubDate>
  </item>
 
