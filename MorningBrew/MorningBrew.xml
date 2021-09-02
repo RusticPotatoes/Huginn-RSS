@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/02</link>
- <lastBuildDate>Thu, 02 Sep 2021 03:03:44 -0700</lastBuildDate>
- <pubDate>Thu, 02 Sep 2021 03:03:44 -0700</pubDate>
+ <lastBuildDate>Thu, 02 Sep 2021 15:08:45 -0700</lastBuildDate>
+ <pubDate>Thu, 02 Sep 2021 15:08:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Floods, Fires Increase Urgency to Upgrade Infrastructure Preparedness in US</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7264%2Fremnants_of_hurricane_ida.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Isn’t there an infrastructure bill in the works? But the US’ current infrastructure doesn’t appear to be up to the challenge.  Hurricane Ida left 1 million Louisiana households and businesses without power earlier in the week, then on Wednesday dumped its leftovers on the Mid-Atlantic and the Northeast.  Looking ahead... The new levees successfully fended off the worst of Ida on Sunday. Yep, a bipartisan plan passed the Senate this summer.   And we haven’t even mentioned the fires blazing out West, which are also exposing the weaknesses of California’s grid. Service was suspended and was slowly resuming by yesterday afternoon.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/02/floods-fires-increase-urgency-upgrade-infrastructure-preparedness-us</link>
+  <author>Neal Freyman</author>
+  <categories>infrastructure</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/floods-fires-increase-urgency-upgrade-infrastructure-preparedness-us</guid>
+  <pubDate>Thu, 02 Sep 2021 15:06:44 -0700</pubDate>
+ </item>
  <item>
   <title>Sweetgreen CEO Jonathan Nemen Faces Backlash After LinkedIn Post</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6484%2Fmilken_institute_2019_glo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Critics of the post called out Nemen for blaming Covid deaths on obesity and using the flawed BMI index to justify his views, while others pointed out that his proposal to tax processed food would largely hurt lower-income people.</description>
@@ -361,15 +370,6 @@
   <categories>stocks</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/27/supportcom-becomes-latest-meme-stock?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 28 Aug 2021 03:02:09 -0700</pubDate>
- </item>
- <item>
-  <title>Powell Signals the Fed Will Wind Down Stimulus Measures in the Coming Months</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2230%2Fjerome_powell.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In a highly anticipated speech yesterday, the Fed Chair said that the economy has recovered enough that “it could be appropriate” to start slowing down some of the Fed’s pandemic-era stimulus measures.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/27/powell-signals-fed-will-wind-stimulus-measures-coming-months?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/27/powell-signals-fed-will-wind-stimulus-measures-coming-months?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 28 Aug 2021 03:02:08 -0700</pubDate>
  </item>
 
 </channel>
