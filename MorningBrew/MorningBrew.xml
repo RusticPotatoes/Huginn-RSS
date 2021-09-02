@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/01</link>
- <lastBuildDate>Wed, 01 Sep 2021 16:33:32 -0700</lastBuildDate>
- <pubDate>Wed, 01 Sep 2021 16:33:32 -0700</pubDate>
+ <lastBuildDate>Wed, 01 Sep 2021 17:06:35 -0700</lastBuildDate>
+ <pubDate>Wed, 01 Sep 2021 17:06:35 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Sweetgreen CEO Jonathan Nemen Faces Backlash After LinkedIn Post</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6484%2Fmilken_institute_2019_glo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Nemen’s post could lead consumers to question if Sweetgreen is really committed to its mission of “building healthier communities.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/01/sweetgreen-ceo-jonathan-nemen-faces-backlash-linkedin-post</link>
+  <author>Matty Merritt</author>
+  <categories>c suite</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/01/sweetgreen-ceo-jonathan-nemen-faces-backlash-linkedin-post</guid>
+  <pubDate>Wed, 01 Sep 2021 16:36:32 -0700</pubDate>
+ </item>
  <item>
   <title>Apple Will Add State IDs to its Digital Wallet in Some States</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6483%2Fapple.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;You’d pretty much use your digital ID the same way you use Apple Pay. Apple explained that when you approach a TSA checkpoint at an airport and tap your device, you’ll be prompted with a notification to let your device share the specific info needed through encrypted communication with the TSA device.</description>
@@ -361,15 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/27/key-performance-indicators-august-28</guid>
   <pubDate>Fri, 27 Aug 2021 15:16:31 -0700</pubDate>
- </item>
- <item>
-  <title>How Tim Cook Changed Apple in the 10 Years He's Been CEO</title>
-  <description>&lt;img src='https://media.giphy.com/media/TLm3ig25UPL7roCPLC/giphy.gif'&gt;&lt;br/&gt;That’s right, Cook has been the CEO of Apple for exactly 10 years this week. Cook still has plenty of problems to deal with, from high-stakes legal challenges against Apple’s App Store policies to a more vocal workforce to thorny privacy questions. While the iPhone still reigns supreme, Apple has expanded its hardware lineup in the last decade and scored hits with the Apple Watch and AirPods.  Apple’s annual revenue in 2011, when Cook took over, was $108.2 billion; in 2020 it made $274.5 billion. It also made a big move into services (Apple Pay, Apple Music, etc.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/27/tim-cook-changed-apple-10-years-hes-ceo</link>
-  <author>Neal Freyman</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/27/tim-cook-changed-apple-10-years-hes-ceo</guid>
-  <pubDate>Fri, 27 Aug 2021 14:56:31 -0700</pubDate>
  </item>
 
 </channel>
