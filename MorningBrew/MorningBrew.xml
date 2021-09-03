@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/09/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/09/02/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/09/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/09/03/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/09/02</link>
- <lastBuildDate>Thu, 02 Sep 2021 15:38:47 -0700</lastBuildDate>
- <pubDate>Thu, 02 Sep 2021 15:38:47 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/09/03</link>
+ <lastBuildDate>Fri, 03 Sep 2021 03:03:51 -0700</lastBuildDate>
+ <pubDate>Fri, 03 Sep 2021 03:03:51 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>OOO Messages For Your Long Weekend</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7265%2Fooo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  spicier, don’t worry, we’ve got even more OOO messages here. [Name]If you’d like something a little... Thanks! I’ll get in touch with you as soon as I’m well-rested and back online. ).</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/02/ooo-messages-long-weekend?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>from the crew</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/ooo-messages-long-weekend?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 03 Sep 2021 03:01:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: September 3</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7262%2Fpudgy_penguins.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Vogue) Read: The very best TV of fall 2021. Musk isn’t always mum on political matters—he called California’s stay-at-home orders for Covid-19 “fascist” in Tesla’s Q1 2020 earnings call.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/02/key-performance-indicators-september-3?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/key-performance-indicators-september-3?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 03 Sep 2021 03:01:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>Nabisco Workers Strike Could Cause Supply Issues</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7267%2Fmondelez_product_collection.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Workers want their pensions back after the company switched to a 401(k) plan in 2018. Grocery stores are stocking up on Nabisco treats because of a production slowdown at bakeries and distribution facilities around the country. Zoom out: Workers have been gaining leverage in a labor market where qualified employees are hard to find.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/02/nabisco-workers-strike-cause-supply-issues?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>labor</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/nabisco-workers-strike-cause-supply-issues?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 03 Sep 2021 03:01:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>'Shang-Chi' May Not Get a Release Date in China</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7266%2Fshang-chi.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;China was the second-largest box office in the world before the pandemic, and Chinese moviegoers are big Marvel fans: 22% of ticket sales for 2019’s Avengers: Endgame came from China. Bottom line: Shang-Chi isn’t the only upcoming Marvel film having trouble getting past the bouncer in China.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/02/shangchi-may-not-get-release-date-china?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/shangchi-may-not-get-release-date-china?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 03 Sep 2021 03:01:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>Floods, Fires Increase Urgency to Upgrade Infrastructure Preparedness in US</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7264%2Fremnants_of_hurricane_ida.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Isn’t there an infrastructure bill in the works? – NF Hurricane Ida left 1 million Louisiana households and businesses without power earlier in the week, then on Wednesday dumped its leftovers on the Mid-Atlantic and the Northeast. It contains $46 billion for building resilience against disasters, and advocates say the bill is crucial to beef up the US’ climate defenses.  Looking ahead... The new levees successfully fended off the worst of Ida on Sunday. Yep, a bipartisan plan passed the Senate this summer.   And we haven’t even mentioned the fires blazing out West, which are also exposing the weaknesses of California’s grid.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/02/floods-fires-increase-urgency-upgrade-infrastructure-preparedness-us?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>infrastructure</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/floods-fires-increase-urgency-upgrade-infrastructure-preparedness-us?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 03 Sep 2021 03:01:50 -0700</pubDate>
+ </item>
  <item>
   <title>Nabisco Workers Strike Could Cause Supply Issues</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7267%2Fmondelez_product_collection.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Workers want their pensions back after the company switched to a 401(k) plan in 2018. Zoom out: The strike comes at a time when workers are gaining leverage due to labor shortages, but also when business has been particularly good for snack food companies like Mondelez, which reported net revenue growth of  2.8% in 2020 over the previous year.</description>
@@ -325,51 +370,6 @@
   <categories>housing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/rent-prices-surging?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 30 Aug 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Oxygen Runs in Short Supply for Covid-19 Patients, Water Treatment, and Space Missions</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6439%2Foxygen_tank.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Liquid oxygen is used to treat the water supply, but the city is running low because of the crush of Covid hospitalizations.   But diverting oxygen to hospitals to treat Covid-19 patients means it can’t be deployed for other uses. As if the Southeast US didn’t have enough to deal with already, hospitals are running low on oxygen for treating Covid-19 patients, and it’s causing ripple effects for other industries that use the stuff for their daily operations.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/30/oxygen-runs-short-supply-covid19-patients-water-treatment-space-missions?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>healthcare</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/oxygen-runs-short-supply-covid19-patients-water-treatment-space-missions?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 30 Aug 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Powerfull Hurricane Ida Makes Landfall in Louisiana</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6438%2Fnoaa.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;As of late last night, the only power to the city was coming from generators. this is the beginning, not the end, of the Ida story. Hurricane Ida slammed into Louisiana on exactly the same date, Aug. 29, as Katrina did in 2005.  The entire city of New Orleans was left without power, according to the regional energy provider Entergy.  Looking ahead... If refineries suffer a direct hit, gas prices could rise by about 10 cents in many East Coast markets. And 60% of gasoline used on the East Coast comes from Gulf Coast refineries.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/30/powerfull-hurricane-ida-makes-landfall-louisiana?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>weather</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/powerfull-hurricane-ida-makes-landfall-louisiana?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 30 Aug 2021 03:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Why Are Rent Prices Surging?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6385%2Ffor_rent_housing.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Turns out the No. 1 comeback story of the year isn’t jeans—it’s rental prices.  Housing is too expensive: Skyrocketing housing prices are causing some would-be homeowners to choose renting instead. Now, rent prices in 87 of the country’s 100 largest cities have fully returned to pre-pandemic levels.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/30/rent-prices-surging</link>
-  <author>Neal Freyman</author>
-  <categories>housing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/rent-prices-surging</guid>
-  <pubDate>Sun, 29 Aug 2021 20:32:07 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: August 30</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2376%2Felizabeth_holmes.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Everything else:September begins on WednesdayBonnaroo is on ThursdayGet pumped for the long Labor Day weekend yeah that’s it.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/30/week-ahead-august-30</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/week-ahead-august-30</guid>
-  <pubDate>Sun, 29 Aug 2021 19:42:04 -0700</pubDate>
- </item>
- <item>
-  <title>Oxygen Runs in Short Supply for Covid-19 Patients, Water Treatment, and Space Missions</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6439%2Foxygen_tank.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  But diverting oxygen to hospitals to treat Covid-19 patients means it can’t be deployed for other uses. Because of higher Covid-19 hospitalizations, the city was running low on liquid oxygen, which is used to treat the water supply. As if the Southeast US didn’t have enough to deal with already, hospitals are running low on oxygen for treating Covid-19 patients, and it’s causing ripple effects for other industries that use the stuff for their daily operations.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/30/oxygen-runs-short-supply-covid19-patients-water-treatment-space-missions</link>
-  <author>Neal Freyman</author>
-  <categories>healthcare</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/oxygen-runs-short-supply-covid19-patients-water-treatment-space-missions</guid>
-  <pubDate>Sun, 29 Aug 2021 19:37:03 -0700</pubDate>
  </item>
 
 </channel>
