@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/03</link>
- <lastBuildDate>Fri, 03 Sep 2021 14:58:46 -0700</lastBuildDate>
- <pubDate>Fri, 03 Sep 2021 14:58:46 -0700</pubDate>
+ <lastBuildDate>Fri, 03 Sep 2021 15:43:43 -0700</lastBuildDate>
+ <pubDate>Fri, 03 Sep 2021 15:43:43 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>What Does it Mean if QR Codes Are Here to Stay?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7290%2Fqr_code.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;So, given that QR codes are likely not a pandemic fad and will be distracting us in restaurants for years to come, what are the implications? And half of all full-service restaurants in the US have opted for QR code menus since the beginning of the pandemic, per the National Restaurant Association. The ease of creating a QR code is one of the reasons why it’s so accessible for businesses, but it also increases opportunities for fraud. While it might seem like you’re just harmlessly ordering a Denny’s Grand Slam® after a long day, QR codes track when, where, and how often you scan them. Looks like it’s 2011 again: the cool kids are dressing like they’re in Gossip Girl, everyone’s talking about a Kanye album, and QR codes are trying to make it big. The Better Business Bureau even issued a warning this summer around fraudulent QR codes.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/03/mean-qr-codes-stay</link>
+  <author>Matty Merritt</author>
+  <categories>analysis</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/mean-qr-codes-stay</guid>
+  <pubDate>Fri, 03 Sep 2021 15:41:42 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: September 4</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7286%2Fbanksy_s_love_in_the_bin.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Wired) Then they got Tourette’s.  Read: They saw a YouTube video.</description>
@@ -361,15 +370,6 @@
   <categories>legal</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/need-know-elizabeth-holmess-trial-starts-today?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 31 Aug 2021 03:01:11 -0700</pubDate>
- </item>
- <item>
-  <title>Fitness Wearable Company Whoop Raises $200 Million at a $3.6 Billion Valuation</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6455%2Fwhoop_bands.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Whoop, a startup that makes wearable health trackers, raised $200 million in financing led by SoftBank at a $3.6 billion valuation, making it the most valuable standalone human performance company in the world, according to a PR release from Whoop.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/30/fitness-wearable-company-whoop-raises-200-million-36-billion-valuation</link>
-  <author>Sherry Qin</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/fitness-wearable-company-whoop-raises-200-million-36-billion-valuation</guid>
-  <pubDate>Mon, 30 Aug 2021 15:22:05 -0700</pubDate>
  </item>
 
 </channel>
