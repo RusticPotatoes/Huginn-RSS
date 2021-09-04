@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/09/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/09/03/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/09/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/09/04/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/09/03</link>
- <lastBuildDate>Fri, 03 Sep 2021 15:43:43 -0700</lastBuildDate>
- <pubDate>Fri, 03 Sep 2021 15:43:43 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/09/04</link>
+ <lastBuildDate>Sat, 04 Sep 2021 03:03:49 -0700</lastBuildDate>
+ <pubDate>Sat, 04 Sep 2021 03:03:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Musicals 'Waitress' and 'Hadestown' Return to Broadway</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7285%2Fsara_bareilles_performing_in_waitress_on_broadway.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Big picture: Covid has been more damaging for the musical theater industry than Russell Crowe’s turn as Javert.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/03/musicals-waitress-hadestown-return-broadway?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/musicals-waitress-hadestown-return-broadway?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 04 Sep 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: September 4</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7286%2Fbanksy_s_love_in_the_bin.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Wired) Then they got Tourette’s.  Read: They saw a YouTube video.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/03/key-performance-indicators-september-4?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/key-performance-indicators-september-4?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 04 Sep 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Apple's Crazy Week</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2155%2Fgold_apple.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Wednesday: Apple offered its second App Store concession in less than a week, allowing companies like Netflix and Spotify to direct users to payment methods outside of the App Store.  Yesterday: Apple said it would delay the rollout of its new software that scans devices for child sexual abuse content so it can make improvements.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/03/apples-crazy-week?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/apples-crazy-week?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 04 Sep 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Booster Vaccine Doses Turn Into a Three-Shot Circus</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: President Biden announced that Americans who received Pfizer’s or Moderna’s vaccine could begin getting their third shots the week of Sept.  Big picture: The necessity of third shots is still dividing the scientific community. 20, as long as it had been at least eight months since they got their second shot.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/03/booster-vaccine-doses-turn-threeshot-circus?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/booster-vaccine-doses-turn-threeshot-circus?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 04 Sep 2021 03:01:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Delta Crashes the Jobs Party</title>
+  <description>&lt;img src='https://media.giphy.com/media/l1J3MSRDWd2wTO0Wk/giphy.gif?cid=ecf05e47qbof7rmqjmhj0m5ogvjon1sfwz7mrbyimat56nc3&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;This jobs report whiff will reverberate around DC.   US employers added just 235,000 jobs last month, compared to the 720,000 expected. Hiring was expected to fall from the 1.1 million jobs added in July and 962,000 in June, but nowhere near this much. In total, there are 5.6 million fewer workers holding jobs in the US now than before the pandemic hit.  Leisure and hospitality, a sector that falters when Covid anxieties are higher, reported no job increases last month.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/03/delta-crashes-jobs-party?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/delta-crashes-jobs-party?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 04 Sep 2021 03:01:48 -0700</pubDate>
+ </item>
  <item>
   <title>What Does it Mean if QR Codes Are Here to Stay?</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7290%2Fqr_code.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;So, given that QR codes are likely not a pandemic fad and will be distracting us in restaurants for years to come, what are the implications? And half of all full-service restaurants in the US have opted for QR code menus since the beginning of the pandemic, per the National Restaurant Association. The ease of creating a QR code is one of the reasons why it’s so accessible for businesses, but it also increases opportunities for fraud. While it might seem like you’re just harmlessly ordering a Denny’s Grand Slam® after a long day, QR codes track when, where, and how often you scan them. Looks like it’s 2011 again: the cool kids are dressing like they’re in Gossip Girl, everyone’s talking about a Kanye album, and QR codes are trying to make it big. The Better Business Bureau even issued a warning this summer around fraudulent QR codes.</description>
@@ -325,51 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/31/zoom-faces-headwinds-sales-growth-slows</guid>
   <pubDate>Tue, 31 Aug 2021 14:46:10 -0700</pubDate>
- </item>
- <item>
-  <title>Fitness Wearable Company Whoop Raises $200 Million at a $3.6 Billion Valuation</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6455%2Fwhoop_bands.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Startups like Oura and Biofourmis, which both make wearable sensors, have also secured major funding over the past two years.  Google completed a $2.1 billion deal this year to purchase the fitness-tracking company Fitbit. — SQ</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/30/fitness-wearable-company-whoop-raises-200-million-36-billion-valuation?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/fitness-wearable-company-whoop-raises-200-million-36-billion-valuation?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 31 Aug 2021 03:01:11 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: August 31</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2298%2Fcancel_rent_sign.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Eater)  Read: Margaritaville and the myth of American leisure. She found the gesture non-fungible.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/30/key-performance-indicators-august-31?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/key-performance-indicators-august-31?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 31 Aug 2021 03:01:11 -0700</pubDate>
- </item>
- <item>
-  <title>China Limits Online Video Games to Three Hours a Week for Minors</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6453%2Fvideo_game.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;All online video games are required to be connected to an “anti-addiction” system operated by the NPPA using real-name registration. The Chinese government banned kids under 18 from playing online video games on school nights and will allow gaming for only one hour a day on weekends and public holidays. — SQ</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/30/china-limits-online-video-games-three-hours-week-minors?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>gaming</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/china-limits-online-video-games-three-hours-week-minors?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 31 Aug 2021 03:01:11 -0700</pubDate>
- </item>
- <item>
-  <title>EU Recommends Banning Unvaccinated American Tourists From Traveling to Europe</title>
-  <description>&lt;img src='https://media.giphy.com/media/AMKSRvfLEwXlu/giphy.gif?cid=ecf05e47sgdbaxmbqr0qetz2bi2x60vct5kf66rehb1y7n6q&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;The European Council removed the US from the “safe list” of countries that can send tourists to the EU due to high Covid rates here in the States. While the EU opened up its borders to American tourists in June, the US has yet to reciprocate for European visitors, angering the EU.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/30/eu-recommends-banning-unvaccinated-american-tourists-traveling-europe?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/eu-recommends-banning-unvaccinated-american-tourists-traveling-europe?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 31 Aug 2021 03:01:11 -0700</pubDate>
- </item>
- <item>
-  <title>What You Need to Know About Elizabeth Holmes’s Trial That Starts Today</title>
-  <description>&lt;img src='https://media.giphy.com/media/wnqrlUsg38l8sqcWMi/giphy.gif?cid=790b7611676244cc2d5d769553cfe73a113c32838f0da11a&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;Here’s a quick timeline for everyone who was too young or busy in the aughts: 2003: At the age of 19, Elizabeth Holmes dropped out of Stanford and started Theranos with the goal of revolutionizing blood testing. Jury selection begins today for the criminal fraud trial of Elizabeth Holmes, the founder of shuttered Silicon Valley biotech startup Theranos. Holmes’s net worth also grew to $4.5 billion, good enough for No. 1 on the Forbes list of America’s Richest Self-Made Women. From there, investors started suing for fraud, the government yanked the company’s blood-testing license, and in September 2018, the SEC dissolved Theranos. — MM</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/30/need-know-elizabeth-holmess-trial-starts-today?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>legal</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/30/need-know-elizabeth-holmess-trial-starts-today?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 31 Aug 2021 03:01:11 -0700</pubDate>
  </item>
 
 </channel>
