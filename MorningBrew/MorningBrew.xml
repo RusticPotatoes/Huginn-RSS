@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/05</link>
- <lastBuildDate>Sun, 05 Sep 2021 19:28:53 -0700</lastBuildDate>
- <pubDate>Sun, 05 Sep 2021 19:28:53 -0700</pubDate>
+ <lastBuildDate>Sun, 05 Sep 2021 19:33:42 -0700</lastBuildDate>
+ <pubDate>Sun, 05 Sep 2021 19:33:42 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Kriss Kross: Movie Posters</title>
+  <description>&lt;img src='https://media.giphy.com/media/11NcpG5wIIp77W/giphy.gif'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/06/kriss-kross-movie-posters</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/kriss-kross-movie-posters</guid>
+  <pubDate>Sun, 05 Sep 2021 19:31:41 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: September 6</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7293%2Ftribute_in_light_tested_i.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;9/11 anniversary: As we mentioned earlier, Saturday will mark 20 years since the terrorist attacks of September 11, 2001. Everything else: Rosh Hashanah, the Jewish New Year, begins this evening.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/31/key-performance-indicators-september-1</guid>
-  <pubDate>Tue, 31 Aug 2021 14:56:17 -0700</pubDate>
- </item>
- <item>
-  <title>Allbirds Becomes Latest DTC Startup to Make a Run at the Public Markets</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6460%2Fallbirds_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom out: Allbirds and Warby Parker are just a couple wildebeests in a bigger stampede of consumer-facing companies headed to the public markets.  Both Allbirds and Warby Parker successfully leveraged online channels to attract urban millennials comfortable with buying apparel on the internet. Warby is also ditching the classic IPO playbook by going public via direct listing, which means it’s not actually going to raise any money in the process.  Sounds familiarIn that way, and in many others, it’s similar to Warby Parker, the e-commerce eyewear seller that filed to go public last week.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/31/allbirds-becomes-latest-dtc-startup-make-run-public-markets</link>
-  <author>Neal Freyman</author>
-  <categories>retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/31/allbirds-becomes-latest-dtc-startup-make-run-public-markets</guid>
   <pubDate>Tue, 31 Aug 2021 14:56:17 -0700</pubDate>
  </item>
 
