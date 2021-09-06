@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/05</link>
- <lastBuildDate>Sun, 05 Sep 2021 19:18:46 -0700</lastBuildDate>
- <pubDate>Sun, 05 Sep 2021 19:18:46 -0700</pubDate>
+ <lastBuildDate>Sun, 05 Sep 2021 19:23:42 -0700</lastBuildDate>
+ <pubDate>Sun, 05 Sep 2021 19:23:42 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>US Winds Down Massive, Controversial Unemployment Benefits Program</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F867%2Fusa.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: In March 2020, as the US was shedding almost 1 million jobs per day, Congress authorized an extra $600/week in unemployment benefits on top of what states offered to keep jobless Americans afloat (the $600/week was later reduced to $300 in August 2020).  In all, the US government has spent $680 billion on unemployment benefits since last March, the second-highest amount among Covid stimulus programs behind only the Paycheck Protection Program ($835 billion). Around the same time, the government also expanded the number of workers eligible for unemployment insurance (UI) by including people like gig workers and the self-employed.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/05/us-winds-massive-controversial-unemployment-benefits-program</link>
+  <author>Neal Freyman</author>
+  <categories>labor</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/05/us-winds-massive-controversial-unemployment-benefits-program</guid>
+  <pubDate>Sun, 05 Sep 2021 19:21:42 -0700</pubDate>
+ </item>
  <item>
   <title>For the Defense Industry, 9/11 Changed Everything</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7294%2Fa_us_army_drone.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: US military spending as a share of GDP has shrunk since peaking in 2011, but the booming homeland security industry it helped create remains a permanent fixture of the economy. Before September 11, 2001, the US had been cutting military spending. Military spending doubled to $700 billion in the decade following 9/11, to about 20% of total government spending.</description>
@@ -361,15 +370,6 @@
   <categories>sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/31/curious-case-bishop-sycamore-football-team</guid>
   <pubDate>Tue, 31 Aug 2021 14:56:17 -0700</pubDate>
- </item>
- <item>
-  <title>Hurricane Ida’s Damage to Energy Grid Could Be Even More Devastating</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6461%2Fpower_outages_in_louisiana_after_hurricane_ida.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; What happened: The storm crushed the transmission system that provides most of the energy along the coast. Without power, homes, businesses, and hospitals in Mississippi and southern Louisiana don’t have safe drinking water, working fridges, or the ability to run air conditioning in the brutal 100-degree heat.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/31/hurricane-idas-damage-energy-grid-even-devastating</link>
-  <author>Matty Merritt</author>
-  <categories>energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/31/hurricane-idas-damage-energy-grid-even-devastating</guid>
-  <pubDate>Tue, 31 Aug 2021 14:56:16 -0700</pubDate>
  </item>
 
 </channel>
