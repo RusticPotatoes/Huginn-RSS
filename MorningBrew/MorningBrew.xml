@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/06</link>
- <lastBuildDate>Mon, 06 Sep 2021 03:03:40 -0700</lastBuildDate>
- <pubDate>Mon, 06 Sep 2021 03:03:40 -0700</pubDate>
+ <lastBuildDate>Mon, 06 Sep 2021 16:53:42 -0700</lastBuildDate>
+ <pubDate>Mon, 06 Sep 2021 16:53:42 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Study Shows Automated Résumé Scanner Mistakenly Rejects Millions of Viable Job Candidates</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3645%2Fjob_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But some of those keywords might not seem obvious. While there are 10 million job openings in the US that employers desperately want to fill, the flawed automated hiring systems are excluding viable candidates.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/06/study-shows-automated-rsum-scanner-mistakenly-rejects-millions-viable-job-candidates</link>
+  <author>Sherry Qin</author>
+  <categories>jobs</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/study-shows-automated-rsum-scanner-mistakenly-rejects-millions-viable-job-candidates</guid>
+  <pubDate>Mon, 06 Sep 2021 16:51:40 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: September 6</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7293%2Ftribute_in_light_tested_i.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;9/11 anniversary: As we mentioned earlier, Saturday will mark 20 years since the terrorist attacks of September 11, 2001. The FDA will decide by Thursday whether Juul’s devices and nicotine pods can stay on the market.</description>
@@ -360,15 +369,6 @@
   <author>Sherry Qin</author>
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/01/study-bangladesh-shows-surgical-masks-limit-covid19-infections?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 02 Sep 2021 03:01:43 -0700</pubDate>
- </item>
- <item>
-  <title>Strictest Abortion Law in the Country Goes Into Effect in Texas </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6481%2Ftexas_house_republicans_r.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;the Supreme Court—now with a 6–3 conservative majority—will hear a pivotal abortion case in the fall over Mississippi’s request to enforce an abortion ban after 15 weeks of pregnancy.  It is the most restrictive abortion law in the country and could lead many abortion providers to shut their doors. “The lawsuits would be against the individuals making money off of the abortion, the abortion industry itself.” Both opponents and advocates of the law agree lawsuits would be financially devastating for abortion providers.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/01/strictest-abortion-law-country-goes-effect-texas?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>healthcare</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/01/strictest-abortion-law-country-goes-effect-texas?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 02 Sep 2021 03:01:43 -0700</pubDate>
  </item>
 
