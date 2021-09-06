@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/09/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/09/04/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/09/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/09/05/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/09/04</link>
- <lastBuildDate>Sat, 04 Sep 2021 03:03:49 -0700</lastBuildDate>
- <pubDate>Sat, 04 Sep 2021 03:03:49 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/09/05</link>
+ <lastBuildDate>Sun, 05 Sep 2021 19:18:46 -0700</lastBuildDate>
+ <pubDate>Sun, 05 Sep 2021 19:18:46 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>For the Defense Industry, 9/11 Changed Everything</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7294%2Fa_us_army_drone.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: US military spending as a share of GDP has shrunk since peaking in 2011, but the booming homeland security industry it helped create remains a permanent fixture of the economy. Before September 11, 2001, the US had been cutting military spending. Military spending doubled to $700 billion in the decade following 9/11, to about 20% of total government spending.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/05/defense-industry-911-changed-everything</link>
+  <author>Neal Freyman</author>
+  <categories>defense</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/05/defense-industry-911-changed-everything</guid>
+  <pubDate>Sun, 05 Sep 2021 19:16:37 -0700</pubDate>
+ </item>
  <item>
   <title>Musicals 'Waitress' and 'Hadestown' Return to Broadway</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7285%2Fsara_bareilles_performing_in_waitress_on_broadway.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Big picture: Covid has been more damaging for the musical theater industry than Russell Crowe’s turn as Javert.</description>
@@ -361,15 +370,6 @@
   <categories>energy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/31/hurricane-idas-damage-energy-grid-even-devastating</guid>
   <pubDate>Tue, 31 Aug 2021 14:56:16 -0700</pubDate>
- </item>
- <item>
-  <title>Zoom Faces Headwinds as Sales Growth Slows</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4205%2Fzoom_sadness.JPG&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Zoom was a lifeline for remote work, attending Zoom U, and—most importantly—having virtual happy hours when everyone was cooped up home last year. Zoom’s plunging sales growth is the latest sign that pandemic winners could be hitting a wall. – SQ Looking ahead...  “What we’re seeing...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/08/31/zoom-faces-headwinds-sales-growth-slows</link>
-  <author>Sherry Qin</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/08/31/zoom-faces-headwinds-sales-growth-slows</guid>
-  <pubDate>Tue, 31 Aug 2021 14:46:10 -0700</pubDate>
  </item>
 
 </channel>
