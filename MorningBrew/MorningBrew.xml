@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/07</link>
- <lastBuildDate>Tue, 07 Sep 2021 14:34:00 -0700</lastBuildDate>
- <pubDate>Tue, 07 Sep 2021 14:34:00 -0700</pubDate>
+ <lastBuildDate>Tue, 07 Sep 2021 14:39:00 -0700</lastBuildDate>
+ <pubDate>Tue, 07 Sep 2021 14:39:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Toyota Spends $13.6 Billion to Develop Electric Vehicle Battery Technology</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7311%2Fev_battery.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Ford and BMW have partnered with another solid-state battery startup, Solid Power.  Why it matters: EV batteries are a key arena as automakers compete to make cheaper and more durable electric and hybrid vehicles. Besides Toyota, other automakers have also made bids on advanced battery tech: Volkswagen invested in the Bill Gates-backed battery startup QuantumScape.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/07/toyota-spends-136-billion-develop-electric-vehicle-battery-technology</link>
+  <author>Sherry Qin</author>
+  <categories>ev</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/07/toyota-spends-136-billion-develop-electric-vehicle-battery-technology</guid>
+  <pubDate>Tue, 07 Sep 2021 14:36:59 -0700</pubDate>
+ </item>
  <item>
   <title>Dealmaking, from M&amp;A to IPOs, on Track to Break Records in 2021</title>
   <description>&lt;img src='https://media.giphy.com/media/dvBGnf2FYkuiBHp8yK/giphy.gif?cid=790b7611c91f4afaf0834a0f581a4d9561c980495a470ed6&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;   IPOs2021 has been the busiest year for IPOs since 2000, according to Axios. 279 companies have IPO’d in the US this year, easily beating last year’s total of 218. But get ready for a deluge of announcements once bankers head back to their monitors this fall, including potential IPOs from Chobani, Discord, Reddit, Instacart, and Rivian. because it’s hard to get much work done in Santorini, August was its typical slow self for dealmaking. The dealmaking surge is one the main reasons Goldman is the best performing stock in the Dow this year, up 56%.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>labor</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/nabisco-workers-strike-cause-supply-issues?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 03 Sep 2021 03:01:50 -0700</pubDate>
- </item>
- <item>
-  <title>'Shang-Chi' May Not Get a Release Date in China</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7266%2Fshang-chi.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;China was the second-largest box office in the world before the pandemic, and Chinese moviegoers are big Marvel fans: 22% of ticket sales for 2019’s Avengers: Endgame came from China. Bottom line: Shang-Chi isn’t the only upcoming Marvel film having trouble getting past the bouncer in China.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/02/shangchi-may-not-get-release-date-china?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/shangchi-may-not-get-release-date-china?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 03 Sep 2021 03:01:50 -0700</pubDate>
  </item>
 
