@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/09/06/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/09/06/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/09/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/09/07/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/09/06</link>
- <lastBuildDate>Mon, 06 Sep 2021 20:33:39 -0700</lastBuildDate>
- <pubDate>Mon, 06 Sep 2021 20:33:39 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/09/07</link>
+ <lastBuildDate>Tue, 07 Sep 2021 03:04:02 -0700</lastBuildDate>
+ <pubDate>Tue, 07 Sep 2021 03:04:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Study Shows Automated Résumé Scanner Mistakenly Rejects Millions of Viable Job Candidates</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3645%2Fjob_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Some of those keywords might not seem obvious. While there are 10 million job openings in the US that employers desperately want to fill, automated hiring systems are excluding viable candidates.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/06/study-shows-automated-rsum-scanner-mistakenly-rejects-millions-viable-job-candidates?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>jobs</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/study-shows-automated-rsum-scanner-mistakenly-rejects-millions-viable-job-candidates?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 07 Sep 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: September 7</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7299%2Ftopshot-guinea-army-polit.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Incunabula) This thread explains.  Read: How did ham and cheese lead to hardcover books? “It may have been the financial promotion with the single biggest audience reach in history,” Randell said.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/06/key-performance-indicators-september-7?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/key-performance-indicators-september-7?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 07 Sep 2021 03:02:01 -0700</pubDate>
+ </item>
+ <item>
+  <title>Longer Waits, Safer Planes: How 9/11 Changed Air Travel</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7298%2Ftsa_security_lines_at_den.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After hijackers commandeered four planes the morning of September 11, 2001, the US revamped its process for airport security screening to prevent similar attacks. Airlines took a hit: Airline revenue for domestic US flights fell by $10 billion/year from 2001–2006. Only in November 2001 did the government create the Transportation Security Administration (TSA) to handle security at airports.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/06/longer-waits-safer-planes-911-changed-air-travel?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>aviation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/longer-waits-safer-planes-911-changed-air-travel?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 07 Sep 2021 03:02:01 -0700</pubDate>
+ </item>
+ <item>
+  <title>Weibo, China’s version of Twitter, Suspends 21+ K-Pop Fan Accounts</title>
+  <description>&lt;img src='https://media.giphy.com/media/AFBmwFcWqQpPymsgqZ/giphy.gif?cid=790b76113c254e1b4dbfdd42026f087acfa13b5001f4c998&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt; Later that day, Weibo said it would ban a number of other celebrity accounts in an effort to “purify” its platform. When Americans were all winding down from their second Saturday, Weibo—China’s version of Twitter—suspended at least 21 fan accounts for K-pop bands like BTS and Blackpink. – MM</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/06/weibo-chinas-version-twitter-suspends-21-kpop-fan-accounts?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/weibo-chinas-version-twitter-suspends-21-kpop-fan-accounts?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 07 Sep 2021 03:02:01 -0700</pubDate>
+ </item>
+ <item>
+  <title>El Salvador’s Grand Bitcoin Experiment</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7300%2Fel_salvador-economy-crypt.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Welcome to El Salvador, where the pupusas are warm and the bitcoin is tender. Bukele also thinks that, by being an early adopter, the country could become a destination for foreign investment in bitcoin mining.  One-quarter of El Salvador’s GDP comes from remittances—money sent back to the country from people working abroad. Today, the Central American nation will become the first sovereign state to make bitcoin “legal tender,” meaning it’s now an official currency alongside the US dollar.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/06/el-salvadors-grand-bitcoin-experiment?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/el-salvadors-grand-bitcoin-experiment?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 07 Sep 2021 03:02:01 -0700</pubDate>
+ </item>
  <item>
   <title>Longer Waits, Safer Planes: How 9/11 Changed Air Travel</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7298%2Ftsa_security_lines_at_den.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After hijackers commandeered four planes the morning of September 11, 2001, the US revamped its process for airport security screening to prevent similar attacks. Airlines struggled to recover: Airline revenue for domestic US flights fell by $10 billion/year from 2001–2006. Only in November 2001 did the government create the Transportation Security Administration (TSA) to handle security at airports.</description>
@@ -325,51 +370,6 @@
   <categories>snacks</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/nabisco-workers-strike-cause-supply-issues</guid>
   <pubDate>Thu, 02 Sep 2021 15:36:47 -0700</pubDate>
- </item>
- <item>
-  <title>A List of OOO Templates to Use When You're On Vacation</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7265%2Fooo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;If it can wait until I’m no longer on Island Time™ I’ll reach out when I return. I’ll get in touch with you as soon as I’m well-rested and back online. I’ll reach each out tomorrow. If it’s urgent, my colleague [emergency contact name/email] can help. Thanks for your email. Just set your OOO message to:No❤️Or tack these on after a classic OOO message:Other ways to reach me? Hi there,I’ll be OOO [dates of PTO] for my wedding. P.S. If the idea of unlimited PTO and silly OOO emails excites you, please take a look at our open jobs right here. If something urgent comes up, reach out to [emergency contact name/email]. If something urgent comes up you can reach out to [emergency contact name/email].</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/02/list-ooo-templates-use-youre-vacation</link>
-  <author>Matty Merritt</author>
-  <categories>work life</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/list-ooo-templates-use-youre-vacation</guid>
-  <pubDate>Thu, 02 Sep 2021 15:26:45 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 3</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7262%2Fpudgy_penguins.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Vogue) Read: The very best TV of fall 2021. Musk isn’t always mum on political matters—he called California’s stay-at-home orders for Covid-19 “fascist” in Tesla’s Q1 2020 earnings call.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/02/key-performance-indicators-september-3</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/key-performance-indicators-september-3</guid>
-  <pubDate>Thu, 02 Sep 2021 15:21:46 -0700</pubDate>
- </item>
- <item>
-  <title>Shang-Chi May not Get a Release Date in China</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7266%2Fshang-chi.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And Chinese moviegoers are big Marvel fans—22% of ticket sales for 2019’s Avengers: Endgame came from China. “Fu Manchu is not in this movie, is not Shang-Chi’s father, and again, is not even a Marvel character, and hasn’t been for decades,” Marvel Studios President Kevin Feige argued.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/02/shangchi-may-not-get-release-date-china</link>
-  <author>Sherry Qin</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/shangchi-may-not-get-release-date-china</guid>
-  <pubDate>Thu, 02 Sep 2021 15:21:46 -0700</pubDate>
- </item>
- <item>
-  <title>OOO Messages For Your Long Weekend</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7265%2Fooo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;spicier, don’t worry, we’ve got even more OOO messages here. [Name]If you’d like something a little... Thanks! I’ll get in touch with you as soon as I’m well-rested and back online. ).</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/02/ooo-messages-long-weekend</link>
-  <author>Matty Merritt</author>
-  <categories>from the crew</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/ooo-messages-long-weekend</guid>
-  <pubDate>Thu, 02 Sep 2021 15:16:46 -0700</pubDate>
- </item>
- <item>
-  <title>Floods, Fires Increase Urgency to Upgrade Infrastructure Preparedness in US</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7264%2Fremnants_of_hurricane_ida.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Isn’t there an infrastructure bill in the works? But the US’ current infrastructure doesn’t appear to be up to the challenge.  Hurricane Ida left 1 million Louisiana households and businesses without power earlier in the week, then on Wednesday dumped its leftovers on the Mid-Atlantic and the Northeast.  Looking ahead... The new levees successfully fended off the worst of Ida on Sunday. Yep, a bipartisan plan passed the Senate this summer.   And we haven’t even mentioned the fires blazing out West, which are also exposing the weaknesses of California’s grid. Service was suspended and was slowly resuming by yesterday afternoon.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/02/floods-fires-increase-urgency-upgrade-infrastructure-preparedness-us</link>
-  <author>Neal Freyman</author>
-  <categories>infrastructure</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/floods-fires-increase-urgency-upgrade-infrastructure-preparedness-us</guid>
-  <pubDate>Thu, 02 Sep 2021 15:06:44 -0700</pubDate>
  </item>
 
 </channel>
