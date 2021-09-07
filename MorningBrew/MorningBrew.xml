@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/06</link>
- <lastBuildDate>Mon, 06 Sep 2021 16:53:42 -0700</lastBuildDate>
- <pubDate>Mon, 06 Sep 2021 16:53:42 -0700</pubDate>
+ <lastBuildDate>Mon, 06 Sep 2021 18:23:39 -0700</lastBuildDate>
+ <pubDate>Mon, 06 Sep 2021 18:23:39 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Weibo, China’s version of Twitter, Suspends 21+ K-Pop Fan Accounts</title>
+  <description>&lt;img src='https://media.giphy.com/media/AFBmwFcWqQpPymsgqZ/giphy.gif?cid=790b76113c254e1b4dbfdd42026f087acfa13b5001f4c998&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt; Later that day, Weibo said it would ban a number of other celebrity accounts in an effort to “purify” its platform. When Americans were all winding down from their second Saturday, Weibo—China’s version of Twitter—suspended at least 21 fan accounts for K-pop bands like BTS and Blackpink. – MM</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/06/weibo-chinas-version-twitter-suspends-21-kpop-fan-accounts</link>
+  <author>Matty Merritt</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/weibo-chinas-version-twitter-suspends-21-kpop-fan-accounts</guid>
+  <pubDate>Mon, 06 Sep 2021 18:21:38 -0700</pubDate>
+ </item>
  <item>
   <title>Study Shows Automated Résumé Scanner Mistakenly Rejects Millions of Viable Job Candidates</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3645%2Fjob_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But some of those keywords might not seem obvious. While there are 10 million job openings in the US that employers desperately want to fill, the flawed automated hiring systems are excluding viable candidates.</description>
@@ -361,15 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/01/apple-will-add-state-ids-digital-wallet-states?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 02 Sep 2021 03:01:44 -0700</pubDate>
- </item>
- <item>
-  <title>Study in Bangladesh Shows Surgical Masks Limit Covid-19 Infections</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6485%2Fbane_in_batman.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Researchers from Yale and several other organizations ran a massive mask experiment among 340,000+ adults across 600 villages in Bangladesh to assess the impact of community masking on the spread of Covid-19.  Surgical masks are more effective than cloth masks in protecting against the virus.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/01/study-bangladesh-shows-surgical-masks-limit-covid19-infections?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/01/study-bangladesh-shows-surgical-masks-limit-covid19-infections?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 02 Sep 2021 03:01:43 -0700</pubDate>
  </item>
 
 </channel>
