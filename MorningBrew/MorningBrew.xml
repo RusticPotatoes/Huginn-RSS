@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/06</link>
- <lastBuildDate>Mon, 06 Sep 2021 20:28:39 -0700</lastBuildDate>
- <pubDate>Mon, 06 Sep 2021 20:28:39 -0700</pubDate>
+ <lastBuildDate>Mon, 06 Sep 2021 20:33:39 -0700</lastBuildDate>
+ <pubDate>Mon, 06 Sep 2021 20:33:39 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Longer Waits, Safer Planes: How 9/11 Changed Air Travel</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7298%2Ftsa_security_lines_at_den.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After hijackers commandeered four planes the morning of September 11, 2001, the US revamped its process for airport security screening to prevent similar attacks. Airlines struggled to recover: Airline revenue for domestic US flights fell by $10 billion/year from 2001–2006. Only in November 2001 did the government create the Transportation Security Administration (TSA) to handle security at airports.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/06/longer-waits-safer-planes-911-changed-air-travel</link>
+  <author>Neal Freyman</author>
+  <categories>aviation</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/longer-waits-safer-planes-911-changed-air-travel</guid>
+  <pubDate>Mon, 06 Sep 2021 20:31:38 -0700</pubDate>
+ </item>
  <item>
   <title>El Salvador’s Grand Bitcoin Experiment</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7300%2Fel_salvador-economy-crypt.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Welcome to El Salvador, where the pupusas are warm and the bitcoin is tender.  Like all experiments, this one could backfireDespite all the buzz around digital currencies, bitcoin hasn’t been used as one at scale before.  And because bitcoin by definition skirts traditional financial institutions that promote stability, the International Monetary Fund is concerned that El Salvador’s adoption of the crypto could create serious risks for the country’s economy.  One-quarter of El Salvador’s GDP comes from remittances—money sent back to the country from people working abroad.</description>
@@ -361,15 +370,6 @@
   <categories>infrastructure</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/floods-fires-increase-urgency-upgrade-infrastructure-preparedness-us</guid>
   <pubDate>Thu, 02 Sep 2021 15:06:44 -0700</pubDate>
- </item>
- <item>
-  <title>Sweetgreen CEO Jonathan Nemen Faces Backlash After LinkedIn Post</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6484%2Fmilken_institute_2019_glo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Critics of the post called out Nemen for blaming Covid deaths on obesity and using the flawed BMI index to justify his views, while others pointed out that his proposal to tax processed food would largely hurt lower-income people.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/01/sweetgreen-ceo-jonathan-nemen-faces-backlash-linkedin-post?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>c suite</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/01/sweetgreen-ceo-jonathan-nemen-faces-backlash-linkedin-post?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 02 Sep 2021 03:01:44 -0700</pubDate>
  </item>
 
 </channel>
