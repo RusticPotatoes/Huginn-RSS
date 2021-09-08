@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/08</link>
- <lastBuildDate>Wed, 08 Sep 2021 15:04:02 -0700</lastBuildDate>
- <pubDate>Wed, 08 Sep 2021 15:04:02 -0700</pubDate>
+ <lastBuildDate>Wed, 08 Sep 2021 15:19:00 -0700</lastBuildDate>
+ <pubDate>Wed, 08 Sep 2021 15:19:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Lululemon Reports Better Than Expected Earnings</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7333%2Flululemon_store.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;what do you even do when you hit your revenue goals two years ahead of schedule? Last year, Lululemon bought at-home fitness company Mirror in hopes to be your ultimate workout buddy. Double down on becoming a tech company.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/08/lululemon-reports-better-expected-earnings</link>
+  <author>Matty Merritt</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/lululemon-reports-better-expected-earnings</guid>
+  <pubDate>Wed, 08 Sep 2021 15:17:00 -0700</pubDate>
+ </item>
  <item>
   <title>Energy Department Report Says Solar Could Power Almost Half of US Electricity by 2050</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2773%2Fsolar_tan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The US Energy Department said that solar energy could power 44% of the country’s electricity by 2050, up from 3% currently, in a major report released yesterday. Another barrier: How dependent the US solar industry is on China.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/musicals-waitress-hadestown-return-broadway?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 04 Sep 2021 03:01:48 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 4</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7286%2Fbanksy_s_love_in_the_bin.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Wired) Then they got Tourette’s.  Read: They saw a YouTube video.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/03/key-performance-indicators-september-4?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/key-performance-indicators-september-4?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 04 Sep 2021 03:01:48 -0700</pubDate>
  </item>
 
