@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/09/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/09/07/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/09/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/09/08/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/09/07</link>
- <lastBuildDate>Tue, 07 Sep 2021 17:18:58 -0700</lastBuildDate>
- <pubDate>Tue, 07 Sep 2021 17:18:58 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/09/08</link>
+ <lastBuildDate>Wed, 08 Sep 2021 03:03:54 -0700</lastBuildDate>
+ <pubDate>Wed, 08 Sep 2021 03:03:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Death and Life of NYC’s Financial District</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7307%2Fnyc_s_financial_district.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; In the years after the attacks, many banks left the neighborhood, primarily for Midtown. Watch any episode of Billions or Succession and you’re bound to see multiple tracking shots of lower Manhattan, showcasing the district as a global hub for finance. – NF  Looking ahead... The neighborhood’s residential population has more than doubled since 2000, according to a WSJ analysis. Plus, more people made FiDi their actual home.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/07/death-life-nycs-financial-district?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/07/death-life-nycs-financial-district?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 08 Sep 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: September 8</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7309%2Fwoman_walks_on_a_college_campus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Women accounted for a record 59.5% of college students at the end of the 2020–2021 school year, while men made up just 40.5%. (The Guardian)  Read: The disastrous voyage of Satoshi, the world’s first cryptocurrency cruise ship.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/07/key-performance-indicators-september-8?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/07/key-performance-indicators-september-8?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 08 Sep 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Ford Poaches Senior Executive, Doug Field, from Apple's Car Project</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3662%2Fford_bronco_goats.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And now for some news Apple definitely won’t send any invites over: Ford has poached the executive who led Apple’s secretive car project to become its own “chief advanced technology and embedded systems officer.” — NF</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/08/ford-poaches-senior-executive-doug-field-apples-car-project?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/ford-poaches-senior-executive-doug-field-apples-car-project?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 08 Sep 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>New Apple iPhones to be Announced Next Week</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7314%2Fapple_invite_for_its_hardware_event.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Apple could also use the event to announce new AirPods, Apple Watches, and streaming content or devices for Apple TV+. Yesterday, the company sent out invites for its annual (and still virtual) launch event where it’ll announce new products. – JW</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/07/new-apple-iphones-announced-next-week?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/07/new-apple-iphones-announced-next-week?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 08 Sep 2021 03:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Dealmaking, from M&amp;A to IPOs, on Track to Break Records in 2021</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7313%2Fgood_foundation_an_even.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; IPOs2021 has been the busiest year for IPOs since 2000, according to Axios. 279 companies have IPO’d in the US this year, easily beating last year’s total of 218. A most excellent question, considering corporate deals of all kinds, from takeovers to IPOs, are happening at a record-setting pace this year. – NF because it’s hard to get much work done in Mykonos, August was its typical slow self for dealmaking.  Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/07/dealmaking-ma-ipos-track-break-records-2021?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>deals</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/07/dealmaking-ma-ipos-track-break-records-2021?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 08 Sep 2021 03:02:03 -0700</pubDate>
+ </item>
  <item>
   <title>Ford Poaches Senior Executive, Doug Field, from Apple's Car Project</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3662%2Fford_bronco_goats.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And now for some news Apple definitely won’t send any invites about: Ford has poached the executive who reportedly led Apple’s secretive car project to become its own “chief advanced technology and embedded systems officer.”</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/key-performance-indicators-september-4</guid>
   <pubDate>Fri, 03 Sep 2021 14:56:45 -0700</pubDate>
- </item>
- <item>
-  <title>Musicals 'Waitress' and 'Hadestown' Return to Broadway</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7285%2Fsara_bareilles_performing_in_waitress_on_broadway.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Big picture: Covid has been more damaging for the musical theater industry than Russell Crowe’s turn as Javert.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/03/musicals-waitress-hadestown-return-broadway</link>
-  <author>Neal Freyman</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/musicals-waitress-hadestown-return-broadway</guid>
-  <pubDate>Fri, 03 Sep 2021 14:56:45 -0700</pubDate>
- </item>
- <item>
-  <title>Apple's Crazy Week</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2155%2Fgold_apple.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Wednesday: Apple offered its second App Store concession in less than a week, allowing companies like Netflix and Spotify to direct users to payment methods outside of the App Store.    Friday: Apple said it would delay the rollout of its new software that scans devices for child sexual abuse content so it can make improvements.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/03/apples-crazy-week</link>
-  <author>Neal Freyman</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/apples-crazy-week</guid>
-  <pubDate>Fri, 03 Sep 2021 14:51:45 -0700</pubDate>
- </item>
- <item>
-  <title>Booster Vaccine Doses Turn Into a Three-Shot Circus</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: President Biden announced that Americans who received Pfizer’s or Moderna’s vaccine could begin getting their third shots the week of Sept.    But in a meeting at the White House this week, federal health officials said those initial boosters might need to be limited to just those who got Pfizer’s vaccine, per reports.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/03/booster-vaccine-doses-turn-threeshot-circus</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/booster-vaccine-doses-turn-threeshot-circus</guid>
-  <pubDate>Fri, 03 Sep 2021 14:51:44 -0700</pubDate>
- </item>
- <item>
-  <title>Delta Crashes the Jobs Party</title>
-  <description>&lt;img src='https://media.giphy.com/media/l1J3MSRDWd2wTO0Wk/giphy.gif?cid=ecf05e47qbof7rmqjmhj0m5ogvjon1sfwz7mrbyimat56nc3&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;This jobs report whiff will reverberate around DC.   US employers added just 235,000 jobs last month, compared to the 720,000 expected. In total, there are 5.6 million fewer workers holding jobs in the US now than before the pandemic hit. Hiring was expected to fall from the 1.1 million jobs added in July and 962,000 in June, but nowhere near this much. It was averaging 350,000 new jobs a month over the past six months. Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/03/delta-crashes-jobs-party</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/delta-crashes-jobs-party</guid>
-  <pubDate>Fri, 03 Sep 2021 14:51:44 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers with...Master Sommelier Ian Cauble</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7288%2Fian_cauble.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But most people don't have that bottle of wine you found on that shelf in that specific wine shop. With just a 5% pass rate, the top wine test has snarled the dreams of all but 267 people who are able to call themselves a true Master. In 2012, Ian Cauble passed the wine world’s version of astronaut training to become one of only a few Master Sommeliers in the world. Why is wine the go-to dinner party gift? Most people start by working in restaurants for a very long time—a lot of them for more than 10 years by the time they pass the Master Sommelier exam. It’s a very easy gift and there's usually a great story behind it. I would say most wine is not designed to age.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/03/icebreakers-withmaster-sommelier-ian-cauble</link>
-  <author>Matty Merritt</author>
-  <categories>qanda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/icebreakers-withmaster-sommelier-ian-cauble</guid>
-  <pubDate>Fri, 03 Sep 2021 14:46:44 -0700</pubDate>
  </item>
 
 </channel>
