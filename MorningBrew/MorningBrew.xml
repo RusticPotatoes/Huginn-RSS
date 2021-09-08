@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/08</link>
- <lastBuildDate>Wed, 08 Sep 2021 14:53:56 -0700</lastBuildDate>
- <pubDate>Wed, 08 Sep 2021 14:53:56 -0700</pubDate>
+ <lastBuildDate>Wed, 08 Sep 2021 15:04:02 -0700</lastBuildDate>
+ <pubDate>Wed, 08 Sep 2021 15:04:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Energy Department Report Says Solar Could Power Almost Half of US Electricity by 2050</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2773%2Fsolar_tan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The US Energy Department said that solar energy could power 44% of the country’s electricity by 2050, up from 3% currently, in a major report released yesterday. Another barrier: How dependent the US solar industry is on China.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/08/energy-department-report-says-solar-power-almost-half-us-electricity-2050</link>
+  <author>Matty Merritt</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/energy-department-report-says-solar-power-almost-half-us-electricity-2050</guid>
+  <pubDate>Wed, 08 Sep 2021 15:02:01 -0700</pubDate>
+ </item>
  <item>
   <title>The SEC Threatens to Sue Coinbase</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7330%2Fcoinbase_court_case.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But Coinbase says Lend doesn’t involve securities and called that assumption “strange.” In this case, the SEC says they’ll sue Coinbase if and when it launches Lend. Lend would let Coinbase users earn interest by lending digital assets—specifically, a stablecoin called USD Coin—to others. That’s how Coinbase CEO Brian Armstrong described the SEC’s latest crypto crackdown. According to Coinbase, the Wall Street regulator has sent the leading crypto exchange a “Wells notice” regarding its upcoming lending product, Lend.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/key-performance-indicators-september-4?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 04 Sep 2021 03:01:48 -0700</pubDate>
- </item>
- <item>
-  <title>Apple's Crazy Week</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2155%2Fgold_apple.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Wednesday: Apple offered its second App Store concession in less than a week, allowing companies like Netflix and Spotify to direct users to payment methods outside of the App Store.  Yesterday: Apple said it would delay the rollout of its new software that scans devices for child sexual abuse content so it can make improvements.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/03/apples-crazy-week?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/apples-crazy-week?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 04 Sep 2021 03:01:48 -0700</pubDate>
  </item>
 
