@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/07</link>
- <lastBuildDate>Tue, 07 Sep 2021 14:49:01 -0700</lastBuildDate>
- <pubDate>Tue, 07 Sep 2021 14:49:01 -0700</pubDate>
+ <lastBuildDate>Tue, 07 Sep 2021 17:18:58 -0700</lastBuildDate>
+ <pubDate>Tue, 07 Sep 2021 17:18:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Ford Poaches Senior Executive, Doug Field, from Apple's Car Project</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3662%2Fford_bronco_goats.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And now for some news Apple definitely won’t send any invites about: Ford has poached the executive who reportedly led Apple’s secretive car project to become its own “chief advanced technology and embedded systems officer.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/08/ford-poaches-senior-executive-doug-field-apples-car-project</link>
+  <author>Neal Freyman</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/ford-poaches-senior-executive-doug-field-apples-car-project</guid>
+  <pubDate>Tue, 07 Sep 2021 17:16:58 -0700</pubDate>
+ </item>
+ <item>
+  <title>Batteries Are a Solid Opportunity for EVs</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7311%2Fev_battery.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Ford and BMW have partnered with another solid-state battery startup, Solid Power.  Why it matters: EV batteries are a key arena as automakers compete to make cheaper and more durable electric and hybrid vehicles. Besides Toyota, other automakers have also made bids on advanced battery tech: Volkswagen invested in the Bill Gates-backed battery startup QuantumScape.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/08/batteries-solid-opportunity-evs</link>
+  <author>Sherry Qin</author>
+  <categories>auto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/batteries-solid-opportunity-evs</guid>
+  <pubDate>Tue, 07 Sep 2021 17:16:58 -0700</pubDate>
+ </item>
  <item>
   <title>New Apple iPhones to be Announced Next Week</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7312%2Fapple_event_announcement.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Apple could also use the event to announce new AirPods, Apple Watches, and streaming content or devices for Apple TV+. Yesterday, the company sent out invites for its annual (and still virtual) launch event where it’ll announce new products.</description>
@@ -352,24 +370,6 @@
   <categories>qanda</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/icebreakers-withmaster-sommelier-ian-cauble</guid>
   <pubDate>Fri, 03 Sep 2021 14:46:44 -0700</pubDate>
- </item>
- <item>
-  <title>Make It Work: How to Get Honest Feedback?</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The last thing you want is an employee who, in a final twist of irony, provides their only honest feedback during the exit interview.  Have a question about work you want to ask Shane? The number of managers who view feedback as a one-way street would make NYC’s grid blush. Do you have any advice for soliciting honest feedback? I had a manager who would ask during every 1-1 session if I had any feedback for them, a tactic I later found myself using with a few of my direct reports. The honest feedback comes to me and then I address it here on Sunday—what gives?  I’ve found the best strategy for collecting feedback from employees to be a diversified one. Write in here. Ask Shane here. Be one of the first subscribers to our upcoming newsletter on all things human resources.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/03/make-work-get-honest-feedback</link>
-  <author>Neal Freyman</author>
-  <categories>work life</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/make-work-get-honest-feedback</guid>
-  <pubDate>Fri, 03 Sep 2021 13:46:42 -0700</pubDate>
- </item>
- <item>
-  <title>OOO Messages For Your Long Weekend</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7265%2Fooo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;  spicier, don’t worry, we’ve got even more OOO messages here. [Name]If you’d like something a little... Thanks! I’ll get in touch with you as soon as I’m well-rested and back online. ).</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/02/ooo-messages-long-weekend?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>from the crew</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/02/ooo-messages-long-weekend?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 03 Sep 2021 03:01:50 -0700</pubDate>
  </item>
 
 </channel>
