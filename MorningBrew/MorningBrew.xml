@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/08</link>
- <lastBuildDate>Wed, 08 Sep 2021 14:43:55 -0700</lastBuildDate>
- <pubDate>Wed, 08 Sep 2021 14:43:55 -0700</pubDate>
+ <lastBuildDate>Wed, 08 Sep 2021 14:48:56 -0700</lastBuildDate>
+ <pubDate>Wed, 08 Sep 2021 14:48:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Examining the Pop Culture Legacy of the September 11 Attacks</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6176%2Favengers.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Now, with villains once again razing cities in films like Batman v Superman, it appears that 9/11 imagery has become “subtext instead of text,” Vox wrote. Leading up to the anniversary of the September 11 attacks this Saturday, we’ll feature stories that explore the economic impact of 9/11, 20 years later. How long will it be before a director pitches a pandemic film?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/08/examining-pop-culture-legacy-september-11-attacks</link>
+  <author>Neal Freyman</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/examining-pop-culture-legacy-september-11-attacks</guid>
+  <pubDate>Wed, 08 Sep 2021 14:46:55 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: September 9</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7332%2Foatly_s_super_bowl_commercial.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: In the Afghan countryside, the endless killing of civilians turned women against the occupiers who claimed to be helping them.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/booster-vaccine-doses-turn-threeshot-circus?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 04 Sep 2021 03:01:48 -0700</pubDate>
- </item>
- <item>
-  <title>Delta Crashes the Jobs Party</title>
-  <description>&lt;img src='https://media.giphy.com/media/l1J3MSRDWd2wTO0Wk/giphy.gif?cid=ecf05e47qbof7rmqjmhj0m5ogvjon1sfwz7mrbyimat56nc3&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;This jobs report whiff will reverberate around DC.   US employers added just 235,000 jobs last month, compared to the 720,000 expected. Hiring was expected to fall from the 1.1 million jobs added in July and 962,000 in June, but nowhere near this much. In total, there are 5.6 million fewer workers holding jobs in the US now than before the pandemic hit.  Leisure and hospitality, a sector that falters when Covid anxieties are higher, reported no job increases last month.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/03/delta-crashes-jobs-party?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/delta-crashes-jobs-party?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 04 Sep 2021 03:01:48 -0700</pubDate>
  </item>
 
