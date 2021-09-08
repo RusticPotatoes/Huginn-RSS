@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/08</link>
- <lastBuildDate>Wed, 08 Sep 2021 14:48:56 -0700</lastBuildDate>
- <pubDate>Wed, 08 Sep 2021 14:48:56 -0700</pubDate>
+ <lastBuildDate>Wed, 08 Sep 2021 14:53:56 -0700</lastBuildDate>
+ <pubDate>Wed, 08 Sep 2021 14:53:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The SEC Threatens to Sue Coinbase</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7330%2Fcoinbase_court_case.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But Coinbase says Lend doesn’t involve securities and called that assumption “strange.” In this case, the SEC says they’ll sue Coinbase if and when it launches Lend. Lend would let Coinbase users earn interest by lending digital assets—specifically, a stablecoin called USD Coin—to others. That’s how Coinbase CEO Brian Armstrong described the SEC’s latest crypto crackdown. According to Coinbase, the Wall Street regulator has sent the leading crypto exchange a “Wells notice” regarding its upcoming lending product, Lend.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/08/sec-threatens-sue-coinbase</link>
+  <author>Jamie Wilde</author>
+  <categories>cryptocurrency</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/sec-threatens-sue-coinbase</guid>
+  <pubDate>Wed, 08 Sep 2021 14:51:56 -0700</pubDate>
+ </item>
  <item>
   <title>Examining the Pop Culture Legacy of the September 11 Attacks</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6176%2Favengers.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Now, with villains once again razing cities in films like Batman v Superman, it appears that 9/11 imagery has become “subtext instead of text,” Vox wrote. Leading up to the anniversary of the September 11 attacks this Saturday, we’ll feature stories that explore the economic impact of 9/11, 20 years later. How long will it be before a director pitches a pandemic film?</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/apples-crazy-week?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 04 Sep 2021 03:01:48 -0700</pubDate>
- </item>
- <item>
-  <title>Booster Vaccine Doses Turn Into a Three-Shot Circus</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4371%2Fvaccine_tracker.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: President Biden announced that Americans who received Pfizer’s or Moderna’s vaccine could begin getting their third shots the week of Sept.  Big picture: The necessity of third shots is still dividing the scientific community. 20, as long as it had been at least eight months since they got their second shot.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/03/booster-vaccine-doses-turn-threeshot-circus?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/booster-vaccine-doses-turn-threeshot-circus?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 04 Sep 2021 03:01:48 -0700</pubDate>
  </item>
 
