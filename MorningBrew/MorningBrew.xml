@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/09</link>
- <lastBuildDate>Thu, 09 Sep 2021 03:03:56 -0700</lastBuildDate>
- <pubDate>Thu, 09 Sep 2021 03:03:56 -0700</pubDate>
+ <lastBuildDate>Thu, 09 Sep 2021 14:45:13 -0700</lastBuildDate>
+ <pubDate>Thu, 09 Sep 2021 14:45:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>JPMorgan Says It will to Buy Restaurant-Discovery Service the Infatuation</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F245%2Frestaurant_patio.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In 2019, American Express acquired Resy, the restaurant reservation platform, in a bid to hold onto its card members amid fierce competition from other credit-card issuers.  Bottom line: While this type of deal is rare, it isn’t without precedent.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/09/jpmorgan-says-will-buy-restaurantdiscovery-service-infatuation</link>
+  <author>Sherry Qin</author>
+  <categories>finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/09/jpmorgan-says-will-buy-restaurantdiscovery-service-infatuation</guid>
+  <pubDate>Thu, 09 Sep 2021 14:42:08 -0700</pubDate>
+ </item>
  <item>
   <title>Lululemon Reports Better Than Expected Earnings</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7333%2Flululemon_store.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And recent patents show Lulu could be exploring wellness products that use biometric monitoring technology. Lululemon has already integrated Mirror, the at-home fitness company it bought last year, into 150 of its brick-and-mortar stores. Double down on becoming a "tech" company.</description>
@@ -361,15 +370,6 @@
   <categories>labor</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/05/us-winds-massive-controversial-unemployment-benefits-program?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 06 Sep 2021 03:01:39 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 6</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7263%2Fremnants_of_hurricane_ida.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Quote: “I feel like for me, recently, when I win, I don’t feel happy, I feel more like a relief. (The Verge)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/05/key-performance-indicators-september-6</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/05/key-performance-indicators-september-6</guid>
-  <pubDate>Mon, 06 Sep 2021 01:51:38 -0700</pubDate>
  </item>
 
 </channel>
