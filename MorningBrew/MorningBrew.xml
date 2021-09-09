@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/08</link>
- <lastBuildDate>Wed, 08 Sep 2021 15:19:00 -0700</lastBuildDate>
- <pubDate>Wed, 08 Sep 2021 15:19:00 -0700</pubDate>
+ <lastBuildDate>Wed, 08 Sep 2021 19:18:56 -0700</lastBuildDate>
+ <pubDate>Wed, 08 Sep 2021 19:18:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Home, Sweet Futuristic, Home: The Rise of High-Tech Consumer Products</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7315%2Fstarship_technologies.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;) But what’s really important to keep in mind is that whether it’s tech that cleans or tech that drives you to work—it’s all here to make our lives easier. Ultrasonic recognition tech gives you complete control. In terms of recognition of obstacles in the home, for example, AI allows machines to take in complex data and make sense of it on the fly. Compared to just camera-based navigation, LiDAR allows for a level of precision that can help your tech move like it’s actually, truly smart. And while some people are still standing on street corners wondering why they can’t hail a flying taxi, we’re here to talk about the futuristic tech that can be in your home today.  And while this tech can tell a product where they are, it can also tell it where not to go.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/09/home-sweet-futuristic-home-rise-hightech-consumer-products</link>
+  <author>Morning Brew</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/09/home-sweet-futuristic-home-rise-hightech-consumer-products</guid>
+  <pubDate>Wed, 08 Sep 2021 19:16:56 -0700</pubDate>
+ </item>
  <item>
   <title>Lululemon Reports Better Than Expected Earnings</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7333%2Flululemon_store.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;what do you even do when you hit your revenue goals two years ahead of schedule? Last year, Lululemon bought at-home fitness company Mirror in hopes to be your ultimate workout buddy. Double down on becoming a tech company.</description>
@@ -361,15 +370,6 @@
   <categories>defense</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/05/defense-industry-911-changed-everything</guid>
   <pubDate>Sun, 05 Sep 2021 19:16:37 -0700</pubDate>
- </item>
- <item>
-  <title>Musicals 'Waitress' and 'Hadestown' Return to Broadway</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7285%2Fsara_bareilles_performing_in_waitress_on_broadway.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Big picture: Covid has been more damaging for the musical theater industry than Russell Crowe’s turn as Javert.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/03/musicals-waitress-hadestown-return-broadway?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/03/musicals-waitress-hadestown-return-broadway?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 04 Sep 2021 03:01:48 -0700</pubDate>
  </item>
 
 </channel>
