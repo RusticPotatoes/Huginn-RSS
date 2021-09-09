@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/09/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/09/08/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/09/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/09/09/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/09/08</link>
- <lastBuildDate>Wed, 08 Sep 2021 19:18:56 -0700</lastBuildDate>
- <pubDate>Wed, 08 Sep 2021 19:18:56 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/09/09</link>
+ <lastBuildDate>Thu, 09 Sep 2021 03:03:56 -0700</lastBuildDate>
+ <pubDate>Thu, 09 Sep 2021 03:03:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Lululemon Reports Better Than Expected Earnings</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7333%2Flululemon_store.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And recent patents show Lulu could be exploring wellness products that use biometric monitoring technology. Lululemon has already integrated Mirror, the at-home fitness company it bought last year, into 150 of its brick-and-mortar stores. Double down on becoming a "tech" company.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/08/lululemon-reports-better-expected-earnings?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/lululemon-reports-better-expected-earnings?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 09 Sep 2021 03:01:56 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: September 9</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7332%2Foatly_s_super_bowl_commercial.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: In the Afghan countryside, the endless killing of civilians turned women against the occupiers who claimed to be helping them.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/08/key-performance-indicators-september-9?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/key-performance-indicators-september-9?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 09 Sep 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Examining the Pop Culture Legacy of the September 11 Attacks</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F6176%2Favengers.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Leading up to the anniversary of the September 11 attacks this Saturday, we’ll feature stories that explore the economic impact of 9/11, 20 years later. Before September 11, 2001, movies like Independence Day and Armageddon gleefully depicted the annihilation of American cities. — NF How long will it be before a director pitches a pandemic film?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/08/examining-pop-culture-legacy-september-11-attacks?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/examining-pop-culture-legacy-september-11-attacks?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 09 Sep 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Energy Department Report Says Solar Could Power Almost Half of US Electricity by 2050</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F2773%2Fsolar_tan.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The US Energy Department said that solar energy could power 44% of the country’s electricity by 2050, up from 3% currently, in a major report released yesterday.  Big picture: US solar installations grew a record 43% from 2019 to 2020, which means that 20% of the country’s entire solar capacity was installed last year alone.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/08/energy-department-report-says-solar-power-almost-half-us-electricity-2050?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/energy-department-report-says-solar-power-almost-half-us-electricity-2050?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 09 Sep 2021 03:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>The SEC Threatens to Sue Coinbase</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7330%2Fcoinbase_court_case.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Coinbase contends that Lend doesn’t involve securities and called that assumption “strange.” In this case, the SEC says they’ll sue Coinbase if and when it launches Lend. That’s how Coinbase CEO Brian Armstrong described the SEC’s latest crypto crackdown. In a blog post and a nowadays-mandatory Twitter thread, Coinbase executives said they don’t understand what grounds the SEC is suing them on, and that the SEC has refused to loop them in.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/08/sec-threatens-sue-coinbase?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/sec-threatens-sue-coinbase?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 09 Sep 2021 03:01:55 -0700</pubDate>
+ </item>
  <item>
   <title>Home, Sweet Futuristic, Home: The Rise of High-Tech Consumer Products</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7315%2Fstarship_technologies.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;) But what’s really important to keep in mind is that whether it’s tech that cleans or tech that drives you to work—it’s all here to make our lives easier. Ultrasonic recognition tech gives you complete control. In terms of recognition of obstacles in the home, for example, AI allows machines to take in complex data and make sense of it on the fly. Compared to just camera-based navigation, LiDAR allows for a level of precision that can help your tech move like it’s actually, truly smart. And while some people are still standing on street corners wondering why they can’t hail a flying taxi, we’re here to talk about the futuristic tech that can be in your home today.  And while this tech can tell a product where they are, it can also tell it where not to go.</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/05/key-performance-indicators-september-6</guid>
   <pubDate>Mon, 06 Sep 2021 01:51:38 -0700</pubDate>
- </item>
- <item>
-  <title>The Weekend in Photos </title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7295%2Fus_men_s_paralympic_basketball_team.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   John Walton/PA Images via Getty Images The Tokyo Paralympic Games closed this weekend with the US earning 37 gold medals, including in men’s wheelchair basketball and women’s sitting volleyball.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/05/weekend-photos</link>
-  <author>Neal Freyman</author>
-  <categories>snapshot</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/05/weekend-photos</guid>
-  <pubDate>Mon, 06 Sep 2021 01:51:38 -0700</pubDate>
- </item>
- <item>
-  <title>Kriss Kross: Movie Posters</title>
-  <description>&lt;img src='https://media.giphy.com/media/11NcpG5wIIp77W/giphy.gif'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/06/kriss-kross-movie-posters</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/kriss-kross-movie-posters</guid>
-  <pubDate>Sun, 05 Sep 2021 19:31:41 -0700</pubDate>
- </item>
- <item>
-  <title>The Week Ahead: September 6</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7293%2Ftribute_in_light_tested_i.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;9/11 anniversary: As we mentioned earlier, Saturday will mark 20 years since the terrorist attacks of September 11, 2001. Everything else: Rosh Hashanah, the Jewish New Year, begins this evening.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/05/week-ahead-september-6</link>
-  <author>Neal Freyman</author>
-  <categories>calendar</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/05/week-ahead-september-6</guid>
-  <pubDate>Sun, 05 Sep 2021 19:26:43 -0700</pubDate>
- </item>
- <item>
-  <title>US Winds Down Massive, Controversial Unemployment Benefits Program</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F867%2Fusa.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The backstory: In March 2020, as the US was shedding almost 1 million jobs per day, Congress authorized an extra $600/week in unemployment benefits on top of what states offered to keep jobless Americans afloat (the $600/week was later reduced to $300 in August 2020).  In all, the US government has spent $680 billion on unemployment benefits since last March, the second-highest amount among Covid stimulus programs behind only the Paycheck Protection Program ($835 billion). Around the same time, the government also expanded the number of workers eligible for unemployment insurance (UI) by including people like gig workers and the self-employed.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/05/us-winds-massive-controversial-unemployment-benefits-program</link>
-  <author>Neal Freyman</author>
-  <categories>labor</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/05/us-winds-massive-controversial-unemployment-benefits-program</guid>
-  <pubDate>Sun, 05 Sep 2021 19:21:42 -0700</pubDate>
- </item>
- <item>
-  <title>For the Defense Industry, 9/11 Changed Everything</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7294%2Fa_us_army_drone.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Bottom line: US military spending as a share of GDP has shrunk since peaking in 2011, but the booming homeland security industry it helped create remains a permanent fixture of the economy. Before September 11, 2001, the US had been cutting military spending. Military spending doubled to $700 billion in the decade following 9/11, to about 20% of total government spending.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/05/defense-industry-911-changed-everything</link>
-  <author>Neal Freyman</author>
-  <categories>defense</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/05/defense-industry-911-changed-everything</guid>
-  <pubDate>Sun, 05 Sep 2021 19:16:37 -0700</pubDate>
  </item>
 
 </channel>
