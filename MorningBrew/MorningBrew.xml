@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/10</link>
- <lastBuildDate>Fri, 10 Sep 2021 14:05:06 -0700</lastBuildDate>
- <pubDate>Fri, 10 Sep 2021 14:05:06 -0700</pubDate>
+ <lastBuildDate>Fri, 10 Sep 2021 14:20:11 -0700</lastBuildDate>
+ <pubDate>Fri, 10 Sep 2021 14:20:11 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>How is Covid Affecting Campus Life?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7309%2Fwoman_walks_on_a_college_campus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;58% of college students believe that their school should require vaccinations. Bella Mortel, a University of Texas at Austin Junior, said, “Seeing students and professors back on campus on the first day of school this year reminded me of how critical the in-person experience is! Only 28% of students had complete trust that their schools would keep them safe from Covid, while 47% of students said, “Yes, sort of.” Another ID to lose. Ben Klein, who started his third year at the University of Wisconsin-Madison, said, “I feel more comfortable that we have to wear masks and social distance during in-person classes, but at the end of the day if our area gets swamped with Delta, Mu, or some other variant, I think cases are inescapable. In a Morning Brew + Generation Lab poll, we asked 524 college students across the US about their experiences back on campus. Students definitely, maybe trust their school.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/10/covid-affecting-campus-life</link>
+  <author>Matty Merritt</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/covid-affecting-campus-life</guid>
+  <pubDate>Fri, 10 Sep 2021 14:17:07 -0700</pubDate>
+ </item>
  <item>
   <title>Icebreakers with...Master Sommelier Ian Cauble</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7288%2Fian_cauble.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But most people don't have that bottle of wine you found on that shelf in that specific wine shop. With just a 5% pass rate, the top wine test has snarled the dreams of all but 267 people who are able to call themselves a true Master. In 2012, Ian Cauble passed the wine world’s version of astronaut training to become one of only a few Master Sommeliers in the world. Why is wine the go-to dinner party gift? Most people start by working in restaurants for a very long time—a lot of them for more than 10 years by the time they pass the Master Sommelier exam. It’s a very easy gift and there's usually a great story behind it. I would say most wine is not designed to age.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>deals</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/07/dealmaking-ma-ipos-track-break-records-2021</guid>
-  <pubDate>Tue, 07 Sep 2021 14:31:59 -0700</pubDate>
- </item>
- <item>
-  <title>The Death and Life of NYC’s Financial District</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7307%2Fnyc_s_financial_district.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;   The backstory: On the eve of 9/11, the Financial District (FiDi), was a finance hub.  In the years since, many banks left the neighborhood, primarily for Midtown. the Covid-19 pandemic has presented fresh challenges for FiDi, with a major downturn in the number of commuters and tourists hurting local businesses. The neighborhood’s residential population has more than doubled since 2000, according to a WSJ analysis.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/07/death-life-nycs-financial-district</link>
-  <author>Neal Freyman</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/07/death-life-nycs-financial-district</guid>
   <pubDate>Tue, 07 Sep 2021 14:31:59 -0700</pubDate>
  </item>
 
