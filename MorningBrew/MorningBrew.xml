@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/10</link>
- <lastBuildDate>Fri, 10 Sep 2021 14:30:05 -0700</lastBuildDate>
- <pubDate>Fri, 10 Sep 2021 14:30:05 -0700</pubDate>
+ <lastBuildDate>Fri, 10 Sep 2021 14:35:07 -0700</lastBuildDate>
+ <pubDate>Fri, 10 Sep 2021 14:35:07 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: September 11</title>
+  <description>&lt;img src='https://media.giphy.com/media/pReb5Koy6JmihUYBLx/giphy.gif?cid=ecf05e47vwelbjzzgl10tdxtbdrrdy99t3ndw5me8hndyej8&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;Watch: The tale of Tiffany (CGP Grey on YouTube)</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/10/key-performance-indicators-september-11</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/key-performance-indicators-september-11</guid>
+  <pubDate>Fri, 10 Sep 2021 14:32:02 -0700</pubDate>
+ </item>
  <item>
   <title>Epic Games Wins Lawsuit Against Apple</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7367%2Fepic_games_vs_apple.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The game was promptly booted from the App Store, and Epic launched its revolution with a 1984-style video and a lawsuit against Apple, which culminated in a high-profile trial featuring testimony from Apple CEO Tim Cook. The backstory: Last summer, Epic CEO Tim Sweeney martyred his top-earning game Fortnite by encouraging users to make in-game purchases (hamburger helmets, demogorgon skins) outside of Apple’s payment systems in protest of the steep commission Apple charges developers in its App Store.</description>
@@ -361,15 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/07/new-apple-iphones-announced-next-week</guid>
   <pubDate>Tue, 07 Sep 2021 14:47:00 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 8</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7309%2Fwoman_walks_on_a_college_campus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Women accounted for a record 59.5% of college students at the end of 2020–2021 school year, while men made up just 40.5%. (The Guardian) Read: The disastrous voyage of Satoshi, the world’s first cryptocurrency cruise ship.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/07/key-performance-indicators-september-8</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/07/key-performance-indicators-september-8</guid>
-  <pubDate>Tue, 07 Sep 2021 14:41:58 -0700</pubDate>
  </item>
 
 </channel>
