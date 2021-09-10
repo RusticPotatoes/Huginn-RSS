@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/10</link>
- <lastBuildDate>Fri, 10 Sep 2021 09:20:00 -0700</lastBuildDate>
- <pubDate>Fri, 10 Sep 2021 09:20:00 -0700</pubDate>
+ <lastBuildDate>Fri, 10 Sep 2021 13:05:09 -0700</lastBuildDate>
+ <pubDate>Fri, 10 Sep 2021 13:05:09 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>9/11 Reads, Watches, and Listens</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7364%2Fnew_york_city_skyline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Bloomberg)The man in the red bandana. (Esquire)Children of those killed on 9/11 are following their parents into finance—some at the same investment firms.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/10/911-reads-watches-listens</link>
+  <author>Neal Freyman</author>
+  <categories>september 11</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/911-reads-watches-listens</guid>
+  <pubDate>Fri, 10 Sep 2021 13:02:07 -0700</pubDate>
+ </item>
  <item>
   <title>Stock Watch: September 12</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7359%2Fstock_watch_september_12.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>aviation</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/longer-waits-safer-planes-911-changed-air-travel?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 07 Sep 2021 03:02:01 -0700</pubDate>
- </item>
- <item>
-  <title>Weibo, China’s version of Twitter, Suspends 21+ K-Pop Fan Accounts</title>
-  <description>&lt;img src='https://media.giphy.com/media/AFBmwFcWqQpPymsgqZ/giphy.gif?cid=790b76113c254e1b4dbfdd42026f087acfa13b5001f4c998&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt; Later that day, Weibo said it would ban a number of other celebrity accounts in an effort to “purify” its platform. When Americans were all winding down from their second Saturday, Weibo—China’s version of Twitter—suspended at least 21 fan accounts for K-pop bands like BTS and Blackpink. – MM</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/06/weibo-chinas-version-twitter-suspends-21-kpop-fan-accounts?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/weibo-chinas-version-twitter-suspends-21-kpop-fan-accounts?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 07 Sep 2021 03:02:01 -0700</pubDate>
  </item>
 
