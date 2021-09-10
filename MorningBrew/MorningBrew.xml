@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/10</link>
- <lastBuildDate>Fri, 10 Sep 2021 03:05:05 -0700</lastBuildDate>
- <pubDate>Fri, 10 Sep 2021 03:05:05 -0700</pubDate>
+ <lastBuildDate>Fri, 10 Sep 2021 07:44:00 -0700</lastBuildDate>
+ <pubDate>Fri, 10 Sep 2021 07:44:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Make It Work: Building Strong Virtual Relationships</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4689%2Fmake_it_work_logo.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Having more recently begun a new job on a fully remote team, where the only radio playing at a “reasonable volume” is my own, your question got me thinking about the influence that an increasingly virtual workplace is having on team dynamics. Any advice/tips on how to build healthy professional relationships with new teammates? Something I’m doing with my current team is a rotating brown bag, whereby we use part of our weekly meeting for a team member to teach us something new. —Brandon from MinneapolisAs someone who relies on poor lighting in order to be the best-looking person on my video calls, I’m probably not the best source of advice on this one. Have a question about work you want to ask Shane?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/10/make-work-building-strong-virtual-relationships</link>
+  <author>Neal Freyman</author>
+  <categories>work life</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/make-work-building-strong-virtual-relationships</guid>
+  <pubDate>Fri, 10 Sep 2021 07:42:10 -0700</pubDate>
+ </item>
  <item>
   <title>JPMorgan Says It will to Buy Restaurant-Discovery Service the Infatuation</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F245%2Frestaurant_patio.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Two powerful forces driving food spending—the Chase credit card suite and the restaurant review platform the Infatuation—are becoming one.  Bottom line: While this type of deal is rare, it isn't ~unprecedented~. And the number of travelers at US airports this summer was triple what it was a year ago.</description>
@@ -361,15 +370,6 @@
   <categories>crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/el-salvadors-grand-bitcoin-experiment?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 07 Sep 2021 03:02:01 -0700</pubDate>
- </item>
- <item>
-  <title>Longer Waits, Safer Planes: How 9/11 Changed Air Travel</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7298%2Ftsa_security_lines_at_den.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After hijackers commandeered four planes the morning of September 11, 2001, the US revamped its process for airport security screening to prevent similar attacks. Airlines struggled to recover: Airline revenue for domestic US flights fell by $10 billion/year from 2001–2006. Only in November 2001 did the government create the Transportation Security Administration (TSA) to handle security at airports.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/06/longer-waits-safer-planes-911-changed-air-travel</link>
-  <author>Neal Freyman</author>
-  <categories>aviation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/longer-waits-safer-planes-911-changed-air-travel</guid>
-  <pubDate>Mon, 06 Sep 2021 20:31:38 -0700</pubDate>
  </item>
 
 </channel>
