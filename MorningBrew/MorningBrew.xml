@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/10</link>
- <lastBuildDate>Fri, 10 Sep 2021 13:35:03 -0700</lastBuildDate>
- <pubDate>Fri, 10 Sep 2021 13:35:03 -0700</pubDate>
+ <lastBuildDate>Fri, 10 Sep 2021 13:50:09 -0700</lastBuildDate>
+ <pubDate>Fri, 10 Sep 2021 13:50:09 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Your 2021–2022 NFL Season Preview </title>
+  <description>&lt;img src='https://media.giphy.com/media/C0D9AFGOus9TIRA6CF/giphy-downsized-large.gif?cid=ecf05e47o9fiqx2hu7lucilk7fyn6cip6ldblftum4720n2k&amp;rid=giphy-downsized-large.gif&amp;ct=g'&gt;&lt;br/&gt;The new NFL season kicks off with a full slate of games today. During the offseason, the NFL struck deals with seven sportsbook operators, which, among other things, allows them to buy commercial spots during NFL games for the first time ever. This season, Amazon Prime Video will share the rights with NFL Network and Fox for Thursday Night Football (TNF), but come 2022 you’ll be all Andy Jassy’s: Amazon will be the exclusive “broadcaster” for TNF for the next 10 years. More streamingAs part of the NFL’s new gargantuan media rights deal reportedly worth over $100 billion, streaming will play a bigger role. Gambling companies will make more money, football players will make more money, and the NFL itself certainly stands to gain from an extra slot for advertising, ticket sales, merchandise, and more.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/10/20212022-nfl-season-preview</link>
+  <author>Neal Freyman</author>
+  <categories>analysis</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/20212022-nfl-season-preview</guid>
+  <pubDate>Fri, 10 Sep 2021 13:47:06 -0700</pubDate>
+ </item>
  <item>
   <title>The economic impact of 9/11, 20 years later</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7363%2Fusa_-_new_york_city_-_wor.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Stock Market After 9/11Because of the digitization of trading, experts worry that a major cyberattack on Wall Street could be equally—if not more—devastating than September 11, 2001. The Death and Life of NYC’s Financial DistrictIn the years since September 11, 2001 many banks left the neighborhood, primarily for Midtown.</description>
@@ -361,15 +370,6 @@
   <categories>jobs</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/study-shows-automated-rsum-scanner-mistakenly-rejects-millions-viable-job-candidates?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 07 Sep 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 7</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7299%2Ftopshot-guinea-army-polit.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Incunabula) This thread explains.  Read: How did ham and cheese lead to hardcover books? “It may have been the financial promotion with the single biggest audience reach in history,” Randell said.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/06/key-performance-indicators-september-7?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/key-performance-indicators-september-7?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 07 Sep 2021 03:02:01 -0700</pubDate>
  </item>
 
 </channel>
