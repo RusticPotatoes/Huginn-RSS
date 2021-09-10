@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/10</link>
- <lastBuildDate>Fri, 10 Sep 2021 13:05:09 -0700</lastBuildDate>
- <pubDate>Fri, 10 Sep 2021 13:05:09 -0700</pubDate>
+ <lastBuildDate>Fri, 10 Sep 2021 13:35:03 -0700</lastBuildDate>
+ <pubDate>Fri, 10 Sep 2021 13:35:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The economic impact of 9/11, 20 years later</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7363%2Fusa_-_new_york_city_-_wor.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Stock Market After 9/11Because of the digitization of trading, experts worry that a major cyberattack on Wall Street could be equally—if not more—devastating than September 11, 2001. The Death and Life of NYC’s Financial DistrictIn the years since September 11, 2001 many banks left the neighborhood, primarily for Midtown.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/10/economic-impact-911-20-years-later</link>
+  <author>Gaetane Lewis</author>
+  <categories>september 11</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/economic-impact-911-20-years-later</guid>
+  <pubDate>Fri, 10 Sep 2021 13:32:01 -0700</pubDate>
+ </item>
  <item>
   <title>9/11 Reads, Watches, and Listens</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7364%2Fnew_york_city_skyline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Bloomberg)The man in the red bandana. (Esquire)Children of those killed on 9/11 are following their parents into finance—some at the same investment firms.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/key-performance-indicators-september-7?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 07 Sep 2021 03:02:01 -0700</pubDate>
- </item>
- <item>
-  <title>Longer Waits, Safer Planes: How 9/11 Changed Air Travel</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7298%2Ftsa_security_lines_at_den.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After hijackers commandeered four planes the morning of September 11, 2001, the US revamped its process for airport security screening to prevent similar attacks. Airlines took a hit: Airline revenue for domestic US flights fell by $10 billion/year from 2001–2006. Only in November 2001 did the government create the Transportation Security Administration (TSA) to handle security at airports.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/06/longer-waits-safer-planes-911-changed-air-travel?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>aviation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/longer-waits-safer-planes-911-changed-air-travel?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 07 Sep 2021 03:02:01 -0700</pubDate>
  </item>
 
