@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/10</link>
- <lastBuildDate>Fri, 10 Sep 2021 13:50:09 -0700</lastBuildDate>
- <pubDate>Fri, 10 Sep 2021 13:50:09 -0700</pubDate>
+ <lastBuildDate>Fri, 10 Sep 2021 14:05:06 -0700</lastBuildDate>
+ <pubDate>Fri, 10 Sep 2021 14:05:06 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Icebreakers with...Master Sommelier Ian Cauble</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7288%2Fian_cauble.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But most people don't have that bottle of wine you found on that shelf in that specific wine shop. With just a 5% pass rate, the top wine test has snarled the dreams of all but 267 people who are able to call themselves a true Master. In 2012, Ian Cauble passed the wine world’s version of astronaut training to become one of only a few Master Sommeliers in the world. Why is wine the go-to dinner party gift? Most people start by working in restaurants for a very long time—a lot of them for more than 10 years by the time they pass the Master Sommelier exam. It’s a very easy gift and there's usually a great story behind it. I would say most wine is not designed to age.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/10/icebreakers-withmaster-sommelier-ian-cauble</link>
+  <author>Matty Merritt</author>
+  <categories>qanda</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/icebreakers-withmaster-sommelier-ian-cauble</guid>
+  <pubDate>Fri, 10 Sep 2021 14:02:04 -0700</pubDate>
+ </item>
  <item>
   <title>Your 2021–2022 NFL Season Preview </title>
   <description>&lt;img src='https://media.giphy.com/media/C0D9AFGOus9TIRA6CF/giphy-downsized-large.gif?cid=ecf05e47o9fiqx2hu7lucilk7fyn6cip6ldblftum4720n2k&amp;rid=giphy-downsized-large.gif&amp;ct=g'&gt;&lt;br/&gt;The new NFL season kicks off with a full slate of games today. During the offseason, the NFL struck deals with seven sportsbook operators, which, among other things, allows them to buy commercial spots during NFL games for the first time ever. This season, Amazon Prime Video will share the rights with NFL Network and Fox for Thursday Night Football (TNF), but come 2022 you’ll be all Andy Jassy’s: Amazon will be the exclusive “broadcaster” for TNF for the next 10 years. More streamingAs part of the NFL’s new gargantuan media rights deal reportedly worth over $100 billion, streaming will play a bigger role. Gambling companies will make more money, football players will make more money, and the NFL itself certainly stands to gain from an extra slot for advertising, ticket sales, merchandise, and more.</description>
@@ -361,15 +370,6 @@
   <categories>finance</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/07/death-life-nycs-financial-district</guid>
   <pubDate>Tue, 07 Sep 2021 14:31:59 -0700</pubDate>
- </item>
- <item>
-  <title>Study Shows Automated Résumé Scanner Mistakenly Rejects Millions of Viable Job Candidates</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3645%2Fjob_illustration.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Some of those keywords might not seem obvious. While there are 10 million job openings in the US that employers desperately want to fill, automated hiring systems are excluding viable candidates.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/06/study-shows-automated-rsum-scanner-mistakenly-rejects-millions-viable-job-candidates?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>jobs</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/06/study-shows-automated-rsum-scanner-mistakenly-rejects-millions-viable-job-candidates?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 07 Sep 2021 03:02:02 -0700</pubDate>
  </item>
 
 </channel>
