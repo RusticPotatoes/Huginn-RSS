@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/09/11/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/09/11/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/09/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/09/12/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/09/11</link>
- <lastBuildDate>Sat, 11 Sep 2021 03:05:05 -0700</lastBuildDate>
- <pubDate>Sat, 11 Sep 2021 03:05:05 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/09/12</link>
+ <lastBuildDate>Sun, 12 Sep 2021 17:23:33 -0700</lastBuildDate>
+ <pubDate>Sun, 12 Sep 2021 17:23:33 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Kriss Kross: NFL Helmets</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F5827%2Fnfl_logo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/12/kriss-kross-nfl-helmets</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/kriss-kross-nfl-helmets</guid>
+  <pubDate>Sun, 12 Sep 2021 17:23:27 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: September 13</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7373%2Fone_world_trade_center.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Craftsmanship Quarterly) Read: Eco-fashion's animal right delusion. Bush explicitly linked the 9/11 terrorists with the Americans who attacked the Capitol building on Jan. 6.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/12/key-performance-indicators-september-13</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/key-performance-indicators-september-13</guid>
+  <pubDate>Sun, 12 Sep 2021 17:23:27 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Week Ahead: September 13</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7314%2Fapple_invite_for_its_hardware_event.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;California recall: CA Governor Gavin Newsom faces a high-stakes recall election on Tuesday. New iPhones: Tomorrow, Apple will hold its fall hardware event, where it’s expected to introduce the iPhone 13, new Apple Watches and AirPods, and more.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/12/week-ahead-september-13</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/week-ahead-september-13</guid>
+  <pubDate>Sun, 12 Sep 2021 17:23:27 -0700</pubDate>
+ </item>
+ <item>
+  <title>Remote Workers Get Siloed at their Companies, Microsoft Study Shows</title>
+  <description>&lt;img src='https://media.giphy.com/media/VfyC5j7sR4cso/giphy.gif?cid=ecf05e47gtcpthsfh4aq9fwovvf9h6lojrs4mvedi2e1ahzi&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;  Zoom out: The research was published as most of the country’s biggest tech companies push off a return to the office in light of the Delta variant.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/12/remote-workers-get-siloed-companies-microsoft-study-shows</link>
+  <author>Neal Freyman</author>
+  <categories>work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/remote-workers-get-siloed-companies-microsoft-study-shows</guid>
+  <pubDate>Sun, 12 Sep 2021 17:23:27 -0700</pubDate>
+ </item>
+ <item>
+  <title>Norway Heads to the Polls in Pivotal Election for the Environment</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7371%2Foslo_norway.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; But unlike in the US, smaller political parties in Norway hold major sway.   And how those groups, which advocate for a more immediate break from fossil fuels, fare in the election will ultimately decide how quickly Norway severs ties to an industry that made it so rich.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/12/norway-heads-polls-pivotal-election-environment</link>
+  <author>Neal Freyman</author>
+  <categories>environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/norway-heads-polls-pivotal-election-environment</guid>
+  <pubDate>Sun, 12 Sep 2021 17:23:27 -0700</pubDate>
+ </item>
+ <item>
+  <title>Biden Expands Production of At-Home Covid Tests, Where the US Is Behind</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7372%2Fabbot_s_at-home_covid_test.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: Michael Mina, a Harvard epidemiologist who’s been arguing for more at-home tests since last year, said Biden’s plan was a “good start,” but by the numbers it still represents less than one test per American over the course of a year.  Even India, which has fewer resources than the US, is selling rapid tests for $3.50.  Problem is, in the US over-the-counter rapid tests are expensive and scarce.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/12/biden-expands-production-athome-covid-tests-us-behind</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/biden-expands-production-athome-covid-tests-us-behind</guid>
+  <pubDate>Sun, 12 Sep 2021 17:23:27 -0700</pubDate>
+ </item>
  <item>
   <title>9/11 Reads, Watches, and Listens</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7364%2Fnew_york_city_skyline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Bloomberg)The man in the red bandana. (NPR)Prominent Muslim Americans reflect on the past 20 years.  — NF</description>
@@ -316,60 +370,6 @@
   <categories>entertainment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/examining-pop-culture-legacy-september-11-attacks</guid>
   <pubDate>Wed, 08 Sep 2021 14:46:55 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 9</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7332%2Foatly_s_super_bowl_commercial.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(New Yorker) Read: In the Afghan countryside, the endless killing of civilians turned women against the occupiers who claimed to be helping them.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/08/key-performance-indicators-september-9</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/key-performance-indicators-september-9</guid>
-  <pubDate>Wed, 08 Sep 2021 14:41:54 -0700</pubDate>
- </item>
- <item>
-  <title>Your employees' mental health care starts with your own</title>
-  <description>&lt;img src='https://media.giphy.com/media/mHwiw1aa0ztS6clQGy/giphy.gif?cid=790b761173866b309d7508c4d9912daf31a6174c564adcbd&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;“Take time off,” Hartless said.  With burnout on the rise, Hartless said it’s essential that companies give workers the ability to create boundaries. Make room beyond Zoom According to July’s Mental Health Index: US Worker Edition, which synthesized random survey results of 500 workers, the risk of generalized anxiety among US workers has risen 94% since July and 98% since the beginning of the pandemic. To combat that sense of unrelenting work, she said it’s important to let workers know that they can switch their cameras off during video calls, and take time off to tend to their own mental health. At Mitel, the company created a “Wellness Village,” crammed with employee resources, such as webinars where workers can vent about their struggles during the pandemic.  Hartless said her company has implored its leaders to “open the door” by addressing mental health; in one example, she recalled an executive who talked about his long battle with mental health for a group of employees. HR’s function as an emotional sounding board for employees has only intensified during the pandemic, despite the fact that HR professionals are also suffering.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/08/employees-mental-health-care-starts</link>
-  <author>Sam Blum</author>
-  <categories>mental health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/employees-mental-health-care-starts</guid>
-  <pubDate>Wed, 08 Sep 2021 08:36:56 -0700</pubDate>
- </item>
- <item>
-  <title>The Death and Life of NYC’s Financial District</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7307%2Fnyc_s_financial_district.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; In the years after the attacks, many banks left the neighborhood, primarily for Midtown. Watch any episode of Billions or Succession and you’re bound to see multiple tracking shots of lower Manhattan, showcasing the district as a global hub for finance. – NF  Looking ahead... The neighborhood’s residential population has more than doubled since 2000, according to a WSJ analysis. Plus, more people made FiDi their actual home.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/07/death-life-nycs-financial-district?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/07/death-life-nycs-financial-district?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 08 Sep 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 8</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7309%2Fwoman_walks_on_a_college_campus.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Women accounted for a record 59.5% of college students at the end of the 2020–2021 school year, while men made up just 40.5%. (The Guardian)  Read: The disastrous voyage of Satoshi, the world’s first cryptocurrency cruise ship.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/07/key-performance-indicators-september-8?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/07/key-performance-indicators-september-8?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 08 Sep 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Ford Poaches Senior Executive, Doug Field, from Apple's Car Project</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3662%2Fford_bronco_goats.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;And now for some news Apple definitely won’t send any invites over: Ford has poached the executive who led Apple’s secretive car project to become its own “chief advanced technology and embedded systems officer.” — NF</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/08/ford-poaches-senior-executive-doug-field-apples-car-project?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/08/ford-poaches-senior-executive-doug-field-apples-car-project?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 08 Sep 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>New Apple iPhones to be Announced Next Week</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7314%2Fapple_invite_for_its_hardware_event.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Apple could also use the event to announce new AirPods, Apple Watches, and streaming content or devices for Apple TV+. Yesterday, the company sent out invites for its annual (and still virtual) launch event where it’ll announce new products. – JW</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/07/new-apple-iphones-announced-next-week?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/07/new-apple-iphones-announced-next-week?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 08 Sep 2021 03:02:03 -0700</pubDate>
  </item>
 
 </channel>
