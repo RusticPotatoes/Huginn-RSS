@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/09/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/09/13/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/09/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/09/14/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/09/13</link>
- <lastBuildDate>Mon, 13 Sep 2021 18:13:59 -0700</lastBuildDate>
- <pubDate>Mon, 13 Sep 2021 18:13:59 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/09/14</link>
+ <lastBuildDate>Tue, 14 Sep 2021 03:04:04 -0700</lastBuildDate>
+ <pubDate>Tue, 14 Sep 2021 03:04:04 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Colossal Raises $15 Million to Repopulate Siberia With Woolly Mammoths</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7380%2Fcolossal_founders_compressed.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A new company called Colossal intends to re-create and re-introduce the extinct woolly mammoth to the Siberian tundra. – NF But it’ll have to navigate an ethical minefield to get there. Looking ahead... OK, but why?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/13/colossal-raises-15-million-repopulate-siberia-woolly-mammoths?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>biotech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/13/colossal-raises-15-million-repopulate-siberia-woolly-mammoths?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 14 Sep 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: September 14</title>
+  <description>&lt;img src='https://media.giphy.com/media/Y1M2JOQ7W79q5YhTp5/giphy.gif?cid=ecf05e47sgvejfxijlasa5y1a2fb8dli44tjmc3hhse0q9bw&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;Stat: Jason Sudeikis will make nearly $1 million per episode for season 3 of Ted Lasso, according to the Hollywood Reporter. (WSJ)</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/13/key-performance-indicators-september-14?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/13/key-performance-indicators-september-14?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 14 Sep 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>What to Know about California's Recall Election</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7398%2Fvice_president_kamala_har.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Here's where things stand right now:The latest polls compiled by FiveThirtyEight show Newsom with a sizeable lead. California, the most populous state in the US and the fifth-largest economy in the world, will decide today whether Democratic Gov. Gavin Newsom should remain in office. – SQ But few have prompted an election and only six officials have actually been recalled.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/13/know-californias-recall-election?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>politics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/13/know-californias-recall-election?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 14 Sep 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Walmart’s Crypto Partnership Is Lite on Truth</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7397%2Fmeme_for_walmart-litecoin_hoax.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Intrado, the company that operates GlobeNewswire, said it is looking into how the fake release, which even included a made-up quote from Walmart’s CEO, got through its filters. – NF Everyone went into clean-up mode: Litecoin’s creator said its social media manager was “wrong to retweet” the announcement.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/13/walmarts-crypto-partnership-lite-truth?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/13/walmarts-crypto-partnership-lite-truth?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 14 Sep 2021 03:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>House Democrats Propose $2.9 Trillion in Tax Increases</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7399%2Ftax_hike.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;This tax proposal is seen as an olive branch to moderate Democrats who don’t want to play the villain to business. On the spicy scale, this plan is mildWhile it reverses many of the Republican tax cuts for 2018, the plan stops short of the ambitious tax hikes President Biden first proposed. Americans who earn more than $435,000 per year would see their top tax rate increase from 37% to 39.6%. House Democrats are all of us before wedding season as they scramble to cover the bill for their pricey $3.5 trillion budget proposal. – MM</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/13/house-democrats-propose-29-trillion-tax-increases?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>government</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/13/house-democrats-propose-29-trillion-tax-increases?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 14 Sep 2021 03:02:02 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: September 14</title>
   <description>&lt;img src='https://media.giphy.com/media/Y1M2JOQ7W79q5YhTp5/giphy.gif?cid=ecf05e47sgvejfxijlasa5y1a2fb8dli44tjmc3hhse0q9bw&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;Stat: Jason Sudeikis will make nearly $1 million per episode for season 3 of Ted Lasso, according to the Hollywood Reporter. (WSJ)</description>
@@ -325,51 +370,6 @@
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/09/facebook-launches-smart-glasses-rayban?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Fri, 10 Sep 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Biden’s New Vaccine Mandate Could Affect 80 Million US Workers</title>
-  <description>&lt;img src='https://media.giphy.com/media/ej1Ajh2zU2ER5YiMdD/giphy.gif'&gt;&lt;br/&gt;The president announced yesterday that all businesses with 100 or more workers will need to mandate vaccines or administer weekly tests for employees, potentially affecting 80 million US workers. And Biden’s not just taking aim at the private sector—all federal workers will need to get vaccinated within 75 days or face losing their jobs. Almost 30,000 children were hospitalized with Covid in August, the most ever reported to date, according to government health data. The government has tried everything else to convince more Americans to get vaccinated, and it hasn't worked."</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/09/bidens-new-vaccine-mandate-affect-80-million-us-workers?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/09/bidens-new-vaccine-mandate-affect-80-million-us-workers?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Fri, 10 Sep 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Biden’s New Vaccine Mandate Could Affect 80 Million US Workers</title>
-  <description>&lt;img src='https://media.giphy.com/media/ej1Ajh2zU2ER5YiMdD/giphy.gif'&gt;&lt;br/&gt;Biden announced yesterday that all businesses with 101+ workers will need to mandate vaccines or administer weekly tests for employees, potentially affecting 80 million US workers. And Biden’s not just taking aim at the private sector—all federal workers will need to get vaccinated within 75 days or face losing their jobs.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/09/bidens-new-vaccine-mandate-affect-80-million-us-workers</link>
-  <author>Matty Merritt</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/09/bidens-new-vaccine-mandate-affect-80-million-us-workers</guid>
-  <pubDate>Thu, 09 Sep 2021 15:22:08 -0700</pubDate>
- </item>
- <item>
-  <title>It's Electric: The Stock Market After 9/11</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7345%2Fnew_york_stock_exchange_o.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The attacks on NYC’s World Trade Center struck the US financial industry’s central nervous system, where only blocks away from the towers thousands of traders bought and sold stocks at the New York Stock Exchange. For the final installment in the series, we’re going back to our roots and discussing 9/11’s impact on the stock market. Leading up to the anniversary of the September 11 attacks this Saturday, we’ll feature stories that explore the economic impact of 9/11, 20 years later.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/09/electric-stock-market-911</link>
-  <author>Neal Freyman</author>
-  <categories>markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/09/electric-stock-market-911</guid>
-  <pubDate>Thu, 09 Sep 2021 14:47:01 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 10</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F4285%2Fpiggy_banks.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Quote: “I want a labor market so tight that you don’t even have to cover up your tattoos to get a job. (Aeon)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/09/key-performance-indicators-september-10</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/09/key-performance-indicators-september-10</guid>
-  <pubDate>Thu, 09 Sep 2021 14:47:01 -0700</pubDate>
- </item>
- <item>
-  <title>Facebook Launches Smart Glasses With Ray-Ban</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7346%2Ffacebook_s_ray-ban_smart_glasses.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;With the glasses, you can... For these smart glasses to gain traction, Facebook will have to convince consumers that they’re not unwitting characters in an episode of Black Mirror.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/09/facebook-launches-smart-glasses-rayban</link>
-  <author>Neal Freyman</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/09/facebook-launches-smart-glasses-rayban</guid>
-  <pubDate>Thu, 09 Sep 2021 14:47:01 -0700</pubDate>
  </item>
 
 </channel>
