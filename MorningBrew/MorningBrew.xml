@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/15</link>
- <lastBuildDate>Wed, 15 Sep 2021 15:33:51 -0700</lastBuildDate>
- <pubDate>Wed, 15 Sep 2021 15:33:51 -0700</pubDate>
+ <lastBuildDate>Wed, 15 Sep 2021 15:38:50 -0700</lastBuildDate>
+ <pubDate>Wed, 15 Sep 2021 15:38:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Microsoft Goes Completely Passwordless</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7429%2Fmicrosoft_fingerprint_logo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; It’s much harder to steal a user’s fingerprint or a code sent directly to their phone. —MM Bottom line: Microsoft said that the rapid shift to digital during the pandemic accelerated its timeline for the rollout.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/15/microsoft-goes-completely-passwordless</link>
+  <author>Matty Merritt</author>
+  <categories>cybersecurity</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/microsoft-goes-completely-passwordless</guid>
+  <pubDate>Wed, 15 Sep 2021 15:36:50 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: September 16</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7423%2Fyellowstone_sees_record_n.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;More people visited the park last month—921,844—than in any August on record, park officials said. (Julia Hobsbawm on Twitter) Watch: An excellent back-to-office video.</description>
@@ -361,15 +370,6 @@
   <categories>antitrust</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/epic-games-wins-lawsuit-apple?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Sat, 11 Sep 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 11</title>
-  <description>&lt;img src='https://media.giphy.com/media/pReb5Koy6JmihUYBLx/giphy.gif?cid=ecf05e47vwelbjzzgl10tdxtbdrrdy99t3ndw5me8hndyej8&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;Watch: The tale of Tiffany (CGP Grey on YouTube)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/10/key-performance-indicators-september-11</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/key-performance-indicators-september-11</guid>
-  <pubDate>Fri, 10 Sep 2021 14:32:02 -0700</pubDate>
  </item>
 
 </channel>
