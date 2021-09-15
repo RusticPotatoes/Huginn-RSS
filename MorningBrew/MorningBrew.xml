@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/09/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/09/14/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/09/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/09/15/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/09/14</link>
- <lastBuildDate>Tue, 14 Sep 2021 19:23:29 -0700</lastBuildDate>
- <pubDate>Tue, 14 Sep 2021 19:23:29 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/09/15</link>
+ <lastBuildDate>Wed, 15 Sep 2021 03:03:25 -0700</lastBuildDate>
+ <pubDate>Wed, 15 Sep 2021 03:03:25 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Amazon Will Hire a Hartford, CT</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3253%2Famazon_fulfillment_center.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Amazon said it will add 125,000 delivery and warehouse workers in the US ahead of the busy holiday shopping season. Pretty soon, everyone will be an Amazon employee. Well, Amazon plans to open 100 new logistics facilities this month alone. – NF</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/14/amazon-will-hire-hartford-ct?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>e commerce</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/14/amazon-will-hire-hartford-ct?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 15 Sep 2021 03:01:22 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: September 15</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7411%2Fa_smog-covered_earth.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Quote: “Starting with boosters, especially giving it to healthy populations, is really not right.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/14/key-performance-indicators-september-15?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/14/key-performance-indicators-september-15?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 15 Sep 2021 03:01:22 -0700</pubDate>
+ </item>
+ <item>
+  <title>Facebook Knows Instagram is Toxic to Teens, Leaked Documents Reveal</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7413%2Finstagram.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;“People talk about Instagram like it’s a drug.  Leaked documents reviewed by WSJ show that, despite knowing the harmful impacts of Instagram on teens, Facebook has taken few actions to make it less toxic and protect its most vulnerable users.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/14/facebook-knows-instagram-toxic-teens-leaked-documents-reveal?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/14/facebook-knows-instagram-toxic-teens-leaked-documents-reveal?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 15 Sep 2021 03:01:22 -0700</pubDate>
+ </item>
+ <item>
+  <title>Apple Decides 2021 Isn’t a Year to Take Risks</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7409%2Fclark_kent_iphone_meme.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Apple’s event comes just days after a judge forced the company to make the biggest change to the App Store since it was created in 2008. But besides a larger battery, a faster chip, and a smaller “notch” at the top of the screen, users won’t find that much difference between the new model and the iPhone 12.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/14/apple-decides-2021-isnt-year-take-risks?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/14/apple-decides-2021-isnt-year-take-risks?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 15 Sep 2021 03:01:21 -0700</pubDate>
+ </item>
+ <item>
+  <title>SpaceX’s All-Civilian Crew Prepares for Liftoff</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7412%2Finspiration4_civilian_astronauts.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Why it matters: This mission, SpaceX’s Inspiration4, is far more ambitious and technically difficult than the other billionaires’ space flights this summer. Zoom out: Through its Commercial Crew Program, NASA invested billions in both Boeing and SpaceX to get commercial space flight off the ground. Who’s joining him:Hayley Arceneaux, a cancer survivor and physician assistant at St. Jude, will become the youngest person ever to go to space at 29, and the first with a prosthetic body part.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/14/spacexs-allcivilian-crew-prepares-liftoff?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/14/spacexs-allcivilian-crew-prepares-liftoff?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Wed, 15 Sep 2021 03:01:21 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: September 15</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7411%2Fa_smog-covered_earth.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Quote: “Starting with boosters, especially giving it to healthy populations, is really not right.”</description>
@@ -325,51 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/covid-affecting-campus-life</guid>
   <pubDate>Fri, 10 Sep 2021 14:17:07 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers with...Master Sommelier Ian Cauble</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7288%2Fian_cauble.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;But most people don't have that bottle of wine you found on that shelf in that specific wine shop. With just a 5% pass rate, the top wine test has snarled the dreams of all but 267 people who are able to call themselves a true Master. In 2012, Ian Cauble passed the wine world’s version of astronaut training to become one of only a few Master Sommeliers in the world. Why is wine the go-to dinner party gift? Most people start by working in restaurants for a very long time—a lot of them for more than 10 years by the time they pass the Master Sommelier exam. It’s a very easy gift and there's usually a great story behind it. I would say most wine is not designed to age.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/10/icebreakers-withmaster-sommelier-ian-cauble</link>
-  <author>Matty Merritt</author>
-  <categories>qanda</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/icebreakers-withmaster-sommelier-ian-cauble</guid>
-  <pubDate>Fri, 10 Sep 2021 14:02:04 -0700</pubDate>
- </item>
- <item>
-  <title>Your 2021–2022 NFL Season Preview </title>
-  <description>&lt;img src='https://media.giphy.com/media/C0D9AFGOus9TIRA6CF/giphy-downsized-large.gif?cid=ecf05e47o9fiqx2hu7lucilk7fyn6cip6ldblftum4720n2k&amp;rid=giphy-downsized-large.gif&amp;ct=g'&gt;&lt;br/&gt;The new NFL season kicks off with a full slate of games today. During the offseason, the NFL struck deals with seven sportsbook operators, which, among other things, allows them to buy commercial spots during NFL games for the first time ever. This season, Amazon Prime Video will share the rights with NFL Network and Fox for Thursday Night Football (TNF), but come 2022 you’ll be all Andy Jassy’s: Amazon will be the exclusive “broadcaster” for TNF for the next 10 years. More streamingAs part of the NFL’s new gargantuan media rights deal reportedly worth over $100 billion, streaming will play a bigger role. Gambling companies will make more money, football players will make more money, and the NFL itself certainly stands to gain from an extra slot for advertising, ticket sales, merchandise, and more.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/10/20212022-nfl-season-preview</link>
-  <author>Neal Freyman</author>
-  <categories>analysis</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/20212022-nfl-season-preview</guid>
-  <pubDate>Fri, 10 Sep 2021 13:47:06 -0700</pubDate>
- </item>
- <item>
-  <title>The economic impact of 9/11, 20 years later</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7363%2Fusa_-_new_york_city_-_wor.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The Stock Market After 9/11Because of the digitization of trading, experts worry that a major cyberattack on Wall Street could be equally—if not more—devastating than September 11, 2001. The Death and Life of NYC’s Financial DistrictIn the years since September 11, 2001 many banks left the neighborhood, primarily for Midtown.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/10/economic-impact-911-20-years-later</link>
-  <author>Gaetane Lewis</author>
-  <categories>september 11</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/economic-impact-911-20-years-later</guid>
-  <pubDate>Fri, 10 Sep 2021 13:32:01 -0700</pubDate>
- </item>
- <item>
-  <title>9/11 Reads, Watches, and Listens</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7364%2Fnew_york_city_skyline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Bloomberg)The man in the red bandana. (Esquire)Children of those killed on 9/11 are following their parents into finance—some at the same investment firms.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/10/911-reads-watches-listens</link>
-  <author>Neal Freyman</author>
-  <categories>september 11</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/911-reads-watches-listens</guid>
-  <pubDate>Fri, 10 Sep 2021 13:02:07 -0700</pubDate>
- </item>
- <item>
-  <title>Stock Watch: September 12</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7359%2Fstock_watch_september_12.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/10/stock-watch-september-12</link>
-  <author>Neal Freyman</author>
-  <categories>culture</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/stock-watch-september-12</guid>
-  <pubDate>Fri, 10 Sep 2021 09:17:09 -0700</pubDate>
  </item>
 
 </channel>
