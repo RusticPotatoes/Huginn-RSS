@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/16</link>
- <lastBuildDate>Thu, 16 Sep 2021 03:03:47 -0700</lastBuildDate>
- <pubDate>Thu, 16 Sep 2021 03:03:47 -0700</pubDate>
+ <lastBuildDate>Thu, 16 Sep 2021 14:39:10 -0700</lastBuildDate>
+ <pubDate>Thu, 16 Sep 2021 14:39:10 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>“Tax the Rich” Echoes 10 Years After Occupy Wall Street</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7440%2Foccupy_wall_street_marche.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Occupy’s legacyPeople disagree about the long-term impact of Occupy Wall Street, with some calling it a flop and others arguing that it laid the groundwork for other progressive social and political movements.    On September 17, 2011, Occupy Wall Street began. —NF “I think if you look at the last 10 years, activism has not worked,” he said.  In 2011, Time magazine named “The Protestor” as its Person of the Year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/16/tax-rich-echoes-10-years-occupy-wall-street</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/16/tax-rich-echoes-10-years-occupy-wall-street</guid>
+  <pubDate>Thu, 16 Sep 2021 14:37:10 -0700</pubDate>
+ </item>
  <item>
   <title>Microsoft Goes Completely Passwordless</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7429%2Fmicrosoft_fingerprint_logo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; It’s much harder to swipe a user’s fingerprint or a code sent directly to their phone. —MM Bottom line: Microsoft said that the rapid shift to digital during the pandemic accelerated its timeline for the rollout.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/week-ahead-september-13</guid>
-  <pubDate>Sun, 12 Sep 2021 17:23:27 -0700</pubDate>
- </item>
- <item>
-  <title>Remote Workers Get Siloed at their Companies, Microsoft Study Shows</title>
-  <description>&lt;img src='https://media.giphy.com/media/VfyC5j7sR4cso/giphy.gif?cid=ecf05e47gtcpthsfh4aq9fwovvf9h6lojrs4mvedi2e1ahzi&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;  Zoom out: The research was published as most of the country’s biggest tech companies push off a return to the office in light of the Delta variant.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/12/remote-workers-get-siloed-companies-microsoft-study-shows</link>
-  <author>Neal Freyman</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/remote-workers-get-siloed-companies-microsoft-study-shows</guid>
   <pubDate>Sun, 12 Sep 2021 17:23:27 -0700</pubDate>
  </item>
 
