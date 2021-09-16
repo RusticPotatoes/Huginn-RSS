@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/16</link>
- <lastBuildDate>Thu, 16 Sep 2021 14:49:13 -0700</lastBuildDate>
- <pubDate>Thu, 16 Sep 2021 14:49:13 -0700</pubDate>
+ <lastBuildDate>Thu, 16 Sep 2021 14:53:11 -0700</lastBuildDate>
+ <pubDate>Thu, 16 Sep 2021 14:53:11 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: September 17</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7441%2Flucid_motors_car.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s more than 100 miles longer than Tesla’s Model S Long Range Plus. (Undark) Some social media users were puzzled by Mosseri’s analogy, pointing out that the auto industry is heavily regulated, unlike social media. And I think social media is similar.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/16/key-performance-indicators-september-17</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/16/key-performance-indicators-september-17</guid>
+  <pubDate>Thu, 16 Sep 2021 14:51:11 -0700</pubDate>
+ </item>
  <item>
   <title>France Calls US-Australia-UK Submarine Deal “A Stab in the Back”</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7443%2Fangry_croissant.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Why France is furious: Australia had signed a contract with a French shipbuilder in 2016 to build nonnuclear submarines, but this week decided to ditch France in order to get its hands on more advanced, nuclear-powered ones.</description>
@@ -361,15 +370,6 @@
   <categories>covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/biden-expands-production-athome-covid-tests-us-behind?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 13 Sep 2021 03:01:35 -0700</pubDate>
- </item>
- <item>
-  <title>Kriss Kross: NFL Helmets</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F5827%2Fnfl_logo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/12/kriss-kross-nfl-helmets</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/kriss-kross-nfl-helmets</guid>
-  <pubDate>Sun, 12 Sep 2021 17:23:27 -0700</pubDate>
  </item>
 
 </channel>
