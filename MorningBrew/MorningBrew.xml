@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/09/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/09/15/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/09/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/09/16/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/09/15</link>
- <lastBuildDate>Wed, 15 Sep 2021 15:43:49 -0700</lastBuildDate>
- <pubDate>Wed, 15 Sep 2021 15:43:49 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/09/16</link>
+ <lastBuildDate>Thu, 16 Sep 2021 03:03:47 -0700</lastBuildDate>
+ <pubDate>Thu, 16 Sep 2021 03:03:47 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Microsoft Goes Completely Passwordless</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7429%2Fmicrosoft_fingerprint_logo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; It’s much harder to swipe a user’s fingerprint or a code sent directly to their phone. —MM Bottom line: Microsoft said that the rapid shift to digital during the pandemic accelerated its timeline for the rollout.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/15/microsoft-goes-completely-passwordless?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>cybersecurity</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/microsoft-goes-completely-passwordless?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 16 Sep 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: September 16</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7423%2Fyellowstone_sees_record_n.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;More people visited the park last month—921,844—than in any August on record, park officials said. (Julia Hobsbawm on Twitter) Watch: An excellent back-to-office video.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/15/key-performance-indicators-september-16?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/key-performance-indicators-september-16?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 16 Sep 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>Canva Becomes the Fifth-Most Valuable Private Startup in the World</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7430%2Fcanva_page.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;—MM Canva will use the new funding to double its 2,000-person staff over the next year and expand into web design and video editing tools.  Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/15/canva-becomes-fifthmost-valuable-private-startup-world?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>startups</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/canva-becomes-fifthmost-valuable-private-startup-world?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 16 Sep 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>Casino Stocks Plunge Over Fears of a Crackdown on Macau</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7424%2Fmacau_s_booming_gaming_in.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; US casino stocks with exposure to Macau, such as Wynn, also tumbled yesterday. —NF Macau’s casinos rake in around $37 billion in annual revenue, roughly 5x more than the Vegas Strip. Zoom out: Macau is to Las Vegas as Las Vegas is to Atlantic City. less gambling.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/15/casino-stocks-plunge-fears-crackdown-macau?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>gambling</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/casino-stocks-plunge-fears-crackdown-macau?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 16 Sep 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>Food Delivery Apps Are Suing NYC and Other Cities</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7428%2Fflorida_miami_restauran.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;What delivery apps like DoorDash are angry about is that leaders in NYC and SF traced over their commission cap laws in Sharpie even after restaurants reopened. The other lawsuit, which saw DoorDash, GrubHub, and Uber Eats join forces, concerns commission caps, or the percentage of a food order’s total that delivery apps can charge restaurants for their services.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/15/food-delivery-apps-suing-nyc-cities?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>delivery</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/food-delivery-apps-suing-nyc-cities?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Thu, 16 Sep 2021 03:01:46 -0700</pubDate>
+ </item>
  <item>
   <title>Canva Becomes the Fifth-Most Valuable Private Startup in the World</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7430%2Fcanva_page.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;—MM Canva will use the new funding to double its 2,000-person staff over the next year and expand into web design and video editing tools.  Looking ahead...</description>
@@ -325,51 +370,6 @@
   <categories>work</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/remote-workers-get-siloed-companies-microsoft-study-shows</guid>
   <pubDate>Sun, 12 Sep 2021 17:23:27 -0700</pubDate>
- </item>
- <item>
-  <title>Norway Heads to the Polls in Pivotal Election for the Environment</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7371%2Foslo_norway.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; But unlike in the US, smaller political parties in Norway hold major sway.   And how those groups, which advocate for a more immediate break from fossil fuels, fare in the election will ultimately decide how quickly Norway severs ties to an industry that made it so rich.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/12/norway-heads-polls-pivotal-election-environment</link>
-  <author>Neal Freyman</author>
-  <categories>environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/norway-heads-polls-pivotal-election-environment</guid>
-  <pubDate>Sun, 12 Sep 2021 17:23:27 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Expands Production of At-Home Covid Tests, Where the US Is Behind</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7372%2Fabbot_s_at-home_covid_test.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: Michael Mina, a Harvard epidemiologist who’s been arguing for more at-home tests since last year, said Biden’s plan was a “good start,” but by the numbers it still represents less than one test per American over the course of a year.  Even India, which has fewer resources than the US, is selling rapid tests for $3.50.  Problem is, in the US over-the-counter rapid tests are expensive and scarce.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/12/biden-expands-production-athome-covid-tests-us-behind</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/biden-expands-production-athome-covid-tests-us-behind</guid>
-  <pubDate>Sun, 12 Sep 2021 17:23:27 -0700</pubDate>
- </item>
- <item>
-  <title>9/11 Reads, Watches, and Listens</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7364%2Fnew_york_city_skyline.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Bloomberg)The man in the red bandana. (NPR)Prominent Muslim Americans reflect on the past 20 years.  — NF</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/10/911-reads-watches-listens?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>september 11</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/911-reads-watches-listens?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 11 Sep 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 11</title>
-  <description>&lt;img src='https://media.giphy.com/media/pReb5Koy6JmihUYBLx/giphy.gif?cid=ecf05e47vwelbjzzgl10tdxtbdrrdy99t3ndw5me8hndyej8&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;(CGP Grey on YouTube) Watch: The tale of Tiffany.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/10/key-performance-indicators-september-11?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/key-performance-indicators-september-11?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 11 Sep 2021 03:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Harvard Ends Its Investments in Fossil Fuel Industry</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F179%2Fharvard_university.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;In a W for environmental activists, the richest university in the country said yesterday that it will no longer directly invest in fossil fuels.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/10/harvard-ends-investments-fossil-fuel-industry?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/10/harvard-ends-investments-fossil-fuel-industry?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Sat, 11 Sep 2021 03:02:03 -0700</pubDate>
  </item>
 
 </channel>
