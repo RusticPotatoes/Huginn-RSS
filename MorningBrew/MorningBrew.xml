@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/17</link>
- <lastBuildDate>Fri, 17 Sep 2021 15:03:40 -0700</lastBuildDate>
- <pubDate>Fri, 17 Sep 2021 15:03:40 -0700</pubDate>
+ <lastBuildDate>Fri, 17 Sep 2021 15:08:39 -0700</lastBuildDate>
+ <pubDate>Fri, 17 Sep 2021 15:08:39 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Supply Chain Snags Cause Major Port Congestion</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7469%2Ftopshot-us-transport-econ.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The queue of container ships waiting to enter Los Angeles’s and Long Beach’s neighboring ports hit an all-time high of 65 vessels this past week, and they’ll wait an average of 8.7 days to deliver their cargo.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/17/supply-chain-snags-cause-major-port-congestion</link>
+  <author>Jamie Wilde</author>
+  <categories>supply chain</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/17/supply-chain-snags-cause-major-port-congestion</guid>
+  <pubDate>Fri, 17 Sep 2021 15:06:38 -0700</pubDate>
+ </item>
  <item>
   <title>Chinese Property Developer On the Brink of Default</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7468%2Fchina-economy-property-ev.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After news spread of the company’s mounting debt, investors showed up at the company’s Shenzhen headquarters late last week and this week demanding money they’re owed from the firm.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/13/key-performance-indicators-september-14?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 14 Sep 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>What to Know about California's Recall Election</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7398%2Fvice_president_kamala_har.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Here's where things stand right now:The latest polls compiled by FiveThirtyEight show Newsom with a sizeable lead. California, the most populous state in the US and the fifth-largest economy in the world, will decide today whether Democratic Gov. Gavin Newsom should remain in office. – SQ But few have prompted an election and only six officials have actually been recalled.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/13/know-californias-recall-election?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Sherry Qin</author>
-  <categories>politics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/13/know-californias-recall-election?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 14 Sep 2021 03:02:02 -0700</pubDate>
  </item>
 
