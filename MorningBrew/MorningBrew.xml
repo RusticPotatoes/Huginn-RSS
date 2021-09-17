@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/09/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/09/16/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/09/17/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/09/17/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/09/16</link>
- <lastBuildDate>Thu, 16 Sep 2021 14:53:11 -0700</lastBuildDate>
- <pubDate>Thu, 16 Sep 2021 14:53:11 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/09/17</link>
+ <lastBuildDate>Fri, 17 Sep 2021 09:03:26 -0700</lastBuildDate>
+ <pubDate>Fri, 17 Sep 2021 09:03:26 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: September 17</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7441%2Flucid_motors_car.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s more than 100 miles longer than Tesla’s Model S Long Range Plus. (Undark) Some social media users were puzzled by Mosseri’s analogy, pointing out that the auto industry is heavily regulated, unlike social media. And I think social media is similar.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/16/key-performance-indicators-september-17?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/16/key-performance-indicators-september-17?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 17 Sep 2021 09:01:35 -0700</pubDate>
+ </item>
+ <item>
+  <title>Federal Reserve Announces Ethics Investigation After Regional Bank Officials’ Trading</title>
+  <description>&lt;img src='https://media.giphy.com/media/qtCUIoD4lka7aWp2We/giphy.gif?cid=790b76110b261265fc0f9b271a5ed6837e52fcf801dad553&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;The Federal Reserve said yesterday that it’s breaking out the ol’ ethics guidelines to look into rules surrounding senior Fed officials' personal investments.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/16/federal-reserve-announces-ethics-investigation-regional-bank-officials-trading?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>investing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/16/federal-reserve-announces-ethics-investigation-regional-bank-officials-trading?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 17 Sep 2021 09:01:35 -0700</pubDate>
+ </item>
+ <item>
+  <title>France Calls US-Australia-UK Submarine Deal “A Stab in the Back”</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7443%2Fangry_croissant.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Why France is furious: Australia had signed a contract with a French shipbuilder in 2016 to build nonnuclear submarines, but this week decided to ditch France in order to get its hands on more advanced, nuclear-powered ones.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/16/france-calls-usaustraliauk-submarine-deal-stab-back?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>geopolitics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/16/france-calls-usaustraliauk-submarine-deal-stab-back?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 17 Sep 2021 09:01:34 -0700</pubDate>
+ </item>
+ <item>
+  <title>“Tax the Rich” Echoes 10 Years After Occupy Wall Street</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7440%2Foccupy_wall_street_marche.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Occupy’s legacyPeople disagree about the long-term impact of Occupy Wall Street, with some calling it a flop and others arguing that it laid the groundwork for other progressive social and political movements.    On September 17, 2011, Occupy Wall Street began. —NF “I think if you look at the last 10 years, activism has not worked,” he said.  In 2011, Time magazine named “The Protestor” as its Person of the Year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/16/tax-rich-echoes-10-years-occupy-wall-street?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/16/tax-rich-echoes-10-years-occupy-wall-street?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Fri, 17 Sep 2021 09:01:34 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: September 17</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7441%2Flucid_motors_car.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;That’s more than 100 miles longer than Tesla’s Model S Long Range Plus. (Undark) Some social media users were puzzled by Mosseri’s analogy, pointing out that the auto industry is heavily regulated, unlike social media. And I think social media is similar.”</description>
@@ -333,42 +369,6 @@
   <author>Neal Freyman</author>
   <categories>calendar</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/week-ahead-september-13?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 13 Sep 2021 03:01:35 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 13</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7375%2Ffreedom_tower.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Craftsmanship Quarterly) Read: Eco-fashion's animal rights delusion. Bush explicitly linked the 9/11 terrorists with the Americans who attacked the Capitol building on Jan. 6.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/12/key-performance-indicators-september-13?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/key-performance-indicators-september-13?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 13 Sep 2021 03:01:35 -0700</pubDate>
- </item>
- <item>
-  <title>Remote Workers Get Siloed at their Companies, Microsoft Study Shows</title>
-  <description>&lt;img src='https://media.giphy.com/media/VfyC5j7sR4cso/giphy.gif?cid=ecf05e47gtcpthsfh4aq9fwovvf9h6lojrs4mvedi2e1ahzi&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;  Zoom out: The research was published as most of the country’s biggest tech companies push off a return to the office in light of the Delta variant.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/12/remote-workers-get-siloed-companies-microsoft-study-shows?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/remote-workers-get-siloed-companies-microsoft-study-shows?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 13 Sep 2021 03:01:35 -0700</pubDate>
- </item>
- <item>
-  <title>Norway Heads to the Polls in Pivotal Election for the Environment</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7371%2Foslo_norway.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; But unlike in the US, smaller political parties in Norway hold major sway.   And how those groups, which advocate for a more immediate break from fossil fuels, fare in the election will ultimately decide how quickly Norway severs ties to an industry that made it so rich.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/12/norway-heads-polls-pivotal-election-environment?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/norway-heads-polls-pivotal-election-environment?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Mon, 13 Sep 2021 03:01:35 -0700</pubDate>
- </item>
- <item>
-  <title>Biden Expands Production of At-Home Covid Tests, Where the US Is Behind</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7372%2Fabbot_s_at-home_covid_test.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Zoom out: Michael Mina, a Harvard epidemiologist who’s been arguing for more at-home tests since last year, said Biden’s plan was a “good start,” but it still represents less than one test per American over the course of a year.  Even India, which has fewer resources than the US, is selling rapid tests for $3.50.  Problem is, in the US over-the-counter rapid tests are expensive and scarce.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/12/biden-expands-production-athome-covid-tests-us-behind?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/12/biden-expands-production-athome-covid-tests-us-behind?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Mon, 13 Sep 2021 03:01:35 -0700</pubDate>
  </item>
 
