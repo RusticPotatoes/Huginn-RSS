@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/17</link>
- <lastBuildDate>Fri, 17 Sep 2021 14:58:45 -0700</lastBuildDate>
- <pubDate>Fri, 17 Sep 2021 14:58:45 -0700</pubDate>
+ <lastBuildDate>Fri, 17 Sep 2021 15:03:40 -0700</lastBuildDate>
+ <pubDate>Fri, 17 Sep 2021 15:03:40 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Chinese Property Developer On the Brink of Default</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7468%2Fchina-economy-property-ev.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After news spread of the company’s mounting debt, investors showed up at the company’s Shenzhen headquarters late last week and this week demanding money they’re owed from the firm.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/17/chinese-property-developer-brink-default</link>
+  <author>Matty Merritt</author>
+  <categories>real estate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/17/chinese-property-developer-brink-default</guid>
+  <pubDate>Fri, 17 Sep 2021 15:01:39 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: September 18</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7445%2Fwhoop_s_message_on_a_circuit_board.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Ed Conway)  Read: Why we need to start thinking about concrete.</description>
@@ -360,15 +369,6 @@
   <author>Sherry Qin</author>
   <categories>politics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/13/know-californias-recall-election?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 14 Sep 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Walmart’s Crypto Partnership Is Lite on Truth</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7397%2Fmeme_for_walmart-litecoin_hoax.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Intrado, the company that operates GlobeNewswire, said it is looking into how the fake release, which even included a made-up quote from Walmart’s CEO, got through its filters. – NF Everyone went into clean-up mode: Litecoin’s creator said its social media manager was “wrong to retweet” the announcement.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/13/walmarts-crypto-partnership-lite-truth?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/13/walmarts-crypto-partnership-lite-truth?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Tue, 14 Sep 2021 03:02:02 -0700</pubDate>
  </item>
 
