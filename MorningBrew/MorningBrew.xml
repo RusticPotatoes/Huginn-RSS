@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/09/17/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/09/17/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/09/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/09/18/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/09/17</link>
- <lastBuildDate>Fri, 17 Sep 2021 15:08:39 -0700</lastBuildDate>
- <pubDate>Fri, 17 Sep 2021 15:08:39 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/09/18</link>
+ <lastBuildDate>Sat, 18 Sep 2021 03:03:46 -0700</lastBuildDate>
+ <pubDate>Sat, 18 Sep 2021 03:03:46 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Arc de Triomphe Gets Wrapped in Massive Art Undertaking</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7463%2Fthe_arc_de_triomphe_is_seen_wrapped_in_homage_to_late_artist_christo_in_paris_france.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Paris’s Arc de Triomphe has been transformed into an epic art installation inspired by Christo and Jeanne-Claude, now-deceased artists known for their larger-than-life pieces (like The Gates in NYC’s Central Park).</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/17/arc-de-triomphe-gets-wrapped-massive-art-undertaking?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>art</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/17/arc-de-triomphe-gets-wrapped-massive-art-undertaking?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 18 Sep 2021 03:01:46 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: September 18</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7445%2Fwhoop_s_message_on_a_circuit_board.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Ed Conway)  Read: Why we need to start thinking about concrete.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/17/key-performance-indicators-september-18?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/17/key-performance-indicators-september-18?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 18 Sep 2021 03:01:46 -0700</pubDate>
+ </item>
+ <item>
+  <title>Chinese Property Developer On the Brink of Default</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7468%2Fchina-economy-property-ev.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;After news spread of the company’s mounting debt, investors showed up at the company’s Shenzhen headquarters beginning late last week demanding money they’re owed from the firm.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/17/chinese-property-developer-brink-default?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>real estate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/17/chinese-property-developer-brink-default?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 18 Sep 2021 03:01:46 -0700</pubDate>
+ </item>
+ <item>
+  <title>Supply Chain Snags Cause Major Port Congestion</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7469%2Ftopshot-us-transport-econ.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The queue of container ships waiting to enter Los Angeles’s and Long Beach’s neighboring ports hit an all-time high of 65 vessels this past week, and they’ll wait an average of 8.7 days to deliver their cargo.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/17/supply-chain-snags-cause-major-port-congestion?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Jamie Wilde</author>
+  <categories>supply chain</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/17/supply-chain-snags-cause-major-port-congestion?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 18 Sep 2021 03:01:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>FDA Advisory Panel: Boomers Can Get Boosters</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7467%2Fvaccine_boosters.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;20, but some health experts (including two senior FDA officials) pushed back, saying there wasn’t enough data yet to show a third shot was necessary. That decision throws a wrench in the Biden administration’s plans to roll out boosters to US adults beginning next week.  Booster boosters also point to data from Israel, a country that has given booster shots to nearly 3 million people in the past several months. Other loud voices have urged the US to add a third shot to the standard vaccine regimen—voices like the vaccine makers themselves.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/17/fda-advisory-panel-boomers-can-get-boosters?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/17/fda-advisory-panel-boomers-can-get-boosters?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Sat, 18 Sep 2021 03:01:45 -0700</pubDate>
+ </item>
  <item>
   <title>Supply Chain Snags Cause Major Port Congestion</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7469%2Ftopshot-us-transport-econ.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The queue of container ships waiting to enter Los Angeles’s and Long Beach’s neighboring ports hit an all-time high of 65 vessels this past week, and they’ll wait an average of 8.7 days to deliver their cargo.</description>
@@ -325,51 +370,6 @@
   <categories>e commerce</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/14/amazon-will-hire-hartford-ct</guid>
   <pubDate>Tue, 14 Sep 2021 19:21:26 -0700</pubDate>
- </item>
- <item>
-  <title>Apple Decides 2021 Isn’t a Year to Take Risks</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7409%2Fclark_kent_iphone_meme.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;For more Apple: Read this Twitter thread about how Apple created its famous “walled garden.” What else did Apple announce? But besides a larger battery, a faster chip, and a smaller “notch” at the top of the screen, users won’t find that much difference between the new model and the iPhone 12.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/14/apple-decides-2021-isnt-year-take-risks</link>
-  <author>Neal Freyman</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/14/apple-decides-2021-isnt-year-take-risks</guid>
-  <pubDate>Tue, 14 Sep 2021 19:21:26 -0700</pubDate>
- </item>
- <item>
-  <title>SpaceX’s All-Civilian Crew Prepares for Liftoff</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7412%2Finspiration4_civilian_astronauts.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Why it matters: This mission, SpaceX’s Inspiration4, is far more ambitious and technically difficult than the other billionaires’ space flights this summer. Zoom out: Through its Commercial Crew Program, NASA invested billions in both Boeing and SpaceX to get commercial space flight off the ground. Who’s joining him:Hayley Arceneaux, a cancer survivor and physician assistant at St. Jude, will become the youngest person ever to go to space at 29, and the first with a prosthetic body part.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/14/spacexs-allcivilian-crew-prepares-liftoff</link>
-  <author>Jamie Wilde</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/14/spacexs-allcivilian-crew-prepares-liftoff</guid>
-  <pubDate>Tue, 14 Sep 2021 19:21:26 -0700</pubDate>
- </item>
- <item>
-  <title>Facebook Knows Instagram is Toxic to Teens, Leaked Documents Reveal</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7413%2Finstagram.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;“People talk about Instagram like it’s a drug.  Leaked documents reviewed by WSJ show that, despite knowing the harmful impacts of Instagram on teens, Facebook has taken few actions to make it less toxic and protect its most vulnerable users.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/14/facebook-knows-instagram-toxic-teens-leaked-documents-reveal</link>
-  <author>Sherry Qin</author>
-  <categories>social media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/14/facebook-knows-instagram-toxic-teens-leaked-documents-reveal</guid>
-  <pubDate>Tue, 14 Sep 2021 19:21:26 -0700</pubDate>
- </item>
- <item>
-  <title>Colossal Raises $15 Million to Repopulate Siberia With Woolly Mammoths</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7380%2Fcolossal_founders_compressed.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;A new company called Colossal intends to re-create and re-introduce the extinct woolly mammoth to the Siberian tundra. – NF But it’ll have to navigate an ethical minefield to get there. Looking ahead... OK, but why?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/13/colossal-raises-15-million-repopulate-siberia-woolly-mammoths?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>biotech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/13/colossal-raises-15-million-repopulate-siberia-woolly-mammoths?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 14 Sep 2021 03:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 14</title>
-  <description>&lt;img src='https://media.giphy.com/media/Y1M2JOQ7W79q5YhTp5/giphy.gif?cid=ecf05e47sgvejfxijlasa5y1a2fb8dli44tjmc3hhse0q9bw&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;Stat: Jason Sudeikis will make nearly $1 million per episode for season 3 of Ted Lasso, according to the Hollywood Reporter. (WSJ)</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/13/key-performance-indicators-september-14?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/13/key-performance-indicators-september-14?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Tue, 14 Sep 2021 03:02:02 -0700</pubDate>
  </item>
 
 </channel>
