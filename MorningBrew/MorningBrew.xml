@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/09/19/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/09/19/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/09/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/09/20/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/09/19</link>
- <lastBuildDate>Sun, 19 Sep 2021 21:03:51 -0700</lastBuildDate>
- <pubDate>Sun, 19 Sep 2021 21:03:51 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/09/20</link>
+ <lastBuildDate>Mon, 20 Sep 2021 03:03:48 -0700</lastBuildDate>
+ <pubDate>Mon, 20 Sep 2021 03:03:48 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: September 20</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7475%2Fgathering_of_world_leader.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;TV shows returning this week: Survivor, The Great British Bake Off, The Voice, Dancing With the Stars Europe.  Golf’s Ryder Cup starts Friday, pitting the US vs.   Everything else: Fall officially begins on Wednesday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/week-ahead-september-20?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/week-ahead-september-20?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 20 Sep 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: September 20</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7474%2Fwhite_paint.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(GQ) Read: How Lil Nas X mastered the art of attention. He said he could eventually get behind boosters as more evidence rolls in.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/key-performance-indicators-september-20?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/key-performance-indicators-september-20?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 20 Sep 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Child Care Job Crisis</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7473%2Fwest_baltimore_daycare_ow.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: The Treasury Department has called the child care system “unworkable” in its current form.  Child care workers regularly make less than $15/hour, lower than most retail jobs at this point. Child care is down 126,700 employees since before the pandemic, a drop of more than 10%.  Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/child-care-job-crisis?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>labor</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/child-care-job-crisis?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 20 Sep 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>'The Crown,' Ted Lasso, and Conan Big Winners at the Emmys</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o7TKuf3y3aGqEx6Ok/giphy.gif?cid=ecf05e47bj0rhmejwb7bf1q196qjazq88io3oso7iwhbaldh&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;   The Crown also became the first Netflix show to win outstanding drama series (typically dominated by HBO). The Netflix show brought home seven wins, the most of any show. The streaming service came away with zero wins despite 21 nominations for The Handmaid’s Tale. Cedric the Entertainer was the host.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/crown-ted-lasso-conan-big-winners-emmys?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/crown-ted-lasso-conan-big-winners-emmys?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 20 Sep 2021 03:01:47 -0700</pubDate>
+ </item>
+ <item>
+  <title>House Democrats Will Try to Suspend the Debt Ceiling as Yellen Warns of "Catastrophe"</title>
+  <description>&lt;img src='https://media.giphy.com/media/3o6ZsVGSlpm2PvxkUo/giphy.gif?cid=ecf05e477b8uajsr95bjwrxsvg58kzz04w51ou0i2ojzl30t&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt; Without suspending the debt ceiling, the US wouldn’t be able to borrow money to pay its bills—and things would get ugly if that happened.   The Business Roundtable, an influential group of top executives, wrote that a failure to suspend the debt ceiling could “produce an otherwise avoidable crisis and pose unacceptable risk” to the country’s economy and markets. House Democrats will make moves this week to suspend the $28.5 trillion debt ceiling as an October deadline fast approaches. Instead, it’s about spending Congress has already authorized, such as paying out Social Security.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/house-democrats-will-try-suspend-debt-ceiling-yellen-warns-catastrophe?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/house-democrats-will-try-suspend-debt-ceiling-yellen-warns-catastrophe?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Mon, 20 Sep 2021 03:01:47 -0700</pubDate>
+ </item>
  <item>
   <title>'The Crown,' Ted Lasso, and Conan Big Winners at the Emmys</title>
   <description>&lt;img src='https://media.giphy.com/media/3o7TKuf3y3aGqEx6Ok/giphy.gif?cid=ecf05e47bj0rhmejwb7bf1q196qjazq88io3oso7iwhbaldh&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;   The Crown also became the first Netflix show to win outstanding drama series (typically dominated by HBO). The Netflix show brought home seven wins, the most of any show. The streaming service came away with zero wins despite 21 nominations for The Handmaid’s Tale. Cedric the Entertainer was the host.</description>
@@ -325,51 +370,6 @@
   <categories>cybersecurity</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/microsoft-goes-completely-passwordless</guid>
   <pubDate>Wed, 15 Sep 2021 15:36:50 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 16</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7423%2Fyellowstone_sees_record_n.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;More people visited the park last month—921,844—than in any August on record, park officials said. (Julia Hobsbawm on Twitter) Watch: An excellent back-to-office video.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/15/key-performance-indicators-september-16</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/key-performance-indicators-september-16</guid>
-  <pubDate>Wed, 15 Sep 2021 15:31:50 -0700</pubDate>
- </item>
- <item>
-  <title>Casino Stocks Plunge Over Fears of a Crackdown on Macau</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7424%2Fmacau_s_booming_gaming_in.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; US casino stocks with exposure to Macau, such as Wynn, also tumbled yesterday. A Bloomberg index of the six Macau casino operators plummeted 23%, the biggest one-day fall on record. —NF Macau’s casinos rake in around $37 billion in annual revenue, roughly 5x more than the Vegas Strip.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/15/casino-stocks-plunge-fears-crackdown-macau</link>
-  <author>Neal Freyman</author>
-  <categories>gambling</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/casino-stocks-plunge-fears-crackdown-macau</guid>
-  <pubDate>Wed, 15 Sep 2021 15:31:50 -0700</pubDate>
- </item>
- <item>
-  <title>Food Delivery Apps Are Suing NYC and Other Cities</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7428%2Fflorida_miami_restauran.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;What delivery apps like DoorDash are particularly angry about is that leaders in NYC and San Francisco traced over their commission cap laws in Sharpie even after restaurants reopened. The other lawsuit, which saw DoorDash, GrubHub, and Uber Eats join forces, concerns commission caps, or the percentage of a food order’s total that delivery apps can charge restaurants for their services.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/15/food-delivery-apps-suing-nyc-cities</link>
-  <author>Jamie Wilde</author>
-  <categories>delivery</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/food-delivery-apps-suing-nyc-cities</guid>
-  <pubDate>Wed, 15 Sep 2021 15:31:50 -0700</pubDate>
- </item>
- <item>
-  <title>Amazon Will Hire a Hartford, CT</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F3253%2Famazon_fulfillment_center.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Amazon said it will add 125,000 delivery and warehouse workers in the US ahead of the busy holiday shopping season. Pretty soon, everyone will be an Amazon employee. Well, Amazon plans to open 100 new logistics facilities this month alone. – NF</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/14/amazon-will-hire-hartford-ct?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>e commerce</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/14/amazon-will-hire-hartford-ct?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 15 Sep 2021 03:01:22 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 15</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7411%2Fa_smog-covered_earth.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Quote: “Starting with boosters, especially giving it to healthy populations, is really not right.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/14/key-performance-indicators-september-15?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/14/key-performance-indicators-september-15?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 15 Sep 2021 03:01:22 -0700</pubDate>
  </item>
 
 </channel>
