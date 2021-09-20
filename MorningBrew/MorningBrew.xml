@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/20</link>
- <lastBuildDate>Mon, 20 Sep 2021 03:03:48 -0700</lastBuildDate>
- <pubDate>Mon, 20 Sep 2021 03:03:48 -0700</pubDate>
+ <lastBuildDate>Mon, 20 Sep 2021 14:58:10 -0700</lastBuildDate>
+ <pubDate>Mon, 20 Sep 2021 14:58:10 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Once High-Flying Stocks Fall the Most in Months</title>
+  <description>&lt;img src='https://media.giphy.com/media/SiKqNZqksVYWmQEMjd/giphy.gif?cid=ecf05e47t5ol39x7dt6wy00b9okefyqpnzgy9vpvso2vha65&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;  It’s always rough sledding for stocks in September, which is historically the worst month for US equities.  The sell-off is likely not Evergrande-specific, though. Looks like we angered the ghost of Adam Smith, because US stocks had their worst day in months, following similarly miserable days for Asian and European markets. JPMorgan analysts, for one, joined many social media users in advocating for #buyingthedip. Their worst-case, and increasingly likely, scenario is a plunge of more than 20%.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/highflying-stocks-fall-months</link>
+  <author>Neal Freyman</author>
+  <categories>stocks</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/highflying-stocks-fall-months</guid>
+  <pubDate>Mon, 20 Sep 2021 14:56:10 -0700</pubDate>
+ </item>
  <item>
   <title>The Week Ahead: September 20</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7475%2Fgathering_of_world_leader.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;TV shows returning this week: Survivor, The Great British Bake Off, The Voice, Dancing With the Stars Europe.  Golf’s Ryder Cup starts Friday, pitting the US vs.   Everything else: Fall officially begins on Wednesday.</description>
@@ -361,15 +370,6 @@
   <categories>startups</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/canva-becomes-fifthmost-valuable-private-startup-world</guid>
   <pubDate>Wed, 15 Sep 2021 15:41:49 -0700</pubDate>
- </item>
- <item>
-  <title>Microsoft Goes Completely Passwordless</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7429%2Fmicrosoft_fingerprint_logo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; It’s much harder to steal a user’s fingerprint or a code sent directly to their phone. —MM Bottom line: Microsoft said that the rapid shift to digital during the pandemic accelerated its timeline for the rollout.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/15/microsoft-goes-completely-passwordless</link>
-  <author>Matty Merritt</author>
-  <categories>cybersecurity</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/microsoft-goes-completely-passwordless</guid>
-  <pubDate>Wed, 15 Sep 2021 15:36:50 -0700</pubDate>
  </item>
 
 </channel>
