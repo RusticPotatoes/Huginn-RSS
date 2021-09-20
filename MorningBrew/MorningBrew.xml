@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/19</link>
- <lastBuildDate>Sun, 19 Sep 2021 20:23:48 -0700</lastBuildDate>
- <pubDate>Sun, 19 Sep 2021 20:23:48 -0700</pubDate>
+ <lastBuildDate>Sun, 19 Sep 2021 20:33:49 -0700</lastBuildDate>
+ <pubDate>Sun, 19 Sep 2021 20:33:49 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key Performance Indicators: September 20</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7474%2Fwhite_paint.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(GQ) Read: How Lil Nas X mastered the art of attention. He said he could support one as more evidence rolls in.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/key-performance-indicators-september-20</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/key-performance-indicators-september-20</guid>
+  <pubDate>Sun, 19 Sep 2021 20:31:48 -0700</pubDate>
+ </item>
  <item>
   <title>House Democrats Will Try to Suspend the Debt Ceiling as Yellen Warns of "Catastrophe"</title>
   <description>&lt;img src='https://media.giphy.com/media/3o6ZsVGSlpm2PvxkUo/giphy.gif?cid=ecf05e477b8uajsr95bjwrxsvg58kzz04w51ou0i2ojzl30t&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt; Without suspending the debt ceiling, the US wouldn’t be able to borrow money to pay its bills—and things would get ugly if that happened.   The Business Roundtable, an influential group of top executives, wrote that failure to suspend the debt ceiling could “produce an otherwise avoidable crisis and pose unacceptable risk” to the country’s economy and markets. House Democrats will make moves this week to suspend the $28.5 trillion debt ceiling as an October deadline fast approaches. Instead, it’s about spending Congress has already authorized, such as paying out Social Security.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/14/apple-decides-2021-isnt-year-take-risks?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 15 Sep 2021 03:01:21 -0700</pubDate>
- </item>
- <item>
-  <title>SpaceX’s All-Civilian Crew Prepares for Liftoff</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7412%2Finspiration4_civilian_astronauts.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Why it matters: This mission, SpaceX’s Inspiration4, is far more ambitious and technically difficult than the other billionaires’ space flights this summer. Zoom out: Through its Commercial Crew Program, NASA invested billions in both Boeing and SpaceX to get commercial space flight off the ground. Who’s joining him:Hayley Arceneaux, a cancer survivor and physician assistant at St. Jude, will become the youngest person ever to go to space at 29, and the first with a prosthetic body part.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/14/spacexs-allcivilian-crew-prepares-liftoff?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/14/spacexs-allcivilian-crew-prepares-liftoff?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 15 Sep 2021 03:01:21 -0700</pubDate>
  </item>
 
