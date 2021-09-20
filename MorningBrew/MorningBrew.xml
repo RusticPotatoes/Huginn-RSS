@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/20</link>
- <lastBuildDate>Mon, 20 Sep 2021 14:58:10 -0700</lastBuildDate>
- <pubDate>Mon, 20 Sep 2021 14:58:10 -0700</pubDate>
+ <lastBuildDate>Mon, 20 Sep 2021 15:19:13 -0700</lastBuildDate>
+ <pubDate>Mon, 20 Sep 2021 15:19:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Gabby Petito Case Turns Into Real-Time Entertainment on TikTok</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7493%2Fgabby_petito_hashtag_on_tiktok.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The tag for her name on TikTok has over half a billion views. –SQ What’s driving the frenzy: TikTok’s powerful recommendation system enables any video to go viral when it’s amplified by users, whether the content is about sorority rush or a potentially grisly crime.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/gabby-petito-case-turns-realtime-entertainment-tiktok</link>
+  <author>Sherry Qin</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/gabby-petito-case-turns-realtime-entertainment-tiktok</guid>
+  <pubDate>Mon, 20 Sep 2021 15:17:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>US Eases Travel Restrictions on Vaccinated Foreigners</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7496%2Ftourists_in_nyc.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The White House said fully vaccinated international visitors will be allowed to enter the US starting in early November. The backstory: After the EU opened its borders to Americans in June, Europeans were peeved that the US didn’t return the favor.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/us-eases-travel-restrictions-vaccinated-foreigners</link>
+  <author>Sherry Qin</author>
+  <categories>covid</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/us-eases-travel-restrictions-vaccinated-foreigners</guid>
+  <pubDate>Mon, 20 Sep 2021 15:17:12 -0700</pubDate>
+ </item>
  <item>
   <title>Once High-Flying Stocks Fall the Most in Months</title>
   <description>&lt;img src='https://media.giphy.com/media/SiKqNZqksVYWmQEMjd/giphy.gif?cid=ecf05e47t5ol39x7dt6wy00b9okefyqpnzgy9vpvso2vha65&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;  It’s always rough sledding for stocks in September, which is historically the worst month for US equities.  The sell-off is likely not Evergrande-specific, though. Looks like we angered the ghost of Adam Smith, because US stocks had their worst day in months, following similarly miserable days for Asian and European markets. JPMorgan analysts, for one, joined many social media users in advocating for #buyingthedip. Their worst-case, and increasingly likely, scenario is a plunge of more than 20%.</description>
@@ -352,24 +370,6 @@
   <categories>gambling</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/casino-stocks-plunge-fears-crackdown-macau?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 16 Sep 2021 03:01:47 -0700</pubDate>
- </item>
- <item>
-  <title>Food Delivery Apps Are Suing NYC and Other Cities</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7428%2Fflorida_miami_restauran.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;What delivery apps like DoorDash are angry about is that leaders in NYC and SF traced over their commission cap laws in Sharpie even after restaurants reopened. The other lawsuit, which saw DoorDash, GrubHub, and Uber Eats join forces, concerns commission caps, or the percentage of a food order’s total that delivery apps can charge restaurants for their services.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/15/food-delivery-apps-suing-nyc-cities?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Jamie Wilde</author>
-  <categories>delivery</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/food-delivery-apps-suing-nyc-cities?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 16 Sep 2021 03:01:46 -0700</pubDate>
- </item>
- <item>
-  <title>Canva Becomes the Fifth-Most Valuable Private Startup in the World</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7430%2Fcanva_page.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;—MM Canva will use the new funding to double its 2,000-person staff over the next year and expand into web design and video editing tools.  Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/15/canva-becomes-fifthmost-valuable-private-startup-world</link>
-  <author>Matty Merritt</author>
-  <categories>startups</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/canva-becomes-fifthmost-valuable-private-startup-world</guid>
-  <pubDate>Wed, 15 Sep 2021 15:41:49 -0700</pubDate>
  </item>
 
 </channel>
