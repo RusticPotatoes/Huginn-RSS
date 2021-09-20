@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/20</link>
- <lastBuildDate>Mon, 20 Sep 2021 15:23:11 -0700</lastBuildDate>
- <pubDate>Mon, 20 Sep 2021 15:23:11 -0700</pubDate>
+ <lastBuildDate>Mon, 20 Sep 2021 15:48:13 -0700</lastBuildDate>
+ <pubDate>Mon, 20 Sep 2021 15:48:13 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Europe’s Natural Gas Shortage is Coming for US</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7492%2Fnatural_gas.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Europe is facing a serious gas crisis—both the natural gas kind and the bubbles-in-your-seltzer kind—after prices have surged 280% this year, leading to supply crunches in everything from food, to shipping, to heating your house. tell your dad to sit down for this one, because elevated natural gas prices aren’t just a European problem. Looking ahead...</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/europes-natural-gas-shortage-coming-us</link>
+  <author>Matty Merritt</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/europes-natural-gas-shortage-coming-us</guid>
+  <pubDate>Mon, 20 Sep 2021 15:46:12 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: September 21</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7495%2Fpeople_visiting_the_covid_installation_at_the_national_mall.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(The Hollywood Reporter) Read: Jon Stewart talks about his upcoming show on Apple TV+. More than 1 million viewers tuned in to BTS's speech.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/key-performance-indicators-september-16?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 16 Sep 2021 03:01:47 -0700</pubDate>
- </item>
- <item>
-  <title>Canva Becomes the Fifth-Most Valuable Private Startup in the World</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7430%2Fcanva_page.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;—MM Canva will use the new funding to double its 2,000-person staff over the next year and expand into web design and video editing tools.  Looking ahead...</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/15/canva-becomes-fifthmost-valuable-private-startup-world?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>startups</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/canva-becomes-fifthmost-valuable-private-startup-world?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Thu, 16 Sep 2021 03:01:47 -0700</pubDate>
  </item>
 
