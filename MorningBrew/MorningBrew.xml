@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2021/09/19</link>
- <lastBuildDate>Sun, 19 Sep 2021 20:33:49 -0700</lastBuildDate>
- <pubDate>Sun, 19 Sep 2021 20:33:49 -0700</pubDate>
+ <lastBuildDate>Sun, 19 Sep 2021 20:38:48 -0700</lastBuildDate>
+ <pubDate>Sun, 19 Sep 2021 20:38:48 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Week Ahead: September 20</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7475%2Fgathering_of_world_leader.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;TV shows returning this week: Survivor, The Great British Bake Off, The Voice, Dancing With the Stars Europe.  Golf’s Ryder Cup starts Friday, pitting the US vs.   Everything else: Fall officially begins on Wednesday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/week-ahead-september-20</link>
+  <author>Neal Freyman</author>
+  <categories>calendar</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/week-ahead-september-20</guid>
+  <pubDate>Sun, 19 Sep 2021 20:36:47 -0700</pubDate>
+ </item>
  <item>
   <title>Key Performance Indicators: September 20</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7474%2Fwhite_paint.jpeg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(GQ) Read: How Lil Nas X mastered the art of attention. He said he could support one as more evidence rolls in.</description>
@@ -361,15 +370,6 @@
   <categories>social media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/14/facebook-knows-instagram-toxic-teens-leaked-documents-reveal?email=%7B%7Bprofile.email%7D%7D</guid>
   <pubDate>Wed, 15 Sep 2021 03:01:22 -0700</pubDate>
- </item>
- <item>
-  <title>Apple Decides 2021 Isn’t a Year to Take Risks</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7409%2Fclark_kent_iphone_meme.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Big picture: Apple’s event comes just days after a judge forced the company to make the biggest change to the App Store since it was created in 2008. But besides a larger battery, a faster chip, and a smaller “notch” at the top of the screen, users won’t find that much difference between the new model and the iPhone 12.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/14/apple-decides-2021-isnt-year-take-risks?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/14/apple-decides-2021-isnt-year-take-risks?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Wed, 15 Sep 2021 03:01:21 -0700</pubDate>
  </item>
 
 </channel>
