@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2021/09/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2021/09/20/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2021/09/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2021/09/21/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2021/09/20</link>
- <lastBuildDate>Mon, 20 Sep 2021 15:48:13 -0700</lastBuildDate>
- <pubDate>Mon, 20 Sep 2021 15:48:13 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2021/09/21</link>
+ <lastBuildDate>Tue, 21 Sep 2021 03:03:10 -0700</lastBuildDate>
+ <pubDate>Tue, 21 Sep 2021 03:03:10 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Gabby Petito Case Turns Into Real-Time Entertainment on TikTok</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7493%2Fgabby_petito_hashtag_on_tiktok.png&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The #GabbyPetito hashtag on TikTok has over half a billion views. –SQ Big picture: While tips from the public can be useful for cracking a case, TikTok sleuths are being accused of co-opting a traumatic episode for one family into self-promotional content.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/gabby-petito-case-turns-realtime-entertainment-tiktok?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>social media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/gabby-petito-case-turns-realtime-entertainment-tiktok?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 21 Sep 2021 03:01:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>Key Performance Indicators: September 21</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7495%2Fpeople_visiting_the_covid_installation_at_the_national_mall.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;(Platformer) Read: What I learned from a year on Substack. More than 1 million viewers tuned in to BTS's speech.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/key-performance-indicators-september-21?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>grab bag</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/key-performance-indicators-september-21?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 21 Sep 2021 03:01:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>US Eases Travel Restrictions on Vaccinated Foreigners</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7498%2Fwalt_disney_world_resort.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;The White House said fully vaccinated international visitors will be allowed to enter the US starting in early November. —SQ For them, this move is way overdue.  “We are simply not Virgin without the Atlantic," Virgin Atlantic’s CEO Shai Weiss said.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/us-eases-travel-restrictions-vaccinated-foreigners?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Sherry Qin</author>
+  <categories>travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/us-eases-travel-restrictions-vaccinated-foreigners?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 21 Sep 2021 03:01:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>Europe’s Natural Gas Shortage is Coming for US</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7492%2Fnatural_gas.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;elevated natural gas prices aren’t just a European problem. —MM Looking ahead... A number of factors, including rising demand around the world for heat and lower supplies being delivered from Russia, are contributing to the crunch. What’s going on?</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/europes-natural-gas-shortage-coming-us?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Matty Merritt</author>
+  <categories>energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/europes-natural-gas-shortage-coming-us?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 21 Sep 2021 03:01:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>Once High-Flying Stocks Fall the Most in Months</title>
+  <description>&lt;img src='https://media.giphy.com/media/SiKqNZqksVYWmQEMjd/giphy.gif?cid=ecf05e47t5ol39x7dt6wy00b9okefyqpnzgy9vpvso2vha65&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;It’s always rough sledding for stocks in September, which is historically the worst month for US equities. Looks like we angered the ghost of Adam Smith, because US stocks had their worst day in months, following similarly miserable trading days for Asian and European markets.  In a new note, Morgan Stanley analysts said their optimistic view is a 10% downturn in the S&amp;P 500.  The sell-off is likely not Evergrande-specific, though. —NF JPMorgan analysts, for one, joined many social media users in advocating for #buyingthedip.</description>
+  <link>https://www.morningbrew.com/daily/stories/2021/09/20/highflying-stocks-fall-months?email=%7B%7Bprofile.email%7D%7D</link>
+  <author>Neal Freyman</author>
+  <categories>stocks</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/20/highflying-stocks-fall-months?email=%7B%7Bprofile.email%7D%7D</guid>
+  <pubDate>Tue, 21 Sep 2021 03:01:10 -0700</pubDate>
+ </item>
  <item>
   <title>Europe’s Natural Gas Shortage is Coming for US</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7492%2Fnatural_gas.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;Europe is facing a serious gas crisis—both the natural gas kind and the bubbles-in-your-seltzer kind—after prices have surged 280% this year, leading to supply crunches in everything from food, to shipping, to heating your house. tell your dad to sit down for this one, because elevated natural gas prices aren’t just a European problem. Looking ahead...</description>
@@ -325,51 +370,6 @@
   <categories>grab bag</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/16/key-performance-indicators-september-17</guid>
   <pubDate>Thu, 16 Sep 2021 14:51:11 -0700</pubDate>
- </item>
- <item>
-  <title>France Calls US-Australia-UK Submarine Deal “A Stab in the Back”</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7443%2Fangry_croissant.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Why France is furious: Australia had signed a contract with a French shipbuilder in 2016 to build nonnuclear submarines, but this week decided to ditch France in order to get its hands on more advanced, nuclear-powered ones.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/16/france-calls-usaustraliauk-submarine-deal-stab-back</link>
-  <author>Sherry Qin</author>
-  <categories>politics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/16/france-calls-usaustraliauk-submarine-deal-stab-back</guid>
-  <pubDate>Thu, 16 Sep 2021 14:47:12 -0700</pubDate>
- </item>
- <item>
-  <title>Federal Reserve Announces Ethics Investigation After Regional Bank Officials’ Trading</title>
-  <description>&lt;img src='https://media.giphy.com/media/qtCUIoD4lka7aWp2We/giphy.gif?cid=790b76110b261265fc0f9b271a5ed6837e52fcf801dad553&amp;rid=giphy.gif&amp;ct=g'&gt;&lt;br/&gt;The Federal Reserve said yesterday that it’s breaking out the ol’ ethics guidelines to look into rules surrounding senior Fed officials' personal investments.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/16/federal-reserve-announces-ethics-investigation-regional-bank-officials-trading</link>
-  <author>Matty Merritt</author>
-  <categories>government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/16/federal-reserve-announces-ethics-investigation-regional-bank-officials-trading</guid>
-  <pubDate>Thu, 16 Sep 2021 14:47:12 -0700</pubDate>
- </item>
- <item>
-  <title>“Tax the Rich” Echoes 10 Years After Occupy Wall Street</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7440%2Foccupy_wall_street_marche.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; Occupy’s legacyPeople disagree about the long-term impact of Occupy Wall Street, with some calling it a flop and others arguing that it laid the groundwork for other progressive social and political movements.    On September 17, 2011, Occupy Wall Street began. —NF “I think if you look at the last 10 years, activism has not worked,” he said.  In 2011, Time magazine named “The Protestor” as its Person of the Year.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/16/tax-rich-echoes-10-years-occupy-wall-street</link>
-  <author>Neal Freyman</author>
-  <categories>economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/16/tax-rich-echoes-10-years-occupy-wall-street</guid>
-  <pubDate>Thu, 16 Sep 2021 14:37:10 -0700</pubDate>
- </item>
- <item>
-  <title>Microsoft Goes Completely Passwordless</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7429%2Fmicrosoft_fingerprint_logo.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt; It’s much harder to swipe a user’s fingerprint or a code sent directly to their phone. —MM Bottom line: Microsoft said that the rapid shift to digital during the pandemic accelerated its timeline for the rollout.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/15/microsoft-goes-completely-passwordless?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Matty Merritt</author>
-  <categories>cybersecurity</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/microsoft-goes-completely-passwordless?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 16 Sep 2021 03:01:47 -0700</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 16</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fmedia.morningbrew.com%2Fuploads%2Fmedium%2Fasset%2F7423%2Fyellowstone_sees_record_n.jpg&amp;w=3840&amp;q=75'&gt;&lt;br/&gt;More people visited the park last month—921,844—than in any August on record, park officials said. (Julia Hobsbawm on Twitter) Watch: An excellent back-to-office video.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/15/key-performance-indicators-september-16?email=%7B%7Bprofile.email%7D%7D</link>
-  <author>Neal Freyman</author>
-  <categories>grab bag</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/15/key-performance-indicators-september-16?email=%7B%7Bprofile.email%7D%7D</guid>
-  <pubDate>Thu, 16 Sep 2021 03:01:47 -0700</pubDate>
  </item>
 
 </channel>
