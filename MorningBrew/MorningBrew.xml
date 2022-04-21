@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/04/21</link>
- <lastBuildDate>Thu, 21 Apr 2022 10:32:06 -0700</lastBuildDate>
- <pubDate>Thu, 21 Apr 2022 10:32:06 -0700</pubDate>
+ <lastBuildDate>Thu, 21 Apr 2022 14:48:59 -0700</lastBuildDate>
+ <pubDate>Thu, 21 Apr 2022 14:48:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Florida legislature passes bill to revoke Disney World’s special tax district</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/37946f7477d6058dace1d612a7d22dce9cbd9a67-569x500.png?rect=0,60,569,379&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Considering there was no political discussion around Disney World’s special tax status until very recently, the move is widely seen as retaliation for Disney’s criticism of a Florida law that restricts discussion of gender identity and sexual orientation in some classrooms. Under the deal it worked out with Florida, Disney is allowed to build new structures without local approval and is exempted from certain environmental and wastewater codes. Disney’s been operating the special administrative zone, called the Reedy Creek Improvement District, for 55 years. David Ramba, executive director of the Florida Association of Special Districts, told CNBC that he hasn’t seen any special districts get dissolved that didn’t want to be dissolved, not to mention one run by a $222 billion corporation. —NF css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/21/florida-legislature-passes-bill-to-revoke-disney-world-s-special-tax-district</link>
+  <author>Neal Freyman</author>
+  <categories>Entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/21/florida-legislature-passes-bill-to-revoke-disney-world-s-special-tax-district</guid>
+  <pubDate>Thu, 21 Apr 2022 14:46:58 -0700</pubDate>
+ </item>
  <item>
   <title>Key performance indicators: April 21</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7ebfd3317fde7f77094e6526eb340bd58eedfb42-1024x577.jpg?rect=79,0,866,577&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Entrepreneur Oleg Tinkov blasted his country’s invasion of Ukraine in an Instagram post, becoming one of the few members of the Russian elite to directly criticize Putin’s invasion.</description>
@@ -361,15 +370,6 @@
   <categories>Auto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/02/17/elon-musk-ramps-up-attacks-on-us-regulators?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Thu, 21 Apr 2022 10:30:48 -0700</pubDate>
- </item>
- <item>
-  <title>Black History Month trivia game</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4914dcefff0c43497a996b521c0123e143735d3b-1920x1080.png?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Important note: Round 5 is a music round. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. At the end of the game, the winning team is the one with the most points. Step 2: Before you start asking questions, distribute blank team sheets to each team by having them copy the template onto their own Google Doc. This is where they’ll write their answers to the questions. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/02/16/black-history-month-trivia-competition?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/02/16/black-history-month-trivia-competition?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:30:47 -0700</pubDate>
  </item>
 
 </channel>
