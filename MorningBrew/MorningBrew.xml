@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/04/21</link>
- <lastBuildDate>Thu, 21 Apr 2022 15:04:03 -0700</lastBuildDate>
- <pubDate>Thu, 21 Apr 2022 15:04:03 -0700</pubDate>
+ <lastBuildDate>Thu, 21 Apr 2022 16:03:57 -0700</lastBuildDate>
+ <pubDate>Thu, 21 Apr 2022 16:03:57 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Florida legislature passes bill to revoke Disney World’s special tax district</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/37946f7477d6058dace1d612a7d22dce9cbd9a67-569x500.png?rect=0,60,569,379&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Considering there was no political discussion around Disney World’s special tax status until very recently, the move is widely seen as retaliation for Disney’s criticism of a Florida law that restricts discussion of gender identity and sexual orientation in some classrooms. Under the deal it worked out with Florida, Disney is allowed to build new structures without local approval and is exempted from certain environmental and wastewater codes. Disney’s been operating the special administrative zone, called the Reedy Creek Improvement District, for 55 years. David Ramba, executive director of the Florida Association of Special Districts, told CNBC that he hasn’t seen any special districts get dissolved that didn’t want to be dissolved, not to mention one run by a $222 billion corporation. —NF css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/florida-legislature-revokes-disneys-special-tax-district</link>
+  <author>Neal Freyman</author>
+  <categories>Entertainment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/florida-legislature-revokes-disneys-special-tax-district</guid>
+  <pubDate>Thu, 21 Apr 2022 16:02:07 -0700</pubDate>
+ </item>
  <item>
   <title>Key performance indicators: April 22</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4c8851b21a9363fdad938565189c2c578f1a7490-2339x1081.png?rect=359,0,1622,1081&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable.</description>
@@ -361,15 +370,6 @@
   <categories>Stocks</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/02/18/roku-shares-dive-amid-broader-crash-of-pandemic-darlings?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Thu, 21 Apr 2022 10:30:50 -0700</pubDate>
- </item>
- <item>
-  <title>Key performance indicators: February 18</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c8d635384041917139ce957f4169982a43868783-1024x677.jpg?rect=4,0,1016,677&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. (Eater) While female participation in the Saudi workforce has nearly doubled in the last five years due to relaxed restrictions, women still need a male relative’s approval for standard activities like opening a bank account or getting married. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/02/17/key-performance-indicators-february-18?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/02/17/key-performance-indicators-february-18?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:30:49 -0700</pubDate>
  </item>
 
 </channel>
