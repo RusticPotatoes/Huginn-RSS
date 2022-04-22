@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/04/22</link>
- <lastBuildDate>Fri, 22 Apr 2022 00:04:04 -0700</lastBuildDate>
- <pubDate>Fri, 22 Apr 2022 00:04:04 -0700</pubDate>
+ <lastBuildDate>Fri, 22 Apr 2022 13:59:04 -0700</lastBuildDate>
+ <pubDate>Fri, 22 Apr 2022 13:59:04 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Make it work: Wedding shenanigans at the workplace</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7b6de1bb891bb0dd9e289abb0a591582a5da30e6-1503x603.png?rect=299,0,905,603&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The enduring pandemic, plus the fact that you’re not inviting anyone from the workplace (as opposed to a select few), only deepens your absolution. 👇Share your workplace conundrum to Make It Work here. Something old, something new, something borrowed…Dennis from finance? Anything nagging at you? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/22/make-it-work</link>
+  <author>Shane Loughnane</author>
+  <categories>Work life</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/22/make-it-work</guid>
+  <pubDate>Fri, 22 Apr 2022 13:57:04 -0700</pubDate>
+ </item>
  <item>
   <title>Key performance indicators: April 22</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4c8851b21a9363fdad938565189c2c578f1a7490-2339x1081.png?rect=359,0,1622,1081&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable.</description>
@@ -360,15 +369,6 @@
   <author>Max Knoblauch</author>
   <categories>Culture</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/02/18/stock-watch-february-20?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:30:52 -0700</pubDate>
- </item>
- <item>
-  <title>Saturday sketch: Winter Olympic sports that deserved more love</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d9de1b599a902e0a04726ba7d5a0814dffc40bf4-1300x1300.png?rect=0,216,1300,867&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/02/18/saturday-sketch-winter-olympic-sports-that-deserved-more-love?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/02/18/saturday-sketch-winter-olympic-sports-that-deserved-more-love?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Thu, 21 Apr 2022 10:30:52 -0700</pubDate>
  </item>
 
