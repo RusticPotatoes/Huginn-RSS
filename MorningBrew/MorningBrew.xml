@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/04/22</link>
- <lastBuildDate>Fri, 22 Apr 2022 13:59:04 -0700</lastBuildDate>
- <pubDate>Fri, 22 Apr 2022 13:59:04 -0700</pubDate>
+ <lastBuildDate>Fri, 22 Apr 2022 14:29:01 -0700</lastBuildDate>
+ <pubDate>Fri, 22 Apr 2022 14:29:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Why Germany can’t quit Russian gas</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f5ac9035bf975b34d8512d7e0ea3791d4e554b6b-1024x699.jpg?rect=0,8,1024,683&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeSince the beginning of the war in Ukraine, the EU has paid more than $37 billion for Russian energy supplies—a big chunk of that by the bloc’s No. 1 economy, Germany. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. That toll: The country’s central bank reported yesterday that an embargo on Russian gas would plunge it into a recession; Instead of Germany’s economy growing by 3% this year, it would shrink by 2%, amounting to one of the worst recessions in the country since the financial crisis. As a result, cutting off Russian gas would force some of Germany’s industrial production to shut down and put an estimated 400,000+ people out of work. —NF “We don’t have an alternative energy source.” German businesses would face their “worst crisis since the Second World War” if a gas embargo were put into effect, the CEO Martin Brudermüller of chemicals giant BASF warned. Big picture: With an immediate gas embargo seemingly off the table, Europe is trying to get creative to reduce its consumption of Russian energy. But since then, Germany has become even more dependent on Russian gas as it wound down other power sources, such as nuclear and coal, but didn’t build up enough alternatives to replace them.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/22/why-germany-can-t-quit-russian-gas</link>
+  <author>Neal Freyman</author>
+  <categories>Energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/22/why-germany-can-t-quit-russian-gas</guid>
+  <pubDate>Fri, 22 Apr 2022 14:27:00 -0700</pubDate>
+ </item>
  <item>
   <title>Make it work: Wedding shenanigans at the workplace</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7b6de1bb891bb0dd9e289abb0a591582a5da30e6-1503x603.png?rect=299,0,905,603&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The enduring pandemic, plus the fact that you’re not inviting anyone from the workplace (as opposed to a select few), only deepens your absolution. 👇Share your workplace conundrum to Make It Work here. Something old, something new, something borrowed…Dennis from finance? Anything nagging at you? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -361,15 +370,6 @@
   <categories>Q&amp;A</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/icebreakers-with-hinge-ceo-justin-mcleod?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Thu, 21 Apr 2022 10:30:53 -0700</pubDate>
- </item>
- <item>
-  <title>Stock watch: February 20</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/b02f2eaf7e25e6c7499411a5770cab9fcd899d9c-1500x2000.png?rect=0,500,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/02/18/stock-watch-february-20?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Culture</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/02/18/stock-watch-february-20?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:30:52 -0700</pubDate>
  </item>
 
 </channel>
