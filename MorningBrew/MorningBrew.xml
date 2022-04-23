@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/04/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/04/22/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/04/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/04/23/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/04/22</link>
- <lastBuildDate>Fri, 22 Apr 2022 15:24:04 -0700</lastBuildDate>
- <pubDate>Fri, 22 Apr 2022 15:24:04 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/04/23</link>
+ <lastBuildDate>Sat, 23 Apr 2022 00:03:57 -0700</lastBuildDate>
+ <pubDate>Sat, 23 Apr 2022 00:03:57 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Key performance indicators: April 23</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0e075f56722ca7b23054d5d736b41a18869f184b-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Matthew Belloni, a founding partner at Puck News, cracked a joke during an appearance on the final episode of Reliable Sources Daily, a program on CNN+ that’s being shut down along with the rest of the streaming service. (The Guardian) css-1dlcpt7[data-readonly]{box-shadow:none! It was the fifth-largest crypto theft on record.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/22/key-performance-indicators-april-23?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/22/key-performance-indicators-april-23?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 23 Apr 2022 00:02:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>The most powerful particle accelerator is back online</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/28790a0aeff6125936d2a673d5554e81c09c8646-4288x2848.jpg?rect=8,0,4272,2848&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The Large Hadron Collider—which is 20 miles long and nestled about 300 feet beneath the Alps—uses colder-than-outer-space magnets (colder = more magnetic) to accelerate particles close to the speed of light. What’s revealed by the Large Hadron Collider could confirm the Standard Model, or pave the way for a new “theory of everything.” —JW And what exactly is that job? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/the-most-powerful-particle-accelerator-is-back-online?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Jamie Wilde</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/the-most-powerful-particle-accelerator-is-back-online?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 23 Apr 2022 00:02:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>Snapchat’s user growth lapped other social media platforms</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3fd378bd364f27fb9f12b8691956eb5ae0df0337-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Snap reported that 250 million users use its AR functions every day. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The platform is also still reeling from Apple’s 2021 privacy update that limits ad tracking on iPhones. —MM It’s captured Gen Z hearts and downloads. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeSnap, the parent company of Snapchat, released its Q1 earnings on Thursday and, while it just narrowly missed revenue targets, its daily-active-user growth is lapping Facebook and Twitter. It has 90% adoption for users aged 13–24 in the US, UK, and the Netherlands.</description>
+  <link>https://www.morningbrew.com/daily/stories/snapchat-user-growth-up?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>Social Media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/snapchat-user-growth-up?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 23 Apr 2022 00:02:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>American Express sees faster-than-expected business travel growth</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2022-04-22/image-ccbce6eabc93dcadc3be194600aa319775afcc60-479x270-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It gets weirder: The Moonbirds team doesn’t seem to know if Fallon actually bought the NFT, or if it was a gift. css-1dlcpt7[data-readonly]{box-shadow:none! css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}Subscribe🛩️ Is business travel back? 🦉 Where did Fallon get that owl? Still, the broader travel rebound has been fueled not by companies, but by individuals: US consumers in AmEx’s network spent 120% more on travel in Q1 than in the same period in 2019. Travel spend in March by S&amp;P 500 clients was “well over over 50%” of its level in 2019, which execs hailed as a big win. It tees up a potential investigation of Twitter over free-speech restrictions if Republicans were to win a majority in the House this November. House Republicans demanded that Twitter preserve all materials linked to Elon Musk’s bid to buy the company, calling the board’s opposition to the takeover offer “concerning.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/22/american-express-sees-faster-than-expected-business-travel-growth?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/22/american-express-sees-faster-than-expected-business-travel-growth?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 23 Apr 2022 00:02:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>Why Germany can’t quit Russian gas</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f5ac9035bf975b34d8512d7e0ea3791d4e554b6b-1024x699.jpg?rect=0,8,1024,683&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeSince the beginning of the war in Ukraine, the EU has paid more than $37 billion for Russian energy supplies—a big chunk of that by the bloc’s No. 1 economy, Germany. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Instead of Germany’s economy growing by 3% this year, it would shrink by 2%, amounting to one of the worst recessions in the country since the financial crisis. As a result, cutting off Russian gas would force some of Germany’s industrial production to shut down and put an estimated 400,000+ people out of work. —NF German businesses would face their “worst crisis since the Second World War” if a gas embargo were put into effect, Martin Brudermüller, the CEO of chemicals giant BASF, warned. “We don’t have an alternative energy source.” Big picture: With an immediate gas embargo seemingly off the table, Europe is trying to get creative to reduce its consumption of Russian energy. But since then, Germany has become even more dependent on Russian gas; as it wound down other power sources, such as nuclear and coal, it didn’t build up enough alternatives to replace them.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/22/why-germany-can-t-quit-russian-gas?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/22/why-germany-can-t-quit-russian-gas?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 23 Apr 2022 00:02:06 -0700</pubDate>
+ </item>
  <item>
   <title>Icebreakers with…Pachinko showrunner Soo Hugh</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3c25028911760ac53aa8de26b1bbc88be18c8506-3637x2424.jpg?rect=1,0,3636,2424&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. You know, one of the things we say is that all Asians are not monoliths, right? css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. I think you couldn’t have done the show without that. I think it’s important to try to represent the original character as much as possible. So, like, I’m Korean. Let me try out the show in Korean. And if I don’t like it, I could just click away.” Most of Pachinko’s main cast is of Korean descent. What’s so interesting is that you realize all around the world, they’ve been watching American content in subtitles for so long now.</description>
@@ -325,51 +370,6 @@
   <categories>Data privacy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/tinder-swindler-ftc-data-romance-scams?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Thu, 21 Apr 2022 10:30:59 -0700</pubDate>
- </item>
- <item>
-  <title>Global health visionary Dr. Paul Farmer dies at 62</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/976c6ff6fb3547eea2e4046cb7e0d6f83e6486b6-1200x799.webp?rect=1,0,1199,799&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none! Also…you can learn more about Farmer in the 2017 documentary Bending the Arc.—MM Farmer, whose mission was to bring high-quality health care to low-income nations, created hospitals in Rwanda and Haiti and co-founded the global nonprofit Partners in Health. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeHarvard Medical School professor, anthropologist, and global health advocate Dr. Paul Farmer unexpectedly died in his sleep in Rwanda at 62. Tracy Kidder, the author of a book about Farmer’s inspirational work, Mountains Beyond Mountains, said Farmer “was the kind of person whose example can irritate you by making you feel you’ve never done anything as important, and yet, in his presence, those kinds of feelings tended to vanish.” In addition to his nonprofit, Farmer brought livesaving HIV drugs to Haiti, raised millions of dollars for community health care facilities around the world, wrote 12 books, and won a number of awards, including the $1 million Berggruen Prize in 2020 for reshaping our understanding of “what it means to treat health as a human right.”</description>
-  <link>https://www.morningbrew.com/daily/stories/global-health-visionary-dr-paul-farmer-dies-at-62?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Matty Merritt</author>
-  <categories>International</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/global-health-visionary-dr-paul-farmer-dies-at-62?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:30:59 -0700</pubDate>
- </item>
- <item>
-  <title>Trump’s social media app gets off to a hot, but bumpy, start</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0c78c27f7e90ebc7638bdfc0ad1580d06a6198b6-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Truth Social, led by former Republican Rep. Devin Nunes, is one of several right-learning social apps that have launched in recent years, along with Gettr, Parler, and the more established Rumble. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/02/21/trump-s-social-media-app-gets-off-to-a-hot-but-bumpy-start?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/02/21/trump-s-social-media-app-gets-off-to-a-hot-but-bumpy-start?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:30:58 -0700</pubDate>
- </item>
- <item>
-  <title>Putin’s Fortress Russia may be no match for the ‘mother of all sanctions’</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/31cfba9e7d52e81a4f19d1e9dcc920d6298e26f7-1024x685.jpg?rect=0,1,1024,683&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It built its own financial messaging system in case it gets blocked from the one used around the world, called SWIFT. Geopolitical experts say that the types of sanctions being prepared, which could block Russia from importing critical tech materials or cut off Russian banks from accessing the US dollar, will be enough to overcome Putin’s defenses and cause significant and immediate damage to the Russian economy. And investors are preparing for the worst: Russia’s benchmark stock index closed down 11% yesterday for its biggest single-day drop since Russia’s annexation of Crimea in 2014. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeAs Russia eyes moving troops further into Ukraine, Western leaders are readying economic sanctions to punish Vladimir Putin for his aggression. US lawmakers have pledged to unleash the “mother of all sanctions” in the event of a Russian invasion, and UK Prime Minister Boris Johnson suggested on Sunday that the sanctions will include cutting off Russian companies from using US dollars and British pounds, hitting them “very, very hard.” Big picture: Despite the sanction-proofing campaign, Putin’s Fortress Russia is not impenetrable. Building Fortress RussiaIf you want to sanction-proof your economy, the first place to start is padding your foreign exchange reserves, which are stockpiles of foreign currencies held by your central bank. —NF So sanctions hitting Russia’s energy sector could boomerang back to hurt the West and destabilize global energy markets.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/02/21/putin-s-fortress-russia-may-be-no-match-for-the-mother-of-all-sanctions?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories>International</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/02/21/putin-s-fortress-russia-may-be-no-match-for-the-mother-of-all-sanctions?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:30:58 -0700</pubDate>
- </item>
- <item>
-  <title>Key performance indicators: February 21</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/07db2092e7b152f0b26b0ca2b16af6f1758e72dd-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Could it be running an app store?” (Full Stack Economics) css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/02/20/key-performance-indicators-february-21?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/02/20/key-performance-indicators-february-21?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:30:57 -0700</pubDate>
- </item>
- <item>
-  <title>The week ahead: February 21</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2021-10-26/image-b359a998a1b4dcbf0398a92518c4845fccb1b110-440x300-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Music releases: Kanye West drops Donda 2 on the Stem Player on Tuesday, and Avril Lavigne’s new album comes out on Friday. With arctic air moving in, more than 70% of Americans in the Lower 48 states will experience below-freezing temps, and over 15 million will see below-zero temps. css-1dlcpt7[data-readonly]{box-shadow:none! Trump’s back on social media: Truth Social, former President Trump’s social media venture, could launch on the App Store today, per Reuters.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/02/20/the-week-ahead-february-21?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/02/20/the-week-ahead-february-21?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:30:57 -0700</pubDate>
  </item>
 
 </channel>
