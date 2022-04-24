@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/04/24</link>
- <lastBuildDate>Sun, 24 Apr 2022 04:03:58 -0700</lastBuildDate>
- <pubDate>Sun, 24 Apr 2022 04:03:58 -0700</pubDate>
+ <lastBuildDate>Sun, 24 Apr 2022 14:03:57 -0700</lastBuildDate>
+ <pubDate>Sun, 24 Apr 2022 14:03:57 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Turntable: April 25</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d6d5ff67f65ccfc42ccab384cde8bbc6f76d8507-1920x1080.png?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/turntable-april-25</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/turntable-april-25</guid>
+  <pubDate>Sun, 24 Apr 2022 14:01:57 -0700</pubDate>
+ </item>
  <item>
   <title>Open house: Birthplace of Buffett Associates</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/1030348fbd1a97fe4f332385fd62c924da857a7b-990x660.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Above the office door is Buffett’s signature with the note, “The birthplace of Buffett Associates May 1956.” css-1dlcpt7[data-readonly]{box-shadow:none! Buffett rented this 3,300-square-foot home in the Dundee neighborhood in the 1950s for just $175 a month.</description>
@@ -361,15 +370,6 @@
   <categories>Covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/19/after-judge-drops-federal-transportation-mask-mandate-a-confusing-new-era-dawns?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Thu, 21 Apr 2022 10:31:02 -0700</pubDate>
- </item>
- <item>
-  <title>Key performance indicators: February 23</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-02-22/image-5985abe5da6f46f3fad0c9313d36d2a115802f4e-432x250-gif/office.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Caesars CEO Tom Reeg told investors that the company will pull back its ad spend after hitting its customer acquisition goals for its sports betting app faster than expected. (Washington Post) Rounding out the five most valuable shows based on their streaming deals are Seinfeld ($361,000 per episode), Friends ($360,000), The Big Bang Theory ($357,000), and South Park ($348,000). To put that in terms Michael Scott would understand, Peacock paid Universal $498,000/episode for The Office in a five-year deal back in 2019.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/02/22/key-performance-indicators-february-23?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/02/22/key-performance-indicators-february-23?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:31:01 -0700</pubDate>
  </item>
 
 </channel>
