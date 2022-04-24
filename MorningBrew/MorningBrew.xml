@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/04/24</link>
- <lastBuildDate>Sun, 24 Apr 2022 14:03:57 -0700</lastBuildDate>
- <pubDate>Sun, 24 Apr 2022 14:03:57 -0700</pubDate>
+ <lastBuildDate>Sun, 24 Apr 2022 14:18:58 -0700</lastBuildDate>
+ <pubDate>Sun, 24 Apr 2022 14:18:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Timed Turntable: April 25</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d6d5ff67f65ccfc42ccab384cde8bbc6f76d8507-1920x1080.png?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/timed-turntable-april-25</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/timed-turntable-april-25</guid>
+  <pubDate>Sun, 24 Apr 2022 14:16:58 -0700</pubDate>
+ </item>
  <item>
   <title>Turntable: April 25</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d6d5ff67f65ccfc42ccab384cde8bbc6f76d8507-1920x1080.png?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -361,15 +370,6 @@
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/19/netflix-stock-plunges-after-reporting-a-subscriber-loss?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Thu, 21 Apr 2022 10:31:03 -0700</pubDate>
- </item>
- <item>
-  <title>After judge drops federal transportation mask mandate, a confusing new era dawns</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/114b1349e8cbc849365a5d0ffab7d4173657a525-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;Then, US airlines rushed to drop their mask requirements faster than a guy in Group D lines up while first class is boarding. . Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Masks had become a major frustration for airlines, which had been lobbying to end the mandate for months. Same in Philadelphia, where a new indoor mask mandate just took effect. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIt’s been more than 36 hours since a Florida judge abruptly overturned the CDC’s federal mask mandate for transportation, and Americans are still working out the implications of that…about-face. 🙄Here’s what you need to know:In the hours after the ruling came down, the Transportation Security Administration (TSA) said it would stop enforcing the mandate on public transportation and planes. —NF</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/04/19/after-judge-drops-federal-transportation-mask-mandate-a-confusing-new-era-dawns?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories>Covid</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/19/after-judge-drops-federal-transportation-mask-mandate-a-confusing-new-era-dawns?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:31:02 -0700</pubDate>
  </item>
 
 </channel>
