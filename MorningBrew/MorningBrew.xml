@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/04/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/04/23/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/04/24/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/04/24/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/04/23</link>
- <lastBuildDate>Sat, 23 Apr 2022 00:03:57 -0700</lastBuildDate>
- <pubDate>Sat, 23 Apr 2022 00:03:57 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/04/24</link>
+ <lastBuildDate>Sun, 24 Apr 2022 04:03:58 -0700</lastBuildDate>
+ <pubDate>Sun, 24 Apr 2022 04:03:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Open house: Birthplace of Buffett Associates</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/1030348fbd1a97fe4f332385fd62c924da857a7b-990x660.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Above the office door is Buffett’s signature with the note, “The birthplace of Buffett Associates May 1956.” css-1dlcpt7[data-readonly]{box-shadow:none! Buffett rented this 3,300-square-foot home in the Dundee neighborhood in the 1950s for just $175 a month.</description>
+  <link>https://www.morningbrew.com/daily/stories/open-house-birthplace-of-buffett-associates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>Real estate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/open-house-birthplace-of-buffett-associates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 24 Apr 2022 04:02:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>NYC's salary transparency law faces pushback from businesses</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/81f06e22894fc31f01a6ebb7a1445b6b022c14db-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeNew York City’s monumental pay transparency law is set to take effect on May 15, meaning that nearly every company operating in the city will have to include a pay range for all open job listings. Critics of the amendment said these employees—including those in the food services and retail industries—are some of the city’s most marginalized workers who are most in need of pay transparency. During testimony over the amendment, some small-business advocates also claimed the law would allow larger companies to easily outbid them for talented hires. While the law is still set to go into effect on May 15, the amended bill is currently in committee. But a proposed amendment to the law—supported by large business groups and under consideration by the city council—could limit its scope, create room for loopholes, and delay its implementation until November. —MK css-1dlcpt7[data-readonly]{box-shadow:none! In a letter to the City Council, the Partnership for New York City (a powerful business group) criticized it for lacking input from the employers it would affect. But radical transparency has proven effective at addressing the wage gap and giving employees an idea of what their work is worth. In the original wording of the amendment, businesses with 15 or fewer employees would be exempt—a change that would have removed around 58,000 NYC companies and 500,000 employees from the scope of the law. That’s a big deal, as pay transparency laws exist largely to address racial and gender pay gaps.</description>
+  <link>https://www.morningbrew.com/daily/stories/pay-transparency-salary-law-nyc-amendment?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories>Labor</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/pay-transparency-salary-law-nyc-amendment?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 24 Apr 2022 04:02:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>Make it work: Wedding shenanigans at the workplace</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7b6de1bb891bb0dd9e289abb0a591582a5da30e6-1503x603.png?rect=299,0,905,603&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The enduring pandemic, plus the fact that you’re not inviting anyone from the workplace (as opposed to a select few), only deepens your absolution. 👇Share your workplace conundrum to Make It Work here. Something old, something new, something borrowed…Dennis from finance? Anything nagging at you? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/22/make-it-work?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Shane Loughnane</author>
+  <categories>Work life</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/22/make-it-work?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 24 Apr 2022 04:02:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>Icebreakers with…Pachinko creator Soo Hugh</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3c25028911760ac53aa8de26b1bbc88be18c8506-3637x2424.jpg?rect=1,0,3636,2424&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. You know, one of the things we say is that all Asians are not monoliths, right? css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. I think it’s important to try to represent the original character as much as possible. I think you couldn’t have done the show without that. So, like, I’m Korean. Let me try out the show in Korean. And if I don’t like it, I could just click away.” Most of Pachinko’s main cast is of Korean descent. What’s so interesting is that you realize all around the world, they’ve been watching American content in subtitles for so long now.</description>
+  <link>https://www.morningbrew.com/daily/stories/icebreakers-with-pachinko-showrunner-soo-hugh?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Jamie Wilde</author>
+  <categories>Finance</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/icebreakers-with-pachinko-showrunner-soo-hugh?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 24 Apr 2022 04:02:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>Stock watch: April 24</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/9941d857e47df1c5ba612f2f14e17dc98822aaec-1500x2000.png?rect=0,500,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/22/stock-watch-april-24?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/22/stock-watch-april-24?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 24 Apr 2022 04:02:04 -0700</pubDate>
+ </item>
  <item>
   <title>Key performance indicators: April 23</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0e075f56722ca7b23054d5d736b41a18869f184b-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Matthew Belloni, a founding partner at Puck News, cracked a joke during an appearance on the final episode of Reliable Sources Daily, a program on CNN+ that’s being shut down along with the rest of the streaming service. (The Guardian) css-1dlcpt7[data-readonly]{box-shadow:none! It was the fifth-largest crypto theft on record.</description>
@@ -325,51 +370,6 @@
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/02/22/key-performance-indicators-february-23?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Thu, 21 Apr 2022 10:31:01 -0700</pubDate>
- </item>
- <item>
-  <title>Coinbase’s CEO claims no agency created its Super Bowl ad</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/8470eca6ac76b16ee03b606b0a5bd91cb75021a8-632x418.png?rect=3,0,627,418&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In a self-congratulatory Twitter thread on Sunday, Coinbase CEO Brian Armstrong boasted that the crypto platform turned down an agency’s ideas for the ad before brainstorming its own, because “No ad agency would have done this ad.” Coinbase’s 60-second spot—which featured a QR code that drove so much traffic that the app crashed—became the center of a squabble about which geniuses came up with the ad: Coinbase or the ad agencies it worked with. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeNearly two weeks after the Super Bowl, social media’s still buzzing about one of the ads…but the vibe has shifted. Sign up for Marketing Brew. —JWWant more marketing news? He and Rouch tweeted that the partnership was so “seamless” that Armstrong didn’t realize.</description>
-  <link>https://www.morningbrew.com/daily/stories/coinbase-super-bowl-ad?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Jamie Wilde</author>
-  <categories>Marketing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/coinbase-super-bowl-ad?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:31:01 -0700</pubDate>
- </item>
- <item>
-  <title>US women’s soccer team reaches $24 million equal pay settlement with US Soccer</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c8ce9162ea0a9269b141c0c775cd03e57aead496-1024x660.jpg?rect=17,0,990,660&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The deal: The 61 women included in the deal will receive $22 million in back pay—an acknowledgment that they were underpaid compared to the men’s team.</description>
-  <link>https://www.morningbrew.com/daily/stories/us-womens-soccer-24-million-equal-pay-settlement?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Labor</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/us-womens-soccer-24-million-equal-pay-settlement?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:31:00 -0700</pubDate>
- </item>
- <item>
-  <title>US Covid cases fall 90% from their January peak</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-02-22/image-a27715858cdc1f2e3412e3d2e9b65fb7ab780d3d-480x366-gif/plummet.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/02/22/us-covid-cases-fall-90-from-their-january-peak?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/02/22/us-covid-cases-fall-90-from-their-january-peak?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:31:00 -0700</pubDate>
- </item>
- <item>
-  <title>Key performance indicators: February 22</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/426653d93332fbb1b33b1a72b77262390ac7d677-960x720.jpg?rect=0,40,960,640&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. (The New Republic) css-1dlcpt7[data-readonly]{box-shadow:none! A typical black bear in the western US weighs 100–300 lbs.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/02/21/key-performance-indicators-february-22?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/02/21/key-performance-indicators-february-22?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:30:59 -0700</pubDate>
- </item>
- <item>
-  <title>FTC data shows ‘The Tinder Swindler’ is more common than you’d think</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f48615c4cafbfc0f64a66327db6084b9c877f05e-1024x924.jpg?rect=0,120,1024,683&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. New data released by the FTC reveals that romance scams reached an all-time high in 2021, up nearly 80% from 2020. The biggest romance scam losses were paid out in crypto—$139 million in 2021. It’s a steep jump from 2017, when losses from such scams totaled $87 million. —MK That stat might explain why The Tinder Swindler, Netflix’s latest true-crime doc about a man accused of conning women on Tinder out of $10 million, has led the global Netflix charts since it debuted on February 2. 56,000 romance scams were reported to the FTC in 2021. According to the FTC, people have lost $1.3 billion to romance scams in the last five years—$547 million of which came (or left) in 2021. Even screentime champions in the 18–29 bracket reported 10x the amount of scams from 2017 to 2021.</description>
-  <link>https://www.morningbrew.com/daily/stories/tinder-swindler-ftc-data-romance-scams?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Data privacy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/tinder-swindler-ftc-data-romance-scams?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 21 Apr 2022 10:30:59 -0700</pubDate>
  </item>
 
 </channel>
