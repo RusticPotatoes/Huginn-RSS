@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/04/27/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/04/27/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/04/28/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/04/28/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/04/27</link>
- <lastBuildDate>Wed, 27 Apr 2022 15:18:28 -0700</lastBuildDate>
- <pubDate>Wed, 27 Apr 2022 15:18:28 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/04/28</link>
+ <lastBuildDate>Thu, 28 Apr 2022 00:03:24 -0700</lastBuildDate>
+ <pubDate>Thu, 28 Apr 2022 00:03:24 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Video meetings make brainstorming harder, according to study</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f1f70f831e2ebbe75eaf881d82c3fcc611621127-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The study found that groups meeting in person came up with one more idea on average than their virtual counterparts. Our eyes are drawn to faces, which can distract our minds, especially in a virtual setting. Some pairs were in the same room, and some were meeting via video call. —MM</description>
+  <link>https://www.morningbrew.com/daily/stories/video-meetings-make-brainstorming-harder-study?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>Remote work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/video-meetings-make-brainstorming-harder-study?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Thu, 28 Apr 2022 00:01:33 -0700</pubDate>
+ </item>
+ <item>
+  <title>Indonesia bans palm oil exports</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/408d6a049c29a17059f0034db682d49376a54721-3000x2000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It’s one of the most extreme examples yet of how the war in Ukraine is rattling global supply chains and stoking concerns of food shortages, thousands of miles away from the fighting. Unilever, which uses palm oil in products like Dove soap and Hellmann’s mayonnaise, warned investors it may need to jack up prices in the second half of this year. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeToday marks the beginning of a ban on palm oil exports from Indonesia, which accounts for one-third of the world’s edible oil supply. —JW Indonesia’s ban could send vegetable oil prices spiraling upwards. After prices spiked, the Indonesian government decided to lock down its palm oil supply to ensure its own population doesn’t experience shortages. We have bad news: Palm oil is the most common cooking oil globally.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/27/indonesia-bans-palm-oil-exports?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Jamie Wilde</author>
+  <categories>Food &amp; Bev</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/27/indonesia-bans-palm-oil-exports?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Thu, 28 Apr 2022 00:01:33 -0700</pubDate>
+ </item>
+ <item>
+  <title>Meta returned to user growth last quarter, shares pop</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/8dace450a92cebfa67f1a01257b08e3b13aa5215-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. At one point, it was worth more than Disney; now, it’s not even half as valuable. As it shifts its focus to virtual worlds, Meta increased revenue just 7% last quarter, its slowest sales growth in its 10 years as a public company. After a gain of 4.8% yesterday, its stock is only down ~15% for the year, which, while not…good, is a better performance than every FAANG company outside of Apple. Shares popped more than 18% after hours when the company revealed that it returned to user growth last quarter. —NF</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/27/meta-returned-to-user-growth-last-quarter-shares-pop?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/27/meta-returned-to-user-growth-last-quarter-shares-pop?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Thu, 28 Apr 2022 00:01:33 -0700</pubDate>
+ </item>
  <item>
   <title>Indonesia bans palm oil exports</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/408d6a049c29a17059f0034db682d49376a54721-3000x2000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It’s one of the most extreme examples yet of how the war in Ukraine is rattling global supply chains and stoking concerns of food shortages, thousands of miles away from the fighting. Unilever, which uses palm oil in products like Dove soap and Hellmann’s mayonnaise, warned investors it may need to jack up prices in the second half of this year. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeToday marks the beginning of a ban on palm oil exports from Indonesia, which accounts for  one-third of the world’s edible oil supply. —JW Indonesia’s ban could send vegetable oil prices spiraling upwards. After prices spiked, the Indonesian government decided to lock down its palm oil supply to ensure its own population doesn’t experience shortages. We have bad news: Palm oil is the most common cooking oil globally.</description>
@@ -343,33 +370,6 @@
   <categories>Real estate</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/open-house-birthplace-of-buffett-associates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Sun, 24 Apr 2022 04:02:07 -0700</pubDate>
- </item>
- <item>
-  <title>NYC's salary transparency law faces pushback from businesses</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/81f06e22894fc31f01a6ebb7a1445b6b022c14db-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeNew York City’s monumental pay transparency law is set to take effect on May 15, meaning that nearly every company operating in the city will have to include a pay range for all open job listings. Critics of the amendment said these employees—including those in the food services and retail industries—are some of the city’s most marginalized workers who are most in need of pay transparency. During testimony over the amendment, some small-business advocates also claimed the law would allow larger companies to easily outbid them for talented hires. While the law is still set to go into effect on May 15, the amended bill is currently in committee. But a proposed amendment to the law—supported by large business groups and under consideration by the city council—could limit its scope, create room for loopholes, and delay its implementation until November. —MK css-1dlcpt7[data-readonly]{box-shadow:none! In a letter to the City Council, the Partnership for New York City (a powerful business group) criticized it for lacking input from the employers it would affect. But radical transparency has proven effective at addressing the wage gap and giving employees an idea of what their work is worth. In the original wording of the amendment, businesses with 15 or fewer employees would be exempt—a change that would have removed around 58,000 NYC companies and 500,000 employees from the scope of the law. That’s a big deal, as pay transparency laws exist largely to address racial and gender pay gaps.</description>
-  <link>https://www.morningbrew.com/daily/stories/pay-transparency-salary-law-nyc-amendment?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Labor</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/pay-transparency-salary-law-nyc-amendment?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sun, 24 Apr 2022 04:02:07 -0700</pubDate>
- </item>
- <item>
-  <title>Make it work: Wedding shenanigans at the workplace</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7b6de1bb891bb0dd9e289abb0a591582a5da30e6-1503x603.png?rect=299,0,905,603&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The enduring pandemic, plus the fact that you’re not inviting anyone from the workplace (as opposed to a select few), only deepens your absolution. 👇Share your workplace conundrum to Make It Work here. Something old, something new, something borrowed…Dennis from finance? Anything nagging at you? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/04/22/make-it-work?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Shane Loughnane</author>
-  <categories>Work life</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/22/make-it-work?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sun, 24 Apr 2022 04:02:07 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers with…Pachinko creator Soo Hugh</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3c25028911760ac53aa8de26b1bbc88be18c8506-3637x2424.jpg?rect=1,0,3636,2424&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. You know, one of the things we say is that all Asians are not monoliths, right? css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. I think it’s important to try to represent the original character as much as possible. I think you couldn’t have done the show without that. So, like, I’m Korean. Let me try out the show in Korean. And if I don’t like it, I could just click away.” Most of Pachinko’s main cast is of Korean descent. What’s so interesting is that you realize all around the world, they’ve been watching American content in subtitles for so long now.</description>
-  <link>https://www.morningbrew.com/daily/stories/icebreakers-with-pachinko-showrunner-soo-hugh?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Jamie Wilde</author>
-  <categories>Finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/icebreakers-with-pachinko-showrunner-soo-hugh?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sun, 24 Apr 2022 04:02:06 -0700</pubDate>
  </item>
 
 </channel>
