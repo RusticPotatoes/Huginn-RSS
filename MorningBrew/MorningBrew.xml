@@ -8,9 +8,27 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/04/28</link>
- <lastBuildDate>Thu, 28 Apr 2022 00:03:24 -0700</lastBuildDate>
- <pubDate>Thu, 28 Apr 2022 00:03:24 -0700</pubDate>
+ <lastBuildDate>Thu, 28 Apr 2022 14:38:24 -0700</lastBuildDate>
+ <pubDate>Thu, 28 Apr 2022 14:38:24 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Pixy is Snap’s new minidrone for keeping your streaks alive</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4d12704370bfdce8b700c78908323a52006d8c48-1920x1080.jpg?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Plus, Snap announced that over 1 billion Bitmoji avatars have been created globally (most, but not all, by your Uncle Mike).</description>
+  <link>https://www.morningbrew.com/daily/stories/pixy-snap-mini-drone-camera</link>
+  <author>Max Knoblauch</author>
+  <categories>Tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/pixy-snap-mini-drone-camera</guid>
+  <pubDate>Thu, 28 Apr 2022 14:36:33 -0700</pubDate>
+ </item>
+ <item>
+  <title>US GDP shrank for the first time since 2020</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2021-10-26/image-c65cf2dd3c549f726f7c18985872cb0c8cf49f73-480x320-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Experts are more focused on the fundamentals: consumer spending (the economy’s No. 1 driver) and business investment. —NF Two volatile components of GDP, lower inventories and a widening trade deficit, were primarily responsible for dragging the metric much lower last quarter—which isn’t too concerning to economists.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/28/us-gdp-shrank-for-the-first-time-since-2020</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/28/us-gdp-shrank-for-the-first-time-since-2020</guid>
+  <pubDate>Thu, 28 Apr 2022 14:36:32 -0700</pubDate>
+ </item>
  <item>
   <title>Video meetings make brainstorming harder, according to study</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f1f70f831e2ebbe75eaf881d82c3fcc611621127-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The study found that groups meeting in person came up with one more idea on average than their virtual counterparts. Our eyes are drawn to faces, which can distract our minds, especially in a virtual setting. Some pairs were in the same room, and some were meeting via video call. —MM</description>
@@ -352,24 +370,6 @@
   <categories>games</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/timed-turntable-april-25</guid>
   <pubDate>Sun, 24 Apr 2022 14:16:58 -0700</pubDate>
- </item>
- <item>
-  <title>Turntable: April 25</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d6d5ff67f65ccfc42ccab384cde8bbc6f76d8507-1920x1080.png?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/turntable-april-25</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/turntable-april-25</guid>
-  <pubDate>Sun, 24 Apr 2022 14:01:57 -0700</pubDate>
- </item>
- <item>
-  <title>Open house: Birthplace of Buffett Associates</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/1030348fbd1a97fe4f332385fd62c924da857a7b-990x660.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Above the office door is Buffett’s signature with the note, “The birthplace of Buffett Associates May 1956.” css-1dlcpt7[data-readonly]{box-shadow:none! Buffett rented this 3,300-square-foot home in the Dundee neighborhood in the 1950s for just $175 a month.</description>
-  <link>https://www.morningbrew.com/daily/stories/open-house-birthplace-of-buffett-associates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Matty Merritt</author>
-  <categories>Real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/open-house-birthplace-of-buffett-associates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sun, 24 Apr 2022 04:02:07 -0700</pubDate>
  </item>
 
 </channel>
