@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/04/28/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/04/28/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/04/29/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/04/29/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/04/28</link>
- <lastBuildDate>Thu, 28 Apr 2022 15:08:24 -0700</lastBuildDate>
- <pubDate>Thu, 28 Apr 2022 15:08:24 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/04/29</link>
+ <lastBuildDate>Fri, 29 Apr 2022 00:03:28 -0700</lastBuildDate>
+ <pubDate>Fri, 29 Apr 2022 00:03:28 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Pixy is Snap’s new minidrone for keeping your streaks alive</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4d12704370bfdce8b700c78908323a52006d8c48-1920x1080.jpg?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Plus, Snap announced that over 1 billion Bitmoji avatars have been created globally (most, but not all, by your Uncle Mike).</description>
+  <link>https://www.morningbrew.com/daily/stories/pixy-snap-mini-drone-camera?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories>Tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/pixy-snap-mini-drone-camera?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Fri, 29 Apr 2022 00:01:27 -0700</pubDate>
+ </item>
+ <item>
+  <title>US GDP shrank for the first time since 2020</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2021-10-26/image-c65cf2dd3c549f726f7c18985872cb0c8cf49f73-480x320-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Experts are more focused on the fundamentals: consumer spending (the economy’s No. 1 driver) and business investment. —NF Two volatile components of GDP, lower inventories and a widening trade deficit, were primarily responsible for dragging the metric much lower last quarter—which isn’t too concerning to economists.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/28/us-gdp-shrank-for-the-first-time-since-2020?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/28/us-gdp-shrank-for-the-first-time-since-2020?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Fri, 29 Apr 2022 00:01:26 -0700</pubDate>
+ </item>
+ <item>
+  <title>Biden said he’s exploring permanent student loan forgiveness</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3894b84f727be2e01a832948d817c2b9b9151473-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. That reflects Biden’s focus on updating the borrower defense program and making it easier for groups of students defrauded by for-profit schools to apply for loan forgiveness. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. Focus on scam schools.</description>
+  <link>https://www.morningbrew.com/daily/stories/student-loan-forgiveness-biden?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>Education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/student-loan-forgiveness-biden?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Fri, 29 Apr 2022 00:01:26 -0700</pubDate>
+ </item>
  <item>
   <title>Biden said he’s exploring permanent student loan forgiveness</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3894b84f727be2e01a832948d817c2b9b9151473-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. That reflects Biden’s focus on updating the borrower defense program and making it easier for groups of students defrauded by for-profit schools to apply for loan forgiveness. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. Focus on scam schools.</description>
@@ -343,33 +370,6 @@
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/24/key-performance-indicators-april-25</guid>
   <pubDate>Sun, 24 Apr 2022 15:32:04 -0700</pubDate>
- </item>
- <item>
-  <title>Amazon’s HQ2 plans in Northern Virginia approved by lawmakers.</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/ebfa5007e03ee72907b8bde4c85aa0ea4e8e6cbf-985x554.png?rect=77,0,831,554&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. But, yeah, back to the Helix. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/04/24/amazon-s-hq2-plans-in-northern-virginia-approved-by-lawmakers</link>
-  <author>Neal Freyman</author>
-  <categories>Real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/24/amazon-s-hq2-plans-in-northern-virginia-approved-by-lawmakers</guid>
-  <pubDate>Sun, 24 Apr 2022 15:32:04 -0700</pubDate>
- </item>
- <item>
-  <title>The week ahead: April 25</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4c704bfb09c851682e2ad79862cf0620832aab54-1024x694.jpg?rect=0,5,1024,683&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The Jacksonville Jaguars have the No. 1 pick for the second year in a row. Earnings: The No. 1 goal for companies reporting earnings this week?</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/04/24/the-week-ahead-april-25</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/24/the-week-ahead-april-25</guid>
-  <pubDate>Sun, 24 Apr 2022 15:32:03 -0700</pubDate>
- </item>
- <item>
-  <title>Shanghai authorities have erected fences around residential buildings in the locked-down city</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0d6e25b0096f97997997a24fd3473d35a4205d35-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. 🇺🇦🇺🇸 The US sent a high-level delegation to Ukraine: US Secretary of State Antony Blinken and Defense Secretary Lloyd Austin met with Ukraine's President Volodymyr Zelensky in Kyiv yesterday, according to a Ukrainian official. The protest song “Do You Hear The People Sing?” css-1dlcpt7[data-readonly]{box-shadow:none! Shanghai authorities were seen erecting green fences around residential areas in an apparent attempt to keep people in the locked-down city from leaving their homes. css-y2oq5g[data-disabled]{opacity:0.5;cursor:not-allowed;box-shadow:var(--chakra-shadows-none);}. They’re the most senior-ranking US officials to visit the city since Russia’s invasion, though many top European leaders have already been to Kyiv to talk with Zelensky. css-1dlcpt7[data-disabled]{opacity:0.4;background-color:rgba(0,0,0,. Apparently Musk’s ability to come up with $46.5 billion in financing changed leadership’s thinking from vehemently opposed to “OK, maybe we should negotiate.” Twitter is reevaluating Elon Musk’s bid to buy the company for $43 billion, the WSJ reported.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/04/24/shanghai-authorities-have-erected-fences-around-residential-buildings-in-the-locked-down-city</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/24/shanghai-authorities-have-erected-fences-around-residential-buildings-in-the-locked-down-city</guid>
-  <pubDate>Sun, 24 Apr 2022 15:32:03 -0700</pubDate>
  </item>
 
 </channel>
