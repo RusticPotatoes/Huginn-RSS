@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/04/29/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/04/29/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/04/30/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/04/30/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/04/29</link>
- <lastBuildDate>Fri, 29 Apr 2022 15:03:30 -0700</lastBuildDate>
- <pubDate>Fri, 29 Apr 2022 15:03:30 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/04/30</link>
+ <lastBuildDate>Sat, 30 Apr 2022 00:03:31 -0700</lastBuildDate>
+ <pubDate>Sat, 30 Apr 2022 00:03:31 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Saturday sketch: How to improve Twitter</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c1382f089dce6166a24879b9f605b6d625a0909e-1500x1613.png?rect=0,306,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/29/saturday-sketch-how-to-improve-twitter?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/29/saturday-sketch-how-to-improve-twitter?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 30 Apr 2022 00:01:30 -0700</pubDate>
+ </item>
+ <item>
+  <title>Johnny Depp, Amber Heard’s defamation trial is a social media circus</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/b1ed26c029ef65b15b2fec2b4c0d8c06975acdca-995x572.png?rect=69,0,858,572&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. TikToks tagged with the hashtag #justiceforjohnnydepp are nearing 6 billion views, and one viral video shows an LA Starbucks with a full tip jar that reads “Johnny Depp” and an empty one with “Amber Heard” on it. Even brands are chiming in: Milani Cosmetics made a TikTok contradicting Heard’s attorney’s claim that Heard used a specific makeup kit to cover up bruises from domestic violence, saying the kit referenced wasn’t available yet. —MM css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIt never takes too long for a celebrity trial to go completely off the rails, but in just two-and-a-half weeks, the Johnny Depp–Amber Heard libel trial has overrun TikTok. Depp supporters have flocked to social media and YouTube livestreams of the trial to share their extremely anti-Amber Heard views.</description>
+  <link>https://www.morningbrew.com/daily/stories/Johnny-depp-amber-heard-trial-social-media-circus?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>Social Media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/Johnny-depp-amber-heard-trial-social-media-circus?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 30 Apr 2022 00:01:30 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Bored Ape Yacht Club is getting a metaverse</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/fe8f43f0dc262427c42c2552bcd3b7a409981538-1920x1080.png?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Zoom out: Bored Apes swung onto the NFT scene almost one year ago exactly—when volume for searches like “non-fungible thingamabob” was at its peak. Yesterday, Bored Ape NFTs hit a record-high floor price of 152 ETH (about $430,000), per The Block Research. —JW At 9pm ET, preapproved buyers with no Saturday night plans can buy “Otherdeeds” for a flat 305 ApeCoins (a digital currency created last month), which was equivalent to more than $8,300 at Thursday’s high. In other words, to many people a Bored Ape is more than just a JPEG.</description>
+  <link>https://www.morningbrew.com/daily/stories/nfts-bored-ape-yacht-club-metaverse?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Jamie Wilde</author>
+  <categories>Crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/nfts-bored-ape-yacht-club-metaverse?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 30 Apr 2022 00:01:30 -0700</pubDate>
+ </item>
+ <item>
+  <title>The Nasdaq suffers its worst monthly drop since 2008</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2022-04-29/image-92db9d07dfdf39c640b7cb83c896b4a33e2b4b45-480x360-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. With China locking down cities at the first trace of Covid, American companies whose products are made in Chinese factories aren’t able to fulfill orders. In April, the S&amp;P dropped 8.8%, the Dow 4.9%, and the Nasdaq, 13.3%—which marks that index’s worst month since 2008.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/29/the-nasdaq-suffers-its-worst-monthly-drop-since-2008?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/29/the-nasdaq-suffers-its-worst-monthly-drop-since-2008?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 30 Apr 2022 00:01:29 -0700</pubDate>
+ </item>
  <item>
   <title>Stock watch: May 1</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/de2962601c0dcd9d28980412d8f3ac1f66d20012-1500x2000.png?rect=0,500,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -334,42 +370,6 @@
   <categories>Education</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/student-loan-forgiveness-biden</guid>
   <pubDate>Thu, 28 Apr 2022 15:06:33 -0700</pubDate>
- </item>
- <item>
-  <title>Pixy is Snap’s new minidrone for keeping your streaks alive</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4d12704370bfdce8b700c78908323a52006d8c48-1920x1080.jpg?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Plus, Snap announced that over 1 billion Bitmoji avatars have been created globally (most, but not all, by your Uncle Mike).</description>
-  <link>https://www.morningbrew.com/daily/stories/pixy-snap-mini-drone-camera</link>
-  <author>Max Knoblauch</author>
-  <categories>Tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/pixy-snap-mini-drone-camera</guid>
-  <pubDate>Thu, 28 Apr 2022 14:36:33 -0700</pubDate>
- </item>
- <item>
-  <title>US GDP shrank for the first time since 2020</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2021-10-26/image-c65cf2dd3c549f726f7c18985872cb0c8cf49f73-480x320-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Experts are more focused on the fundamentals: consumer spending (the economy’s No. 1 driver) and business investment. —NF Two volatile components of GDP, lower inventories and a widening trade deficit, were primarily responsible for dragging the metric much lower last quarter—which isn’t too concerning to economists.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/04/28/us-gdp-shrank-for-the-first-time-since-2020</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/28/us-gdp-shrank-for-the-first-time-since-2020</guid>
-  <pubDate>Thu, 28 Apr 2022 14:36:32 -0700</pubDate>
- </item>
- <item>
-  <title>Video meetings make brainstorming harder, according to study</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f1f70f831e2ebbe75eaf881d82c3fcc611621127-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The study found that groups meeting in person came up with one more idea on average than their virtual counterparts. Our eyes are drawn to faces, which can distract our minds, especially in a virtual setting. Some pairs were in the same room, and some were meeting via video call. —MM</description>
-  <link>https://www.morningbrew.com/daily/stories/video-meetings-make-brainstorming-harder-study?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Matty Merritt</author>
-  <categories>Remote work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/video-meetings-make-brainstorming-harder-study?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 28 Apr 2022 00:01:33 -0700</pubDate>
- </item>
- <item>
-  <title>Indonesia bans palm oil exports</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/408d6a049c29a17059f0034db682d49376a54721-3000x2000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It’s one of the most extreme examples yet of how the war in Ukraine is rattling global supply chains and stoking concerns of food shortages, thousands of miles away from the fighting. Unilever, which uses palm oil in products like Dove soap and Hellmann’s mayonnaise, warned investors it may need to jack up prices in the second half of this year. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeToday marks the beginning of a ban on palm oil exports from Indonesia, which accounts for one-third of the world’s edible oil supply. —JW Indonesia’s ban could send vegetable oil prices spiraling upwards. After prices spiked, the Indonesian government decided to lock down its palm oil supply to ensure its own population doesn’t experience shortages. We have bad news: Palm oil is the most common cooking oil globally.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/04/27/indonesia-bans-palm-oil-exports?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Jamie Wilde</author>
-  <categories>Food &amp; Bev</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/27/indonesia-bans-palm-oil-exports?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 28 Apr 2022 00:01:33 -0700</pubDate>
  </item>
 
 </channel>
