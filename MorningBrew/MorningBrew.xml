@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/04/30/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/04/30/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/01/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/04/30</link>
- <lastBuildDate>Sat, 30 Apr 2022 00:03:31 -0700</lastBuildDate>
- <pubDate>Sat, 30 Apr 2022 00:03:31 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/01</link>
+ <lastBuildDate>Sun, 01 May 2022 00:03:30 -0700</lastBuildDate>
+ <pubDate>Sun, 01 May 2022 00:03:30 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Why are dolphins guarding a Russian naval base?</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/247d66442b7080245b0ac3da8fb36de678621182-1024x681.jpg?rect=1,0,1022,681&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The US jump-started its marine mammal military program in 1960, primarily employing bottlenose dolphins and sea lions to accomplish a variety of underwater tasks humans just don’t have the fins for. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeWe know a decent amount about the US’ use of marine mammals for military purposes after information was leaked about the program in 1992. Their most likely porpoise—sorry, purpose—is to defend Russian warships against enemy divers, serving as a crucial line of defense for what is Russia’s most important naval base on the Black Sea.While we can see you there looking shocked at the existence of a Russian dolphin infantry division…Marine mammals have a long history of military serviceAnd not just for the Russians. Dolphins’ skills were on display during the Iraq War in 2003. Big picture: Over time, humans have become a lot more skilled at leveraging marine mammals to win wars.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/29/why-are-dolphins-guarding-a-russian-naval-base?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/29/why-are-dolphins-guarding-a-russian-naval-base?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 01 May 2022 00:01:29 -0700</pubDate>
+ </item>
+ <item>
+  <title>When a dog-sitting gig turns into an awkward conversation with your boss</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7b6de1bb891bb0dd9e289abb0a591582a5da30e6-1503x603.png?rect=299,0,905,603&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. A key question I have is whether your boss is aware of your side hustle. I dog-sit as a side hustle, so I happily obliged when he asked if I was free. The first of the month is traditionally a big day for bones: Some of us owe them, others collect them, and a hip-hop group that bears the name gave us an iconic 90s track to help mark the calendar. What should I do? Anything nagging at you? css-1dlcpt7[data-readonly]{box-shadow:none! My boss has a new puppy and needed someone to watch her for the weekend. Is it possible your boss was simply biding his time so that he could wake up and settle his debts with the rest of us today? Share your workplace conundrum with Make It Work here. Probably not, so let’s work out your best move here. I feel awkward asking, especially since he’s my boss, but I deserve to be paid for the work I did. Ask Shane here. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeEach week, our workplace whisperer Shane Loughnane answers a reader-submitted question about problems at work.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/29/when-a-dog-sitting-gig-turns-into-an-awkward-conversation-with-your-boss?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Shane Loughnane</author>
+  <categories>Work life</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/29/when-a-dog-sitting-gig-turns-into-an-awkward-conversation-with-your-boss?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 01 May 2022 00:01:27 -0700</pubDate>
+ </item>
+ <item>
+  <title>Icebreakers with...the indistractable author Nir Eyal</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/20a60b9610e2c0ee9e0c5a0ce50827ddcde75a3d-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. I wouldn’t advocate saying, “Oh, if I work for 30 minutes, then I'll be able to putz around on a video game.” Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. So that’s when it’s a problem: when we say we’re going to do one thing and yet we’re doing something else. What I want to cater to is the person who’s like me: I would be the kind of person who said I’d do one thing and I do something else. I would say I’m going to be fully present with people I love, and yet I used my phone as opposed to being really there for my daughter and my wife. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/29/icebreakers-with-the-indistractable-author-nir-eyal?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/29/icebreakers-with-the-indistractable-author-nir-eyal?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 01 May 2022 00:01:26 -0700</pubDate>
+ </item>
+ <item>
+  <title>Stock watch: May 1</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/de2962601c0dcd9d28980412d8f3ac1f66d20012-1500x2000.png?rect=0,500,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/04/29/stock-watch-may-1?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories>Culture</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/29/stock-watch-may-1?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 01 May 2022 00:01:24 -0700</pubDate>
+ </item>
  <item>
   <title>Saturday sketch: How to improve Twitter</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c1382f089dce6166a24879b9f605b6d625a0909e-1500x1613.png?rect=0,306,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -334,42 +370,6 @@
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/29/why-are-dolphins-guarding-a-russian-naval-base</guid>
   <pubDate>Fri, 29 Apr 2022 09:16:29 -0700</pubDate>
- </item>
- <item>
-  <title>Pixy is Snap’s new minidrone for keeping your streaks alive</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4d12704370bfdce8b700c78908323a52006d8c48-1920x1080.jpg?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Plus, Snap announced that over 1 billion Bitmoji avatars have been created globally (most, but not all, by your Uncle Mike).</description>
-  <link>https://www.morningbrew.com/daily/stories/pixy-snap-mini-drone-camera?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/pixy-snap-mini-drone-camera?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Fri, 29 Apr 2022 00:01:27 -0700</pubDate>
- </item>
- <item>
-  <title>US GDP shrank for the first time since 2020</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2021-10-26/image-c65cf2dd3c549f726f7c18985872cb0c8cf49f73-480x320-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Experts are more focused on the fundamentals: consumer spending (the economy’s No. 1 driver) and business investment. —NF Two volatile components of GDP, lower inventories and a widening trade deficit, were primarily responsible for dragging the metric much lower last quarter—which isn’t too concerning to economists.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/04/28/us-gdp-shrank-for-the-first-time-since-2020?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/28/us-gdp-shrank-for-the-first-time-since-2020?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Fri, 29 Apr 2022 00:01:26 -0700</pubDate>
- </item>
- <item>
-  <title>Biden said he’s exploring permanent student loan forgiveness</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3894b84f727be2e01a832948d817c2b9b9151473-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. That reflects Biden’s focus on updating the borrower defense program and making it easier for groups of students defrauded by for-profit schools to apply for loan forgiveness. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. Focus on scam schools.</description>
-  <link>https://www.morningbrew.com/daily/stories/student-loan-forgiveness-biden?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Matty Merritt</author>
-  <categories>Education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/student-loan-forgiveness-biden?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Fri, 29 Apr 2022 00:01:26 -0700</pubDate>
- </item>
- <item>
-  <title>Biden said he’s exploring permanent student loan forgiveness</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3894b84f727be2e01a832948d817c2b9b9151473-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. That reflects Biden’s focus on updating the borrower defense program and making it easier for groups of students defrauded by for-profit schools to apply for loan forgiveness. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. Focus on scam schools.</description>
-  <link>https://www.morningbrew.com/daily/stories/student-loan-forgiveness-biden</link>
-  <author>Matty Merritt</author>
-  <categories>Education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/student-loan-forgiveness-biden</guid>
-  <pubDate>Thu, 28 Apr 2022 15:06:33 -0700</pubDate>
  </item>
 
 </channel>
