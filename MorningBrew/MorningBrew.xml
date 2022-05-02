@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/01/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/02/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/01</link>
- <lastBuildDate>Sun, 01 May 2022 17:43:30 -0700</lastBuildDate>
- <pubDate>Sun, 01 May 2022 17:43:30 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/02</link>
+ <lastBuildDate>Mon, 02 May 2022 00:03:32 -0700</lastBuildDate>
+ <pubDate>Mon, 02 May 2022 00:03:32 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The week ahead: May 2</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3789510ef37549dcb36370c5217f6c93d9a9d250-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In the holiday world: Cinco de Mayo is on Thursday and Mother’s Day is on Sunday.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/01/the-week-ahead-may-2?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/01/the-week-ahead-may-2?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Mon, 02 May 2022 00:01:31 -0700</pubDate>
+ </item>
+ <item>
+  <title>How the Fed actually hikes interest rates</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/fd383d4e9b83a663e666607382e3ff03ea534125-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. When a bank has excess cash on hand, it can loan it out to another one that needs it. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeOn Wednesday, the Fed is expected to hike interest rates even higher to bring inflation back from levels we haven’t seen in decades. Instead, the central bank adjusts what’s known as the “federal funds rate,” which is the average interest rate that banks pay each other for overnight loans. This week, we’re going to carve out some space to explore interest rate hikes from a variety of angles. The banks lending to each other typically settle on an interest rate near the midpoint of the Fed’s range. Because Fed Chair Jerome Powell doesn’t just show up at your bank and tell them to raise their interest rates. Like, what are the mechanics? What that is: Commercial banks borrow and lend money to each other so that they can meet liquidity requirements set by regulators before the business day begins. You should also know that the Fed picks a range for the federal funds rate—not a specific number. In March, when the Fed hiked interest rates for the first time following the onset of the pandemic, it raised its target range from 0–25 basis points to 25–50.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/01/how-the-fed-actually-hikes-interest-rates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/01/how-the-fed-actually-hikes-interest-rates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Mon, 02 May 2022 00:01:31 -0700</pubDate>
+ </item>
+ <item>
+  <title>Warren Buffett holds court at the Berkshire Hathaway annual shareholders meeting</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d8b97dc8ffafb5868690d805d935c084f286f1a3-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It’s unlikely that Buffett has ever touched an Xbox controller, but Berkshire Hathaway is now the largest shareholder of Activision Blizzard after amassing a 9.5% stake. Buffett said that inflation “swindles almost everybody” and was a result of the Fed’s gargantuan stimulus measures to prop up the economy during the pandemic. And…video games? So what did he buy? css-1dlcpt7[data-readonly]{box-shadow:none! css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIn an investing world of air fryers, Warren Buffett is a slow cooker.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/01/buffett-berkshire-hathaway-annual-shareholders-meeting?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Investing</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/01/buffett-berkshire-hathaway-annual-shareholders-meeting?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Mon, 02 May 2022 00:01:30 -0700</pubDate>
+ </item>
  <item>
   <title>Warren Buffett holds court at the Berkshire Hathaway annual shareholders meeting</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d8b97dc8ffafb5868690d805d935c084f286f1a3-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It’s unlikely that Buffett has ever touched an Xbox controller, but Berkshire Hathaway is now the largest shareholder of Activision Blizzard after amassing a 9.5% stake. Around the topic of the stock market, Buffett said the influx of new traders buying and selling stocks during the pandemic has turned the market into “almost totally a casino” in which large American companies have become “poker chips.” Buffett said that inflation “swindles almost everybody” and was a result of the Fed’s gargantuan stimulus measures to prop up the economy during the pandemic. Of course, Buffett would never call it “buying the dip” because he doesn’t believe in timing the market. And…video games? So what did he buy? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -342,33 +369,6 @@
   <author>Theo Burkhart</author>
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/08/new-slug</guid>
-  <pubDate>Fri, 29 Apr 2022 09:41:43 -0700</pubDate>
- </item>
- <item>
-  <title>Superscript test</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/staging/552f0b83a0f907597a2eada92a17e64f7d4cca09-1000x667.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/04/20/superscript-test</link>
-  <author>Theo Burkhart</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/20/superscript-test</guid>
-  <pubDate>Fri, 29 Apr 2022 09:41:43 -0700</pubDate>
- </item>
- <item>
-  <title>gif test</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/staging/a83d7e1fa034148432a6f8d9235add2ddd0c1122-220x220.gif?rect=0,36,220,147&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/04/25/gif-test</link>
-  <author>Liane Yvkoff</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/25/gif-test</guid>
-  <pubDate>Fri, 29 Apr 2022 09:41:43 -0700</pubDate>
- </item>
- <item>
-  <title>has image test</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/staging/085b85918dc04e7dbeafbd6c83a8566683651383-2484x622.jpg?rect=776,0,933,622&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/04/25/has-image-test</link>
-  <author>Liane Yvkoff</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/25/has-image-test</guid>
   <pubDate>Fri, 29 Apr 2022 09:41:43 -0700</pubDate>
  </item>
 
