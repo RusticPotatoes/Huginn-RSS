@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/01</link>
- <lastBuildDate>Sun, 01 May 2022 16:43:28 -0700</lastBuildDate>
- <pubDate>Sun, 01 May 2022 16:43:28 -0700</pubDate>
+ <lastBuildDate>Sun, 01 May 2022 17:28:28 -0700</lastBuildDate>
+ <pubDate>Sun, 01 May 2022 17:28:28 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The week ahead: May 2</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3789510ef37549dcb36370c5217f6c93d9a9d250-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In the holiday world: Cinco de Mayo is on Thursday and Mother’s Day is on Sunday</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/01/the-week-ahead-may-2</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/01/the-week-ahead-may-2</guid>
+  <pubDate>Sun, 01 May 2022 17:26:27 -0700</pubDate>
+ </item>
  <item>
   <title>Turntable: May 2</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d6d5ff67f65ccfc42ccab384cde8bbc6f76d8507-1920x1080.png?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -361,15 +370,6 @@
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/03/25/icebreakers-with-business-legend-indra-nooyi</guid>
   <pubDate>Fri, 29 Apr 2022 09:41:30 -0700</pubDate>
- </item>
- <item>
-  <title>The business students skipping Wall Street for Web3</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/staging/9607bf6203d09268269fc20963130c1388d69ad4-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;Instead, the internet native (she was watching YouTube at nine and later flipped products on Amazon and eBay) learned about the blockchain space from YouTube videos, Y Combinator courses, and from other entrepreneurs already involved. Young people aren’t learning about crypto in schoolThe students interviewed found their passion for crypto outside of classrooms all together. The school has a dedicated hub for its crypto courses, which includes Blockchain Fundamentals but goes beyond to Blockchain Development, Blockchain Technology, and Bitcoin and Cryptocurrencies. A wave of business school students are choosing blockchain careers over traditional banking gigs, shaking up the financial jobs market as much as cryptocurrencies themselves have rattled Wall Street’s old guard. When Columbia Business School Professor Omid Malekan taught his Intro to Blockchain and Crypto course two years ago, “Most of the students who took it were either just curious or oftentimes actually skeptical,” he said. He said he got interested in blockchain gradually…and then all at once: “You end up thinking about [crypto] more and more during the day. In 2020, the crypto media site CoinDesk started ranking the best universities for blockchain and it expanded the list significantly last year. Most of these crypto applications were invisible to the general public just one year ago, but became hot topics at networking events, on Discord servers, and in Morning Brew articles last year. Most business school students interviewed by the Brew compared the current state of blockchain tech to the early days of the internet. In an NFT collection called CryptoPunks, one NFT sold for less than $300 (in ether) in 2020 and resold for over $1 million in 2021. Where the money’s going, jobs are followingThe crypto sector has 12,000 open jobs right now, according to the aggregation platform TrueUp, including 3,000+ new listings opened last week.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/03/28/the-business-students-skipping-wall-street-for-web3</link>
-  <author>Jamie Wilde</author>
-  <categories>Crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/03/28/the-business-students-skipping-wall-street-for-web3</guid>
-  <pubDate>Fri, 29 Apr 2022 09:41:29 -0700</pubDate>
  </item>
 
 </channel>
