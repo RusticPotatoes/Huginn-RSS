@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/02/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/03/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/02</link>
- <lastBuildDate>Mon, 02 May 2022 20:33:24 -0700</lastBuildDate>
- <pubDate>Mon, 02 May 2022 20:33:24 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/03</link>
+ <lastBuildDate>Tue, 03 May 2022 00:03:30 -0700</lastBuildDate>
+ <pubDate>Tue, 03 May 2022 00:03:30 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>John Cena, Vanessa Hudgens and more team up for a new cocktail brand</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-02/image-f7c7bfafe0cebdcf846bc76c2b35eb376e6f9ffc-480x270-gif/giphy.webp'&gt;&lt;br/&gt;. : Premixed cocktails were the fastest-growing segment of the spirits market in 2021. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Cena’s drink is four parts muscle milk, one part absinthe and it’s called “Muscle Absinthe”—JK, it’s actually just an old-fashioned. —MK</description>
+  <link>https://www.morningbrew.com/daily/stories/celebrity-cocktail-john-cena-thomas-ashbourne?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories>Food &amp; Bev</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/celebrity-cocktail-john-cena-thomas-ashbourne?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Tue, 03 May 2022 00:01:30 -0700</pubDate>
+ </item>
+ <item>
+  <title>10% of Russia’s tech sector is expected to leave the country</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/767cc0953314f51d71381a22d384aaffdb4280ca-4516x3387.jpg?rect=0,188,4516,3011&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. A group representing IT companies in Russia said in April that 50k–70k tech workers had already left Russia since the country’s invasion of Ukraine, and it’s expecting 100k more to leave by the end of this month. Big picture: Russia has scrambled to keep its disgruntled tech workers happy. In a $33 billion funding request for Ukraine that Biden unveiled last week, he included a proposal to make it easier for Russian STEM workers to come code in the US. —MM css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/russia-tech-sector-mass-exodus?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>International</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/russia-tech-sector-mass-exodus?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Tue, 03 May 2022 00:01:29 -0700</pubDate>
+ </item>
+ <item>
+  <title>Supreme Court votes to strike down Roe, according to Politico report</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/264283b100cca09e2290ded630db4ee45b490fd6-7165x4733.jpg?rect=33,0,7100,4733&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Stephen Breyer, Sonia Sotomayor, and Elena Kagan are working on at least one dissent. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe Supreme Court has voted to overturn Roe v. Wade, according to a draft opinion that was leaked to Politico. Wade, abortion laws would be left to individual states. Just yesterday, Amazon joined several other corporate giants that have pledged to reimburse US employees who have to travel for abortions as states have moved to pass restrictive abortion laws. Should SCOTUS overturn Roe v. Why was Roe even being considered? It’s a shocking development that would end the constitutional right to an abortion that has been enshrined since 1973. In fact, states passed 106 laws restricting abortion access in 2021, the most in any year since the Roe decision. —NF What happens next? How they voted:Justice Samuel Alito, who wrote the decision to overturn Roe, was joined by Clarence Thomas, Neil M. Chief Justice John Roberts’s vote was unknown, but sources told CNN that he reportedly does not want to completely overturn Roe.Alito, in the majority opinion, blasted Roe, calling it “egregiously wrong from the start.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/02/supreme-court-votes-to-strike-down-roe-according-to-politico-report?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/02/supreme-court-votes-to-strike-down-roe-according-to-politico-report?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Tue, 03 May 2022 00:01:29 -0700</pubDate>
+ </item>
  <item>
   <title>Supreme Court votes to strike down Roe, according to Politico report</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/264283b100cca09e2290ded630db4ee45b490fd6-7165x4733.jpg?rect=33,0,7100,4733&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Stephen Breyer, Sonia Sotomayor, and Elena Kagan are working on at least one dissent. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe Supreme Court has voted to overturn Roe v. Wade, according to a draft opinion that was leaked to Politico. Wade, abortion laws would be left to individual states. Just yesterday, Amazon joined several other corporate giants that have pledged to reimburse US employees who have to travel for abortions as states have moved to pass restrictive abortion laws. Should SCOTUS overturn Roe v. Why was Roe even being considered? It’s a shocking development that would end the constitutional right to an abortion that has been enshrined since 1973. In fact, states passed 106 laws restricting abortion access in 2021, the most in any year since the Roe decision. —NF What happens next? How they voted:Justice Samuel Alito, who wrote the decision to overturn Roe, was joined by Clarence Thomas, Neil M. Chief Justice John Roberts’s vote was unknown, but sources told CNN that he reportedly does not want to completely overturn Roe.Alito, in the majority opinion, blasted Roe, calling it “egregiously wrong from the start.”</description>
@@ -343,33 +370,6 @@
   <categories>Crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/axie-infinity-ronin-network-crypto-hack</guid>
   <pubDate>Fri, 29 Apr 2022 09:41:48 -0700</pubDate>
- </item>
- <item>
-  <title>Report: Meta hired GOP consulting firm to amplify negative messages about TikTok</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/staging/a94e7f971da9fb9d874f93d9d9cea0aa1679d56c-1000x667.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. During that earnings call, CEO Mark Zuckerberg repeatedly blamed TikTok for snagging users’ attention, saying, “People have a lot of choices for how they want to spend their time, and apps like TikTok are growing very quickly.” )Pushing stories about harmful TikTok trends: Targeted Victory enlisted local operatives to promote stories about some social media trends—such as the “Slap a Teacher TikTok challenge”—that might freak parents out. —NF css-1dlcpt7[data-readonly]{box-shadow:none! According to a Washington Post report, Meta hired a top Republican consulting firm to help spread negative messages about rival TikTok in a campaign reminiscent of Frank Underwood’s political schemes.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/03/30/report-meta-hired-gop-consulting-firm-to-amplify-negative-messages-about-tiktok</link>
-  <author>Neal Freyman</author>
-  <categories>Social Media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/03/30/report-meta-hired-gop-consulting-firm-to-amplify-negative-messages-about-tiktok</guid>
-  <pubDate>Fri, 29 Apr 2022 09:41:48 -0700</pubDate>
- </item>
- <item>
-  <title>Key performance indicators: March 31</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/staging/9524616651179ac4c4bfb9f5a9f6325bfc5d9e16-625x491.png?rect=0,37,625,417&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Earendel is 12.9 billion light-years from Earth and was formed less than 1 billion years after the Big Bang. 👍 Yes👎 No BlackRock President Rob Kapito warned that, due to widespread shortages of food, workers, and housing, “this generation is going to go into a store and not be able to get what they want” for the first time. Stay informed and entertained, for free. If given a free ticket on the rocket, would you go?</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/03/30/key-performance-indicators-march-31</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/03/30/key-performance-indicators-march-31</guid>
-  <pubDate>Fri, 29 Apr 2022 09:41:47 -0700</pubDate>
- </item>
- <item>
-  <title>Bruce Willis is stepping away from acting</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/staging/79a96449938147593b3f2f13851cf4bfb97fc22e-3000x2000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Willis’s films, including Pulp Fiction, The Sixth Sense, and the Christmas classic Die Hard, have grossed more than $5 billion at the global box office. The UN has also verified 1,189 civilian deaths in Ukraine, though the actual count is probably much higher. 🇺🇸🇲🇽 A Covid-era border policy will come to an end.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/03/30/bruce-willis-is-stepping-away-from-acting</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/03/30/bruce-willis-is-stepping-away-from-acting</guid>
-  <pubDate>Fri, 29 Apr 2022 09:41:47 -0700</pubDate>
  </item>
 
 </channel>
