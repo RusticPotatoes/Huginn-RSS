@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/02</link>
- <lastBuildDate>Mon, 02 May 2022 14:58:28 -0700</lastBuildDate>
- <pubDate>Mon, 02 May 2022 14:58:28 -0700</pubDate>
+ <lastBuildDate>Mon, 02 May 2022 20:33:24 -0700</lastBuildDate>
+ <pubDate>Mon, 02 May 2022 20:33:24 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Supreme Court votes to strike down Roe, according to Politico report</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/264283b100cca09e2290ded630db4ee45b490fd6-7165x4733.jpg?rect=33,0,7100,4733&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Stephen Breyer, Sonia Sotomayor, and Elena Kagan are working on at least one dissent. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe Supreme Court has voted to overturn Roe v. Wade, according to a draft opinion that was leaked to Politico. Wade, abortion laws would be left to individual states. Just yesterday, Amazon joined several other corporate giants that have pledged to reimburse US employees who have to travel for abortions as states have moved to pass restrictive abortion laws. Should SCOTUS overturn Roe v. Why was Roe even being considered? It’s a shocking development that would end the constitutional right to an abortion that has been enshrined since 1973. In fact, states passed 106 laws restricting abortion access in 2021, the most in any year since the Roe decision. —NF What happens next? How they voted:Justice Samuel Alito, who wrote the decision to overturn Roe, was joined by Clarence Thomas, Neil M. Chief Justice John Roberts’s vote was unknown, but sources told CNN that he reportedly does not want to completely overturn Roe.Alito, in the majority opinion, blasted Roe, calling it “egregiously wrong from the start.”</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/02/supreme-court-votes-to-strike-down-roe-according-to-politico-report</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/02/supreme-court-votes-to-strike-down-roe-according-to-politico-report</guid>
+  <pubDate>Mon, 02 May 2022 20:31:33 -0700</pubDate>
+ </item>
  <item>
   <title>10% of Russia’s tech sector is expected to leave the country</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/767cc0953314f51d71381a22d384aaffdb4280ca-4516x3387.jpg?rect=0,188,4516,3011&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. A group representing IT companies in Russia said in April that 50k–70k tech workers have already left Russia since the country’s invasion of Ukraine, and it’s expecting 100k more to leave by the end of this month. Big picture: Russia has scrambled to keep its disgruntled tech workers happy within its borders. In a $33 billion funding request for Ukraine that Biden unveiled last week, he included a proposal to make it easier for Russian STEM workers to come code in the US. —MM css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -361,15 +370,6 @@
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/03/30/bruce-willis-is-stepping-away-from-acting</guid>
   <pubDate>Fri, 29 Apr 2022 09:41:47 -0700</pubDate>
- </item>
- <item>
-  <title>Thousands of Verizon users received scam texts from themselves</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/staging/e36a88a7dd74f11ece3c8b95a2a56f1cc9a3fdb2-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. While I didn’t click the link included in my text to myself, The Verge reported that it would have gone to the Russian state media network Channel One Russia, which feels like an odd gift tbh. Verizon has begun working with the FBI and the Secret Service to identify the source of the apparent phishing attempt, adding that, “virtually all wireless providers have faced similar fraudulent activity in recent months.” —MK Zoom out: The FTC received more than 375,000 reports of text message fraud in 2021—with losses for link-clickers totalling $131 million. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeOn Monday, I (Max) received a text message from myself offering some good news: I’d paid my bill for March and, as a treat, I was sending myself a “little gift” for my troubles. According to Verizon, thousands of users have received similar texts from themselves—apparently the work of “bad actors.”</description>
-  <link>https://www.morningbrew.com/daily/stories/verizon-text-self-phishing-scam</link>
-  <author>Max Knoblauch</author>
-  <categories>Cybersecurity</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/verizon-text-self-phishing-scam</guid>
-  <pubDate>Fri, 29 Apr 2022 09:41:46 -0700</pubDate>
  </item>
 
 </channel>
