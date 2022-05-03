@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/03</link>
- <lastBuildDate>Tue, 03 May 2022 00:03:30 -0700</lastBuildDate>
- <pubDate>Tue, 03 May 2022 00:03:30 -0700</pubDate>
+ <lastBuildDate>Tue, 03 May 2022 14:18:28 -0700</lastBuildDate>
+ <pubDate>Tue, 03 May 2022 14:18:28 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The Western megadrought uncovered a 40-year-old homicide on Lake Mead</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7575cb44e71631b3ad3d6dae0b0dd0d1ba288f06-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. But, record temperatures and declining snowmelt runoff have led to the lake’s lowest level on record. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Well, this isn’t the work of a clumsy murderer—just one who didn’t predict Lake Mead’s drastic water level plunge. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeA 40-year-old, potentially Mafia-related homicide has been uncovered on the shores of Lake Mead, thanks in large part to climate change. On Sunday, visitors walking along Lake Mead’s shoreline discovered a partially corroded barrel containing a body. 25 million people and millions of acres of farmland use Lake Mead’s water. —MK Lake Mead is currently around 1,054 feet above sea level, its lowest level since it was first filled in the 1930s.</description>
+  <link>https://www.morningbrew.com/daily/stories/lake-mead-homicide-megadrought</link>
+  <author>Max Knoblauch</author>
+  <categories>Environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/lake-mead-homicide-megadrought</guid>
+  <pubDate>Tue, 03 May 2022 14:16:27 -0700</pubDate>
+ </item>
  <item>
   <title>John Cena, Vanessa Hudgens and more team up for a new cocktail brand</title>
   <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-02/image-f7c7bfafe0cebdcf846bc76c2b35eb376e6f9ffc-480x270-gif/giphy.webp'&gt;&lt;br/&gt;. : Premixed cocktails were the fastest-growing segment of the spirits market in 2021. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Cena’s drink is four parts muscle milk, one part absinthe and it’s called “Muscle Absinthe”—JK, it’s actually just an old-fashioned. —MK</description>
@@ -361,15 +370,6 @@
   <categories>Investing</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/03/29/apple-leads-a-stock-market-rally-with-11-day-winning-streak</guid>
   <pubDate>Fri, 29 Apr 2022 09:41:49 -0700</pubDate>
- </item>
- <item>
-  <title>Axie Infinity’s Ronin Network suffers largest-ever crypto hack</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/staging/0e075f56722ca7b23054d5d736b41a18869f184b-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. The details: The hack drained roughly $617 million worth of ether and USDC from the Ronin Network—a “layer 2” solution (layer 1 being the Ethereum blockchain) that conducts crypto transactions for Axie Infinity. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. One of blockchain technology’s big promises is enhanced security, but so far its track record is muddier than a Dirty Jobs episode. —JW But there’s a trade-off: Ronin is less secure than the blockchain it supports. According to a post from Ronin yesterday, most of the stolen funds are still sitting in that wallet, and Ronin is working 25/7 with regulators to get them back. In this case, hacker(s) took control of enough of the “nodes” that greenlight transactions on Ronin to funnel money into their own ethereum wallet. Because Ronin is off-chain, its transactions are faster, cheaper, and less energy intensive than on-chain ones.</description>
-  <link>https://www.morningbrew.com/daily/stories/axie-infinity-ronin-network-crypto-hack</link>
-  <author>Jamie Wilde</author>
-  <categories>Crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/axie-infinity-ronin-network-crypto-hack</guid>
-  <pubDate>Fri, 29 Apr 2022 09:41:48 -0700</pubDate>
  </item>
 
 </channel>
