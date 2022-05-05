@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/05</link>
- <lastBuildDate>Thu, 05 May 2022 14:43:21 -0700</lastBuildDate>
- <pubDate>Thu, 05 May 2022 14:43:21 -0700</pubDate>
+ <lastBuildDate>Thu, 05 May 2022 14:58:23 -0700</lastBuildDate>
+ <pubDate>Thu, 05 May 2022 14:58:23 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>E-commerce is flatlining in the first quarter</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4810ff2efd8faab4b8e119616eed20cd25b05fa8-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Amazon set the stage last week, reporting a 3% drop in online sales in the first three months of the year, and forecasting a meager 3% sales growth for the current quarter. Etsy and eBay shares both dropped by double digits yesterday after giving weak guidance for the current quarter. —MK css-1dlcpt7[data-readonly]{box-shadow:none! As shoppers abandon the tab for the fitting room, online retailers will have to pivot to stay competitive.</description>
+  <link>https://www.morningbrew.com/daily/stories/e-commerce-flatline-first-quarter-online-sales</link>
+  <author>Max Knoblauch</author>
+  <categories>E-Commerce</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/e-commerce-flatline-first-quarter-online-sales</guid>
+  <pubDate>Thu, 05 May 2022 14:56:23 -0700</pubDate>
+ </item>
  <item>
   <title>Elon lines up $7.1 billion in additional financing for his Twitter takeover</title>
   <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-05/image-1b0a3356288c194e44a71d92c2e09278b92cf83f-480x360-gif/giphy(3).webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The Saudi royal, who is one of Twitter’s largest backers already, said he’d roll over his current investment into the “new” Twitter. They include…Prince Alwaleed bin Talal: $1.9 billion. Seems like Elon will be pretty hands-on.</description>
@@ -361,15 +370,6 @@
   <categories>Crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/nfts-bored-ape-yacht-club-metaverse</guid>
   <pubDate>Fri, 29 Apr 2022 15:01:29 -0700</pubDate>
- </item>
- <item>
-  <title>Johnny Depp, Amber Heard’s defamation trial is a social media circus</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/b1ed26c029ef65b15b2fec2b4c0d8c06975acdca-995x572.png?rect=69,0,858,572&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. TikToks tagged with the hashtag #justiceforjohnnydepp are nearing 6 billion views, and one viral video shows an LA Starbucks with a full tip jar that reads “Johnny Depp” and an empty one with “Amber Heard” on it. Even brands are chiming in: Milani Cosmetics made a TikTok contradicting Heard’s attorney’s claim that Heard used a specific makeup kit to cover up bruises from domestic violence, saying the kit referenced wasn’t available yet. —MM css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIt never takes too long for a celebrity trial to go completely off the rails, but in just two-and-a-half weeks, the Johnny Depp–Amber Heard libel trial has overrun TikTok. Depp supporters have flocked to social media and YouTube livestreams of the trial to share their extremely anti-Amber Heard comments.</description>
-  <link>https://www.morningbrew.com/daily/stories/Johnny-depp-amber-heard-trial-social-media-circus</link>
-  <author>Matty Merritt</author>
-  <categories>Social Media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/Johnny-depp-amber-heard-trial-social-media-circus</guid>
-  <pubDate>Fri, 29 Apr 2022 14:46:29 -0700</pubDate>
  </item>
 
 </channel>
