@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/04/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/05/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/04</link>
- <lastBuildDate>Wed, 04 May 2022 15:18:26 -0700</lastBuildDate>
- <pubDate>Wed, 04 May 2022 15:18:26 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/05</link>
+ <lastBuildDate>Thu, 05 May 2022 00:03:31 -0700</lastBuildDate>
+ <pubDate>Thu, 05 May 2022 00:03:31 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Guinness World Record set for longest career at one company</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e38bbcc83bded8b53eb6174ce6e93634563501ea-678x452.png?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The Brazilian recently set a Guinness World Record for spending his 84-year career at a single company. —JW All I care about is that tomorrow will be another day in which I will wake up, get up, exercise, and go to work; you need to get busy with the present, not the past or the future. Why? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/Guinness-World-Record-longest-career-one-company?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Jamie Wilde</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/Guinness-World-Record-longest-career-one-company?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Thu, 05 May 2022 00:01:30 -0700</pubDate>
+ </item>
+ <item>
+  <title>Online mental health care startup Cerebral will stop new Adderall prescriptions</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d2a02941c824615453cb3fa17da4f9f8ff5bd3a1-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Following a funding round led by SoftBank last December, Cerebral was valued at $4.8 billion. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Cerebral, the mental health telehealth startup, said yesterday it would pause Adderall and other ADHD medication prescriptions for new patients.</description>
+  <link>https://www.morningbrew.com/daily/stories/cerebral-mental-health-startup-stop-new-adderall-perscriptions?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>Health Tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/cerebral-mental-health-startup-stop-new-adderall-perscriptions?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Thu, 05 May 2022 00:01:30 -0700</pubDate>
+ </item>
+ <item>
+  <title>Fed enacts largest interest rate hike since 2000</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3ca67bf91701f08ad3ffb444609649404e71982a-5101x3400.jpg?rect=1,0,5100,3400&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. But hiking interest rates is just one tool the Fed plans to use to bring inflation back down. “Inflation is much too high, and we understand the hardship it is causing,” Powell said at a press conference yesterday—the first one he’s held in-person since the pandemic began. Given that keeping prices stable is one of the Fed’s main responsibilities, critics say it’s been a total slacker over the past year and needs to get hiking to bring down inflation from its stratospheric heights. The Fed has heard that message. Fed Chair Jerome Powell jacked up interest rates by a half-percentage point yesterday. —NF Even Janet Yellen, the current Treasury Secretary and former Fed Chair, said Powell would need to be “skillful and lucky” to get this plane on the ground without hurting anyone.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/04/fed-hikes-interest-rates-the-most-since-2000?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/04/fed-hikes-interest-rates-the-most-since-2000?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Thu, 05 May 2022 00:01:29 -0700</pubDate>
+ </item>
  <item>
   <title>Fed hikes interest rates the most since 2000</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3ca67bf91701f08ad3ffb444609649404e71982a-5101x3400.jpg?rect=1,0,5100,3400&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. But hiking interest rates is just one tool the Fed plans to use to bring inflation back down. “Inflation is much too high, and we understand the hardship it is causing,” Powell said at a press conference yesterday—the first one he’s held in-person since the pandemic began. Given that keeping prices stable is one of the Fed’s main responsibilities, critics say it’s been a total slacker over the past year and needs to get hiking to bring down inflation from its stratospheric heights. The Fed has heard that message. Fed Chair Jerome Powell jacked up interest rates by a half-percentage point yesterday. —NF Even Janet Yellen, the current Treasury Secretary and former Fed Chair, said Powell would need to be “skillful and lucky” to get this plane on the ground without hurting anyone.</description>
@@ -343,33 +370,6 @@
   <categories>Virtual reality</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/the-new-playboy-mansion-could-be-in-the-metaverse</guid>
   <pubDate>Fri, 29 Apr 2022 13:31:39 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers with...the indistractable author Nir Eyal</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/20a60b9610e2c0ee9e0c5a0ce50827ddcde75a3d-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. I wouldn’t advocate saying, “Oh, if I work for 30 minutes, then I'll be able to putz around on a video game.” Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. So that’s when it’s a problem: when we say we’re going to do one thing and yet we’re doing something else. What I want to cater to is the person who’s like me: I would be the kind of person who said I’d do one thing and I do something else. I would say I’m going to be fully present with people I love, and yet I used my phone as opposed to being really there for my daughter and my wife. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/04/29/icebreakers-with-the-indistractable-author-nir-eyal</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/29/icebreakers-with-the-indistractable-author-nir-eyal</guid>
-  <pubDate>Fri, 29 Apr 2022 13:16:32 -0700</pubDate>
- </item>
- <item>
-  <title>Saturday sketch: How to improve Twitter</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c1382f089dce6166a24879b9f605b6d625a0909e-1500x1613.png?rect=0,306,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/04/29/saturday-sketch-how-to-improve-twitter</link>
-  <author>Max Knoblauch</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/29/saturday-sketch-how-to-improve-twitter</guid>
-  <pubDate>Fri, 29 Apr 2022 13:16:30 -0700</pubDate>
- </item>
- <item>
-  <title>Key performance indicators: March 29</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/staging/bac6b25e9e4869cc06b0fb102d95234f9a497760-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The State of NY and the Buffalo Bills reached a deal for a new stadium that would receive $850 million in public funds—the biggest taxpayer contribution to an NFL stadium in history, per the NYT.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/03/28/key-performance-indicators-march-29</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/03/28/key-performance-indicators-march-29</guid>
-  <pubDate>Fri, 29 Apr 2022 09:41:55 -0700</pubDate>
  </item>
 
 </channel>
