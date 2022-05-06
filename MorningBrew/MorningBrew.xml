@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/06</link>
- <lastBuildDate>Fri, 06 May 2022 09:48:26 -0700</lastBuildDate>
- <pubDate>Fri, 06 May 2022 09:48:26 -0700</pubDate>
+ <lastBuildDate>Fri, 06 May 2022 12:38:26 -0700</lastBuildDate>
+ <pubDate>Fri, 06 May 2022 12:38:26 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>This recurring meeting needs to end</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7b6de1bb891bb0dd9e289abb0a591582a5da30e6-1503x603.png?rect=299,0,905,603&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. So while it’s usually best to be honest, it’s worth considering if you can get the outcome you desire without hurting any feelings. Share your workplace conundrum with Make It Work here. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/06/recurring-meeting-end</link>
+  <author>Shane Loughnane</author>
+  <categories>Work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/06/recurring-meeting-end</guid>
+  <pubDate>Fri, 06 May 2022 12:36:25 -0700</pubDate>
+ </item>
  <item>
   <title>Stock watch: May 8</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/2ef65d5db6902d6705bf8ce88c86cbc476e5e3bd-1500x2000.png?rect=0,500,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -361,15 +370,6 @@
   <categories>Culture</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/29/stock-watch-may-1?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Sun, 01 May 2022 00:01:24 -0700</pubDate>
- </item>
- <item>
-  <title>Saturday sketch: How to improve Twitter</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c1382f089dce6166a24879b9f605b6d625a0909e-1500x1613.png?rect=0,306,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/04/29/saturday-sketch-how-to-improve-twitter?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/29/saturday-sketch-how-to-improve-twitter?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sat, 30 Apr 2022 00:01:30 -0700</pubDate>
  </item>
 
 </channel>
