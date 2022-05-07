@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/07</link>
- <lastBuildDate>Sat, 07 May 2022 00:03:23 -0700</lastBuildDate>
- <pubDate>Sat, 07 May 2022 00:03:23 -0700</pubDate>
+ <lastBuildDate>Sat, 07 May 2022 14:54:06 -0700</lastBuildDate>
+ <pubDate>Sat, 07 May 2022 14:54:06 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Icebreakers with…YouTuber and inventor Simone Giertz</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-06/image-ce99a8e09ad925c44bd2267aa3da2236c6ccb50d-500x281-gif/simone.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. For YouTube, I’m building a Bubble Wrap music box. So you know a small music box with a barrel? I’m exchanging one of the easiest business models, which is influencing—money in from brands, and content out—for one of the most complex and antagonizing business models you could possibly have. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
+  <link>https://www.morningbrew.com/daily/stories/icebreakers-with-youtuber-and-inventor-simone-giertz</link>
+  <author>Matty Merritt</author>
+  <categories>Q&amp;A</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/icebreakers-with-youtuber-and-inventor-simone-giertz</guid>
+  <pubDate>Sat, 07 May 2022 14:52:06 -0700</pubDate>
+ </item>
  <item>
   <title>What's your Kentucky Derby horse name?</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/fe5d46c3ca3f428c62dee233fac6fefbdd2102b6-1200x1200.png?rect=0,200,1200,800&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -361,15 +370,6 @@
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/01/how-the-fed-actually-hikes-interest-rates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Mon, 02 May 2022 00:01:31 -0700</pubDate>
- </item>
- <item>
-  <title>Warren Buffett holds court at the Berkshire Hathaway annual shareholders meeting</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d8b97dc8ffafb5868690d805d935c084f286f1a3-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It’s unlikely that Buffett has ever touched an Xbox controller, but Berkshire Hathaway is now the largest shareholder of Activision Blizzard after amassing a 9.5% stake. Buffett said that inflation “swindles almost everybody” and was a result of the Fed’s gargantuan stimulus measures to prop up the economy during the pandemic. And…video games? So what did he buy? css-1dlcpt7[data-readonly]{box-shadow:none! css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIn an investing world of air fryers, Warren Buffett is a slow cooker.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/01/buffett-berkshire-hathaway-annual-shareholders-meeting?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories>Investing</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/01/buffett-berkshire-hathaway-annual-shareholders-meeting?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Mon, 02 May 2022 00:01:30 -0700</pubDate>
  </item>
 
 </channel>
