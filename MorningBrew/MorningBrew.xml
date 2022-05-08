@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/07/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/08/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/08/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/07</link>
- <lastBuildDate>Sat, 07 May 2022 14:54:06 -0700</lastBuildDate>
- <pubDate>Sat, 07 May 2022 14:54:06 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/08</link>
+ <lastBuildDate>Sun, 08 May 2022 00:04:02 -0700</lastBuildDate>
+ <pubDate>Sun, 08 May 2022 00:04:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Museums reckon with their ‘finders keepers’ problem</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/78b2594f4ed3e0048d84fac6bb3a9485af938791-5184x3471.jpg?rect=0,7,5184,3456&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. But now, individual museums under the Smithsonian’s umbrella (including the National Portrait Gallery and the National Museum of American History) can individually decide to return artifacts, even when their hand isn’t forced by the law. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. And in the US, there have been ongoing efforts to return Native American artifacts: The Museum of Natural History has given back over 1,850 since 1998 to American Indigenous communities. Italy loaned back a fragment of the Parthenon Marbles (a goddess’s foot) this year. —JW</description>
+  <link>https://www.morningbrew.com/daily/stories/museums-reckon-with-their-finders-keepers-problem?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Jamie Wilde</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/museums-reckon-with-their-finders-keepers-problem?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 08 May 2022 00:02:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>This recurring meeting needs to end</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7b6de1bb891bb0dd9e289abb0a591582a5da30e6-1503x603.png?rect=299,0,905,603&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. So while it’s usually best to be honest, it’s worth considering if you can get the outcome you desire without hurting any feelings. Share your workplace conundrum with Make It Work here. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/06/recurring-meeting-end?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Shane Loughnane</author>
+  <categories>Work</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/06/recurring-meeting-end?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 08 May 2022 00:02:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>Icebreakers with…YouTuber and inventor Simone Giertz</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-06/image-ce99a8e09ad925c44bd2267aa3da2236c6ccb50d-500x281-gif/simone.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. For YouTube, I’m building a Bubble Wrap music box. So you know a small music box with a barrel? I’m exchanging one of the easiest business models, which is influencing—money in from brands, and content out—for one of the most complex and antagonizing business models you could possibly have. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
+  <link>https://www.morningbrew.com/daily/stories/icebreakers-with-youtuber-and-inventor-simone-giertz?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>Q&amp;A</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/icebreakers-with-youtuber-and-inventor-simone-giertz?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 08 May 2022 00:02:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>Stock watch: May 8</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/2ef65d5db6902d6705bf8ce88c86cbc476e5e3bd-1500x2000.png?rect=0,500,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/06/stock-watch-may-8?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories>Culture</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/06/stock-watch-may-8?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 08 May 2022 00:02:06 -0700</pubDate>
+ </item>
  <item>
   <title>Icebreakers with…YouTuber and inventor Simone Giertz</title>
   <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-06/image-ce99a8e09ad925c44bd2267aa3da2236c6ccb50d-500x281-gif/simone.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. For YouTube, I’m building a Bubble Wrap music box. So you know a small music box with a barrel? I’m exchanging one of the easiest business models, which is influencing—money in from brands, and content out—for one of the most complex and antagonizing business models you could possibly have. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
@@ -334,42 +370,6 @@
   <categories>International</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/russia-tech-sector-mass-exodus</guid>
   <pubDate>Mon, 02 May 2022 14:56:27 -0700</pubDate>
- </item>
- <item>
-  <title>John Cena, Vanessa Hudgens and more team up for a new cocktail brand</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-02/image-f7c7bfafe0cebdcf846bc76c2b35eb376e6f9ffc-480x270-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Cena’s drink is four parts muscle milk, one part absinthe and it’s called “Muscle Absinthe”—JK, it’s actually just an old-fashioned. —MK</description>
-  <link>https://www.morningbrew.com/daily/stories/celebrity-cocktail-john-cena-thomas-ashbourne</link>
-  <author>Max Knoblauch</author>
-  <categories>Food &amp; Bev</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/celebrity-cocktail-john-cena-thomas-ashbourne</guid>
-  <pubDate>Mon, 02 May 2022 14:56:27 -0700</pubDate>
- </item>
- <item>
-  <title>May’s GOP primaries are big-money affairs</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/b28535805554d34e351973248c12bd04cae0c9af-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Advertising spends in the PA primary hit $45 million as of late April, with weeks left until voters head to the polls. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeNow that May is upon us, midterm election season has begun in earnest: 13 states head to the polls to vote in primaries this month, including elections in Ohio and Indiana today. His super PAC recently received a $3.5 million donation from billionaire Peter Thiel. Citadel CEO Ken Griffin has donated $7.5 million to a pro-McCormick super PAC so far.</description>
-  <link>https://www.morningbrew.com/daily/stories/may-gop-primaries-elections</link>
-  <author>Max Knoblauch</author>
-  <categories>Government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/may-gop-primaries-elections</guid>
-  <pubDate>Mon, 02 May 2022 14:56:26 -0700</pubDate>
- </item>
- <item>
-  <title>The week ahead: May 2</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3789510ef37549dcb36370c5217f6c93d9a9d250-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In the holiday world: Cinco de Mayo is on Thursday and Mother’s Day is on Sunday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/01/the-week-ahead-may-2?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/01/the-week-ahead-may-2?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Mon, 02 May 2022 00:01:31 -0700</pubDate>
- </item>
- <item>
-  <title>How the Fed actually hikes interest rates</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/fd383d4e9b83a663e666607382e3ff03ea534125-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. When a bank has excess cash on hand, it can loan it out to another one that needs it. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeOn Wednesday, the Fed is expected to hike interest rates even higher to bring inflation back from levels we haven’t seen in decades. Instead, the central bank adjusts what’s known as the “federal funds rate,” which is the average interest rate that banks pay each other for overnight loans. This week, we’re going to carve out some space to explore interest rate hikes from a variety of angles. The banks lending to each other typically settle on an interest rate near the midpoint of the Fed’s range. Because Fed Chair Jerome Powell doesn’t just show up at your bank and tell them to raise their interest rates. Like, what are the mechanics? What that is: Commercial banks borrow and lend money to each other so that they can meet liquidity requirements set by regulators before the business day begins. You should also know that the Fed picks a range for the federal funds rate—not a specific number. In March, when the Fed hiked interest rates for the first time following the onset of the pandemic, it raised its target range from 0–25 basis points to 25–50.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/01/how-the-fed-actually-hikes-interest-rates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/01/how-the-fed-actually-hikes-interest-rates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Mon, 02 May 2022 00:01:31 -0700</pubDate>
  </item>
 
 </channel>
