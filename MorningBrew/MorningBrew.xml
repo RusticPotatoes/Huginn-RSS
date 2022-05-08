@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/08</link>
- <lastBuildDate>Sun, 08 May 2022 16:09:04 -0700</lastBuildDate>
- <pubDate>Sun, 08 May 2022 16:09:04 -0700</pubDate>
+ <lastBuildDate>Sun, 08 May 2022 16:23:58 -0700</lastBuildDate>
+ <pubDate>Sun, 08 May 2022 16:23:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Timed Turntable: May 9</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d6d5ff67f65ccfc42ccab384cde8bbc6f76d8507-1920x1080.png?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/08/timed-turntable-may-9</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/08/timed-turntable-may-9</guid>
+  <pubDate>Sun, 08 May 2022 16:22:07 -0700</pubDate>
+ </item>
  <item>
   <title>US solar industry in state of chaos during tariff probe</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/447a04d423e25b3fc20902ea205e90c9123b21df-1024x646.jpg?rect=28,0,969,646&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It’s all because of one companyIn March, a small solar panel manufacturer in San Jose, Auxin Solar, asked the Commerce Dept. According to the Solar Energy Industries Association, 318 solar projects around the country, including one in Texas that would have powered more than 10,000 homes, have been canceled or delayed in recent weeks. to launch an investigation into whether Chinese solar products were being illegally funneled through other Asian countries on their way to the US. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe US solar industry is a hot mess right now. Big picture: The Biden administration is having a tough time squaring the industry-wide pause with its goal of halving the cost of solar electricity by 2030. Solar advocates are livid with Auxin and the fedsRenewables leaders are flabbergasted that solar development has been put on ice at a time when the US needs to be ramping up clean-energy production to meet its climate targets. And receiving no imports from those countries is a big problem, because 82% of the most popular solar modules in the US come from there.</description>
@@ -361,15 +370,6 @@
   <categories>Food &amp; Bev</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/celebrity-cocktail-john-cena-thomas-ashbourne?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Tue, 03 May 2022 00:01:30 -0700</pubDate>
- </item>
- <item>
-  <title>10% of Russia’s tech sector is expected to leave the country</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/767cc0953314f51d71381a22d384aaffdb4280ca-4516x3387.jpg?rect=0,188,4516,3011&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. A group representing IT companies in Russia said in April that 50k–70k tech workers had already left Russia since the country’s invasion of Ukraine, and it’s expecting 100k more to leave by the end of this month. Big picture: Russia has scrambled to keep its disgruntled tech workers happy. In a $33 billion funding request for Ukraine that Biden unveiled last week, he included a proposal to make it easier for Russian STEM workers to come code in the US. —MM css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/russia-tech-sector-mass-exodus?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Matty Merritt</author>
-  <categories>International</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/russia-tech-sector-mass-exodus?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Tue, 03 May 2022 00:01:29 -0700</pubDate>
  </item>
 
 </channel>
