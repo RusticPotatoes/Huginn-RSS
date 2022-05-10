@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/10</link>
- <lastBuildDate>Tue, 10 May 2022 15:29:03 -0700</lastBuildDate>
- <pubDate>Tue, 10 May 2022 15:29:03 -0700</pubDate>
+ <lastBuildDate>Tue, 10 May 2022 15:44:04 -0700</lastBuildDate>
+ <pubDate>Tue, 10 May 2022 15:44:04 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Apple is officially retiring the iPod</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7cde8822bc41ab1d53baa797938fb4b905ad1f03-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In 2006, it released the iPod Nano that came in colors we were begging to infiltrate the tech world (lime green and hot pink). The tech giant said yesterday that it will discontinue its iconic iPod Touch, the final remaining product of its music-player-only lineup, marking the official end of the era that revolutionized digital music. —MM css-1dlcpt7[data-readonly]{box-shadow:none! And in 2007, the very first iPod that you could smudge up with your greasy fingers arrived.</description>
+  <link>https://www.morningbrew.com/daily/stories/apple-retiring-ipod</link>
+  <author>Matty Merritt</author>
+  <categories>Tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/apple-retiring-ipod</guid>
+  <pubDate>Tue, 10 May 2022 15:42:04 -0700</pubDate>
+ </item>
  <item>
   <title>College students are split on whether companies should have a public stance on abortion access</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e7aab3688caef7c75670088f448f458a56db2d75-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Moving factor: Immediately following a final SCOTUS decision, 23 states could restrict abortion access, including 13 states ready with “trigger laws” to outlaw abortion completely. Reimbursement split: When asked if private companies should cover the cost of travel for employees who need to go out of state to receive abortions, 52% said yes and 48% said no. In a Generation Lab–Morning Brew poll, we asked 813 college students around the country how abortion access would influence their future career choices and whether they think companies should make public statements on the matter. When students were asked how important abortion access is in deciding where they’ll live in the future, 30% said “not important at all,” 16% said “a little important” and the remaining 54% were split between “very important” and “somewhat important.” css-1dlcpt7[data-readonly]{box-shadow:none! stance: 41% of college students think companies should make public statements regarding abortion rights in light of the recent SCOTUS news. 32% said companies shouldn’t and 26% said they weren’t sure. A few hours before Politico published the draft opinion, Amazon did announce it would reimburse employees for some abortion-related travel if they are on Amazon’s health insurance.</description>
@@ -361,15 +370,6 @@
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/ransomware-attacks-cost-of-business</guid>
   <pubDate>Thu, 05 May 2022 11:06:37 -0700</pubDate>
- </item>
- <item>
-  <title>Guinness World Record set for longest career at one company</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e38bbcc83bded8b53eb6174ce6e93634563501ea-678x452.png?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The Brazilian recently set a Guinness World Record for spending his 84-year career at a single company. —JW All I care about is that tomorrow will be another day in which I will wake up, get up, exercise, and go to work; you need to get busy with the present, not the past or the future. Why? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/Guinness-World-Record-longest-career-one-company?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Jamie Wilde</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/Guinness-World-Record-longest-career-one-company?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 05 May 2022 00:01:30 -0700</pubDate>
  </item>
 
 </channel>
