@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/11</link>
- <lastBuildDate>Wed, 11 May 2022 01:50:59 -0700</lastBuildDate>
- <pubDate>Wed, 11 May 2022 01:50:59 -0700</pubDate>
+ <lastBuildDate>Wed, 11 May 2022 14:08:56 -0700</lastBuildDate>
+ <pubDate>Wed, 11 May 2022 14:08:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Young people are split on whether companies should have a public stance on abortion access</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e983815d6fe4a1a1cf9f043973e04a0f524a93c2-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Grant ThomasReimbursement split: When asked if private companies should cover the cost of travel for employees who need to go out of state to receive abortions, 52% said yes and 48% said no. Grant ThomasMoving factor: Immediately following a final SCOTUS decision, 23 states could restrict abortion access, including 13 states ready with “trigger laws” to outlaw abortion completely. stance: 41% of respondents think companies should make public statements regarding abortion rights in light of the recent SCOTUS news. css-1dlcpt7[data-readonly]{box-shadow:none! When asked how important abortion access is in deciding where they’ll live in the future, 30% of respondents said “not important at all,” 16% said “a little important” and the remaining 54% were split between “very important” and “somewhat important.” In a Generation Lab–Morning Brew poll, we asked 813 young people around the country how abortion access would influence their future career choices and whether they think companies should make public statements on the matter. 32% said companies shouldn’t and 26% said they weren’t sure. A few hours before Politico published the draft opinion, Amazon did announce it would reimburse employees for some abortion-related travel if they are on Amazon’s health insurance.</description>
+  <link>https://www.morningbrew.com/daily/stories/young-people-are-split-on-whether-companies-should-have-a-public-stance-on-abortion-access</link>
+  <author>Matty Merritt</author>
+  <categories>Health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/young-people-are-split-on-whether-companies-should-have-a-public-stance-on-abortion-access</guid>
+  <pubDate>Wed, 11 May 2022 14:06:55 -0700</pubDate>
+ </item>
  <item>
   <title>Algorithmic stablecoin terra’s value plummets</title>
   <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-10/image-8d17a3cb79f8899d637b93b9c036e844beecfbd5-636x288-gif/giphy-1.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Even as terra clawed back some of its value on Tuesday, its plunge sent shockwaves through the crypto industry, raising existential questions around the stability—and viability—of stablecoins. A stablecoin is a crypto that is tied to the value of government-backed currency, and the most popular ones right now are all pegged to $1. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeTerraUSD is a type of cryptocurrency known as an algorithmic stablecoin, and its whole schtick is that it’s always supposed to be worth $1. To keep the coin from crashing completely, the organization behind terra is dipping into its stockpile of $3.5 billion worth of bitcoin to lend to trading platforms. That incentivizes terra owners to trade back and forth between the two currencies to make a profit, aka arbitrage. —JW css-1dlcpt7[data-readonly]{box-shadow:none! When terra’s price fluctuates, a financial algorithm kicks in to adjust luna’s price so that terra is always equivalent to $1 worth of luna. Here’s how terra works:A cryptocurrency called luna works in conjunction with terra. The crypto community losing faith in terra's $1 value has triggered what some have compared to a bank run. Algorithmic stablecoins, on the other hand, don’t have any collateral behind them.</description>
@@ -361,15 +370,6 @@
   <categories>Social Media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/05/elon-lines-up-usd7-1-billion-in-additional-financing-for-his-twitter-takeover?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Fri, 06 May 2022 00:01:28 -0700</pubDate>
- </item>
- <item>
-  <title>E-commerce is flatlining in the first quarter</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4810ff2efd8faab4b8e119616eed20cd25b05fa8-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Etsy and eBay shares both dropped by double digits yesterday after giving weak guidance for the current quarter. Amazon set the stage last week, reporting a 3% drop in online sales in the first three months of the year, and forecasting a meager 3% sales growth for the current quarter. Its shares plunged for their biggest one-day drop since 2006. Basically every major online retailer reporting earnings since then has shown signs of a clicking cooldown. —MK css-1dlcpt7[data-readonly]{box-shadow:none! If it’s any comfort for online shopping companies, all stocks everywhere are getting clobbered, too.</description>
-  <link>https://www.morningbrew.com/daily/stories/e-commerce-flatline-first-quarter-online-sales?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>E-Commerce</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/e-commerce-flatline-first-quarter-online-sales?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Fri, 06 May 2022 00:01:27 -0700</pubDate>
  </item>
 
 </channel>
