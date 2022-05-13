@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/12/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/13/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/12</link>
- <lastBuildDate>Thu, 12 May 2022 14:53:54 -0700</lastBuildDate>
- <pubDate>Thu, 12 May 2022 14:53:54 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/13</link>
+ <lastBuildDate>Fri, 13 May 2022 00:03:54 -0700</lastBuildDate>
+ <pubDate>Fri, 13 May 2022 00:03:54 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>This is the first-ever image of the supermassive black hole at the center of our galaxy</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d2ee5425cecf35dd59d44d19ce10cf8ebeb752c8-800x466.png?rect=51,0,699,466&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeFor all the visual thinkers who can’t picture what a black hole 4 million times more massive than the sun and 26,000 light-years away from Earth would look like without a photo: This should help!</description>
+  <link>https://www.morningbrew.com/daily/stories/black-hole-milky-way-first-image?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories>Space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/black-hole-milky-way-first-image?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Fri, 13 May 2022 00:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Meatpacking companies exaggerated shortages to stay open, new report says</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/aa969f0be76620b074f109a1911d3272c6c83c03-5988x3918.jpg?rect=56,0,5877,3918&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The North American Meat Institute said the report “cherry picks data to support a narrative that is completely unrepresentative of the early days of an unprecedented national emergency.” Well, a new House subcommittee report concluded that meatpacking companies exaggerated product shortages during the height of the pandemic to keep plants open and skirt Covid health guidelines. According to the report, Tyson even drafted the executive order issued by former President Trump in April 2020 to keep plants open.</description>
+  <link>https://www.morningbrew.com/daily/stories/meatpacking-companies-exaggerated-shortages-to-stay-open-new-report-says?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>Food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/meatpacking-companies-exaggerated-shortages-to-stay-open-new-report-says?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Fri, 13 May 2022 00:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Billionaires’ wealth evaporates amid stock market plunge</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e1f1e15f68ed69054aff3f8f124d0808516aafee-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Well, one spillover effect is that Elon Musk is still searching for partners to help him alleviate some of the financial risk from buying Twitter for $44 billion. The richest 10 people got $1.3 billion wealthier each day. Changpeng Zhao, the CEO of Binance, has watched his bank account dwindle from $96 billion to less than $12 billion. —NF css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe world’s richest 500 people have lost more than $1 trillion in net worth this year, according to Bloomberg data.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/12/billionaires-wealth-evaporates-amid-stock-market-plunge?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/12/billionaires-wealth-evaporates-amid-stock-market-plunge?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Fri, 13 May 2022 00:02:02 -0700</pubDate>
+ </item>
  <item>
   <title>Meatpacking companies exaggerated shortages to stay open, new report says</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/aa969f0be76620b074f109a1911d3272c6c83c03-5988x3918.jpg?rect=56,0,5877,3918&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The North American Meat Institute said the report “cherry picks data to support a narrative that is completely unrepresentative of the early days of an unprecedented national emergency.” Well, a new House subcommittee report concluded that meatpacking companies  exaggerated product shortages during the height of the pandemic to keep plants open and skirt Covid health guidelines. According to the report, Tyson even drafted the executive order issued by former President Trump in April 2020 to keep plants open.</description>
@@ -343,33 +370,6 @@
   <categories>Q&amp;A</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/icebreakers-with-youtuber-and-inventor-simone-giertz</guid>
   <pubDate>Sat, 07 May 2022 14:52:06 -0700</pubDate>
- </item>
- <item>
-  <title>What's your Kentucky Derby horse name?</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/fe5d46c3ca3f428c62dee233fac6fefbdd2102b6-1200x1200.png?rect=0,200,1200,800&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/06/what-s-your-kentucky-derby-horse-name?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/06/what-s-your-kentucky-derby-horse-name?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sat, 07 May 2022 00:01:22 -0700</pubDate>
- </item>
- <item>
-  <title>Gucci to start accepting crypto in stores</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/feb89b11f4e804e75f9bb42748c9e5a55b68694f-5962x4072.jpg?rect=0,48,5962,3975&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Gucci will start accepting $SHIB—as well as more than 10 other cryptocurrencies—at select stores later this month and nationwide this summer as part of the luxury sector’s wider push into crypto. But it’s playing catch-up to other luxury brands that have rushed to accept crypto for goods:Off-White announced in March that its flagship stores started taking crypto as payment. —JW css-1dlcpt7[data-readonly]{box-shadow:none! Bottom line: A collab between luxury brands and crypto may be the best match since jazz and rain, because both rely on hype and clout. How it’ll work: In-store shoppers who want to reinvest their bitcoin into a crossbody will be emailed a QR code that allows them to complete the transaction using their crypto wallets. Philipp Plein is one-upping its peers by building a London store where customers can pay in crypto, browse an NFT gallery, and upgrade certain purchases with a corresponding NFT they can wear in the virtual world of Decentraland.</description>
-  <link>https://www.morningbrew.com/daily/stories/gucci-to-start-accepting-crypto-in-stores?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Jamie Wilde</author>
-  <categories>Crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/gucci-to-start-accepting-crypto-in-stores?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sat, 07 May 2022 00:01:22 -0700</pubDate>
- </item>
- <item>
-  <title>Starbucks wants its own meeting with the president after it met with union organizers</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-06/image-64b6aabe1ffb4293949108bfe3868494bc077c6f-440x237-gif/conan.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. After Starbucks union organizers met with President Biden and other Washington A-listers on Thursday, the company sent an angry letter to the White House requesting its own meeting, saying, “We are deeply concerned that Workers United…was invited to the meeting while not inviting official Starbucks representatives.”</description>
-  <link>https://www.morningbrew.com/daily/stories/starbucks-wants-own-meeting-with-the-president?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Matty Merritt</author>
-  <categories>Labor</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/starbucks-wants-own-meeting-with-the-president?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sat, 07 May 2022 00:01:22 -0700</pubDate>
  </item>
 
 </channel>
