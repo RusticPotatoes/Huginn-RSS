@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/13</link>
- <lastBuildDate>Fri, 13 May 2022 00:03:54 -0700</lastBuildDate>
- <pubDate>Fri, 13 May 2022 00:03:54 -0700</pubDate>
+ <lastBuildDate>Fri, 13 May 2022 09:53:59 -0700</lastBuildDate>
+ <pubDate>Fri, 13 May 2022 09:53:59 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>How to craft the perfect resume</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/01a41bec34a355dbb039e2e8d7e4b40ef94dcccd-2000x2000.png?rect=0,333,2000,1333&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/13/how-to-craft-the-perfect-resume</link>
+  <author>Max Knoblauch</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/13/how-to-craft-the-perfect-resume</guid>
+  <pubDate>Fri, 13 May 2022 09:51:59 -0700</pubDate>
+ </item>
  <item>
   <title>This is the first-ever image of the supermassive black hole at the center of our galaxy</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d2ee5425cecf35dd59d44d19ce10cf8ebeb752c8-800x466.png?rect=51,0,699,466&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeFor all the visual thinkers who can’t picture what a black hole 4 million times more massive than the sun and 26,000 light-years away from Earth would look like without a photo: This should help!</description>
@@ -361,15 +370,6 @@
   <categories>Culture</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/06/stock-watch-may-8?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Sun, 08 May 2022 00:02:06 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers with…YouTuber and inventor Simone Giertz</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-06/image-ce99a8e09ad925c44bd2267aa3da2236c6ccb50d-500x281-gif/simone.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. For YouTube, I’m building a Bubble Wrap music box. So you know a small music box with a barrel? I’m exchanging one of the easiest business models, which is influencing—money in from brands, and content out—for one of the most complex and antagonizing business models you could possibly have. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
-  <link>https://www.morningbrew.com/daily/stories/icebreakers-with-youtuber-and-inventor-simone-giertz</link>
-  <author>Matty Merritt</author>
-  <categories>Q&amp;A</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/icebreakers-with-youtuber-and-inventor-simone-giertz</guid>
-  <pubDate>Sat, 07 May 2022 14:52:06 -0700</pubDate>
  </item>
 
 </channel>
