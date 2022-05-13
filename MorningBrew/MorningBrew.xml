@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/13</link>
- <lastBuildDate>Fri, 13 May 2022 09:53:59 -0700</lastBuildDate>
- <pubDate>Fri, 13 May 2022 09:53:59 -0700</pubDate>
+ <lastBuildDate>Fri, 13 May 2022 12:54:02 -0700</lastBuildDate>
+ <pubDate>Fri, 13 May 2022 12:54:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>‘Succession’ actor’s protest highlights the vegan upcharge</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d67ffae591a0a2c2f8569f7f00cf1708edccf03e-1400x967.jpg?rect=0,16,1400,933&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Across the industry, the retail price of nondairy, plant-based milk is around twice the price of dairy milk, according to Mintec, which analyzes food commodity costs. But while those factors may help explain why plant-based milks are expensive, they don’t fully spell out why dairy milk is so cheap. While most people probably aren’t concerned about what the human star of Babe: Pig in the City sticks himself to, Cromwell’s glue-in highlights a reality for vegans and those with dairy allergies: Things tend to cost a lot more. The lactose intolerance taxIn January, Starbucks stores in the UK made all dairy alternatives free. But in the US, Starbucks locations typically charge an additional 70 cents for nondairy options. And it’s not just Starbucks charging a premium, either. So what’s keeping those oat milk prices high? —MK Zoom out: While around 36% of Americans are lactose intolerant (a condition that predominantly affects people of color), the US is still living in its Got Milk? css-1dlcpt7[data-readonly]{box-shadow:none! There’s a higher demand for dairy milk—61% of US households primarily drink it, compared to the 23% that opt for plant-based—so production costs are more spread out and retail prices are cheaper. Given that the carbon footprint of cow milk is about 3x that of alternatives like oat milk, environmental advocates like Cromwell are hoping that removing cost burdens will lead to more people giving nondairy options a chance.</description>
+  <link>https://www.morningbrew.com/daily/stories/cromwell-starbucks-vegan-plant-milk-upcharge</link>
+  <author>Max Knoblauch</author>
+  <categories>Environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/cromwell-starbucks-vegan-plant-milk-upcharge</guid>
+  <pubDate>Fri, 13 May 2022 12:52:01 -0700</pubDate>
+ </item>
  <item>
   <title>How to craft the perfect resume</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/01a41bec34a355dbb039e2e8d7e4b40ef94dcccd-2000x2000.png?rect=0,333,2000,1333&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -361,15 +370,6 @@
   <categories>Q&amp;A</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/icebreakers-with-youtuber-and-inventor-simone-giertz?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Sun, 08 May 2022 00:02:08 -0700</pubDate>
- </item>
- <item>
-  <title>Stock watch: May 8</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/2ef65d5db6902d6705bf8ce88c86cbc476e5e3bd-1500x2000.png?rect=0,500,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/06/stock-watch-may-8?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Culture</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/06/stock-watch-may-8?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sun, 08 May 2022 00:02:06 -0700</pubDate>
  </item>
 
 </channel>
