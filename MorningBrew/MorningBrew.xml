@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/14</link>
- <lastBuildDate>Sat, 14 May 2022 00:03:53 -0700</lastBuildDate>
- <pubDate>Sat, 14 May 2022 00:03:53 -0700</pubDate>
+ <lastBuildDate>Sat, 14 May 2022 15:18:58 -0700</lastBuildDate>
+ <pubDate>Sat, 14 May 2022 15:18:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Icebreakers with…virtual reality pioneer Louis Rosenberg</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/55dd3bccc9dd388cd78cadee87aefd3490a8624b-3098x1763.jpg?rect=227,0,2645,1763&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. We chatted with Rosenberg about the early days of VR and AR tech and what the heck the metaverse will actually look like. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Louis Rosenberg, the CEO and chief scientist at Unanimous AI, founded two early augmented reality (AR) and virtual reality (VR) companies and developed the first functional AR system for the Air Force in the 90s. You’ve been studying AR and VR technology since the ’90s. They currently track people and use the information to profile people and sell targeted advertising. The metaverse is going to take us from a world where Big Tech platforms, which are currently tracking where you click, track everything about your life. And I might not realize that those are virtual product placements injected into my world on behalf of a paying advertiser.</description>
+  <link>https://www.morningbrew.com/daily/stories/virtual-reality-pioneer-louis-rosenberg</link>
+  <author>Matty Merritt</author>
+  <categories>Virtual reality</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/virtual-reality-pioneer-louis-rosenberg</guid>
+  <pubDate>Sat, 14 May 2022 15:16:57 -0700</pubDate>
+ </item>
  <item>
   <title>How to craft the perfect resume</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/01a41bec34a355dbb039e2e8d7e4b40ef94dcccd-2000x2000.png?rect=0,333,2000,1333&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -361,15 +370,6 @@
   <categories>Retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/09/passing-the-vibe-check</guid>
   <pubDate>Mon, 09 May 2022 06:16:59 -0700</pubDate>
- </item>
- <item>
-  <title>The week ahead: May 9</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e0cf9dd16308326534c6966497446f3e4105b21a-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. While much of the pageantry will be the same as ever (a huge military parade through Moscow’s Red Square, for example), there’s also a great deal of apprehension this year over whether President Vladimir Putin will announce an escalation of what Russia has called a “special military operation” in Ukraine into a full-scale war. Everything else:The Senate will vote on legislation that would codify abortion rights into law on Wednesday. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeVictory Day in Russia: Today Russia will celebrate its most important holiday, Victory Day, which commemorates the Soviet Union’s defeat of Nazi Germany in 1945. css-1dlcpt7[data-readonly]{box-shadow:none! Wednesday is Eat What You Want Day (this has the raw cookie dough lobby written all over it). Inflation data: Wednesday’s Consumer Price Index report is expected to show a drop in inflation from last month’s blistering 8.5% pace, but not by much. css-1dlcpt7[data-focus]{z-index:1;border-color:var(--colors-primary);box-shadow:var(--chakra-shadows-none);}.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/08/the-week-ahead-may-9?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/08/the-week-ahead-may-9?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Mon, 09 May 2022 00:02:00 -0700</pubDate>
  </item>
 
 </channel>
