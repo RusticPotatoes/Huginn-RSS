@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/13/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/14/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/13</link>
- <lastBuildDate>Fri, 13 May 2022 15:08:53 -0700</lastBuildDate>
- <pubDate>Fri, 13 May 2022 15:08:53 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/14</link>
+ <lastBuildDate>Sat, 14 May 2022 00:03:53 -0700</lastBuildDate>
+ <pubDate>Sat, 14 May 2022 00:03:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>How to craft the perfect resume</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/01a41bec34a355dbb039e2e8d7e4b40ef94dcccd-2000x2000.png?rect=0,333,2000,1333&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/13/how-to-craft-the-perfect-resume?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/13/how-to-craft-the-perfect-resume?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 14 May 2022 00:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Southwest, other airlines invest in in-flight wi-fi to stay competitive</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/41fd18c9965dbb058ed12fa4ce5b33ab42cb8dae-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. —MM css-1dlcpt7[data-readonly]{box-shadow:none! It’s part of a broader trend of airlines investing in faster in-air wi-fi to win over travel-hungry customers, especially now that business travel has started to rebound. But the four biggest US airlines haven’t given Starlink the time of day. A few weeks ago it announced a deal with SpaceX’s Starlink to start installing the service on some planes next year. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe airline obsessed with boarding passengers gladiator-style is spending $2 billion to give the people what they want. They have instead partnered with wi-fi provider Viasat, which Southwest will be working with to roll out better internet for passengers by the fall.</description>
+  <link>https://www.morningbrew.com/daily/stories/southwest-airlines-invest-in-flight-wifi?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>Travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/southwest-airlines-invest-in-flight-wifi?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 14 May 2022 00:02:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>California posts record budget surplus of nearly $100 billion</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-13/image-b9b6dc762a14033e3d87c7313d70c07bc1b17e6a-459x343-gif/giphy(3).webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Gov. Gavin Newsom announced yesterday that his state had a budget surplus of $97.5 billion, a record for California and, according to Newsom, anywhere else in the US…ever. —NF css-1dlcpt7[data-readonly]{box-shadow:none! Newsom has proposed sending residents $400 per vehicle.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/13/california-posts-record-budget-surplus-of-nearly-usd100-billion?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Government</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/13/california-posts-record-budget-surplus-of-nearly-usd100-billion?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 14 May 2022 00:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Musk tweets that his Twitter deal is ‘on hold’</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/cb9a8a882c5c87268247c5399dab7b125ece8666-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Here’s his justification for pressing pause, though:“Spam/fake accounts” might make up 5% or more of Twitter’s user base, and he’s awaiting “supporting calculation” to prove that one way or the other. In fact, courts in Delaware (where Twitter and many other companies are incorporated) have only ever identified one MAE, in 2018. Maybe, considering a) yesterday was Friday the 13th b) Musk later said he was “still committed to acquisition” and c) Musk has a history of trolling Wall Street regulators like they’re Dexter and he’s Dee Dee. He may not be blowing up any labs, but yesterday’s tweet caused Twitter stock to temporarily fall over 25%, which might constitute securities fraud since it directly impacted the market cap of a company he’s planning to purchase. The securities filing for the merger says that less than 5% of users are bots, and it contains a provision that Musk can walk away if that’s incorrect…but only if that bot problem has what’s known as a material adverse effect (MAE) on Twitter’s business. But avoiding pesky things like “the rules” is just par for the course for Musk throughout this Twitter ordeal. —JW So where does that leave us?</description>
+  <link>https://www.morningbrew.com/daily/stories/elon-musk-twitter-deal-hold?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Jamie Wilde</author>
+  <categories>Social Media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/elon-musk-twitter-deal-hold?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 14 May 2022 00:02:02 -0700</pubDate>
+ </item>
  <item>
   <title>California posts record budget surplus of nearly $100 billion</title>
   <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-13/image-b9b6dc762a14033e3d87c7313d70c07bc1b17e6a-459x343-gif/giphy(3).webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. 🛶 Peloton is going after your back muscles. css-1dlcpt7[data-readonly]{box-shadow:none! And while it may not seem like a huge deal in the US, it attracts more than 180 million viewers from around the world.</description>
@@ -334,42 +370,6 @@
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/08/the-week-ahead-may-9?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Mon, 09 May 2022 00:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>Tech startups feel the pinch from rising interest rates</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2021-10-26/image-382619b0eac2b89781cac0c35fe6ef418630c2a4-480x335-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Tiger Global, the hedge fund with the most investments in private billion-dollar startups, is going through one of the worst stretches of any hedge fund in history, falling 44% so far this year and 15% in April alone.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/08/tech-startups-feel-the-pinch-from-rising-interest-rates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories>Tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/08/tech-startups-feel-the-pinch-from-rising-interest-rates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Mon, 09 May 2022 00:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>US solar industry in state of chaos during tariff probe</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/447a04d423e25b3fc20902ea205e90c9123b21df-1024x646.jpg?rect=28,0,969,646&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It’s all because of one companyIn March, a small solar panel manufacturer in San Jose, Auxin Solar, asked the Commerce Dept. According to the Solar Energy Industries Association, 318 solar projects around the country, including one in Texas that would have powered more than 10,000 homes, have been canceled or delayed in recent weeks. to launch an investigation into whether Chinese solar products were being illegally funneled through other Asian countries on their way to the US. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe US solar industry is a hot mess right now. Big picture: The Biden administration is having a tough time squaring the industry-wide freeze with its goal of halving the cost of solar electricity by 2030. Solar advocates are livid with Auxin and the fedsRenewables leaders are flabbergasted that solar development has been put on ice at a time when the US needs to be ramping up clean-energy production to meet its climate targets. And receiving no imports from those countries is a big problem, because 82% of the most popular solar modules in the US come from there.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/08/us-solar-industry-in-state-of-chaos-during-tariff-probe?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories>Energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/08/us-solar-industry-in-state-of-chaos-during-tariff-probe?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Mon, 09 May 2022 00:01:59 -0700</pubDate>
- </item>
- <item>
-  <title>Timed Turntable: May 9</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d6d5ff67f65ccfc42ccab384cde8bbc6f76d8507-1920x1080.png?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/08/timed-turntable-may-9</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/08/timed-turntable-may-9</guid>
-  <pubDate>Sun, 08 May 2022 16:22:07 -0700</pubDate>
- </item>
- <item>
-  <title>US solar industry in state of chaos during tariff probe</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/447a04d423e25b3fc20902ea205e90c9123b21df-1024x646.jpg?rect=28,0,969,646&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It’s all because of one companyIn March, a small solar panel manufacturer in San Jose, Auxin Solar, asked the Commerce Dept. According to the Solar Energy Industries Association, 318 solar projects around the country, including one in Texas that would have powered more than 10,000 homes, have been canceled or delayed in recent weeks. to launch an investigation into whether Chinese solar products were being illegally funneled through other Asian countries on their way to the US. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe US solar industry is a hot mess right now. Big picture: The Biden administration is having a tough time squaring the industry-wide pause with its goal of halving the cost of solar electricity by 2030. Solar advocates are livid with Auxin and the fedsRenewables leaders are flabbergasted that solar development has been put on ice at a time when the US needs to be ramping up clean-energy production to meet its climate targets. And receiving no imports from those countries is a big problem, because 82% of the most popular solar modules in the US come from there.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/08/us-solar-industry-in-state-of-chaos-during-tariff-probe</link>
-  <author>Neal Freyman</author>
-  <categories>Energy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/08/us-solar-industry-in-state-of-chaos-during-tariff-probe</guid>
-  <pubDate>Sun, 08 May 2022 16:07:03 -0700</pubDate>
  </item>
 
 </channel>
