@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/14/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/15/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/14</link>
- <lastBuildDate>Sat, 14 May 2022 15:18:58 -0700</lastBuildDate>
- <pubDate>Sat, 14 May 2022 15:18:58 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/15</link>
+ <lastBuildDate>Sun, 15 May 2022 00:04:00 -0700</lastBuildDate>
+ <pubDate>Sun, 15 May 2022 00:04:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>‘Succession’ actor’s protest highlights the vegan upcharge</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d67ffae591a0a2c2f8569f7f00cf1708edccf03e-1400x967.jpg?rect=0,16,1400,933&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Across the industry, the retail price of nondairy, plant-based milk is around twice the price of dairy milk, according to Mintec, which analyzes food commodity costs. But while those factors may help explain why plant-based milks are expensive, they don’t fully spell out why dairy milk is so cheap. While most people probably aren’t concerned about what the human star of Babe: Pig in the City sticks himself to, Cromwell’s glue-in highlights a reality for vegans and those with dairy allergies: Things tend to cost a lot more. The lactose intolerance taxIn January, Starbucks stores in the UK made all dairy alternatives free. But in the US, Starbucks locations typically charge an additional 70 cents for nondairy options. And it’s not just Starbucks charging a premium, either. So what’s keeping those oat milk prices high? —MK Zoom out: While around 36% of Americans are lactose intolerant (a condition that predominantly affects people of color), the US is still living in its Got Milk? css-1dlcpt7[data-readonly]{box-shadow:none! There’s a higher demand for dairy milk—61% of US households primarily drink it, compared to the 23% that opt for plant-based—so production costs are more spread out and retail prices are cheaper. Given that the carbon footprint of cow milk is about 3x that of alternatives like oat milk, environmental advocates like Cromwell are hoping that removing cost burdens will lead to more people giving nondairy options a chance.</description>
+  <link>https://www.morningbrew.com/daily/stories/cromwell-starbucks-vegan-plant-milk-upcharge?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories>Environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/cromwell-starbucks-vegan-plant-milk-upcharge?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 15 May 2022 00:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Make it work: How do I make myself “recession-proof”?</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7b6de1bb891bb0dd9e289abb0a591582a5da30e6-1503x603.png?rect=299,0,905,603&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It’s easy to get complacent when we have a job, especially one that’s going reasonably well. Your best bet is to focus your energy on staying positive and executing on the things that are within your control. Is there anything I can do to “recession-proof” myself? css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/13/make-it-work-how-do-i-make-myself-recession-proof?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Shane Loughnane</author>
+  <categories>Work life</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/13/make-it-work-how-do-i-make-myself-recession-proof?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 15 May 2022 00:01:59 -0700</pubDate>
+ </item>
+ <item>
+  <title>Icebreakers with…virtual reality pioneer Louis Rosenberg</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/55dd3bccc9dd388cd78cadee87aefd3490a8624b-3098x1763.jpg?rect=227,0,2645,1763&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. We chatted with Rosenberg about the early days of VR and AR tech and what the heck the metaverse will actually look like. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Louis Rosenberg, the CEO and chief scientist at Unanimous AI, founded two early augmented reality (AR) and virtual reality (VR) companies and developed the first functional AR system for the Air Force in the 90s. You’ve been studying AR and VR technology since the ’90s. They currently track people and use the information to profile people and sell targeted advertising. The metaverse is going to take us from a world where Big Tech platforms, which are currently tracking where you click, track everything about your life. And I might not realize that those are virtual product placements injected into my world on behalf of a paying advertiser.</description>
+  <link>https://www.morningbrew.com/daily/stories/virtual-reality-pioneer-louis-rosenberg?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>Virtual reality</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/virtual-reality-pioneer-louis-rosenberg?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 15 May 2022 00:01:58 -0700</pubDate>
+ </item>
+ <item>
+  <title>Stock watch: May 15</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/cb87b82333d076efbbd925eacc4b7eb4ea1bd4ab-1500x2000.png?rect=0,500,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/13/stock-watch-may-15?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories>Culture</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/13/stock-watch-may-15?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sun, 15 May 2022 00:01:56 -0700</pubDate>
+ </item>
  <item>
   <title>Icebreakers with…virtual reality pioneer Louis Rosenberg</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/55dd3bccc9dd388cd78cadee87aefd3490a8624b-3098x1763.jpg?rect=227,0,2645,1763&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. We chatted with Rosenberg about the early days of VR and AR tech and what the heck the metaverse will actually look like. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Louis Rosenberg, the CEO and chief scientist at Unanimous AI, founded two early augmented reality (AR) and virtual reality (VR) companies and developed the first functional AR system for the Air Force in the 90s. You’ve been studying AR and VR technology since the ’90s. They currently track people and use the information to profile people and sell targeted advertising. The metaverse is going to take us from a world where Big Tech platforms, which are currently tracking where you click, track everything about your life. And I might not realize that those are virtual product placements injected into my world on behalf of a paying advertiser.</description>
@@ -334,42 +370,6 @@
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/09/uber-preps-for-rougher-days-ahead?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Tue, 10 May 2022 00:02:05 -0700</pubDate>
- </item>
- <item>
-  <title>Goldman is getting mostly out of the SPAC business</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-09/image-2e145b77fdd490abfcd1e30545ff59b0b1b4d4ae-480x248-gif/giphy(1).webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/09/goldman-is-getting-mostly-out-of-the-spac-business</link>
-  <author>Neal Freyman</author>
-  <categories>Finance</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/09/goldman-is-getting-mostly-out-of-the-spac-business</guid>
-  <pubDate>Mon, 09 May 2022 14:47:01 -0700</pubDate>
- </item>
- <item>
-  <title>40% of baby formula brands were sold out at the end of April</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/8eadd426f107a031c369aab66494edc615514ae3-1366x911.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. —MM</description>
-  <link>https://www.morningbrew.com/daily/stories/40-of-baby-formula-brands-were-sold-out-at-the-end-of-april</link>
-  <author>Matty Merritt</author>
-  <categories>Food &amp; Bev</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/40-of-baby-formula-brands-were-sold-out-at-the-end-of-april</guid>
-  <pubDate>Mon, 09 May 2022 14:47:00 -0700</pubDate>
- </item>
- <item>
-  <title>Uber preps for rougher days ahead</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/6ab72f3b34bc37c64f35f59e88bfb9e2335c65e6-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Uber’s not the only one realizing its org chart needs a trim…Meta introduced a hiring freeze across most of its engineering units. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. Uber is also trimming costs elsewhere. —NF</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/09/uber-preps-for-rougher-days-ahead</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/09/uber-preps-for-rougher-days-ahead</guid>
-  <pubDate>Mon, 09 May 2022 14:32:06 -0700</pubDate>
- </item>
- <item>
-  <title>Passing the vibe check</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/2d6c262febeb551529d056790a834966862d93ec-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;How to hang with Gen ZFrom transparency to safety, it’s clear that Gen Z’s priorities aren’t mysterious or superficial. From ethics to social issues, here are five areas that motivate Gen Z, plus a few Gen Z vocab words to add to your dictionary. This means high APRs and “buy now, pay later” offers are kinda sus4—and banks that don’t charge overdraft fees and do ditch their punitive debt cycles are likely to score the biggest W with Gen Z. )And for all our numbers people: 7 in 10 Gen Zers want safety and security in their lives. Brands have the reach, money, and scale to create change—change that Gen Z is adamant about seeing in the world. For retailers, this means Gen Zers want to walk into safe stores and use products made with safe materials. No. 5: Social issuesThe easiest way to earn Gen Z’s trust? Gen Z shoppers stan1 ethical brands—and they’ll go out of their way to shop at retailers that go the extra mile to treat their workforces with dignity. Gen Z is made up of many individuals and smaller demographic groups, and their collective ideals are built on style and substance. No. 1: EthicsGen Z supports brands that take care of their employees. But first: Why should Gen Z matter to me? Naturally, brands that use their influence to take a stance on important issues will be brands that Gen Z not only high-key5 loves but also trusts.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/09/passing-the-vibe-check</link>
-  <author>Morning Brew</author>
-  <categories>Retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/09/passing-the-vibe-check</guid>
-  <pubDate>Mon, 09 May 2022 06:16:59 -0700</pubDate>
  </item>
 
 </channel>
