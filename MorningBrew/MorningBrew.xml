@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/16</link>
- <lastBuildDate>Mon, 16 May 2022 14:53:54 -0700</lastBuildDate>
- <pubDate>Mon, 16 May 2022 14:53:54 -0700</pubDate>
+ <lastBuildDate>Mon, 16 May 2022 15:08:56 -0700</lastBuildDate>
+ <pubDate>Mon, 16 May 2022 15:08:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>US Covid death toll reaches 1 million, and a new subvariant is spreading fast</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a4301d964a0ee4b795f3133b0d0e086626deaea6-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe US Covid death toll officially reached 1 million in recent days, a tally greater than the combined populations of Boston and Orlando. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. US cases have jumped 60% over the past two weeks, to an average of 90,000 new cases every day.</description>
+  <link>https://www.morningbrew.com/daily/stories/covid-one-million-deaths-omicron-subvariant</link>
+  <author>Max Knoblauch</author>
+  <categories>COVID-19</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/covid-one-million-deaths-omicron-subvariant</guid>
+  <pubDate>Mon, 16 May 2022 15:06:55 -0700</pubDate>
+ </item>
  <item>
   <title>The debate over ‘greedflation’</title>
   <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-16/image-d96e959abeaff035e5f0af137c191895dc5d73e0-1000x667-gif/price-stickers-0522-00001.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. One prominent economist is taking the White House’s side. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. While Summers called the corporate price gouging narrative “preposterous,” he also said it’s reasonable to raise taxes as a means of tamping down demand and inflation. After Biden tweeted out those thoughts, Jeff Bezos felt inspired to go on the attack. —NF</description>
@@ -361,15 +370,6 @@
   <categories>Health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/young-people-are-split-on-whether-companies-should-have-a-public-stance-on-abortion-access</guid>
   <pubDate>Wed, 11 May 2022 14:06:55 -0700</pubDate>
- </item>
- <item>
-  <title>Algorithmic stablecoin terra’s value plummets</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-10/image-8d17a3cb79f8899d637b93b9c036e844beecfbd5-636x288-gif/giphy-1.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Even as terra clawed back some of its value on Tuesday, its plunge sent shockwaves through the crypto industry, raising existential questions around the stability—and viability—of stablecoins. A stablecoin is a crypto that is tied to the value of government-backed currency, and the most popular ones right now are all pegged to $1. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeTerraUSD is a type of cryptocurrency known as an algorithmic stablecoin, and its whole schtick is that it’s always supposed to be worth $1. To keep the coin from crashing completely, the organization behind terra is dipping into its stockpile of $3.5 billion worth of bitcoin to lend to trading platforms. That incentivizes terra owners to trade back and forth between the two currencies to make a profit, aka arbitrage. —JW css-1dlcpt7[data-readonly]{box-shadow:none! When terra’s price fluctuates, a financial algorithm kicks in to adjust luna’s price so that terra is always equivalent to $1 worth of luna. Here’s how terra works:A cryptocurrency called luna works in conjunction with terra. The crypto community losing faith in terra's $1 value has triggered what some have compared to a bank run. Algorithmic stablecoins, on the other hand, don’t have any collateral behind them.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/10/algorithmic-stablecoin-terra-s-value-plummets?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Jamie Wilde</author>
-  <categories>Crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/10/algorithmic-stablecoin-terra-s-value-plummets?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Wed, 11 May 2022 01:48:57 -0700</pubDate>
  </item>
 
 </channel>
