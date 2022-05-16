@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/15/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/16/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/15</link>
- <lastBuildDate>Sun, 15 May 2022 16:03:54 -0700</lastBuildDate>
- <pubDate>Sun, 15 May 2022 16:03:54 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/16</link>
+ <lastBuildDate>Mon, 16 May 2022 00:03:55 -0700</lastBuildDate>
+ <pubDate>Mon, 16 May 2022 00:03:55 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The week ahead: May 16</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/1317a4828f3764b099a7d917c9e80ef140eaba79-6552x4370.jpg?rect=0,1,6552,4368&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. “I think one of the lessons we learned in World War II is not standing up to aggression early is a huge mistake,” McConnell said. Golf’s PGA Championship starts on Thursday (Phil Mickelson will not be playing). Consumer sentiment hit an 11-year low this month.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/15/the-week-ahead-may-16?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/15/the-week-ahead-may-16?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Mon, 16 May 2022 00:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>NY Gov. Kathy Hochul calls on social media platforms to moderate hate speech</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/b150c5e9fa958720aaf80bfa60849811a6f9ddb1-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Last Wednesday, an appeals court reinstated a Texas law that bans social media companies from moderating content on their platforms based on “the viewpoint of the user or another person.” But that removal would have seemingly violated Texas’s new social media law if it had occurred there. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/15/ny-gov-kathy-hochul-calls-on-social-media-platforms-to-moderate-hate-speech?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Social Media</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/15/ny-gov-kathy-hochul-calls-on-social-media-platforms-to-moderate-hate-speech?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Mon, 16 May 2022 00:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>The racist theory inspiring a wave of mass shootings</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/9d5a145795d63043b4e1a7215341f934f180d507-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In a 180-page document, the suspect wrote that European men were allowing themselves to be “ethnically replaced” and told people of color to “leave while you can.” css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/15/the-racist-theory-inspiring-a-wave-of-mass-shootings?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/15/the-racist-theory-inspiring-a-wave-of-mass-shootings?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Mon, 16 May 2022 00:02:03 -0700</pubDate>
+ </item>
  <item>
   <title>The racist theory inspiring a wave of mass shootings</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/9d5a145795d63043b4e1a7215341f934f180d507-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In an 180-page document, the suspect wrote that European men were allowing themselves to be “ethnically replaced” and told people of color to “leave while you can.” css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
@@ -343,33 +370,6 @@
   <categories>Government</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/secretary-janet-yellen-abortion-restrictions-would-damage-economy?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Wed, 11 May 2022 01:48:56 -0700</pubDate>
- </item>
- <item>
-  <title>Algorithmic stablecoin terra’s value plummets</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-10/image-8d17a3cb79f8899d637b93b9c036e844beecfbd5-636x288-gif/giphy-1.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Even as terra clawed back most of its value on Tuesday, algorithmic stablecoins became the pineapple-on-pizza debate of the crypto community. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeTerraUSD is a type of cryptocurrency known as an algorithmic stablecoin, and its whole schtick is that it’s always supposed to be worth $1. When terra’s price fluctuates, a financial algorithm kicks in to adjust luna’s price so that terra is always equivalent to $1 worth of luna. —JW css-1dlcpt7[data-readonly]{box-shadow:none! That incentivizes terra owners to trade back and forth between the two currencies to make a profit, aka arbitrage. Here’s how terra works:A cryptocurrency called luna works in conjunction with terra. A stablecoin is worth a set amount of a fiat currency, and the most popular ones right now are all pegged to $1. The crypto community losing faith in terra's $1 value has triggered what Treasury Secretary Janet Yellen called a run. To keep the currency from crashing completely, the organization behind terra is dipping into its stockpile of $3.5 billion worth of bitcoin to lend to trading platforms.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/10/algorithmic-stablecoin-terra-s-value-plummets</link>
-  <author>Jamie Wilde</author>
-  <categories>Crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/10/algorithmic-stablecoin-terra-s-value-plummets</guid>
-  <pubDate>Tue, 10 May 2022 15:52:03 -0700</pubDate>
- </item>
- <item>
-  <title>Apple is officially retiring the iPod</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7cde8822bc41ab1d53baa797938fb4b905ad1f03-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In 2006, it released the iPod Nano that came in colors we were begging to infiltrate the tech world (lime green and hot pink). The tech giant said yesterday that it will discontinue its iconic iPod Touch, the final remaining product of its music-player-only lineup, marking the official end of the era that revolutionized digital music. —MM css-1dlcpt7[data-readonly]{box-shadow:none! And in 2007, the very first iPod that you could smudge up with your greasy fingers arrived.</description>
-  <link>https://www.morningbrew.com/daily/stories/apple-retiring-ipod</link>
-  <author>Matty Merritt</author>
-  <categories>Tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/apple-retiring-ipod</guid>
-  <pubDate>Tue, 10 May 2022 15:42:04 -0700</pubDate>
- </item>
- <item>
-  <title>College students are split on whether companies should have a public stance on abortion access</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e7aab3688caef7c75670088f448f458a56db2d75-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Moving factor: Immediately following a final SCOTUS decision, 23 states could restrict abortion access, including 13 states ready with “trigger laws” to outlaw abortion completely. Reimbursement split: When asked if private companies should cover the cost of travel for employees who need to go out of state to receive abortions, 52% said yes and 48% said no. In a Generation Lab–Morning Brew poll, we asked 813 college students around the country how abortion access would influence their future career choices and whether they think companies should make public statements on the matter. When students were asked how important abortion access is in deciding where they’ll live in the future, 30% said “not important at all,” 16% said “a little important” and the remaining 54% were split between “very important” and “somewhat important.” css-1dlcpt7[data-readonly]{box-shadow:none! stance: 41% of college students think companies should make public statements regarding abortion rights in light of the recent SCOTUS news. 32% said companies shouldn’t and 26% said they weren’t sure. A few hours before Politico published the draft opinion, Amazon did announce it would reimburse employees for some abortion-related travel if they are on Amazon’s health insurance.</description>
-  <link>https://www.morningbrew.com/daily/stories/college-students-are-split-on-whether-companies-should-have-a-public-stance-on-abortion-access</link>
-  <author>Matty Merritt</author>
-  <categories>Health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/college-students-are-split-on-whether-companies-should-have-a-public-stance-on-abortion-access</guid>
-  <pubDate>Tue, 10 May 2022 15:27:03 -0700</pubDate>
  </item>
 
 </channel>
