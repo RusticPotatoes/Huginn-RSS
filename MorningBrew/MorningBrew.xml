@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/17</link>
- <lastBuildDate>Tue, 17 May 2022 00:03:54 -0700</lastBuildDate>
- <pubDate>Tue, 17 May 2022 00:03:54 -0700</pubDate>
+ <lastBuildDate>Tue, 17 May 2022 14:28:56 -0700</lastBuildDate>
+ <pubDate>Tue, 17 May 2022 14:28:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Elon Musk further complicates Twitter deal with bot tweets</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f258687cf8d80a14edd8e3835716abe943e7b674-1024x668.jpg?rect=11,0,1002,668&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. On a recent episode…Elon Musk attempted to put the takeover on ice (for the second time) Tuesday morning, tweeting “this deal cannot move forward” unless Twitter CEO Parag Agrawal shows proof that fewer than 5% of Twitter’s accounts are fake/spam. —NF css-1dlcpt7[data-readonly]{box-shadow:none! Big picture: Musk’s hang-up with spam accounts has some analysts suggesting that he’s manufacturing outrage over bots as an excuse to renegotiate a deal he believes he paid too much for—or wants to back out of completely. If Musk rips up the agreement, he’ll owe a $1 billion breakup fee. Musk, without giving any credible evidence, has asserted that at least 20% of all Twitter accounts are fake, and maybe even 90% are. Twitter estimates that fewer than 5% of its monthly active users are fake or spam accounts, and Agrawal explained in a long thread how the company arrives at that number.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/17/elon-musk-further-complicates-twitter-deal-with-bot-tweets</link>
+  <author>Neal Freyman</author>
+  <categories>Tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/17/elon-musk-further-complicates-twitter-deal-with-bot-tweets</guid>
+  <pubDate>Tue, 17 May 2022 14:26:55 -0700</pubDate>
+ </item>
  <item>
   <title>Wildfire risk may double in the next 3 decades for most homes: report</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c5622afde6e1a36a83098f917106433c95173ebb-1024x662.jpg?rect=16,0,993,662&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. But states including New Jersey, Massachusetts, Louisiana, Alabama, and Arkansas will likely see their fire risks grow more than 200% in the next 30 years. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeMost homeowners can expect their wildfire risks to double over the next three decades due to climate change, according to a new report from the nonprofit First Street Foundation. A quick summary of the findings:80 million homes have some level of wildfire risk in the next 30 years, and at least 10 million homes fall between the “major” or “extreme” risk categories. —MM css-1dlcpt7[data-readonly]{box-shadow:none! You can view your home’s risk score here or on listing sites like realtor. Just yesterday, the New Mexico Calf Canyon Fire became the largest in state history after burning 298,060 acres. By 2052, 50% of the US counties that will see fire risk jump the most are in Georgia. The report included a first-of-its-kind tool to measure wildfire risk on individual properties, accounting for factors such as a home’s roof type or the vegetation near the house.</description>
@@ -361,15 +370,6 @@
   <categories>Economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/11/inflation-dipped-but-stayed-red-hot-in-april?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Thu, 12 May 2022 00:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Atlanta rapper Young Thug’s own lyrics could be used against him in RICO charge</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/675d7138ec70a27284c55ebf52d3754c03abb10e-2799x2272.jpg?rect=0,203,2799,1866&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Georgia prosecutors allege that Williams is one of the organizers of the Atlanta gang Young Slime Life (YSL), which has been accused of a number of violent crimes, including a 2015 murder. Williams’s lawyer told the LA Times the claims were “frivolous” and that they will “fight it and litigate it ethically, and lawfully and zealously.” —MM The law allows the state to find multiple parties guilty if it can prove that everyone in the organization committed two or more serious crimes that were part of a larger racketeering plan. In the indictment, prosecutors named nine songs that they claim are evidence of Williams’s criminal activity. Behind the charges is a 1970s statute created to take down mobsters, known as the Racketeer Influenced and Corrupt Organizations (RICO) Act. Prosecutors are using the state’s RICO law to charge Williams and his associates—including rappers Yak Gotti, Gunna, and Williams’s brother Unfoonk—with crimes they may not have committed, but were involved in vis-a-vis YSL.</description>
-  <link>https://www.morningbrew.com/daily/stories/young-thugs-own-lyrics-could-be-used-against-him</link>
-  <author>Matty Merritt</author>
-  <categories>Entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/young-thugs-own-lyrics-could-be-used-against-him</guid>
-  <pubDate>Wed, 11 May 2022 15:06:56 -0700</pubDate>
  </item>
 
 </channel>
