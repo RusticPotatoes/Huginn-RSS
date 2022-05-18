@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/18</link>
- <lastBuildDate>Wed, 18 May 2022 06:08:52 -0700</lastBuildDate>
- <pubDate>Wed, 18 May 2022 06:08:52 -0700</pubDate>
+ <lastBuildDate>Wed, 18 May 2022 14:38:50 -0700</lastBuildDate>
+ <pubDate>Wed, 18 May 2022 14:38:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>School districts struggle to spend their Covid funds</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-18/image-fb3f0eeab03cb3eb86c141a8f46a61b4c0e10809-500x375-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. LA in particular is still racing to spend several hundred mil left over from previous stimulus packages. —JW So what’s the hang-up? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/school-districts-struggle-to-spend-their-covid-funds</link>
+  <author>Jamie Wilde</author>
+  <categories>Education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/school-districts-struggle-to-spend-their-covid-funds</guid>
+  <pubDate>Wed, 18 May 2022 14:36:49 -0700</pubDate>
+ </item>
  <item>
   <title>MiamiCoin has lost 95% of its peak value</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a0f3fd7304bba7b99bf50c0d907a0855cb038ea7-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Here’s how it works:Investors buy tokens that they can use to bid on a city’s coin. —JW What even are these coins? Why the double take? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -361,15 +370,6 @@
   <categories>Food</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/meatpacking-companies-exaggerated-shortages-to-stay-open-new-report-says</guid>
   <pubDate>Thu, 12 May 2022 14:52:03 -0700</pubDate>
- </item>
- <item>
-  <title>This is the first-ever image of the supermassive black hole at the center of our galaxy</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d2ee5425cecf35dd59d44d19ce10cf8ebeb752c8-800x466.png?rect=51,0,699,466&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeFor all the visual thinkers who can’t picture what a black hole 4 million times more massive than the sun and 26,000 light-years away from Earth would look like without a photo: This should help!</description>
-  <link>https://www.morningbrew.com/daily/stories/black-hole-milky-way-first-image</link>
-  <author>Max Knoblauch</author>
-  <categories>Space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/black-hole-milky-way-first-image</guid>
-  <pubDate>Thu, 12 May 2022 14:52:02 -0700</pubDate>
  </item>
 
 </channel>
