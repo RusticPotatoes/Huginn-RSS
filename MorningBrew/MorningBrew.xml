@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/18/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/19/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/19/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/18</link>
- <lastBuildDate>Wed, 18 May 2022 15:23:45 -0700</lastBuildDate>
- <pubDate>Wed, 18 May 2022 15:23:45 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/19</link>
+ <lastBuildDate>Thu, 19 May 2022 00:03:46 -0700</lastBuildDate>
+ <pubDate>Thu, 19 May 2022 00:03:46 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>School districts struggle to spend their Covid funds</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-18/image-fb3f0eeab03cb3eb86c141a8f46a61b4c0e10809-500x375-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. LA in particular is still racing to spend several hundred mil left over from previous stimulus packages. —JW So what’s the hang-up? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/school-districts-struggle-to-spend-their-covid-funds?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Jamie Wilde</author>
+  <categories>Education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/school-districts-struggle-to-spend-their-covid-funds?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Thu, 19 May 2022 00:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Pay gap gets the boot in US soccer</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a5041473f11fffa443442a1226551a152e521c12-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe US men’s and women’s soccer teams will receive the same salaries and bonuses, pool prize money for World Cup performances, and share revenue for TV and sponsorships under a landmark agreement announced by the US Soccer Federation yesterday. Men’s teams received $8 million just for qualifying for the 2018 World Cup.Looking ahead…advocates hope this agreement will fuel growth in women’s soccer around the globe. —NF css-1dlcpt7[data-readonly]{box-shadow:none! That will likely lead to the men handing over some proceeds to the women, given the huge discrepancy in FIFA payouts between the two tournaments:When the US women won the tournament in 2019, they received a total of $4 million. The new World Cup pay arrangement is especially notable—the US’ soccer federation says it’s the first country in the world where national teams will pool their World Cup prize money and split it. After hoisting their third World Cup trophy in 2015, members of the US women’s national team (USWNT) wondered why they were bringing in less $$$ than their less successful male counterparts, and they alleged wage discrimination against US Soccer in a civil rights complaint the next year.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/18/pay-gap-gets-the-boot-in-us-soccer?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/18/pay-gap-gets-the-boot-in-us-soccer?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Thu, 19 May 2022 00:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Tesla got booted from S&amp;P 500 ESG index and Musk is mad</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3ee6a677fa53b75424f89b174865c3546bd2b660-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. This particular ESG index, which is controlled by the S&amp;P Dow Jones Indices, ranks companies in the S&amp;P 500 based on criteria like whether or not they release sustainability reports, use renewable energy, pay fair wages to their employees, have ethical supply chains, and have a diverse board of directors, among other metrics. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeTesla has been booted from the S&amp;P 500 ESG Index, and Elon Musk thought the decision was bad.</description>
+  <link>https://www.morningbrew.com/daily/stories/tesla-got-booted-from-s-and-p-500-esg-index-and-musk-is-mad?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>Environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/tesla-got-booted-from-s-and-p-500-esg-index-and-musk-is-mad?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Thu, 19 May 2022 00:01:54 -0700</pubDate>
+ </item>
  <item>
   <title>Tesla got booted from S&amp;P 500 ESG index and Musk is mad</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3ee6a677fa53b75424f89b174865c3546bd2b660-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. This particular ESG index, which is controlled by the S&amp;P Dow Jones Indices, ranks companies in the S&amp;P 500 based on criteria like whether or not they release sustainability reports, use renewable energy, pay fair wages to their employees, have ethical supply chains, and have a diverse board of directors, among other metrics. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeTesla has been booted from the S&amp;P 500 ESG Index, and Elon Musk thought the decision was bad. What is ESG?</description>
@@ -343,33 +370,6 @@
   <categories>Environment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/cromwell-starbucks-vegan-plant-milk-upcharge</guid>
   <pubDate>Fri, 13 May 2022 12:52:01 -0700</pubDate>
- </item>
- <item>
-  <title>How to craft the perfect resume</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/01a41bec34a355dbb039e2e8d7e4b40ef94dcccd-2000x2000.png?rect=0,333,2000,1333&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/13/how-to-craft-the-perfect-resume</link>
-  <author>Max Knoblauch</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/13/how-to-craft-the-perfect-resume</guid>
-  <pubDate>Fri, 13 May 2022 09:51:59 -0700</pubDate>
- </item>
- <item>
-  <title>This is the first-ever image of the supermassive black hole at the center of our galaxy</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d2ee5425cecf35dd59d44d19ce10cf8ebeb752c8-800x466.png?rect=51,0,699,466&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeFor all the visual thinkers who can’t picture what a black hole 4 million times more massive than the sun and 26,000 light-years away from Earth would look like without a photo: This should help!</description>
-  <link>https://www.morningbrew.com/daily/stories/black-hole-milky-way-first-image?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/black-hole-milky-way-first-image?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Fri, 13 May 2022 00:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Meatpacking companies exaggerated shortages to stay open, new report says</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/aa969f0be76620b074f109a1911d3272c6c83c03-5988x3918.jpg?rect=56,0,5877,3918&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The North American Meat Institute said the report “cherry picks data to support a narrative that is completely unrepresentative of the early days of an unprecedented national emergency.” Well, a new House subcommittee report concluded that meatpacking companies exaggerated product shortages during the height of the pandemic to keep plants open and skirt Covid health guidelines. According to the report, Tyson even drafted the executive order issued by former President Trump in April 2020 to keep plants open.</description>
-  <link>https://www.morningbrew.com/daily/stories/meatpacking-companies-exaggerated-shortages-to-stay-open-new-report-says?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Matty Merritt</author>
-  <categories>Food</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/meatpacking-companies-exaggerated-shortages-to-stay-open-new-report-says?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Fri, 13 May 2022 00:02:02 -0700</pubDate>
  </item>
 
 </channel>
