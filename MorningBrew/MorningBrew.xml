@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/19</link>
- <lastBuildDate>Thu, 19 May 2022 14:28:50 -0700</lastBuildDate>
- <pubDate>Thu, 19 May 2022 14:28:50 -0700</pubDate>
+ <lastBuildDate>Thu, 19 May 2022 14:58:50 -0700</lastBuildDate>
+ <pubDate>Thu, 19 May 2022 14:58:50 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Walmart and Amazon both reported being overstaffed in Q1</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/70f380b8b11290bd1d6bea6eb0be14323ed1d1b0-1024x659.jpg?rect=18,0,989,659&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Amazon also reported earlier this month that employees returning from sick leave led to a quick transition from being understaffed to overstaffed. Along with higher fuel prices and an inventory glut, elevated labor costs led to a 24.8% profit decline from last year. —MK In its earnings call this week, Walmart CEO Doug McMillon said that due to a late 2021 hiring surge to cover Omicron-related staffing shortages, the company experienced weeks of overstaffing in the first quarter of this year. css-1dlcpt7[data-readonly]{box-shadow:none! In tech, Meta announced a hiring freeze across some departments, while Uber told employees it would be “deliberate” about adding headcount.</description>
+  <link>https://www.morningbrew.com/daily/stories/Walmart-amazon-reported-overstaffed-Q1</link>
+  <author>Max Knoblauch</author>
+  <categories>Retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/Walmart-amazon-reported-overstaffed-Q1</guid>
+  <pubDate>Thu, 19 May 2022 14:56:49 -0700</pubDate>
+ </item>
  <item>
   <title>The housing market is finally chilling out</title>
   <description>&lt;img src='https://images.morningbrew.com/gif/2021-10-26/image-0c5d054e4c70038aefab3f3112936f88ccc86628-480x270-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. More signs are suggesting that the sizzling pace of US home price increases will start to ease. —NF css-1dlcpt7[data-readonly]{box-shadow:none! But relief is on its wayThe Atlantic’s Derek Thompson identified several clues that the housing market has indeed peaked:The home inventory shortage, a leading contributor to the demand​​–supply imbalance, is starting to ease in the hottest markets, such as California and Colorado. “It looks like more declines are imminent in the upcoming months, and we’ll likely return to the pre-pandemic home sales activity after the remarkable surge over the past two years,” Lawrence Yun, the chief economist at the National Association of Realtors, said. And an average home on the market stayed there for just 17 days before going under contract. The first sign: Sales of existing homes fell 2.4% in April to their lowest level in almost two years. The housing market might be experiencing that right now.</description>
@@ -361,15 +370,6 @@
   <categories>Work life</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/13/make-it-work-how-do-i-make-myself-recession-proof</guid>
   <pubDate>Fri, 13 May 2022 14:07:01 -0700</pubDate>
- </item>
- <item>
-  <title>Stock watch: May 15</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/cb87b82333d076efbbd925eacc4b7eb4ea1bd4ab-1500x2000.png?rect=0,500,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/13/stock-watch-may-15</link>
-  <author>Max Knoblauch</author>
-  <categories>Culture</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/13/stock-watch-may-15</guid>
-  <pubDate>Fri, 13 May 2022 14:07:00 -0700</pubDate>
  </item>
 
 </channel>
