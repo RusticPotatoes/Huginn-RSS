@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/19/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/19/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/20/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/19</link>
- <lastBuildDate>Thu, 19 May 2022 15:13:50 -0700</lastBuildDate>
- <pubDate>Thu, 19 May 2022 15:13:50 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/20</link>
+ <lastBuildDate>Fri, 20 May 2022 00:03:51 -0700</lastBuildDate>
+ <pubDate>Fri, 20 May 2022 00:03:51 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Walmart and Amazon both reported being overstaffed in Q1</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/70f380b8b11290bd1d6bea6eb0be14323ed1d1b0-1024x659.jpg?rect=18,0,989,659&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Along with higher fuel prices and an inventory glut, elevated labor costs led to a 24.8% profit decline from last year. —MK In its earnings call this week, Walmart CEO Doug McMillon said that due to a late 2021 hiring surge to cover Omicron-related staffing shortages, the company experienced weeks of overstaffing in the first quarter of this year. css-1dlcpt7[data-readonly]{box-shadow:none! In tech, Meta announced a hiring freeze across some departments, while Uber told employees it would be “deliberate” about adding to headcount.</description>
+  <link>https://www.morningbrew.com/daily/stories/Walmart-amazon-reported-overstaffed-Q1?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories>Retail</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/Walmart-amazon-reported-overstaffed-Q1?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Fri, 20 May 2022 00:01:51 -0700</pubDate>
+ </item>
+ <item>
+  <title>Massachusetts confirms first US case of monkeypox this year</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/17ea3fb16620f97238b77ee95133f6028e646721-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. And in terms of symptoms, it’s a whole gaggle of things you don’t want: fever, aches, swollen lymph nodes, and (the crème de la crème) painful blisters on the hands, feet, and face. Most people catch monkeypox directly from animals (though first found in monkeys, it’s usually spread by rodents) in West Africa or central Africa, and it’s pretty rare to contract it from another person. —MM Should we be worried? css-1dlcpt7[data-readonly]{box-shadow:none! Monkeypox is pretty easy to spot and track because of the sores, and it’s similar enough to smallpox that the vaccines for that disease would likely offer protection. It’s a virus that can spread through respiratory droplets and bodily fluids. What is monkeypox? At least 67 other suspected cases of the rare virus have also recently popped up in countries like the UK, Portugal, and Canada, baffling experts who have yet to uncover how the virus managed to make giant continental jumps.</description>
+  <link>https://www.morningbrew.com/daily/stories/massachusetts-first-united-states-monkeypox-case-this-year?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>Health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/massachusetts-first-united-states-monkeypox-case-this-year?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Fri, 20 May 2022 00:01:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>The housing market is finally chilling out</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2021-10-26/image-0c5d054e4c70038aefab3f3112936f88ccc86628-480x270-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. More signs are suggesting that the sizzling pace of US home price increases will start to ease. —NF css-1dlcpt7[data-readonly]{box-shadow:none! But relief is on its wayThe Atlantic’s Derek Thompson identified several clues that the housing market has indeed peaked:The home inventory shortage, a leading contributor to the demand​​–supply imbalance, is starting to ease in the hottest markets, such as California and Colorado. “It looks like more declines are imminent in the upcoming months, and we’ll likely return to the pre-pandemic home sales activity after the remarkable surge over the past two years,” Lawrence Yun, the chief economist at the National Association of Realtors, said. And an average home on the market stayed there for just 17 days before going under contract. The first sign: Sales of existing homes fell 2.4% in April to their lowest level in almost two years. The housing market might be experiencing that right now.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/19/the-housing-market-is-finally-chilling-out?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Real estate</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/19/the-housing-market-is-finally-chilling-out?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Fri, 20 May 2022 00:01:50 -0700</pubDate>
+ </item>
  <item>
   <title>Massachusetts confirms first US case of monkeypox this year</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/17ea3fb16620f97238b77ee95133f6028e646721-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. And in terms of symptoms, it’s a whole gaggle of things you don’t want: fever, aches, swollen lymph nodes, and (the crème de la crème) painful blisters on the hands, feet, and face. —MM Should we be worried? What is monkeypox? css-1dlcpt7[data-readonly]{box-shadow:none! It’s a virus that can spread through respiratory droplets and bodily fluids. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeMassachusetts health officials said Wednesday that they detected the first US case of monkeypox this year. At least 67 other suspected cases of the rare virus have also recently popped up in countries like the UK, Portugal, and Canada, baffling experts who have yet to uncover how the virus managed to make giant continental jumps. Monkeypox is pretty easy to spot and track because of the sores, and it’s similar enough to smallpox that the vaccines for that disease would likely offer protection. Most people catch monkeypox directly from animals (but not monkeys, usually rodents) in West Africa or central Africa, and it’s pretty rare to contract it from another person.</description>
@@ -343,33 +370,6 @@
   <categories>Social Media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/elon-musk-twitter-deal-hold?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Sat, 14 May 2022 00:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>California posts record budget surplus of nearly $100 billion</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-13/image-b9b6dc762a14033e3d87c7313d70c07bc1b17e6a-459x343-gif/giphy(3).webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. 🛶 Peloton is going after your back muscles. css-1dlcpt7[data-readonly]{box-shadow:none! And while it may not seem like a huge deal in the US, it attracts more than 180 million viewers from around the world.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/13/california-posts-record-budget-surplus-of-nearly-usd100-billion</link>
-  <author>Neal Freyman</author>
-  <categories>Government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/13/california-posts-record-budget-surplus-of-nearly-usd100-billion</guid>
-  <pubDate>Fri, 13 May 2022 15:07:02 -0700</pubDate>
- </item>
- <item>
-  <title>Musk tweets that his Twitter deal is ‘on hold’</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/cb9a8a882c5c87268247c5399dab7b125ece8666-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Here’s his justification for pressing pause, though:“Spam/fake accounts” might make up 5% or more of Twitter’s user base, and he’s awaiting “supporting calculation” to prove that one way or the other. In fact, courts in Delaware (where Twitter and many other companies are incorporated) have only ever identified one MAE, in 2018. Maybe, considering a) yesterday was Friday the 13th b) Musk later said he was “still committed to acquisition” and c) Musk has a history of trolling Wall Street regulators like they’re Dexter and he’s Dee Dee. He may not be blowing up any labs, but yesterday’s tweet caused Twitter stock to temporarily fall over 25%, which might constitute securities fraud since it directly impacted the market cap of a company he’s planning to purchase. Which is just par for the course for Musk throughout this Twitter ordeal. The securities filing for the merger says that less than 5% of users are bots, and it contains a provision that Musk can walk away if that’s incorrect…but only if that bot problem has what’s known as a material adverse effect (MAE) on Twitter’s business. Before dawn yesterday, the billionaire tweeted that his deal to acquire Twitter for $44 billion—which Twitter’s board of directors agreed to less than three weeks ago—was “temporarily on hold.” —JW So where does that leave us?</description>
-  <link>https://www.morningbrew.com/daily/stories/elon-musk-twitter-deal-hold</link>
-  <author>Jamie Wilde</author>
-  <categories>Social Media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/elon-musk-twitter-deal-hold</guid>
-  <pubDate>Fri, 13 May 2022 15:07:02 -0700</pubDate>
- </item>
- <item>
-  <title>Southwest, other airlines invest in in-flight wi-fi to stay competitive</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/41fd18c9965dbb058ed12fa4ce5b33ab42cb8dae-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. But soon we’ll be able to check our Slack messages 36,000 feet in the air. It’s part of a broader trend of airlines investing in faster in-air wi-fi to win over travel-hungry customers post-lockdown, especially now that business travel has started to rebound.</description>
-  <link>https://www.morningbrew.com/daily/stories/southwest-airlines-invest-in-flight-wifi</link>
-  <author>Matty Merritt</author>
-  <categories>Travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/southwest-airlines-invest-in-flight-wifi</guid>
-  <pubDate>Fri, 13 May 2022 15:07:01 -0700</pubDate>
  </item>
 
 </channel>
