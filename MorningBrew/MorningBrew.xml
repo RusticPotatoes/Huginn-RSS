@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/20</link>
- <lastBuildDate>Fri, 20 May 2022 10:08:47 -0700</lastBuildDate>
- <pubDate>Fri, 20 May 2022 10:08:47 -0700</pubDate>
+ <lastBuildDate>Fri, 20 May 2022 12:08:48 -0700</lastBuildDate>
+ <pubDate>Fri, 20 May 2022 12:08:48 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Make it work: I was put on an interview panel and have no idea what I’m doing</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7b6de1bb891bb0dd9e289abb0a591582a5da30e6-1503x603.png?rect=299,0,905,603&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. What’s important to you in a teammate and what type of questions can you ask that will measure that? css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. As the interview unfolds, ask follow-up questions: You want to be prepared, but not rigid.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/20/make-it-work-i-was-put-on-an-interview-panel-and-have-no-idea-what-i-m-doing</link>
+  <author>Shane Loughnane</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/20/make-it-work-i-was-put-on-an-interview-panel-and-have-no-idea-what-i-m-doing</guid>
+  <pubDate>Fri, 20 May 2022 12:06:47 -0700</pubDate>
+ </item>
  <item>
   <title>Stock watch: May 22</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/244794f60de7809494622bf5026ca199d17b4f12-1500x2000.png?rect=0,500,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -361,15 +370,6 @@
   <categories>Travel</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/southwest-airlines-invest-in-flight-wifi?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Sat, 14 May 2022 00:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>California posts record budget surplus of nearly $100 billion</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-13/image-b9b6dc762a14033e3d87c7313d70c07bc1b17e6a-459x343-gif/giphy(3).webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Gov. Gavin Newsom announced yesterday that his state had a budget surplus of $97.5 billion, a record for California and, according to Newsom, anywhere else in the US…ever. —NF css-1dlcpt7[data-readonly]{box-shadow:none! Newsom has proposed sending residents $400 per vehicle.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/13/california-posts-record-budget-surplus-of-nearly-usd100-billion?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories>Government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/13/california-posts-record-budget-surplus-of-nearly-usd100-billion?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sat, 14 May 2022 00:02:02 -0700</pubDate>
  </item>
 
 </channel>
