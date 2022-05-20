@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/20</link>
- <lastBuildDate>Fri, 20 May 2022 12:08:48 -0700</lastBuildDate>
- <pubDate>Fri, 20 May 2022 12:08:48 -0700</pubDate>
+ <lastBuildDate>Fri, 20 May 2022 14:18:51 -0700</lastBuildDate>
+ <pubDate>Fri, 20 May 2022 14:18:51 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Saturday sketch: Some time for Q&amp;A</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0aaf3b34e5aa3425cfb02ae0edad028b91d70447-1500x1500.png?rect=0,250,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/20/saturday-sketch-some-time-for-q-and-a</link>
+  <author>Max Knoblauch</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/20/saturday-sketch-some-time-for-q-and-a</guid>
+  <pubDate>Fri, 20 May 2022 14:16:50 -0700</pubDate>
+ </item>
  <item>
   <title>Make it work: I was put on an interview panel and have no idea what I’m doing</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7b6de1bb891bb0dd9e289abb0a591582a5da30e6-1503x603.png?rect=299,0,905,603&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. What’s important to you in a teammate and what type of questions can you ask that will measure that? css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. As the interview unfolds, ask follow-up questions: You want to be prepared, but not rigid.</description>
@@ -360,15 +369,6 @@
   <author>Max Knoblauch</author>
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/13/how-to-craft-the-perfect-resume?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sat, 14 May 2022 00:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>Southwest, other airlines invest in in-flight wi-fi to stay competitive</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/41fd18c9965dbb058ed12fa4ce5b33ab42cb8dae-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. —MM css-1dlcpt7[data-readonly]{box-shadow:none! It’s part of a broader trend of airlines investing in faster in-air wi-fi to win over travel-hungry customers, especially now that business travel has started to rebound. But the four biggest US airlines haven’t given Starlink the time of day. A few weeks ago it announced a deal with SpaceX’s Starlink to start installing the service on some planes next year. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe airline obsessed with boarding passengers gladiator-style is spending $2 billion to give the people what they want. They have instead partnered with wi-fi provider Viasat, which Southwest will be working with to roll out better internet for passengers by the fall.</description>
-  <link>https://www.morningbrew.com/daily/stories/southwest-airlines-invest-in-flight-wifi?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Matty Merritt</author>
-  <categories>Travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/southwest-airlines-invest-in-flight-wifi?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Sat, 14 May 2022 00:02:03 -0700</pubDate>
  </item>
 
