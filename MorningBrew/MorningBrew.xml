@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/20</link>
- <lastBuildDate>Fri, 20 May 2022 00:03:51 -0700</lastBuildDate>
- <pubDate>Fri, 20 May 2022 00:03:51 -0700</pubDate>
+ <lastBuildDate>Fri, 20 May 2022 10:08:47 -0700</lastBuildDate>
+ <pubDate>Fri, 20 May 2022 10:08:47 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Stock watch: May 22</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/244794f60de7809494622bf5026ca199d17b4f12-1500x2000.png?rect=0,500,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/20/stock-watch-may-22</link>
+  <author>Max Knoblauch</author>
+  <categories>Culture</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/20/stock-watch-may-22</guid>
+  <pubDate>Fri, 20 May 2022 10:06:47 -0700</pubDate>
+ </item>
  <item>
   <title>Walmart and Amazon both reported being overstaffed in Q1</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/70f380b8b11290bd1d6bea6eb0be14323ed1d1b0-1024x659.jpg?rect=18,0,989,659&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Along with higher fuel prices and an inventory glut, elevated labor costs led to a 24.8% profit decline from last year. —MK In its earnings call this week, Walmart CEO Doug McMillon said that due to a late 2021 hiring surge to cover Omicron-related staffing shortages, the company experienced weeks of overstaffing in the first quarter of this year. css-1dlcpt7[data-readonly]{box-shadow:none! In tech, Meta announced a hiring freeze across some departments, while Uber told employees it would be “deliberate” about adding to headcount.</description>
@@ -360,15 +369,6 @@
   <author>Neal Freyman</author>
   <categories>Government</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/13/california-posts-record-budget-surplus-of-nearly-usd100-billion?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sat, 14 May 2022 00:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Musk tweets that his Twitter deal is ‘on hold’</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/cb9a8a882c5c87268247c5399dab7b125ece8666-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Here’s his justification for pressing pause, though:“Spam/fake accounts” might make up 5% or more of Twitter’s user base, and he’s awaiting “supporting calculation” to prove that one way or the other. In fact, courts in Delaware (where Twitter and many other companies are incorporated) have only ever identified one MAE, in 2018. Maybe, considering a) yesterday was Friday the 13th b) Musk later said he was “still committed to acquisition” and c) Musk has a history of trolling Wall Street regulators like they’re Dexter and he’s Dee Dee. He may not be blowing up any labs, but yesterday’s tweet caused Twitter stock to temporarily fall over 25%, which might constitute securities fraud since it directly impacted the market cap of a company he’s planning to purchase. The securities filing for the merger says that less than 5% of users are bots, and it contains a provision that Musk can walk away if that’s incorrect…but only if that bot problem has what’s known as a material adverse effect (MAE) on Twitter’s business. But avoiding pesky things like “the rules” is just par for the course for Musk throughout this Twitter ordeal. —JW So where does that leave us?</description>
-  <link>https://www.morningbrew.com/daily/stories/elon-musk-twitter-deal-hold?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Jamie Wilde</author>
-  <categories>Social Media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/elon-musk-twitter-deal-hold?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Sat, 14 May 2022 00:02:02 -0700</pubDate>
  </item>
 
