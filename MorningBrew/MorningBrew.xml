@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/20/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/21/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/20</link>
- <lastBuildDate>Fri, 20 May 2022 15:38:51 -0700</lastBuildDate>
- <pubDate>Fri, 20 May 2022 15:38:51 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/21</link>
+ <lastBuildDate>Sat, 21 May 2022 00:03:53 -0700</lastBuildDate>
+ <pubDate>Sat, 21 May 2022 00:03:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Saturday sketch: Some time for Q&amp;A</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0aaf3b34e5aa3425cfb02ae0edad028b91d70447-1500x1500.png?rect=0,250,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/20/saturday-sketch-some-time-for-q-and-a?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/20/saturday-sketch-some-time-for-q-and-a?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 21 May 2022 00:01:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Old Navy tried to be more size-inclusive, but just left customers frustrated</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/175b525422b371139443a208f34dc81636144c9a-3959x2010.jpg?rect=472,0,3015,2010&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. But after filling the sales floor with larger sizes, the company’s sales fell faster than a silky shirt off one of their plastic hangers as customers got frustrated trying to find middle sizes, the WSJ reports. The CEO of Gap Inc., Old Navy’s parent company, called it the “largest integrated launch” in Old Navy’s history and an “important growth driver for…years to come.”</description>
+  <link>https://www.morningbrew.com/daily/stories/old-navy-size-inclusive-left-customers-frustrated?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/old-navy-size-inclusive-left-customers-frustrated?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 21 May 2022 00:01:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Coca-Cola announces nearly capless bottles in the UK</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/398935f07f47ed0a079fef741e0ba7a7f6813c4d-1280x720.jpg?rect=100,0,1080,720&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
+  <link>https://www.morningbrew.com/daily/stories/coca-cola-capless-bottles-UK?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Jamie Wilde</author>
+  <categories>Food &amp; Bev</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/coca-cola-capless-bottles-UK?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 21 May 2022 00:01:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Stock market is experiencing historic rout</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/501050831b12e8e98921d48018d2f467774bffb5-966x643.png?rect=1,0,965,643&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Every recession since 1968 has prompted a bear market like the one we’re currently in, per CFRA Research. In fact, a big stock market sell-off is exactly what the Fed wants to see in order to slow economic activity, and in turn, bring inflation back to normal. The Dow posted its eighth straight weekly loss, which is its longest weekly losing streak since 1923. And this week, any optimism was dashed when ol’ reliables Target and Walmart posted lousy results, sending their stocks tumbling the most since the market crash of 1987.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/20/stock-market-is-experiencing-historic-rout?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Markets</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/20/stock-market-is-experiencing-historic-rout?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 21 May 2022 00:01:51 -0700</pubDate>
+ </item>
  <item>
   <title>Spain could become the first European country to offer menstrual leave</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7ea531cd28c342e1c9e39c9d7b0ae8abd88777dd-4500x3000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. One curveball with a paid period leave policy: people who menstruate may not use it. But none offer a policy quite as robust as Spain’s. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeSpain’s government approved a draft bill this week that would create a nationwide menstrual leave policy for workers—meaning that if a woman gets a doctor’s note for severe period pain, they would be eligible to take government-funded PTO. In Japan, where paid period leave has been around the longest, dating back to 1947, the policy has seen a steep decline in use. As it stands, menstrual leave is about as common as a tampon commercial without women dancing in white pants.</description>
@@ -334,42 +370,6 @@
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/15/the-racist-theory-inspiring-a-wave-of-mass-shootings</guid>
   <pubDate>Sun, 15 May 2022 16:02:03 -0700</pubDate>
- </item>
- <item>
-  <title>NY Gov. Kathy Hochul calls on social media platforms to moderate hate speech</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/b150c5e9fa958720aaf80bfa60849811a6f9ddb1-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Last Wednesday, an appeals court reinstated a Texas law that bans social media companies from moderating content on their platforms based on “the viewpoint of the user or another person.” But that removal would have seemingly violated Texas’s new social media law if it had occurred there. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/15/ny-gov-kathy-hochul-calls-on-social-media-platforms-to-moderate-hate-speech</link>
-  <author>Neal Freyman</author>
-  <categories>Social Media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/15/ny-gov-kathy-hochul-calls-on-social-media-platforms-to-moderate-hate-speech</guid>
-  <pubDate>Sun, 15 May 2022 16:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>The week ahead: May 16</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/1317a4828f3764b099a7d917c9e80ef140eaba79-6552x4370.jpg?rect=0,1,6552,4368&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. “I think one of the lessons we learned in World War II is not standing up to aggression early is a huge mistake,” McConnell said. Golf’s PGA Championship starts on Thursday (Phil Mickelson will not be playing). Everything else:The Cannes Film Festival starts this week. Consumer sentiment hit an 11-year low this month.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/15/the-week-ahead-may-16</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/15/the-week-ahead-may-16</guid>
-  <pubDate>Sun, 15 May 2022 16:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Turntable: May 16</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d6d5ff67f65ccfc42ccab384cde8bbc6f76d8507-1920x1080.png?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/15/turntable-may-16</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/15/turntable-may-16</guid>
-  <pubDate>Sun, 15 May 2022 07:26:53 -0700</pubDate>
- </item>
- <item>
-  <title>‘Succession’ actor’s protest highlights the vegan upcharge</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d67ffae591a0a2c2f8569f7f00cf1708edccf03e-1400x967.jpg?rect=0,16,1400,933&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Across the industry, the retail price of nondairy, plant-based milk is around twice the price of dairy milk, according to Mintec, which analyzes food commodity costs. But while those factors may help explain why plant-based milks are expensive, they don’t fully spell out why dairy milk is so cheap. While most people probably aren’t concerned about what the human star of Babe: Pig in the City sticks himself to, Cromwell’s glue-in highlights a reality for vegans and those with dairy allergies: Things tend to cost a lot more. The lactose intolerance taxIn January, Starbucks stores in the UK made all dairy alternatives free. But in the US, Starbucks locations typically charge an additional 70 cents for nondairy options. And it’s not just Starbucks charging a premium, either. So what’s keeping those oat milk prices high? —MK Zoom out: While around 36% of Americans are lactose intolerant (a condition that predominantly affects people of color), the US is still living in its Got Milk? css-1dlcpt7[data-readonly]{box-shadow:none! There’s a higher demand for dairy milk—61% of US households primarily drink it, compared to the 23% that opt for plant-based—so production costs are more spread out and retail prices are cheaper. Given that the carbon footprint of cow milk is about 3x that of alternatives like oat milk, environmental advocates like Cromwell are hoping that removing cost burdens will lead to more people giving nondairy options a chance.</description>
-  <link>https://www.morningbrew.com/daily/stories/cromwell-starbucks-vegan-plant-milk-upcharge?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/cromwell-starbucks-vegan-plant-milk-upcharge?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sun, 15 May 2022 00:01:59 -0700</pubDate>
  </item>
 
 </channel>
