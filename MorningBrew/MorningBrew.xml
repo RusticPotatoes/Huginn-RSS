@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/23</link>
- <lastBuildDate>Mon, 23 May 2022 00:03:45 -0700</lastBuildDate>
- <pubDate>Mon, 23 May 2022 00:03:45 -0700</pubDate>
+ <lastBuildDate>Mon, 23 May 2022 14:28:48 -0700</lastBuildDate>
+ <pubDate>Mon, 23 May 2022 14:28:48 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Biden says the US will help defend Taiwan, in potential policy shift</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e7729da2e727a029496a6c34ba3c66208028a6f8-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In light of Russia’s invasion of Ukraine, the focus has been on what the US and other allies would do if China took its Taiwanese aggression to the next level. Why Taiwan is such a sensitive topic: Geopolitical experts say a confrontation between the US and China over Taiwan currently presents one of the top risks of war around the world. After Biden ripped up the playbook, the White House went scrambling to tape it back together, reiterating that the US’ policy on Taiwan hadn’t changed, despite what Biden said. —NF css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/23/biden-says-the-us-will-help-defend-taiwan-in-potential-policy-shift</link>
+  <author>Neal Freyman</author>
+  <categories>International</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/23/biden-says-the-us-will-help-defend-taiwan-in-potential-policy-shift</guid>
+  <pubDate>Mon, 23 May 2022 14:26:47 -0700</pubDate>
+ </item>
  <item>
   <title>The week ahead: May 23</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3dfa29f0284bb6571d865a4b75f2306da81bf2f1-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Another batch of retail earnings: After Walmart’s and Target’s miserable earnings sent markets into a tailspin last week, what does the calendar throw us but another slew of retail reports this week. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -361,15 +370,6 @@
   <categories>Crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/miamicoin-cryptocurrency-loses-95-percent-peak-value?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Wed, 18 May 2022 06:06:52 -0700</pubDate>
- </item>
- <item>
-  <title>Elon Musk further complicates Twitter deal with bot drama</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f258687cf8d80a14edd8e3835716abe943e7b674-1024x668.jpg?rect=11,0,1002,668&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. On a recent episode…Elon Musk attempted to put the takeover on ice (for the second time) Tuesday morning, tweeting “this deal cannot move forward” unless Twitter CEO Parag Agrawal shows proof that fewer than 5% of Twitter’s accounts are fake/spam. —NF css-1dlcpt7[data-readonly]{box-shadow:none! Big picture: Musk’s hang-up with spam accounts has some analysts suggesting that he’s manufacturing outrage over bots as an excuse to renegotiate a deal he believes he paid too much for—or wants to back out of completely. If Musk rips up the agreement, he’ll owe a $1 billion breakup fee. Musk, without giving any credible evidence, has asserted that at least 20% of all Twitter accounts are fake, and maybe even 90% are. Twitter estimates that fewer than 5% of its monthly active users are fake or spam accounts, and Agrawal explained in a long thread on Monday how the company arrives at that number.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/17/elon-musk-further-complicates-twitter-deal-with-bot-tweets?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories>Tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/17/elon-musk-further-complicates-twitter-deal-with-bot-tweets?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Wed, 18 May 2022 06:06:51 -0700</pubDate>
  </item>
 
 </channel>
