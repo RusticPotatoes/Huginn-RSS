@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/22/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/23/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/22</link>
- <lastBuildDate>Sun, 22 May 2022 16:08:50 -0700</lastBuildDate>
- <pubDate>Sun, 22 May 2022 16:08:50 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/23</link>
+ <lastBuildDate>Mon, 23 May 2022 00:03:45 -0700</lastBuildDate>
+ <pubDate>Mon, 23 May 2022 00:03:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The week ahead: May 23</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3dfa29f0284bb6571d865a4b75f2306da81bf2f1-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Another batch of retail earnings: After Walmart’s and Target’s miserable earnings sent markets into a tailspin last week, what does the calendar throw us but another slew of retail reports this week. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/22/the-week-ahead-may?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/22/the-week-ahead-may?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Mon, 23 May 2022 00:01:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>The first shipment of baby formula to the US arrives</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4a47bcd4104251a3a48545e6945e83977995ddf9-1024x682.jpg?rect=1,0,1023,682&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It’s exposed a heavily concentrated industryAbbott and just one other company, Reckitt Benckiser, account for about 80% of the US market. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeAn international flight landed in Indianapolis yesterday, and to our relief no one clapped after it touched down.</description>
+  <link>https://www.morningbrew.com/daily/stories/first-shipment-of-baby-formula-to-the-us?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Logistics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/first-shipment-of-baby-formula-to-the-us?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Mon, 23 May 2022 00:01:53 -0700</pubDate>
+ </item>
+ <item>
+  <title>US dollar could reach parity with the euro this year</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-22/image-645d77a26ecb978ba1d70df0d874401b17b1b5ef-480x270-gif/giphy(7).webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThanks to a surging US dollar and a faltering euro, many analysts expect that the two currencies could reach parity this year—meaning one dollar would fetch you one euro. At the same time, they’re fleeing the euro because Europe is more vulnerable to a severe economic downturn than the US. The euro closed Friday at about $1.057 against the dollar, just 5% above equal value with the US currency. Of course, the consequences of a stronger dollar go beyond cheaper European delights. Bottom line: This isn’t just a dollar &gt; euro story; it’s a dollar &gt; everyone story. Why is this happening? In fact, even with soaring inflation, many activities in Europe are cheaper now than they were in 2019, Bloomberg points out:Visiting the Acropolis in Athens costs $21 now, compared to $22.60 in 2019.</description>
+  <link>https://www.morningbrew.com/daily/stories/us-dollar-reach-parity-with-the-euro-this-year?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/us-dollar-reach-parity-with-the-euro-this-year?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Mon, 23 May 2022 00:01:53 -0700</pubDate>
+ </item>
  <item>
   <title>The first shipment of baby formula to the US arrives</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4a47bcd4104251a3a48545e6945e83977995ddf9-1024x682.jpg?rect=1,0,1023,682&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It’s exposed a heavily concentrated industryAbbott and just one other company, Reckitt Benckiser, account for about 80% of the US market. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeAn international flight landed in Indianapolis yesterday, and to our relief no one clapped after it touched down.</description>
@@ -343,33 +370,6 @@
   <categories>Tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/17/elon-musk-further-complicates-twitter-deal-with-bot-tweets?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Wed, 18 May 2022 06:06:51 -0700</pubDate>
- </item>
- <item>
-  <title>Congress held the first public hearing on UFOs in 50 years</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f068eb6f29b1347eb265ac505d51aa90488514c8-976x549.jpg?rect=76,0,824,549&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. One previously classified video revealed Tuesday showed a spherical object speeding past a US fighter jet. That’s a big uptick from an official report published last year that included 143 such events dating back to 2004. —MK That incident, like many others, remains unexplained. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
-  <link>https://www.morningbrew.com/daily/stories/congress-public-hearing-UFOs?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/congress-public-hearing-UFOs?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Wed, 18 May 2022 06:06:51 -0700</pubDate>
- </item>
- <item>
-  <title>Congress held the first public hearing on UFOs in 50 years</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f068eb6f29b1347eb265ac505d51aa90488514c8-976x549.jpg?rect=76,0,824,549&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. One previously classified video showed a spherical object speeding past a US fighter jet. That’s a big uptick from an official report published last year that included 143 such events dating back to 2004. —MK That incident, like many others, remains unexplained. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
-  <link>https://www.morningbrew.com/daily/stories/congress-public-hearing-UFOs</link>
-  <author>Max Knoblauch</author>
-  <categories>Government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/congress-public-hearing-UFOs</guid>
-  <pubDate>Tue, 17 May 2022 15:12:02 -0700</pubDate>
- </item>
- <item>
-  <title>MiamiCoin has lost 95% of its peak value</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a0f3fd7304bba7b99bf50c0d907a0855cb038ea7-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Here’s how it works:Investors buy tokens that they can use to bid on a city’s coin. —JW What even are these coins? Why the double take? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/miamicoin-cryptocurrency-loses-95-percent-peak-value</link>
-  <author>Jamie Wilde</author>
-  <categories>Crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/miamicoin-cryptocurrency-loses-95-percent-peak-value</guid>
-  <pubDate>Tue, 17 May 2022 15:12:01 -0700</pubDate>
  </item>
 
 </channel>
