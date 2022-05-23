@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/23</link>
- <lastBuildDate>Mon, 23 May 2022 14:43:47 -0700</lastBuildDate>
- <pubDate>Mon, 23 May 2022 14:43:47 -0700</pubDate>
+ <lastBuildDate>Mon, 23 May 2022 15:13:53 -0700</lastBuildDate>
+ <pubDate>Mon, 23 May 2022 15:13:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Klarna’s layoffs signal a broader buy-now-pay-later slowdown</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/fd997642cf984eccae11df5ccb0fb317b61c314c-2599x1733.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. And no one understood that better than the buy now, pay later (BNPL) startups that skyrocketed in popularity during the pandemic’s e-commerce boom. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. And Klarna, the leader in helping you pay for your ASOS haul, grew its valuation from $11 billion in September 2020 to $46 billion last June. —MM Why the slowdown?</description>
+  <link>https://www.morningbrew.com/daily/stories/klarna-layoffs-buy-now-pay-later-slowdown</link>
+  <author>Matty Merritt</author>
+  <categories>E-Commerce</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/klarna-layoffs-buy-now-pay-later-slowdown</guid>
+  <pubDate>Mon, 23 May 2022 15:11:53 -0700</pubDate>
+ </item>
  <item>
   <title>SiriusXM acquires Conan O’Brien's Team Coco network for $150 million</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/48d16db1d6ffaf84ae36d62244dad5dbf0224438-1024x683.jpg?rect=85,84,846,564&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The podcast ad market topped $1.4 billion in revenue in 2021 and is projected to exceed $4 billion by 2024. Under the deal, Conan O’Brien Needs a Friend, Team Coco’s flagship podcast, will make the leap to SiriusXM’s pod network along with the company’s network of 10 podcasts including Rob Lowe’s Parks and Recollection and Nicole Byer’s Why Won’t You Date Me? css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeComedy tall-guy Conan O’Brien has sold his digital media company, Team Coco, to SiriusXM in a heavyweight deal valued around $150 million. —MK O’Brien himself signed a five-year talent agreement and will produce a comedy channel for the satellite radio company. Team Coco’s staff of about 50 employees will join Sirius. Zoom out: The nine-figure acquisition—Sirius’s largest in the podcaster space—comes two years after Spotify’s reported $200 million deal with Joe Rogan, although Conan’s show features fewer convos about ice baths and DMT.</description>
@@ -361,15 +370,6 @@
   <categories>Sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/18/pay-gap-gets-the-boot-in-us-soccer</guid>
   <pubDate>Wed, 18 May 2022 15:06:45 -0700</pubDate>
- </item>
- <item>
-  <title>School districts struggle to spend their Covid funds</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-18/image-fb3f0eeab03cb3eb86c141a8f46a61b4c0e10809-500x375-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. LA in particular is still racing to spend several hundred mil left over from previous stimulus packages. —JW So what’s the hang-up? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/school-districts-struggle-to-spend-their-covid-funds</link>
-  <author>Jamie Wilde</author>
-  <categories>Education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/school-districts-struggle-to-spend-their-covid-funds</guid>
-  <pubDate>Wed, 18 May 2022 14:36:49 -0700</pubDate>
  </item>
 
 </channel>
