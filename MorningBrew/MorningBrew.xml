@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/23</link>
- <lastBuildDate>Mon, 23 May 2022 14:28:48 -0700</lastBuildDate>
- <pubDate>Mon, 23 May 2022 14:28:48 -0700</pubDate>
+ <lastBuildDate>Mon, 23 May 2022 14:43:47 -0700</lastBuildDate>
+ <pubDate>Mon, 23 May 2022 14:43:47 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>SiriusXM acquires Conan O’Brien's Team Coco network for $150 million</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/48d16db1d6ffaf84ae36d62244dad5dbf0224438-1024x683.jpg?rect=85,84,846,564&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The podcast ad market topped $1.4 billion in revenue in 2021 and is projected to exceed $4 billion by 2024. Under the deal, Conan O’Brien Needs a Friend, Team Coco’s flagship podcast, will make the leap to SiriusXM’s pod network along with the company’s network of 10 podcasts including Rob Lowe’s Parks and Recollection and Nicole Byer’s Why Won’t You Date Me? css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeComedy tall-guy Conan O’Brien has sold his digital media company, Team Coco, to SiriusXM in a heavyweight deal valued around $150 million. —MK O’Brien himself signed a five-year talent agreement and will produce a comedy channel for the satellite radio company. Team Coco’s staff of about 50 employees will join Sirius. Zoom out: The nine-figure acquisition—Sirius’s largest in the podcaster space—comes two years after Spotify’s reported $200 million deal with Joe Rogan, although Conan’s show features fewer convos about ice baths and DMT.</description>
+  <link>https://www.morningbrew.com/daily/stories/siriusxm-acquires-conan-obrien-team-coco-network</link>
+  <author>Max Knoblauch</author>
+  <categories>Podcasts</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/siriusxm-acquires-conan-obrien-team-coco-network</guid>
+  <pubDate>Mon, 23 May 2022 14:41:46 -0700</pubDate>
+ </item>
  <item>
   <title>Biden says the US will help defend Taiwan, in potential policy shift</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e7729da2e727a029496a6c34ba3c66208028a6f8-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In light of Russia’s invasion of Ukraine, the focus has been on what the US and other allies would do if China took its Taiwanese aggression to the next level. Why Taiwan is such a sensitive topic: Geopolitical experts say a confrontation between the US and China over Taiwan currently presents one of the top risks of war around the world. After Biden ripped up the playbook, the White House went scrambling to tape it back together, reiterating that the US’ policy on Taiwan hadn’t changed, despite what Biden said. —NF css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -361,15 +370,6 @@
   <categories>Education</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/school-districts-struggle-to-spend-their-covid-funds</guid>
   <pubDate>Wed, 18 May 2022 14:36:49 -0700</pubDate>
- </item>
- <item>
-  <title>MiamiCoin has lost 95% of its peak value</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a0f3fd7304bba7b99bf50c0d907a0855cb038ea7-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Here’s how it works:Investors buy tokens that they can use to bid on a city’s coin. —JW What even are these coins? Why the double take? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/miamicoin-cryptocurrency-loses-95-percent-peak-value?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Jamie Wilde</author>
-  <categories>Crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/miamicoin-cryptocurrency-loses-95-percent-peak-value?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Wed, 18 May 2022 06:06:52 -0700</pubDate>
  </item>
 
 </channel>
