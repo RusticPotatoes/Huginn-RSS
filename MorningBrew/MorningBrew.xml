@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/23/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/24/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/24/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/23</link>
- <lastBuildDate>Mon, 23 May 2022 15:13:53 -0700</lastBuildDate>
- <pubDate>Mon, 23 May 2022 15:13:53 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/24</link>
+ <lastBuildDate>Tue, 24 May 2022 00:03:47 -0700</lastBuildDate>
+ <pubDate>Tue, 24 May 2022 00:03:47 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>SiriusXM acquires Conan O’Brien’s Team Coco network for $150 million</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/48d16db1d6ffaf84ae36d62244dad5dbf0224438-1024x683.jpg?rect=85,84,846,564&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The podcast ad market topped $1.4 billion in revenue in 2021 and is projected to exceed $4 billion by 2024. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeComedy tall-guy Conan O’Brien has sold his digital media company, Team Coco, to SiriusXM in a heavyweight deal valued around $150 million. —MK Zoom out: The nine-figure acquisition—Sirius’s largest in the podcaster space—comes two years after Spotify’s reported $200 million deal with Joe Rogan, although Conan’s show features fewer convos about ice baths and DMT. O’Brien himself signed a five-year talent agreement and will produce a comedy channel for the satellite radio company. Under the deal, Conan O’Brien Needs a Friend, Team Coco’s flagship podcast, will make the leap to SiriusXM’s pod network along with Team Coco’s network of 10 podcasts including Rob Lowe’s Parks and Recollection and Nicole Byer’s Why Won’t You Date Me? Team Coco’s staff of about 50 employees will join Sirius. Conan O’Brien Needs a Friend ranked 26th among all podcasts by weekly listeners in Q1.</description>
+  <link>https://www.morningbrew.com/daily/stories/siriusxm-acquires-conan-obrien-team-coco-network?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories>Podcasts</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/siriusxm-acquires-conan-obrien-team-coco-network?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Tue, 24 May 2022 00:01:46 -0700</pubDate>
+ </item>
+ <item>
+  <title>Biden says the US will help defend Taiwan, in potential policy shift</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e7729da2e727a029496a6c34ba3c66208028a6f8-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In light of Russia’s invasion of Ukraine, the focus has been on what the US and other allies would do if China took its Taiwanese aggression to the next level. Why Taiwan is such a sensitive topic: Geopolitical experts say a confrontation between the US and China over Taiwan currently presents one of the top risks of war around the world. After Biden ripped up the playbook, the White House went scrambling to tape it back together, reiterating that the US’ policy on Taiwan hadn’t changed, despite what Biden said. —NF css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/23/biden-says-the-us-will-help-defend-taiwan-in-potential-policy-shift?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>International</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/23/biden-says-the-us-will-help-defend-taiwan-in-potential-policy-shift?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Tue, 24 May 2022 00:01:46 -0700</pubDate>
+ </item>
+ <item>
+  <title>Klarna’s layoffs signal a broader buy now, pay later slowdown</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/fd997642cf984eccae11df5ccb0fb317b61c314c-2599x1733.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. For all the reasons Siemiatkowski mentioned, but also because companies made investments assuming that pandemic growth = forever growth. And Klarna’s not the only one getting a shave: Shares of Affirm, the US BNPL giant, have dropped almost 75% this year. And no one understood that better than the buy now, pay later (BNPL) startups that skyrocketed in popularity during the pandemic’s e-commerce boom.</description>
+  <link>https://www.morningbrew.com/daily/stories/klarna-layoffs-buy-now-pay-later-slowdown?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>E-Commerce</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/klarna-layoffs-buy-now-pay-later-slowdown?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Tue, 24 May 2022 00:01:46 -0700</pubDate>
+ </item>
  <item>
   <title>Klarna’s layoffs signal a broader buy-now-pay-later slowdown</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/fd997642cf984eccae11df5ccb0fb317b61c314c-2599x1733.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. And no one understood that better than the buy now, pay later (BNPL) startups that skyrocketed in popularity during the pandemic’s e-commerce boom. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. And Klarna, the leader in helping you pay for your ASOS haul, grew its valuation from $11 billion in September 2020 to $46 billion last June. —MM Why the slowdown?</description>
@@ -343,33 +370,6 @@
   <categories>Sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/18/pay-gap-gets-the-boot-in-us-soccer?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Thu, 19 May 2022 00:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>Tesla got booted from S&amp;P 500 ESG index and Musk is mad</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3ee6a677fa53b75424f89b174865c3546bd2b660-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. This particular ESG index, which is controlled by the S&amp;P Dow Jones Indices, ranks companies in the S&amp;P 500 based on criteria like whether or not they release sustainability reports, use renewable energy, pay fair wages to their employees, have ethical supply chains, and have a diverse board of directors, among other metrics. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeTesla has been booted from the S&amp;P 500 ESG Index, and Elon Musk thought the decision was bad.</description>
-  <link>https://www.morningbrew.com/daily/stories/tesla-got-booted-from-s-and-p-500-esg-index-and-musk-is-mad?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Matty Merritt</author>
-  <categories>Environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/tesla-got-booted-from-s-and-p-500-esg-index-and-musk-is-mad?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 19 May 2022 00:01:54 -0700</pubDate>
- </item>
- <item>
-  <title>Tesla got booted from S&amp;P 500 ESG index and Musk is mad</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3ee6a677fa53b75424f89b174865c3546bd2b660-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. This particular ESG index, which is controlled by the S&amp;P Dow Jones Indices, ranks companies in the S&amp;P 500 based on criteria like whether or not they release sustainability reports, use renewable energy, pay fair wages to their employees, have ethical supply chains, and have a diverse board of directors, among other metrics. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeTesla has been booted from the S&amp;P 500 ESG Index, and Elon Musk thought the decision was bad. What is ESG?</description>
-  <link>https://www.morningbrew.com/daily/stories/tesla-got-booted-from-s-and-p-500-esg-index-and-musk-is-mad</link>
-  <author>Matty Merritt</author>
-  <categories>Environment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/tesla-got-booted-from-s-and-p-500-esg-index-and-musk-is-mad</guid>
-  <pubDate>Wed, 18 May 2022 15:21:55 -0700</pubDate>
- </item>
- <item>
-  <title>Pay gap gets the boot in US soccer</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a5041473f11fffa443442a1226551a152e521c12-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe US men’s and women’s soccer teams will receive the same salaries, bonuses, prize money for World Cup performances, and revenue sharing for TV and sponsorships under a landmark agreement announced by the US Soccer Federation yesterday. Since the World Cup prize money will now be split between men and women, the US men’s team will probably make less, because the discrepancy in FIFA payouts between the men’s and women’s tournaments is huge:If the men’s team makes it to the round of 16 in the World Cup in Qatar (and we’re confident they will), they’ll get a payout of $13 million. —NF css-1dlcpt7[data-readonly]{box-shadow:none! Looking ahead…advocates hope this agreement will fuel growth in women’s soccer around the globe. After hoisting their fourth World Cup trophy in 2015, members of the US women’s national team (USWNT) wondered why they were bringing in less $$$ than their less successful male counterparts, and they alleged wage discrimination against US Soccer in a civil rights complaint the next year. When the women won the entire tournament in 2019, they received a total of $4 million.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/18/pay-gap-gets-the-boot-in-us-soccer</link>
-  <author>Neal Freyman</author>
-  <categories>Sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/18/pay-gap-gets-the-boot-in-us-soccer</guid>
-  <pubDate>Wed, 18 May 2022 15:06:45 -0700</pubDate>
  </item>
 
 </channel>
