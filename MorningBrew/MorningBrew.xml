@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/24</link>
- <lastBuildDate>Tue, 24 May 2022 14:58:43 -0700</lastBuildDate>
- <pubDate>Tue, 24 May 2022 14:58:43 -0700</pubDate>
+ <lastBuildDate>Tue, 24 May 2022 15:13:42 -0700</lastBuildDate>
+ <pubDate>Tue, 24 May 2022 15:13:42 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Flowcarbon raises $70 million to tokenize carbon offsets</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/257d609c058163df38555f1dff6b1991cbc96b8a-1024x677.jpg?rect=4,0,1016,677&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe blockchain startup Flowcarbon landed $70 million in its first round of funding, led by Andreessen Horowitz’s crypto division. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. As it stands, carbon credits can be bought through private companies or through carbon exchanges. —JW css-1dlcpt7[data-readonly]{box-shadow:none! Flowcarbon wants to cut middlemen out of the process by turning carbon credits into tokens (its first is called GNT, for “goddess nature token”) that can be bought and sold on the blockchain. For example, General Motors buys carbon offsets to counter tailpipe emissions. Flowcarbon was co-founded by former WeWork CEO Adam Neumann, but this time he’s looking to solve a more complicated problem than infusing all office water with fruit: managing carbon offsets.</description>
+  <link>https://www.morningbrew.com/daily/stories/flowcarbon-raises-70-million-tokenize-carbon-offsets</link>
+  <author>Jamie Wilde</author>
+  <categories>Crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/flowcarbon-raises-70-million-tokenize-carbon-offsets</guid>
+  <pubDate>Tue, 24 May 2022 15:11:42 -0700</pubDate>
+ </item>
  <item>
   <title>40% of recent job switchers are looking for a new job again</title>
   <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-24/image-04a13cab11a9fc1e3d4bdd99ec4f841fbebe7c23-480x270-gif/giphy-1.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. New research into the American job market shows that many people who recently quit their job for another one are pretty quickly itching to ditch it. That being said, job switching continues to be one of the best ways to boost your stats on celebritynetworth. LinkedIn data backs that up: The company found that the share of job switchers who’d been at their previous job for less than 12 months rose by 6.5% in 2021 compared to 2020. —MK And, per the Grant Thornton survey, 40% of workers who took a new job reported a pay increase of at least 10%, more than double all other survey respondents. But 40% of that group is actively looking for another job, compared to 29% of all full-time employees—revealing some significant buyer’s remorse among job jumpers.</description>
@@ -361,15 +370,6 @@
   <categories>Real estate</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/19/the-housing-market-is-finally-chilling-out</guid>
   <pubDate>Thu, 19 May 2022 14:26:49 -0700</pubDate>
- </item>
- <item>
-  <title>School districts struggle to spend their Covid funds</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-18/image-fb3f0eeab03cb3eb86c141a8f46a61b4c0e10809-500x375-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. LA in particular is still racing to spend several hundred mil left over from previous stimulus packages. —JW So what’s the hang-up? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/school-districts-struggle-to-spend-their-covid-funds?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Jamie Wilde</author>
-  <categories>Education</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/school-districts-struggle-to-spend-their-covid-funds?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 19 May 2022 00:01:55 -0700</pubDate>
  </item>
 
 </channel>
