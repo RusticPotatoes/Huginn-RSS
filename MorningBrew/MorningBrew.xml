@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/24</link>
- <lastBuildDate>Tue, 24 May 2022 15:13:42 -0700</lastBuildDate>
- <pubDate>Tue, 24 May 2022 15:13:42 -0700</pubDate>
+ <lastBuildDate>Tue, 24 May 2022 20:03:40 -0700</lastBuildDate>
+ <pubDate>Tue, 24 May 2022 20:03:40 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>At least 21 killed in elementary school shooting in Texas</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f58d98e4b9412f322ffbdae08cf6d53d9b77305b-3530x2353.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Big picture: Guns surpassed car accidents as the No. 1 cause of death among children in 2020, jumping nearly 30% between 2019 and 2020, per a research letter in the New England Journal of Medicine. Yesterday’s shooting in Texas was the 27th school shooting this year, which means one has occurred roughly every five days in 2022. It was also just one of several mass shootings across the country in the past couple weeks. Republican Senator Ted Cruz of Texas called the shooting “truly horrific,” but rejected Dems calls for gun reform and instead proposed stepped-up security at schools. Laguna Woods, CA: A day after the Buffalo shooting, a man was killed and four others wounded at a shooting at a Taiwanese church.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/24/at-least-21-killed-in-elementary-school-shooting-in-texas</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/24/at-least-21-killed-in-elementary-school-shooting-in-texas</guid>
+  <pubDate>Tue, 24 May 2022 20:01:40 -0700</pubDate>
+ </item>
  <item>
   <title>Flowcarbon raises $70 million to tokenize carbon offsets</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/257d609c058163df38555f1dff6b1991cbc96b8a-1024x677.jpg?rect=4,0,1016,677&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe blockchain startup Flowcarbon landed $70 million in its first round of funding, led by Andreessen Horowitz’s crypto division. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. As it stands, carbon credits can be bought through private companies or through carbon exchanges. —JW css-1dlcpt7[data-readonly]{box-shadow:none! Flowcarbon wants to cut middlemen out of the process by turning carbon credits into tokens (its first is called GNT, for “goddess nature token”) that can be bought and sold on the blockchain. For example, General Motors buys carbon offsets to counter tailpipe emissions. Flowcarbon was co-founded by former WeWork CEO Adam Neumann, but this time he’s looking to solve a more complicated problem than infusing all office water with fruit: managing carbon offsets.</description>
@@ -361,15 +370,6 @@
   <categories>Retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/Walmart-amazon-reported-overstaffed-Q1</guid>
   <pubDate>Thu, 19 May 2022 14:56:49 -0700</pubDate>
- </item>
- <item>
-  <title>The housing market is finally chilling out</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2021-10-26/image-0c5d054e4c70038aefab3f3112936f88ccc86628-480x270-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. More signs are suggesting that the sizzling pace of US home price increases will start to ease. —NF css-1dlcpt7[data-readonly]{box-shadow:none! But relief is on its wayThe Atlantic’s Derek Thompson identified several clues that the housing market has indeed peaked:The home inventory shortage, a leading contributor to the demand​​–supply imbalance, is starting to ease in the hottest markets, such as California and Colorado. “It looks like more declines are imminent in the upcoming months, and we’ll likely return to the pre-pandemic home sales activity after the remarkable surge over the past two years,” Lawrence Yun, the chief economist at the National Association of Realtors, said. And an average home on the market stayed there for just 17 days before going under contract. The first sign: Sales of existing homes fell 2.4% in April to their lowest level in almost two years. The housing market might be experiencing that right now.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/19/the-housing-market-is-finally-chilling-out</link>
-  <author>Neal Freyman</author>
-  <categories>Real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/19/the-housing-market-is-finally-chilling-out</guid>
-  <pubDate>Thu, 19 May 2022 14:26:49 -0700</pubDate>
  </item>
 
 </channel>
