@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/25</link>
- <lastBuildDate>Wed, 25 May 2022 06:39:07 -0700</lastBuildDate>
- <pubDate>Wed, 25 May 2022 06:39:07 -0700</pubDate>
+ <lastBuildDate>Wed, 25 May 2022 15:13:16 -0700</lastBuildDate>
+ <pubDate>Wed, 25 May 2022 15:13:16 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Apple’s self-repair program disappoints right-to-repair advocates</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/9323a9f38e000cc0a5b96829b14e84cb0e2a203f-755x439.png?rect=48,0,659,439&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The backstory: Last month, Apple launched its Self Service Repair Store, which allows customers to buy parts for select Apple devices they can repair at home. Apple said in a white paper last month, “For the vast majority of customers, the safest and most reliable repair is achieved through an Apple Store. —JW css-1dlcpt7[data-readonly]{box-shadow:none! Bottom line: Critics say Apple doesn’t want customers to repair their phones at home, and, when this program proves to be unpopular, will use it as evidence against right-to-repair initiatives.</description>
+  <link>https://www.morningbrew.com/daily/stories/apple-s-self-repair-program-disappoints-right-to-repair-advocates</link>
+  <author>Jamie Wilde</author>
+  <categories>Tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/apple-s-self-repair-program-disappoints-right-to-repair-advocates</guid>
+  <pubDate>Wed, 25 May 2022 15:11:15 -0700</pubDate>
+ </item>
  <item>
   <title>Hey, Miso Robot—can I get fries with that?</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e353f9d9fcd860e440ec66f597542d4f533911da-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;That’s what the future of quick-service restaurants (QSR) could look like with Miso Robotics. When it’s combined, you see a robot doing the work of roughly two people during peak periods in a quiet, seamless, and very efficient way. We're not just going to wake up one day, and there’ll be 1.5 million new workers happily jumping into the restaurant industry. We really see ourselves as a solution to the labor crisis in the quick serve restaurant industry. from our sponsorFired up about Flippy and its robot siblings? When someone sees Flippy taking frozen fries all the way through to the cook station and serving cooked fries, you can kinda just drop the mic. What do you see Miso’s role in the restaurant industry? And the automation guy is saying, “I think that the technology has now evolved in such a way that it’s approachable and affordable today for a robot to take over some of the tasks.” What Flippy does is simple: It takes frozen fries all the way through the fry process and dispenses cooked fries. Yeah, so if you look at fast-food restaurants, fries go with almost every order. Miso is still open to investors as they take on the $300B US Quick Serve Restaurant Industry. I was talking to some of the workers who have had one of our Flippy units installed for the longest period of time. Our mission is to automate restaurants, and we’re starting with automating fry stations. Where did the idea for the Flippy come from?</description>
@@ -361,15 +370,6 @@
   <categories>Culture</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/20/stock-watch-may-22</guid>
   <pubDate>Fri, 20 May 2022 10:06:47 -0700</pubDate>
- </item>
- <item>
-  <title>Walmart and Amazon both reported being overstaffed in Q1</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/70f380b8b11290bd1d6bea6eb0be14323ed1d1b0-1024x659.jpg?rect=18,0,989,659&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Along with higher fuel prices and an inventory glut, elevated labor costs led to a 24.8% profit decline from last year. —MK In its earnings call this week, Walmart CEO Doug McMillon said that due to a late 2021 hiring surge to cover Omicron-related staffing shortages, the company experienced weeks of overstaffing in the first quarter of this year. css-1dlcpt7[data-readonly]{box-shadow:none! In tech, Meta announced a hiring freeze across some departments, while Uber told employees it would be “deliberate” about adding to headcount.</description>
-  <link>https://www.morningbrew.com/daily/stories/Walmart-amazon-reported-overstaffed-Q1?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/Walmart-amazon-reported-overstaffed-Q1?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Fri, 20 May 2022 00:01:51 -0700</pubDate>
  </item>
 
 </channel>
