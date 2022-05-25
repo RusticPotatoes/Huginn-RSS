@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/24/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/24/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/25/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/24</link>
- <lastBuildDate>Tue, 24 May 2022 20:03:40 -0700</lastBuildDate>
- <pubDate>Tue, 24 May 2022 20:03:40 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/25</link>
+ <lastBuildDate>Wed, 25 May 2022 02:35:14 -0700</lastBuildDate>
+ <pubDate>Wed, 25 May 2022 02:35:14 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Flowcarbon raises $70 million to tokenize carbon offsets</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/257d609c058163df38555f1dff6b1991cbc96b8a-1024x677.jpg?rect=4,0,1016,677&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe blockchain startup Flowcarbon landed $70 million in its first round of funding, led by Andreessen Horowitz’s crypto division. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Flowcarbon wants to cut middlemen out of the process by turning carbon credits into tokens (its first is called GNT, for “goddess nature token”) that can be bought and sold on the blockchain. As it stands, carbon credits can be bought through private companies or through carbon exchanges. —JW css-1dlcpt7[data-readonly]{box-shadow:none! Flowcarbon was co-founded by former WeWork CEO Adam Neumann, but this time he’s looking to solve a more complicated problem than infusing all office water with fruit: managing carbon offsets.</description>
+  <link>https://www.morningbrew.com/daily/stories/flowcarbon-raises-70-million-tokenize-carbon-offsets?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Jamie Wilde</author>
+  <categories>Crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/flowcarbon-raises-70-million-tokenize-carbon-offsets?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Wed, 25 May 2022 02:33:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>40% of recent job switchers are looking for a new job again</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-24/image-04a13cab11a9fc1e3d4bdd99ec4f841fbebe7c23-480x270-gif/giphy-1.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. That being said, job switching continues to be one of the best ways to boost your stats on celebritynetworth. New research into the American job market shows that many people who recently quit their job for another one are pretty quickly itching to quit the new job, too. LinkedIn data backs that up: The company found that the share of job switchers who’d been at their previous job for less than 12 months rose by 6.5% in 2021 compared to 2020. —MK And, per the Grant Thornton survey, 40% of workers who took a new job reported a pay increase of at least 10%, more than double all other survey respondents. But 40% of that group is actively looking for another job, compared to 29% of all full-time employees—revealing some significant buyer’s remorse among job jumpers.</description>
+  <link>https://www.morningbrew.com/daily/stories/40-percent-recent-job-switches-looking-new-jobs?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories>Labor</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/40-percent-recent-job-switches-looking-new-jobs?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Wed, 25 May 2022 02:33:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>At least 21 killed in elementary school shooting in Texas</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f58d98e4b9412f322ffbdae08cf6d53d9b77305b-3530x2353.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Big picture: Guns surpassed car accidents as the No. 1 cause of death among children in 2020, jumping nearly 30% between 2019 and 2020, per a research letter in the New England Journal of Medicine. Yesterday’s shooting in Texas was the 27th school shooting this year, which means one has occurred roughly every five days in 2022. It was also just one of several mass shootings across the country in the past couple weeks. Republican Senator Ted Cruz of Texas called the shooting “truly horrific,” but rejected Dems’ calls for gun reform and instead proposed stepped-up security at schools. Laguna Woods, CA: A day after the Buffalo shooting, a man was killed and four others wounded at a shooting at a Taiwanese church.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/24/at-least-21-killed-in-elementary-school-shooting-in-texas?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/24/at-least-21-killed-in-elementary-school-shooting-in-texas?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Wed, 25 May 2022 02:33:11 -0700</pubDate>
+ </item>
  <item>
   <title>At least 21 killed in elementary school shooting in Texas</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f58d98e4b9412f322ffbdae08cf6d53d9b77305b-3530x2353.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Big picture: Guns surpassed car accidents as the No. 1 cause of death among children in 2020, jumping nearly 30% between 2019 and 2020, per a research letter in the New England Journal of Medicine. Yesterday’s shooting in Texas was the 27th school shooting this year, which means one has occurred roughly every five days in 2022. It was also just one of several mass shootings across the country in the past couple weeks. Republican Senator Ted Cruz of Texas called the shooting “truly horrific,” but rejected Dems calls for gun reform and instead proposed stepped-up security at schools. Laguna Woods, CA: A day after the Buffalo shooting, a man was killed and four others wounded at a shooting at a Taiwanese church.</description>
@@ -343,33 +370,6 @@
   <categories>Health</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/massachusetts-first-united-states-monkeypox-case-this-year?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Fri, 20 May 2022 00:01:50 -0700</pubDate>
- </item>
- <item>
-  <title>The housing market is finally chilling out</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2021-10-26/image-0c5d054e4c70038aefab3f3112936f88ccc86628-480x270-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. More signs are suggesting that the sizzling pace of US home price increases will start to ease. —NF css-1dlcpt7[data-readonly]{box-shadow:none! But relief is on its wayThe Atlantic’s Derek Thompson identified several clues that the housing market has indeed peaked:The home inventory shortage, a leading contributor to the demand​​–supply imbalance, is starting to ease in the hottest markets, such as California and Colorado. “It looks like more declines are imminent in the upcoming months, and we’ll likely return to the pre-pandemic home sales activity after the remarkable surge over the past two years,” Lawrence Yun, the chief economist at the National Association of Realtors, said. And an average home on the market stayed there for just 17 days before going under contract. The first sign: Sales of existing homes fell 2.4% in April to their lowest level in almost two years. The housing market might be experiencing that right now.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/19/the-housing-market-is-finally-chilling-out?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories>Real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/19/the-housing-market-is-finally-chilling-out?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Fri, 20 May 2022 00:01:50 -0700</pubDate>
- </item>
- <item>
-  <title>Massachusetts confirms first US case of monkeypox this year</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/17ea3fb16620f97238b77ee95133f6028e646721-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. And in terms of symptoms, it’s a whole gaggle of things you don’t want: fever, aches, swollen lymph nodes, and (the crème de la crème) painful blisters on the hands, feet, and face. —MM Should we be worried? What is monkeypox? css-1dlcpt7[data-readonly]{box-shadow:none! It’s a virus that can spread through respiratory droplets and bodily fluids. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeMassachusetts health officials said Wednesday that they detected the first US case of monkeypox this year. At least 67 other suspected cases of the rare virus have also recently popped up in countries like the UK, Portugal, and Canada, baffling experts who have yet to uncover how the virus managed to make giant continental jumps. Monkeypox is pretty easy to spot and track because of the sores, and it’s similar enough to smallpox that the vaccines for that disease would likely offer protection. Most people catch monkeypox directly from animals (but not monkeys, usually rodents) in West Africa or central Africa, and it’s pretty rare to contract it from another person.</description>
-  <link>https://www.morningbrew.com/daily/stories/massachusetts-first-united-states-monkeypox-case-this-year</link>
-  <author>Matty Merritt</author>
-  <categories>Health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/massachusetts-first-united-states-monkeypox-case-this-year</guid>
-  <pubDate>Thu, 19 May 2022 15:11:50 -0700</pubDate>
- </item>
- <item>
-  <title>Walmart and Amazon both reported being overstaffed in Q1</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/70f380b8b11290bd1d6bea6eb0be14323ed1d1b0-1024x659.jpg?rect=18,0,989,659&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Amazon also reported earlier this month that employees returning from sick leave led to a quick transition from being understaffed to overstaffed. Along with higher fuel prices and an inventory glut, elevated labor costs led to a 24.8% profit decline from last year. —MK In its earnings call this week, Walmart CEO Doug McMillon said that due to a late 2021 hiring surge to cover Omicron-related staffing shortages, the company experienced weeks of overstaffing in the first quarter of this year. css-1dlcpt7[data-readonly]{box-shadow:none! In tech, Meta announced a hiring freeze across some departments, while Uber told employees it would be “deliberate” about adding headcount.</description>
-  <link>https://www.morningbrew.com/daily/stories/Walmart-amazon-reported-overstaffed-Q1</link>
-  <author>Max Knoblauch</author>
-  <categories>Retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/Walmart-amazon-reported-overstaffed-Q1</guid>
-  <pubDate>Thu, 19 May 2022 14:56:49 -0700</pubDate>
  </item>
 
 </channel>
