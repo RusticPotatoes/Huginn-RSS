@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/25/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/26/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/26/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/25</link>
- <lastBuildDate>Wed, 25 May 2022 15:29:07 -0700</lastBuildDate>
- <pubDate>Wed, 25 May 2022 15:29:07 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/26</link>
+ <lastBuildDate>Thu, 26 May 2022 00:04:08 -0700</lastBuildDate>
+ <pubDate>Thu, 26 May 2022 00:04:08 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Apple’s self-repair program disappoints right-to-repair advocates</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/9323a9f38e000cc0a5b96829b14e84cb0e2a203f-755x439.png?rect=48,0,659,439&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The backstory: Last month, Apple launched its Self Service Repair Store, which allows customers to buy parts for select Apple devices they can repair at home. Apple said in a white paper last month, “For the vast majority of customers, the safest and most reliable repair is achieved through an Apple Store. —JW css-1dlcpt7[data-readonly]{box-shadow:none! Bottom line: Critics say Apple doesn’t want customers to repair their phones at home, and, when this program proves to be unpopular, will use it as evidence against right-to-repair initiatives.</description>
+  <link>https://www.morningbrew.com/daily/stories/apple-s-self-repair-program-disappoints-right-to-repair-advocates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Jamie Wilde</author>
+  <categories>Tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/apple-s-self-repair-program-disappoints-right-to-repair-advocates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Thu, 26 May 2022 00:01:17 -0700</pubDate>
+ </item>
+ <item>
+  <title>Chelsea FC is latest English soccer club to be gobbled up by American investors</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/8e7315d4a0b823cc4def411879fce52da56c3ff8-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIt’s one of our favorite conversation starters: If you’re a rich American investor looking to buy a sports franchise, which league would you choose? Chelsea joins a growing list of Premier League clubs backed by American money. For real moguls and not just wannabes like us, that answer is increasingly the English Premier League.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/25/chelsea-fc-is-latest-english-soccer-club?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Sports</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/25/chelsea-fc-is-latest-english-soccer-club?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Thu, 26 May 2022 00:01:16 -0700</pubDate>
+ </item>
+ <item>
+  <title>After the Texas elementary school shooting, what comes next?</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/cab415468bcf8c27921cbcb69c18199f99c15a83-4000x2668.jpg?rect=0,0,4000,2667&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. The gunman in Tuesday’s massacre legally purchased two AR platform rifles in the days following his 18th birthday last week. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. One potential road to compromise: “Red flag” legislation, or laws that would allow authorities to temporarily take guns away from individuals who are deemed a threat to themselves or others. Texas has among the least restrictive gun laws in the US, and lawmakers have actually relaxed them in the state over the past few years, according to the Texas Tribune. And at the federal level, gun reform is effectively frozenSenate Majority Leader Chuck Schumer added votes on two background check bills to the chamber’s calendar, both of which would expand checks for sales at gun shows and online. Democratic lawmakers renewed their calls for gun legislation, but were once again confronted with the fact that the numbers for enacting policy are stacked against them due to Republican opposition. Even with a slight majority in the House, Democrats are evenly split in the Senate and would need 10 Republicans to vote alongside them there. —MM They don’t think access to guns contributes to mass shootings. Other links to stay up to date about the shootingMeta said the gunman discussed his planned attack in private messages on Facebook about 30 minutes before the shooting. “The time to stop the next shooting is now, and you are doing nothing,” O’Rourke said. Alabama Sen. Tommy Tuberville said yesterday that “Guns are not the problem. For instance, In 2013, the bipartisan duo of Democratic Sen. Joe Manchin and Republican Sen. Pat Toomey introduced a compromise bill that would require background checks for commercial sales of guns.</description>
+  <link>https://www.morningbrew.com/daily/stories/after-texas-elementary-school-shooting-what-comes-next?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>Education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/after-texas-elementary-school-shooting-what-comes-next?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Thu, 26 May 2022 00:01:16 -0700</pubDate>
+ </item>
  <item>
   <title>After the Texas elementary school shooting, what comes next?</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/cab415468bcf8c27921cbcb69c18199f99c15a83-4000x2668.jpg?rect=0,0,4000,2667&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. The gunman in Tuesday’s massacre legally purchased two AR platform rifles in the days following his 18th birthday last week. Historically, mass shootings haven’t led to much action from American lawmakers. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. One potential road to compromise: “Red flag” legislation, or laws that would allow authorities to temporarily take guns away from individuals who are deemed a threat to themselves or others. But gun laws have been loosened in the state in the past few years, reports the Texas Tribune. That includes a permitless carry bill passed, the Second Amendment Sanctuary Act (which means local agencies can’t enforce new federal gun laws), and a law that allows individuals as young as 18 to buy a handgun all passed last year. —MM Democrats could also try to change filibuster rules and allow a simple majority to pass gun reform, but Democratic Senators Joe Manchin and Kyrsten Sinema have vocally opposed messing with the rules. And currently, even with a slight majority in the House, Democrats are evenly split in the Senate and would need 10 Republicans to vote alongside them there. And don’t expect immediate action at the federal levelSenate Majority Leader Chuck Schumer added votes on two background check bills to the chamber’s calendar, both of which would expand checks for sales at gun shows and online. “The time to stop the next shooting is now, and you are doing nothing,” O’Rourke said. Other links to stay up to date about the shootingMeta said the gunman discussed his planned attack in private messages on Facebook about 30 minutes before the shooting.</description>
@@ -343,33 +370,6 @@
   <categories>Food &amp; Bev</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/coca-cola-capless-bottles-UK</guid>
   <pubDate>Fri, 20 May 2022 15:21:50 -0700</pubDate>
- </item>
- <item>
-  <title>Stock market is experiencing historic rout</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/501050831b12e8e98921d48018d2f467774bffb5-966x643.png?rect=1,0,965,643&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Every recession since 1968 has prompted a bear market like the one we’re currently in, per CFRA Research. In fact, a big stock market sell-off is exactly what the Fed wants to see in order to slow economic activity, and in turn, bring inflation back to normal. The Dow posted its eighth straight weekly loss, which is its longest weekly losing streak since 1923. And this week, any optimism was dashed when ol’ reliables Target and Walmart posted lousy results, sending their stocks tumbling the most since the market crash of 1987.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/20/stock-market-is-experiencing-historic-rout</link>
-  <author>Neal Freyman</author>
-  <categories>Markets</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/20/stock-market-is-experiencing-historic-rout</guid>
-  <pubDate>Fri, 20 May 2022 15:01:47 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers with…Peloton star Tunde Oyeneyin</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/887fb81152d9ed856140f4cbe489d49b21626070-5442x3761.jpg?rect=0,66,5442,3628&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. When you get there, you won’t be able to enjoy it. The Houston native has become one of Peloton’s biggest celebs. You’ve said one of your goals as a Nike global ambassador is to make fitness more accessible to women and those who might be more uncomfortable in a gym. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. You’re no longer limiting yourself on the scale of what you think you should be doing next. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeWhat would you say to someone pursuing what they think is their dream career?</description>
-  <link>https://www.morningbrew.com/daily/stories/icebreakers-with-peloton-star-tunde-oyeneyin</link>
-  <author>Matty Merritt</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/icebreakers-with-peloton-star-tunde-oyeneyin</guid>
-  <pubDate>Fri, 20 May 2022 14:31:51 -0700</pubDate>
- </item>
- <item>
-  <title>Saturday sketch: Some time for Q&amp;A</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0aaf3b34e5aa3425cfb02ae0edad028b91d70447-1500x1500.png?rect=0,250,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/20/saturday-sketch-some-time-for-q-and-a</link>
-  <author>Max Knoblauch</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/20/saturday-sketch-some-time-for-q-and-a</guid>
-  <pubDate>Fri, 20 May 2022 14:16:50 -0700</pubDate>
  </item>
 
 </channel>
