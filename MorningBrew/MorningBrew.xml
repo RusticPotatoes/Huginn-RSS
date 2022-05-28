@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/27/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/27/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/05/28/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/05/28/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/27</link>
- <lastBuildDate>Fri, 27 May 2022 11:23:14 -0700</lastBuildDate>
- <pubDate>Fri, 27 May 2022 11:23:14 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/05/28</link>
+ <lastBuildDate>Sat, 28 May 2022 08:04:16 -0700</lastBuildDate>
+ <pubDate>Sat, 28 May 2022 08:04:16 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Here’s what the ‘Planes, Trains and Automobiles’ trip would cost today</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a61090f8155cb1c4818e6ea82f35ed995240bc6e-1024x664.jpg?rect=14,0,996,664&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Here’s our pricing breakdown, in case you’re thinking of reliving the worst weekend of all time:A 6:00pm first-class flight from LGA to O’Hare before a holiday weekend: ~$400Midtown Manhattan car (let’s say Uber) to LGA: ~$85 (x2 since Del steals the first)Uber to a hotel after being diverted to Wichita: ~$25Last-minute hotel in Wichita: ~$100 a nightAmtrak from Kansas City (closest available location) to Chicago: ~$200 (x2)Bus from Jefferson City to St. Louis (once the train breaks down): ~$30 (x2)Rental car in St. Louis: likely unavailable, but ~$210 (x2 since movie Neal’s car is missing)Illinois hotel: ~$150Chicago L train: $2.50 (x2)Not included: gas, a speeding ticket, a robbery, or the cost of their destroyed rental car. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. —MK</description>
+  <link>https://www.morningbrew.com/daily/stories/travel-movies-trip-cost-planes-trains-automobiles?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories>Travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/travel-movies-trip-cost-planes-trains-automobiles?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 28 May 2022 08:02:15 -0700</pubDate>
+ </item>
+ <item>
+  <title>Camping is holding on to its pandemic popularity in 2022</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-27/image-737222a627307e1ee7d02fc3a980865ae823efdc-500x296-gif/giphy-1.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. 33% more people are shopping on Amazon for camping tents this year compared to 2019, and demand for other outdoor gear (lanterns, backpacks, camp stoves) has also risen by double digits, per data analytics company Pattern. —JW Zoom out: Getaway’s Chief Experience Officer Carlos Becil told the Brew via a spokesperson, “Between inflation, the stock market, and recession fears, people have a strong desire to find ways to disconnect from the stress and spend time in nature to help them reconnect with themselves, and their loved ones.” css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/camping-is-holding-on-to-its-pandemic-popularity-in-2022?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Jamie Wilde</author>
+  <categories>Travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/camping-is-holding-on-to-its-pandemic-popularity-in-2022?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 28 May 2022 08:02:14 -0700</pubDate>
+ </item>
+ <item>
+  <title>Brew readers share their travel hot takes</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/1eb29114460253a08d5fcb7b0f1f40f54d722ce2-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. ? css-1dlcpt7[data-readonly]{box-shadow:none! Curated playlist: 54%Podcast: 20%Audiobook: 12%No aux needed—road trips are for the local radio stations: 10%Nothing, I prefer silence: 4%Do you use cruise control on the highway?</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/27/brew-readers-share-their-travel-hot-takes?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/27/brew-readers-share-their-travel-hot-takes?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 28 May 2022 08:02:14 -0700</pubDate>
+ </item>
+ <item>
+  <title>Hospitality industry evolves to accommodate a surge in pet travel</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2021-10-26/image-137f015d55ad89423ff6ec2fe524581c764aabe4-480x249-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. But this is pet owners we’re talking about here—so a bustling luxury pet travel market has also sprung up. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeWhen we first announced we were publishing a travel newsletter, requests flooded in around one topic specifically: traveling with pets. While road tripping with your pet has likely never been easier, flying with one has gotten a lot more complicated and restrictive during Covid. The surge in pet-related travel amenities appears to be yet another one of those simmering trends that the pandemic sent boiling. Lists of the best pet carriers for travel (CNN, HuffPost)Two websites that help you find pet-friendly accommodation. Big picture: The best pet-friendly vacation might be one that’s not too far away. Pet-friendly travel is one of the hottest trends in the industry. Nearly one in five households (~23 million Americans) acquired a cat or dog since the beginning of the Covid outbreak, the ASPCA reported last year. A Santa Barbara hotel, El Encanto, offers a gourmet dog menu with seasonal fish for $15/plate, followed by an herbal tea blend at $5/bowl.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/27/hospitality-industry-evolves-to-accommodate-a-surge-in-pet-travel?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/27/hospitality-industry-evolves-to-accommodate-a-surge-in-pet-travel?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 28 May 2022 08:02:13 -0700</pubDate>
+ </item>
  <item>
   <title>The best weekend getaways in the US, as recommended by Morning Brew readers</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/6ac1ce03502199bf59b9af84638fa85290df12da-6144x4096.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Newport, RI for the mansions, of course. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. ) Inniswood Metro Gardens just 20 minutes north of downtown Columbus. Mackinac Island in Lake HuronHolland, MI, for breweries and lake views. Lake Winnipesaukee, the largest lake in New Hampshire. Onfokus/Getty ImagesBig Bear Lake in San Bernardino National Forest. Point Reyes National SeashoreCalistoga, a tiny town in Napa Valley with the Old Faithful Geyser of California. Ojai, a small city in a valley in the Topatopa Mountains. Just southwest of LA, the resort town on Catalina Island. Montauk on the east end of Long Island. Reno, NV, known as “The Biggest Little City in the World.” Michel Arnaud/Getty ImagesFredericksburg, TX, is known for its wineries and is located about two hours west of AustinDinosaur Valley State Park, an hour southwest of Fort Worth. Asbury Park, a bustling seaside town on the Jersey Shore. Gaul/Getty ImagesHighlands, NC, a town in the Nantahala National Forest at an elevation of 4,118 feet. The weird West Texas town of Marfa.</description>
@@ -334,42 +370,6 @@
   <categories>Economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/us-dollar-reach-parity-with-the-euro-this-year</guid>
   <pubDate>Sun, 22 May 2022 16:06:49 -0700</pubDate>
- </item>
- <item>
-  <title>The week ahead: May 23</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3dfa29f0284bb6571d865a4b75f2306da81bf2f1-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Another batch of retail earnings: After Walmart’s and Target’s miserable earnings sent markets into a tailspin last week, what does the calendar throw us but another slew of retail reports this week. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/22/the-week-ahead-may</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/22/the-week-ahead-may</guid>
-  <pubDate>Sun, 22 May 2022 16:06:48 -0700</pubDate>
- </item>
- <item>
-  <title>The first shipment of baby formula to the US arrives</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4a47bcd4104251a3a48545e6945e83977995ddf9-1024x682.jpg?rect=1,0,1023,682&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It’s exposed a heavily concentrated industryAbbott and just one other company, Reckitt Benckiser, account for about 80% of the US market. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeAn international flight landed in Indianapolis yesterday, and to our relief no one clapped after it touched down.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/22/the-first-shipment-of-baby-formula-to-the-us-arrives</link>
-  <author>Neal Freyman</author>
-  <categories>Logistics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/22/the-first-shipment-of-baby-formula-to-the-us-arrives</guid>
-  <pubDate>Sun, 22 May 2022 15:51:48 -0700</pubDate>
- </item>
- <item>
-  <title>US dollar could reach parity with the euro this year</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-22/image-645d77a26ecb978ba1d70df0d874401b17b1b5ef-480x270-gif/\.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThanks to a surging US dollar and a faltering euro, many analysts expect that the two currencies could reach parity this year—meaning one dollar would fetch you one euro. Bottom line: This isn’t just a dollar &gt; euro story; it’s a dollar &gt; everyone story. A weaker euro means a less expensive trip to Europe for Americans. At the same time, they’re fleeing the euro because Europe is more vulnerable to a severe economic downturn than the US. Of course, the consequences of a stronger dollar go beyond cheaper European delights. Why is this happening? In fact, even with soaring inflation, many activities in Europe are cheaper now than they were in 2019, Bloomberg points out:Visiting the Acropolis in Athens costs $21 now, compared to $22.60 in 2019. The euro closed Friday at about $1.057 against the dollar, just  5% above equal value with the US currency.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/22/us-dollar-could-reach-parity-with-the-euro-this-year</link>
-  <author>Neal Freyman</author>
-  <categories>Economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/22/us-dollar-could-reach-parity-with-the-euro-this-year</guid>
-  <pubDate>Sun, 22 May 2022 15:51:47 -0700</pubDate>
- </item>
- <item>
-  <title>The week ahead: May 23</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3dfa29f0284bb6571d865a4b75f2306da81bf2f1-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Another batch of retail earnings: After Walmart’s and Target’s miserable earnings sent markets into a tailspin last week, what does the calendar throw us but another slew of retail reports this week. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/22/the-week-ahead-may-23</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/22/the-week-ahead-may-23</guid>
-  <pubDate>Sun, 22 May 2022 15:51:46 -0700</pubDate>
  </item>
 
 </channel>
