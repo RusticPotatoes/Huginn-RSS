@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/05/31</link>
- <lastBuildDate>Tue, 31 May 2022 15:04:07 -0700</lastBuildDate>
- <pubDate>Tue, 31 May 2022 15:04:07 -0700</pubDate>
+ <lastBuildDate>Tue, 31 May 2022 15:19:08 -0700</lastBuildDate>
+ <pubDate>Tue, 31 May 2022 15:19:08 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Biden tells Powell inflation is his problem to fix</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4494a0677404bedb1b5b90b4df8bc5215a623b4c-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The Federal Reserve is intended to shape monetary policy independent of the US federal government, and that’s for one primary reason: Short-term political considerations shouldn’t influence the Fed chair’s decisions on what’s best for the economy in the long term. Most recent presidents have let the Fed do its thing without exerting pressure, but one exception is former President Trump.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/31/biden-tells-powell-inflation-is-his-problem-to-fix</link>
+  <author>Neal Freyman</author>
+  <categories>Economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/31/biden-tells-powell-inflation-is-his-problem-to-fix</guid>
+  <pubDate>Tue, 31 May 2022 15:16:17 -0700</pubDate>
+ </item>
  <item>
   <title>The UK’s new visa program targets elite grads</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/53f0b4fb8ac896854649709ad568e4731f818fd1-1200x675.jpg?rect=94,0,1013,675&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. If you’ve graduated from one of the world’s 50 best universities within the last five years, you’re eligible for a two- or three-year visa—no job offer required. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeVery Important People, step aside: The UK just dropped a new immigration program for what it’s calling High Potential Individuals. —JW</description>
@@ -360,15 +369,6 @@
   <author>Max Knoblauch</author>
   <categories>Labor</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/40-percent-recent-job-switches-looking-new-jobs?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Wed, 25 May 2022 02:33:11 -0700</pubDate>
- </item>
- <item>
-  <title>At least 21 killed in elementary school shooting in Texas</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f58d98e4b9412f322ffbdae08cf6d53d9b77305b-3530x2353.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Big picture: Guns surpassed car accidents as the No. 1 cause of death among children in 2020, jumping nearly 30% between 2019 and 2020, per a research letter in the New England Journal of Medicine. Yesterday’s shooting in Texas was the 27th school shooting this year, which means one has occurred roughly every five days in 2022. It was also just one of several mass shootings across the country in the past couple weeks. Republican Senator Ted Cruz of Texas called the shooting “truly horrific,” but rejected Dems’ calls for gun reform and instead proposed stepped-up security at schools. Laguna Woods, CA: A day after the Buffalo shooting, a man was killed and four others wounded at a shooting at a Taiwanese church.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/24/at-least-21-killed-in-elementary-school-shooting-in-texas?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/24/at-least-21-killed-in-elementary-school-shooting-in-texas?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Wed, 25 May 2022 02:33:11 -0700</pubDate>
  </item>
 
