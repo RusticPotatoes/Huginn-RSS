@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/05/31/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/05/31/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/06/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/06/01/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/05/31</link>
- <lastBuildDate>Tue, 31 May 2022 15:19:08 -0700</lastBuildDate>
- <pubDate>Tue, 31 May 2022 15:19:08 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/06/01</link>
+ <lastBuildDate>Wed, 01 Jun 2022 02:11:39 -0700</lastBuildDate>
+ <pubDate>Wed, 01 Jun 2022 02:11:39 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Median worker pay at big companies is up</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-31/image-4fc4cdf060d47b4b1e6dc9e78f8f77dea6a1b01d-480x270-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Hiring sprees led to big shifts. ) Other interesting findings:12 out of the top 25 best compensated median employees worked at tech companies. At the majority of S&amp;P 500 companies, median worker pay is higher than 2019 levels—including 150 companies that reported an increase of 10% or more. —MK css-1dlcpt7[data-readonly]{box-shadow:none! In 2019, 56 companies reported the median worker’s compensation to be less than $30,000, compared to 41 in 2021. Delta hired 13% of its total workforce in 2021 (11,000 people), so its median worker received 41% less compared to 2019. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeJust like they’re required to disclose top executive pay, US publicly traded companies are required to disclose the compensation of the median worker from their global staffs. (Netflix’s median employee makes around $200k. More than 140 companies reported that their median employee makes six figures, proving your parents’ advice to “write Netflix an email and ask them to let you make a movie” is pretty shrewd after all. That’s likely due to higher costs from inflation eating up wage increases, and the fact that CEO pay increased as well (up 31% from 2020, to $20 million). Retail pay has improved.</description>
+  <link>https://www.morningbrew.com/daily/stories/median-worker-pay-big-companies-is-up?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories>Labor</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/median-worker-pay-big-companies-is-up?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Wed, 01 Jun 2022 02:09:37 -0700</pubDate>
+ </item>
+ <item>
+  <title>The UK’s new visa program targets elite grads</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/53f0b4fb8ac896854649709ad568e4731f818fd1-1200x675.jpg?rect=94,0,1013,675&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. If you’ve graduated from one of the world’s 50 best universities within the last five years, you’re eligible for a two- or three-year visa—no job offer required. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeVery Important People, step aside: The UK just dropped a new immigration program for what it’s calling “High Potential Individuals.” —JW</description>
+  <link>https://www.morningbrew.com/daily/stories/UK-new-program-high-potential-individual-visa?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Jamie Wilde</author>
+  <categories>Education</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/UK-new-program-high-potential-individual-visa?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Wed, 01 Jun 2022 02:09:37 -0700</pubDate>
+ </item>
+ <item>
+  <title>Biden to Powell: Inflation is your problem, buddy</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4494a0677404bedb1b5b90b4df8bc5215a623b4c-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The Federal Reserve is intended to shape monetary policy independent of the US federal government, and that’s for one primary reason: Short-term political considerations shouldn’t influence the Fed chair’s decisions on what’s best for the economy in the long term. Most recent presidents have let the Fed do its thing without exerting pressure, but one exception is former President Trump.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/05/31/biden-tells-powell-inflation-is-his-problem-to-fix?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/31/biden-tells-powell-inflation-is-his-problem-to-fix?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Wed, 01 Jun 2022 02:09:36 -0700</pubDate>
+ </item>
  <item>
   <title>Biden tells Powell inflation is his problem to fix</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4494a0677404bedb1b5b90b4df8bc5215a623b4c-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The Federal Reserve is intended to shape monetary policy independent of the US federal government, and that’s for one primary reason: Short-term political considerations shouldn’t influence the Fed chair’s decisions on what’s best for the economy in the long term. Most recent presidents have let the Fed do its thing without exerting pressure, but one exception is former President Trump.</description>
@@ -343,33 +370,6 @@
   <categories>Tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/apple-s-self-repair-program-disappoints-right-to-repair-advocates</guid>
   <pubDate>Wed, 25 May 2022 15:11:15 -0700</pubDate>
- </item>
- <item>
-  <title>Hey, Miso Robot—can I get fries with that?</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e353f9d9fcd860e440ec66f597542d4f533911da-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;That’s what the future of quick-service restaurants (QSR) could look like with Miso Robotics. When it’s combined, you see a robot doing the work of roughly two people during peak periods in a quiet, seamless, and very efficient way. We're not just going to wake up one day, and there’ll be 1.5 million new workers happily jumping into the restaurant industry. We really see ourselves as a solution to the labor crisis in the quick serve restaurant industry. from our sponsorFired up about Flippy and its robot siblings? When someone sees Flippy taking frozen fries all the way through to the cook station and serving cooked fries, you can kinda just drop the mic. What do you see Miso’s role in the restaurant industry? And the automation guy is saying, “I think that the technology has now evolved in such a way that it’s approachable and affordable today for a robot to take over some of the tasks.” What Flippy does is simple: It takes frozen fries all the way through the fry process and dispenses cooked fries. Yeah, so if you look at fast-food restaurants, fries go with almost every order. Miso is still open to investors as they take on the $300B US Quick Serve Restaurant Industry. I was talking to some of the workers who have had one of our Flippy units installed for the longest period of time. Our mission is to automate restaurants, and we’re starting with automating fry stations. Where did the idea for the Flippy come from?</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/25/hey-miso-robot-can-i-get-fries-with-that</link>
-  <author>Morning Brew</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/25/hey-miso-robot-can-i-get-fries-with-that</guid>
-  <pubDate>Wed, 25 May 2022 06:36:16 -0700</pubDate>
- </item>
- <item>
-  <title>Flowcarbon raises $70 million to tokenize carbon offsets</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/257d609c058163df38555f1dff6b1991cbc96b8a-1024x677.jpg?rect=4,0,1016,677&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe blockchain startup Flowcarbon landed $70 million in its first round of funding, led by Andreessen Horowitz’s crypto division. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Flowcarbon wants to cut middlemen out of the process by turning carbon credits into tokens (its first is called GNT, for “goddess nature token”) that can be bought and sold on the blockchain. As it stands, carbon credits can be bought through private companies or through carbon exchanges. —JW css-1dlcpt7[data-readonly]{box-shadow:none! Flowcarbon was co-founded by former WeWork CEO Adam Neumann, but this time he’s looking to solve a more complicated problem than infusing all office water with fruit: managing carbon offsets.</description>
-  <link>https://www.morningbrew.com/daily/stories/flowcarbon-raises-70-million-tokenize-carbon-offsets?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Jamie Wilde</author>
-  <categories>Crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/flowcarbon-raises-70-million-tokenize-carbon-offsets?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Wed, 25 May 2022 02:33:11 -0700</pubDate>
- </item>
- <item>
-  <title>40% of recent job switchers are looking for a new job again</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-24/image-04a13cab11a9fc1e3d4bdd99ec4f841fbebe7c23-480x270-gif/giphy-1.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. That being said, job switching continues to be one of the best ways to boost your stats on celebritynetworth. New research into the American job market shows that many people who recently quit their job for another one are pretty quickly itching to quit the new job, too. LinkedIn data backs that up: The company found that the share of job switchers who’d been at their previous job for less than 12 months rose by 6.5% in 2021 compared to 2020. —MK And, per the Grant Thornton survey, 40% of workers who took a new job reported a pay increase of at least 10%, more than double all other survey respondents. But 40% of that group is actively looking for another job, compared to 29% of all full-time employees—revealing some significant buyer’s remorse among job jumpers.</description>
-  <link>https://www.morningbrew.com/daily/stories/40-percent-recent-job-switches-looking-new-jobs?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Labor</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/40-percent-recent-job-switches-looking-new-jobs?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Wed, 25 May 2022 02:33:11 -0700</pubDate>
  </item>
 
 </channel>
