@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/06/03</link>
- <lastBuildDate>Fri, 03 Jun 2022 14:18:35 -0700</lastBuildDate>
- <pubDate>Fri, 03 Jun 2022 14:18:35 -0700</pubDate>
+ <lastBuildDate>Fri, 03 Jun 2022 14:33:38 -0700</lastBuildDate>
+ <pubDate>Fri, 03 Jun 2022 14:33:38 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>NASA taps two companies to develop lunar spacesuits</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7367cd242e8ecfd101249b416649fbd124c88912-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. NASA will test the companies’ suits in 2025, and then decide whether to fund one or both designs. One major reason for the holdup is that the necessary spacesuits won’t be ready on time. It’s been a leading aerospace supplier for decades and has supplied spacesuits to NASA before. Hoping to finally fix its spacesuit production snags, NASA announced this week that it awarded contracts to two teams led by private companies, Axiom Space and Collins Aerospace, to make its suits. NASA’s outsourcing is a tacit admission that its own work developing lunar suits in-house for 15 years has been too costly and time-consuming: As of August 2021, NASA’s spacesuit production schedule has suffered more than 20 months of delays. Construction of the rocket and the lunar lander have been set back by Covid-19 supply and labor challenges, as well as a legal scuffle between NASA and Jeff Bezos’s Blue Origin after NASA chose Elon Musk’s SpaceX to build the lander. In the end, the whole endeavor was such a slog that NASA finally decided to bring in Axiom Space and Collins Aerospace to help outfit its astronauts. Meanwhile, newcomer Axiom Space was founded in 2016 with the goal of building the first private space station. So, constructing a spacesuit is a Sisyphean task to start with, and NASA faced major hurdles trying to produce them in-house:1. Last year, NASA only received 77% of the funding it requested for part of the lunar program, resulting in a $69 million budget shortfall for suit development and a delay of at least three months. Looking ahead…even if NASA astronauts get the right gear to go to the moon in time, the lunar mission has to overcome several other major obstacles. *sigh*—JW What’s the holdup, exactly?</description>
+  <link>https://www.morningbrew.com/daily/stories/nasa-taps-two-companies-to-develop-lunar-spacesuits</link>
+  <author>Jamie Wilde</author>
+  <categories>Space</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/nasa-taps-two-companies-to-develop-lunar-spacesuits</guid>
+  <pubDate>Fri, 03 Jun 2022 14:31:37 -0700</pubDate>
+ </item>
  <item>
   <title>Saturday sketch: Get back in here</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a66ed56fe7ad8d49a36fff0d3723eb5fd2703269-1080x1080.jpg?rect=0,180,1080,720&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -361,15 +370,6 @@
   <categories>Travel</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/26/the-best-weekend-getaways-in-the-us-as-recommended-by-morning-brew-readers</guid>
   <pubDate>Fri, 27 May 2022 11:21:23 -0700</pubDate>
- </item>
- <item>
-  <title>Hospitality industry evolves to accommodate a surge in pet travel</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2021-10-26/image-137f015d55ad89423ff6ec2fe524581c764aabe4-480x249-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. But this is pet owners we’re talking about here—so a bustling luxury pet travel market has also sprung up. While road tripping with your pet has likely never been easier, flying with one has gotten a lot more complicated and restrictive during Covid. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeWhen we first announced we were publishing a travel newsletter, requests flooded in around one topic specifically: traveling with pets. Big picture: The best pet-friendly vacation might be one that’s not too far away. Pet-friendly travel is one of the hottest trends in the industry. Lists of the best pet carriers for travel (CNN, HuffPost)Two websites that help you find pet-friendly accommodation. Nearly one in five households (~23 million Americans) acquired a cat or dog since the beginning of the Covid outbreak, the ASPCA reported last year. The surge in pet-related travel amenities appears to be yet another one of those simmering trends that the pandemic sent boiling. Metropolitan at the 9 in Cleveland has an indoor dog park. And finally, here are some resources to help you plan the perfect pet vacation. You can get a facial and nail care done alongside your dog at the Lygon Arms in England’s Cotswolds for about $218. This presents a new group of customers to be won, and many hotels are racing to offer the friendliest pet accommodations around.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/27/hospitality-industry-evolves-to-accommodate-a-surge-in-pet-travel</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/27/hospitality-industry-evolves-to-accommodate-a-surge-in-pet-travel</guid>
-  <pubDate>Fri, 27 May 2022 10:52:10 -0700</pubDate>
  </item>
 
 </channel>
