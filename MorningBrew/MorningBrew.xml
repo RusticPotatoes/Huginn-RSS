@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/06/03</link>
- <lastBuildDate>Fri, 03 Jun 2022 13:03:42 -0700</lastBuildDate>
- <pubDate>Fri, 03 Jun 2022 13:03:42 -0700</pubDate>
+ <lastBuildDate>Fri, 03 Jun 2022 13:33:41 -0700</lastBuildDate>
+ <pubDate>Fri, 03 Jun 2022 13:33:41 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Make it work: This is goodbye (for now)</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7b6de1bb891bb0dd9e289abb0a591582a5da30e6-1503x603.png?rect=299,0,905,603&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. If you were following along, I hope you stumbled across something useful that you were able to apply to your own professional journey. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. Whispering farewell (but not in a weird way),Shane</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/06/03/make-it-work-this-is-goodbye-for-now</link>
+  <author>Shane Loughnane</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/03/make-it-work-this-is-goodbye-for-now</guid>
+  <pubDate>Fri, 03 Jun 2022 13:31:40 -0700</pubDate>
+ </item>
  <item>
   <title>Stock watch: June 5</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/64c9a47a9775b70b66f3393543a59281361dbe0b-1500x2000.png?rect=0,500,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -361,15 +370,6 @@
   <categories>Travel</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/camping-is-holding-on-to-its-pandemic-popularity-in-2022</guid>
   <pubDate>Fri, 27 May 2022 10:02:10 -0700</pubDate>
- </item>
- <item>
-  <title>Stock watch: May 29</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/2430107219a980161be4c38e063f5534ba59226a-1500x2000.png?rect=0,500,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/stock-watch-may-29</link>
-  <author>Max Knoblauch</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/stock-watch-may-29</guid>
-  <pubDate>Fri, 27 May 2022 07:31:08 -0700</pubDate>
  </item>
 
 </channel>
