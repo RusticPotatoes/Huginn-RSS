@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/06/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/06/03/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/06/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/06/04/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/06/03</link>
- <lastBuildDate>Fri, 03 Jun 2022 15:03:38 -0700</lastBuildDate>
- <pubDate>Fri, 03 Jun 2022 15:03:38 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/06/04</link>
+ <lastBuildDate>Sat, 04 Jun 2022 00:03:39 -0700</lastBuildDate>
+ <pubDate>Sat, 04 Jun 2022 00:03:39 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Saturday sketch: Get back in here</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a66ed56fe7ad8d49a36fff0d3723eb5fd2703269-1080x1080.jpg?rect=0,180,1080,720&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/06/03/saturday-sketch-get-back-in-here?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/03/saturday-sketch-get-back-in-here?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 04 Jun 2022 00:01:39 -0700</pubDate>
+ </item>
+ <item>
+  <title>Study: Moderate coffee drinkers show lower mortality rates</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2022-06-03/image-7572b65531dc265590363d5f07fb7767faef3955-245x135-gif/coffee_crop.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. ) had a lower mortality rate than people who didn’t drink any coffee. A study published this week in the journal Annals of Internal Medicine found that people who drink 1.5 to 3.5 cups of coffee a day (even if they add a little bit of sugar to it! —MM css-1dlcpt7[data-readonly]{box-shadow:none! But it doesn’t conclusively prove that coffee itself is the panacea:Dr. Christina Wee, an associate professor at Harvard Medical School and the deputy editor of the journal, told the NYT that other characteristics of coffee drinkers could be contributing to their lower mortality rate, such as diet and exercise. The researchers, who studied 171,000 people in the UK over a seven-year period, found that coffee drinkers were 30% less likely to die during the study period than the coffee-less.</description>
+  <link>https://www.morningbrew.com/daily/stories/study-moderate-coffee-drinkers-show-lower-mortality-rates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>Food &amp; Bev</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/study-moderate-coffee-drinkers-show-lower-mortality-rates?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 04 Jun 2022 00:01:38 -0700</pubDate>
+ </item>
+ <item>
+  <title>Russia invaded Ukraine 100 days ago</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/baf55ad764b4eebe3b404581a2596e912423948d-3500x2336.jpg?rect=0,1,3500,2333&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. But it appears to be fading from many Americans’ radars: Social media interactions on news articles about Ukraine have decreased from 109 million in the first week of the war to 4.8 million last week, per Axios. On Thursday, Ukrainian President Volodymyr Zelensky said that Russia has increased its territorial control to 20%. Zelensky said this week that 60–100 Ukrainian soldiers are dying every day in the conflict, in addition to the tens of thousands of civilians who have been killed since Feb. 24, per Ukrainian estimates. But, despite failing in its initial aims to topple the Ukrainian government, Russia appears set on defending the territory it has already seized. —JW So where do we stand? css-1dlcpt7[data-readonly]{box-shadow:none! css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeYesterday marked 100 days since Russia invaded Ukraine in a brazen move that has shaken up the post-Cold War geopolitical order, caused economic hardships all over the globe, and displaced millions of people from their homes.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/06/03/russia-invaded-ukraine-100-days-ago?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Jamie Wilde</author>
+  <categories>International</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/03/russia-invaded-ukraine-100-days-ago?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 04 Jun 2022 00:01:38 -0700</pubDate>
+ </item>
+ <item>
+  <title>CEOs are warning of a recession; the economic data isn’t saying the same</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f258687cf8d80a14edd8e3835716abe943e7b674-1024x668.jpg?rect=11,0,1002,668&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. While some leading CEOs are sounding the alarm on a recession, the actual economic data isn’t saying the same thing. Musk is one of several prominent execs who has recently said that the fight against inflation + the war in Ukraine are about to send the economy into the Bad Place. It showed the US economy added a meaty 390,000 jobs last month and the unemployment rate held steady at a super low 3.6%.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/06/03/ceos-are-warning-of-a-recession?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Economy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/03/ceos-are-warning-of-a-recession?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 04 Jun 2022 00:01:38 -0700</pubDate>
+ </item>
  <item>
   <title>Study: Moderate coffee drinkers show lower mortality rates</title>
   <description>&lt;img src='https://images.morningbrew.com/gif/2022-06-03/image-7572b65531dc265590363d5f07fb7767faef3955-245x135-gif/coffee_crop.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. ) had a lower mortality rate than people who didn’t drink any coffee. But it doesn’t conclusively prove that coffee itself is what Ponce de Leon was seeking. The researchers, who studied 171,000 people in the UK over a seven-year period, found that coffee drinkers were 30% less likely to die during the study period than the coffee-less. —MM css-1dlcpt7[data-readonly]{box-shadow:none! A study published this week in the journal Annals of Internal Medicine found that people who drink 1.5 to 3.5 cups of coffee a day (even if they add a little bit of sugar to it! Dr. Christina Wee, an associate professor at Harvard Medical School and the deputy editor of the journal, told the NYT that other characteristics of coffee drinkers could be contributing to their lower mortality rate, such as diet and exercise.</description>
@@ -334,42 +370,6 @@
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/27/make-it-work-how-should-i-utilize-a-mentor?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Sun, 29 May 2022 15:01:26 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers with…Tyler Cowen and Daniel Gross, authors of Talent</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/1eda1828318fa99102449d54d21519c7eeffe374-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Then they hired Allen Klein, which led to great discord within the group and damaged their financial affairs. There are also biases when men interview women, at least on average. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. More generally, many interviewers are trying too hard to look for people who are a lot like them. To help us become better talent spotters in a world where spotting talent is increasingly important, economist Tyler Cowen and venture capitalist and entrepreneur Daniel Gross wrote a book on the art and science of finding talent at the highest level. Many highly successful individuals are terrible at talent assessment. This interview has been condensed.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/26/icebreakers-with-tyler-cowen-and-daniel-gross-authors-of-talent?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/26/icebreakers-with-tyler-cowen-and-daniel-gross-authors-of-talent?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sun, 29 May 2022 15:01:24 -0700</pubDate>
- </item>
- <item>
-  <title>Stock watch: May 29</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/2430107219a980161be4c38e063f5534ba59226a-1500x2000.png?rect=0,500,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/stock-watch-may-29?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/stock-watch-may-29?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sun, 29 May 2022 15:01:22 -0700</pubDate>
- </item>
- <item>
-  <title>Here’s what the ‘Planes, Trains and Automobiles’ trip would cost today</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a61090f8155cb1c4818e6ea82f35ed995240bc6e-1024x664.jpg?rect=14,0,996,664&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Here’s our pricing breakdown, in case you’re thinking of reliving the worst weekend of all time:A 6:00pm first-class flight from LGA to O’Hare before a holiday weekend: ~$400Midtown Manhattan car (let’s say Uber) to LGA: ~$85 (x2 since Del steals the first)Uber to a hotel after being diverted to Wichita: ~$25Last-minute hotel in Wichita: ~$100 a nightAmtrak from Kansas City (closest available location) to Chicago: ~$200 (x2)Bus from Jefferson City to St. Louis (once the train breaks down): ~$30 (x2)Rental car in St. Louis: likely unavailable, but ~$210 (x2 since movie Neal’s car is missing)Illinois hotel: ~$150Chicago L train: $2.50 (x2)Not included: gas, a speeding ticket, a robbery, or the cost of their destroyed rental car. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. —MK</description>
-  <link>https://www.morningbrew.com/daily/stories/travel-movies-trip-cost-planes-trains-automobiles?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/travel-movies-trip-cost-planes-trains-automobiles?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sat, 28 May 2022 08:02:15 -0700</pubDate>
- </item>
- <item>
-  <title>Camping is holding on to its pandemic popularity in 2022</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-27/image-737222a627307e1ee7d02fc3a980865ae823efdc-500x296-gif/giphy-1.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. 33% more people are shopping on Amazon for camping tents this year compared to 2019, and demand for other outdoor gear (lanterns, backpacks, camp stoves) has also risen by double digits, per data analytics company Pattern. —JW Zoom out: Getaway’s Chief Experience Officer Carlos Becil told the Brew via a spokesperson, “Between inflation, the stock market, and recession fears, people have a strong desire to find ways to disconnect from the stress and spend time in nature to help them reconnect with themselves, and their loved ones.” css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/camping-is-holding-on-to-its-pandemic-popularity-in-2022?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Jamie Wilde</author>
-  <categories>Travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/camping-is-holding-on-to-its-pandemic-popularity-in-2022?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sat, 28 May 2022 08:02:14 -0700</pubDate>
  </item>
 
 </channel>
