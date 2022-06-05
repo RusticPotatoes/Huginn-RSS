@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/06/05</link>
- <lastBuildDate>Sun, 05 Jun 2022 00:03:43 -0700</lastBuildDate>
- <pubDate>Sun, 05 Jun 2022 00:03:43 -0700</pubDate>
+ <lastBuildDate>Sun, 05 Jun 2022 10:48:35 -0700</lastBuildDate>
+ <pubDate>Sun, 05 Jun 2022 10:48:35 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Turntable: June 6</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d6d5ff67f65ccfc42ccab384cde8bbc6f76d8507-1920x1080.png?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/turntable-june-6</link>
+  <author>Mary Tobler</author>
+  <categories>games</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/turntable-june-6</guid>
+  <pubDate>Sun, 05 Jun 2022 10:46:45 -0700</pubDate>
+ </item>
  <item>
   <title>NASA taps two companies to develop lunar spacesuits</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d0fa9f7bc4d52a6931e12099236c1baf9219e795-3840x2939.jpg?rect=0,189,3840,2560&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. NASA will test the companies’ suits in 2025, and then decide whether to fund one or both designs. One major reason for the holdup is that the necessary spacesuits won’t be ready on time. It’s been a leading aerospace supplier for decades and has supplied spacesuits to NASA before. Hoping to finally fix its spacesuit production snags, NASA announced this week that it awarded contracts to two teams led by private companies, Axiom Space and Collins Aerospace, to make its suits. NASA’s outsourcing is a tacit admission that its own work developing lunar suits in-house for 15 years has been too costly and time-consuming: As of August 2021, NASA’s spacesuit production schedule has suffered more than 20 months of delays. Construction of the rocket and the lunar lander have been set back by Covid-19 supply and labor challenges, as well as a legal scuffle between NASA and Jeff Bezos’s Blue Origin after NASA chose Elon Musk’s SpaceX to build the lander. In the end, the whole endeavor was such a slog that NASA finally decided to bring in Axiom Space and Collins Aerospace to help outfit its astronauts. Meanwhile, newcomer Axiom Space was founded in 2016 with the goal of building the first private space station. So, constructing a spacesuit is a Sisyphean task to start with, and NASA faced major hurdles trying to produce them in-house:1. Last year, NASA only received 77% of the funding it requested for part of the lunar program, resulting in a $69 million budget shortfall for suit development and a delay of at least three months. Looking ahead…even if NASA astronauts get the right gear to go to the moon in time, the lunar mission has to overcome several other major obstacles. *sigh*—JW What’s the holdup, exactly?</description>
@@ -361,15 +370,6 @@
   <categories>Labor</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/30/pools-restaurants-brace-for-another-summer-of-worker-shortages?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Tue, 31 May 2022 00:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>The week ahead: May 31</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/2e1e920d45b22866afcdddef89438404fe1d593d-1967x1356.jpg?rect=0,22,1967,1311&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe UK throws Elizabeth II a party. css-1dlcpt7[data-readonly]{box-shadow:none! Ukraine war milestone: Saturday will mark 100 days since Russia first invaded Ukraine. The Boston Celtics and the Golden State Warriors will face off in the NBA Finals beginning on Thursday.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/30/the-week-ahead-may-31</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/30/the-week-ahead-may-31</guid>
-  <pubDate>Mon, 30 May 2022 16:16:19 -0700</pubDate>
  </item>
 
 </channel>
