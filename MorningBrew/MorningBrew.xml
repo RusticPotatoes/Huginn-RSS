@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/06/05</link>
- <lastBuildDate>Sun, 05 Jun 2022 10:48:35 -0700</lastBuildDate>
- <pubDate>Sun, 05 Jun 2022 10:48:35 -0700</pubDate>
+ <lastBuildDate>Sun, 05 Jun 2022 15:23:41 -0700</lastBuildDate>
+ <pubDate>Sun, 05 Jun 2022 15:23:41 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Apple prepares for a world after smartphones</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2021-10-26/image-42cc771ffc4130746e9caadcb5c38d8cbbe9b220-480x269-gif/giphy.webp'&gt;&lt;br/&gt;. What we know about Apple’s AR and VR playZuck’s obsession with the metaverse gets all the headlines, but Apple CEO Tim Cook has been hyping up mixed reality—the mashup of physical and virtual words—for at least six years. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. And that underlying computing platform is really what Apple wants to get right before its headset launch. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/06/05/apple-prepares-for-a-world-after-smartphones</link>
+  <author>Neal Freyman</author>
+  <categories>Tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/05/apple-prepares-for-a-world-after-smartphones</guid>
+  <pubDate>Sun, 05 Jun 2022 15:21:41 -0700</pubDate>
+ </item>
  <item>
   <title>Turntable: June 6</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d6d5ff67f65ccfc42ccab384cde8bbc6f76d8507-1920x1080.png?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -361,15 +370,6 @@
   <categories>Culture</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/30/mona-lisa-smeared-with-cake-in-apparent-climate-protest?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Tue, 31 May 2022 00:01:19 -0700</pubDate>
- </item>
- <item>
-  <title>Pools, restaurants brace for another summer of worker shortages</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-05-30/image-3a32b937df77169a4471bf3ac1379989fc3a8470-480x276-gif/giphy(2).webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. On the one hand, Americans are basically done with home-cooked meals. Given the shortage of workers in other age cohorts, more teens are working now than they have since the 2008–09 financial crisis. Even after dangling a $2,500 incentive, the city can’t find enough staff. And a lack of lifeguards could prevent one-third of the 300,000+ public pools in the US from opening this summer, the American Lifeguard Association warned. How to explain it?</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/05/30/pools-restaurants-brace-for-another-summer-of-worker-shortages?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories>Labor</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/05/30/pools-restaurants-brace-for-another-summer-of-worker-shortages?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Tue, 31 May 2022 00:01:18 -0700</pubDate>
  </item>
 
 </channel>
