@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/06/08</link>
- <lastBuildDate>Wed, 08 Jun 2022 14:54:02 -0700</lastBuildDate>
- <pubDate>Wed, 08 Jun 2022 14:54:02 -0700</pubDate>
+ <lastBuildDate>Wed, 08 Jun 2022 15:39:06 -0700</lastBuildDate>
+ <pubDate>Wed, 08 Jun 2022 15:39:06 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>SEC Chair Gary Gensler proposes new stock trading rules</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/6d88889f9b2476457294de94681838b980eccda4-4760x3367.jpg?rect=0,96,4760,3173&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The proposed solution: Make brokers like Robinhood route investors’ trades to auctions, where Wall Street firms could compete to execute the trades—effectively, if not explicitly, ending the “payment for order flow” relationship. SEC Chair Gary Gensler floated a number of ideas to revamp Wall Street’s plumbing network, but perhaps the most significant change would affect the “payment for order flow” model, which came under fire during the meme stock bonanza last year. —JW css-1dlcpt7[data-readonly]{box-shadow:none! css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeOver a year since Reddit traders sent meme stocks like GameStop to the moon, the SEC (Wall Street’s top cop) is making its first moves to overhaul the way individual trades are conducted. It works like this:Wholesalers like Citadel pay brokerages like Robinhood a small fee to execute individuals’ trades—and they make a small profit.</description>
+  <link>https://www.morningbrew.com/daily/stories/sec-chair-gary-gensler-proposes-new-stock-trading-rules</link>
+  <author>Jamie Wilde</author>
+  <categories>Stocks</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/sec-chair-gary-gensler-proposes-new-stock-trading-rules</guid>
+  <pubDate>Wed, 08 Jun 2022 15:37:06 -0700</pubDate>
+ </item>
  <item>
   <title>Shrinkflation is on the rise worldwide</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/9e1022c1fc0ddbc1f0656f1b24890fe0e86dfa0e-2599x1733.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Kleenex shrunk the amount of tissues in a small box from 65 to 60. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
@@ -360,15 +369,6 @@
   <author>Matty Merritt</author>
   <categories>Government</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/white-house-interns-will-be-paid-for-the-first-time-in-history?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Fri, 03 Jun 2022 00:01:37 -0700</pubDate>
- </item>
- <item>
-  <title>CNN’s new boss wants network to cut back its use of the “breaking news” banner</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0a60b1579a79d3b6cb9e09bdc7d37f538a2b6826-1200x900.jpg?rect=0,50,1200,800&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIn a move a bit like asking Batman to cut back on using the Batman voice, new CNN boss Chris Licht sent a memo to staffers indicating that the network needs to tamp down its use of “breaking news” graphics. —MK css-1dlcpt7[data-readonly]{box-shadow:none! “It has become such a fixture on every channel and network that its impact has become lost on the audience,” Licht’s memo said of the label, which is also used heavily on other cable news channels and, as any Twitter user knows, on 99% of journalism tweets. Zoom out: This move comes about two months after CNN and the rest of WarnerMedia’s properties were acquired by Discovery and combined under the newly formed Warner Bros. In the acquisition, Licht became Chairman &amp; CEO of CNN Global.</description>
-  <link>https://www.morningbrew.com/daily/stories/CNN-breaking-news-guidelines?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/CNN-breaking-news-guidelines?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Fri, 03 Jun 2022 00:01:37 -0700</pubDate>
  </item>
 
