@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/06/10</link>
- <lastBuildDate>Fri, 10 Jun 2022 14:39:03 -0700</lastBuildDate>
- <pubDate>Fri, 10 Jun 2022 14:39:03 -0700</pubDate>
+ <lastBuildDate>Fri, 10 Jun 2022 14:54:04 -0700</lastBuildDate>
+ <pubDate>Fri, 10 Jun 2022 14:54:04 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Former Russian McDonald’s chain gets a new logo</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/09977369944ce2e659429a49909ef000c905eb1f-1600x895.webp?rect=129,0,1343,895&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. ) One of the locations set to open was the first official McDonald’s in Moscow that opened in January 1990. McDonald’s was one of the highest-profile American businesses to bounce after Russia’s invasion of Ukraine in February. —MM</description>
+  <link>https://www.morningbrew.com/daily/stories/former-russian-mcdonald-s-chain-gets-a-new-logo</link>
+  <author>Matty Merritt</author>
+  <categories>Food &amp; Bev</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/former-russian-mcdonald-s-chain-gets-a-new-logo</guid>
+  <pubDate>Fri, 10 Jun 2022 14:52:03 -0700</pubDate>
+ </item>
  <item>
   <title>New Zealand plans to tax cow and sheep burps</title>
   <description>&lt;img src='https://images.morningbrew.com/gif/2022-06-10/image-54320bc6166bf6cf8132c0f164f43dec13f7122e-480x270-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It would make New Zealand the first country to charge farmers for their animals’ greenhouse gas emissions. —JW Fun fact! What about farts? css-1dlcpt7[data-readonly]{box-shadow:none! Livestock’s contribution to climate change is well documented, and not just by Leo DiCaprio: Emissions from cows alone make up about 40% of greenhouse gases globally, and in New Zealand, cows and sheep outnumber people 7:1. Looking ahead…a final decision on burp taxation will come by the end of this year, but Kiwi legislators weighing the issue may soon feel as beseiged as Shrek: New Zealand farmers have set down their Wattie’s and picked up their pitchforks in response to similar measures in the past.</description>
@@ -361,15 +370,6 @@
   <categories>Entrepreneurship</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/03/icebreakers-with-entrepreneur-and-reality-tv-star-bethenny-frankel?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Sun, 05 Jun 2022 00:01:41 -0700</pubDate>
- </item>
- <item>
-  <title>Stock watch: June 5</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/64c9a47a9775b70b66f3393543a59281361dbe0b-1500x2000.png?rect=0,500,1500,1000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/06/03/stock-watch-june-5?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Culture</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/03/stock-watch-june-5?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sun, 05 Jun 2022 00:01:38 -0700</pubDate>
  </item>
 
 </channel>
