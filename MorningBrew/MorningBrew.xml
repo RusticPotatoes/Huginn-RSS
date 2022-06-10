@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/06/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/06/09/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/06/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/06/10/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/06/09</link>
- <lastBuildDate>Thu, 09 Jun 2022 15:19:05 -0700</lastBuildDate>
- <pubDate>Thu, 09 Jun 2022 15:19:05 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/06/10</link>
+ <lastBuildDate>Fri, 10 Jun 2022 00:04:05 -0700</lastBuildDate>
+ <pubDate>Fri, 10 Jun 2022 00:04:05 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>There’s a sriracha shortage and it’s expected to last through summer</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c665179dee9b5cf50460e48be1ba07cc9b175797-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The light at the end of the bottle: Other sriracha brands have not announced pepper problems and may source their peppers elsewhere, so for now the shortage seems like a Huy Fong problem. —MK css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/sriracha-shortage-last-through-summer?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories>Food</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/sriracha-shortage-last-through-summer?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Fri, 10 Jun 2022 00:02:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>Thailand becomes first Asian country to decriminalize medical, industrial marijuana</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/9237fa7a7961f13f3890a4d892fd8540fc87bac2-6720x4480.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. —MM css-1dlcpt7[data-readonly]{box-shadow:none! The details: Individuals can grow and trade cannabis products without violating the law, medical facilities are allowed to prescribe the drug, and restaurants can offer you a morning latte with a schtickle of THC. And even though the move could help the country rejuvenate its Covid-ravaged tourism industry, Thailand made it very clear that it’s not trying to be the next Boulder.</description>
+  <link>https://www.morningbrew.com/daily/stories/thailand-first-asian-country-decriminalize-medical-industrial-marijuana?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>International</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/thailand-first-asian-country-decriminalize-medical-industrial-marijuana?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Fri, 10 Jun 2022 00:02:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Gas prices hit $5 per gallon nationally, GasBuddy says</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/62e98ebc6e61ac0335de0a6b9213d1d2da390633-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Law enforcement: A sheriff’s department in Michigan instructed its deputies to cut back on visits for non-urgent calls because it had blasted through its fuel budget with months before a new one kicks in. A “perfect storm” of variables has aligned to drive gas prices higher this summer, GasBuddy’s Head of Petroleum Analysis Patrick De Haan wrote, leading to a severe supply–demand imbalance that could drag on like the final two minutes of an NBA game.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/06/09/gas-prices-hit-usd5-per-gallon-nationally-gasbuddy-says?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Energy</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/09/gas-prices-hit-usd5-per-gallon-nationally-gasbuddy-says?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Fri, 10 Jun 2022 00:02:04 -0700</pubDate>
+ </item>
  <item>
   <title>Gas prices hit $5 per gallon nationally, GasBuddy says</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/62e98ebc6e61ac0335de0a6b9213d1d2da390633-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Law enforcement: A sheriff’s department in Michigan instructed its deputies to reduce their visits for non-urgent calls because it had blasted through its fuel budget with months before a new one kicks in. A “perfect storm” of variables has aligned to drive gas prices higher this summer, GasBuddy’s Head of Petroleum Analysis Patrick De Haan wrote, leading to a severe supply–demand imbalance that could drag on like the final two minutes of an NBA game.</description>
@@ -343,33 +370,6 @@
   <categories>Economy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/03/ceos-are-warning-of-a-recession?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Sat, 04 Jun 2022 00:01:38 -0700</pubDate>
- </item>
- <item>
-  <title>Study: Moderate coffee drinkers show lower mortality rates</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2022-06-03/image-7572b65531dc265590363d5f07fb7767faef3955-245x135-gif/coffee_crop.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. ) had a lower mortality rate than people who didn’t drink any coffee. But it doesn’t conclusively prove that coffee itself is what Ponce de Leon was seeking. The researchers, who studied 171,000 people in the UK over a seven-year period, found that coffee drinkers were 30% less likely to die during the study period than the coffee-less. —MM css-1dlcpt7[data-readonly]{box-shadow:none! A study published this week in the journal Annals of Internal Medicine found that people who drink 1.5 to 3.5 cups of coffee a day (even if they add a little bit of sugar to it! Dr. Christina Wee, an associate professor at Harvard Medical School and the deputy editor of the journal, told the NYT that other characteristics of coffee drinkers could be contributing to their lower mortality rate, such as diet and exercise.</description>
-  <link>https://www.morningbrew.com/daily/stories/study-moderate-coffee-drinkers-show-lower-mortality-rates</link>
-  <author>Matty Merritt</author>
-  <categories>Food &amp; Bev</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/study-moderate-coffee-drinkers-show-lower-mortality-rates</guid>
-  <pubDate>Fri, 03 Jun 2022 15:01:38 -0700</pubDate>
- </item>
- <item>
-  <title>Russia invaded Ukraine 100 days ago</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/baf55ad764b4eebe3b404581a2596e912423948d-3500x2336.jpg?rect=0,1,3500,2333&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Before it launched its invasion, Russia controlled 7% of Ukraine— including Crimea, which Russia annexed in 2014. But it appears to be fading from many Americans’ radars: Social media interactions on news articles about Ukraine have decreased from 109 million in the first week of the war to 4.8 million last week, per Axios. —JW So where do we stand? css-1dlcpt7[data-readonly]{box-shadow:none! On Thursday, Ukrainian President Volodymyr Zelensky said that Russia has increased its control to 20%.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/06/03/russia-invaded-ukraine-100-days-ago</link>
-  <author>Jamie Wilde</author>
-  <categories>International</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/03/russia-invaded-ukraine-100-days-ago</guid>
-  <pubDate>Fri, 03 Jun 2022 15:01:37 -0700</pubDate>
- </item>
- <item>
-  <title>CEOs are warning of a recession; the economy data isn’t so sure</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f258687cf8d80a14edd8e3835716abe943e7b674-1024x668.jpg?rect=11,0,1002,668&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. While some leading CEOs are sounding the alarm on a recession, the actual economic data isn’t saying the same thing. Musk is one of several prominent execs who has recently said that the fight against inflation + the war in Ukraine are about to send the economy into the Bad Place.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/06/03/ceos-are-warning-of-a-recession</link>
-  <author>Neal Freyman</author>
-  <categories>Economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/03/ceos-are-warning-of-a-recession</guid>
-  <pubDate>Fri, 03 Jun 2022 14:46:38 -0700</pubDate>
  </item>
 
 </channel>
