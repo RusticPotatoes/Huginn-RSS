@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/06/10</link>
- <lastBuildDate>Fri, 10 Jun 2022 00:04:05 -0700</lastBuildDate>
- <pubDate>Fri, 10 Jun 2022 00:04:05 -0700</pubDate>
+ <lastBuildDate>Fri, 10 Jun 2022 06:54:00 -0700</lastBuildDate>
+ <pubDate>Fri, 10 Jun 2022 06:54:00 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Saturday sketch: Work wrestling</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/905414f836e748e70018c73de7f41c4696d5255d-1200x1200.png?rect=0,200,1200,800&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/06/10/saturday-sketch-work-wrestling</link>
+  <author>Max Knoblauch</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/10/saturday-sketch-work-wrestling</guid>
+  <pubDate>Fri, 10 Jun 2022 06:51:59 -0700</pubDate>
+ </item>
  <item>
   <title>There’s a sriracha shortage and it’s expected to last through summer</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c665179dee9b5cf50460e48be1ba07cc9b175797-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The light at the end of the bottle: Other sriracha brands have not announced pepper problems and may source their peppers elsewhere, so for now the shortage seems like a Huy Fong problem. —MK css-1dlcpt7[data-readonly]{box-shadow:none!</description>
@@ -360,15 +369,6 @@
   <author>Jamie Wilde</author>
   <categories>International</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/03/russia-invaded-ukraine-100-days-ago?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sat, 04 Jun 2022 00:01:38 -0700</pubDate>
- </item>
- <item>
-  <title>CEOs are warning of a recession; the economic data isn’t saying the same</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f258687cf8d80a14edd8e3835716abe943e7b674-1024x668.jpg?rect=11,0,1002,668&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. While some leading CEOs are sounding the alarm on a recession, the actual economic data isn’t saying the same thing. Musk is one of several prominent execs who has recently said that the fight against inflation + the war in Ukraine are about to send the economy into the Bad Place. It showed the US economy added a meaty 390,000 jobs last month and the unemployment rate held steady at a super low 3.6%.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/06/03/ceos-are-warning-of-a-recession?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories>Economy</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/03/ceos-are-warning-of-a-recession?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Sat, 04 Jun 2022 00:01:38 -0700</pubDate>
  </item>
 
