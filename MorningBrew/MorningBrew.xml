@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2022/06/10</link>
- <lastBuildDate>Fri, 10 Jun 2022 14:24:04 -0700</lastBuildDate>
- <pubDate>Fri, 10 Jun 2022 14:24:04 -0700</pubDate>
+ <lastBuildDate>Fri, 10 Jun 2022 14:39:03 -0700</lastBuildDate>
+ <pubDate>Fri, 10 Jun 2022 14:39:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>New Zealand plans to tax cow and sheep burps</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2022-06-10/image-54320bc6166bf6cf8132c0f164f43dec13f7122e-480x270-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It would make New Zealand the first country to charge farmers for their animals’ greenhouse gas emissions. —JW Fun fact! What about farts? css-1dlcpt7[data-readonly]{box-shadow:none! Livestock’s contribution to climate change is well documented, and not just by Leo DiCaprio: Emissions from cows alone make up about 40% of greenhouse gases globally, and in New Zealand, cows and sheep outnumber people 7:1. Looking ahead…a final decision on burp taxation will come by the end of this year, but Kiwi legislators weighing the issue may soon feel as beseiged as Shrek: New Zealand farmers have set down their Wattie’s and picked up their pitchforks in response to similar measures in the past.</description>
+  <link>https://www.morningbrew.com/daily/stories/new-zealand-plans-to-tax-cow-and-sheep-burps</link>
+  <author>Jamie Wilde</author>
+  <categories>Environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/new-zealand-plans-to-tax-cow-and-sheep-burps</guid>
+  <pubDate>Fri, 10 Jun 2022 14:37:02 -0700</pubDate>
+ </item>
  <item>
   <title>US drops Covid testing requirement for international air travel.</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4284c778d6565d30812846bd12df7474eca2e724-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. What that policy was: All international air passengers—regardless of citizenship or vaccination status—were required to test negative for Covid within one day of boarding a flight to the US. The Biden administration said that it’s dropping its international air travel testing requirement at 12:01am tomorrow, bringing to an end one of the last remaining federal policies intended to curb the spread of Covid. Dr. Vin Gupta, a former health adviser to Biden, argued that it’s “well past time to drop the testing requirement to international travelers to the US” in a WSJ interview. Domestic air travel has mostly recovered to pre-Covid levels, but international travel has not rebounded in the same way. —NF So is the virus going to rip because of this? Execs argued the rule was impeding international travel by adding another layer of uncertainty onto the already stressful experience of last-minute Duolingo cramming. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe era of scrambling to find Airbnbs in Mexico City because you tested positive for Covid before your flight home is officially over. The US Travel Association estimated that ending the testing rule could spur an additional $9 billion in travel spending for the rest of the year. American Airlines CEO Robert Isom called the policy “nonsensical” last week, citing the fact that 75% of the countries the airline serves had dropped testing requirements. “It’s a real impediment to travel,” United CEO Scott Kirby told the WSJ last month.</description>
@@ -361,15 +370,6 @@
   <categories>Culture</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/03/stock-watch-june-5?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
   <pubDate>Sun, 05 Jun 2022 00:01:38 -0700</pubDate>
- </item>
- <item>
-  <title>Saturday sketch: Get back in here</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a66ed56fe7ad8d49a36fff0d3723eb5fd2703269-1080x1080.jpg?rect=0,180,1080,720&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/06/03/saturday-sketch-get-back-in-here?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Max Knoblauch</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/03/saturday-sketch-get-back-in-here?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sat, 04 Jun 2022 00:01:39 -0700</pubDate>
  </item>
 
 </channel>
