@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/06/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/06/10/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/06/11/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/06/11/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/06/10</link>
- <lastBuildDate>Fri, 10 Jun 2022 14:54:04 -0700</lastBuildDate>
- <pubDate>Fri, 10 Jun 2022 14:54:04 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/06/11</link>
+ <lastBuildDate>Sat, 11 Jun 2022 00:04:03 -0700</lastBuildDate>
+ <pubDate>Sat, 11 Jun 2022 00:04:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Saturday sketch: Work wrestling</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/905414f836e748e70018c73de7f41c4696d5255d-1200x1200.png?rect=0,200,1200,800&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/06/10/saturday-sketch-work-wrestling?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Max Knoblauch</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/10/saturday-sketch-work-wrestling?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 11 Jun 2022 00:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>New Zealand plans to tax cow and sheep burps</title>
+  <description>&lt;img src='https://images.morningbrew.com/gif/2022-06-10/image-54320bc6166bf6cf8132c0f164f43dec13f7122e-480x270-gif/giphy.webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It would make New Zealand the first country to charge farmers for their animals’ greenhouse gas emissions. —JW Fun fact! What about farts? css-1dlcpt7[data-readonly]{box-shadow:none! Livestock’s contribution to climate change is well documented, and not just by Leo DiCaprio: Emissions from cows alone make up about 40% of greenhouse gases globally, and in New Zealand, cows and sheep outnumber people 7:1.</description>
+  <link>https://www.morningbrew.com/daily/stories/new-zealand-plans-to-tax-cow-and-sheep-burps?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Jamie Wilde</author>
+  <categories>Environment</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/new-zealand-plans-to-tax-cow-and-sheep-burps?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 11 Jun 2022 00:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Former Russian McDonald’s chain gets a new logo</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/09977369944ce2e659429a49909ef000c905eb1f-1600x895.webp?rect=129,0,1343,895&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. ) McDonald’s was one of the highest-profile American businesses to bounce after Russia’s invasion of Ukraine in February. —MM</description>
+  <link>https://www.morningbrew.com/daily/stories/former-russian-mcdonald-s-chain-gets-a-new-logo?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Matty Merritt</author>
+  <categories>Food &amp; Bev</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/former-russian-mcdonald-s-chain-gets-a-new-logo?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 11 Jun 2022 00:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>US drops Covid testing requirement for international air travel</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4284c778d6565d30812846bd12df7474eca2e724-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The Biden administration said that it’s dropping its international air travel testing requirement at 12:01am tomorrow, bringing one of the last remaining federal policies intended to curb the spread of Covid to an end. What that policy was: All international air passengers—regardless of citizenship or vaccination status—were required to test negative for Covid within one day of boarding a flight to the US. Dr. Vin Gupta, a former health adviser to Biden, argued that it’s “well past time to drop the testing requirement to international travelers to the US” in a WSJ interview. Domestic air travel has mostly recovered to pre-Covid levels, but international travel has not rebounded in the same way. —NF So is the virus going to rip because of this? Execs argued the rule was impeding international travel by adding another layer of uncertainty onto the already stressful experience of last-minute Duolingo cramming. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe era of scrambling to find Airbnbs in Mexico City because you tested positive for Covid before your flight home is officially over. The US Travel Association estimated that ending the testing rule could spur an additional $9 billion in travel spending for the rest of the year. American Airlines CEO Robert Isom called the policy “nonsensical” last week, citing the fact that 75% of the countries the airline serves had dropped testing requirements. “It’s a real impediment to travel,” United CEO Scott Kirby told the WSJ last month.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/06/10/us-drops-covid-testing-requirement-for-international-air-travel?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Travel</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/10/us-drops-covid-testing-requirement-for-international-air-travel?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Sat, 11 Jun 2022 00:02:01 -0700</pubDate>
+ </item>
  <item>
   <title>Former Russian McDonald’s chain gets a new logo</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/09977369944ce2e659429a49909ef000c905eb1f-1600x895.webp?rect=129,0,1343,895&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. ) One of the locations set to open was the first official McDonald’s in Moscow that opened in January 1990. McDonald’s was one of the highest-profile American businesses to bounce after Russia’s invasion of Ukraine in February. —MM</description>
@@ -334,42 +370,6 @@
   <categories>Tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/05/apple-prepares-for-a-world-after-smartphones</guid>
   <pubDate>Sun, 05 Jun 2022 15:21:41 -0700</pubDate>
- </item>
- <item>
-  <title>Turntable: June 6</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d6d5ff67f65ccfc42ccab384cde8bbc6f76d8507-1920x1080.png?rect=150,0,1620,1080&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/turntable-june-6</link>
-  <author>Mary Tobler</author>
-  <categories>games</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/turntable-june-6</guid>
-  <pubDate>Sun, 05 Jun 2022 10:46:45 -0700</pubDate>
- </item>
- <item>
-  <title>NASA taps two companies to develop lunar spacesuits</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d0fa9f7bc4d52a6931e12099236c1baf9219e795-3840x2939.jpg?rect=0,189,3840,2560&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. NASA will test the companies’ suits in 2025, and then decide whether to fund one or both designs. One major reason for the holdup is that the necessary spacesuits won’t be ready on time. It’s been a leading aerospace supplier for decades and has supplied spacesuits to NASA before. Hoping to finally fix its spacesuit production snags, NASA announced this week that it awarded contracts to two teams led by private companies, Axiom Space and Collins Aerospace, to make its suits. NASA’s outsourcing is a tacit admission that its own work developing lunar suits in-house for 15 years has been too costly and time-consuming: As of August 2021, NASA’s spacesuit production schedule has suffered more than 20 months of delays. Construction of the rocket and the lunar lander have been set back by Covid-19 supply and labor challenges, as well as a legal scuffle between NASA and Jeff Bezos’s Blue Origin after NASA chose Elon Musk’s SpaceX to build the lander. In the end, the whole endeavor was such a slog that NASA finally decided to bring in Axiom Space and Collins Aerospace to help outfit its astronauts. Meanwhile, newcomer Axiom Space was founded in 2016 with the goal of building the first private space station. So, constructing a spacesuit is a Sisyphean task to start with, and NASA faced major hurdles trying to produce them in-house:1. Last year, NASA only received 77% of the funding it requested for part of the lunar program, resulting in a $69 million budget shortfall for suit development and a delay of at least three months. Looking ahead…even if NASA astronauts get the right gear to go to the moon in time, the lunar mission has to overcome several other major obstacles. *sigh*—JW What’s the holdup, exactly?</description>
-  <link>https://www.morningbrew.com/daily/stories/nasa-taps-two-companies-to-develop-lunar-spacesuits?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Jamie Wilde</author>
-  <categories>Space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/nasa-taps-two-companies-to-develop-lunar-spacesuits?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sun, 05 Jun 2022 00:01:42 -0700</pubDate>
- </item>
- <item>
-  <title>Make it work: This is goodbye (for now)</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7b6de1bb891bb0dd9e289abb0a591582a5da30e6-1503x603.png?rect=299,0,905,603&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. If you were following along, I hope you stumbled across something useful that you were able to apply to your own professional journey. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. Whispering farewell (but not in a weird way),Shane</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/06/03/make-it-work-this-is-goodbye-for-now?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Shane Loughnane</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/03/make-it-work-this-is-goodbye-for-now?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sun, 05 Jun 2022 00:01:42 -0700</pubDate>
- </item>
- <item>
-  <title>Icebreakers with entrepreneur and reality TV star Bethenny Frankel</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c5d0ccc2093fbcefc34b1be0bbdb8cbc72153086-1024x675.jpg?rect=6,0,1013,675&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. That’s not in line with who I am and I don’t have to do that anymore. I don’t consider winning to be hitting a home run every time you get up to the plate. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. Meaning, when I was on reality television, I was having disputes and talking about things that I don’t necessarily care about and in a lot of unnecessary drama that is created by a circumstance on television. But Frankel isn’t just a TV star—she’s also a super savvy businessperson. My first time trying to get on The Apprentice, I think, “I’ve made it” and they tell me, "You didn’t make it.” I consider winning how you handle it. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/06/03/icebreakers-with-entrepreneur-and-reality-tv-star-bethenny-frankel?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories>Entrepreneurship</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/03/icebreakers-with-entrepreneur-and-reality-tv-star-bethenny-frankel?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sun, 05 Jun 2022 00:01:41 -0700</pubDate>
  </item>
 
 </channel>
