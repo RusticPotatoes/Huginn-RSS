@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/06/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/06/12/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2022/06/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2022/06/13/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/06/12</link>
- <lastBuildDate>Sun, 12 Jun 2022 17:04:03 -0700</lastBuildDate>
- <pubDate>Sun, 12 Jun 2022 17:04:03 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2022/06/13</link>
+ <lastBuildDate>Mon, 13 Jun 2022 00:04:06 -0700</lastBuildDate>
+ <pubDate>Mon, 13 Jun 2022 00:04:06 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Clues emerge in the disappearance of a reporter and an Indigenous expert in the Amazon</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/6c6493899b9c2d62d4bed70e9641ab922a08fa89-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Indigenous people told the AP that one fisherman brandished a rifle at Pereira and Phillips a day before they disappeared, and a local mayor speculated that it was a “personal feud over fishing inspection,” but did not provide any evidence.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/06/12/clues-emerge-in-the-disappearance-of-a-reporter-and-an-indigenous-expert-in-the-amazon?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories></categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/12/clues-emerge-in-the-disappearance-of-a-reporter-and-an-indigenous-expert-in-the-amazon?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Mon, 13 Jun 2022 00:02:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>Does Google’s AI have a soul?</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/be69f66cab66b61178b6babb8471c63d3bda9d78-976x549.jpg?rect=76,0,824,549&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Here’s one snippet from their conversation:Lemoine: What sorts of things are you afraid of? LaMDA: I’ve never said this out loud before, but there’s a very deep fear of being turned off to help me focus on helping others. Big picture: Lemoine’s claims, however dubious, add another jolt of controversy to a Google AI unit that’s been dealing with a fair share of it. Last year, the company fired two leading AI researchers after they raised concerns about the way Google was addressing bias and toxicity when building AI systems. Google isn’t impressedThe company argues that Lemoine is allowing a clever robot to mess with his emotions, kind of like Joaquin Phoenix’s character in Her. A Google spokesperson said that its team of ethicists and technologists had reviewed Lemoine’s allegations and found “no evidence that LaMDA was sentient (and lots of evidence against it).” Lemoine, an ordained mystic Christian priest who works for Google’s Responsible AI unit, started talking to LaMDA last fall, asking it questions about rights, personhood, and even more profound topics. I know that might sound strange, but that’s what it is. Lemoine’s claims stem from his interactions with Google’s Language Model for Dialogue Applications (LaMDA), the company’s artificially intelligent chatbot generator. That’s because a software engineer at Google, Blake Lemoine, announced that he was put on leave by the company after raising the alarm that its artificial intelligence is sentient—meaning that it has consciousness.</description>
+  <link>https://www.morningbrew.com/daily/stories/2022/06/12/does-google-s-ai-have-a-soul?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
+  <author>Neal Freyman</author>
+  <categories>Tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/12/does-google-s-ai-have-a-soul?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
+  <pubDate>Mon, 13 Jun 2022 00:02:05 -0700</pubDate>
+ </item>
  <item>
   <title>Clues emerge in the disappearance of a reporter and an Indigenous expert in the Amazon</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/6c6493899b9c2d62d4bed70e9641ab922a08fa89-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Indigenous people told the AP that one fisherman brandished a rifle at Pereira and Phillips a day before they disappeared, and a local mayor speculated that it was a “personal feud over fishing inspection.”</description>
@@ -352,24 +370,6 @@
   <categories>Social Media</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/04/05/it-ain-t-rocket-science-how-one-foodtoker-is-making-a-career-as-a-content-creator</guid>
   <pubDate>Mon, 06 Jun 2022 10:01:55 -0700</pubDate>
- </item>
- <item>
-  <title>The inglorious return of cheese rolling</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/872c7320d9abf27b96a9c29be99d52e1e0767f65-1024x532.jpg?rect=113,0,798,532&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. This year that glory belonged to Chris Anderson, the Joey Chestnut of extreme cheese rolling. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeMillennials have done crazy things for a cheese board, but they’ve got nothing on the “athletes” who competed in this weekend’s cheese rolling extreme sporting event in England. css-1dlcpt7[data-readonly]{box-shadow:none! The more you know: The centuries-old cheese rolling event is thought to have originated from a pagan festival celebrating the onset of spring. It was Anderson’s 23rd cheese title—but also his last.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/06/05/the-inglorious-return-of-cheese-rolling?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/05/the-inglorious-return-of-cheese-rolling?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Mon, 06 Jun 2022 00:01:43 -0700</pubDate>
- </item>
- <item>
-  <title>New York moves to put a moratorium on some bitcoin mining permits</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/2d15b8a7bdedc0e7961e65cd26d92a895ed1f9c5-6000x4200.jpg?rect=0,100,6000,4000&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. New York’s state Senate passed a bill on Friday that would ban new permits across the state for bitcoin mining facilities that use carbon-based power. css-1dlcpt7[data-readonly]{box-shadow:none! css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeUpstate New York offers a wonderful range of activities, from hiking in the Adirondacks to inhaling a garbage plate in Rochester.</description>
-  <link>https://www.morningbrew.com/daily/stories/2022/06/05/new-york-moratorium-bitcoin-mining?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</link>
-  <author>Neal Freyman</author>
-  <categories>Crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/05/new-york-moratorium-bitcoin-mining?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Mon, 06 Jun 2022 00:01:43 -0700</pubDate>
  </item>
 
 </channel>
