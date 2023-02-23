@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2022/06/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2022/06/14/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/02/23/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/02/23/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2022/06/14</link>
- <lastBuildDate>Tue, 14 Jun 2022 00:03:38 -0700</lastBuildDate>
- <pubDate>Tue, 14 Jun 2022 00:03:38 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/02/23</link>
+ <lastBuildDate>Thu, 23 Feb 2023 15:28:40 -0800</lastBuildDate>
+ <pubDate>Thu, 23 Feb 2023 15:28:40 -0800</pubDate>
  <ttl>60</ttl>
  <item>
   <title>Coca-Cola announces a canned Jack and Coke</title>
@@ -18,7 +18,7 @@
   <author>Max Knoblauch</author>
   <categories>Food &amp; Bev</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/Jack-and-coke-cocktail-can-coca-cola?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Tue, 14 Jun 2022 00:01:38 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:27:39 -0800</pubDate>
  </item>
  <item>
   <title>New Ohio bill cuts firearm training for teachers from 700 hours to 24</title>
@@ -27,7 +27,7 @@
   <author>Matty Merritt</author>
   <categories>Education</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/new-ohio-bill-cuts-firearm-training-for-teachers-from-700-hours-to-24?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Tue, 14 Jun 2022 00:01:37 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:27:38 -0800</pubDate>
  </item>
  <item>
   <title>Celsius freezes withdrawals in another blow to battered crypto sector</title>
@@ -36,7 +36,7 @@
   <author>Neal Freyman</author>
   <categories>Crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/13/celsius-freezes-withdrawals-in-another-blow-to-battered-crypto-sector?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Tue, 14 Jun 2022 00:01:36 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:27:38 -0800</pubDate>
  </item>
  <item>
   <title>New Ohio bill cuts firearm training for teachers from 700 hours to 24</title>
@@ -45,7 +45,7 @@
   <author>Matty Merritt</author>
   <categories>Education</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/new-ohio-bill-cuts-firearm-training-for-teachers-from-700-hours-to-24</guid>
-  <pubDate>Mon, 13 Jun 2022 16:01:33 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:27:37 -0800</pubDate>
  </item>
  <item>
   <title>Celsius freezes withdrawals in another blow to battered crypto sector</title>
@@ -54,7 +54,7 @@
   <author>Neal Freyman</author>
   <categories>Crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/13/celsius-freezes-withdrawals-in-another-blow-to-battered-crypto-sector</guid>
-  <pubDate>Mon, 13 Jun 2022 15:31:36 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:27:36 -0800</pubDate>
  </item>
  <item>
   <title>Coca-Cola announces a canned Jack and Coke</title>
@@ -63,7 +63,7 @@
   <author>Max Knoblauch</author>
   <categories>Food &amp; Bev</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/Jack-and-coke-cocktail-can-coca-cola</guid>
-  <pubDate>Mon, 13 Jun 2022 15:31:35 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:27:35 -0800</pubDate>
  </item>
  <item>
   <title>Have a few thousand dollars to burn on digital land? Here's how you can do it</title>
@@ -72,7 +72,7 @@
   <author>Sherry Qin</author>
   <categories>Crypto</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/13/have-a-few-thousand-dollars-to-burn-on-digital-land-here-s-how-you-can-do-it</guid>
-  <pubDate>Mon, 13 Jun 2022 08:52:10 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:27:35 -0800</pubDate>
  </item>
  <item>
   <title>Confused about the metaverse property boom? We've got you covered</title>
@@ -81,7 +81,7 @@
   <author>Amanda Hoover</author>
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/10/metaverse-property-explained</guid>
-  <pubDate>Mon, 13 Jun 2022 06:07:07 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:27:26 -0800</pubDate>
  </item>
  <item>
   <title>Clues emerge in the disappearance of a reporter and an Indigenous expert in the Amazon</title>
@@ -90,7 +90,7 @@
   <author>Neal Freyman</author>
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/12/clues-emerge-in-the-disappearance-of-a-reporter-and-an-indigenous-expert-in-the-amazon?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Mon, 13 Jun 2022 00:02:06 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:27:13 -0800</pubDate>
  </item>
  <item>
   <title>Does Google’s AI have a soul?</title>
@@ -99,7 +99,7 @@
   <author>Neal Freyman</author>
   <categories>Tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/12/does-google-s-ai-have-a-soul?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Mon, 13 Jun 2022 00:02:05 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:27:12 -0800</pubDate>
  </item>
  <item>
   <title>Clues emerge in the disappearance of a reporter and an Indigenous expert in the Amazon</title>
@@ -108,7 +108,7 @@
   <author>Neal Freyman</author>
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/12/clues-emerge-in-the-disappearance-of-a-reporter-and-an-indigenous-expert-in-the-amazon</guid>
-  <pubDate>Sun, 12 Jun 2022 17:02:03 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:27:11 -0800</pubDate>
  </item>
  <item>
   <title>Does Google’s AI have a soul?</title>
@@ -117,7 +117,7 @@
   <author>Neal Freyman</author>
   <categories>Tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/12/does-google-s-ai-have-a-soul</guid>
-  <pubDate>Sun, 12 Jun 2022 17:02:02 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:27:10 -0800</pubDate>
  </item>
  <item>
   <title>Turntable: June 13</title>
@@ -126,7 +126,7 @@
   <author>Mary Tobler</author>
   <categories>games</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/12/turntable-june-13</guid>
-  <pubDate>Sun, 12 Jun 2022 08:11:59 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:27:10 -0800</pubDate>
  </item>
  <item>
   <title>These influencers live trash-free in a garbage world</title>
@@ -135,7 +135,7 @@
   <author>Amanda Hoover</author>
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/10/influencers-live-trash-free-in-a-garbage-world?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sun, 12 Jun 2022 00:02:15 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:27:09 -0800</pubDate>
  </item>
  <item>
   <title>Saturday sketch: Work wrestling</title>
@@ -144,7 +144,7 @@
   <author>Max Knoblauch</author>
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/10/saturday-sketch-work-wrestling?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sat, 11 Jun 2022 00:02:02 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:50 -0800</pubDate>
  </item>
  <item>
   <title>New Zealand plans to tax cow and sheep burps</title>
@@ -153,7 +153,7 @@
   <author>Jamie Wilde</author>
   <categories>Environment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/new-zealand-plans-to-tax-cow-and-sheep-burps?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sat, 11 Jun 2022 00:02:02 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:49 -0800</pubDate>
  </item>
  <item>
   <title>Former Russian McDonald’s chain gets a new logo</title>
@@ -162,7 +162,7 @@
   <author>Matty Merritt</author>
   <categories>Food &amp; Bev</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/former-russian-mcdonald-s-chain-gets-a-new-logo?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sat, 11 Jun 2022 00:02:02 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:49 -0800</pubDate>
  </item>
  <item>
   <title>US drops Covid testing requirement for international air travel</title>
@@ -171,7 +171,7 @@
   <author>Neal Freyman</author>
   <categories>Travel</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/10/us-drops-covid-testing-requirement-for-international-air-travel?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Sat, 11 Jun 2022 00:02:01 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:48 -0800</pubDate>
  </item>
  <item>
   <title>Former Russian McDonald’s chain gets a new logo</title>
@@ -180,7 +180,7 @@
   <author>Matty Merritt</author>
   <categories>Food &amp; Bev</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/former-russian-mcdonald-s-chain-gets-a-new-logo</guid>
-  <pubDate>Fri, 10 Jun 2022 14:52:03 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:48 -0800</pubDate>
  </item>
  <item>
   <title>New Zealand plans to tax cow and sheep burps</title>
@@ -189,7 +189,7 @@
   <author>Jamie Wilde</author>
   <categories>Environment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/new-zealand-plans-to-tax-cow-and-sheep-burps</guid>
-  <pubDate>Fri, 10 Jun 2022 14:37:02 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:47 -0800</pubDate>
  </item>
  <item>
   <title>US drops Covid testing requirement for international air travel.</title>
@@ -198,7 +198,7 @@
   <author>Neal Freyman</author>
   <categories>Travel</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/10/us-drops-covid-testing-requirement-for-international-air-travel</guid>
-  <pubDate>Fri, 10 Jun 2022 14:22:04 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:46 -0800</pubDate>
  </item>
  <item>
   <title>These influencers live trash-free in a garbage world</title>
@@ -207,7 +207,7 @@
   <author>Amanda Hoover</author>
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/10/influencers-live-trash-free-in-a-garbage-world</guid>
-  <pubDate>Fri, 10 Jun 2022 08:12:20 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:46 -0800</pubDate>
  </item>
  <item>
   <title>Saturday sketch: Work wrestling</title>
@@ -216,7 +216,7 @@
   <author>Max Knoblauch</author>
   <categories></categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/10/saturday-sketch-work-wrestling</guid>
-  <pubDate>Fri, 10 Jun 2022 06:51:59 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:26 -0800</pubDate>
  </item>
  <item>
   <title>There’s a sriracha shortage and it’s expected to last through summer</title>
@@ -225,7 +225,7 @@
   <author>Max Knoblauch</author>
   <categories>Food</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/sriracha-shortage-last-through-summer?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Fri, 10 Jun 2022 00:02:05 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:26 -0800</pubDate>
  </item>
  <item>
   <title>Thailand becomes first Asian country to decriminalize medical, industrial marijuana</title>
@@ -234,7 +234,7 @@
   <author>Matty Merritt</author>
   <categories>International</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/thailand-first-asian-country-decriminalize-medical-industrial-marijuana?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Fri, 10 Jun 2022 00:02:04 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:25 -0800</pubDate>
  </item>
  <item>
   <title>Gas prices hit $5 per gallon nationally, GasBuddy says</title>
@@ -243,7 +243,7 @@
   <author>Neal Freyman</author>
   <categories>Energy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/09/gas-prices-hit-usd5-per-gallon-nationally-gasbuddy-says?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Fri, 10 Jun 2022 00:02:04 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:25 -0800</pubDate>
  </item>
  <item>
   <title>Gas prices hit $5 per gallon nationally, GasBuddy says</title>
@@ -252,7 +252,7 @@
   <author>Neal Freyman</author>
   <categories>Energy</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/09/gas-prices-hit-usd5-per-gallon-nationally-gasbuddy-says</guid>
-  <pubDate>Thu, 09 Jun 2022 15:17:05 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:23 -0800</pubDate>
  </item>
  <item>
   <title>Thailand becomes first Asian country to decriminalize medical, industrial marijuana</title>
@@ -261,7 +261,7 @@
   <author>Matty Merritt</author>
   <categories>International</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/thailand-first-asian-country-decriminalize-medical-industrial-marijuana</guid>
-  <pubDate>Thu, 09 Jun 2022 15:17:04 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:21 -0800</pubDate>
  </item>
  <item>
   <title>There’s a sriracha shortage and it’s expected to last through summer</title>
@@ -270,7 +270,7 @@
   <author>Max Knoblauch</author>
   <categories>Food</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/sriracha-shortage-last-through-summer</guid>
-  <pubDate>Thu, 09 Jun 2022 15:02:05 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:20 -0800</pubDate>
  </item>
  <item>
   <title>Shrinkflation is on the rise worldwide</title>
@@ -279,7 +279,7 @@
   <author>Max Knoblauch</author>
   <categories>Retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/shrinkflation-on-the-rise-worldwide?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 09 Jun 2022 00:02:01 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:20 -0800</pubDate>
  </item>
  <item>
   <title>SEC Chair Gary Gensler proposes new stock trading rules</title>
@@ -288,7 +288,7 @@
   <author>Jamie Wilde</author>
   <categories>Stocks</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/sec-chair-gary-gensler-proposes-new-stock-trading-rules?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 09 Jun 2022 00:02:01 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:19 -0800</pubDate>
  </item>
  <item>
   <title>LIV Golf league tees off in formidable challenge to PGA Tour</title>
@@ -297,7 +297,7 @@
   <author>Neal Freyman</author>
   <categories>Sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/08/liv-golf-league-tees-off-in-formidable-challenge-to-pga-tour?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Thu, 09 Jun 2022 00:02:00 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:18 -0800</pubDate>
  </item>
  <item>
   <title>SEC Chair Gary Gensler proposes new stock trading rules</title>
@@ -306,7 +306,7 @@
   <author>Jamie Wilde</author>
   <categories>Stocks</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/sec-chair-gary-gensler-proposes-new-stock-trading-rules</guid>
-  <pubDate>Wed, 08 Jun 2022 15:37:06 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:16 -0800</pubDate>
  </item>
  <item>
   <title>Shrinkflation is on the rise worldwide</title>
@@ -315,7 +315,7 @@
   <author>Max Knoblauch</author>
   <categories>Retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/shrinkflation-on-the-rise-worldwide</guid>
-  <pubDate>Wed, 08 Jun 2022 14:52:01 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:16 -0800</pubDate>
  </item>
  <item>
   <title>LIV Golf league tees off in formidable challenge to PGA Tour</title>
@@ -324,7 +324,7 @@
   <author>Neal Freyman</author>
   <categories>Sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/08/liv-golf-league-tees-off-in-formidable-challenge-to-pga-tour</guid>
-  <pubDate>Wed, 08 Jun 2022 14:37:02 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:15 -0800</pubDate>
  </item>
  <item>
   <title>Taco Bell opens futuristic new location in Minnesota</title>
@@ -333,7 +333,7 @@
   <author>Jamie Wilde</author>
   <categories>QSR</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/taco-bell-opens-futuristic-new-location-in-minnesota?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Wed, 08 Jun 2022 01:50:02 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:13 -0800</pubDate>
  </item>
  <item>
   <title>California court rules bees are legally fish again</title>
@@ -342,7 +342,7 @@
   <author>Matty Merritt</author>
   <categories>Environment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/california-court-rules-bees-are-legally-fish-again?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Wed, 08 Jun 2022 01:50:01 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:13 -0800</pubDate>
  </item>
  <item>
   <title>Target takes action to reduce massive inventory glut</title>
@@ -351,7 +351,7 @@
   <author>Neal Freyman</author>
   <categories>Retail</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2022/06/07/target-takes-action-to-reduce-massive-inventory-glut?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew&amp;mid={{md5(profile.email)}}</guid>
-  <pubDate>Wed, 08 Jun 2022 01:50:01 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:13 -0800</pubDate>
  </item>
  <item>
   <title>Taco Bell opens futuristic new location in Minnesota</title>
@@ -360,7 +360,7 @@
   <author>Jamie Wilde</author>
   <categories>QSR</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/taco-bell-opens-futuristic-new-location-in-minnesota</guid>
-  <pubDate>Tue, 07 Jun 2022 15:11:46 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:11 -0800</pubDate>
  </item>
  <item>
   <title>California court rules bees are legally fish again</title>
@@ -369,7 +369,7 @@
   <author>Matty Merritt</author>
   <categories>Environment</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/california-court-rules-bees-are-legally-fish-again</guid>
-  <pubDate>Tue, 07 Jun 2022 15:11:45 -0700</pubDate>
+  <pubDate>Thu, 23 Feb 2023 15:26:10 -0800</pubDate>
  </item>
 
 </channel>
