@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/03/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/03/02/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/03/05/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/03/05/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/03/02</link>
- <lastBuildDate>Thu, 02 Mar 2023 11:35:13 -0800</lastBuildDate>
- <pubDate>Thu, 02 Mar 2023 11:35:13 -0800</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/03/05</link>
+ <lastBuildDate>Sun, 05 Mar 2023 19:03:59 -0800</lastBuildDate>
+ <pubDate>Sun, 05 Mar 2023 19:03:59 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Gov’t cash for chipmakers comes with contentious strings attached</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/cb9566448aff6a2a8e900bbe26bdf5e7155256c4-6016x4016.jpg?rect=0,2,6016,4011&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The Biden administration appears to be using the CHIPS and Science Act to kill an entire flock of birds with one stone. One policy think tank called the childcare requirement “a pragmatic move” since it’ll help companies recruit women amid a shortage of affordable childcare. He warns that the Biden administration infusing the program with social goals will raise costs for chip manufacturers. A spokesperson for the Commerce Department told Morning Brew that workforce considerations are just one part of the holistic process for doling out funding, which gives “most weight” in an application to “national and economic security.” The law aims to spur semiconductor manufacturing in the US, but its $39 billion subsidy program, which the Commerce Department presented this week, puts strict conditions on companies looking to access the funds. The Commerce Department will take companies’ willingness to refrain from stock buybacks into account, and some recipients of federal cash will have to share windfall profits with the government. The WSJ’s Chief Economics Commentator Greg Ip called the requirements “mission creep” and argued that they might undercut the competitiveness of the US chips subsidies, noting that Canada, the EU, and Japan are also offering cash to lure in chipmakers. —SK Chips vs. The Commerce Department says the rules will help create the “large, skilled, and diverse workforce” that companies need to churn out chips. childcare: what critics are sayingCritics have dubbed the Biden Administration’s implementation of the CHIPS Act “industrial social policy,” contending that it’s a Trojan horse for progressive measures unrelated to the main purpose of the program: making the US into a major chip producer.</description>
+  <link>https://links.morningbrew.com/c/3aj?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Sam Klebanov</author>
+  <categories>Government</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/3aj?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sun, 05 Mar 2023 19:01:58 -0800</pubDate>
+ </item>
+ <item>
+  <title>Brew Classifieds: Week of February 27</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3e37b6a7a51f7ff299b63367b250872326ac26d9-1500x375.png?rect=469,0,563,375&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. On eBay, a single box is selling for as much as $79.99. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. —MM SOMETHING BLUE: The US marriage rate has fallen nearly 60% in the last 50 years as people have delayed the storied tradition of their uncle getting blackout drunk near their friends, or skipped it altogether.</description>
+  <link>https://links.morningbrew.com/c/3a3?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>Business News</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/3a3?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sun, 05 Mar 2023 19:01:57 -0800</pubDate>
+ </item>
+ <item>
+  <title>Eli Lilly finally gives in to insulin price-cut pressure</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d98f254a0a119b064648e1e0b58f19e3a3452ac7-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeSome diabetic Americans will soon be able to spend less than their monthly internet bill to pick up life-saving medicine. It also said it would cap insulin costs at $35/month when people pay out-of-pocket for the drug. Insulin-makers like Eli Lilly have received growing social and political pressure over the last few years to make insulin more affordable. Drugmaker Eli Lilly said yesterday it would slash the list prices for its two most prescribed insulin products, Humalog and Humulin, by 70%. If you’re feeling a little déjà vu…you’re probably thinking of the viral tweet from November written by Sean Morrow, who paid $8 for a blue checkmark in order to impersonate Eli Lilly and announce that “insulin is free now.” —MM css-1dlcpt7[data-readonly]{box-shadow:none! Lilly is getting ahead of DC dramaThe Inflation Reduction Act included a $35 monthly insulin price cap for seniors on Medicare, and in his State of the Union address last month, President Biden called for expanding that cap to everyone.</description>
+  <link>https://www.morningbrew.com/daily/stories/eli-lilly-gives-into-insulin-price-cut-pressure</link>
+  <author>Matty Merritt</author>
+  <categories>Healthcare</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/eli-lilly-gives-into-insulin-price-cut-pressure</guid>
+  <pubDate>Sun, 05 Mar 2023 19:01:55 -0800</pubDate>
+ </item>
+ <item>
+  <title>Whiskey fungus is out of control around Jack Daniel’s barrelhouses in Tennessee</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/b930a149eae0818f6bcd76ef840669640bf2abea-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. An out-of-control, soot-like whiskey fungus is spreading in Tennessee and causing a rift between residents and famed whiskey-maker Jack Daniel’s. —MK css-1dlcpt7[data-readonly]{box-shadow:none! Residents are asking for Jack Daniel’s to fund an environmental study to see if the vapors or fungus harm humans, and install an air filtration system to slow their spread.</description>
+  <link>https://www.morningbrew.com/daily/stories/whiskey-fungus-jack-daniels-tennessee</link>
+  <author>Max Knoblauch</author>
+  <categories>Food &amp; Bev</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/whiskey-fungus-jack-daniels-tennessee</guid>
+  <pubDate>Sun, 05 Mar 2023 19:01:54 -0800</pubDate>
+ </item>
+ <item>
+  <title>Californians recover from almost-record snowfall as another storm heads their way</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/2b7684a72c31bbf6ec14a32e36657604c8effa45-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Big picture: California’s wet and wild winter has freed up half of the state from drought, according to data from the US Drought Monitor. Mountain High in Southern California averages 67 inches of snowfall every season.</description>
+  <link>https://www.morningbrew.com/daily/stories/californians-recover-from-snowfall</link>
+  <author>Matty Merritt</author>
+  <categories>Climate Change</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/californians-recover-from-snowfall</guid>
+  <pubDate>Sun, 05 Mar 2023 19:01:54 -0800</pubDate>
+ </item>
+ <item>
+  <title>Chinese apps face restrictions, but US consumers keep downloading</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/969d1c597d5d1e768a3b74836ca7a7f6747dbedc-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Experts can’t agree on whether Chinese apps are a threatAn exec at the think tank founded by former Google CEO Eric Schmidt wrote last month that all of these uber-popular Chinese apps, including the messenger WeChat and game apps from Tencent, “could pose similar challenges [to TikTok], particularly with respect to data harvesting, data exploitation, and—possibly—covert influence.” Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The top three free apps on Apple’s App Store yesterday were Temu, CapCut, and TikTok, while Google Play’s were Temu, TikTok, and Street Fighter: Duel—with Chinese fast-fashion company Shein chilling at No. 4. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIt’s no secret that the government considers TikTok a national security threat. —JW</description>
+  <link>https://www.morningbrew.com/daily/stories/2023/03/02/chinese-apps-face-restrictions</link>
+  <author>Jamie Wilde</author>
+  <categories>Tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/03/02/chinese-apps-face-restrictions</guid>
+  <pubDate>Sun, 05 Mar 2023 19:01:52 -0800</pubDate>
+ </item>
  <item>
   <title>BriAnna Garza can teach you how to shoot a basketball</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c56e3a650780c5acd72231b034b8aa56766eb33c-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Kyrie Irving is excellent at his free throws because he’s able to get into a kind of spiritual place. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. What’s the one thing amateur basketball players should work on in the gym to improve their shot? Last year I did a six-month study of watching every single catch-and-shoot in the NBA with 33,000 data points. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. The free throw is so strange because there’s no other shot in basketball like it. How do you coach free throws and how much is mental over technique? So no one shot is going to look exactly the same. If you’re gonna work on one thing, get that down. And there’s a reason Garza thinks deeply about basketball shots—she makes a living from doing it.</description>
@@ -316,60 +370,6 @@
   <categories>Covid</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/24/expanded-booster-shot-eligibility-at-odds-with-cdc-advisors</guid>
   <pubDate>Thu, 02 Mar 2023 11:31:11 -0800</pubDate>
- </item>
- <item>
-  <title>Two Hosts of ‘The View’ Tested Positive for Covid During Episode</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4e416d7296e7eb7d9dfc85b350b539f3a4fb9ebc-2852x1562.png?rect=255,0,2343,1562&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeDuring an episode of The View yesterday, host Sunny Hostin and guest host Ana Navarro were asked to leave the set after testing positive for Covid-19, just moments before VP Kamala Harris was supposed to walk on for an interview. —MM css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/24/two-hosts-of-the-view-tested-positive-for-covid-during-episode</link>
-  <author>Matty Merritt</author>
-  <categories>Entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/24/two-hosts-of-the-view-tested-positive-for-covid-during-episode</guid>
-  <pubDate>Thu, 02 Mar 2023 11:31:10 -0800</pubDate>
- </item>
- <item>
-  <title>China Outlaws All Crypto Transactions</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/9b05e550d0440a5278a5c05720b6f8b7febea0b8-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The order reiterated a pre-existing ban on overseas exchanges conducting transactions within China. But China’s crypto crackdown had several, well, cracks that yesterday’s statement sealed up:Chinese residents can no longer trade crypto on peer-to-peer platforms like WeChat Pay and AliPay (the Venmo and Zelle of China). Mining cryptocurrency is now completely illegal. Having an official digital currency will allow China to better monitor citizens’ economic activity, and enforce rules accordingly. —JW css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/24/china-outlaws-all-crypto-transactions</link>
-  <author>Jamie Wilde</author>
-  <categories>Crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/24/china-outlaws-all-crypto-transactions</guid>
-  <pubDate>Thu, 02 Mar 2023 11:31:09 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: September 25</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2021-11-10/image-03aad2a2dbb3a6efd77e0f6299f9cbcba98fcdd1-500x342-gif/ezgif.com-gif-maker(23).webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. They’ll still co-parent their 1-year-old son, X Æ A-Xii Musk. (Kyle Chayka) Tesla CEO Elon Musk said he and Canadian singer Grimes have broken up after three years together. Related: Why three CBD marketers pivoted to pot. 321,000 Americans now work in the industry, a 32% bump from last year, a new report estimates. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeStat: Turns out your college roommate was onto something—the US now has more legal cannabis workers than dentists, paramedics, or electrical engineers, according to the Washington Post.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/24/key-performance-indicators-september-25</link>
-  <author>Neal Freyman</author>
-  <categories>Work</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/24/key-performance-indicators-september-25</guid>
-  <pubDate>Thu, 02 Mar 2023 11:31:08 -0800</pubDate>
- </item>
- <item>
-  <title>Costco and Nike Air Their Supply Chain Dirty Laundry</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a4e4a16825961ec03c962b2a238951e01fc952c0-1200x800.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Some of the headwinds Costco faces include “port delays, container shortages, Covid disruptions, shortages of various components, raw materials and ingredients, labor cost pressures, and truck and driver shortages,” the company’s CFO Richard Galanti said, likely not in one breath. —NF</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/24/costco-and-nike-air-their-supply-chain-dirty-laundry</link>
-  <author>Neal Freyman</author>
-  <categories>Logistics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/24/costco-and-nike-air-their-supply-chain-dirty-laundry</guid>
-  <pubDate>Thu, 02 Mar 2023 11:31:08 -0800</pubDate>
- </item>
- <item>
-  <title>The Legend of the $1 Trillion Platinum Coin</title>
-  <description>&lt;img src='https://images.morningbrew.com/gif/2021-11-10/image-14cb7e0ab683e523ada0cd71fcb414cb308606c6-480x328-gif/ezgif.com-gif-maker(22).webp'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. As Bloomberg’s Joe Weisenthal explains, none of this would lead to inflation because it’s merely an “accounting trick”—not an influx of money into the economy. The $1 trillion platinum coin idea seems to pop up every time the US faces a debt ceiling crunch. But each time the $1 trillion coin is mentioned as a way of resolving debt ceiling problems, the people in charge dismiss it as a distraction from Congress doing its job. The solution: Yellen could have the Treasury mint a $1 trillion platinum coin, deposit it at the Fed to “retire” loads of US federal debt, and then enable the government to carry on with business as usual without having to worry about defaulting on its existing debt. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeYou may have heard that a deadline to suspend the debt ceiling is rapidly approaching, and if lawmakers don’t do anything it could lead to “economic catastrophe,” in the words of Treasury Secretary Janet Yellen. “If we have a crisis over the debt ceiling, it will be only because the Treasury Department would rather see economic devastation than look silly for a couple of minutes,” he wrote.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/24/the-legend-of-the-usd1-trillion-platinum-coin</link>
-  <author>Neal Freyman</author>
-  <categories>Government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/24/the-legend-of-the-usd1-trillion-platinum-coin</guid>
-  <pubDate>Thu, 02 Mar 2023 11:31:07 -0800</pubDate>
- </item>
- <item>
-  <title>Make It Work: Is My Boss Clueless or Just a Jerk?</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7b6de1bb891bb0dd9e289abb0a591582a5da30e6-1503x603.png?rect=299,0,905,603&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. My boss never inquired ahead of time nor said anything afterward about my not being able to attend. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Be one of the first subscribers to our upcoming newsletter on all things human resources. I was the only one in my relatively small department who could not go. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. When the next company outing rolls around, initiate a chat with your boss about any conflicting work on your team’s plate.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/24/make-it-work-is-my-boss-clueless-or-just-a-jerk</link>
-  <author>Shane Loughnane</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/24/make-it-work-is-my-boss-clueless-or-just-a-jerk</guid>
-  <pubDate>Thu, 02 Mar 2023 11:31:05 -0800</pubDate>
  </item>
 
 </channel>
