@@ -8,9 +8,36 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2023/03/07</link>
- <lastBuildDate>Tue, 07 Mar 2023 07:38:55 -0800</lastBuildDate>
- <pubDate>Tue, 07 Mar 2023 07:38:55 -0800</pubDate>
+ <lastBuildDate>Tue, 07 Mar 2023 23:03:53 -0800</lastBuildDate>
+ <pubDate>Tue, 07 Mar 2023 23:03:53 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Study finds a popular sugar substitute might be bad for your heart</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a9bcfe78c5463f288d6ffa7fe9618b1734ec4697-720x480.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In the meantime, one of the study’s authors, Dr. Stanley Hazen, is telling his patients to skip the sweetener and opt for a couple of drops of honey or a pinch of sugar instead. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeA recent study published in Nature Medicine found that the sugar alternative erythritol is associated with an increased risk of heart issues and strokes. —SK It’s also unclear how worried folks without medical conditions should be, as the study mostly followed a population already prone to heart disease (due to conditions like diabetes or high blood pressure). While erythritol is linked to health issues, it does not necessarily cause them. Erythritol was also tied to an increased risk of blood clots in mice and human blood samples. Scientists explored the link between levels of different chemicals in the blood and the risk of heart disease. What did the study find?</description>
+  <link>https://links.morningbrew.com/c/3lh?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Sam Klebanov</author>
+  <categories>Health</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/3lh?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Tue, 07 Mar 2023 23:01:52 -0800</pubDate>
+ </item>
+ <item>
+  <title>Slack is introducing AI assistant that can write messages for you</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-03-07%2Fimage-09d1118f6fd362a387d4205c91c59b6f62f0d598-480x270-gif%2Frobot.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
+  <link>https://links.morningbrew.com/c/3lc?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>AI</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/3lc?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Tue, 07 Mar 2023 23:01:51 -0800</pubDate>
+ </item>
+ <item>
+  <title>The DOJ is aiming to split up JetBlue’s Spirit takeover</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/76558150ae074ccc053e7cfec2c0826fd3aacdb7-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. And, according to the DOJ, Spirit getting scooped up would eliminate about half of all ultra-low-cost seats in the industry, sending ticket prices (which are already skyrocketing) up even further. Zoom out: The last big merger in the airline industry happened in 2016 when Alaska Airlines acquired Virgin America. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe Biden administration is continuing its full-court press against airline consolidation. According to airlines. —MK css-1dlcpt7[data-readonly]{box-shadow:none! According to internal company documents that the DOJ cites in its complaint, when Spirit starts flying a given route, average fares fall by 17%. JetBlue has claimed that by increasing its size with the purchase of Spirit, it could better compete with the “big four” airlines: United, Delta, American, and Southwest. org, there have been 21 completed US airline mergers since 2001.</description>
+  <link>https://links.morningbrew.com/c/3l4?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Max Knoblauch</author>
+  <categories>Travel</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/3l4?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Tue, 07 Mar 2023 23:01:50 -0800</pubDate>
+ </item>
  <item>
   <title>Municipalities across the US are naming their snowplows</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/b05d5b80ba70653f7f60c76a6d2452d1689919e3-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. All 240 plows operated by Transport Scotland now have names. Madison isn’t the only city with named plows. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeA storm drain? —MK Where’d this come from? css-1dlcpt7[data-readonly]{box-shadow:none! The idea of naming municipal equipment seems to have been spawned in Scotland, where a 2006 primary school contest to name gritters (snowplows) caught on in a big way. But a storm drain officially named Stormy Drainels?</description>
@@ -343,33 +370,6 @@
   <categories>Tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/28/key-performance-indicators-september-29</guid>
   <pubDate>Thu, 02 Mar 2023 11:31:27 -0800</pubDate>
- </item>
- <item>
-  <title>What the Surging 10-Year Yield Is Trying to Tell Us</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/fd1a1849f77f19551e2c465f43c701fbef031d5c-6240x4160.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. )Tech companies were hit the hardestDespite all three major indexes tumbling yesterday, one was not like the rest. Quick note: Bond yields move inversely to prices, so yields increase when investors sell bonds. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/28/what-the-surging-10-year-yield-is-trying-to-tell-us</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/28/what-the-surging-10-year-yield-is-trying-to-tell-us</guid>
-  <pubDate>Thu, 02 Mar 2023 11:31:27 -0800</pubDate>
- </item>
- <item>
-  <title>Chinese Factories Go Offline as Power Crunch Bites</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c38043696b8e9b9066e3b28c3eda447940459ddb-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. As the UK confronts its own gas shortages, a widespread energy crunch in China has led to power cuts and forced a chunk of its muscular manufacturing sector offline. Beijing has instituted tougher emissions standards to curb the country’s coal use, which accounts for more than 70% of China’s electricity generation. —SQ What’s going on? css-1dlcpt7[data-readonly]{box-shadow:none! Why it matters: Add China’s electricity shortage to the laundry list of problems crimping the global supply chain, which is about to come under even more pressure ahead of the holiday shopping season. Goldman Sachs became the latest bank to cut China’s GDP forecast on account of the energy shortages.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/28/chinese-factories-go-offline-as-power-crunch-bites</link>
-  <author>Sherry Qin</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/28/chinese-factories-go-offline-as-power-crunch-bites</guid>
-  <pubDate>Thu, 02 Mar 2023 11:31:25 -0800</pubDate>
- </item>
- <item>
-  <title>MacArthur Fellow Joshua Miele Creates Technology for the Blind</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/60266b25cadfa78651e16c6baeaf251ab8ca7c82-1322x744.png?rect=103,0,1116,744&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In a nutshell, Miele creates accessible technology for blind people like himself. —JW css-1dlcpt7[data-readonly]{box-shadow:none! Here are some of the amazing projects Miele has led:Fire tablets that are Braille-compatible, and a “Show and Tell” feature on Echo devices that can identify different foods and pantry items“Tactile maps” for the Bay Area’s BART train—known for ferrying tech workers to and from San Francisco and the suburbs—that users can explore with their fingers and an audio smart pen“YouDescribe,” a platform that crowdsources audio descriptions for popular videos+ Read Miele’s backstory here, and learn more about the 24 other 2021 MacArthur fellows here.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/28/macarthur-fellow-joshua-miele-creates-technology-for-the-blind</link>
-  <author>Jamie Wilde</author>
-  <categories>Tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/28/macarthur-fellow-joshua-miele-creates-technology-for-the-blind</guid>
-  <pubDate>Thu, 02 Mar 2023 11:31:25 -0800</pubDate>
  </item>
 
 </channel>
