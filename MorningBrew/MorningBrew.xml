@@ -8,9 +8,45 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2023/04/01</link>
- <lastBuildDate>Sat, 01 Apr 2023 10:58:56 -0700</lastBuildDate>
- <pubDate>Sat, 01 Apr 2023 10:58:56 -0700</pubDate>
+ <lastBuildDate>Sat, 01 Apr 2023 11:03:56 -0700</lastBuildDate>
+ <pubDate>Sat, 01 Apr 2023 11:03:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Inside Jobs: Calligrapher Michelle Marquis</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d8fb48cc18130c86d97ae5ebabdc03d710202cb6-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. My right hand is one of my most important assets. The one thing that I’ve learned from the past couple years is that universally everyone loves to see their name written, especially if someone else took the time to write it. I keep it manicured, especially if I’m doing calligraphy in person. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. Do people ever not realize your work is calligraphy at first and think it’s just printed out? What’s one thing that someone who doesn’t do calligraphy professionally wouldn’t know? One of my first projects was a man who contacted me because he actually had lost some mobility in his arm, so he had a hard time writing. Calligraphy can look so perfect. So, especially with day-to-day phone and computer usage, I try to make sure that I take extra good care of my right hand. It’s really a case-by-case basis.</description>
+  <link>https://links.morningbrew.com/c/4Bp?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Jamie Wilde</author>
+  <categories>Career Building</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/4Bp?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sat, 01 Apr 2023 11:01:55 -0700</pubDate>
+ </item>
+ <item>
+  <title>Twitter said it will begin getting rid of verification for nonpaying users</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0c33aec0d7f8b9689725ad93f30b09a2da68d9eb-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. That should make for an interesting feed: One researcher found that roughly half of the 220,000 Twitter Blue subscribers have less than 1,000 followers. Today Twitter will start phasing out the verification badge for anyone unwilling to pay $8 a month for Twitter Blue.</description>
+  <link>https://links.morningbrew.com/c/4B0?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>Social Media</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/4B0?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sat, 01 Apr 2023 11:01:50 -0700</pubDate>
+ </item>
+ <item>
+  <title>Italy temporarily banned ChatGPT over AI concerns</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c78c857682e7f0429f68fb2fa8cc002132ba2250-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeYesterday, Italy’s data protection authority temporarily banned ChatGPT—and not because the AI chatbot may have told one user he could slather his pasta in Flamin’ Hot Cheetos salsa. AI chatbots *do* have a lot of data in their trunkThe ban stems from a recent accidental leak of user conversations with ChatGPT. The regulator is primarily concerned that ChatGPT collects and stores Italian users’ personal data without their permission. Determining what data out of that info glut belongs to Italian citizens if necessary would be…complicated. But things could get even thornier if the regulator also decides to delve into the other kind of data the system stores. Not only regulators are concerned about AI’s new-found popularity: More than 1,000 tech leaders and experts signed a controversial open letter this week calling for a six-month pause on sophisticated AI projects. AI systems like ChatGPT make huge sweeps of the internet and feed all that info into their underlying algorithms. —JW</description>
+  <link>https://links.morningbrew.com/c/4AU?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Jamie Wilde</author>
+  <categories>Tech</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/4AU?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sat, 01 Apr 2023 11:01:49 -0700</pubDate>
+ </item>
+ <item>
+  <title>If you invested in tech stocks last quarter, congrats</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-03-31%2Fimage-738aa440668676a8ab94d0194ed8a59c02060006-360x240-gif%2Fvolitile-markets-0323_360.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Large banks are feeling the pinch of rising interest rates: Global merger and acquisition deals suffered the biggest first-quarter decline since 2001, according to data analyzed by the Financial Times. The S&amp;P 500 gained 7%, and the Dow Jones Industrial Average gained 0.4%. Smaller institutions were most badly injured by the bank panic: The SPRD S&amp;P Regional Banking ETF, which consists of non-behemoth banks, had more than a quarter of its value wiped out in Q1. Top of the classWall Street rewarded tech companies’ layoffs and other cost cutting measures, giving tech stocks a resurgence. —SK</description>
+  <link>https://links.morningbrew.com/c/4AO?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Sam Klebanov</author>
+  <categories>Finance</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/4AO?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sat, 01 Apr 2023 11:01:49 -0700</pubDate>
+ </item>
  <item>
   <title>Plot twist in Disney–DeSantis brawl</title>
   <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-03-30%2Fimage-7eb0bcac2c7f6cac28157b11b92b039ed1277ef5-435x290-gif%2Fdisney-via-giphy-0323.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Bewildered board members only learned about these agreements this week, and one said they planned to “correct” Disney’s behind-the-scenes sleight of hand. When the board was still Disney-controlled, it entered into restrictive covenants for the land that:Bar the new board from using the Disney name or any of the company’s IP, including Mickey Mouse. For 55 years, the state allowed Disney to make its own rules for developing the land where its theme parks sit. The company quietly entered agreements that rendered the board Florida Gov. Ron DeSantis hand-picked to govern the special tax district surrounding Disney World nearly powerless. —AR Give Disney the right to review any proposed changes to properties in the district. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIt looks like Disney has added a new character to the Magic Kingdom: the troll. With the new board in place, it looked like DeSantis had won…until Disney pulled a Mulan-like switcheroo. But after the company criticized the so-called “Don’t Say Gay” bill, DeSantis installed his own board to run the district.</description>
@@ -334,42 +370,6 @@
   <categories>Government</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/30/government-shutdown-averted-but-big-battles-loom-for-biden-s-agenda</guid>
   <pubDate>Thu, 02 Mar 2023 11:31:42 -0800</pubDate>
- </item>
- <item>
-  <title>Key Performance Indicators: October 1</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/97b6349b04595fce95eeb67efb3535bc418fa868-6158x4107.jpg?rect=0,0,6158,4105&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. (Bloomberg Businessweek) Quote: "Will you commit to ending Finsta?” css-1dlcpt7[data-readonly]{box-shadow:none! css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeStat: Teens—they just aren’t vaping like they used to.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/30/key-performance-indicators-october-1</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/30/key-performance-indicators-october-1</guid>
-  <pubDate>Thu, 02 Mar 2023 11:31:40 -0800</pubDate>
- </item>
- <item>
-  <title>Blue Origin accused of running a sexist ship</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/29b4b2e449c9d18134236c54d220ef2a79e7ab84-1024x708.jpg?rect=0,12,1024,683&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}Subscribe21 current and former employees of Jeff Bezos’s space company, Blue Origin, published an open letter on Thursday describing it as a “toxic” workplace “rife with sexism.” Spearheaded by Blue Origin’s former head of employee communications, Alexandra Abrams, the letter alleges that the company is dismissive of safety concerns, creates a sexist environment for female employees, and stifles professional dissent. —MK css-1dlcpt7[data-readonly]{box-shadow:none! The behavior was so well known, the letter claims, that some women at the company would warn new female hires to stay away from the executive (who, according to the letter, had a close personal relationship with Jeff Bezos). They also wrote that another former male executive would inquire about female employees’ dating lives, referring to them as “baby doll” or “baby girl.”</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/30/blue-origin-employees-open-letter-toxic-workplace</link>
-  <author>Max Knoblauch</author>
-  <categories>Space</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/30/blue-origin-employees-open-letter-toxic-workplace</guid>
-  <pubDate>Thu, 02 Mar 2023 11:31:40 -0800</pubDate>
- </item>
- <item>
-  <title>What’s once a month and too damn high?</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/1b65e24aed339a364e5ab536ab87fb21fd152ab4-1920x1280.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Pour one out for renters in... The median national rent for a one-bedroom apartment is up 10.7% from March 2020, while two-bedrooms are up 13%, according to the Zumper National Rent Report. —MK Why the surge?</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/30/whats-once-a-month-and-too-damn-high</link>
-  <author>Max Knoblauch</author>
-  <categories>Real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/30/whats-once-a-month-and-too-damn-high</guid>
-  <pubDate>Thu, 02 Mar 2023 11:31:39 -0800</pubDate>
- </item>
- <item>
-  <title>The 7 Craziest Facts We Learned in the Third Quarter</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/ec4025ccdd0f28fe549126fa10978ba08aae27e4-1024x768.jpg?rect=63,98,899,599&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
-  <link>https://www.morningbrew.com/daily/stories/2021/09/29/the-7-craziest-facts-we-learned-in-the-third-quarter</link>
-  <author>Neal Freyman</author>
-  <categories></categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2021/09/29/the-7-craziest-facts-we-learned-in-the-third-quarter</guid>
-  <pubDate>Thu, 02 Mar 2023 11:31:38 -0800</pubDate>
  </item>
 
 </channel>
