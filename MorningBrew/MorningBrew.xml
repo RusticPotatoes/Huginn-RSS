@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/02/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/04/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/04/03/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/02</link>
- <lastBuildDate>Sun, 02 Apr 2023 00:03:51 -0700</lastBuildDate>
- <pubDate>Sun, 02 Apr 2023 00:03:51 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/04/03</link>
+ <lastBuildDate>Mon, 03 Apr 2023 00:03:38 -0700</lastBuildDate>
+ <pubDate>Mon, 03 Apr 2023 00:03:38 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Calls mount to bring home American journalist who was arrested in Russia</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/9bcef9d7c284e0bc0da6b9f376764af23fe76164-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Top editors at 38 news outlets (including the Wall Street Journal, where Gershkovich works) called for Gershkovich to be immediately released and accused Russia of “sending the message that journalism within your borders is criminalized.” css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeJust five months after the US brought home Brittney Griner from Russian detention, it’s facing another prisoner’s dilemma following the brazen arrest of American journalist Evan Gershkovich on espionage charges last week. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://links.morningbrew.com/c/4BM?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Neal Freyman</author>
+  <categories>International</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/4BM?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Mon, 03 Apr 2023 00:01:36 -0700</pubDate>
+ </item>
+ <item>
+  <title>UFC and WWE could be the ultimate tag team</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e835725bc8e098db5d11abb703463aa2ba7db3a9-1024x776.jpg?rect=0,46,1024,683&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. A deal would mean that three huge personalities in media—Endeavor CEO Ari Emanuel, UFC President Dana White, and WWE Executive Chairman Vince McMahon—will be working at the same company. The plan is to combine WWE and UFC into one publicly traded firm. ) was the second day of WrestleMania, WWE’s biggest event. Not even Erik Spoelstra could manage all that ego in one office. So, how would this all shake out?</description>
+  <link>https://links.morningbrew.com/c/4BB?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Neal Freyman</author>
+  <categories>Media</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/4BB?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Mon, 03 Apr 2023 00:01:35 -0700</pubDate>
+ </item>
  <item>
   <title>How does a VC decide to fund a healthcare startup?</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/57a4ac1ce1c3b3d08c6f34d94772b7cd71eaddbf-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. For us, even if we’re investing at the seed stage, we still want to be able to dream of how this company could become a huge standalone business. We tend to do analysis through a data room that our founder has put together. The biggest one for us is really just that we want to partner with teams that are trying to build big category-defining companies, and in some cases, that’s not really the desire of the founding team. But it’s a great way to get everyone on the investment team to put their thoughts and their vote down. How many startups do you consider at one time? We try to get back to everyone we hear from, whether it’s a cold email or a referral from someone in our network. Does the process of deciding to invest in a healthcare company look very different than if deciding to invest in a different industry? The first step is meeting a founder, whether it’s in person or virtual. The last step, and this is pretty typical, is a company coming in to present to the full investment team. If they’re raising a certain amount of money, we like to understand the use of proceeds. When you’re looking at a new company and deciding whether or not you would want to invest in it, what’s the first step you take? What’s the last step before you make a decision? It’s different for every company, but the steps we take and the way we think about it is really consistent from industry to industry. Grass walked us through how she decides whether or not to invest in a health startup. How do you evaluate if it’s the right people? And then we really like to understand the fundraise. Where’s that going? But in general, that’s the last step for us. Since 2017, Grass has worked as a venture capitalist in the health tech division of Greycroft, where she’s invested in startups like Boulder Care, Knox, and ScriptDrop. How can we help them think through the forecast and make sure that’s the right amount at the right time? How long on average would you say the process takes from the first cold email to a final decision? We’re trying to understand how big the opportunity size is. Is this the right team to build this company?</description>
@@ -352,24 +370,6 @@
   <categories>Social Media</categories>
   <guid isPermaLink="false">https://links.morningbrew.com/c/33P?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
   <pubDate>Thu, 02 Mar 2023 11:31:48 -0800</pubDate>
- </item>
- <item>
-  <title>Elon Musk unveils ‘master plan’ for Tesla</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e531e8e335457092568974a26d20c52b5b536d1d-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. ) of robots Tesla’s been building to do human labor eventually. Musk, who recently reclaimed the title of world’s richest person thanks to a $310 billion surge in Tesla stock, called it his “Master Plan 3” (with a straight face) and tried to sell investors on Tesla’s super-long-term goals.</description>
-  <link>https://links.morningbrew.com/c/33J?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Jamie Wilde</author>
-  <categories>Auto</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/33J?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Thu, 02 Mar 2023 11:31:47 -0800</pubDate>
- </item>
- <item>
-  <title>Eli Lilly finally gives in to insulin price-cut pressure</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d98f254a0a119b064648e1e0b58f19e3a3452ac7-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeSome diabetic Americans will soon be able to spend less than their monthly internet bill to pick up life-saving medicine. It also said it would cap insulin costs at $35/month when people pay out-of-pocket for the drug. Insulin-makers like Eli Lilly have received growing social and political pressure over the last few years to make insulin more affordable. Drugmaker Eli Lilly said yesterday it would slash the list prices for its two most prescribed insulin products, Humalog and Humulin, by 70%. If you’re feeling a little déjà vu…you’re probably thinking of the viral tweet from November written by Sean Morrow, who paid $8 for a blue checkmark in order to impersonate Eli Lilly and announce that “insulin is free now.” —MM css-1dlcpt7[data-readonly]{box-shadow:none! Lilly is getting ahead of DC dramaThe Inflation Reduction Act included a $35 monthly insulin price cap for seniors on Medicare, and in his State of the Union address last month, President Biden called for expanding that cap to everyone.</description>
-  <link>https://links.morningbrew.com/c/33B?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Matty Merritt</author>
-  <categories>Healthcare</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/33B?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Thu, 02 Mar 2023 11:31:46 -0800</pubDate>
  </item>
 
 </channel>
