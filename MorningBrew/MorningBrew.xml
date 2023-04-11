@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/03/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/04/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/04/10/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/03</link>
- <lastBuildDate>Mon, 03 Apr 2023 06:53:33 -0700</lastBuildDate>
- <pubDate>Mon, 03 Apr 2023 06:53:33 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/04/10</link>
+ <lastBuildDate>Mon, 10 Apr 2023 18:13:29 -0700</lastBuildDate>
+ <pubDate>Mon, 10 Apr 2023 18:13:29 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Can AI defame you?</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/69936949024d86edff4be127212a1727eac15c68-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. —AR For instance, ChatGPT recently invented a sexual harassment scandal involving George Washington University law professor Jonathan Turley (very much a real person, who was not amused)—and cited a nonexistent Washington Post article as evidence for its claims. css-1dlcpt7[data-readonly]{box-shadow:none! Under Australian law, the company has 28 days from receiving the letter to fix the issue, or Hood can take the company to court for defamation. Not only has he never been to prison, but Hood was the whistleblower who helped take down the actual guilty parties in that bribery scandal. Big picture: These episodes raise thorny questions about whether you can be defamed by someone who’s…not a person—and whether companies like OpenAI can be held accountable for the demonstrably false things their chatbots say.</description>
+  <link>https://www.morningbrew.com/daily/stories/2023/04/07/can-ai-defame-you</link>
+  <author>Abigail Rubenstein</author>
+  <categories>Tech</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/07/can-ai-defame-you</guid>
+  <pubDate>Mon, 10 Apr 2023 18:11:37 -0700</pubDate>
+ </item>
+ <item>
+  <title>Bitcoin’s white paper is secretly saved on Mac computers</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-04-07%2Fimage-3ee993e2b62bbd6dc41d2c49238d26e1e59392c2-1000x750-gif%2FSneakyWhitepaper_04072023.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It wouldn’t be the first time: The Pages app used to contain a secret text file of Apple’s “Here’s to the crazy ones” ad and the commencement speech Jobs gave at Stanford in 2005. Looking ahead…“a little bird” told Baio that Bitcoin’s white paper PDF will likely be deleted in a future Apple update. pdf” into the Terminal app on a Mac, and a PDF of Bitcoin’s white paper will pop up (it worked for us at least!</description>
+  <link>https://www.morningbrew.com/daily/stories/2023/04/07/bitcoin-white-paper-saved-on-mac</link>
+  <author>Jamie Wilde</author>
+  <categories>Crypto</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/07/bitcoin-white-paper-saved-on-mac</guid>
+  <pubDate>Mon, 10 Apr 2023 18:11:36 -0700</pubDate>
+ </item>
+ <item>
+  <title>Courts duel over access to abortion pill</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/81b047f3c38b1573b1abf13ad96d330de60a7808-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The first ruling suspended FDA approval of the drugIn Texas, Judge Matthew Kacsmaryk suspended FDA approval of mifepristone, the first part of a two drug regimen commonly used to terminate a pregnancy—a ruling with nationwide reach. Washington state enters the chatLess than an hour after the Texas judge suspended FDA approval for mifepristone, a federal judge in Washington, Thomas Rice, ruled that the the FDA…could not make the pill any less available. What you need to know: The Texas ruling will not take mifepristone off the market immediately; the judge gave the government seven days to appeal the decision. —NF css-1dlcpt7[data-readonly]{box-shadow:none! css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIn less than an hour yesterday evening, two federal district courts issued two contradictory rulings on the legal status of a key abortion pill, creating a high level of uncertainty around medication that is the most common method of abortion in the US. The status of the abortion pill, the subject of numerous legal challenges since Roe v. Siding partially with 17 Democratic-led states that wanted to increase access to the pill, the judge blocked the agency from changing access to the pill in the states that brought the lawsuit.</description>
+  <link>https://www.morningbrew.com/daily/stories/2023/04/07/courts-duel-over-access-to-abortion-pill</link>
+  <author>Neal Freyman</author>
+  <categories>Health</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/07/courts-duel-over-access-to-abortion-pill</guid>
+  <pubDate>Mon, 10 Apr 2023 18:11:36 -0700</pubDate>
+ </item>
+ <item>
+  <title>DOJ, Pentagon investigate massive leak of classified docs on social media</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-04-09%2Fimage-f92746c64ec7c9e543eae6f160512625e5eb0e56-480x316-gif%2Fgiphy(3).webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeNo one wants their secrets posted on social media. But at least in one case—an estimate of Russian casualties in the war in Ukraine—different versions that appear to have been modified have been posted. While the documents recently showed up on social media platforms like Telegram, Twitter, and 4chan, they appear to have been originally published on niche Discord servers in early March, according to the Bellingcat investigative consortium. Many of the documents do seem real, defense officials said. US defense officials and the DOJ spent their Easter weekend frantically investigating a massive leak of classified documents published on social media, many of which were considered “top secret.” —NF So, who leaked them? Are they authentic? What do the documents show? Still, the source of the leak remains a mystery—US officials told Reuters that the enormous scope of the documents suggests that someone in the US was behind it. This is where the story gets real weird.</description>
+  <link>https://www.morningbrew.com/daily/stories/2023/04/09/doj-pentagon-investigate-leak-classified-docs</link>
+  <author>Neal Freyman</author>
+  <categories>International Politics</categories>
+  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/09/doj-pentagon-investigate-leak-classified-docs</guid>
+  <pubDate>Mon, 10 Apr 2023 18:11:35 -0700</pubDate>
+ </item>
  <item>
   <title>Twitter said it will begin getting rid of verification for nonpaying users</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0c33aec0d7f8b9689725ad93f30b09a2da68d9eb-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. That should make for an interesting feed: One researcher found that roughly half of the 220,000 Twitter Blue subscribers have less than 1,000 followers. Today Twitter will start phasing out the verification badge for anyone unwilling to pay $8 a month for Twitter Blue.</description>
@@ -334,42 +370,6 @@
   <categories>Business News</categories>
   <guid isPermaLink="false">https://links.morningbrew.com/c/3cX?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
   <pubDate>Sun, 05 Mar 2023 22:01:52 -0800</pubDate>
- </item>
- <item>
-  <title>Gov’t cash for chipmakers comes with contentious strings attached</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/cb9566448aff6a2a8e900bbe26bdf5e7155256c4-6016x4016.jpg?rect=0,2,6016,4011&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The Biden administration appears to be using the CHIPS and Science Act to kill an entire flock of birds with one stone. One policy think tank called the childcare requirement “a pragmatic move” since it’ll help companies recruit women amid a shortage of affordable childcare. He warns that the Biden administration infusing the program with social goals will raise costs for chip manufacturers. A spokesperson for the Commerce Department told Morning Brew that workforce considerations are just one part of the holistic process for doling out funding, which gives “most weight” in an application to “national and economic security.” The law aims to spur semiconductor manufacturing in the US, but its $39 billion subsidy program, which the Commerce Department presented this week, puts strict conditions on companies looking to access the funds. The Commerce Department will take companies’ willingness to refrain from stock buybacks into account, and some recipients of federal cash will have to share windfall profits with the government. The WSJ’s Chief Economics Commentator Greg Ip called the requirements “mission creep” and argued that they might undercut the competitiveness of the US chips subsidies, noting that Canada, the EU, and Japan are also offering cash to lure in chipmakers. —SK Chips vs. The Commerce Department says the rules will help create the “large, skilled, and diverse workforce” that companies need to churn out chips. childcare: what critics are sayingCritics have dubbed the Biden Administration’s implementation of the CHIPS Act “industrial social policy,” contending that it’s a Trojan horse for progressive measures unrelated to the main purpose of the program: making the US into a major chip producer.</description>
-  <link>https://links.morningbrew.com/c/3aj?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Sam Klebanov</author>
-  <categories>Government</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/3aj?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Sun, 05 Mar 2023 19:01:58 -0800</pubDate>
- </item>
- <item>
-  <title>Brew Classifieds: Week of February 27</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3e37b6a7a51f7ff299b63367b250872326ac26d9-1500x375.png?rect=469,0,563,375&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. On eBay, a single box is selling for as much as $79.99. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. —MM SOMETHING BLUE: The US marriage rate has fallen nearly 60% in the last 50 years as people have delayed the storied tradition of their uncle getting blackout drunk near their friends, or skipped it altogether.</description>
-  <link>https://links.morningbrew.com/c/3a3?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Matty Merritt</author>
-  <categories>Business News</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/3a3?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Sun, 05 Mar 2023 19:01:57 -0800</pubDate>
- </item>
- <item>
-  <title>Eli Lilly finally gives in to insulin price-cut pressure</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d98f254a0a119b064648e1e0b58f19e3a3452ac7-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeSome diabetic Americans will soon be able to spend less than their monthly internet bill to pick up life-saving medicine. It also said it would cap insulin costs at $35/month when people pay out-of-pocket for the drug. Insulin-makers like Eli Lilly have received growing social and political pressure over the last few years to make insulin more affordable. Drugmaker Eli Lilly said yesterday it would slash the list prices for its two most prescribed insulin products, Humalog and Humulin, by 70%. If you’re feeling a little déjà vu…you’re probably thinking of the viral tweet from November written by Sean Morrow, who paid $8 for a blue checkmark in order to impersonate Eli Lilly and announce that “insulin is free now.” —MM css-1dlcpt7[data-readonly]{box-shadow:none! Lilly is getting ahead of DC dramaThe Inflation Reduction Act included a $35 monthly insulin price cap for seniors on Medicare, and in his State of the Union address last month, President Biden called for expanding that cap to everyone.</description>
-  <link>https://www.morningbrew.com/daily/stories/eli-lilly-gives-into-insulin-price-cut-pressure</link>
-  <author>Matty Merritt</author>
-  <categories>Healthcare</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/eli-lilly-gives-into-insulin-price-cut-pressure</guid>
-  <pubDate>Sun, 05 Mar 2023 19:01:55 -0800</pubDate>
- </item>
- <item>
-  <title>Whiskey fungus is out of control around Jack Daniel’s barrelhouses in Tennessee</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/b930a149eae0818f6bcd76ef840669640bf2abea-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. An out-of-control, soot-like whiskey fungus is spreading in Tennessee and causing a rift between residents and famed whiskey-maker Jack Daniel’s. —MK css-1dlcpt7[data-readonly]{box-shadow:none! Residents are asking for Jack Daniel’s to fund an environmental study to see if the vapors or fungus harm humans, and install an air filtration system to slow their spread.</description>
-  <link>https://www.morningbrew.com/daily/stories/whiskey-fungus-jack-daniels-tennessee</link>
-  <author>Max Knoblauch</author>
-  <categories>Food &amp; Bev</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/whiskey-fungus-jack-daniels-tennessee</guid>
-  <pubDate>Sun, 05 Mar 2023 19:01:54 -0800</pubDate>
  </item>
 
 </channel>
