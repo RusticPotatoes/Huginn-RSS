@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/10/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/10/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/04/11/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/04/11/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/10</link>
- <lastBuildDate>Mon, 10 Apr 2023 19:03:20 -0700</lastBuildDate>
- <pubDate>Mon, 10 Apr 2023 19:03:20 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/04/11</link>
+ <lastBuildDate>Tue, 11 Apr 2023 00:03:20 -0700</lastBuildDate>
+ <pubDate>Tue, 11 Apr 2023 00:03:20 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The party might be over for Tupperware</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/54765287df0c1d6d98e44d9c73c2ebbcb19f1a67-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. But, it’s unsure if it’ll be able to avoid bankruptcy. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Since it’s unlikely anyone born after 1970 wanted to attend these ragers, it’s been forced to work with retailers. —SK css-1dlcpt7[data-readonly]{box-shadow:none! Tupperware recently disclosed that it’s struggling to stay afloat and has hired advisors to help find a way to stay in business, causing its stock to nose-dive almost 50% yesterday.</description>
+  <link>https://links.morningbrew.com/c/4Yt?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Sam Klebanov</author>
+  <categories>Business News</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/4Yt?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Tue, 11 Apr 2023 00:01:27 -0700</pubDate>
+ </item>
+ <item>
+  <title>Wrexham get closer to promotion in dream win for Hollywood owners</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/9c2170fc78dcef5a8868620245d153b91e76a130-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Season 2 is in the works. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIn a high-stakes soccer match in Wales yesterday, Wrexham AFC defeated Notts County 3–2 to put them in the driver’s seat for promotion to the next tier of British soccer. The world’s third-oldest professional soccer club, Wrexham is owned by Deadpool star Ryan Reynolds and It’s Always Sunny in Philadelphia creator Rob McElhenney. —NF css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://links.morningbrew.com/c/4Yn?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Neal Freyman</author>
+  <categories>Sports</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/4Yn?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Tue, 11 Apr 2023 00:01:26 -0700</pubDate>
+ </item>
+ <item>
+  <title>Pharma execs say abortion pill ruling will hurt the industry</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7446f962bed92a865851fc40bf73d13d19ad5162-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. —JW, AR Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The letter shot back that mifepristone “has been proven by decades of data to be safer than Tylenol, nearly all antibiotics and insulin.” This is about more than mifepristoneThe letter states that if courts can revoke drug approvals “without regard for science or evidence, or for the complexity required to fully vet the safety and efficacy of new drugs, any medicine is at risk for the same outcome as mifepristone.” The government has also asked for clarification on how it can follow a contradictory court ruling, issued by a federal judge in Washington state soon after the Texas ruling came down, that barred the FDA from making mifepristone harder to get in 17 states. But the legal battle is far from over…the DOJ has filed an appeal of Judge Kacsmaryk’s ruling and asked the appeals court to put an emergency hold on the decision before it is slated to take effect this Friday. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribePharma industry bigwigs are not fans of a Texas federal judge’s ruling last week invalidating the FDA’s decades-old approval of the abortion medication mifepristone—essentially banning its sale nationwide.</description>
+  <link>https://links.morningbrew.com/c/4Yg?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Jamie Wilde</author>
+  <categories>Health</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/4Yg?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Tue, 11 Apr 2023 00:01:25 -0700</pubDate>
+ </item>
  <item>
   <title>Can AI defame you?</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/69936949024d86edff4be127212a1727eac15c68-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. —AR For instance, ChatGPT recently invented a sexual harassment scandal involving George Washington University law professor Jonathan Turley (very much a real person, who was not amused)—and cited a nonexistent Washington Post article as evidence for its claims. css-1dlcpt7[data-readonly]{box-shadow:none! Under Australian law, the company has 28 days from receiving the letter to fix the issue, or Hood can take the company to court for defamation. Not only has he never been to prison, but Hood was the whistleblower who helped take down the actual guilty parties in that bribery scandal. Big picture: These episodes raise thorny questions about whether you can be defamed by someone who’s…not a person—and whether companies like OpenAI can be held accountable for the demonstrably false things their chatbots say.</description>
@@ -343,33 +370,6 @@
   <categories>Healthcare</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/walgreens-abortion-pill-states-legal-threat</guid>
   <pubDate>Mon, 06 Mar 2023 09:01:58 -0800</pubDate>
- </item>
- <item>
-  <title>Amazon hits pause on 2nd headquarters</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c9e0a78ce05910fbb75d2145a52ef30bbd6c215d-720x480.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. And it’s just one of the many ominous signs for the commercial real estate market since people no longer go into the office every workday. The company has put an indefinite hold on breaking ground for the swanky office park known as PenPlace, which would encompass three 22-story towers and a sleek helix-shaped building. —SK The company is also reducing its physical footprint elsewhere. And headcount is unlikely to skyrocket any time soon: Amazon began laying off 18,000 employees in January (the steepest job cuts in its history). But for now, it’s not short on office space: Its employees still spend a lot of time working from home, even after a recent companywide mandate required them to return to the office three days a week. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeAmazon’s HQ2 is starting to look more like HQ1.5. Other Big Tech companies like Meta and Twitter have also slimmed down their real estate footprint to save money. Earlier this year, it vacated an office tower in its hometown, Seattle.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/03/03/amazon-hits-pause-on-2nd-headquarters</link>
-  <author>Sam Klebanov</author>
-  <categories>Business News</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/03/03/amazon-hits-pause-on-2nd-headquarters</guid>
-  <pubDate>Mon, 06 Mar 2023 09:01:58 -0800</pubDate>
- </item>
- <item>
-  <title>More companies are selling a ‘first-class’ experience</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2022-10-31%2Fimage-ccbce6eabc93dcadc3be194600aa319775afcc60-479x270-gif%2Fgiphy.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. A Le Creuset instead of a regular ol’ Dutch oven? Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. Big picture: The urge to focus on premium products could result in fewer options for lower-income Americans, who spend a greater share of their income on essentials like housing and food, the NYT notes.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/03/05/more-companies-are-selling-a-first-class-experience</link>
-  <author>Neal Freyman</author>
-  <categories>Business News</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/03/05/more-companies-are-selling-a-first-class-experience</guid>
-  <pubDate>Mon, 06 Mar 2023 09:01:57 -0800</pubDate>
- </item>
- <item>
-  <title>ChatGPT not a hit on college campuses...yet</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/77ffa803aec547c3fa9c8a9ab224615119379196-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. And while overall ChatGPT adoption is low on college campuses, it has gained power users. 56% of respondents who haven’t used ChatGPT said the primary reason why is that they’ve not had a use for it. 25% of the students who’ve used ChatGPT have it bookmarked on their web browser. And the students who said they do fire up ChatGPT…don’t use it all that much, as 55% of respondents who said they’ve used ChatGPT do so “almost never.” Uses for ChatGPTAmong the students who do use ChatGPT…what are they using it for? For giggles: 71% of students who’ve used ChatGPT said they use it in part for entertainment or just for fun. 17% of students who’ve heard of ChatGPT said they have direct knowledge of friends using ChatGPT to cheat. Of course, ChatGPT was released just a few months ago—so in a sense it is also quite remarkable that 60% of college students have heard of it. In our poll, the majority said no, but it’s still notable that 20% of students who’ve heard of ChatGPT said the chatbot has influenced their career thinking. As Google: 32% of students who’ve used ChatGPT said they use it in part for quick answers to simple questions, and 31% to understand complex topics. So, why aren’t college students using ChatGPT? For…cheating? css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/03/05/chatgpt-not-a-hit-on-college-campuses-yet</link>
-  <author>Neal Freyman</author>
-  <categories>Tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/03/05/chatgpt-not-a-hit-on-college-campuses-yet</guid>
-  <pubDate>Mon, 06 Mar 2023 09:01:55 -0800</pubDate>
  </item>
 
 </channel>
