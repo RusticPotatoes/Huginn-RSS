@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/11/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/11/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/04/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/04/12/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/11</link>
- <lastBuildDate>Tue, 11 Apr 2023 06:48:55 -0700</lastBuildDate>
- <pubDate>Tue, 11 Apr 2023 06:48:55 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/04/12</link>
+ <lastBuildDate>Wed, 12 Apr 2023 01:32:58 -0700</lastBuildDate>
+ <pubDate>Wed, 12 Apr 2023 01:32:58 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The state of Chicago public transportation</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4a5063b100bc9a74bcbf219bf1576fa32b2983eb-3000x2000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Johnson has promised to reduce or get rid of fares for certain types of riders and expand funding for the CTA. Take Chicago: The Chicago Transit Authority (CTA) reported that last year’s weekday train and bus ridership hit only 53% of 2019 levels. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}Subscribe“There’s a divide between the people who are using the CTA on a day-to-day basis and people who are at that leadership level in the city. Three years after the start of the pandemic, American cities have a surprisingly difficult task: getting people back on public transport.</description>
+  <link>https://links.morningbrew.com/c/51d?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>Transportation</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/51d?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Wed, 12 Apr 2023 01:30:57 -0700</pubDate>
+ </item>
+ <item>
+  <title>Most expensive license plate sold for $15m at Dubai auction</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f3c06278c4395cf60d423dbce20f8ef60ec27f2f-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Sometimes, you need to spend the most money on one of the smallest pieces of the car: the license plate. A vanity plate with the letter-number combo “P7” sold for $15 million at a charity auction in Dubai last weekend, making it the most expensive license plate in the world. The plate was part of the “Most Noble Numbers” auction and was likely popular because it looks like it just has a “7” on it. —MM</description>
+  <link>https://links.morningbrew.com/c/50A?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>Auto</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/50A?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Wed, 12 Apr 2023 01:30:54 -0700</pubDate>
+ </item>
+ <item>
+  <title>Substack’s Twitter-like feature goes live</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/2ef6a013eb4e200a41755128ddd96c8003f747af-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. , a holding firm founded by Musk, and has stopped being an independent company. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It has merged with X Corp. Substack’s execs say Notes isn’t intended to rival Twitter—which is true in the sense that Twitter “no longer exists,” according to a recent court filing. Substack is touting its subscription-based business model as the biggest selling point: It hopes this will prevent Notes from becoming a gladiator ring for toxic dung-hurling, which can happen to platforms with ad-based revenue models that prioritize content virality.</description>
+  <link>https://links.morningbrew.com/c/517?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Sam Klebanov</author>
+  <categories>Social Media</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/517?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Wed, 12 Apr 2023 01:30:48 -0700</pubDate>
+ </item>
+ <item>
+  <title>Everyone you know is flying to Europe</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0e7e4301fd5c39930a2caa5a84906b174415ea93-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribePresident Biden flew to Belfast, Northern Ireland, yesterday on a trip that, conveniently for a business newsletter, perfectly captures travel trends right now. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. —NF css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://links.morningbrew.com/c/50_?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Neal Freyman</author>
+  <categories>Travel</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/50_?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Wed, 12 Apr 2023 01:30:47 -0700</pubDate>
+ </item>
  <item>
   <title>The party might be over for Tupperware</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/54765287df0c1d6d98e44d9c73c2ebbcb19f1a67-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. But, it’s unsure if it’ll be able to avoid bankruptcy. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Since it’s unlikely anyone born after 1970 wanted to attend these ragers, it’s been forced to work with retailers. —SK css-1dlcpt7[data-readonly]{box-shadow:none! Tupperware recently disclosed that it’s struggling to stay afloat and has hired advisors to help find a way to stay in business, causing its stock to nose-dive almost 50% yesterday.</description>
@@ -334,42 +370,6 @@
   <categories>Travel</categories>
   <guid isPermaLink="false">https://links.morningbrew.com/c/3l4?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
   <pubDate>Tue, 07 Mar 2023 23:01:50 -0800</pubDate>
- </item>
- <item>
-  <title>Municipalities across the US are naming their snowplows</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/b05d5b80ba70653f7f60c76a6d2452d1689919e3-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. All 240 plows operated by Transport Scotland now have names. Madison isn’t the only city with named plows. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeA storm drain? —MK Where’d this come from? css-1dlcpt7[data-readonly]{box-shadow:none! The idea of naming municipal equipment seems to have been spawned in Scotland, where a 2006 primary school contest to name gritters (snowplows) caught on in a big way. But a storm drain officially named Stormy Drainels?</description>
-  <link>https://www.morningbrew.com/daily/stories/snowplow-name-contest</link>
-  <author>Max Knoblauch</author>
-  <categories>Government</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/snowplow-name-contest</guid>
-  <pubDate>Tue, 07 Mar 2023 07:36:54 -0800</pubDate>
- </item>
- <item>
-  <title>This company discovered a (disc) diamond in the rough</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/1525375b2d7712c264d1721d58053bf3a7b67200-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;They generally look to companies like Dymicron for these solutions so they can partner or acquire to distribute them. Learn more about investing in their disc replacements. The Triadyme®-C implant eliminates the primary long-term issue with traditional disc replacements: wear debris. So, how many carats are in each disc replacement? Using a tri-lobe design, this artificial disc is molded from human-made diamond that never wears out (💎 really are forever). The Triadyme®-C disc replacement shows powerful potential: It’s already available outside the US and on its way to FDA approval stateside. No other disc on the market can provide this combination of zero wear debris and the exceptional biomechanics that our innovative tri-lobe design offers. And that’s a diamond worth noticing. But beyond that, additional degeneration can develop if the motion of an artificial disc doesn’t closely align with a patient’s natural movement. Now we can generate a whole new fan base of people and bring on investors who can help us solve the problem of degenerative disc disease. How do Dymicron’s discs improve the patient experience? You can help Dymicron bring this solution to those in need. That’s the exciting part of what the SEC and Congress have done with the Jumpstart Our Business Startups Act. It created equity crowdfunding opportunities so we can raise capital through interested retail investors.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/03/02/dymicron-diamond-disc-replacement</link>
-  <author>Morning Brew</author>
-  <categories>Health Tech</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/03/02/dymicron-diamond-disc-replacement</guid>
-  <pubDate>Tue, 07 Mar 2023 07:36:54 -0800</pubDate>
- </item>
- <item>
-  <title>E-bike batteries are exploding, setting buildings on fire</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/33fd32b5c316a54b21717e3d864cf6d34bcb6097-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. The number of blazes has been rising in tandem with the number of e-bikes sold: The US imported over 1 million last year, a gear shift up from 880,000 in 2021 and 450,000 in 2020, according to the Light Electric Vehicle Association. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Lithium-ion batteries were the fourth leading cause of fire deaths in NYC last year, per the FDNY. It’s the latest in a string of fires started by the lithium-ion batteries in electric bikes and scooters. It’s about the batteries. There’s a solution in the worksThe New York City Council approved several bills last week that 1) add new safety and certification standards for micromobility vehicles 2) launch educational campaigns on safe usage and 3) restrict the use and sale of secondhand batteries. They’ve caused at least 30 fires, 40 injuries, and two deaths in NYC this year as of Feb. 27, according to the New York Fire Department. —JW The fires they cause are nightmarish: Lithium-ion battery fires can engulf a room in about 15 seconds, per the UL Fire Safety Research Institute. These batteries are safe unless they’re faulty or damaged, and e-bikes and e-scooters are subject to a lot of hard use hauling commuters and delivery workers up and over NYC’s bridges. The problem is especially evident in New York City, where on Sunday an e-bike battery sparked an hourslong blaze at a Bronx grocery store that injured seven.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/03/06/e-bike-batteries-are-exploding-fire</link>
-  <author>Jamie Wilde</author>
-  <categories>Transportation</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/03/06/e-bike-batteries-are-exploding-fire</guid>
-  <pubDate>Tue, 07 Mar 2023 07:36:53 -0800</pubDate>
- </item>
- <item>
-  <title>Municipalities across the US are naming their snowplows</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/b05d5b80ba70653f7f60c76a6d2452d1689919e3-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. All 240 plows operated by Transport Scotland now have names. Madison isn’t the only city with named plows. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeA storm drain? —MK Where’d this come from? css-1dlcpt7[data-readonly]{box-shadow:none! The idea of naming municipal equipment seems to have been spawned in Scotland, where a 2006 primary school contest to name gritters (snowplows) caught on in a big way. But a storm drain officially named Stormy Drainels?</description>
-  <link>https://links.morningbrew.com/c/3h6?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Government</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/3h6?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Mon, 06 Mar 2023 23:02:00 -0800</pubDate>
  </item>
 
 </channel>
