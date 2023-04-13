@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/12/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/12/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/04/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/04/13/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/12</link>
- <lastBuildDate>Wed, 12 Apr 2023 07:33:48 -0700</lastBuildDate>
- <pubDate>Wed, 12 Apr 2023 07:33:48 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/04/13</link>
+ <lastBuildDate>Thu, 13 Apr 2023 07:03:53 -0700</lastBuildDate>
+ <pubDate>Thu, 13 Apr 2023 07:03:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>MLB teams extend beer sales into 8th inning</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/875dc33a3afd2f757efa76b38b26eb95780ec96e-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Minor League Baseball teams used a pitch clock in 2022 and saw shorter game times but no drop in concession sales. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeBig news for America’s pastime: You can now buy beer in the eighth inning at select MLB games. —CC css-1dlcpt7[data-readonly]{box-shadow:none! Zoom out: Baseball’s popularity has declined significantly in recent years, and both making the game faster and extending alcohol sales are efforts to bring in new fans. Less time to enjoy a Bud Light Tall Boy. Rick Schlesinger, president of business operations for the Brewers, said extending the alcohol cutoff to the eighth inning reflects “the fact that the games are shorter.” Thanks to the implementation of the pitch clock, which regulates time between pitches, the average game time is down 31 minutes, according to the Associated Press. Historically, MLB teams cut off alcohol sales in the seventh inning, partly so people had more time to sober up before driving home after a game.</description>
+  <link>https://links.morningbrew.com/c/54_?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Cassandra Cassidy</author>
+  <categories>Sports</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/54_?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Thu, 13 Apr 2023 07:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>New rules aim to make the auto industry go electric</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/05561eb9172810a7e4f1d359c1ae7a93f3562351-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. To address climate change, the Biden administration proposed rules yesterday to remake the US auto industry into one much more focused on EVs.The Environmental Protection Agency’s proposals seek to spur the biggest changes to the sector since Henry Ford debuted the Model T. —AR How would the rules get rid of gas guzzlers? css-1dlcpt7[data-readonly]{box-shadow:none! And drivers aren’t necessarily on board: In a recent poll, 47% of Americans said they weren’t likely to pick an EV for their next car. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeElon Musk may have been a bit distracted lately from the goal of convincing you to make your next car an electric one, but someone else is picking up the slack: President Biden.</description>
+  <link>https://links.morningbrew.com/c/54W?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Abigail Rubenstein</author>
+  <categories>Auto</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/54W?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Thu, 13 Apr 2023 07:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>NPR is leaving Twitter after ‘state-affiliated media’ label debacle</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3d0239e58daa3d4050ea79203e4c84ef1623979b-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. One NPR reporter found that less than 2% of NPR’s website traffic comes from Twitter, which is pretty standard across the industry. And Twitter is not just losing NPR’s content stream: PBS also confirmed yesterday that it had stopped tweeting on April 8 after it too received a “government-funded” label on its main account and has no plans to log back in. Meanwhile, at HQ…based on a BBC interview with Musk on Tuesday, both he and the energy at Twitter seem a little chaotic (and not just because he joked that his dog was the company’s CEO).</description>
+  <link>https://links.morningbrew.com/c/54M?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>Social Media</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/54M?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Thu, 13 Apr 2023 07:02:00 -0700</pubDate>
+ </item>
  <item>
   <title>Most expensive license plate sold for $15m at Dubai auction</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f3c06278c4395cf60d423dbce20f8ef60ec27f2f-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Sometimes, you need to spend the most money on one of the smallest pieces of the car: the license plate. A vanity plate with the letter-number combo “P7” sold for $15 million at a charity auction in Dubai last weekend, making it the most expensive license plate in the world. The plate was part of the “Most Noble Numbers” auction and was likely popular because it looks like it just has a “7” on it. —MM</description>
@@ -343,33 +370,6 @@
   <categories>Government</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/03/30/trump-indicted-new-york-grand-jury</guid>
   <pubDate>Sat, 01 Apr 2023 10:57:04 -0700</pubDate>
- </item>
- <item>
-  <title>What’s it like to make music for Pikachu and friends?</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/251cf3e920c7e284acca77607b848a338374171d-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. In his early days pursuing music, Ed Goldfarb spent a good chunk of his life taking on side gigs—from playing organs in church to performing country tunes for famous NASCAR drivers in a luxury penthouse. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. ) It is not an exaggeration that I easily held 15 discrete musical jobs in the course of a given week between the ages of 18 and 33, easy. I’ve probably written 13 to 15 hours of music just for Pokémon in the last decade. With Pokémon, the way that anime scores are done is sort of weird. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. But these days, he spends most of his time in his Novato, California, home composing music for film and TV—including the Pokémon franchise. By the end of the first season, you have a library of music that, if you got food poisoning, your assistant could cut in some score. If it’s a new thing, I do exactly what you said: I watch the movie without music.</description>
-  <link>https://links.morningbrew.com/c/3oy?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Matty Merritt</author>
-  <categories>Entertainment</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/3oy?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Wed, 08 Mar 2023 23:01:45 -0800</pubDate>
- </item>
- <item>
-  <title>New study finds that money does, in fact, buy happiness</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-03-08%2Fimage-e196ef46c8ad308f4cea2e25fcb36510b6a326e7-253x169-gif%2FParamountPictures-0323.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Millionaires and billionaires might be even happier: The study’s authors didn’t have conclusive data for salaries beyond that range (those folks are probably too blissed out to take surveys). A new study found that happiness rises with income—even accelerating at levels beyond $100,000 per year up to $500,000 per year. —MK This new information upends an oft-cited 2010 study that found happiness plateaued near a salary of $75,000, or ~$103k today, after inflation. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeForget being rich in friendships, folks, it’s time to 10x that salary and start a side hustle dropshipping iPhone cases.</description>
-  <link>https://links.morningbrew.com/c/3o5?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Max Knoblauch</author>
-  <categories>Wealth</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/3o5?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Wed, 08 Mar 2023 23:01:39 -0800</pubDate>
- </item>
- <item>
-  <title>The bond market is flashing a recession warning light</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-03-08%2Fimage-a6e9607bc6004284240250934a1de60146cf7a91-1500x1000-gif%2F230308_RecessionIsComing.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Still, one big recession warning signal reared its head this week. A yield curve inversion has happened before every recession since the 1960s, so it’s definitely a more reliable prognosticator than your friend who has “a system” for their March Madness bracket. —AR When Jerome Powell told lawmakers Tuesday that recent strong economic data meant interest rates would likely climb higher than previously expected, it sent the markets into a tizzy, pushing the US Treasury yield curve to its deepest inversion since 1981. What does it have to do with a recession? It signifies that investors expect interest rates to rise in the near term but that those hikes will ultimately damage the economy, forcing rates back down over time. It’s considered an inversion whenever the short-term yield eclipses the long-term yield. And that means…the yield for 2-year Treasury bonds exceeded the yield for 10-year ones—by a lot.</description>
-  <link>https://links.morningbrew.com/c/3o0?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Abigail Rubenstein</author>
-  <categories>Economy</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/3o0?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Wed, 08 Mar 2023 23:01:39 -0800</pubDate>
  </item>
 
 </channel>
