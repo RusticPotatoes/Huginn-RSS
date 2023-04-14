@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/13/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/13/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/04/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/04/14/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/13</link>
- <lastBuildDate>Thu, 13 Apr 2023 08:08:48 -0700</lastBuildDate>
- <pubDate>Thu, 13 Apr 2023 08:08:48 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/04/14</link>
+ <lastBuildDate>Fri, 14 Apr 2023 00:03:53 -0700</lastBuildDate>
+ <pubDate>Fri, 14 Apr 2023 00:03:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Women are earning as much or more in half of marriages, but they are still doing more unpaid work</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3484d22c36833715047b8c9b800af2c70475da82-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Sixteen percent of wives in opposite-sex marriages are the sole or primary breadwinners in their home (“primary” meaning they make more than 60% of the household’s income). In marriages where both partners have the same income, women spend about four-and-a-half more hours per week on chores and caregiving than men. And when women become the house’s primary income earner, little really changes about how much time either partner spends on chores, Pew found. But in this scenario, men report almost five more hours of leisure time per week than men in egalitarian households. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeWomen earn as much as or more than their husbands in just under half of US opposite-sex marriages, a significant advancement for economic equality from past decades, according to a new Pew Research study. —MM css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://links.morningbrew.com/c/58-?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>Labor</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/58-?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Fri, 14 Apr 2023 00:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>Josh Harris to buy Washington Commanders for $6b</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f75f5b9fb42cec94617d1691d0e11e60b7533416-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeYesterday, Sportico reported that Washington Commanders owner Dan Snyder agreed to sell the team for $6 billion to a group led by Josh Harris, co-owner of the Philadelphia 76ers and the New Jersey Devils, along with billionaire Mitchell Rales and former Starbucks franchisee/NBA legend Magic Johnson. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Not to mention that last month they were named the worst NFL team to play for in an NFL Players Association survey on workplace conditions.</description>
+  <link>https://links.morningbrew.com/c/58V?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Cassandra Cassidy</author>
+  <categories>Sports</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/58V?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Fri, 14 Apr 2023 00:02:01 -0700</pubDate>
+ </item>
+ <item>
+  <title>Suspect in Pentagon leak arrested</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c95ae094c619b5f58b28a2c2355f727a24bd0615-1342x762.png?rect=100,0,1143,762&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The group’s ringleader was a user they called “OG,” who uploaded sensitive US government documents to keep his friends “in the loop” about world events, the member told the WaPo. The docs were never intended for widespread reading, but late in February, a teenage member of the group posted some of those docs to another Discord server affiliated with a famous Filipino YouTuber, and the cat was out of the bag—the secret documents eventually made their way to bigger platforms such as 4chan and Twitter for all to see. Almost 3 million people had access to classified documents as of 2019, according to the National Counterintelligence and Security Center.</description>
+  <link>https://links.morningbrew.com/c/58J?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Neal Freyman</author>
+  <categories>International Politics</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/58J?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Fri, 14 Apr 2023 00:02:00 -0700</pubDate>
+ </item>
  <item>
   <title>MLB teams extend beer sales into 8th inning</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/875dc33a3afd2f757efa76b38b26eb95780ec96e-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Minor League Baseball teams used a pitch clock in 2022 and saw shorter game times but no drop in concession sales. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeBig news for America’s pastime: You can now buy beer in the eighth inning at select MLB games. —CC css-1dlcpt7[data-readonly]{box-shadow:none! Zoom out: Baseball’s popularity has declined significantly in recent years, and both making the game faster and extending alcohol sales are efforts to bring in new fans. Less time to enjoy a Bud Light Tall Boy. Rick Schlesinger, president of business operations for the Brewers, said extending the alcohol cutoff to the eighth inning reflects “the fact that the games are shorter.” Thanks to the implementation of the pitch clock, which regulates time between pitches, the average game time is down 31 minutes, according to the Associated Press. Historically, MLB teams cut off alcohol sales in the seventh inning, partly so people had more time to sober up before driving home after a game.</description>
@@ -343,33 +370,6 @@
   <categories>Social Media</categories>
   <guid isPermaLink="false">https://links.morningbrew.com/c/4B0?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
   <pubDate>Sat, 01 Apr 2023 11:01:50 -0700</pubDate>
- </item>
- <item>
-  <title>Italy temporarily banned ChatGPT over AI concerns</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c78c857682e7f0429f68fb2fa8cc002132ba2250-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeYesterday, Italy’s data protection authority temporarily banned ChatGPT—and not because the AI chatbot may have told one user he could slather his pasta in Flamin’ Hot Cheetos salsa. AI chatbots *do* have a lot of data in their trunkThe ban stems from a recent accidental leak of user conversations with ChatGPT. The regulator is primarily concerned that ChatGPT collects and stores Italian users’ personal data without their permission. Determining what data out of that info glut belongs to Italian citizens if necessary would be…complicated. But things could get even thornier if the regulator also decides to delve into the other kind of data the system stores. Not only regulators are concerned about AI’s new-found popularity: More than 1,000 tech leaders and experts signed a controversial open letter this week calling for a six-month pause on sophisticated AI projects. AI systems like ChatGPT make huge sweeps of the internet and feed all that info into their underlying algorithms. —JW</description>
-  <link>https://links.morningbrew.com/c/4AU?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Jamie Wilde</author>
-  <categories>Tech</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/4AU?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Sat, 01 Apr 2023 11:01:49 -0700</pubDate>
- </item>
- <item>
-  <title>If you invested in tech stocks last quarter, congrats</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-03-31%2Fimage-738aa440668676a8ab94d0194ed8a59c02060006-360x240-gif%2Fvolitile-markets-0323_360.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Large banks are feeling the pinch of rising interest rates: Global merger and acquisition deals suffered the biggest first-quarter decline since 2001, according to data analyzed by the Financial Times. The S&amp;P 500 gained 7%, and the Dow Jones Industrial Average gained 0.4%. Smaller institutions were most badly injured by the bank panic: The SPRD S&amp;P Regional Banking ETF, which consists of non-behemoth banks, had more than a quarter of its value wiped out in Q1. Top of the classWall Street rewarded tech companies’ layoffs and other cost cutting measures, giving tech stocks a resurgence. —SK</description>
-  <link>https://links.morningbrew.com/c/4AO?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Sam Klebanov</author>
-  <categories>Finance</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/4AO?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Sat, 01 Apr 2023 11:01:49 -0700</pubDate>
- </item>
- <item>
-  <title>Plot twist in Disney–DeSantis brawl</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-03-30%2Fimage-7eb0bcac2c7f6cac28157b11b92b039ed1277ef5-435x290-gif%2Fdisney-via-giphy-0323.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Bewildered board members only learned about these agreements this week, and one said they planned to “correct” Disney’s behind-the-scenes sleight of hand. When the board was still Disney-controlled, it entered into restrictive covenants for the land that:Bar the new board from using the Disney name or any of the company’s IP, including Mickey Mouse. For 55 years, the state allowed Disney to make its own rules for developing the land where its theme parks sit. The company quietly entered agreements that rendered the board Florida Gov. Ron DeSantis hand-picked to govern the special tax district surrounding Disney World nearly powerless. —AR Give Disney the right to review any proposed changes to properties in the district. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIt looks like Disney has added a new character to the Magic Kingdom: the troll. With the new board in place, it looked like DeSantis had won…until Disney pulled a Mulan-like switcheroo. But after the company criticized the so-called “Don’t Say Gay” bill, DeSantis installed his own board to run the district.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/03/30/plot-twist-in-disney-desantis-brawl</link>
-  <author>Abigail Rubenstein</author>
-  <categories>Business News</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/03/30/plot-twist-in-disney-desantis-brawl</guid>
-  <pubDate>Sat, 01 Apr 2023 10:57:12 -0700</pubDate>
  </item>
 
 </channel>
