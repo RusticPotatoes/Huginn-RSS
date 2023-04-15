@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/14/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/14/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/04/15/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/04/15/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/14</link>
- <lastBuildDate>Fri, 14 Apr 2023 09:53:48 -0700</lastBuildDate>
- <pubDate>Fri, 14 Apr 2023 09:53:48 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/04/15</link>
+ <lastBuildDate>Sat, 15 Apr 2023 00:03:53 -0700</lastBuildDate>
+ <pubDate>Sat, 15 Apr 2023 00:03:53 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Japan bets on its first casino to increase tourism</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/790bbc0a269ab5eb625c29bc8deb1eb295c71686-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Japan had one of the world’s strictest border controls during the pandemic and only reopened in October 2022 after two-and-a-half years of isolation. In 2022, the number of tourists plummeted to 4 million, compared to 32 million in 2019. Japan’s tourism industry could use the help because, unlike the Japanese national baseball team, it’s been struggling lately.</description>
+  <link>https://links.morningbrew.com/c/5dx?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Cassandra Cassidy</author>
+  <categories>International</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5dx?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sat, 15 Apr 2023 00:01:53 -0700</pubDate>
+ </item>
+ <item>
+  <title>‘The Phantom Of The Opera’ ends its 35-year run on Broadway</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/1084f2c716115dbb993b10cdd92a067f805c23a6-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. —MM Why stop now? css-1dlcpt7[data-readonly]{box-shadow:none! And while it’s been raking in cash since audiences learned of its impending closure last fall, before the announcement the show was only bringing in about $1 million a week, barely enough to cover the $950,000 it costs to keep it running. Another fun fact: Only 16 actors have played the Phantom on Broadway. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe Phantom of the Opera, the longest-running show on Broadway and the musical with a title track most likely to clear out a karaoke bar, is officially closing this Sunday after a legendary 35-year run at the Majestic Theatre in New York. The powerhouse property has put on just under 14,000 shows.</description>
+  <link>https://links.morningbrew.com/c/5ds?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>Entertainment</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5ds?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sat, 15 Apr 2023 00:01:52 -0700</pubDate>
+ </item>
+ <item>
+  <title>Big banks are not in crisis</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-04-14%2Fimage-d725fc992d251e376c87fc126e17d34a68ff4533-355x237-gif%2FParamountPictures-0423.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Turns out the Fed rate hikes that spelled doom for smaller fries like Silicon Valley Bank and Signature Bank were a boon to the big potatoes since they could charge more for loans. —AR css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://links.morningbrew.com/c/5dk?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Abigail Rubenstein</author>
+  <categories>Finance</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5dk?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sat, 15 Apr 2023 00:01:51 -0700</pubDate>
+ </item>
  <item>
   <title>Josh Harris to buy Washington Commanders for $6b</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f75f5b9fb42cec94617d1691d0e11e60b7533416-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeYesterday, Sportico reported that Washington Commanders owner Dan Snyder agreed to sell the team for $6 billion to a group led by Josh Harris, co-owner of the Philadelphia 76ers and the New Jersey Devils, along with billionaire Mitchell Rales and former Starbucks franchisee/NBA legend Magic Johnson. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Not to mention that last month they were named the worst NFL team to play for in an NFL Players Association survey on workplace conditions.</description>
@@ -343,33 +370,6 @@
   <categories>International</categories>
   <guid isPermaLink="false">https://links.morningbrew.com/c/4BM?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
   <pubDate>Mon, 03 Apr 2023 00:01:36 -0700</pubDate>
- </item>
- <item>
-  <title>UFC and WWE could be the ultimate tag team</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e835725bc8e098db5d11abb703463aa2ba7db3a9-1024x776.jpg?rect=0,46,1024,683&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. A deal would mean that three huge personalities in media—Endeavor CEO Ari Emanuel, UFC President Dana White, and WWE Executive Chairman Vince McMahon—will be working at the same company. The plan is to combine WWE and UFC into one publicly traded firm. ) was the second day of WrestleMania, WWE’s biggest event. Not even Erik Spoelstra could manage all that ego in one office. So, how would this all shake out?</description>
-  <link>https://links.morningbrew.com/c/4BB?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Neal Freyman</author>
-  <categories>Media</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/4BB?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Mon, 03 Apr 2023 00:01:35 -0700</pubDate>
- </item>
- <item>
-  <title>How does a VC decide to fund a healthcare startup?</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/57a4ac1ce1c3b3d08c6f34d94772b7cd71eaddbf-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. For us, even if we’re investing at the seed stage, we still want to be able to dream of how this company could become a huge standalone business. We tend to do analysis through a data room that our founder has put together. The biggest one for us is really just that we want to partner with teams that are trying to build big category-defining companies, and in some cases, that’s not really the desire of the founding team. But it’s a great way to get everyone on the investment team to put their thoughts and their vote down. How many startups do you consider at one time? We try to get back to everyone we hear from, whether it’s a cold email or a referral from someone in our network. Does the process of deciding to invest in a healthcare company look very different than if deciding to invest in a different industry? The first step is meeting a founder, whether it’s in person or virtual. The last step, and this is pretty typical, is a company coming in to present to the full investment team. If they’re raising a certain amount of money, we like to understand the use of proceeds. When you’re looking at a new company and deciding whether or not you would want to invest in it, what’s the first step you take? What’s the last step before you make a decision? It’s different for every company, but the steps we take and the way we think about it is really consistent from industry to industry. Grass walked us through how she decides whether or not to invest in a health startup. How do you evaluate if it’s the right people? And then we really like to understand the fundraise. Where’s that going? But in general, that’s the last step for us. Since 2017, Grass has worked as a venture capitalist in the health tech division of Greycroft, where she’s invested in startups like Boulder Care, Knox, and ScriptDrop. How can we help them think through the forecast and make sure that’s the right amount at the right time? How long on average would you say the process takes from the first cold email to a final decision? We’re trying to understand how big the opportunity size is. Is this the right team to build this company?</description>
-  <link>https://links.morningbrew.com/c/4AK?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Maia Anderson</author>
-  <categories>Healthcare Economics</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/4AK?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Sun, 02 Apr 2023 00:02:07 -0700</pubDate>
- </item>
- <item>
-  <title>How ‘Tetris’ crossed the Iron Curtain and took over the world</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4d69c773ce1adb87a83c00eab39526c1a5fc6601-1024x689.jpg?rect=0,3,1024,683&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. While the movie does add some embellishments, the true story is pretty wild. Stein then shook on a deal with British media tycoon Robert Maxwell (the villain in the Tetris movie and Ghislaine Maxwell’s father in real life) to sell the game for PCs. Maxwell’s company, Mirrorsoft, prepared to distribute Tetris worldwide using exoticized Soviet-themed branding. The negotiations and their outcome resembled a game of legal Tetris:Rogers got the coveted handheld license allowing Nintendo to package Tetris with Game Boy.And Stein walked away oblivious that his new contract with Elorg was sneakily amended to exclude console rights. But there were L-shaped roadblocksWhen the USSR’s technology export authority, known as Elorg, got wind that the Soviet game would be sold internationally, they notified Stein that he never actually got the distribution rights because the Soviet government technically owned the intellectual property— not the game’s creator. The British entrepreneur Robert Stein discussed licensing Tetris for distribution on the other side of the Iron Curtain with Pajitnov and walked away convinced he had the rights. The film chronicles gaming dealmaker Henk Rogers’s trip to late-1980s Moscow to bring the game, created by Soviet programmer Alexey Pajitnov, to Nintendo Game Boy players worldwide. Mirrorsoft also sold the rights to develop the game for home gaming devices and coin-operated machines to Atari before officially securing them. He bought the PC rights for Japan, and gaming behemoth Nintendo became eager to license it for its forthcoming handheld device: Game Boy. So Rogers set out to make it happen, reportedly putting his life savings on the line. —SK css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://links.morningbrew.com/c/4yu?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Sam Klebanov</author>
-  <categories>Business Building</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/4yu?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Sun, 02 Apr 2023 00:01:57 -0700</pubDate>
  </item>
 
 </channel>
