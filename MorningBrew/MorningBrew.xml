@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/16/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/16/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/04/17/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/04/17/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/16</link>
- <lastBuildDate>Sun, 16 Apr 2023 04:04:06 -0700</lastBuildDate>
- <pubDate>Sun, 16 Apr 2023 04:04:06 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/04/17</link>
+ <lastBuildDate>Mon, 17 Apr 2023 00:03:56 -0700</lastBuildDate>
+ <pubDate>Mon, 17 Apr 2023 00:03:56 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>SpaceX attempts first orbital flight of Starship</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a088c2ead30171f918a0e33b30d6c9aca0db87e5-992x558.jpg?rect=78,0,837,558&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIn remote Texas this morning, SpaceX will attempt the first orbital launch of its towering Starship system, the reusable space vehicle CEO Elon Musk says will be the key that unlocks trips to the moon and Mars and eventually turns humanity into a “multi-planet species.” Previous Starship test runs have ended in fiery explosions, and Musk has put the odds of Starship getting to orbit this morning at 50%. css-1dlcpt7[data-readonly]{box-shadow:none! Everything about this launch pushes the limits of conventional space flight:Starship is made of stainless steel, which the space industry has typically shunned for its weight. Musk has acknowledged this flight might not go as planned. That could allow it to refuel on Mars, since the planet’s atmosphere contains trace amounts of the gas. Today at 8am ET, a two-and-a-half-hour launch window will open for Starship and the Super Heavy booster it’s mounted on.</description>
+  <link>https://links.morningbrew.com/c/5e2?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Neal Freyman</author>
+  <categories>Space</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5e2?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Mon, 17 Apr 2023 00:01:53 -0700</pubDate>
+ </item>
+ <item>
+  <title>Fox News v. Dominion trial delayed over reported settlement talks</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e158a2a37eabe46a41e8bea11cc1f46f1779676f-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Due to the precedent set in a 1964 Supreme Court case, Dominion has to demonstrate that Fox News acted with “actual malice” when reporting on it; in other words, that it recklessly disregarded the truth in its statements about Dominion. However, court documents have revealed that Fox News hosts privately admitted they did not believe the fraud claims they were making on air. Looking ahead…the judge presiding over this case has already ruled that it was “CRYSTAL clear” that Fox News’s statements about Dominion’s role in the 2020 election were false. What the case is aboutDominion Voting Systems, which makes electronic voting machines, has sued Fox News for defamation, accusing the network of knowingly pushing baseless claims about the company after the 2020 presidential election—including that it rigged vote counts to tilt the election in Joe Biden’s favor. The showdown between Fox News and Dominion was supposed to begin this morning, but last night the Delaware Superior Court delayed the start until tomorrow without providing a reason. css-1dlcpt7[data-readonly]{box-shadow:none! Fox News lawyers say the network is fully covered by its First Amendment rights—it was simply commenting on the election fraud claims made by former President Trump, which were newsworthy because he was the president of the US. While that’s not an insignificant amount of money, this case is being called the “Super Bowl” of libel cases for nonfinancial reasons: It could have lasting consequences for Fox News as well as the media industry’s First Amendment rights.</description>
+  <link>https://links.morningbrew.com/c/5dX?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Neal Freyman</author>
+  <categories>Media</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5dX?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Mon, 17 Apr 2023 00:01:53 -0700</pubDate>
+ </item>
  <item>
   <title>How AI can lower the costs of clinical trials</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/bfaed376e9e46b4c1dd6be5e731bb00b0b8775bd-7346x4900.jpg?rect=0,1,7346,4897&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. A reason a lot of healthy people choose to join Phase 1 clinical trials is the financial incentive, since you can make thousands of dollars from participating in a trial. AI can make it way easier to identify patients who meet the qualifications for a trial, mainly by sorting through massive troves of data that no human would be able to go through on their own, said Arun Bhatt, an independent clinical research and drug development consultant. One reason AI may not be used as much as it could is a lack of trust, Bhatt said. And therefore, I think clinical trials is one of the very, very last to come into this digital economy,” said Gallaher. We’re not here to weigh in on the likelihood of a future AI robot versus human apocalypse, but one thing we do know is that—when it comes to clinical trials—AI has the potential to do a lot of good. The median compensation for healthy volunteers in phase one clinical trials is $3,070, according to a 2021 study. Gallaher estimated that 10%-15% of trials use AI for recruitment. Opyl uses AI to identify potential trial participants via social media, Gallaher said. A lot of costs go into the recruitment phase. “Healthcare is one of the last industries to come to digital transformation. Opyl’s AI platform can identify that person as a potential participant for a clinical trial testing a new diabetes treatment. There are costs for marketing, so participants know there’s a trial to join. “Right now, the world can’t afford the medicines and the devices that are coming out,” said Michelle Gallaher, CEO of Opyl, which created an AI platform that’s used for trial recruitment. AI can quickly pinpoint who’s eligible for a trial, said Bhatt. Clinical trials are extremely expensive—they cost, on average, $700 million to $1 billion, according to Stefan Harrer, chief innovation officer at the Digital Health Cooperative Research Centre, an Australian investment fund and incubator for the digital health industry. In practice, not a lot of clinical trials are actually using AI yet, at least not for recruitment.</description>
@@ -352,24 +370,6 @@
   <categories>International Politics</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/09/doj-pentagon-investigate-leak-classified-docs</guid>
   <pubDate>Mon, 10 Apr 2023 18:11:35 -0700</pubDate>
- </item>
- <item>
-  <title>Twitter said it will begin getting rid of verification for nonpaying users</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0c33aec0d7f8b9689725ad93f30b09a2da68d9eb-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. That should make for an interesting feed: One researcher found that roughly half of the 220,000 Twitter Blue subscribers have less than 1,000 followers. Today Twitter will start phasing out the verification badge for anyone unwilling to pay $8 a month for Twitter Blue.</description>
-  <link>https://www.morningbrew.com/daily/stories/twitter-getting-rid-of-verification-for-nonpaying-users</link>
-  <author>Matty Merritt</author>
-  <categories>Social Media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/twitter-getting-rid-of-verification-for-nonpaying-users</guid>
-  <pubDate>Mon, 03 Apr 2023 06:51:42 -0700</pubDate>
- </item>
- <item>
-  <title>UFC and WWE could be the ultimate tag team</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e835725bc8e098db5d11abb703463aa2ba7db3a9-1024x776.jpg?rect=0,46,1024,683&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. A deal would mean that three huge personalities in media—Endeavor CEO Ari Emanuel, UFC President Dana White, and WWE Executive Chairman Vince McMahon—will be working at the same company. The plan is to combine WWE and UFC into one publicly traded firm. ) was the second day of WrestleMania, WWE’s biggest event. Not even Erik Spoelstra could manage all that ego in one office. So, how would this all shake out?</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/02/ufc-and-wwe-could-be-the-ultimate-tag-team</link>
-  <author>Neal Freyman</author>
-  <categories>Media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/02/ufc-and-wwe-could-be-the-ultimate-tag-team</guid>
-  <pubDate>Mon, 03 Apr 2023 06:51:41 -0700</pubDate>
  </item>
 
 </channel>
