@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/17/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/17/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/04/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/04/18/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/17</link>
- <lastBuildDate>Mon, 17 Apr 2023 00:03:56 -0700</lastBuildDate>
- <pubDate>Mon, 17 Apr 2023 00:03:56 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/04/18</link>
+ <lastBuildDate>Tue, 18 Apr 2023 00:03:45 -0700</lastBuildDate>
+ <pubDate>Tue, 18 Apr 2023 00:03:45 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>How Jalen Hurts got such a big deal</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/6c5b01d7ebfa59f480a76d219611185c15fdce90-1024x682.jpg?rect=1,0,1023,682&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Eagles fans who are as excited to have Hurts locked in as Commanders fans are to have Dan Snyder out have one woman to thank: Nicole Lynn. Unlike most Insta DMs, this one seems to have paid off: Hurts hired Lynn and, in February, she became the first Black woman to represent a starting quarterback (Hurts) in the Super Bowl. —CC “Hey, have you picked an agent? Rather than chanting, “Show me the money,” Lynn got Hurts’s attention by sliding into his Insta DMs following his last collegiate game at Oklahoma in 2020. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeYesterday, Jalen Hurts became the highest-paid player in NFL history thanks to a five-year, $255 million contract extension with the Philadelphia Eagles. Jerry Maguire could never—but Lynn did.</description>
+  <link>https://links.morningbrew.com/c/5jk?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Cassandra Cassidy</author>
+  <categories>Sports</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5jk?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Tue, 18 Apr 2023 00:01:46 -0700</pubDate>
+ </item>
+ <item>
+  <title>Apple launches a high-yield savings account as banks battle for deposits</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/6b9ff57bec4b2bceb33b7841753679e5329ba77b-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The details:You can open the savings account via the Wallet app on your iPhone, but you’ll need an Apple Card (Apple’s credit card) to be eligible. In partnership with Goldman Sachs, the tech giant released a savings account yesterday that will yield a meaty 4.15% in annual interest just for parking your money in it. —NF And these days, there’s no shortage of options due to the Fed’s interest rate hikes—while JPow’s rate increases have rocked your stock portfolio, they’ve boosted the returns you can get as a saver. css-1dlcpt7[data-readonly]{box-shadow:none! So, while Apple’s 4.15% yield is generous, it’s joining a competitive field of online banks dangling yields in the same ballpark. Other accounts advertise a more than 5% yield on your cash.</description>
+  <link>https://links.morningbrew.com/c/5jd?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Neal Freyman</author>
+  <categories>Finance</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5jd?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Tue, 18 Apr 2023 00:01:45 -0700</pubDate>
+ </item>
+ <item>
+  <title>AI Drake bop marks new era for music pirates</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/74cf1fcfcff356040d6300f1438e6ea38b0460a9-720x480.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. According to the Financial Times, the company recently hit Spotify and Apple Music with requests to stop their users from scraping content to train AI systems. Labels want things to go their wayWhile it may delight the internet, pop-hit-slinging AI is not music to the ears of artists and companies that own the rights to songs.</description>
+  <link>https://links.morningbrew.com/c/5j5?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Sam Klebanov</author>
+  <categories>Tech</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5j5?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Tue, 18 Apr 2023 00:01:45 -0700</pubDate>
+ </item>
  <item>
   <title>SpaceX attempts first orbital flight of Starship</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a088c2ead30171f918a0e33b30d6c9aca0db87e5-992x558.jpg?rect=78,0,837,558&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIn remote Texas this morning, SpaceX will attempt the first orbital launch of its towering Starship system, the reusable space vehicle CEO Elon Musk says will be the key that unlocks trips to the moon and Mars and eventually turns humanity into a “multi-planet species.” Previous Starship test runs have ended in fiery explosions, and Musk has put the odds of Starship getting to orbit this morning at 50%. css-1dlcpt7[data-readonly]{box-shadow:none! Everything about this launch pushes the limits of conventional space flight:Starship is made of stainless steel, which the space industry has typically shunned for its weight. Musk has acknowledged this flight might not go as planned. That could allow it to refuel on Mars, since the planet’s atmosphere contains trace amounts of the gas. Today at 8am ET, a two-and-a-half-hour launch window will open for Starship and the Super Heavy booster it’s mounted on.</description>
@@ -343,33 +370,6 @@
   <categories>Tech</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/07/can-ai-defame-you</guid>
   <pubDate>Mon, 10 Apr 2023 18:11:37 -0700</pubDate>
- </item>
- <item>
-  <title>Bitcoin’s white paper is secretly saved on Mac computers</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-04-07%2Fimage-3ee993e2b62bbd6dc41d2c49238d26e1e59392c2-1000x750-gif%2FSneakyWhitepaper_04072023.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It wouldn’t be the first time: The Pages app used to contain a secret text file of Apple’s “Here’s to the crazy ones” ad and the commencement speech Jobs gave at Stanford in 2005. Looking ahead…“a little bird” told Baio that Bitcoin’s white paper PDF will likely be deleted in a future Apple update. pdf” into the Terminal app on a Mac, and a PDF of Bitcoin’s white paper will pop up (it worked for us at least!</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/07/bitcoin-white-paper-saved-on-mac</link>
-  <author>Jamie Wilde</author>
-  <categories>Crypto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/07/bitcoin-white-paper-saved-on-mac</guid>
-  <pubDate>Mon, 10 Apr 2023 18:11:36 -0700</pubDate>
- </item>
- <item>
-  <title>Courts duel over access to abortion pill</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/81b047f3c38b1573b1abf13ad96d330de60a7808-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The first ruling suspended FDA approval of the drugIn Texas, Judge Matthew Kacsmaryk suspended FDA approval of mifepristone, the first part of a two drug regimen commonly used to terminate a pregnancy—a ruling with nationwide reach. Washington state enters the chatLess than an hour after the Texas judge suspended FDA approval for mifepristone, a federal judge in Washington, Thomas Rice, ruled that the the FDA…could not make the pill any less available. What you need to know: The Texas ruling will not take mifepristone off the market immediately; the judge gave the government seven days to appeal the decision. —NF css-1dlcpt7[data-readonly]{box-shadow:none! css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIn less than an hour yesterday evening, two federal district courts issued two contradictory rulings on the legal status of a key abortion pill, creating a high level of uncertainty around medication that is the most common method of abortion in the US. The status of the abortion pill, the subject of numerous legal challenges since Roe v. Siding partially with 17 Democratic-led states that wanted to increase access to the pill, the judge blocked the agency from changing access to the pill in the states that brought the lawsuit.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/07/courts-duel-over-access-to-abortion-pill</link>
-  <author>Neal Freyman</author>
-  <categories>Health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/07/courts-duel-over-access-to-abortion-pill</guid>
-  <pubDate>Mon, 10 Apr 2023 18:11:36 -0700</pubDate>
- </item>
- <item>
-  <title>DOJ, Pentagon investigate massive leak of classified docs on social media</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-04-09%2Fimage-f92746c64ec7c9e543eae6f160512625e5eb0e56-480x316-gif%2Fgiphy(3).webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeNo one wants their secrets posted on social media. But at least in one case—an estimate of Russian casualties in the war in Ukraine—different versions that appear to have been modified have been posted. While the documents recently showed up on social media platforms like Telegram, Twitter, and 4chan, they appear to have been originally published on niche Discord servers in early March, according to the Bellingcat investigative consortium. Many of the documents do seem real, defense officials said. US defense officials and the DOJ spent their Easter weekend frantically investigating a massive leak of classified documents published on social media, many of which were considered “top secret.” —NF So, who leaked them? Are they authentic? What do the documents show? Still, the source of the leak remains a mystery—US officials told Reuters that the enormous scope of the documents suggests that someone in the US was behind it. This is where the story gets real weird.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/09/doj-pentagon-investigate-leak-classified-docs</link>
-  <author>Neal Freyman</author>
-  <categories>International Politics</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/09/doj-pentagon-investigate-leak-classified-docs</guid>
-  <pubDate>Mon, 10 Apr 2023 18:11:35 -0700</pubDate>
  </item>
 
 </channel>
