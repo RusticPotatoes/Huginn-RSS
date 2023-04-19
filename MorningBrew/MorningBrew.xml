@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/18/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/18/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/04/19/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/04/19/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/18</link>
- <lastBuildDate>Tue, 18 Apr 2023 07:43:44 -0700</lastBuildDate>
- <pubDate>Tue, 18 Apr 2023 07:43:44 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/04/19</link>
+ <lastBuildDate>Wed, 19 Apr 2023 01:32:21 -0700</lastBuildDate>
+ <pubDate>Wed, 19 Apr 2023 01:32:21 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Apple Store makes India debut</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/ddc8c9e3f0e4a7bb77d999674d4f388691397497-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. And India is not just becoming a bigger consumer market for Apple products; it’s also making them: The latest iPhone is produced there, and Apple’s main manufacturing partner, Foxconn, recently invested $700 million in an Indian manufacturing facility. Though the notoriously budget-busting iPhone is not the go-to for most Indians, the Apple logo increasingly features in the mirror selfies of India’s middle- and upper classes. —SK css-1dlcpt7[data-readonly]{box-shadow:none! According to UN data, India’s population will surpass China’s sometime this year, and Apple sees a sea of future customers in India’s more than 600 million smartphone users.</description>
+  <link>https://links.morningbrew.com/c/5nr?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Sam Klebanov</author>
+  <categories>Business News</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5nr?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Wed, 19 Apr 2023 01:30:30 -0700</pubDate>
+ </item>
+ <item>
+  <title>Netflix reports less dramatic earnings than a year ago</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-04-18%2Fimage-058db433485e06723e2644cea63772a516cb2a0f-480x270-gif%2Fnetflix.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Despite the launch of its $6.99 ad tier to attract more users, Netflix added 1.75 million net subscribers, about 500,000 short of expectations. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeExactly one year ago, Netflix dropped the bombshell that it had lost subscribers for the first time in 10 years, leading to a nearly 35% stock wipeout the next day. Soon, it won’t even have its DVD rental service to fall back on. Plus, Netflix’s sports docuseries about golf and tennis intended to build off of its Formula One hit are not remotely close to as popular. —MM Leeches of the family, rejoice!</description>
+  <link>https://links.morningbrew.com/c/5nl?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>Streaming</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5nl?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Wed, 19 Apr 2023 01:30:29 -0700</pubDate>
+ </item>
+ <item>
+  <title>Fox will pay $787.5m to settle Dominion defamation suit</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d6eff48b05aba4c3c5c5e00f9454296e6e499571-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. A settlement of this magnitude reflects the gravity of the caseDominion, which makes electronic voting machines, sued Fox News for defamation, accusing the network of knowingly pushing baseless claims that Dominion helped rig the 2020 presidential election in Joe Biden’s favor. For democracy…critics of Fox News were universally disappointed that the case didn’t go to trial. The judge presiding over the case had already ruled that Fox News’s statements about Dominion’s role in the 2020 election were false. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeRight before starting its hugely anticipated libel trial, Fox News told Dominion Voting Systems, “How about we pay you $787.5 million and we not do this.” They say that in pushing former President Trump’s false “rigged election” narrative, Fox News helped foment the distrust of elections that led to the Jan. 6, 2021, attack on the Capitol—and this settlement doesn’t hold the network accountable. —NF css-1dlcpt7[data-readonly]{box-shadow:none! Last month, a NY judge allowed the case to proceed. For Dominion…well, we’ll just let the $787.5 million do the talking, considering the company generates less than $100 million per year in sales, per Axios’s Dan Primack.</description>
+  <link>https://links.morningbrew.com/c/5n8?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Neal Freyman</author>
+  <categories>Media</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5n8?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Wed, 19 Apr 2023 01:30:29 -0700</pubDate>
+ </item>
  <item>
   <title>AI Drake bop marks new era for music pirates</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/74cf1fcfcff356040d6300f1438e6ea38b0460a9-720x480.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. According to the Financial Times, the company recently hit Spotify and Apple Music with requests to stop their users from scraping content to train AI systems. Labels want things to go their wayWhile it may delight the internet, pop-hit-slinging AI is not music to the ears of artists and companies that own the rights to songs.</description>
@@ -343,33 +370,6 @@
   <categories>Sports</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/10/wrexham-get-closer-to-promotion-in-dream-win-for-hollywood-owners</guid>
   <pubDate>Tue, 11 Apr 2023 06:46:56 -0700</pubDate>
- </item>
- <item>
-  <title>Pharma execs say abortion pill ruling will hurt the industry</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/7446f962bed92a865851fc40bf73d13d19ad5162-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. —JW, AR Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The letter shot back that mifepristone “has been proven by decades of data to be safer than Tylenol, nearly all antibiotics and insulin.” This is about more than mifepristoneThe letter states that if courts can revoke drug approvals “without regard for science or evidence, or for the complexity required to fully vet the safety and efficacy of new drugs, any medicine is at risk for the same outcome as mifepristone.” The government has also asked for clarification on how it can follow a contradictory court ruling, issued by a federal judge in Washington state soon after the Texas ruling came down, that barred the FDA from making mifepristone harder to get in 17 states. But the legal battle is far from over…the DOJ has filed an appeal of Judge Kacsmaryk’s ruling and asked the appeals court to put an emergency hold on the decision before it is slated to take effect this Friday. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribePharma industry bigwigs are not fans of a Texas federal judge’s ruling last week invalidating the FDA’s decades-old approval of the abortion medication mifepristone—essentially banning its sale nationwide.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/10/pharma-execs-want-overturning-of-fda-s-abortion-pill-approval-overturned</link>
-  <author>Jamie Wilde</author>
-  <categories>Health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/10/pharma-execs-want-overturning-of-fda-s-abortion-pill-approval-overturned</guid>
-  <pubDate>Tue, 11 Apr 2023 06:46:56 -0700</pubDate>
- </item>
- <item>
-  <title>The party might be over for Tupperware</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/54765287df0c1d6d98e44d9c73c2ebbcb19f1a67-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. But, it’s unsure if it’ll be able to avoid bankruptcy. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Since it’s unlikely anyone born after 1970 wanted to attend these ragers, it’s been forced to work with retailers. —SK css-1dlcpt7[data-readonly]{box-shadow:none! Tupperware recently disclosed that it’s struggling to stay afloat and has hired advisors to help find a way to stay in business, causing its stock to nose-dive almost 50% yesterday.</description>
-  <link>https://links.morningbrew.com/c/4Yt?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Sam Klebanov</author>
-  <categories>Business News</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/4Yt?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Tue, 11 Apr 2023 00:01:27 -0700</pubDate>
- </item>
- <item>
-  <title>Wrexham get closer to promotion in dream win for Hollywood owners</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/9c2170fc78dcef5a8868620245d153b91e76a130-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Season 2 is in the works. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIn a high-stakes soccer match in Wales yesterday, Wrexham AFC defeated Notts County 3–2 to put them in the driver’s seat for promotion to the next tier of British soccer. The world’s third-oldest professional soccer club, Wrexham is owned by Deadpool star Ryan Reynolds and It’s Always Sunny in Philadelphia creator Rob McElhenney. —NF css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://links.morningbrew.com/c/4Yn?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Neal Freyman</author>
-  <categories>Sports</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/4Yn?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Tue, 11 Apr 2023 00:01:26 -0700</pubDate>
  </item>
 
 </channel>
