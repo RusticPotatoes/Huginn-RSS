@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/20/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/20/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/04/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/04/21/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/20</link>
- <lastBuildDate>Thu, 20 Apr 2023 11:19:16 -0700</lastBuildDate>
- <pubDate>Thu, 20 Apr 2023 11:19:16 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/04/21</link>
+ <lastBuildDate>Fri, 21 Apr 2023 00:03:11 -0700</lastBuildDate>
+ <pubDate>Fri, 21 Apr 2023 00:03:11 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Oakland A’s are the latest team to wake up in Vegas</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/382e782a1e9154342b75dca89cb5642242c16946-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In 2016, Vegas had zero pro sports teams, and Oakland had three. Over the last six years, teams have flocked to Vegas like bachelor parties to the MGM Grand—the city is now home to the Raiders (NFL), Golden Knights (NHL), and Aces (WNBA). —CC css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://links.morningbrew.com/c/5u6?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Cassandra Cassidy</author>
+  <categories>Sports</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5u6?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Fri, 21 Apr 2023 00:01:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>BuzzFeed shutters its news division</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-04-20%2Fimage-d05cc0a1550c6bc1ea59ab5cf610adcfb3b0d245-1500x1000-gif%2Ffrancis-scialabba-buzzfeed-shutdown-0423.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeBuzzFeed said yesterday it’s shutting down its news operation, BuzzFeed News. Peretti said in an email that the company will focus on areas like its popular quizzes and other content that could potentially be created using AI—in his words, “parts of the business that have demonstrated their ability to add to the company’s bottom line.” css-1dlcpt7[data-readonly]{box-shadow:none! The problem: breaking big news didn’t translate to $$$For all its reporting breakthroughs, BuzzFeed News was an expensive venture and didn’t bring in enough revenue to justify its continued existence, Peretti suggested. CEO Jonah Peretti said the cuts were the result of “economic and industry downturns” and the news division’s unprofitability. In the newsroom’s early days, legacy media outlets rolled their eyes at BuzzFeed’s attempts at hard-hitting journalism.</description>
+  <link>https://links.morningbrew.com/c/5u1?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>Media</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5u1?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Fri, 21 Apr 2023 00:01:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>Portrait of a rocket on fire</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f5ce1c97ac2c3431e9602d1b2427f29a403b961b-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Starship’s massive payload capacity and world-record thrust could drive bigger, heavier innovations that wouldn’t be able to fit in existing rockets. The brief flight allowed engineers to gather much-needed data that they’ll use to figure out what went wrong. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
+  <link>https://links.morningbrew.com/c/5tT?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Molly Liebergall</author>
+  <categories>Space</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5tT?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Fri, 21 Apr 2023 00:01:09 -0700</pubDate>
+ </item>
  <item>
   <title>FBI arrest Tennessee Guardsman for applying to be a hitman</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/bb44ac1526cb2f730606c834b59f1698b004037c-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The business didn’t pan out, but he held onto the domain, hoping that one day someone would buy it, according to The Guardian. In one of many follow-up emails to his application, Garcia allegedly wrote, “I enjoy doing what I do, so if I can find a job that is similar to it, (such as this one) put me in coach!”</description>
@@ -343,33 +370,6 @@
   <categories>Auto</categories>
   <guid isPermaLink="false">https://links.morningbrew.com/c/54W?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
   <pubDate>Thu, 13 Apr 2023 07:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>NPR is leaving Twitter after ‘state-affiliated media’ label debacle</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3d0239e58daa3d4050ea79203e4c84ef1623979b-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. One NPR reporter found that less than 2% of NPR’s website traffic comes from Twitter, which is pretty standard across the industry. And Twitter is not just losing NPR’s content stream: PBS also confirmed yesterday that it had stopped tweeting on April 8 after it too received a “government-funded” label on its main account and has no plans to log back in. Meanwhile, at HQ…based on a BBC interview with Musk on Tuesday, both he and the energy at Twitter seem a little chaotic (and not just because he joked that his dog was the company’s CEO).</description>
-  <link>https://links.morningbrew.com/c/54M?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Matty Merritt</author>
-  <categories>Social Media</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/54M?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Thu, 13 Apr 2023 07:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>Most expensive license plate sold for $15m at Dubai auction</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f3c06278c4395cf60d423dbce20f8ef60ec27f2f-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Sometimes, you need to spend the most money on one of the smallest pieces of the car: the license plate. A vanity plate with the letter-number combo “P7” sold for $15 million at a charity auction in Dubai last weekend, making it the most expensive license plate in the world. The plate was part of the “Most Noble Numbers” auction and was likely popular because it looks like it just has a “7” on it. —MM</description>
-  <link>https://www.morningbrew.com/daily/stories/most-expensive-license-plate-sold-at-dubai-auction</link>
-  <author>Matty Merritt</author>
-  <categories>Auto</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/most-expensive-license-plate-sold-at-dubai-auction</guid>
-  <pubDate>Wed, 12 Apr 2023 07:32:00 -0700</pubDate>
- </item>
- <item>
-  <title>Everyone you know is flying to Europe</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0e7e4301fd5c39930a2caa5a84906b174415ea93-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribePresident Biden flew to Belfast, Northern Ireland, yesterday on a trip that, conveniently for a business newsletter, perfectly captures travel trends right now. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. —NF css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/11/everyone-you-know-is-flying-to-europe</link>
-  <author>Neal Freyman</author>
-  <categories>Travel</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/11/everyone-you-know-is-flying-to-europe</guid>
-  <pubDate>Wed, 12 Apr 2023 07:31:59 -0700</pubDate>
  </item>
 
 </channel>
