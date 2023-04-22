@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/21/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/21/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/04/22/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/04/22/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/21</link>
- <lastBuildDate>Fri, 21 Apr 2023 10:33:11 -0700</lastBuildDate>
- <pubDate>Fri, 21 Apr 2023 10:33:11 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/04/22</link>
+ <lastBuildDate>Sat, 22 Apr 2023 00:03:16 -0700</lastBuildDate>
+ <pubDate>Sat, 22 Apr 2023 00:03:16 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Companies are getting office mates to split the rent</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/da870061fac2cf42f66c5002f0104357b62da429-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. One solution: Get some corporate roommates by subleasing part or all of their office space to other companies. But that doesn’t work for a company that already has a lease, and it doesn’t give the owner the option of ending the sublease at some point when their own company is big enough to fill all the desks—which Paffmann told the Brew can be one reason companies, like the one he worked with, sublease in the first place. According to Mobley, Publicis has listed their space so one company could take over the whole building, or multiple tenants could divvy it up. Michael Paffmann, CEO of VirgoPR, told Morning Brew his company subleases NYC office space from a larger company for eight employees who go in to work two to three times a week. And while Mobley said timesharing is a trend (and has been for a long time for medical offices), he said, “It doesn’t appear to be a big enough trend in traditional office use to really be moving the needle at this point.” Over 250 million square feet of office space is currently available for sublease. For instance, one company comes in on Monday, Tuesday, and Thursday, while another uses the desks on Wednesday and Friday.</description>
+  <link>https://links.morningbrew.com/c/5yN?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Jamie Wilde</author>
+  <categories>Real estate</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5yN?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sat, 22 Apr 2023 00:01:18 -0700</pubDate>
+ </item>
+ <item>
+  <title>After the big chill, California braces for a big melt</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/cfa97524e6b96e4a323fa73cb2a35d6444b06966-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It won’t happen all at once: Temps over the next few days are forecast to hit the 80s, causing some melt, but the true danger will be when 90-degree days come.</description>
+  <link>https://links.morningbrew.com/c/5yY?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Molly Liebergall</author>
+  <categories>Climate Change</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5yY?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sat, 22 Apr 2023 00:01:14 -0700</pubDate>
+ </item>
+ <item>
+  <title>More Gen Zers own homes than Gen Xers and millennials did at their age</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/08b2255242393a7183adcf28669fa7c7d11570d1-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Gen Zers entered a welcoming labor market with high wages, while millennials had to wade through the fallout of the 2008 recession before they were able to establish themselves financially. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. —MM css-1dlcpt7[data-readonly]{box-shadow:none! The median house sale price for a Gen Z buyer in the area was $255,000 in 2022…$199,525 less than the average median sale price in the US last year, according to the St. Louis Fed.It also comes down to timing. Looking ahead…with interest rate hikes pushing mortgage rates past 6% this year and supply tightening, Gen Zers may not keep up their homebuying pace. Before all you 30-something renters freak out, most young homebuyers bought in cheap areas and jumped on low interest rates. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeParents will have to go back to criticizing their kids for excessive screen time or killing golf, because not owning a home is no longer an accurate roast.</description>
+  <link>https://links.morningbrew.com/c/5yB?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>Real estate</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5yB?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sat, 22 Apr 2023 00:01:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>SCOTUS upholds access to abortion pills…for now</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/08c71cde009d0e4264fa76d6cfcef4113877a63c-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Because the brief, unsigned order came in response to an emergency petition, making it part of the court’s so-called shadow docket, where decisions get made quickly and without the benefit of oral arguments. But with the case all but guaranteed to end up back at the high court for a final say eventually, it does not tell us much about what the justices will ultimately decide when it gets there. And it’s going to rage: The matter reached the Supreme Court after a federal judge in Texas yanked the FDA’s approval of the drug. —AR What comes next? Why not? The government quickly appealed to the conservative-leaning US Court of Appeals for the 5th Circuit, which rejected parts of the judge’s decision but still imposed restrictions on the medicine’s availability. Meanwhile, the same day the Texas ruling came out, a Washington federal judge ordered the FDA not to restrict access to the pill in 17 states. The case is scheduled to pick back up with oral arguments at the 5th Circuit on May 17. The Supreme Court’s decision means the status quo will be maintained while that all gets sorted out.</description>
+  <link>https://links.morningbrew.com/c/5z3?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Abigail Rubenstein</author>
+  <categories>Health</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5z3?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sat, 22 Apr 2023 00:01:12 -0700</pubDate>
+ </item>
  <item>
   <title>The Twilight Saga is getting a TV revival</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/2e166baccac53f12af455de89b015f2491ce923c-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. —ML The Twilight series will compete for ratings glory against two familiar foes with equally devoted fans: a 10-year Harry Potter series on HBO Max and Percy Jackson and the Olympians on Disney+. css-1dlcpt7[data-readonly]{box-shadow:none! css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe franchise that spawned five movies and countless Edward Cullen cosplays is coming back from the dead for a television reboot.</description>
@@ -334,42 +370,6 @@
   <categories>Labor</categories>
   <guid isPermaLink="false">https://links.morningbrew.com/c/58-?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
   <pubDate>Fri, 14 Apr 2023 00:02:02 -0700</pubDate>
- </item>
- <item>
-  <title>Josh Harris to buy Washington Commanders for $6b</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/f75f5b9fb42cec94617d1691d0e11e60b7533416-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeYesterday, Sportico reported that Washington Commanders owner Dan Snyder agreed to sell the team for $6 billion to a group led by Josh Harris, co-owner of the Philadelphia 76ers and the New Jersey Devils, along with billionaire Mitchell Rales and former Starbucks franchisee/NBA legend Magic Johnson. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Not to mention that last month they were named the worst NFL team to play for in an NFL Players Association survey on workplace conditions.</description>
-  <link>https://links.morningbrew.com/c/58V?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Cassandra Cassidy</author>
-  <categories>Sports</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/58V?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Fri, 14 Apr 2023 00:02:01 -0700</pubDate>
- </item>
- <item>
-  <title>Suspect in Pentagon leak arrested</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c95ae094c619b5f58b28a2c2355f727a24bd0615-1342x762.png?rect=100,0,1143,762&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The group’s ringleader was a user they called “OG,” who uploaded sensitive US government documents to keep his friends “in the loop” about world events, the member told the WaPo. The docs were never intended for widespread reading, but late in February, a teenage member of the group posted some of those docs to another Discord server affiliated with a famous Filipino YouTuber, and the cat was out of the bag—the secret documents eventually made their way to bigger platforms such as 4chan and Twitter for all to see. Almost 3 million people had access to classified documents as of 2019, according to the National Counterintelligence and Security Center.</description>
-  <link>https://links.morningbrew.com/c/58J?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Neal Freyman</author>
-  <categories>International Politics</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/58J?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Fri, 14 Apr 2023 00:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>MLB teams extend beer sales into 8th inning</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/875dc33a3afd2f757efa76b38b26eb95780ec96e-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Minor League Baseball teams used a pitch clock in 2022 and saw shorter game times but no drop in concession sales. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeBig news for America’s pastime: You can now buy beer in the eighth inning at select MLB games. —CC css-1dlcpt7[data-readonly]{box-shadow:none! Zoom out: Baseball’s popularity has declined significantly in recent years, and both making the game faster and extending alcohol sales are efforts to bring in new fans. Less time to enjoy a Bud Light Tall Boy. Rick Schlesinger, president of business operations for the Brewers, said extending the alcohol cutoff to the eighth inning reflects “the fact that the games are shorter.” Thanks to the implementation of the pitch clock, which regulates time between pitches, the average game time is down 31 minutes, according to the Associated Press. Historically, MLB teams cut off alcohol sales in the seventh inning, partly so people had more time to sober up before driving home after a game.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/12/mlb-teams-extend-beer-sales-into-eighth-inning</link>
-  <author>Cassandra Cassidy</author>
-  <categories>Sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/12/mlb-teams-extend-beer-sales-into-eighth-inning</guid>
-  <pubDate>Thu, 13 Apr 2023 08:06:55 -0700</pubDate>
- </item>
- <item>
-  <title>NPR is leaving Twitter after ‘state-affiliated media’ label debacle</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3d0239e58daa3d4050ea79203e4c84ef1623979b-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. One NPR reporter found that less than 2% of NPR’s website traffic comes from Twitter, which is pretty standard across the industry. And Twitter is not just losing NPR’s content stream: PBS also confirmed yesterday that it had stopped tweeting on April 8 after it too received a “government-funded” label on its main account and has no plans to log back in. Meanwhile, at HQ…based on a BBC interview with Musk on Tuesday, both he and the energy at Twitter seem a little chaotic (and not just because he joked that his dog was the company’s CEO).</description>
-  <link>https://www.morningbrew.com/daily/stories/npr-leaving-twitter-after-label-debacle</link>
-  <author>Matty Merritt</author>
-  <categories>Social Media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/npr-leaving-twitter-after-label-debacle</guid>
-  <pubDate>Thu, 13 Apr 2023 08:06:55 -0700</pubDate>
  </item>
 
 </channel>
