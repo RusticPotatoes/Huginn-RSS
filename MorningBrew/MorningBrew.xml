@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/24/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/24/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/04/25/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/04/25/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/24</link>
- <lastBuildDate>Mon, 24 Apr 2023 06:39:01 -0700</lastBuildDate>
- <pubDate>Mon, 24 Apr 2023 06:39:01 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/04/25</link>
+ <lastBuildDate>Tue, 25 Apr 2023 00:04:01 -0700</lastBuildDate>
+ <pubDate>Tue, 25 Apr 2023 00:04:01 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Everybody hates the Snapchat AI bot</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/9f9fbd7024dc31ff26b216afebf8381ba48f033b-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. ), but these changes have actually resulted in a flurry of new users, data from Sensor Tower shows.</description>
+  <link>https://links.morningbrew.com/c/5Ex?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Molly Liebergall</author>
+  <categories>Social Media</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5Ex?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Tue, 25 Apr 2023 00:02:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>LVMH looks like France’s Apple</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/676f63578e3be42ba2c150da77f95d7402b78ab0-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. As Bloomberg notes, selling status is to France what Big Tech is to the US—three of France’s Top 4 most valuable companies are luxury brands. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeEurope finally has a company worth $500 billion since LVMH hit the milestone market valuation yesterday. —SK css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://links.morningbrew.com/c/5Ej?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Sam Klebanov</author>
+  <categories>Business News</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5Ej?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Tue, 25 Apr 2023 00:02:00 -0700</pubDate>
+ </item>
+ <item>
+  <title>A tale of 2 prime-time stars flaming out</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0fe3cbc135b4473f2d992ed3190149e46bf449f2-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It was one of the top shows on cable news, regularly drawing more than 3 million nightly viewers. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. It’s not entirely surprising: Tucker Carlson Tonight was as synonymous with Fox as Law &amp; Order is with NBC. ’s market value dropped after news of his departure broke.</description>
+  <link>https://links.morningbrew.com/c/5EC?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Cassandra Cassidy</author>
+  <categories>Media</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5EC?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Tue, 25 Apr 2023 00:02:00 -0700</pubDate>
+ </item>
  <item>
   <title>More Gen Zers own homes than Gen Xers and millennials did at their age</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/08b2255242393a7183adcf28669fa7c7d11570d1-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Gen Zers entered a welcoming labor market with high wages, while millennials had to wade through the fallout of the 2008 recession before they were able to establish themselves financially. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. —MM css-1dlcpt7[data-readonly]{box-shadow:none! The median house sale price for a Gen Z buyer in the area was $255,000 in 2022…$199,525 less than the average median sale price in the US last year, according to the St. Louis Fed.It also comes down to timing. Looking ahead…with interest rate hikes pushing mortgage rates past 6% this year and supply tightening, Gen Zers may not keep up their homebuying pace. Before all you 30-something renters freak out, most young homebuyers bought in cheap areas and jumped on low interest rates. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeParents will have to go back to criticizing their kids for excessive screen time or killing golf, because not owning a home is no longer an accurate roast.</description>
@@ -343,33 +370,6 @@
   <categories>Space</categories>
   <guid isPermaLink="false">https://links.morningbrew.com/c/5e2?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
   <pubDate>Mon, 17 Apr 2023 00:01:53 -0700</pubDate>
- </item>
- <item>
-  <title>Fox News v. Dominion trial delayed over reported settlement talks</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e158a2a37eabe46a41e8bea11cc1f46f1779676f-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Due to the precedent set in a 1964 Supreme Court case, Dominion has to demonstrate that Fox News acted with “actual malice” when reporting on it; in other words, that it recklessly disregarded the truth in its statements about Dominion. However, court documents have revealed that Fox News hosts privately admitted they did not believe the fraud claims they were making on air. Looking ahead…the judge presiding over this case has already ruled that it was “CRYSTAL clear” that Fox News’s statements about Dominion’s role in the 2020 election were false. What the case is aboutDominion Voting Systems, which makes electronic voting machines, has sued Fox News for defamation, accusing the network of knowingly pushing baseless claims about the company after the 2020 presidential election—including that it rigged vote counts to tilt the election in Joe Biden’s favor. The showdown between Fox News and Dominion was supposed to begin this morning, but last night the Delaware Superior Court delayed the start until tomorrow without providing a reason. css-1dlcpt7[data-readonly]{box-shadow:none! Fox News lawyers say the network is fully covered by its First Amendment rights—it was simply commenting on the election fraud claims made by former President Trump, which were newsworthy because he was the president of the US. While that’s not an insignificant amount of money, this case is being called the “Super Bowl” of libel cases for nonfinancial reasons: It could have lasting consequences for Fox News as well as the media industry’s First Amendment rights.</description>
-  <link>https://links.morningbrew.com/c/5dX?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Neal Freyman</author>
-  <categories>Media</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/5dX?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Mon, 17 Apr 2023 00:01:53 -0700</pubDate>
- </item>
- <item>
-  <title>How AI can lower the costs of clinical trials</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/bfaed376e9e46b4c1dd6be5e731bb00b0b8775bd-7346x4900.jpg?rect=0,1,7346,4897&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. A reason a lot of healthy people choose to join Phase 1 clinical trials is the financial incentive, since you can make thousands of dollars from participating in a trial. AI can make it way easier to identify patients who meet the qualifications for a trial, mainly by sorting through massive troves of data that no human would be able to go through on their own, said Arun Bhatt, an independent clinical research and drug development consultant. One reason AI may not be used as much as it could is a lack of trust, Bhatt said. And therefore, I think clinical trials is one of the very, very last to come into this digital economy,” said Gallaher. We’re not here to weigh in on the likelihood of a future AI robot versus human apocalypse, but one thing we do know is that—when it comes to clinical trials—AI has the potential to do a lot of good. The median compensation for healthy volunteers in phase one clinical trials is $3,070, according to a 2021 study. Gallaher estimated that 10%-15% of trials use AI for recruitment. Opyl uses AI to identify potential trial participants via social media, Gallaher said. A lot of costs go into the recruitment phase. “Healthcare is one of the last industries to come to digital transformation. Opyl’s AI platform can identify that person as a potential participant for a clinical trial testing a new diabetes treatment. There are costs for marketing, so participants know there’s a trial to join. “Right now, the world can’t afford the medicines and the devices that are coming out,” said Michelle Gallaher, CEO of Opyl, which created an AI platform that’s used for trial recruitment. AI can quickly pinpoint who’s eligible for a trial, said Bhatt. Clinical trials are extremely expensive—they cost, on average, $700 million to $1 billion, according to Stefan Harrer, chief innovation officer at the Digital Health Cooperative Research Centre, an Australian investment fund and incubator for the digital health industry. In practice, not a lot of clinical trials are actually using AI yet, at least not for recruitment.</description>
-  <link>https://links.morningbrew.com/c/4Q6?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Maia Anderson</author>
-  <categories>Healthcare Tech</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/4Q6?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Sun, 16 Apr 2023 04:02:05 -0700</pubDate>
- </item>
- <item>
-  <title>Latin music’s dance dance revolution</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e6babc3e7156a2aabd1516c3c390bad88e30bcbc-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. And Karol G was the most-viewed artist globally on Vevo, a streaming service known for its music videos. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It’s not an exaggeration to say that, currently in the US, Latin music is pop music. This song has been deemed so significant to American musical history that it was selected this week as one of 25 recordings and albums to be preserved in the National Recording Registry at the Library of Congress. One word: streaming. Streaming accounted for an eye-popping 97% of Latin music revenues last year. According to a report released by the Recording Industry Association of America on Wednesday, Latin music revenue surged 24% last year to hit a record high of $1.1 billion in the US. Big picture: With Daddy Yankee now retired from the music scene, Bad Bunny and a deep bench of emerging Latin artists are conquering the airwaves and reaching audiences Ricky Martin never could, thanks to the advent of streaming services. —NF Here, Bad Bunny is the GOAT: He’s been the most-streamed artist on Spotify globally for three straight years (18.5 billion streams in all). css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeOn Friday, Puerto Rican megastar Bad Bunny closed out the first day of Coachella—an appropriate finale to a landmark week for Latin music. Latin artists J. In introducing the once-underground reggaeton genre to the masses, Daddy Yankee walked so Bad Bunny could run. That’s the second straight year of double-digit gains and a bigger jump than any other music genre.</description>
-  <link>https://links.morningbrew.com/c/5bE?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Neal Freyman</author>
-  <categories>Music</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/5bE?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Sun, 16 Apr 2023 04:02:03 -0700</pubDate>
  </item>
 
 </channel>
