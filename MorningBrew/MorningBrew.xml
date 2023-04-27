@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/26/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/26/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/04/27/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/04/27/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/26</link>
- <lastBuildDate>Wed, 26 Apr 2023 07:03:28 -0700</lastBuildDate>
- <pubDate>Wed, 26 Apr 2023 07:03:28 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/04/27</link>
+ <lastBuildDate>Thu, 27 Apr 2023 00:03:23 -0700</lastBuildDate>
+ <pubDate>Thu, 27 Apr 2023 00:03:23 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Why are rent prices still so high?</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/1494930b05846b2adc1919ee52a5916f76df6e06-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Rent growth is 17% higher than 2021 levels, despite beginning to moderate in September, according to Rent. In other words: Rental prices could be cooling off, but the official CPI data doesn’t reflect this. Rep. Ro Khanna, a Democrat from California, introduced a federal bill last October that would strip large investors from snatching up single-family homes for tax incentives. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. If that trend continues, then rent prices might fall in line with real-time inflationary measures. But if BlackRock isn’t totally responsible for stubbornly high rent prices, and neither are Airbnb hosts who drill through tasteful architectural details to hang driftwood signs that read “I’M ON LAKE TIME”... ), one other theory has gained steam in the last few years: Investment firms are scooping up homes and constricting supply. But in 2010, as credit and mortgage markets tightened following the pop of the 2008 housing bubble, more than 75% of growth in the market came from renters with incomes of $75,000 or more, according to the Joint Center for Housing Studies of Harvard University. For example, month over month rent growth was 0.5% in March, an improvement from the approximately 0.8% monthly increase we saw in late 2022. Since the pandemic began, housing prices have soared. In the March consumer price index report, rents jumped almost 9% from last year, far outpacing the overall inflation rate of 5%. Some point to spiking mortgage rates driving would-be homeowners into the rental market; others to investment firms scooping up units and limiting the available supply. When asked why renters can’t find a studio under two grand, housing experts and economists often point to one thing: not enough supply.</description>
+  <link>https://links.morningbrew.com/c/5LZ?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Lillian Stone</author>
+  <categories>Real estate</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5LZ?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Thu, 27 Apr 2023 00:01:33 -0700</pubDate>
+ </item>
+ <item>
+  <title>Janet Jackson gets hip-checked by the Hawks</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/9e40ffd2dd54a3740e340bb862f9cf2eba3d8d42-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. One night, two queens of pop: Janet Jackson’s rescheduled concert will take place at the same time as the first of Taylor Swift’s three Eras Tour shows in Atlanta at Mercedes-Benz Stadium. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeNo one was counting on the Atlanta Hawks getting booted from the playoffs more than the folks who run the team’s stadium—and maybe Janet Jackson. —ML</description>
+  <link>https://links.morningbrew.com/c/5LM?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Molly Liebergall</author>
+  <categories>Sports</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5LM?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Thu, 27 Apr 2023 00:01:24 -0700</pubDate>
+ </item>
+ <item>
+  <title>Ed Sheeran’s copyright infringement trial starts</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/48a87831c2182bd2a4d3250911e45b8435e1ccb0-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. The case dates back to 2017, when the family of Ed Townsend—Gaye’s co-writer on “Let’s Get It On”—sued Sheeran for $100 million, alleging that he copy-and-pasted a four-chord progression from the song for his Grammy-winning bop “Thinking Out Loud.” Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. On the one hand…the chord progression does sound almost identical. He won one case and settled another out of court. His defense team claims that there are over a dozen songs that use the same chord progression, including some that predate “Let’s Get It On.”Big picture: Copyright infringement claims have been popping up more frequently in the music industry in recent years. And the plaintiff’s lawyer said a video of Sheeran singing a mashup of the two songs at a concert is the star’s “confession.” —MM</description>
+  <link>https://links.morningbrew.com/c/5LH?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>Entertainment</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5LH?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Thu, 27 Apr 2023 00:01:23 -0700</pubDate>
+ </item>
+ <item>
+  <title>Disney takes DeSantis feud to the next level</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4f22e27a231aeca65a54d7acf388676a95b6bb81-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe battle between Florida Gov. Ron DeSantis and one of the state’s largest employers is getting hotter than the final plate in the Hot Ones Challenge. Disney filed its suit almost immediately after the board hand-picked by DeSantis to govern the district voted to nullify land use agreements made by the previous Disney-controlled board. Back before Disney’s CEO called out the governor in front of investors and DeSantis threatened to build a prison next to Disney World, Disney benefited from Florida’s business-friendly climate. Disney and DeSantis have been dueling like Peter Pan and Captain Hook ever since the company criticized the so-called “Don’t Say Gay” law last spring, and yesterday Disney sued DeSantis, claiming he orchestrated a campaign of retaliation against the company for exercising its free speech rights. The feud hinges on control of the special district where Disney World sits. —CC The suit notes that its existing contracts with the state of Florida would invest $17 billion in Disney World and create 13,000 jobs over the next decade. From a spoonful of sugar to a 74-page lawsuitDisney’s suit accuses DeSantis of a “relentless campaign to weaponize government power against Disney in retaliation for expressing a political viewpoint.”</description>
+  <link>https://links.morningbrew.com/c/5Lz?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Cassandra Cassidy</author>
+  <categories>Business News</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5Lz?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Thu, 27 Apr 2023 00:01:23 -0700</pubDate>
+ </item>
  <item>
   <title>A tale of 2 prime-time stars flaming out</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0fe3cbc135b4473f2d992ed3190149e46bf449f2-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It was one of the top shows on cable news, regularly drawing more than 3 million nightly viewers. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. It’s not entirely surprising: Tucker Carlson Tonight was as synonymous with Fox as Law &amp; Order is with NBC. ’s market value dropped after news of his departure broke.</description>
@@ -334,42 +370,6 @@
   <categories>Business News</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/18/apple-store-makes-india-debut</guid>
   <pubDate>Wed, 19 Apr 2023 07:56:18 -0700</pubDate>
- </item>
- <item>
-  <title>Fox will pay $787.5m to settle Dominion defamation suit</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d6eff48b05aba4c3c5c5e00f9454296e6e499571-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. A settlement of this magnitude reflects the gravity of the caseDominion, which makes electronic voting machines, sued Fox News for defamation, accusing the network of knowingly pushing baseless claims that Dominion helped rig the 2020 presidential election in Joe Biden’s favor. For democracy…critics of Fox News were universally disappointed that the case didn’t go to trial. The judge presiding over the case had already ruled that Fox News’s statements about Dominion’s role in the 2020 election were false. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeRight before starting its hugely anticipated libel trial, Fox News told Dominion Voting Systems, “How about we pay you $787.5 million and we not do this.” They say that in pushing former President Trump’s false “rigged election” narrative, Fox News helped foment the distrust of elections that led to the Jan. 6, 2021, attack on the Capitol—and this settlement doesn’t hold the network accountable. —NF css-1dlcpt7[data-readonly]{box-shadow:none! Last month, a NY judge allowed the case to proceed. For Dominion…well, we’ll just let the $787.5 million do the talking, considering the company generates less than $100 million per year in sales, per Axios’s Dan Primack.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/18/fox-will-pay-usd787-5m-to-settle-dominion-defamation-suit</link>
-  <author>Neal Freyman</author>
-  <categories>Media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/18/fox-will-pay-usd787-5m-to-settle-dominion-defamation-suit</guid>
-  <pubDate>Wed, 19 Apr 2023 07:56:17 -0700</pubDate>
- </item>
- <item>
-  <title>Apple Store makes India debut</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/ddc8c9e3f0e4a7bb77d999674d4f388691397497-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. And India is not just becoming a bigger consumer market for Apple products; it’s also making them: The latest iPhone is produced there, and Apple’s main manufacturing partner, Foxconn, recently invested $700 million in an Indian manufacturing facility. Though the notoriously budget-busting iPhone is not the go-to for most Indians, the Apple logo increasingly features in the mirror selfies of India’s middle- and upper classes. —SK css-1dlcpt7[data-readonly]{box-shadow:none! According to UN data, India’s population will surpass China’s sometime this year, and Apple sees a sea of future customers in India’s more than 600 million smartphone users.</description>
-  <link>https://links.morningbrew.com/c/5nr?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Sam Klebanov</author>
-  <categories>Business News</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/5nr?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Wed, 19 Apr 2023 01:30:30 -0700</pubDate>
- </item>
- <item>
-  <title>Netflix reports less dramatic earnings than a year ago</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-04-18%2Fimage-058db433485e06723e2644cea63772a516cb2a0f-480x270-gif%2Fnetflix.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Despite the launch of its $6.99 ad tier to attract more users, Netflix added 1.75 million net subscribers, about 500,000 short of expectations. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeExactly one year ago, Netflix dropped the bombshell that it had lost subscribers for the first time in 10 years, leading to a nearly 35% stock wipeout the next day. Soon, it won’t even have its DVD rental service to fall back on. Plus, Netflix’s sports docuseries about golf and tennis intended to build off of its Formula One hit are not remotely close to as popular. —MM Leeches of the family, rejoice!</description>
-  <link>https://links.morningbrew.com/c/5nl?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Matty Merritt</author>
-  <categories>Streaming</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/5nl?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Wed, 19 Apr 2023 01:30:29 -0700</pubDate>
- </item>
- <item>
-  <title>Fox will pay $787.5m to settle Dominion defamation suit</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/d6eff48b05aba4c3c5c5e00f9454296e6e499571-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. A settlement of this magnitude reflects the gravity of the caseDominion, which makes electronic voting machines, sued Fox News for defamation, accusing the network of knowingly pushing baseless claims that Dominion helped rig the 2020 presidential election in Joe Biden’s favor. For democracy…critics of Fox News were universally disappointed that the case didn’t go to trial. The judge presiding over the case had already ruled that Fox News’s statements about Dominion’s role in the 2020 election were false. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeRight before starting its hugely anticipated libel trial, Fox News told Dominion Voting Systems, “How about we pay you $787.5 million and we not do this.” They say that in pushing former President Trump’s false “rigged election” narrative, Fox News helped foment the distrust of elections that led to the Jan. 6, 2021, attack on the Capitol—and this settlement doesn’t hold the network accountable. —NF css-1dlcpt7[data-readonly]{box-shadow:none! Last month, a NY judge allowed the case to proceed. For Dominion…well, we’ll just let the $787.5 million do the talking, considering the company generates less than $100 million per year in sales, per Axios’s Dan Primack.</description>
-  <link>https://links.morningbrew.com/c/5n8?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Neal Freyman</author>
-  <categories>Media</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/5n8?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Wed, 19 Apr 2023 01:30:29 -0700</pubDate>
  </item>
 
 </channel>
