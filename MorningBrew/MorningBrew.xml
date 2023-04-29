@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/28/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/28/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/04/29/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/04/29/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/28</link>
- <lastBuildDate>Fri, 28 Apr 2023 08:23:23 -0700</lastBuildDate>
- <pubDate>Fri, 28 Apr 2023 08:23:23 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/04/29</link>
+ <lastBuildDate>Sat, 29 Apr 2023 00:03:23 -0700</lastBuildDate>
+ <pubDate>Sat, 29 Apr 2023 00:03:23 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>No Shave November in May…but for lawns</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3251c8eafba3c600ff139f8e728979783f6b2fc1-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In past years, participants have watched their lawns transform from an “ecological dead zone”—as one professor calls the average American yard—into a tall-grassed ecosystem rife with bumblebees, songbirds, chipmunks, and other forest friends... But some environmentalists say No Mow May isn’t the right way to bring biodiversity back to residential areas because it “teases” insects and other pollinators. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeTo mow or not to mow? —ML That is the question homeowners are debating as more cities and towns embrace No Mow May, a movement started in 2019 to revitalize backyard wildlife by refraining from lawn care for an entire month. The Guelph Turfgrass Institute suggests channeling the benefits of No Mow May throughout the other 11 months by sectioning off a part of the yard as a permanent “wildflower zone.”</description>
+  <link>https://links.morningbrew.com/c/5Uv?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Molly Liebergall</author>
+  <categories>Environment</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5Uv?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sat, 29 Apr 2023 00:01:30 -0700</pubDate>
+ </item>
+ <item>
+  <title>Bed Bath &amp; Beyond store closures will make room for booming discount retailers</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/a1ae5b8631a509d15630a73283d93178960b0aa4-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable.</description>
+  <link>https://links.morningbrew.com/c/5Uq?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>Retail</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5Uq?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sat, 29 Apr 2023 00:01:30 -0700</pubDate>
+ </item>
+ <item>
+  <title>Pour one out for First Republic</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/bca410e55bc347bbf0b8c9df2c449861ba4067e9-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. First Republic got hit extra hard by the crisis because it had successfully pursued wealthy clients in order to grow. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeFirst Republic Bank might be breathing its last breaths. The bank panic that led to the collapse of Silicon Valley Bank and Signature Bank left First Republic’s depositors worried about whether it could stay afloat. Looking ahead…if the bank fails, regulators will have some busy days ahead of them deciding whether to make First Republic depositors whole and assuring the public that the banking sector isn’t in trouble. Things calmed down after heavy hitters, including JPMorgan and Bank of America, deposited $30 billion in the bank last month. Its once enviable client list became a liability since two-thirds of accounts at the bank had balances above $250k—so most depositors knew they wouldn’t be made whole by the Federal Deposit Insurance Corporation if First Republic ran into trouble.</description>
+  <link>https://links.morningbrew.com/c/5US?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Sam Klebanov</author>
+  <categories>Business News</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5US?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sat, 29 Apr 2023 00:01:29 -0700</pubDate>
+ </item>
  <item>
   <title>One of Judy Blume’s most frequently banned books heads to the screen</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/10ae61f73569d2557f0d71e85e0ed588c39e0128-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Due to its frank discussion of menstruation and puberty, the book (and Blume’s other works) became a substitute of sorts for the sex ed many tweens never had in their classrooms. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Most recently…Blume’s book Forever was included on a list of 80 books from celebrated authors like Toni Morrison and James Patterson banned last month by a Florida school district. —MM css-1dlcpt7[data-readonly]{box-shadow:none! That’s also why the novel received pushbackAre You There God and some of Blume’s other 32 titles were challenged during the first significant wave of banning books from schools in the ’80s.</description>
@@ -343,33 +370,6 @@
   <categories>Health</categories>
   <guid isPermaLink="false">https://links.morningbrew.com/c/5z3?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
   <pubDate>Sat, 22 Apr 2023 00:01:12 -0700</pubDate>
- </item>
- <item>
-  <title>The Twilight Saga is getting a TV revival</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/2e166baccac53f12af455de89b015f2491ce923c-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. —ML The Twilight series will compete for ratings glory against two familiar foes with equally devoted fans: a 10-year Harry Potter series on HBO Max and Percy Jackson and the Olympians on Disney+. css-1dlcpt7[data-readonly]{box-shadow:none! css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe franchise that spawned five movies and countless Edward Cullen cosplays is coming back from the dead for a television reboot.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/20/the-twilight-saga-is-getting-a-tv-revival</link>
-  <author>Molly Liebergall</author>
-  <categories>Entertainment</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/20/the-twilight-saga-is-getting-a-tv-revival</guid>
-  <pubDate>Fri, 21 Apr 2023 10:31:09 -0700</pubDate>
- </item>
- <item>
-  <title>Oakland A’s are the latest team to wake up in Vegas</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/382e782a1e9154342b75dca89cb5642242c16946-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. In 2016, Vegas had zero pro sports teams, and Oakland had three. Over the last six years, teams have flocked to Vegas like bachelor parties to the MGM Grand—the city is now home to the Raiders (NFL), Golden Knights (NHL), and Aces (WNBA). —CC css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/20/undefined</link>
-  <author>Cassandra Cassidy</author>
-  <categories>Sports</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/20/undefined</guid>
-  <pubDate>Fri, 21 Apr 2023 10:31:08 -0700</pubDate>
- </item>
- <item>
-  <title>BuzzFeed shutters its news division</title>
-  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-04-20%2Fimage-d05cc0a1550c6bc1ea59ab5cf610adcfb3b0d245-1500x1000-gif%2Ffrancis-scialabba-buzzfeed-shutdown-0423.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeBuzzFeed said yesterday it’s shutting down its news operation, BuzzFeed News. Peretti said in an email that the company will focus on areas like its popular quizzes and other content that could potentially be created using AI—in his words, “parts of the business that have demonstrated their ability to add to the company’s bottom line.” css-1dlcpt7[data-readonly]{box-shadow:none! The problem: breaking big news didn’t translate to $$$For all its reporting breakthroughs, BuzzFeed News was an expensive venture and didn’t bring in enough revenue to justify its continued existence, Peretti suggested. CEO Jonah Peretti said the cuts were the result of “economic and industry downturns” and the news division’s unprofitability. In the newsroom’s early days, legacy media outlets rolled their eyes at BuzzFeed’s attempts at hard-hitting journalism.</description>
-  <link>https://www.morningbrew.com/daily/stories/buzzfeed-shutters-its-news-division</link>
-  <author>Matty Merritt</author>
-  <categories>Media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/buzzfeed-shutters-its-news-division</guid>
-  <pubDate>Fri, 21 Apr 2023 10:31:07 -0700</pubDate>
  </item>
 
 </channel>
