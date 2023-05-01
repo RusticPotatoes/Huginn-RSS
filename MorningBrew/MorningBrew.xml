@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/04/30/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/04/30/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/05/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/05/01/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/04/30</link>
- <lastBuildDate>Sun, 30 Apr 2023 00:03:28 -0700</lastBuildDate>
- <pubDate>Sun, 30 Apr 2023 00:03:28 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/05/01</link>
+ <lastBuildDate>Mon, 01 May 2023 00:03:28 -0700</lastBuildDate>
+ <pubDate>Mon, 01 May 2023 00:03:28 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Why your super online friends are talking about Bluesky</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/143568222ba4befdaaa2bc7001d801dbed541d3a-1024x702.jpg?rect=0,9,1024,683&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. On a decentralized platform, one person does not have the power to create rules that govern the entire ecosystem. One of the most recently disillusioned people with Musk is none other than Dorsey. Bluesky is very similar to Twitter, which makes sense since it was originally a side project of Twitter’s and is funded by former Twitter CEO Jack Dorsey. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIf you aren’t on the internet as much as I am (which…congrats, that’s healthier), then you might not have heard of Bluesky, a social media app that’s gaining traction as an alternative to Twitter. Writing on Bluesky, Dorsey said “it all went south” once Musk bought Twitter.</description>
+  <link>https://links.morningbrew.com/c/5Vf?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Neal Freyman</author>
+  <categories>Social Media</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5Vf?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Mon, 01 May 2023 00:01:19 -0700</pubDate>
+ </item>
+ <item>
+  <title>Hollywood braces for writers’ strike</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/cfa97524e6b96e4a323fa73cb2a35d6444b06966-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Studios have been stockpiling scripts ahead of the May 1 deadline, so scripted TV shows would continue for awhile. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIf production companies and unionized writers don’t reach a new contract by midnight tonight, the scribes will put down their No. 2 pencils and strike for the first time in 15 years. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Last month, 97.85% of eligible members of the Writers Guild of America, which represents most of the working writers in Hollywood, voted to authorize a strike if an agreement with major studios wasn’t reached. Here’s why…Shorter series: In the previous TV era, shows like How I Met Your Mother reliably churned out seasons with 20+ episodes. What happens if they strike?</description>
+  <link>https://links.morningbrew.com/c/5V5?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Neal Freyman</author>
+  <categories>Entertainment</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5V5?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Mon, 01 May 2023 00:01:19 -0700</pubDate>
+ </item>
  <item>
   <title>How chess became the hot new esport</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0db2ffd43464d10f9ab35c9d00530d59e794d93f-6048x4024.jpg?rect=6,0,6036,4024&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeUnlike in the chess heydays of the last century, one need not be a Bobby Fischer-level genius to achieve chess stardom now. The sport was likely helped along last year by a perfect hype storm created by Magnus Carlsen, the world’s No. 1 chess player, accusing an opponent of cheating in an in-person game, as well as a Louis Vuitton campaign in which Messi and Ronaldo faced off across a chess board. One of the most popular chess YouTubers, Levy Rozman, is a pro, but he lacks the grandmaster designation of top-tier players. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. The company hopes that the Champions Chess Tour will become the flagship event “for all of chess” in the future, a spokesperson for Chess.</description>
@@ -352,24 +370,6 @@
   <categories>Business News</categories>
   <guid isPermaLink="false">https://links.morningbrew.com/c/5wz?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
   <pubDate>Sun, 23 Apr 2023 00:01:14 -0700</pubDate>
- </item>
- <item>
-  <title>Companies are getting office mates to split the rent</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/da870061fac2cf42f66c5002f0104357b62da429-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. One solution: Get some corporate roommates by subleasing part or all of their office space to other companies. But that doesn’t work for a company that already has a lease, and it doesn’t give the owner the option of ending the sublease at some point when their own company is big enough to fill all the desks—which Paffmann told the Brew can be one reason companies, like the one he worked with, sublease in the first place. According to Mobley, Publicis has listed their space so one company could take over the whole building, or multiple tenants could divvy it up. Michael Paffmann, CEO of VirgoPR, told Morning Brew his company subleases NYC office space from a larger company for eight employees who go in to work two to three times a week. And while Mobley said timesharing is a trend (and has been for a long time for medical offices), he said, “It doesn’t appear to be a big enough trend in traditional office use to really be moving the needle at this point.” Over 250 million square feet of office space is currently available for sublease. For instance, one company comes in on Monday, Tuesday, and Thursday, while another uses the desks on Wednesday and Friday.</description>
-  <link>https://links.morningbrew.com/c/5yN?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Jamie Wilde</author>
-  <categories>Real estate</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/5yN?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Sat, 22 Apr 2023 00:01:18 -0700</pubDate>
- </item>
- <item>
-  <title>After the big chill, California braces for a big melt</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/cfa97524e6b96e4a323fa73cb2a35d6444b06966-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It won’t happen all at once: Temps over the next few days are forecast to hit the 80s, causing some melt, but the true danger will be when 90-degree days come.</description>
-  <link>https://links.morningbrew.com/c/5yY?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Molly Liebergall</author>
-  <categories>Climate Change</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/5yY?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Sat, 22 Apr 2023 00:01:14 -0700</pubDate>
  </item>
 
 </channel>
