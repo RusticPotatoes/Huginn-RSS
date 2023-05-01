@@ -8,9 +8,18 @@
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
  <link>https://www.morningbrew.com/daily/2023/05/01</link>
- <lastBuildDate>Mon, 01 May 2023 00:03:28 -0700</lastBuildDate>
- <pubDate>Mon, 01 May 2023 00:03:28 -0700</pubDate>
+ <lastBuildDate>Mon, 01 May 2023 03:03:23 -0700</lastBuildDate>
+ <pubDate>Mon, 01 May 2023 03:03:23 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The big get bigger: JPMorgan to acquire First Republic</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e7d227377e43a4302f92c7fc142c494394f263ff-5669x3779.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeAnother one bites the dust: Authorities seized First Republic Bank this morning and sold most of its assets to JPMorgan, the country’s largest bank. First Republic tried to weather the storm itself, but after customers withdrew more than $100 billion in deposits in Q1 and its share price plunged nearly 75% last week alone, the government had to hang the “closed” sign on the door. But by quickly finding a buyer over the weekend, the government avoided the unsavory tactic it had to deploy for SVB: protecting deposits over the federally insured cap of $250,000. JPMorgan said it will assume First Republic’s $92 billion in deposits, which is a welcome outcome since making SVB depositors whole cost the FDIC’s Deposit Insurance Fund about $20 billion. First Citizens collected the scraps of SVB, New York Community Bank snatched up assets of Signature Bank, and UBS absorbed crosstown rival Credit Suisse. Like SVB, First Republic is a midsized California-based lender with a specific client base—in this case, wealthy individuals—that made it particularly exposed to the shockwaves of the recent banking turmoil.</description>
+  <link>https://links.morningbrew.com/c/5VA?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Neal Freyman</author>
+  <categories>Finance</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5VA?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Mon, 01 May 2023 03:01:23 -0700</pubDate>
+ </item>
  <item>
   <title>Why your super online friends are talking about Bluesky</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/143568222ba4befdaaa2bc7001d801dbed541d3a-1024x702.jpg?rect=0,9,1024,683&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. On a decentralized platform, one person does not have the power to create rules that govern the entire ecosystem. One of the most recently disillusioned people with Musk is none other than Dorsey. Bluesky is very similar to Twitter, which makes sense since it was originally a side project of Twitter’s and is funded by former Twitter CEO Jack Dorsey. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIf you aren’t on the internet as much as I am (which…congrats, that’s healthier), then you might not have heard of Bluesky, a social media app that’s gaining traction as an alternative to Twitter. Writing on Bluesky, Dorsey said “it all went south” once Musk bought Twitter.</description>
@@ -361,15 +370,6 @@
   <categories>Economy</categories>
   <guid isPermaLink="false">https://links.morningbrew.com/c/5wP?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
   <pubDate>Sun, 23 Apr 2023 00:01:16 -0700</pubDate>
- </item>
- <item>
-  <title>Brew Classifieds: Week of April 17</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3e37b6a7a51f7ff299b63367b250872326ac26d9-1500x375.png?rect=469,0,563,375&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. PERFECTLY PRINTED 4 UR PALM: Formify will 3D print a mouse that fits the shape of your hand. HELP NEUTER MOSQUITOES: Argentina is dealing with one of its worst dengue outbreaks in years. If you take the deal and order a Bambino pizza (one of the most expensive pies on the menu) every day for an entire year, that’s $9,125 in value (without a tip). The host said he believes they did it on purpose because he didn’t let them cancel the 25-day stay after they reserved it.</description>
-  <link>https://links.morningbrew.com/c/5wz?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Matty Merritt</author>
-  <categories>Business News</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/5wz?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Sun, 23 Apr 2023 00:01:14 -0700</pubDate>
  </item>
 
 </channel>
