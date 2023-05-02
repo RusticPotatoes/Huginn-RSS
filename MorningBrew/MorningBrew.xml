@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/05/01/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/05/01/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/05/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/05/02/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/05/01</link>
- <lastBuildDate>Mon, 01 May 2023 06:23:23 -0700</lastBuildDate>
- <pubDate>Mon, 01 May 2023 06:23:23 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/05/02</link>
+ <lastBuildDate>Tue, 02 May 2023 00:03:18 -0700</lastBuildDate>
+ <pubDate>Tue, 02 May 2023 00:03:18 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Choupette and owner Karl Lagerfeld honored at Met Gala</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/1d14abaef1bad79950650c0bdad1909c4b80ff0b-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. “Everything that Karl represented is something that we all generally are very against,” one of the account organizers told the Washington Post. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIf you couldn’t guess by the by the parade of sunglasses and feline homages, the theme of last night’s annual Met Gala fundraiser at the Metropolitan Museum of Art, “Karl Lagerfeld: A Line of Beauty,” commemorated the late fashion playmaker and father to the world’s fanciest cat, Choupette. —CC</description>
+  <link>https://links.morningbrew.com/c/5YY?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Cassandra Cassidy</author>
+  <categories>Entertainment</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5YY?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Tue, 02 May 2023 00:01:28 -0700</pubDate>
+ </item>
+ <item>
+  <title>The ‘Godfather of AI’ fears his own creation</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e6311ac74b5132961c6addb3e350c9c723253240-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. He did so, he said, to be able to speak freely about the dangers of AI without worrying about impacting the company. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe chorus of tech leaders calling for a moratorium on AI development just gained one of the most commanding voices in the sector: Geoffrey Hinton, a trailblazing creator of the deep-learning techniques that underpin ChatGPT and other rapidly evolving AI systems.</description>
+  <link>https://links.morningbrew.com/c/5YT?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Molly Liebergall</author>
+  <categories>AI</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5YT?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Tue, 02 May 2023 00:01:22 -0700</pubDate>
+ </item>
+ <item>
+  <title>What’s next for banks?</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-05-01%2Fimage-4221df880ed9711bcbbe1fde94e5ffb22a71df67-480x360-gif%2Fslack-imgs.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. For now…no one knows if the credits are truly rolling on the banking crisis, but investors seemed to take Dimon’s assurances to heart: Stocks didn’t tank yesterday like they did after the bank failures in March. Purchasing beleaguered banks has been part of its growth strategy for some time, but the bank has experienced buyer’s remorse in the past: JPMorgan had to deal with legal issues and extra expenses when it took over Bear Stearns during the 2008 financial crisis. “This part of the crisis is over,” Dimon said, reasoning that after the three recent bank collapses, there just aren’t many more financial institutions with a large share of uninsured deposits to make them vulnerable to panics. JPMorgan took over First Republic (and its affluent client list), in return for $10.6 billion paid to regulators and other financial concessions. —SK css-1dlcpt7[data-readonly]{box-shadow:none! The aerobic advice came after the banking heavyweight got even bulkier by gobbling up most of the assets of failed First Republic Bank. Are more banking crises coming? But Dimon thinks this time is different, as First Republic had a simpler business model.</description>
+  <link>https://links.morningbrew.com/c/5YL?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Sam Klebanov</author>
+  <categories>Business News</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/5YL?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Tue, 02 May 2023 00:01:22 -0700</pubDate>
+ </item>
  <item>
   <title>Hollywood braces for writers’ strike</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/cfa97524e6b96e4a323fa73cb2a35d6444b06966-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Studios have been stockpiling scripts ahead of the May 1 deadline, so scripted TV shows would continue for awhile. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIf production companies and unionized writers don’t reach a new contract by midnight tonight, the scribes will put down their No. 2 pencils and strike for the first time in 15 years. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Last month, 97.85% of eligible members of the Writers Guild of America, which represents most of the working writers in Hollywood, voted to authorize a strike if an agreement with major studios wasn’t reached. Here’s why…Shorter series: In the previous TV era, shows like How I Met Your Mother reliably churned out seasons with 20+ episodes. What happens if they strike?</description>
@@ -343,33 +370,6 @@
   <categories>Media</categories>
   <guid isPermaLink="false">https://links.morningbrew.com/c/5EC?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
   <pubDate>Tue, 25 Apr 2023 00:02:00 -0700</pubDate>
- </item>
- <item>
-  <title>More Gen Zers own homes than Gen Xers and millennials did at their age</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/08b2255242393a7183adcf28669fa7c7d11570d1-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Gen Zers entered a welcoming labor market with high wages, while millennials had to wade through the fallout of the 2008 recession before they were able to establish themselves financially. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. —MM css-1dlcpt7[data-readonly]{box-shadow:none! The median house sale price for a Gen Z buyer in the area was $255,000 in 2022…$199,525 less than the average median sale price in the US last year, according to the St. Louis Fed.It also comes down to timing. Looking ahead…with interest rate hikes pushing mortgage rates past 6% this year and supply tightening, Gen Zers may not keep up their homebuying pace. Before all you 30-something renters freak out, most young homebuyers bought in cheap areas and jumped on low interest rates. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeParents will have to go back to criticizing their kids for excessive screen time or killing golf, because not owning a home is no longer an accurate roast.</description>
-  <link>https://www.morningbrew.com/daily/stories/more-gen-zers-own-homes-gen-xers-and-millennials</link>
-  <author>Matty Merritt</author>
-  <categories>Real estate</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/more-gen-zers-own-homes-gen-xers-and-millennials</guid>
-  <pubDate>Mon, 24 Apr 2023 06:37:03 -0700</pubDate>
- </item>
- <item>
-  <title>After the big chill, California braces for a big melt</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/cfa97524e6b96e4a323fa73cb2a35d6444b06966-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It won’t happen all at once: Temps over the next few days are forecast to hit the 80s, causing some melt, but the true danger will be when 90-degree days come.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/21/after-the-big-chill-california-braces-for-a-big-melt</link>
-  <author>Molly Liebergall</author>
-  <categories>Climate Change</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/21/after-the-big-chill-california-braces-for-a-big-melt</guid>
-  <pubDate>Mon, 24 Apr 2023 06:37:03 -0700</pubDate>
- </item>
- <item>
-  <title>Bed Bath &amp; Beyond goes bankrupt, plans to close all of its stores</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3c0a9bae3aa040c32530732b5ddb6c07df24737b-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. A massive going-out-of-business sale matched only by Toys R Us and Circuit City in the last 15 years, Axios notes. This effort was led by Mark Tritton, a former Target exec who was installed by activist investors in 2019. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Plus, if you’re one of the many individual investors who piled into Bed Bath &amp; Beyond when it was a trendy meme stock last year, you’ll need to take your medicine and move on. Bed Bath &amp; Beyond coupons are getting scrapped, and so are the stores that accept them. What happens next? But when Tritton tried to replicate his Target success at Bed Bath &amp; Beyond, that strategy broke down like a cheap blender. In certain categories like kitchen appliances, brands matter, and shoppers stopped showing up to Bed Bath &amp; Beyond after it swapped out KitchenAid mixers and OXO garlic mincers for its own stuff. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeYou have two days left to remember where you hoarded your 20%-off Bed Bath &amp; Beyond coupons and redeem them. Numerous bad decisions by Bed Bath &amp; Beyond management led to the chain’s demise, but the worst own-goal of all was its pivot to private-label products, or items that were made exclusively for Bed Bath &amp; Beyond.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/23/bed-bath-and-beyond-goes-bankrupt</link>
-  <author>Neal Freyman</author>
-  <categories>Retail</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/23/bed-bath-and-beyond-goes-bankrupt</guid>
-  <pubDate>Mon, 24 Apr 2023 06:37:02 -0700</pubDate>
  </item>
 
 </channel>
