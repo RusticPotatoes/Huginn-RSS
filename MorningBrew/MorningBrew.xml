@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/05/02/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/05/02/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/05/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/05/03/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/05/02</link>
- <lastBuildDate>Tue, 02 May 2023 08:28:18 -0700</lastBuildDate>
- <pubDate>Tue, 02 May 2023 08:28:18 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/05/03</link>
+ <lastBuildDate>Wed, 03 May 2023 01:31:43 -0700</lastBuildDate>
+ <pubDate>Wed, 03 May 2023 01:31:43 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>VC funding dropped to $18 billion last month</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0afa316413a9f44eb6be1f3583bc9b6b0723684f-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. One sector that’s on the up-and-up: AI, partly due to increased investor interest in generative AI tools like ChatGPT and Bard. Companies in the AI space are raising at high valuations, Teare said, but despite the spike, the sector wasn’t enough to buoy the rest of the tech industry’s numbers. The technologies that will shape the future of business, all in one newsletter. “Every single funding stage is down from the peaks of 2021, but I think seed funding has stayed the most robust—it’s the least impacted by what’s happening—and then…Series A is stronger than Series B,” Teare said, adding, “It’ll be interesting to see how that market—the newer companies being formed…what those valuations and what those round sizes look like into 2023.” Looking aheadAcross the board, investors seem to be choosier about their investments, and since the “heat has gone away from the market…it’s just a much more selective funding environment overall,” Teare said. Top-up roundsBut Teare said her team has seen more companies raise extension rounds—especially if they need extra money to carry them through to their next big milestone or larger-scale funding round, in a presumably less challenging funding environment. “What we’ve seen now is that, broadly, for the tech industry, that companies are not able to raise…that next big master round, and so they’re raising extensions…funding to sort of tide over that company for the next 12 to 18 months, to get them through to a funding environment which is a little bit stronger.” “Typically, you raise rounds every 18 to 24 months, and we were seeing companies raise more often…some more at 12 to 18 months…largely because they could in this funding environment,” Teare said.</description>
+  <link>https://links.morningbrew.com/c/60S?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Hayden Field</author>
+  <categories>Venture capital</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/60S?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Wed, 03 May 2023 01:29:44 -0700</pubDate>
+ </item>
+ <item>
+  <title>WGA strike means we’re about to see some weird stuff on TV</title>
+  <description>&lt;img src='/_next/image?url=https%3A%2F%2Fstorage.morningbrew.com%2Fgif%2F2023-05-02%2Fimage-5d6f997925e16c254330d56cf178adcd42a71eb1-412x275-gif%2Fconan-coin-zoom-0423.webp&amp;w=3840&amp;q=70'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. What does TV look like without its writers? —CC While the boom in reality TV was underway before the previous strike, the lack of competition from scripted series helped juice the genre’s ratings: Over 31 million people tuned in to watch their crush David Archuleta lose to David Cook in the American Idol finale in 2008. css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://links.morningbrew.com/c/60C?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Cassandra Cassidy</author>
+  <categories>TV</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/60C?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Wed, 03 May 2023 01:29:43 -0700</pubDate>
+ </item>
+ <item>
+  <title>AI fears cut Chegg in half</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/34106c75b37e888b0a188b4d24b0b6664d0c5399-720x480.png?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Zoom out: Chegg’s warning about ChatGPT stands in stark contrast to the companies mentioning AI to excite investors: On their earnings calls last week, Meta, Alphabet, Microsoft, and Amazon collectively dropped “AI” 168 times, according to Insider. It’s the first instance of a company warning that ChatGPT was eating into its business that we know of. Chegg has partnered with ChatGPT-creator OpenAI to develop its own conversational AI tool Cheggmate, which it’ll start testing this month. The AI anxiety spread to other education companies: Shares in publisher Pearson and language-learning app Duolingo dropped about 15% and 10%, respectively. —SK css-1dlcpt7[data-readonly]{box-shadow:none! Meanwhile, Duolingo released a subscription tier that lets users practice their language skills with an AI bot and has an AI-powered tool to explain mistakes. So, how to combat ChatGPT disrupting your business?</description>
+  <link>https://links.morningbrew.com/c/60T?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Sam Klebanov</author>
+  <categories>Business News</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/60T?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Wed, 03 May 2023 01:29:42 -0700</pubDate>
+ </item>
+ <item>
+  <title>Pornhub shuts down site in Utah ahead of new age verification law</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/c5eff3fca53271242e15137018ec5ab979cfcb40-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeGoogle searches for “VPN” have skyrocketed in Utah this week for one reason: You can no longer visit Pornhub from a Utah IP address. Louisiana implemented a similar law in January, but unlike Utah, it has a digital ID program that residents can use to verify their age and access adult sites. If you fire up Incognito Mode and head to Pornhub with an IP address in the state of Utah, you’ll be diverted to a page that has an adult performer (SFW) reading a statement from the site that claims “giving your ID card every time you want to visit an adult platform is not the most effective solution for protecting our users.” Counterpoint: Social media companies warn that restricting access to their sites would limit free speech and push younger users to less safe, more-fringe corners of the internet—an argument echoed by Pornhub in its opposition to the Utah bill. —MM To protest a new age restriction law that goes into effect today, MindGeek’s adult sites, including Pornhub, blocked access to its content in Utah.</description>
+  <link>https://links.morningbrew.com/c/60r?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>Government</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/60r?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Wed, 03 May 2023 01:29:41 -0700</pubDate>
+ </item>
  <item>
   <title>Choupette and owner Karl Lagerfeld honored at Met Gala</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/1d14abaef1bad79950650c0bdad1909c4b80ff0b-1024x683.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. “Everything that Karl represented is something that we all generally are very against,” one of the account organizers told the Washington Post. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeIf you couldn’t guess by the parade of sunglasses and feline homages, the theme of last night’s annual Met Gala fundraiser at the Metropolitan Museum of Art, “Karl Lagerfeld: A Line of Beauty,” commemorated the late fashion playmaker and father to the world’s fanciest cat, Choupette. —CC</description>
@@ -334,42 +370,6 @@
   <categories>Health</categories>
   <guid isPermaLink="false">https://links.morningbrew.com/c/5IF?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
   <pubDate>Wed, 26 Apr 2023 01:37:25 -0700</pubDate>
- </item>
- <item>
-  <title>Corporations charge more and make more</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/5d9da529eb58daf4beedc9e39b02444c1f617699-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Consumer giants Kimberly-Clark, Nestlé, and P&amp;G raked in more revenue last quarter after they jacked up prices by about 10%. —SK css-1dlcpt7[data-readonly]{box-shadow:none! Higher sticker prices helped GM add almost $1,800 to its per-car profit in North America and grow its revenue. Looking ahead…execs at companies like Coca-Cola say it’s only a matter of time before they’ll have to stop increasing prices or risk losing customers. Chipotle increased prices and store traffic also increased, the company said. Pepsi’s CFO said its customers have already been opting for cheaper products, and the CEO of McDonald’s told the Financial Times that customers were starting to push back on the company’s beefier price tags.</description>
-  <link>https://links.morningbrew.com/c/5Iz?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Sam Klebanov</author>
-  <categories>Business News</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/5Iz?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Wed, 26 Apr 2023 01:37:25 -0700</pubDate>
- </item>
- <item>
-  <title>AI-generated Republican attack ad has some experts worried about AI’s role in 2024 election</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e15886ef918770a10db75e937352578b3680b94e-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. While political campaigns have used AI tools to help canvass voters for years, recent breakthroughs in generative AI (like ChatGPT, Midjourney, and other programs) have taken the tech to a whole new level of realism. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}.</description>
-  <link>https://links.morningbrew.com/c/5Io?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Matty Merritt</author>
-  <categories>AI</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/5Io?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Wed, 26 Apr 2023 01:37:24 -0700</pubDate>
- </item>
- <item>
-  <title>LVMH looks like France’s Apple</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/676f63578e3be42ba2c150da77f95d7402b78ab0-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. As Bloomberg notes, selling status is to France what Big Tech is to the US—three of France’s Top 4 most valuable companies are luxury brands. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeEurope finally has a company worth $500 billion since LVMH hit the milestone market valuation yesterday. —SK css-1dlcpt7[data-readonly]{box-shadow:none!</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/24/lvmh-france-apple</link>
-  <author>Sam Klebanov</author>
-  <categories>Business News</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/24/lvmh-france-apple</guid>
-  <pubDate>Tue, 25 Apr 2023 07:46:34 -0700</pubDate>
- </item>
- <item>
-  <title>Everybody hates the Snapchat AI bot</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/9f9fbd7024dc31ff26b216afebf8381ba48f033b-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. ), but these changes have actually resulted in a flurry of new users, data from Sensor Tower shows.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/24/everybody-hates-the-snapchat-ai-bot</link>
-  <author>Molly Liebergall</author>
-  <categories>Social Media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/24/everybody-hates-the-snapchat-ai-bot</guid>
-  <pubDate>Tue, 25 Apr 2023 07:46:33 -0700</pubDate>
  </item>
 
 </channel>
