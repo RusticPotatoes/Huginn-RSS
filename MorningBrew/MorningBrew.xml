@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/05/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/05/03/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/05/04/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/05/04/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/05/03</link>
- <lastBuildDate>Wed, 03 May 2023 07:58:43 -0700</lastBuildDate>
- <pubDate>Wed, 03 May 2023 07:58:43 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/05/04</link>
+ <lastBuildDate>Thu, 04 May 2023 00:03:38 -0700</lastBuildDate>
+ <pubDate>Thu, 04 May 2023 00:03:38 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>New York nixes gas stoves in new buildings</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/1fdd764d01503cf410d4832b12ebc0b0233cb875-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. On Tuesday, the state became the first to ban natural gas in new buildings as part of a slide toward electric power. Some cities—San Francisco, New York City, and Seattle—have passed their own natural gas bans. The ban—slated to go into effect starting in 2026—would apply to all natural gas facilities in new residential buildings and some commercial ones (restaurants, hospitals, and, um, crematoriums are exempt). —CC css-1dlcpt7[data-readonly]{box-shadow:none! The ban will help New York meet its strict greenhouse gas emissions goals. A partisan debate ignited, and it’s still burning:Republican lawmakers oppose any ban, citing energy cost increases, while many Democrats support a ban to curb climate change. But 20 Republican-controlled state legislatures have preemptively enacted laws that prohibit cities from banning natural gas. Though the problem has been known for years, the issue came off the back burner in January when a US Consumer Product Safety Commission official publicly floated a national ban. css-1dlcpt7[data-disabled]{opacity:0.4;background-color:rgba(0,0,0,. Natural gas comes with adverse health effects, according to the International Journal of Environmental Research and Public Health, as well as detrimental environmental impacts.</description>
+  <link>https://links.morningbrew.com/c/63L?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Cassandra Cassidy</author>
+  <categories>Energy</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/63L?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Thu, 04 May 2023 00:01:39 -0700</pubDate>
+ </item>
+ <item>
+  <title>Airbnb pushes single-room rentals in wake of tightening travel budgets</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/bb5c2f2709f56a04f2d3900c7850a03d39083f92-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It hit $153 last year, but single-room rentals cost $67 per night on average. The company said the average daily price of renting an Airbnb has jumped 36% in the last three years. The short-term rental company rolled out a whole suite of upgrades yesterday, the biggest being a new feature to facilitate renting cheaper single rooms in shared homes. —MM Big picture: Despite everyone piling on Airbnb hosts’ unhinged checkout requests (including us! css-1dlcpt7[data-readonly]{box-shadow:none!</description>
+  <link>https://links.morningbrew.com/c/63E?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>Travel</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/63E?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Thu, 04 May 2023 00:01:39 -0700</pubDate>
+ </item>
+ <item>
+  <title>Rate Hike: Episode X - A New Hope</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/e9b9e34e881faba83fffc4fb9344519886916a63-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. While eager investors always read a lot into any small update, this time even Fed Chair Jerome Powell acknowledged it was a “meaningful change” when asked about it at a press conference. The tweak removed a line included in other recent statements that said the Fed “anticipates” additional rate increases. So, if the Fed is going to come off the rate-raising tear it’s been on since March 2022, inflation needs to keep slowing. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThese Fed sequels are starting to feel repetitive: The Federal Reserve raised interest rates by another 25 basis points yesterday—the 10th rate hike in a little over a year. But with all the rate hikes the Fed has made already—not to mention the recent failures of three banks, which forced financial institutions to raise their lending standards—inflation is likely to keep coming down. But the hike cycle may be broken soonThe Fed hasn’t made any promises (it never does), but economists are hopeful that a revision to the Fed’s language in the statement it put out yesterday—coupled with recent slowdowns in inflation and hiring—may indicate an upcoming pause in rate hikes. The hike puts interest rates above 5% for the first time since 2007, as stubborn inflation has prompted the Fed’s fastest series of rate increases since the 1980s. —ML</description>
+  <link>https://links.morningbrew.com/c/63x?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Molly Liebergall</author>
+  <categories>Federal Reserve</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/63x?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Thu, 04 May 2023 00:01:38 -0700</pubDate>
+ </item>
  <item>
   <title>AI fears cut Chegg in half</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/34106c75b37e888b0a188b4d24b0b6664d0c5399-720x480.png?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Zoom out: Chegg’s warning about ChatGPT stands in stark contrast to the companies mentioning AI to excite investors: On their earnings calls last week, Meta, Alphabet, Microsoft, and Amazon collectively dropped “AI” 168 times, according to Insider. It’s the first instance of a company warning that ChatGPT was eating into its business that we know of. Chegg has partnered with ChatGPT-creator OpenAI to develop its own conversational AI tool Cheggmate, which it’ll start testing this month. The AI anxiety spread to other education companies: Shares in publisher Pearson and language-learning app Duolingo dropped about 15% and 10%, respectively. —SK css-1dlcpt7[data-readonly]{box-shadow:none! Meanwhile, Duolingo released a subscription tier that lets users practice their language skills with an AI bot and has an AI-powered tool to explain mistakes. So, how to combat ChatGPT disrupting your business?</description>
@@ -343,33 +370,6 @@
   <categories>Entertainment</categories>
   <guid isPermaLink="false">https://links.morningbrew.com/c/5LH?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
   <pubDate>Thu, 27 Apr 2023 00:01:23 -0700</pubDate>
- </item>
- <item>
-  <title>Disney takes DeSantis feud to the next level</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/4f22e27a231aeca65a54d7acf388676a95b6bb81-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeThe battle between Florida Gov. Ron DeSantis and one of the state’s largest employers is getting hotter than the final plate in the Hot Ones Challenge. Disney filed its suit almost immediately after the board hand-picked by DeSantis to govern the district voted to nullify land use agreements made by the previous Disney-controlled board. Back before Disney’s CEO called out the governor in front of investors and DeSantis threatened to build a prison next to Disney World, Disney benefited from Florida’s business-friendly climate. Disney and DeSantis have been dueling like Peter Pan and Captain Hook ever since the company criticized the so-called “Don’t Say Gay” law last spring, and yesterday Disney sued DeSantis, claiming he orchestrated a campaign of retaliation against the company for exercising its free speech rights. The feud hinges on control of the special district where Disney World sits. —CC The suit notes that its existing contracts with the state of Florida would invest $17 billion in Disney World and create 13,000 jobs over the next decade. From a spoonful of sugar to a 74-page lawsuitDisney’s suit accuses DeSantis of a “relentless campaign to weaponize government power against Disney in retaliation for expressing a political viewpoint.”</description>
-  <link>https://links.morningbrew.com/c/5Lz?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Cassandra Cassidy</author>
-  <categories>Business News</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/5Lz?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Thu, 27 Apr 2023 00:01:23 -0700</pubDate>
- </item>
- <item>
-  <title>A tale of 2 prime-time stars flaming out</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/0fe3cbc135b4473f2d992ed3190149e46bf449f2-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. It was one of the top shows on cable news, regularly drawing more than 3 million nightly viewers. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. It’s not entirely surprising: Tucker Carlson Tonight was as synonymous with Fox as Law &amp; Order is with NBC. ’s market value dropped after news of his departure broke.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/24/a-tale-of-2-prime-time-stars-flaming-out</link>
-  <author>Cassandra Cassidy</author>
-  <categories>Media</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/24/a-tale-of-2-prime-time-stars-flaming-out</guid>
-  <pubDate>Wed, 26 Apr 2023 07:01:25 -0700</pubDate>
- </item>
- <item>
-  <title>Corporations charge more and make more</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/5d9da529eb58daf4beedc9e39b02444c1f617699-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Consumer giants Kimberly-Clark, Nestlé, and P&amp;G raked in more revenue last quarter after they jacked up prices by about 10%. —SK css-1dlcpt7[data-readonly]{box-shadow:none! Higher sticker prices helped GM add almost $1,800 to its per-car profit in North America and grow its revenue. Looking ahead…execs at companies like Coca-Cola say it’s only a matter of time before they’ll have to stop increasing prices or risk losing customers. Chipotle increased prices and store traffic also increased, the company said. Pepsi’s CFO said its customers have already been opting for cheaper products, and the CEO of McDonald’s told the Financial Times that customers were starting to push back on the company’s beefier price tags.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/25/corporations-charge-more-and-make-more</link>
-  <author>Sam Klebanov</author>
-  <categories>Business News</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/25/corporations-charge-more-and-make-more</guid>
-  <pubDate>Wed, 26 Apr 2023 07:01:23 -0700</pubDate>
  </item>
 
 </channel>
