@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/05/06/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/05/06/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/05/07/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/05/07/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/05/06</link>
- <lastBuildDate>Sat, 06 May 2023 00:03:43 -0700</lastBuildDate>
- <pubDate>Sat, 06 May 2023 00:03:43 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/05/07</link>
+ <lastBuildDate>Sun, 07 May 2023 00:03:38 -0700</lastBuildDate>
+ <pubDate>Sun, 07 May 2023 00:03:38 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Debt ceiling takes the floor</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/31516ec02805b45f2bae4da016c9b84ce55be654-2048x1366.jpg?rect=0,0,2048,1365&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. One approach would be to invoke a clause in the 14th Amendment to the Constitution, which affirms the sanctity of public debt, so the Federal government can keep borrowing in order to continue paying its existing creditors. Last month, the GOP-controlled House passed a bill that would lift the borrowing cap and slash government spending by around $3.2 trillion over 10 years. Republicans in Congress say they won’t increase the debt limit without budget cuts. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. He says it would fill Treasury coffers while keeping on-paper debt below the limit.</description>
+  <link>https://links.morningbrew.com/c/69X?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Sam Klebanov</author>
+  <categories>Government</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/69X?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sun, 07 May 2023 00:01:51 -0700</pubDate>
+ </item>
+ <item>
+  <title>Brew Classifieds: Week of May 1</title>
+  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/3e37b6a7a51f7ff299b63367b250872326ac26d9-1500x375.png?rect=469,0,563,375&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Just one problem: All of the shoes were for the right foot. css-y2oq5g{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;width:auto;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-normal);height:var(--chakra-sizes-10);min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);color:var(--chakra-colors-white);background:var(--colors-primary);radius:var(--border-radius);}. —MM</description>
+  <link>https://links.morningbrew.com/c/69K?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
+  <author>Matty Merritt</author>
+  <categories>Business News</categories>
+  <guid isPermaLink="false">https://links.morningbrew.com/c/69K?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
+  <pubDate>Sun, 07 May 2023 00:01:49 -0700</pubDate>
+ </item>
  <item>
   <title>Desperately seeking marinara sauce</title>
   <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/95c2c84edabcc0acd107c5b90fde2f3d843e2737-968x646.jpg?rect=0,0,968,645&amp;w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. One tweet that garnered more than 5 million views read, “someone very mysteriously dumped 3-400 pounds of pasta in the woods in old bridge, nj …… i need to know everything.” Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The internet went macaroni this week over photos of what one state official called “15 wheelbarrow loads” of dry pasta dumped in the woods in central New Jersey. was one of the top comments on the Reddit thread tagged “Weird NJ.” —ML “Italian grandmas: why would someone dump four servings of pasta in the woods like that?” css-y2oq5g[data-hover][data-disabled]{background:var(--colors-primary);opacity:0.5;}SubscribeNew Jerseyans need to keep a couple of things in mind when hiking: Watch out for two kinds of venomous snakes and—wait, whose pasta is that?</description>
@@ -352,24 +370,6 @@
   <categories>TV</categories>
   <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/27/jerry-springer-ringmaster-of-civilization-s-end-dies-at-79</guid>
   <pubDate>Fri, 28 Apr 2023 08:21:30 -0700</pubDate>
- </item>
- <item>
-  <title>A new challenger emerges in the weight-loss drug race</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/763cc0dc0eb28a329f7f3800fd72930543ab0ace-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. The timeline: Eli Lilly expects the FDA to approve Mounjaro for weight loss soon—perhaps by the end of the year. Once greenlighted for weight loss, Mounjaro is projected to become one of the highest-grossing drugs of all time with $50 billion in annual sales, driving the weight-loss/diabetes medication industry to what some estimate could be $150 billion per year. The results reinforced previous findings that Mounjaro (generic name tirzepatide) can help diabetic and nondiabetic patients lose more weight than people did in past studies of Wegovy. —ML css-1dlcpt7[data-readonly]{box-shadow:none! And judging by how quickly Wegovy went to backorder after being officially approved for non-diabetes purposes, Mounjaro will likely also face a frenzy of weight-loss prescriptions that causes more shortages.</description>
-  <link>https://www.morningbrew.com/daily/stories/2023/04/27/new-challenger-in-weight-loss-drug-race</link>
-  <author>Molly Liebergall</author>
-  <categories>Health</categories>
-  <guid isPermaLink="false">https://www.morningbrew.com/daily/stories/2023/04/27/new-challenger-in-weight-loss-drug-race</guid>
-  <pubDate>Fri, 28 Apr 2023 08:21:28 -0700</pubDate>
- </item>
- <item>
-  <title>One of Judy Blume’s most frequently banned books heads to the screen</title>
-  <description>&lt;img src='https://cdn.sanity.io/images/bl383u0v/production/10ae61f73569d2557f0d71e85e0ed588c39e0128-1500x1000.jpg?w=900&amp;h=600&amp;q=80&amp;fit=max&amp;auto=format&amp;dpr=1'&gt;&lt;br/&gt;. Due to its frank discussion of menstruation and puberty, the book (and Blume’s other works) became a substitute of sorts for the sex ed many tweens never had in their classrooms. Become smarter in just 5 minutesGet the daily email that makes reading the news actually enjoyable. Most recently…Blume’s book Forever was included on a list of 80 books from celebrated authors like Toni Morrison and James Patterson banned last month by a Florida school district. —MM css-1dlcpt7[data-readonly]{box-shadow:none! That’s also why the novel received pushbackAre You There God and some of Blume’s other 32 titles were challenged during the first significant wave of banning books from schools in the ’80s.</description>
-  <link>https://links.morningbrew.com/c/5Pe?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</link>
-  <author>Matty Merritt</author>
-  <categories>Entertainment</categories>
-  <guid isPermaLink="false">https://links.morningbrew.com/c/5Pe?mid={{md5(profile.email)}}&amp;cid={{message_id()}}</guid>
-  <pubDate>Fri, 28 Apr 2023 00:01:31 -0700</pubDate>
  </item>
 
 </channel>
