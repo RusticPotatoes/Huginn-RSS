@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
- <atom:link href="https://www.morningbrew.com/daily/2023/05/09/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://www.morningbrew.com/daily/2023/05/09/favicon.ico</atom:icon>
+ <atom:link href="https://www.morningbrew.com/daily/2023/12/03/users/1/web_requests/22/MorningBrew.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://www.morningbrew.com/daily/2023/12/03/favicon.ico</atom:icon>
  
 
  <title>MorningBrew as a feed</title>
  <description>This is a feed of recent MorningBrew articles published by Huginn</description>
- <link>https://www.morningbrew.com/daily/2023/05/09</link>
- <lastBuildDate>Tue, 09 May 2023 06:53:58 -0700</lastBuildDate>
- <pubDate>Tue, 09 May 2023 06:53:58 -0700</pubDate>
+ <link>https://www.morningbrew.com/daily/2023/12/03</link>
+ <lastBuildDate>Sun, 03 Dec 2023 14:02:43 -0800</lastBuildDate>
+ <pubDate>Sun, 03 Dec 2023 14:02:43 -0800</pubDate>
  <ttl>60</ttl>
  <item>
   <title>‘Quiet luxury’ is fashion’s biggest trend</title>
